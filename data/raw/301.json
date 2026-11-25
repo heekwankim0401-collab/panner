@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
+    "core": "I dont know how the add-on system works in Godot but I wouldn't guess that this would work within that system.",
     "format": "legacy",
-    "workaround": "No. There might be some work around in the future once arrays are added to Godots' shader program [#10751](https://github.com/godotengine/godot/issues/10751)\n\n**Is there a reason why this should be core and not an add-on in the asset library?:** I dont know how the add-on system works in Godot but I wouldn't guess that this would work within that system."
+    "workaround": "No. There might be some work around in the future once arrays are added to Godots' shader program [#10751](https://github.com/godotengine/godot/issues/10751)"
   },
   "assignees": 1,
   "closedAt": "2020-02-11T18:58:42Z",

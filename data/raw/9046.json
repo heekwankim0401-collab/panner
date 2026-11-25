@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "This is for the built-in AnimationTree's StateMachine editor.",
+    "format": "form",
+    "workaround": "This is a quality of life proposal. \nWhile it can always be done manually by reconstructing everything, this is meant to save time should these situations happen."
   },
   "assignees": 0,
   "closedAt": null,

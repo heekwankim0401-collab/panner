@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "Kinematic bodies are an essential part of the engine, by implementing this into the engine itself, it allows people to start making more complex and flexible movement systems out of the box without the need to implement workarounds and reinvent the wheel.",
+    "format": "legacy",
+    "workaround": "It can certainly be worked around, though those workarounds range from mildly annoying to completely rewriting movement logic. I do feel many people would get a lot of use out of this, however."
   },
   "assignees": 0,
   "closedAt": "2022-09-23T01:16:44Z",

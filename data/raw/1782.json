@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "It is a fundamental change to a built-in node.",
+    "format": "legacy",
+    "workaround": "Anyone who uses the HTTPRequest node would be using this constantly, and if there's a simple workaround, I'm not aware of it."
   },
   "assignees": 0,
   "closedAt": "2021-07-23T18:14:53Z",

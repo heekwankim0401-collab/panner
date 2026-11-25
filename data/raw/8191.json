@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "I make this proposal here because csharp code is in core/the godot main repository.",
+    "format": "form",
+    "workaround": "If users are not using Godot_mono, or in future don't have the csharp GDExtension enabled, generating bindings can be skipped."
   },
   "assignees": 0,
   "closedAt": null,

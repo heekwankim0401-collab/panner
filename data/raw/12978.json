@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "Bypassing `MultiMesh` via a custom RD solution also bypasses SDFGI, VoxelGI and the clustered forward renderer. `GPUParticles` already has this via `Texture2DRD` — this brings `MultiMesh` to parity. The `use_indirect` path (#99455) already established the pattern, this just extends it.\n\nEdit: Thanks to @rschyboll for identifying the use_indirect gap and the LOD use case in the comments.",
+    "format": "form",
+    "workaround": "No. Buffer binding happens at the native level. Workarounds are either GPU→GPU copies or redundant compute passes — neither acceptable at scale."
   },
   "assignees": 0,
   "closedAt": "2026-11-07T20:27:12Z",

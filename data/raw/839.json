@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "Because I think that adding z ordering for Control Nodes can be helpful in many ways (not only in dialogs) and many people seem to have problems with it.\n\n\nHere is a discussion about it. I've tried it with those possible solutions but it didn't work either way.\nhttps://github.com/godotengine/godot/issues/7692",
+    "format": "legacy",
+    "workaround": "I don't think so because it would be an enhancement to the core of control nodes and/or dialogs."
   },
   "assignees": 0,
   "closedAt": "2022-11-30T09:52:02Z",

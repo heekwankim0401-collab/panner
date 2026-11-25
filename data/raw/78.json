@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "Same as the script answer.",
+    "format": "legacy",
+    "workaround": "I don't believe Godot lets you create projects from a script. A script could create the project.godot file, but if anything changed in it's formatting, it would break in silly ways."
   },
   "assignees": 0,
   "closedAt": null,

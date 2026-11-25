@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "It's a small change that doesn't break backwards compatibility, and makes the editor easier to understand and use.",
+    "format": "legacy",
+    "workaround": "No, this is an enhancement for the editor."
   },
   "assignees": 0,
   "closedAt": null,

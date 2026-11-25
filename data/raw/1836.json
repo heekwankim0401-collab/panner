@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "It would most likely need to change how the Bus and Send properties work, which I don't think is possible to do with addons.",
+    "format": "legacy",
+    "workaround": "No"
   },
   "assignees": 0,
   "closedAt": null,

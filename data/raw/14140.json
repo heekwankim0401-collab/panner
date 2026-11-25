@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "Yes.\n\n1. **Performance**: Iterating over the entire scene tree to collect persistent properties needs to be fast. Doing this in C++ with direct access to object internals (`PROPERTY_USAGE_PERSISTENCE` flag) is significantly faster than a GDScript addon iterating via reflection.\n2. **Reliability**: Save systems are critical infrastructure. They require deep integration with `ResourceLoader`/`Saver` to handle sub-resources, dependencies, and atomic writes correctly.\n3. **Standardization**: This lowers the barrier to entry for beginners significantly. Just as Godot provides `HighLevelMultiplayer`, providing `HighLevelPersistence` makes the engine much more complete for actual game production.",
+    "format": "form",
+    "workaround": "It can be worked around, but not with \"a few lines\". It requires writing a full serialization framework, thread management for async I/O to avoid lag spikes, and robust error handling. Almost every serious project ends up writing their own version of this, leading to massive community duplication of effort and often sub-par, buggy implementations."
   },
   "assignees": 0,
   "closedAt": null,

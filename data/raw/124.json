@@ -2,7 +2,7 @@
   "answers": {
     "core": "It is very difficult, nigh impossible, to modify New Node Wizard from within the Editor by a plugin. Theoretically, it _could_ be done, but it's too difficult (for me). And no, I can not implement this myself, because I don't understand how Godot works under the hood.",
     "format": "legacy",
-    "workaround": null
+    "workaround": "No"
   },
   "assignees": 0,
   "closedAt": null,

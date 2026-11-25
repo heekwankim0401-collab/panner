@@ -2,7 +2,7 @@
   "answers": {
     "core": "1st: This is a feature that can be implemented **only** in the core because there is no gd-script that could handly this. \n2nd: This feature can be tricked with code but still on cost of performance - this may work in a low poly game but never in a grafically intense game. It can only be changed in the core of Godot.",
     "format": "legacy",
-    "workaround": null
+    "workaround": "No!! As you can see in the video example, there is a way around, but it drops the performance in a small scene dramatically."
   },
   "assignees": 0,
   "closedAt": "2020-04-14T13:06:40Z",

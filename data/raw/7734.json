@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "See above",
+    "format": "form",
+    "workaround": "Parts of this could be solved with an editor plugin. The UI part is not part of this proposal for this reason. \n\nThe minimum that cannot be a plugin is an officially enforced way for plugin license information. \n\nCollecting the license information and providing it to the developer could also be a plugin, but it would require some hacks on the plugin side to keep the `.cfg` files or cache their content. An official solution with access to `.godot` seems better in place here."
   },
   "assignees": 0,
   "closedAt": null,

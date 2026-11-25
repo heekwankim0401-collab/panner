@@ -1,6 +1,6 @@
 {
   "answers": {
-    "core": "This improves how the users can interact with Godot's built-in scene changing and scene loading process.\nIt allows users to work better with the editor's \"run specific scene\" feature.\n```[tasklist]",
+    "core": "This improves how the users can interact with Godot's built-in scene changing and scene loading process.\nIt allows users to work better with the editor's \"run specific scene\" feature.\n```[tasklist]\n### Tasks\n```",
     "format": "form",
     "workaround": "No, there's no callback when the new `current_scene` is adding or added. Only a generic `node_added` signal is present."
   },

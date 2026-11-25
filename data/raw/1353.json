@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "The default behavior of C# classes in godot should be analogous to compiled/static class behavior, not scripting/dynamic class behavior. Also, my IDE is giving warnings for this as I don't want to use underscript variables (so the GDScript developers know not to touch) and I do want to be able to use auto-properties.",
+    "format": "legacy",
+    "workaround": "I will be using this enhancement for every C# class I make. I can only kind of work around it as you see above. It's still not private since _size can still be modified whenever / wherever."
   },
   "assignees": 0,
   "closedAt": null,

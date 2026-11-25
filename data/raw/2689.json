@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "It's technically possible for this to be handled as an add-on... but I don't think this would work too well as just an add-on. Plus, even if 90% of Godot games might not implement modding, this could make modding much more flexible for the other 10%.",
+    "format": "markdown",
+    "workaround": "No, not really. The limitations I described in the \"Describe the problem or limitation you are having in your project\" section are not really possible to overcome through GDScript."
   },
   "assignees": 0,
   "closedAt": null,

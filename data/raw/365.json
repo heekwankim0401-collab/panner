@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "It would require re-implementing everything extending from BaseButton, reconstructing all the Buttons as new assets isn't practical for such a minor issue.",
+    "format": "legacy",
+    "workaround": "Yes, its massively trivial as far as issues go, its just a matter of convenience in editor so I need not manage it, I'd just rather clean up my code and make it easier to see from the editor."
   },
   "assignees": 0,
   "closedAt": "2022-11-02T16:40:47Z",

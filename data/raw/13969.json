@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "The Vulkan device is created at a very early stage, where add-on or extension can't even have chance to modify it.",
+    "format": "form",
+    "workaround": "I don't think so."
   },
   "assignees": 0,
   "closedAt": null,

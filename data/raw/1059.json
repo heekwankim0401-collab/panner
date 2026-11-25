@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "It's a change to C# API.",
+    "format": "legacy",
+    "workaround": "Casting, as usual."
   },
   "assignees": 0,
   "closedAt": "2020-06-19T16:53:10Z",

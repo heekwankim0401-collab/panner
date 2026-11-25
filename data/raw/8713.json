@@ -1,6 +1,6 @@
 {
   "answers": {
-    "core": "Doesn't make sense as an add-on this is core stuff.\n```[tasklist]",
+    "core": "Doesn't make sense as an add-on this is core stuff.\n```[tasklist]\n### Tasks\n- [ ] Fix crash bug when user presses down on empty searchbar (doesn't happen when pressing up arrow)\n- [ ] Clear selected_properties dictionary when user cancels or hits x to close properties window\n```",
     "format": "form",
     "workaround": "It would be used all the time, at the very least by me. It can currently be worked around but its tedious having to add each property one by one."
   },

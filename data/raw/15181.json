@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "Yes. The change requires access to Forward+ render-list classification, framebuffer attachments, spatial shader variants, and the engine-owned previous/current transform data. An add-on cannot safely insert per-material velocity writes into the built-in transparent draw pass. Keeping the option in core also lets TAA, temporal upscalers, the motion-vector debug view, and compositor effects share one documented behavior.\n\n\n---\n_Filed with AI-agent assistance under this account; the diagnosis and the zero-engine workaround referenced were verified on Godot 4.7-stable (Forward+, Metal). Happy to iterate on scope._",
+    "format": "form",
+    "workaround": "No. Scripts and compositor effects can read the engine motion-vector texture, but they cannot make a transparent spatial draw write the correct per-pixel previous/current clip-space motion into that texture. A project can make a material opaque or fake speed with trails/stretching, but those approaches change the look and do not solve the general transparent temporal-reprojection problem."
   },
   "assignees": 0,
   "closedAt": "2026-07-14T18:04:58Z",

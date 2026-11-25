@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "Imo this clearly belongs in core. Having strong build target/export preset configuration options is an essential tool in any professional-grade engine (which Godot clearly is), it shouldn't fall to 3rd party tools to fill that gap.\n\nAn editor plugin _could_ be used to workaround this by providing a custom build config UI to the existing export preset config data while augmenting it. However at that point it seems clear that it should just be part of the export presets.\n\n### EditorExportPlugin\nAt first glance this seems to be a good fit for `EditorExportPlugin`, by editing project config files in `_export_begin`.\n\nHowever the API for `EditorExportPlugin` doesn't seem to have a way to get the ID/name of the export preset used to trigger the export, only the underlying OS platform. As discussed above, this is insufficient differentiation in some very common situations that require multiple export presets per \"target platform\", and multiple \"target platforms\" per \"OS platform\".",
+    "format": "form",
+    "workaround": "It would be used anywhere from zero times per day to dozens of times per day.\nThere is no workaround that isn't a significant time & cost sink and error prone."
   },
   "assignees": 0,
   "closedAt": null,

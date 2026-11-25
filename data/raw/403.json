@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "Not possible and it is a very common typing issue I find working with GodotSharp.",
+    "format": "legacy",
+    "workaround": "No, its about reducing verbosity specifically and easing casting generally across the whole of GodotSharp given the prevalence of Godot Collection types which can broadly be associated with `System.Collections.List` and `System.Collections.Dictionary` and their generic versions."
   },
   "assignees": 0,
   "closedAt": null,

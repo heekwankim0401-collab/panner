@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "I don't believe it really can be done as an add-on, least not efficiently, its an automated oversight for how Focus is implemented in engine in my opinion.\n\nEdit: It seems there is a manner of doing so, but it sounds more like a hack then intended, setting the Focus Next, Prev, and Neighbors to the path of `'.'` which I suppose works fine, but it be nice to be able to more directly disable this functionality in editor.",
+    "format": "legacy",
+    "workaround": "No, the only alternative is disabling the focus altogether, which for inputs is useless. (and thanks to godotengine/godot#35045 its impossible with RichTextLabel having `selection_enabled`)"
   },
   "assignees": 0,
   "closedAt": null,

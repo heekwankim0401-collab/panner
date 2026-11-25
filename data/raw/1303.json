@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "`find_node` is an existing core API.",
+    "format": "legacy",
+    "workaround": "Yes, it can be worked around with `get_node`, which is an argument in favor of this proposal of removing `find_node`."
   },
   "assignees": 0,
   "closedAt": "2021-07-30T17:31:43Z",

@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "This is already core for other servers, the feature is just missing in `PhysicsServer`. But I want to also emphasize on the resource creation case, which is the original reason why I bumped into this.\nBut it can technically be done with different physics engines once GDExtension gets an API to implement physics servers. Point being, it should not be something Godot implements on your behalf (and if so, must be an optional last resort).",
+    "format": "markdown",
+    "workaround": "I already had a workaround so far by doing everything on the main thread. It limits performance  dramatically and complexifies the code because I have to scatter away the collider part and maintain a timed queue with the data myself. In many cases you can see terrain parts loading and you have to wait a while for those on the main thread, before you can start moving around and edit."
   },
   "assignees": 0,
   "closedAt": null,

@@ -1,8 +1,8 @@
 {
   "answers": {
     "core": null,
-    "format": "unknown",
-    "workaround": null
+    "format": "markdown",
+    "workaround": "I am very certain these features belong in the main engine for the reasons I described above. I assume they will be used very often and that not enough of the physics engine is exposed to GDScript make SeparationBoxShape in any elegant fashion."
   },
   "assignees": 0,
   "closedAt": null,

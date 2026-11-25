@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "The core already has drop_files(files: PoolByteArray, screen: int), there should be a reverse feature where files can be dropped onto the os file manager.",
+    "format": "markdown",
+    "workaround": "No, it cannot be worked around with a few lines of script."
   },
   "assignees": 0,
   "closedAt": null,

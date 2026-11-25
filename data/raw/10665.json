@@ -1,6 +1,6 @@
 {
   "answers": {
-    "core": "AFAIK cannot be created as an addon.\n```[tasklist]",
+    "core": "AFAIK cannot be created as an addon.\n```[tasklist]\n### Tasks\n- [ ] Enum constants from enums\n- [ ] Class name for objects\n- [ ] `true` and `false` for bool\n- [ ] Reorder properties and methods according to type\n```",
     "format": "form",
     "workaround": "Used all the time, core editor functionality."
   },

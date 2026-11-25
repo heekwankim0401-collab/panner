@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "This is INCREDIBLY useful for EVERYONE including for the people who develop the editor themselves. The consumer AND the developer can benefit greatly from this.",
+    "format": "form",
+    "workaround": "I think this enhancement will be used more often, but incase it is not, you can add a bool property to either `InputKeyEvent` or something else titled \"Prefer Symbols\" or whatever which toggles that single if-statement."
   },
   "assignees": 0,
   "closedAt": "2025-01-14T14:42:16Z",

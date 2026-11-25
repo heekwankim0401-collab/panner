@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "This is effectively to make building add-ons easier.",
+    "format": "legacy",
+    "workaround": "Not easily.  Seems the only way to do it is to generate a temporary collision and do a raycast or loop through every triangle and do a manual collision detection."
   },
   "assignees": 0,
   "closedAt": null,

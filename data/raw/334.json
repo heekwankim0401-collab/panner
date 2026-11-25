@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "To my **subjective** opinion, I don't undrestand why we have `weight_scale` instead  of custom distance. Custom distance easily workaround weight_scale but weight_scale cannot fix different distances in the from or to the same points.\n`weight_scale` had far fewer usecase than custom distance. Example are the pictures I shown above, diagonal movement and point to point movement. (that point to point movement can be used for world_map pathfinding. World map is set of areas in which distance between area to area is different)\n\nThank you for reading this far. It's alot of text.\nI apologize for any unpleasant words. If there is any mistake/misunderstanding, I would like to hear it.",
+    "format": "markdown",
+    "workaround": "No. It can be workarounded but definitely not with just few lines of code.\nWhat I can think of is adding an \"inbetween node\" for connections that had extra distance. Then everytime we call `get_point_path()` we will need to check if there is \"inbetween node\" then remove them. Of course that also means we will have list of which one is regular point and which one is inbetween."
   },
   "assignees": 0,
   "closedAt": null,

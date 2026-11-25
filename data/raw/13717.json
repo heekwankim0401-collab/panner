@@ -1,8 +1,8 @@
 {
   "answers": {
     "core": null,
-    "format": "unknown",
-    "workaround": null
+    "format": "form",
+    "workaround": "**No, not practically.**\n\n### Why Script Workaround Is Insufficient:\n\n1. **Performance:** Would need to calculate velocities, energies, and coherence metrics every frame in GDScript for every character. For 10 characters × 50 bones × 60 fps = 30,000 calculations/second in interpreted language.\n\n2. **Complexity:** Requires biomechanics knowledge (mass estimation, energy flow analysis) that most developers don't have. Getting the thresholds wrong produces useless results.\n\n3. **Maintenance:** Any improvements to the algorithm would need to be manually copied across projects.\n\n4. **Skeleton API Access:** Requires accessing bone global poses, parent relationships, rest transforms, and children indices efficiently - C++ has better access.\n\n### Example of What Script Version Looks Like:\n\n```gdscript\n# This is ~100 lines of GDScript, runs every frame, per character\nfunc analyze_movement(skeleton, current, previous, delta):\n    var velocities = []\n    for i in skeleton.get_bone_count():\n        var v = (current[i].origin - previous[i].origin).length() / delta\n        velocities.append(v)\n\n    var active = []\n    for i in velocities.size():\n        if velocities[i] > threshold:\n            active.append(i)\n\n    # Now implement mass estimation...\n    # Now implement coherence calculation...\n    # Now implement gap penalty...\n    # This gets complex fast\n```\n\n**Conclusion:** While technically possible, it's analogous to implementing AStar or NavigationAgent in script - theoretically possible but impractical for real-world use."
   },
   "assignees": 0,
   "closedAt": "2025-12-02T01:19:27Z",

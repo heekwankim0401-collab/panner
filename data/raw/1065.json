@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "I pretty much don't know how to extend GDScript functionality, and I am not really sure if this possibility even exists.",
+    "format": "legacy",
+    "workaround": "When I posted this to Godot Q&A instead of this _on accident_, I was answered that I could make my code look like this:\n```\nvar bomb_chance  := 0.2\nvar lock_chance  := bomb_chance  + 0.1\nvar coin_chance  := lock_chance  + 0.1\nvar gem_chance   := coin_chance  + 0.1\nvar blind_chance := gem_chance   + 0.1\nvar timer_chance := blind_chance + 0.1\n\nvar type_chance := rand_range(0, 1)\n\nif type_chance <= bomb_chance:\n    bubble.type = 1\nelif type_chance <= lock_chance:\n    bubble.type = 2\nelif type_chance <= coin_chance:\n    bubble.type = 3\nelif type_chance <= gem_chance:\n    bubble.type = 4\nelif type_chance <= blind_chance:\n    bubble.type = 5\nelif type_chance <= timer_chance:\n    bubble.type = 6\n```"
   },
   "assignees": 0,
   "closedAt": "2026-08-30T14:12:29Z",

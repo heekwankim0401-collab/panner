@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "It's a low level feature that likely should be part of the physics engine.\n\nUnity calls this a \"Fixed Joint\", so maybe that is the naming scheme we should follow, but \"glue\" seemed more descriptive to me.",
+    "format": "legacy",
+    "workaround": "It can be approximated by creating two PinJoint2D with different positions or three PinJoint (3d) with different translations. However, a single \"joint\" is a cleaner, hopefully less buggy, approach."
   },
   "assignees": 0,
   "closedAt": null,

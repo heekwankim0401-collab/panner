@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "Yes, because it would be part of GDScript.",
+    "format": "legacy",
+    "workaround": "The only option is to not use static typing if you need the variable to be nullable."
   },
   "assignees": 0,
   "closedAt": null,

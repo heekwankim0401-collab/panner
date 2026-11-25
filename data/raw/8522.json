@@ -1,6 +1,6 @@
 {
   "answers": {
-    "core": "This is about improving the interface between gdscript and gdext. If I build a scene in gdext via code. I should be able to ~~see the scene when the class is extended in an editor tool scene.~~ differentiate which child nodes where added by the parent class and which ones were manually added via the scene editor\n```[tasklist]",
+    "core": "This is about improving the interface between gdscript and gdext. If I build a scene in gdext via code. I should be able to ~~see the scene when the class is extended in an editor tool scene.~~ differentiate which child nodes where added by the parent class and which ones were manually added via the scene editor\n```[tasklist]\n### Tasks\n```",
     "format": "form",
     "workaround": "I don't think this is possible without an engine/editor enhancement"
   },

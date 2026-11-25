@@ -1,8 +1,8 @@
 {
   "answers": {
-    "core": null,
-    "format": "unknown",
-    "workaround": null
+    "core": "I'd either have to rewrite the ItemList object to achieve this, or manually handle the list with a separate function, there is currently no manner to get ItemList to sort in any way other then based on the text itself.",
+    "format": "legacy",
+    "workaround": "Not exactly, but its not hard to workaround, but I think this case I am forced to write inefficiently. While its not a large priority in any respect, I do think its better to give the capability to the developer on controling how the ItemList looks after its been created. (without resorting to manipulating the individual items bit by bit)"
   },
   "assignees": 0,
   "closedAt": "2024-01-05T09:04:54Z",

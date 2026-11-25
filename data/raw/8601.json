@@ -1,6 +1,6 @@
 {
   "answers": {
-    "core": "This enhancement addresses a core functionality of the Godot engine - the loading and processing of 3D assets. Its implementation will improve the efficiency of the engine's asset loading pipeline, making it a core enhancement rather than an optional add-on.\n\n```[tasklist]",
+    "core": "This enhancement addresses a core functionality of the Godot engine - the loading and processing of 3D assets. Its implementation will improve the efficiency of the engine's asset loading pipeline, making it a core enhancement rather than an optional add-on.\n\n```[tasklist]\n### Tasks\n- [ ] Switch the obj importer to use SurfaceTool::generate_tangents(). Migrate the code from the MikkSpace patch that is stuck.\n```",
     "format": "form",
     "workaround": "This is an enhancement that cannot be replicated with a script workaround due to its integration with the asset loading pipeline. It's a change that will benefit projects using 3D assets."
   },
