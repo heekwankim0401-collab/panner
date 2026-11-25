@@ -11,7 +11,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
 
 ## 1주차
 
-- [ ] **T0 [사람] 사전 확인**
+- [x] **T0 [사람] 사전 확인**
     - 기존 제안 뷰어(https://godot-proposals-viewer.github.io/)를 실제 화면에서 열어 archived 제안이나 애드온 가능성 필터가 있는지 본다(페이지 문구로는 열린 제안만 다룸).
     - GitHub, 고도 포럼, 레딧에서 비슷한 도구를 검색한다.
     - 완료 조건: 겹치는 도구가 없으면 진행. 있으면 그 도구에 기여하는 쪽으로 계획을 바꾼다. 결과를 `docs/DECISIONS.md`에 한 줄로 남긴다.

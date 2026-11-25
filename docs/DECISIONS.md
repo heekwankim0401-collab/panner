@@ -54,3 +54,12 @@
 - 2026-11-25: `index.json`의 `labels` 사전은 이름순 — 같은 입력이면 같은 바이트여야 한다.
 - 2026-11-25: `Feasibility`와 `Evidence`는 `types.ts`에 두고 `classify.ts`가 다시 내보낸다. SPEC 3장의 "4.4장"은 4.3장의 오타였다.
 - 2026-11-25: 화면용 `index.json`의 `up`(갱신일)은 `RawProposal.up`(👍 수)과 이름이 겹치지만 사양대로 두고, 주석으로 구분한다.
+
+## T0 사전 확인 (2026-11-25)
+
+- 2026-11-25: 겹치는 도구가 없어 계획대로 진행한다.
+  - godot-proposals-viewer(https://godot-proposals-viewer.github.io/)는 열린 제안만 다룬다. `build.py`가 open 제안만 받고, 화면에도 "open proposals"라고 나온다.
+  - 그 뷰어의 필터는 라벨 하나, 기간, 개수, 정렬(인기·추천·최신 등)뿐이다. archived 제안 보기나 애드온 가능성 분류는 없다.
+  - 그 저장소의 이슈와 PR에도 archived 관련 요청이 없다("archived" 검색 결과 0건).
+  - GitHub에서 저장소를 "godot proposals"로 검색한 결과(16건)와 고도 포럼에서도 비슷한 도구는 없었다. 개별 제안을 플러그인으로 만든 저장소(예: SheepCommander/gd-SoloVisibility)만 있었다.
+  - 레딧은 웹 검색과 브라우저 모두에서 막혀 확인하지 못했다.
