@@ -58,7 +58,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - `pipeline/score.ts`(상태 판정은 T5에서 만든 함수를 쓴다), `pipeline/build-data.ts` 완성.
     - 완료 조건: 상태 판정 표의 모든 행, wAddon 모든 값, 소수 둘째 자리까지 반올림에 대한 테스트 통과. `npm run build:data`가 `index.json`과 `detail/*.json`을 들여쓰기 없이 만들고 크기와 분류 분포를 출력.
 
-- [ ] **T8 정밀도 도구** (SPEC 9, 10장)
+- [x] **T8 정밀도 도구** (SPEC 9, 10장)
     - 기본 화면의 필터·정렬 함수를 `web/src/filter.ts`에 먼저 만든다(SPEC 9장 규칙 그대로). `label.ts`, `eval.ts`는 이 함수로 상위 30개를 구한다. T11은 이 함수를 이어서 쓴다.
     - `pipeline/label.ts`, `pipeline/eval.ts`.
     - 완료 조건: 상위 30개 선정, 정밀도 계산(`skip`은 분모에서 제외), 종료 코드(0/1/2, yes + no가 0이면 2)를 작은 가짜 데이터로 테스트. `npm run check` 통과.
