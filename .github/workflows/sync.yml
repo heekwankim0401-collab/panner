@@ -1,4 +1,5 @@
 # SPEC 11장: 매주 전체 수집 → 검사·빌드 → data/ 변경 커밋 → GitHub Pages 배포. 수동 실행도 된다.
+# 사이트: https://heekwankim0401-collab.github.io/panner/
 # 화면만 고쳐서 바로 반영하려면 이 워크플로를 수동 실행한다(Actions 탭 → Weekly sync → Run workflow).
 # 공개 저장소의 예약 워크플로는 저장소에 60일 동안 활동이 없으면 꺼질 수 있다(README 참고).
 name: Weekly sync
