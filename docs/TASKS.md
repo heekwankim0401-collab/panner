@@ -75,7 +75,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - 목록, 필터, 정렬, 페이지, 상세, URL 상태, 한계 안내.
     - 완료 조건: `filter.ts`, `url.ts` 테스트(기본값 생략, `f=all`, 쉼표로 이은 다중 값, `lb`는 라벨 이름, 라벨 OR, 필터 변경 시 1페이지, 왕복 변환) 통과, `npm run build` 성공. 화면 확인은 `/verify`나 브라우저 도구로 한다: 기본 화면이 뜬다, 필터를 바꾸고 새로고침해도 유지된다, 상세가 펼쳐진다. 그런 도구를 쓸 수 없으면 이 세 가지를 사람에게 확인 요청하고 멈춘다.
 
-- [ ] **T12 워크플로** (SPEC 11장)
+- [x] **T12 워크플로** (SPEC 11장)
     - `.github/workflows/ci.yml`, `.github/workflows/sync.yml`.
     - 완료 조건: `actionlint`가 있으면 통과. 없으면 YAML 파싱 결과와 SPEC 11장 항목별 대조표를 보여준다.
 

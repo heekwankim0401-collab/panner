@@ -1,0 +1,23 @@
+# SPEC 11장: push와 pull_request마다 타입 검사·테스트와 화면 빌드를 돌린다. 배포는 하지 않는다(배포는 sync.yml에서만).
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - run: npm run build

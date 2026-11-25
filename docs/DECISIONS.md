@@ -182,6 +182,25 @@
   - real-markdown-1874: `##` 제목과 `###` 소제목
   - real-form-2927: `##` 제목, 코드 블록, C 질문만 있음
 
+## T12 워크플로 (2026-11-26)
+
+- 2026-11-26: 액션 버전은 작성 시점의 최신 메이저다(GitHub 릴리스 페이지에서 확인): `actions/checkout@v7`, `actions/setup-node@v7`, `actions/upload-pages-artifact@v5`, `actions/deploy-pages@v5`. 릴리스 노트에 이 워크플로에 영향을 주는 변경은 없었다.
+- 2026-11-26: CI의 Node는 24다 — 로컬 개발 환경(v24.20)과 맞췄다. SPEC 2장의 "Node 22 이상 LTS"를 만족한다. `setup-node`의 `cache: npm`으로 의존성을 캐시한다.
+- 2026-11-26: 권한
+  - `sync.yml`은 워크플로 전체를 `permissions: {}`로 막는다. 그다음 sync job에는 `contents: write`, deploy job에는 `pages: write`, `id-token: write`만 준다.
+  - `ci.yml`은 `contents: read`만 준다.
+- 2026-11-26: `sync.yml`의 실행 설정
+  - `concurrency: weekly-sync`로 수집과 배포가 겹치지 않게 했다(진행 중인 실행은 취소하지 않음).
+  - 시간 제한은 sync 60분, deploy 10분이다.
+  - 커밋은 `github-actions[bot]` 이름으로 하고, `git add data`만 한다(`data/bodies`는 gitignore).
+  - 기본 토큰으로 push하면 다른 워크플로가 실행되지 않으므로, 봇 커밋이 CI를 다시 돌리지 않는다.
+- 2026-11-26: Pages 설정 단계(`configure-pages`)는 넣지 않았다. Vite `base: './'`라 경로를 따로 맞출 필요가 없다. 대신 저장소 설정에서 Pages 소스를 "GitHub Actions"로 바꾸는 일은 사람이 한다(T13).
+- 2026-11-26: 검증
+  - `actionlint`와 YAML 파서가 이 PC에 없어서, 외부 도구를 내려받지 않고 확인했다.
+  - 두 파일에 쓰인 문법만 읽는 간이 파서(`local/yaml-mini.ts`, 커밋하지 않음)로 구조를 뽑았다.
+  - 그 결과를 SPEC 11장 14개 항목과 자동 대조해 모두 맞았다. 커밋 단계 셸 스크립트는 `bash -n`을 통과했다.
+  - 정식 문법 검증은 처음 push할 때 GitHub가 한다(T13).
+
 ## T11 화면 (2026-11-26)
 
 - 2026-11-26: URL 규칙(`web/src/url.ts`)

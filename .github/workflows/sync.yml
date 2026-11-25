@@ -1,0 +1,67 @@
+# SPEC 11장: 매주 전체 수집 → 검사·빌드 → data/ 변경 커밋 → GitHub Pages 배포. 수동 실행도 된다.
+# 화면만 고쳐서 바로 반영하려면 이 워크플로를 수동 실행한다(Actions 탭 → Weekly sync → Run workflow).
+# 공개 저장소의 예약 워크플로는 저장소에 60일 동안 활동이 없으면 꺼질 수 있다(README 참고).
+name: Weekly sync
+
+on:
+  schedule:
+    # 매주 월요일 03:17 KST = 일요일 18:17 UTC. 정각은 실행이 밀리기 쉬워서 17분으로 둔다.
+    - cron: "17 18 * * 0"
+  workflow_dispatch:
+
+# 권한은 job마다 필요한 것만 준다.
+permissions: {}
+
+# 수집과 배포가 겹치지 않게 한 번에 하나씩 돌린다(진행 중인 것은 취소하지 않는다).
+concurrency:
+  group: weekly-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write # data/ 커밋을 push한다
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Sync proposals (read-only GitHub GraphQL)
+        run: npm run sync
+        env:
+          # PANNER_TOKEN 시크릿이 있으면 그것, 없으면 Actions 기본 토큰(공개 저장소 읽기면 충분)
+          GITHUB_TOKEN: ${{ secrets.PANNER_TOKEN || github.token }}
+      - run: npm run check
+      - run: npm run build
+      - name: Commit data changes
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "data: weekly sync"
+            git push
+          fi
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    needs: sync
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
