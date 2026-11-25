@@ -85,6 +85,69 @@ describe("extractAnswers rules", () => {
     expect(extractAnswers(body).workaround).toBe("**Yes**, easily: a plugin.");
   });
 
+  it("rule 1: accepts question headings of any level from # to ######", () => {
+    for (const hashes of ["#", "##", "####", "######"]) {
+      expect(extractAnswers(`${hashes} ${W}\nYes.\n${hashes} ${C}\nNo.`), hashes).toEqual({
+        workaround: "Yes.",
+        core: "No.",
+        format: "form",
+      });
+    }
+  });
+
+  it("rule 1: an answer ends only at the next heading of the same level", () => {
+    const body = `### ${W}\nSee below.\n## Workaround 1\nA plugin.\n# Workaround 2\nA script.\n### ${C}\nNo.`;
+    expect(extractAnswers(body)).toEqual({
+      workaround: "See below.\n## Workaround 1\nA plugin.\n# Workaround 2\nA script.",
+      core: "No.",
+      format: "form",
+    });
+  });
+
+  it("rule 1: ignores headings inside fenced code blocks (``` and ~~~)", () => {
+    const body = `### ${W}\n\`\`\`gdscript\n### not a heading\n# a comment\n\`\`\`\n~~~\n### also code\n~~~\nAfter.\n### ${C}\nNo.`;
+    expect(extractAnswers(body).workaround).toBe(
+      "```gdscript\n### not a heading\n# a comment\n```\n~~~\n### also code\n~~~\nAfter.",
+    );
+  });
+
+  it("rule 1: a line with ```inline``` code does not open a fenced block", () => {
+    const body = `### ${W}\n\`\`\`@export_tool_button("Go")\`\`\`\n### ${C}\nNo.`;
+    expect(extractAnswers(body)).toEqual({ workaround: '```@export_tool_button("Go")```', core: "No.", format: "form" });
+  });
+
+  it("rule 1: question headings still count inside a fence that never closes properly", () => {
+    const body = `### ${W}\nYes.\n\`\`\`gdscript\nx = 1\n\`\`\`markdown\n### ${C}\nNo.`;
+    expect(extractAnswers(body)).toEqual({
+      workaround: "Yes.\n```gdscript\nx = 1\n```markdown",
+      core: "No.",
+      format: "form",
+    });
+  });
+
+  it("rule 2: new form headings of other levels are still the new form", () => {
+    expect(extractAnswers("## Problem or limitation\n\nSlow.\n\n## Proposed improvement\n\nFaster.").format).toBe("form2026");
+  });
+
+  it("rule 3: takes an answer written on the same line as a bold question", () => {
+    const body = `**Describe the project you are working on:** A game.\n**${W}:** No, but a plugin could.\nMore detail.\n**${C}:** Yes.`;
+    expect(extractAnswers(body)).toEqual({
+      workaround: "No, but a plugin could.\nMore detail.",
+      core: "Yes.",
+      format: "legacy",
+    });
+  });
+
+  it("rule 3: accepts a colon outside the bold text or none at all", () => {
+    const W_BARE = W.slice(0, -1); // 물음표 없이
+    expect(extractAnswers(`**${W_BARE}**: No.\n**${C}**\nYes.`)).toEqual({ workaround: "No.", core: "Yes.", format: "legacy" });
+  });
+
+  it("rule 3: a bold label with text after it inside an answer is not a heading", () => {
+    const body = `**${W}:**\nYes.\n**Note:** a plugin already exists.\n**${C}:**\nNo.`;
+    expect(extractAnswers(body).workaround).toBe("Yes.\n**Note:** a plugin already exists.");
+  });
+
   it("rule 6: headings without the questions or the new form are unknown", () => {
     expect(extractAnswers("### Something else\n\ntext\n**Also not it:**\nmore")).toEqual({
       workaround: null,

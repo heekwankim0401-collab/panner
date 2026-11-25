@@ -10,12 +10,12 @@ describe("fixture helpers", () => {
     const names = loadFixtures().map((fixture) => fixture.name);
     expect(names).toEqual(listBodyFiles());
     expect(names).toEqual(Object.keys(loadExpected()).sort());
-    expect(names).toHaveLength(24); // 합성 14 + T5 실제 본문 10
+    expect(names).toHaveLength(27); // 합성 14 + 실제 본문 13 (T5 10 + 파서 확장 3)
   });
 
   it("keeps classification values out of real-* entries", () => {
     const real = loadFixtures().filter((fixture) => fixture.name.startsWith("real-"));
-    expect(real).toHaveLength(10);
+    expect(real).toHaveLength(13);
     for (const { name, expected } of real) {
       expect([expected.feasibility, expected.likely, expected.hard], name).toEqual([undefined, undefined, undefined]);
     }

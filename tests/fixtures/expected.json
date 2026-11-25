@@ -114,6 +114,11 @@
     "format": "form2026",
     "workaround": null
   },
+  "real-form-2927.md": {
+    "core": "This is part of the built-in regex module.",
+    "format": "form",
+    "workaround": null
+  },
   "real-legacy-1302.md": {
     "core": "It's a core feature.",
     "format": "legacy",
@@ -124,10 +129,20 @@
     "format": "legacy",
     "workaround": "Yes, but you would be sort of guessing when it's locked or not which can lead to some faulty code."
   },
+  "real-legacy-731.md": {
+    "core": "Because I should be able to delete variables without downloading something.",
+    "format": "legacy",
+    "workaround": "Functions like free() don't work on integers, strings, etc."
+  },
   "real-legacy-876.md": {
     "core": "Because it's a basic feature that would not change the engine but improve the UI",
     "format": "legacy",
     "workaround": null
+  },
+  "real-markdown-1874.md": {
+    "core": "Those proposals should not be part of the core, that's the point with this proposal.\n\nIf approved, I can work on this myself, I think it would require minimum core changes.",
+    "format": "form",
+    "workaround": "Things like #104, not possible."
   },
   "real-markdown-2194.md": {
     "core": "Should be core",
