@@ -42,7 +42,7 @@ panner/
     eval.ts         # 정밀도 계산 (10장)
   web/              # Vite 루트
     index.html
-    src/            # main.tsx, App.tsx, filter.ts, url.ts, styles.css, components/
+    src/            # main.tsx, App.tsx, filter.ts, url.ts, highlight.ts(근거 강조), details.ts(상세 캐시), labels.ts(UI 이름표), styles.css, components/
     public/data/    # 생성물, gitignore
   tests/
     fixtures/bodies/*.md     # 제안 본문 샘플

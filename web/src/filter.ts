@@ -23,6 +23,11 @@ export type FilterState = {
 
 export const PAGE_SIZE = 50;
 
+/** 화면과 URL에서 쓰는 순서 */
+export const FEASIBILITIES: readonly Feasibility[] = ["likely", "unclear", "hard", "noanswer"];
+export const STATUSES: readonly StatusFilter[] = ["open", "archived"];
+export const SORT_KEYS: readonly SortKey[] = ["score", "votes", "updated", "comments"];
+
 /** 기본 화면: feasibility=likely, 상태 전체, score 정렬 (SPEC 9장) */
 export const DEFAULT_FILTER: Readonly<FilterState> = Object.freeze<FilterState>({
   q: "",
@@ -33,6 +38,33 @@ export const DEFAULT_FILTER: Readonly<FilterState> = Object.freeze<FilterState>(
   sort: "score",
   p: 1,
 });
+
+/**
+ * 같은 뜻의 상태를 한 가지 모양으로 맞춘다: 목록은 정해진 순서로 중복 없이, 전부 고른 것은 빈 배열(= 필터 없음)로,
+ * 최소 추천 수는 0 이상의 정수로, 페이지는 1 이상의 정수로. URL이 한 가지로만 나오게 한다.
+ */
+export function normalizeFilter(state: FilterState): FilterState {
+  const ordered = <T>(chosen: readonly T[], all: readonly T[]): T[] => {
+    const picked = all.filter((value) => chosen.includes(value));
+    return picked.length === all.length ? [] : picked;
+  };
+  return {
+    q: state.q,
+    f: ordered(state.f, FEASIBILITIES),
+    st: ordered(state.st, STATUSES),
+    lb: [...new Set(state.lb)].sort(),
+    min: Number.isFinite(state.min) ? Math.max(0, Math.floor(state.min)) : 0,
+    sort: SORT_KEYS.includes(state.sort) ? state.sort : DEFAULT_FILTER.sort,
+    p: Number.isFinite(state.p) ? Math.max(1, Math.floor(state.p)) : 1,
+  };
+}
+
+/** 상태를 바꾼다. 필터나 정렬이 바뀌면 1페이지로 돌아간다(SPEC 9장). 페이지만 바꾸면 그 페이지로 간다. */
+export function applyChange(state: FilterState, change: Partial<FilterState>): FilterState {
+  const next = normalizeFilter({ ...state, ...change });
+  const onlyPage = Object.keys(change).every((key) => key === "p");
+  return onlyPage ? next : { ...next, p: 1 };
+}
 
 /** 필터끼리는 AND, 한 필터 안의 다중 선택은 OR. */
 export function filterItems(items: readonly IndexItem[], labels: readonly string[], state: FilterState): IndexItem[] {
