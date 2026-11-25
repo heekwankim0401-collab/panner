@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Workflow improvements to core lightmapper.",
+    "format": "form",
+    "workaround": "It cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-05-20T16:03:25Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9789,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve configuring LightmapGI quality/ray count",
+  "up": 3,
+  "updatedAt": "2024-05-21T16:45:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9789"
+}

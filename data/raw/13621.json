@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the built-in AnimationPlayer",
+    "format": "form",
+    "workaround": "We can use 0.001s instead"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-11-12T14:33:00Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 13621,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Animations to be 0 seconds long (instant)",
+  "up": 2,
+  "updatedAt": "2025-11-12T18:18:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13621"
+}

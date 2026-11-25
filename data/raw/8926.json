@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Rendering is core",
+    "format": "form",
+    "workaround": "You can imitate a sort of \"reflection probe static\" feature using layers, but this is very tedious. You have to 1) remove all layers from a probe's cull mask except the probe static layer, and 2) put your probe static meshes into the aforementioned layer.\n\nThis can get out of hand **very** quickly if you have lots of model assets. Did I forget to mention that models can have submeshes?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-01-21T10:46:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8926,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option for ReflectionProbes to only include meshes with static GI mode",
+  "up": 2,
+  "updatedAt": "2024-01-23T01:52:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8926"
+}

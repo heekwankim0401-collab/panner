@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement will be used very often and possibly in the future will be used to show project version on the project list and maybe even showing a warning about the possible incompatibilities.",
+    "format": "form",
+    "workaround": "This enhancement will be used very often."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-25T18:01:22Z",
+  "comments": 7,
+  "createdAt": "2022-04-06T10:12:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4355,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add engine version number to project.godot file",
+  "up": 25,
+  "updatedAt": "2022-08-25T18:01:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4355"
+}

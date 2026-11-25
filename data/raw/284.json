@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "One can not implement it as a script, since you can't access the the Translations as a whole.",
+    "format": "legacy",
+    "workaround": "Yes. See the script. It's about a workflow improvement."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-16T22:40:38Z",
+  "comments": 3,
+  "createdAt": "2019-12-04T22:30:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 284,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "UI Debugging: Longest Translationtext",
+  "up": 1,
+  "updatedAt": "2020-11-16T22:54:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/284"
+}

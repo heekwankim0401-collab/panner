@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it looks like a function that could be used very often and because it would make sense to have a converter for Vector2 as well (even Vector3, maybe).",
+    "format": "form",
+    "workaround": "Yes, it could."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-16T20:20:51Z",
+  "comments": 5,
+  "createdAt": "2022-01-15T19:11:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3803,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "add a str2vec2 function",
+  "up": 0,
+  "updatedAt": "2022-01-16T21:49:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3803"
+}

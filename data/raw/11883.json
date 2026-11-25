@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think it's necessary to complete the functionality of the node so that it works the best in the scenario for which it was added.",
+    "format": "form",
+    "workaround": "Multiple separation rays can be added but result is a mess and very annoying to work with scene tree."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-05T19:08:00Z",
+  "comments": 4,
+  "createdAt": "2025-03-01T14:51:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11883,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"thickness\" property to SeparationRay or implement SeparationShape",
+  "up": 0,
+  "updatedAt": "2025-03-05T22:49:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11883"
+}

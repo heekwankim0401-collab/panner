@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes, first class cpp support needs deep editor integration, scene attachment, property exports, signals, and live debugging. Implementing it as an add-on would be very very slow.",
+    "format": "form",
+    "workaround": "Probably not."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-08T23:08:51Z",
+  "comments": 1,
+  "createdAt": "2025-12-06T00:12:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 13796,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "first class godot cpp support",
+  "up": 3,
+  "updatedAt": "2025-12-08T23:08:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13796"
+}

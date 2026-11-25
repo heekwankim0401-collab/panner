@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core feature.",
+    "format": "form",
+    "workaround": "It is a core feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-09-05T21:01:48Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7610,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Allow AnimationPlayer.play(\"new_animation\") not to stop previous animation unrelated tracks.",
+  "up": 1,
+  "updatedAt": "2024-03-26T23:13:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7610"
+}

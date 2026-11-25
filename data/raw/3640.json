@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As the VehicleWheel is already in core it makes sense to add this improvement to core as well.",
+    "format": "form",
+    "workaround": "A workaround could be achieved with adding a RayCast to each wheel manually, but it seems redundant if there's one already in the VehicleWheel class."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-10T14:52:48Z",
+  "comments": 7,
+  "createdAt": "2021-12-07T12:37:19Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 3640,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Return collided object for VehicleWheel",
+  "up": 3,
+  "updatedAt": "2021-12-10T14:52:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3640"
+}

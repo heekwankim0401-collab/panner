@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This isn't practical at all and results in extra files when all of the sprites could be stored in a sprite sheet, which makes it very user unfriendly for developers who work with sprite sheets primarily. Adding this would improve the experience for developers who want to use 2D FX involving duplication drastically.",
+    "format": "form",
+    "workaround": "The only workaround I could find involves splitting up the sprite sheet individually and changing the texture manually depending on which frame is being displayed, or using an AnimatedSprite instead of a Sprite, which is also not ideal."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-13T11:32:57Z",
+  "comments": 1,
+  "createdAt": "2022-05-09T17:24:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4521,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use a single frame of a sprite sheet on a Sprite node as a texture for another node",
+  "up": 2,
+  "updatedAt": "2026-07-13T11:35:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4521"
+}

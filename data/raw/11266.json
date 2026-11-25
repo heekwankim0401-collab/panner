@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This change would allow scripts and add-ons to address both my issue and the issue cited in feature proposal #4782, and be a first step toward allowing them to address #3045.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-30T00:58:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11266,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow scripts to access and manually override reflection probe cubemaps",
+  "up": 2,
+  "updatedAt": "2024-11-30T15:07:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11266"
+}

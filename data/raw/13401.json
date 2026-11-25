@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It enhances interoperability between Blender and Godot",
+    "format": "form",
+    "workaround": "Currently, this can be worked around by manually connecting the height map in every imported material inside Godot or assigning a godot material to a gltf instanced scene, so this is a quality of life improvement"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-10-16T14:16:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13401,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatic Parallax Mapping Setup from Blender Materials via glTF Import",
+  "up": 0,
+  "updatedAt": "2025-10-16T21:32:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13401"
+}

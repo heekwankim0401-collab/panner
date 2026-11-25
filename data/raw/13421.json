@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This makes **ScrollContainer** easier for everyone, especially new users, right out of the box. It’s a small, core **UI** improvement, not something that needs an add-on.",
+    "format": "form",
+    "workaround": "You can use size flags or **GDScript** to adjust child positions, but it’s fiddly and not obvious. This feature makes it a quick Inspector tweak, which is much simpler."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-10-19T04:10:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13421,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Simple Horizontal and Vertical Content Alignment to ScrollContainer",
+  "up": 4,
+  "updatedAt": "2025-11-11T18:45:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13421"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, this are API changes which must be done in core.",
+    "format": "markdown",
+    "workaround": "I don't think it would be a frequently used feature, but it would make it possible to attach it to CI, where it would automatically respond to API changes.\n\nManually created project needs constant changes when someone add/remove/modify functions"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-02-24T17:26:24Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2344,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to get list of non objects (like String, Plane etc.) and its methods from GDScript",
+  "up": 5,
+  "updatedAt": "2021-05-25T06:17:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2344"
+}

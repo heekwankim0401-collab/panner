@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The anchor picker (panel) is part of core already.",
+    "format": "form",
+    "workaround": "It's used all the time with UI. Be it games or apps that Godot is being actively used for the development of"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-18T21:46:49Z",
+  "comments": 11,
+  "createdAt": "2021-11-17T05:31:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3559,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve anchor panel UI",
+  "up": 65,
+  "updatedAt": "2022-08-25T17:06:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3559"
+}

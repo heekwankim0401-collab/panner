@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "i've done this change to my own godot editor before, and it have been a simple yet very useful quality of life change, having to just hover over a item on the preview window to know the id o the mesh you want to use, saves a bunch of time, over having to open a meshlib file and search, all with a single line changed",
+    "format": "form",
+    "workaround": "to the honest, i've tried before going this route, it can be done with a editor , but being that a single line change, i dont see the reason why not\n(i dont have a full understand of godot's code, so it might be a bad idea and i dont know, if is that the case, sorry)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-18T07:53:51Z",
+  "comments": 3,
+  "createdAt": "2024-07-17T00:15:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10233,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show MeshLibrary item ID in the GridMap editor item labels",
+  "up": 1,
+  "updatedAt": "2024-07-18T07:54:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10233"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This need to be done in the gdscript parser.",
+    "format": "legacy",
+    "workaround": "The variable will be declared as mutable, and this is a bad practice for const variables.\n\nIn `globals.gd`\n`export var fish = \"tainha\"`\n\nIn a different script, someone crazy can do things like:\n\n`Globals.fish = \"cardoso\"`\n\nThe other alternative is to declare the variable with a `get` method without a possible `set`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2020-07-06T12:17:50Z",
+  "down": 2,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1165,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to export `const` variables in GDScript",
+  "up": 37,
+  "updatedAt": "2026-07-03T03:42:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1165"
+}

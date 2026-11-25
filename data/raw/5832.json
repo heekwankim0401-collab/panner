@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core.\n\n\nEdit: Related:\nhttps://github.com/godotengine/godot-proposals/issues/4854\nhttps://github.com/godotengine/godot-proposals/issues/4831\nhttps://github.com/godotengine/godot-proposals/issues/165",
+    "format": "form",
+    "workaround": "Yes. \nIt can be worked around with an autoload whose properties are set to handle the list of singletons, that's what most users do. But it is less convenient for something that could be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2022-11-23T13:17:32Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5832,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move the \"Singleton\" concept out of the autoload one",
+  "up": 13,
+  "updatedAt": "2024-04-22T01:30:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5832"
+}

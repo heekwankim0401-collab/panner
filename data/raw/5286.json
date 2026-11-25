@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal entails a minor unobtrusive change to a very commonly used node.\nIt's intended to potentially benefit anyone configuring animations in Godot.",
+    "format": "form",
+    "workaround": "I'm not a scripter so this is outside my wheelhouse, but the issue is more about user friendliness and convenience, therefore saving users time while they're working on common tasks."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-27T10:08:48Z",
+  "comments": 8,
+  "createdAt": "2022-08-29T05:43:38Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 5286,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose AnimatedSprite's 'play_backwards()' method as an inspector property",
+  "up": 4,
+  "updatedAt": "2023-01-27T10:12:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5286"
+}

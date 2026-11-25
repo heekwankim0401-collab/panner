@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "My knowledge of Godot is limited, but I don't think this can be done with script.",
+    "format": "form",
+    "workaround": "My knowledge of Godot is limited, but I don't think this can be done with script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-02-06T10:13:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14164,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Global Illumination mode for meshes to affect Lightmaps but get lighting from probes",
+  "up": 0,
+  "updatedAt": "2026-02-09T23:33:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14164"
+}

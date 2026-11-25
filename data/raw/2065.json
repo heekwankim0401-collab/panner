@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would bring the editor settings more in line with the input map used in project settings. (Once again, I'm not sure if they're very different under the hood)",
+    "format": "markdown",
+    "workaround": "I have no clue if this would be used often. I suspect it depends heavily on how the person in question codes! I suspect hardcore coders will prefer the keyboard approach. \nI have no clue how the editor settings are set up and therefore don't know if it would take more than a few lines to solve this issue :("
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-03T15:10:27Z",
+  "comments": 3,
+  "createdAt": "2021-01-03T14:29:08Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 2065,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow mouse input in Editor Settings -> Shortcuts.",
+  "up": 0,
+  "updatedAt": "2021-01-03T16:59:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2065"
+}

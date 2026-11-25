@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about resolving a common confusion among Godot, which would improve the user experience for new and experienced users alike.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-15T01:13:01Z",
+  "comments": 3,
+  "createdAt": "2022-05-06T20:26:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.2",
+  "number": 4503,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a tree dialog to control which resources should be made unique when using Make Unique in the inspector",
+  "up": 9,
+  "updatedAt": "2026-01-15T01:13:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4503"
+}

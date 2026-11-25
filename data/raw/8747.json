@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about CanvasGroup node.",
+    "format": "form",
+    "workaround": "You can use subviewport, but using CanvasGroup node would be much simpler. Since you cannot see or edit any subviewport elements."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-12-29T21:19:04Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8747,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add render target clear/update modes and a manual way to update the render target to CanvasGroup",
+  "up": 3,
+  "updatedAt": "2024-01-01T17:40:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8747"
+}

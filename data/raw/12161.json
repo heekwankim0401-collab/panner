@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would need to alter the source code for Polygon2D, and would be conveluted to implement as an add-on.",
+    "format": "form",
+    "workaround": "The change should be fairly simple to begin with, however it may be solved with a function similar to:\n```csharp\nVector2[] convertCoordinates(Vector2[] uvs){\n    for(int i = 0; i < uvs.Length; i++){\n        uvs[i] = uvs[i] * textureScale;\n    }\n}\n```\n\nrunning on SetTexture, or SetUV"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-04-05T13:26:21Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12161,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Polygon2D property to force generated UVs to be clamped to a `[0; 1]` range",
+  "up": 0,
+  "updatedAt": "2025-04-06T20:57:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12161"
+}

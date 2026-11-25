@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Need to modify GDScript's compiler.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 25,
+  "createdAt": "2024-10-28T08:53:42Z",
+  "down": 2,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11039,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add access levels for class method and variable in GDScript",
+  "up": 11,
+  "updatedAt": "2024-11-19T04:33:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11039"
+}

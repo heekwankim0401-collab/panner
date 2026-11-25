@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If implemented together with a new syntax for accessing a property, this would allow much more type safety while coding tweens, since the property names would be validated by the parser. And changes to the gdscript parser are core and cannot be implemented with gdextension (altough one could fork the entire gdscript runtime and create a gdextension addon out of it)",
+    "format": "form",
+    "workaround": "It already is possible to refer to a property using strings, either for getting or setting it's value. Also, a user could create for itself a class that wraps an object|string pair and adds safeties for checking and handling the manipulation of it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-16T15:23:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6895,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create a \"Property\" variant that allows referencing member properties of objects more robustly than just with it's string name",
+  "up": 0,
+  "updatedAt": "2023-05-16T16:39:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6895"
+}

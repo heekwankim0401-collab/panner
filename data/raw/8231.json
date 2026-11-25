@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Node.replace_by already exists. this would simply be a optional parameter if false it would clear the children of the node before swaping it out.",
+    "format": "form",
+    "workaround": "This would probably be used alot for menus and scene switching."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-22T23:06:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8231,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add keep_children boolean to Node.replace_by",
+  "up": 3,
+  "updatedAt": "2025-10-23T16:04:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8231"
+}

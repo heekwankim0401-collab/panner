@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its a change to the build system for android",
+    "format": "form",
+    "workaround": "It can be worked around via shell scripting but it requires the development team to manually discover the godot exporter's file system expectations, this is a complex process to reverse-engineer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-08-12T21:30:44Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 3128,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Android zipCustomBuild command should produce exactly what is expected",
+  "up": 5,
+  "updatedAt": "2023-06-19T06:55:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3128"
+}

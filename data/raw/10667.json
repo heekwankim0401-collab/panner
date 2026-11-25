@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Trying to determine if DPID should be an addon. In the exploration state, if it's determined to work better for everything, it would be a candidate to merge into core Godot Engine.",
+    "format": "form",
+    "workaround": "Cannot be done with script because it is an intensive image processing problem"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-05T23:04:06Z",
+  "down": 0,
+  "labels": [
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10667,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use Rapid, Detail-Preserving Image Downscaling for mipmaps (DPID)",
+  "up": 1,
+  "updatedAt": "2024-10-15T01:52:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10667"
+}

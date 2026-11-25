@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "VisualShader is core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-12-14T14:32:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "topic:shaders",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11349,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "VisualShader: Add button to minimize node",
+  "up": 8,
+  "updatedAt": "2025-04-11T05:01:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11349"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-07-03T03:33:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15112,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve EditorFileSystem/FileSystemDock API with explicit file creation, removal, modification and movement signals",
+  "up": 2,
+  "updatedAt": "2026-07-04T07:42:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15112"
+}

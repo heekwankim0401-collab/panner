@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not applicable. This is a language parsing issue.",
+    "format": "markdown",
+    "workaround": "~~The legibility cannot be worked around.~~\n\nA blackslash after each comma will allow the parser to treat them as if they are on the same line, but this may not be obvious to or expected by all developers"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-01-29T14:06:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2201,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow newlines after `match` condition commas without requiring backslashes at end of each line",
+  "up": 15,
+  "updatedAt": "2021-01-29T17:23:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2201"
+}

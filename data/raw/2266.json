@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Importing UV channels is a core change. It is unable to be integrated with the scene importer/exporters and still be a script.",
+    "format": "markdown",
+    "workaround": "Adding new UV channels is not a script change. It is a gltf2 importer change."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-11T19:42:35Z",
+  "comments": 5,
+  "createdAt": "2021-02-10T07:11:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 2266,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "New UV Channel imports into a scene file",
+  "up": 11,
+  "updatedAt": "2021-09-11T22:04:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2266"
+}

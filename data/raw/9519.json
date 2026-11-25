@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "~~I don't think live debugging is exposed to GDScript at all~~\n_(Edit: it is exposed and can be a plugin but this is a basic and useful feature to have alongside other existing live debugging features)_",
+    "format": "form",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2024-04-14T13:54:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9519,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Live-reload nodes in a running game when files from their `scene_file_path` are reimported",
+  "up": 91,
+  "updatedAt": "2024-06-07T09:31:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9519"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes; an addon should not be necessary in order for a UI element to clearly communicate its options and current setting.",
+    "format": "form",
+    "workaround": "No, this proposal is for better clarity in the editor's UI."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-03-05T23:35:42Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11921,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Alter the icons used to indicate looping mode in the Animation Editor",
+  "up": 3,
+  "updatedAt": "2025-03-16T11:01:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11921"
+}

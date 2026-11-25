@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This fix would need to be integrated into the editor.",
+    "format": "form",
+    "workaround": "It can be worked around by overriding the _Input method of EditorPlugin, but this is awkward, requires you to package your tool into a plugin and the mouse position you are given to work with in in screen coordinates.  You also lose back-to-front ordering with respect to the other nodes.  Having this as part of the base functionallity would make things much easier.\n\nhttps://godotforums.org/discussion/comment/60654#Comment_60654"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-15T23:59:22Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3804,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "CanvasItem nodes should provide way for indicating they have been selected when used as a [Tool] in editor",
+  "up": 3,
+  "updatedAt": "2025-02-23T16:03:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3804"
+}

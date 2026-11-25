@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Same reason as above.",
+    "format": "legacy",
+    "workaround": "Unless I missed something, this probably has to be changed in Godot_Java?"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-07T12:15:28Z",
+  "comments": 4,
+  "createdAt": "2020-08-29T16:47:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1427,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to check if vibration is supported on Android",
+  "up": 0,
+  "updatedAt": "2024-09-26T20:00:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1427"
+}

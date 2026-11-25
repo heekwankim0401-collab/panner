@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "markdown",
+    "workaround": "Basically would need to write your own tab container from scratch"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-12-15T13:47:45Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1986,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add left, right and bottom location options for TabContainer",
+  "up": 22,
+  "updatedAt": "2024-11-12T15:57:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1986"
+}

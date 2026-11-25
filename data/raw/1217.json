@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because is a valid KinematicBody2D (and 3D) use to make these sonic mechanics instead of other nodes, and engages game developers to create more frenetic action games using Godot.",
+    "format": "legacy",
+    "workaround": "If can be worked around but isn't a easy thing to do as it requires significant amount of vector math and requires a significant amount of code lines to create the mechanic."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-07-18T23:58:07Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1217,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Some improvements to kinematic body's move_and_slide_with_snap",
+  "up": 0,
+  "updatedAt": "2020-07-19T13:53:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1217"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I cannot change the behaviour of the CodeEdit node with an addon.",
+    "format": "form",
+    "workaround": "I could create a custom list of my own possibly using the ItemList node, but it would require more then a couple of lines to achieve a perfect copy of the existing auto-completion. Also taking that path means I would have to code basically the same behaviour in two different ways, wich would not be desireable imo."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-06-26T11:07:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:plugin",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7162,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow CodeEdit auto-completion list to not be clipped",
+  "up": 2,
+  "updatedAt": "2023-07-28T13:58:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7162"
+}

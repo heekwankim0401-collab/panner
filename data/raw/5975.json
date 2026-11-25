@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GPUParticles2D and 3D are built in classes.",
+    "format": "form",
+    "workaround": "You can either attach the particle system to the camera (if not using local coords), copy values over from the base particle system or make it absurdly big, all of them can sometimes take slightly longer to set up."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-12-22T07:13:14Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5975,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for disabling visibility rect (infinite extend) in GPUParticles",
+  "up": 1,
+  "updatedAt": "2022-12-24T01:29:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5975"
+}

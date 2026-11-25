@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The implemented solution adjusts the default graphics and fixes an alignment issue in the 3D editor. The changes are very light.",
+    "format": "form",
+    "workaround": "Providing a different graphic for the grabber can solve the case, but this solution has a lower discoverability. \n\nFor the editor, a theme override can work, but the generation of corresponding assets based on the defined theme colors is lost."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-07T01:35:34Z",
+  "comments": 4,
+  "createdAt": "2023-03-09T23:04:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6470,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Remove 8px minimum thickness of SplitContainer drag bars in the default themes",
+  "up": 2,
+  "updatedAt": "2023-06-07T16:21:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6470"
+}

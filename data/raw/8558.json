@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Gdscript is core",
+    "format": "form",
+    "workaround": "At the cost of having more global variable yes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2023-11-30T21:42:07Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8558,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript: Capture local variables consistently",
+  "up": 10,
+  "updatedAt": "2024-07-04T13:05:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8558"
+}

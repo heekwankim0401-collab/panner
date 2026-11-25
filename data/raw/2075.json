@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yeah, part of the shader language ...",
+    "format": "markdown",
+    "workaround": "Could probably be worked around with gpu compute, but then dealing with 2 passes to gpu (one to compute subd, and one to render). Geometry shader wouldn't require second call."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-02T23:30:32Z",
+  "comments": 7,
+  "createdAt": "2021-01-05T13:11:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2075,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Geometry Shader - for subd of dyn mesh",
+  "up": 7,
+  "updatedAt": "2021-09-02T23:30:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2075"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would need to be integrated with WorldEnvironment.",
+    "format": "form",
+    "workaround": "Not that I know of."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-10-22T22:30:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3462,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Environment depth of field far blur should have the option to not affect canvas backgrounds",
+  "up": 0,
+  "updatedAt": "2022-05-03T16:09:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3462"
+}

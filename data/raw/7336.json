@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is necessary for all 3D games using the mobile renderer",
+    "format": "form",
+    "workaround": "This can't be worked around as debanding has to happen after lighting"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-09T16:53:03Z",
+  "comments": 2,
+  "createdAt": "2023-07-20T08:10:54Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.6",
+  "number": 7336,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Dither colors in any intermediate write to color framebuffer when using the mobile renderer",
+  "up": 5,
+  "updatedAt": "2025-10-09T16:53:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7336"
+}

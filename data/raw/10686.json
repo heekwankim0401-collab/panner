@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There is a function that already exists in the Godot API for requesting permissions called `OS.request_permission()`. Personally I think it's really silly that's it's a stubbed-out function with support for only one permission available.",
+    "format": "form",
+    "workaround": "A common thing that occurs in well-written open-source apps is that they will request optional/necessary permissions one at a time with an information describing what the permission is for. Another thing an app might want to do (say, a weather app), is request location data _once_ and never actually need it again. Or maybe it doesn't need it period - provided the user selects a location manually. Godot does not support any of these use cases.\n\nThis can be worked around by just granting the permissions anyway at install time, but an requiring an optional permission at install time is going to turn away potential users for no good reason."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-07T23:30:58Z",
+  "comments": 1,
+  "createdAt": "2024-09-07T22:56:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10686,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Proper support for requesting permissions at runtime on Android (for optional permissions)",
+  "up": 1,
+  "updatedAt": "2024-09-19T12:51:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10686"
+}

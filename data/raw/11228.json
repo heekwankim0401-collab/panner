@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I am not sure, seems deeply ingrained in the pathfinder and might not be possible as an add-on.",
+    "format": "form",
+    "workaround": "Well, I tried to work around it unsuccessfully. Unless I missed something I don't think you can work around this issue."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-24T10:46:44Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 11228,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to retrieve the previous node in AStar navigation dynamically",
+  "up": 0,
+  "updatedAt": "2024-11-25T18:53:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11228"
+}

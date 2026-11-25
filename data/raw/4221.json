@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, as it works with the main scene and depends on knowing when this scene is fully loaded.",
+    "format": "form",
+    "workaround": "Enhancement working here:\nhttps://github.com/MiqueiasDevGames/Godot-SplashScreen-Android-12/tree/main/Script_SplashScreen\n\nGodot is missing, I'm already configured and the android templates updated"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-23T23:01:49Z",
+  "comments": 2,
+  "createdAt": "2022-03-15T12:17:41Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 4221,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Migrate Godot Splash Screen to Android 12",
+  "up": 10,
+  "updatedAt": "2024-06-24T17:11:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4221"
+}

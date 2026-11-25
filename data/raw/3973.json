@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it would complete an existing method.",
+    "format": "form",
+    "workaround": "Yes it can be. Similar to the current `get_surrounding_tiles` method which uses `get_neighbor_cell` internally as well. \n\n```python\nfunc get_diagonal_cells(cell):\n\tvar cells = []\n\tcells.append(get_neighbor_cell(cell, TileSet.CELL_NEIGHBOR_TOP_LEFT_CORNER))\n\tcells.append(get_neighbor_cell(cell, TileSet.CELL_NEIGHBOR_TOP_RIGHT_CORNER))\n\tcells.append(get_neighbor_cell(cell, TileSet.CELL_NEIGHBOR_BOTTOM_LEFT_CORNER))\n\tcells.append(get_neighbor_cell(cell, TileSet.CELL_NEIGHBOR_BOTTOM_RIGHT_CORNER))\n\treturn cells\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-02-15T11:24:56Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "4.x",
+  "number": 3973,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Include diagonal tiles in the surrounding tiles as an optional parameter",
+  "up": 26,
+  "updatedAt": "2025-06-25T06:31:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3973"
+}

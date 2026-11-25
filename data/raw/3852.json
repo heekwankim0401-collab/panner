@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "i will leave the answer for you !",
+    "format": "form",
+    "workaround": ".."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-19T02:27:20Z",
+  "comments": 13,
+  "createdAt": "2022-01-24T14:17:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3852,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make EditorInspector follow focus when navigating with keyboard",
+  "up": 0,
+  "updatedAt": "2024-09-20T15:26:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3852"
+}

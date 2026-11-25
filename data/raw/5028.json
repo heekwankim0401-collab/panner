@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think the feature will be popular",
+    "format": "form",
+    "workaround": "A plugin can help, but not with a few lines tho"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-15T22:15:35Z",
+  "comments": 1,
+  "createdAt": "2022-07-31T02:01:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.2",
+  "number": 5028,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to show a resource in FileSystem by selecting its uid in ScriptEditor",
+  "up": 2,
+  "updatedAt": "2023-10-15T22:15:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5028"
+}

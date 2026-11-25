@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Build-system is core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-02-06T19:54:39Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 3926,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Check if Godot executable is available to be written to before building",
+  "up": 4,
+  "updatedAt": "2022-02-08T22:30:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3926"
+}

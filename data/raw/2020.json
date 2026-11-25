@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core engine functionality that can't be implemented at low-level by an add-on.",
+    "format": "markdown",
+    "workaround": "Yes, but it's not exactly trivial to do so over a whole codebase. For instance, you could use the following code:\n\n```gdscript\nfunc _physics_process(delta):\n    # Only send our player position every two frames (30 Hz if physics run at the default 60 Hz).\n    if Engine.get_physics_frames() % 2 == 0:\n        rset(\"position\", Vector2(12, 34))\n```\n\nOn top of that, the above code snippet will break if variable physics update rate is implemented in 4.0."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-04T10:21:52Z",
+  "comments": 26,
+  "createdAt": "2020-12-25T12:54:52Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 2020,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a `_network_process()` method to complement `_process()` and `_physics_process()`",
+  "up": 31,
+  "updatedAt": "2023-05-04T10:21:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2020"
+}

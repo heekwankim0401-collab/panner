@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, this has to do with core engine functionality",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-03T15:57:21Z",
+  "comments": 146,
+  "createdAt": "2020-05-23T21:59:40Z",
+  "down": 3,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 877,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use OpenGL 3.3 for the low-end rendering backend",
+  "up": 81,
+  "updatedAt": "2022-03-30T00:29:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/877"
+}

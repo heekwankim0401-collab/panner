@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an option in the Editor Settings. Affects every 2D editor ever used in a project.",
+    "format": "legacy",
+    "workaround": "As with many configuration settings, chances are many people won't change them in the long run. However, since it depends on the interaction between an input and the response of the interface based on it, I'm not convinced a script solution is feasible."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-27T14:59:48Z",
+  "comments": 7,
+  "createdAt": "2020-05-20T12:27:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 863,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the zoom speed configurable in the 2D scene editor",
+  "up": 0,
+  "updatedAt": "2024-08-27T15:00:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/863"
+}

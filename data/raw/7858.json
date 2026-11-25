@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This applies to every resource imported with materials",
+    "format": "form",
+    "workaround": "There could be a plugin to do this, but it feels like it should be a core part of the import process."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-09-25T15:14:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7858,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow mass material extraction or selection of \"use external material\"",
+  "up": 16,
+  "updatedAt": "2025-03-17T16:37:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7858"
+}

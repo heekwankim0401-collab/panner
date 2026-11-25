@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Core functionality.",
+    "format": "form",
+    "workaround": "No, it would need to be an error."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-03-02T14:28:02Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript",
+    "topic:physics",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9219,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Give error/warning if trying to disable/enable CollisionShape without using call_deferred",
+  "up": 0,
+  "updatedAt": "2024-03-02T17:50:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9219"
+}

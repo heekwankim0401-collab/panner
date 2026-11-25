@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it's just a super tiny thing to implement",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-16T17:04:38Z",
+  "comments": 26,
+  "createdAt": "2021-06-15T16:53:41Z",
+  "down": 8,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2869,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add increment and decrement operators to GDScript (`++`/`--`)",
+  "up": 32,
+  "updatedAt": "2022-06-16T17:04:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2869"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The validation feature cannot be an add-on.",
+    "format": "form",
+    "workaround": "Without validation feature, user will confuse with the property value invalid error, and cannot edit text with same prefix in this situation.\n\nIn this issue, if we want to enter an custom data with name 'foobar', currently, the editor will prevent us entering prefix 'foo', we can only get 'fo' instead, because of the unique validation, Although we can copy/paste 'foobar' to the input text, or input from suffix 'bar', that was wield."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-09T06:16:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13349,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support validating property value before real update the property in the Inspector",
+  "up": 0,
+  "updatedAt": "2025-10-09T11:34:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13349"
+}

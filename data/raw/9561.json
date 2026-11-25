@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core",
+    "format": "form",
+    "workaround": "No since there isn't even currently a way to determine if a given child is internal or not. Currently you would have to write your own recursive search function that leverages the `Node.get_children` method since it supports the `include_internal` property."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-19T18:21:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9561,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `include_internal` flag to `Node.find_child` and `Node.find_children`",
+  "up": 5,
+  "updatedAt": "2024-05-18T11:12:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9561"
+}

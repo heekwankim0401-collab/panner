@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's editor feature",
+    "format": "markdown",
+    "workaround": "Workaround is to simply remove comment manually but it kind of kills the point of the toggle. With proposed changes comment toggle should be a bit more \"smart\" and work as in most IDEs (for instance Jetbrains products)."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-04T11:18:11Z",
+  "comments": 2,
+  "createdAt": "2020-12-20T22:13:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2005,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve comment toggle behaviour ",
+  "up": 1,
+  "updatedAt": "2021-09-04T11:18:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2005"
+}

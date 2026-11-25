@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's basic functionality found in other nodes that is noticeably absent in the decal node.",
+    "format": "form",
+    "workaround": "In the advanced project settings, you can change a global variable changing the texture filtering on ALL decals.\nI think this should be a per-decal option, rather than something global"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-01-21T11:00:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8927,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow configuring Decal texture sampling on a per-node basis",
+  "up": 1,
+  "updatedAt": "2024-01-23T10:11:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8927"
+}

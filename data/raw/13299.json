@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature addresses a fundamental workflow problem that affects all 3D users. Since it modifies asset placement behavior, it's not very suitable to be implemented as an addon. Adding this to the engine's core would be a significant quality-of-life improvement.",
+    "format": "form",
+    "workaround": "Probably not, as it modifies deep editor behavior for asset placement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-09-29T11:04:54Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13299,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow dragging scenes from the FileSystem dock to use their origin instead of their AABB as anchor",
+  "up": 8,
+  "updatedAt": "2025-10-03T11:37:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13299"
+}

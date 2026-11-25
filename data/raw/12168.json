@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would not only open the door to a lot more custom TileMap editor plugins and even allowing adding new behavior and data to TileSets I could see this also massively reducing the load on the Godot developers as well because users would be able to much more easily add their own desired features themselves instead of seeking it in proposals.",
+    "format": "form",
+    "workaround": "I don't think it is currently even possible to integrate with the built-in TileMapLayer and TileSet editors in any useful way as nothing is exposed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-04-06T02:03:43Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 12168,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose TileMapLayerEditor/TileSetEditor and TileSetSource functionality as done with GridMapEditorPlugin (#99639)",
+  "up": 8,
+  "updatedAt": "2025-05-24T15:36:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12168"
+}

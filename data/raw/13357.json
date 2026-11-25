@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature requires direct access to per-wheel physics properties and friction handling at the engine level. While add-ons can partially simulate it, they cannot fully integrate with the VehicleBody3D physics in a robust, performant, and reliable way.\nImplementing it as a core feature ensures consistent behavior across all projects, reduces the risk of errors, and aligns with how vehicle physics are handled in the engine itself.",
+    "format": "form",
+    "workaround": "Currently, it is possible to work around this limitation using complex scripts that manually adjust friction and physics properties per wheel. However, this requires creating custom PhysicsMaterial3D instances at runtime, handling null instance errors, and carefully managing references for each wheel.\nThis workaround is error-prone, difficult to maintain, and not intuitive for most developers. A built-in feature would simplify this process, making realistic vehicle physics and drifting mechanics accessible without fragile scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-10T21:41:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13357,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve vehicle physics and drifting behavior for realistic driving games",
+  "up": 5,
+  "updatedAt": "2026-07-27T23:18:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13357"
+}

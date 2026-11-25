@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, not sure, it's for the engine makers to decide such things, those with tons of experience and, engine knowledge . . .\n\nps. having a ' SpectrumTexture ' as a default one, might be a nice addition, to Shader language, like one would assume, it should be there, or so <3",
+    "format": "markdown",
+    "workaround": "I have got no idea, seems like it belongs, with the post - processing effects . . maybe call it new SpectrumTexture or, so <3 . . .\n<img width=\"984\" alt=\"Skærmbillede (925)\" src=\"https://user-images.githubusercontent.com/61069740/105063418-01593480-5a7c-11eb-8813-1c7877ea8bcd.png\">\n\nthen, one would have more control, over the games visual, want to see how good the anaglyph 3D looks, if it can to an extent, correct the loss of tones or, hues, bec. of the glasses, by boosting the ' faded ' parts, especially blue, orange, yellow and, green . . Thanks . ."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-21T00:48:08Z",
+  "comments": 3,
+  "createdAt": "2021-01-19T16:31:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2151,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make an option to increase saturation or, contrast on certain parts of color spectrum . .",
+  "up": 0,
+  "updatedAt": "2023-01-21T00:48:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2151"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T14:06:52Z",
+  "comments": 3,
+  "createdAt": "2024-05-22T17:25:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9804,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Recursive Serialization on dict_to_inst and inst_to_dict functions",
+  "up": 0,
+  "updatedAt": "2026-07-28T14:07:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9804"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-31T19:55:08Z",
+  "comments": 5,
+  "createdAt": "2026-08-26T23:09:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 15439,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to randomize rotation and scale in 2D node drawing mode",
+  "up": 2,
+  "updatedAt": "2026-08-31T19:55:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15439"
+}

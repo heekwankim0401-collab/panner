@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "its already in it just needs to be separated",
+    "format": "legacy",
+    "workaround": "it would certainly be used by me and any other person trying to recreate a beloved game"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-27T18:39:46Z",
+  "comments": 21,
+  "createdAt": "2020-07-13T18:48:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 1192,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "`move_and_slide()` should not implement delta on its own",
+  "up": 0,
+  "updatedAt": "2024-05-02T20:58:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1192"
+}

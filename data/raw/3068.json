@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, it'd be a small update, that makes working in graph edits, more useful, thanks . . .",
+    "format": "form",
+    "workaround": "Again, one can get a different font, but one doesn't think, that would work, given the ' default ' font doesn't work . . One thinks, that would happen for any font, and it's quite obscure, to even fix it, one assumes Godot has a font, that is sort-of optimal, by default . . \n\nI've got no idea, what might look good, and fit the engine, there are many font, ton, of free Google Fonts, MIT, so on . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T16:16:07Z",
+  "comments": 3,
+  "createdAt": "2021-07-31T13:02:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 3068,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Change the default font to one that is readable when zoomed out in a graph edit . .",
+  "up": 0,
+  "updatedAt": "2022-08-24T16:16:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3068"
+}

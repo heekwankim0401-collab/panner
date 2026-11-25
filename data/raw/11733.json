@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would not be a change to how Editable Children or their properties work, simply an editor usability improvement.",
+    "format": "form",
+    "workaround": "An editor plugin could be made with the same functionality but I think this would be an easy thing to implement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-02-10T01:53:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11733,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"revert\" icon for nodes with Editable Children enabled in the Scene tree dock",
+  "up": 10,
+  "updatedAt": "2025-02-10T14:12:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11733"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I already compile the engine with this new feature and I can test it.\nThe results are this for area of 1000x1000 tiles:\n\nTime consumed in set_cell in a double for: 4080 msec\nTime consumed in set_cell_region: 2345 msec\nset_cell_region: 42.52451% less than set_cell in a double for.\n\n\n\nI think that there is a good new feature. I already have the source code. But because I new i don't know if I need to create a pull request or this is later.",
+    "format": "legacy",
+    "workaround": "It can be do in 3 lines of code in gdscript but take a lot of time the execution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-09-19T00:32:46Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1538,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a TileMap `set_cell_region` method to set a rectangular area of tiles faster",
+  "up": 22,
+  "updatedAt": "2026-07-17T04:17:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1538"
+}

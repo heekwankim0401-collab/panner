@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core functionality that should work properly out of the box by default.",
+    "format": "form",
+    "workaround": "It takes more than just a few lines of code to work around this *correctly*. You can set buttons to release mode and check for `ui_confirm` inputs manually, but doing so is prone to bugs in handling focus and input repetition, and avoiding them adds length."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-08-30T17:30:20Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3234,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend BaseButton's ActionMode with a mode that handles both mice and keyboards/gamepads gracefully, and make it the default",
+  "up": 9,
+  "updatedAt": "2022-06-30T23:18:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3234"
+}

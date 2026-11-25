@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As far as I understand, it is not possible to make as an add-on; Is a core feature change.",
+    "format": "form",
+    "workaround": "I couldn't find a reliable workaround with no drawbacks or major flaws."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-10-19T22:09:49Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 13424,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `y_draw_order_reversed` setting for `TileMapLayer`",
+  "up": 4,
+  "updatedAt": "2025-10-20T14:35:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13424"
+}

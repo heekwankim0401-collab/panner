@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-05-28T17:01:04Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 14929,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a function to get bus effect index[es] for the AudioServer",
+  "up": 2,
+  "updatedAt": "2026-06-02T00:15:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14929"
+}

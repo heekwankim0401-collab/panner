@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The text editor is a part of the core engine and TODOs are frequently used in scripting both gdscript and c#",
+    "format": "form",
+    "workaround": "I don't believe so"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-23T09:02:01Z",
+  "comments": 3,
+  "createdAt": "2023-09-23T04:40:41Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7810,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Give TODO comments different formatting in script editor",
+  "up": 0,
+  "updatedAt": "2023-09-23T09:07:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7810"
+}

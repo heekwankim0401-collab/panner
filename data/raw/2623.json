@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Arrays are part of core",
+    "format": "markdown",
+    "workaround": "This will be used often"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-06T06:59:08Z",
+  "comments": 4,
+  "createdAt": "2021-04-19T14:52:11Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2623,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make strings in arrays and dictionaries more obvious when printing",
+  "up": 8,
+  "updatedAt": "2022-05-06T06:59:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2623"
+}

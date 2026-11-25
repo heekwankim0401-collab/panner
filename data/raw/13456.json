@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be baked into the text redering's auto-wrapping justification algorithm.",
+    "format": "form",
+    "workaround": "If you have a fixed width label without localization, you can add line breaks to the text manually. For any dynamic label, and with localization, that's not an option."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-24T12:21:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13456,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"distribute across lines\" option for auto-wrapping text",
+  "up": 20,
+  "updatedAt": "2025-10-29T17:30:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13456"
+}

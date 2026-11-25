@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Adding this to core would allow us to reuse the existing GridMap editor.",
+    "format": "form",
+    "workaround": "You'd basically need to re-create the existing GridMap / GridMapEditorPlugin, which is more than \"a few lines of script\"."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-31T16:29:10Z",
+  "comments": 4,
+  "createdAt": "2025-03-29T23:12:46Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12110,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Mesh Merging as an alternative implementation for GridMap",
+  "up": 4,
+  "updatedAt": "2025-03-31T16:29:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12110"
+}

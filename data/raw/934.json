@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can't be achieved with add-ons\n\nI dont know wether this is hardcoded, but when creating a ViewportTexture this dialog shows up, where you are only able to select Viewport Nodes.\n![image](https://user-images.githubusercontent.com/58010307/83092121-f7259880-a09c-11ea-9c90-640bcc3405be.png)\nI think it shouldn't be much work connecting this with the export type",
+    "format": "legacy",
+    "workaround": "Not really, exporting NodePaths is always a little bit risky"
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-23T21:01:41Z",
+  "comments": 7,
+  "createdAt": "2020-05-28T02:47:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 934,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a export hint for NodePath and export Nodes",
+  "up": 15,
+  "updatedAt": "2023-03-23T21:01:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/934"
+}

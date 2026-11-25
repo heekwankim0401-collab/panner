@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be an add-on since custom annotations are not yet planned to be supported in GDScript.",
+    "format": "form",
+    "workaround": "If we talk about convenience, clarity, and visibility, it can't."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-07-03T15:00:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2946,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@connect(object.signal)` method targeted annotation",
+  "up": 23,
+  "updatedAt": "2023-01-16T21:04:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2946"
+}

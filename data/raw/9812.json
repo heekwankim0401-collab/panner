@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Self explanatory",
+    "format": "form",
+    "workaround": "No idea. Renderingdevice is all I can think of, but last I checked thats super undocumented and might even be more difficult than this. Not like Im unwilling to learn new things, but.. well, Id refer to [this issue.](https://github.com/godotengine/godot-docs/issues/9294)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-24T13:43:24Z",
+  "comments": 2,
+  "createdAt": "2024-05-24T01:51:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9812,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Real actual GLSL shader support",
+  "up": 0,
+  "updatedAt": "2024-05-24T13:47:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9812"
+}

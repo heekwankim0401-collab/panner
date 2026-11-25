@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Inspector and EditorInspectorPlugin are core",
+    "format": "form",
+    "workaround": "It still works without property hints, but it is very unusable / unreliable"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-02-05T14:45:35Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9030,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to add property hints to meta",
+  "up": 0,
+  "updatedAt": "2024-03-10T17:10:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9030"
+}

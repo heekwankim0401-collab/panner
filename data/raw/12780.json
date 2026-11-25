@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves POT generator, making it more useful.",
+    "format": "form",
+    "workaround": "Not really. I do have a workaround, which involves manually reading the POT file and then writing it again with new set of strings. It works, but it's rather ugly and was annoying to write. I can't be the only person with this problem (right? ;_;)."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-16T16:42:23Z",
+  "comments": 3,
+  "createdAt": "2025-07-13T19:49:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": "4.7",
+  "number": 12780,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow customizing POT Generator string list",
+  "up": 6,
+  "updatedAt": "2026-03-16T16:43:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12780"
+}

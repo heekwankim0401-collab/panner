@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature allows disabling built-in features rather than adding new ones",
+    "format": "form",
+    "workaround": "There is a way to partially work around this by manually assigning the position or other properties of Container children after the resort occurs, but this causes a very noticeable visual flicker, so no."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-18T12:47:42Z",
+  "comments": 7,
+  "createdAt": "2021-08-12T09:06:06Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3123,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a property to Container which disables sorting of children",
+  "up": 3,
+  "updatedAt": "2022-01-18T16:07:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3123"
+}

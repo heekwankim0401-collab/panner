@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Physics nodes are already part of the core engine.",
+    "format": "form",
+    "workaround": "Node names are set in the core engine."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-29T00:11:18Z",
+  "comments": 98,
+  "createdAt": "2021-06-15T00:56:54Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 2867,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make physics nodes easier to understand",
+  "up": 19,
+  "updatedAt": "2022-05-10T22:41:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2867"
+}

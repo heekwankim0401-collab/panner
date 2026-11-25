@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be a core functionality change to how the engine generates and understands the location of where Godot related C# code is.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-13T00:57:34Z",
+  "comments": 1,
+  "createdAt": "2025-01-12T18:52:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 11543,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "C# Provide config variable to specify location of generated csproj relative to root solution",
+  "up": 0,
+  "updatedAt": "2025-01-13T00:57:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11543"
+}

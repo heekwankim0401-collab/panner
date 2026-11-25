@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not familiar enough with the engine to know if it's possible for this to be added with an add-on. I believe the feature should be core because it leverages existing functionality in a new way to make a common use-case more intuitive.",
+    "format": "form",
+    "workaround": "This proposal is commonly worked around with the caveat that it's not quite as intuitive or easy to use as the GUI-based signal system."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2022-07-27T10:25:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4993,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Autoloads to the Scene tree for easier signal connection management",
+  "up": 63,
+  "updatedAt": "2025-11-14T21:43:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4993"
+}

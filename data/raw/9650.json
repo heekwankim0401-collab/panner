@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This gives developers more options when designing the theme for their game without requiring an add-on or custom scripts. It also provides consistency in behaviour when navigating with controller/keyboard as it does with mouse.\n\nAn addon would be similar to the script above, with the same issues of requiring additional work to make it fit into other addons that may expose UI",
+    "format": "form",
+    "workaround": "I believe it can be worked around with the following gdscript. I don't believe this is particularly convenient because it would need this script on each of the toggleable buttons wanting to override (Button, Checkbox, CheckButton for example). It also would require additional work to tweak any addons that expose UI using toggleable buttons. Where if this was engine/theme provided that additional work is not needed\n\n```gdscript\nclass_name CheckBoxFocusPressedColor\nextends CheckBox\n\n@onready var font_hover_pressed_color = get_theme_color(\"font_hover_pressed_color\")\n\nfunc _ready():\n\tfocus_entered.connect(on_focus_entered)\n\tfocus_exited.connect(on_focus_exited)\n\ttoggled.connect(on_toggled)\n\nfunc on_focus_entered():\n\tif button_pressed:\n\t\tadd_theme_color_override(\"font_pressed_color\", font_hover_pressed_color)\n\nfunc on_focus_exited():\n\tremove_theme_color_override(\"font_pressed_color\")\n\nfunc on_toggled(toggled_on):\n\tif has_focus():\n\t\tif toggled_on:\n\t\t\tadd_theme_color_override(\"font_pressed_color\", font_hover_pressed_color)\n\t\telse:\n\t\t\tremove_theme_color_override(\"font_pressed_color\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-02T02:18:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9650,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add font_focus_pressed_color on Button",
+  "up": 6,
+  "updatedAt": "2024-05-02T09:37:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9650"
+}

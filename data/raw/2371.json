@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The curved line used to draw a connect is programmed at a C++ level, not native gdscript.",
+    "format": "markdown",
+    "workaround": "I can think of other solutions, but they'll take a few extensions of classes at best.\n* I could use other control nodes aside from GraphNode, but I'll have to program them to scale accordingly when GraphEdit is zoomed or moved.\n* In place of connections, I could use Line2D, but I'm not sure whether using Node2D node in Control is the right way."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-21T07:09:07Z",
+  "comments": 2,
+  "createdAt": "2021-02-27T16:52:00Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2371,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expanding GraphEdit's Theme for Connections",
+  "up": 0,
+  "updatedAt": "2021-12-21T17:11:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2371"
+}

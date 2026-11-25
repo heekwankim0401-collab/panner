@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a QoL thing for collision shapes.",
+    "format": "legacy",
+    "workaround": "No, it would require a plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-03T13:04:05Z",
+  "comments": 5,
+  "createdAt": "2020-02-07T23:16:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.2",
+  "number": 452,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow moving only one side of extents-based rectangles/boxes using editor gizmos",
+  "up": 43,
+  "updatedAt": "2023-08-11T11:57:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/452"
+}

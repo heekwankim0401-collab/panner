@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Have it as core so that you can avoid the clutter of extra files in your project. The ability to save it as \".tres\" share with anyone wanting to implement cool text animations or titles in their projects, would provide quite useful among GODOT users in presentation, gaming, or any interactive media.",
+    "format": "legacy",
+    "workaround": "Up to a limited degree. I could generate new nodes each representing a substring, however, getting the data per character, such as position is not possible. I would have to use \"Tool\" mode to see if all my hundreds of node characters are positioned correctly, this would be time consuming."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-11T10:31:41Z",
+  "comments": 14,
+  "createdAt": "2020-01-30T22:01:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 421,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a text animation tool to complement RichTextEffect",
+  "up": 10,
+  "updatedAt": "2022-12-02T21:45:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/421"
+}

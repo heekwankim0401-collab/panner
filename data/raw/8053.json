@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "More optimal files should just be the default. :)",
+    "format": "form",
+    "workaround": "Core feature.  Can't be easily worked around for storing native types like meshes."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-25T11:24:00Z",
+  "comments": 7,
+  "createdAt": "2023-10-10T04:40:17Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 8053,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Store PackedByteArray array in more optimal format for tscn files (Ex: Base64)",
+  "up": 9,
+  "updatedAt": "2024-06-25T11:24:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8053"
+}

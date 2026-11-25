@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "If it's possible to implement this as an addon, I'd be happy to implement it! But I'm not sure if it is.\n\n**Edited 2021-02-08: clarified that this includes audio coming from running the actual project from within the editor.**",
+    "format": "legacy",
+    "workaround": "See above -- sort of kind of, but with caveats."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-19T22:46:37Z",
+  "comments": 18,
+  "createdAt": "2020-06-15T14:40:30Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 1066,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a \"Mute Audio\" toggle to the editor",
+  "up": 23,
+  "updatedAt": "2025-03-19T22:46:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1066"
+}

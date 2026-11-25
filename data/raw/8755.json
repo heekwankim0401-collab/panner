@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Sprite2D is a core component of Godot.",
+    "format": "form",
+    "workaround": "It cannot be worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2023-12-31T02:59:01Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 8755,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Separation property to Sprite2D",
+  "up": 3,
+  "updatedAt": "2023-12-31T23:33:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8755"
+}

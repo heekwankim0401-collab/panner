@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It fills the gap between `ItemList`/`Tree` and `BoxContainer`+`ScrollContainer`.",
+    "format": "form",
+    "workaround": "Not a few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-05-05T12:54:54Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9678,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a control suitable for displaying long lists with customizable content (virtual scrolling)",
+  "up": 21,
+  "updatedAt": "2026-08-29T12:34:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9678"
+}

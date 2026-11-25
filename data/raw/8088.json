@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Enhances core functionality, isn't very complex (seemingly, of course I can be mistaken), workarounds aren't perfect.",
+    "format": "form",
+    "workaround": "Used often.\nSome workarounds exists, but they compromise some of the quality:\n* Custom emitting as demonstrated above. This has a few limitations: particles emitted from script lag behind one frame (I'm not sure if this is a bug or if it's workable), user needs to reimplement emitter shapes, initial velocities etc.\n* Using bigger emitter shape or add random velocity to spread out the particles. Might or might not align with artistic intent.\n* Raise `fixed_fps`. Helps only partially."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2023-10-12T19:01:23Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8088,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Interpolate particle emit positions when emitter is moving fast",
+  "up": 28,
+  "updatedAt": "2026-07-09T01:59:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8088"
+}

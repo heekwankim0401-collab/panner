@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-07T14:20:36Z",
+  "comments": 1,
+  "createdAt": "2026-07-07T07:34:30Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 15140,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add full-screen vertical CodeEdit mode for touchscreen devices",
+  "up": 1,
+  "updatedAt": "2026-07-07T14:20:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15140"
+}

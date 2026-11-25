@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I image quite a few people would find this feature helpful.\n\n*Bugsquad edit (keywords for easier searching): picture in picture, PiP*",
+    "format": "legacy",
+    "workaround": "Nope"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-06-06T10:47:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1017,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add picture-in-picture camera previews to the editor when a Camera3D node is selected",
+  "up": 39,
+  "updatedAt": "2024-01-16T17:40:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1017"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a feature already existent in the Editor Settings; adding a resizing bar simply improves the user experience by reducing the number of clicks to access it. It also allows users to change their FileSystem thumbnails on the fly in a way that could be considered universally better for all Godot users - it does not limit space if it doesn't get used, and provides new functionality if it does.",
+    "format": "form",
+    "workaround": "Realistically whenever thumbnail view is used in the FileSystem, the resizer will also be used. Since it is a baseline UX change, it cannot be worked around in any given project. However, because it doesn't take up any additional screen real-estate, it will never need to be."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-22T18:53:45Z",
+  "comments": 0,
+  "createdAt": "2025-05-20T22:08:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 12469,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a slider to change the thumbnail size in the FileSystem dock",
+  "up": 6,
+  "updatedAt": "2026-07-22T18:55:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12469"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Addon cannot be implemented",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-08-19T02:23:46Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13026,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "No longer limit the number of node history that has been used recently",
+  "up": 0,
+  "updatedAt": "2025-08-19T23:38:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13026"
+}

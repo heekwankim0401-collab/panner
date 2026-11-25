@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I think this will be useful for almost every 2d game.",
+    "format": "form",
+    "workaround": "Yes, there are workarounds but it needs to do changes in scenes too. There is  `VisualServer.black_bars_set_images` in 3.x , so i think it can also be implemented in 4.x too."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-28T22:36:10Z",
+  "comments": 9,
+  "createdAt": "2024-10-17T16:15:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10987,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to change color of black bars",
+  "up": 4,
+  "updatedAt": "2025-10-14T14:12:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10987"
+}

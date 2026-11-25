@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core node of VisualScript that implements Basic language instructions. It should run reliably and be flexible.\n\n## My exploratory work.",
+    "format": "markdown",
+    "workaround": "This is the known workaround. As you see it is not user friendly\n![image](https://user-images.githubusercontent.com/20573784/119361054-857e2b80-bcab-11eb-989d-b9809027dd4c.png)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-30T19:01:02Z",
+  "comments": 1,
+  "createdAt": "2021-05-24T14:33:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 2764,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expanding VisualScriptEngineSingleton to use autoload singletons",
+  "up": 0,
+  "updatedAt": "2021-08-30T23:17:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2764"
+}

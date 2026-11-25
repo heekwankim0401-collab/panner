@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the out-of-box experience for the SpriteFrames menu.",
+    "format": "form",
+    "workaround": "This *might* be able to be worked around with an editor plugin (I'm not entirely sure), but I don't think that is very convenient."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-29T18:21:39Z",
+  "comments": 0,
+  "createdAt": "2025-06-14T01:56:24Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12604,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to copy and paste animations in SpriteFrames",
+  "up": 4,
+  "updatedAt": "2025-10-29T18:22:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12604"
+}

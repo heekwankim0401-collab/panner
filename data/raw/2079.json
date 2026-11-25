@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This can't be achieved through add-on",
+    "format": "markdown",
+    "workaround": "To get this to work in script, you will have to copy paste the following code to each and every node in the project which is not convenient:\n```\nfunc _enter_tree():\nif custom_multiplayer == null:\n    custom_multiplayer = get_parent().custom_multiplayer\n```\n<br>"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-24T10:51:40Z",
+  "comments": 6,
+  "createdAt": "2021-01-05T20:34:36Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.0",
+  "number": 2079,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make nodes inherit custom multiplayer",
+  "up": 0,
+  "updatedAt": "2022-11-24T14:54:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2079"
+}

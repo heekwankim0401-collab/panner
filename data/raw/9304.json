@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`inst_to_dict` is a built-in function.",
+    "format": "form",
+    "workaround": "I think this is one of the major sticking points of multiplayer Godot.  Right now, it can be difficult to sync layered state and data structures across RPC calls.  I can, and will try, writing more verbose serialization conversion methods to my states, making custom dictionaries instead of relying on `inst_to_dict`, but that is going to take a long time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-03-15T18:10:08Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9304,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow deep calls to `dict_to_inst()`",
+  "up": 0,
+  "updatedAt": "2024-03-15T18:56:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9304"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Importing files is a core part of the godot user experience.",
+    "format": "form",
+    "workaround": "I've been able to workaround this by creating a hard link of the CSV file on my filesystem and importing the bas efile and the symlink with different import modes. This is not a very intuitive solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-07-24T11:20:27Z",
+  "down": 0,
+  "labels": [
+    "topic:i18n",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12854,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Import as-is AND generate translation files when importing CSV files",
+  "up": 0,
+  "updatedAt": "2025-07-25T09:57:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12854"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is essentially used in almost all non-trivial projects",
+    "format": "form",
+    "workaround": "I believe .duplicate(true) is used often thinking that it does a deepcopy"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-01-14T06:59:16Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8876,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a deepcopy function that can be used on all variant types",
+  "up": 4,
+  "updatedAt": "2024-01-14T17:38:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8876"
+}

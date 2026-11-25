@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The visual graph editors are a core part of the engine.",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-04T15:11:00Z",
+  "comments": 9,
+  "createdAt": "2022-08-27T10:25:09Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 5271,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Refactor of GraphEdit/GraphNode",
+  "up": 36,
+  "updatedAt": "2024-04-04T15:11:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5271"
+}

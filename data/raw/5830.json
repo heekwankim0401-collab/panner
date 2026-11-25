@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This shouldn't require an add-on.",
+    "format": "form",
+    "workaround": "It will be used every time the triangles are dragged to the color bars edges."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-27T06:21:44Z",
+  "comments": 0,
+  "createdAt": "2022-11-23T00:11:40Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 5830,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow the grabber in a slider to visually reach slider's boundaries",
+  "up": 2,
+  "updatedAt": "2023-04-27T06:21:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5830"
+}

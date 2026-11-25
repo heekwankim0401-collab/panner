@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is the engine buildsystem, can't be third-party.",
+    "format": "form",
+    "workaround": "It will be used often. The current system works fine, but this should improve user-friendliness significantly."
+  },
+  "assignees": 1,
+  "closedAt": "2022-11-21T06:55:45Z",
+  "comments": 13,
+  "createdAt": "2021-09-30T11:07:37Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": "4.0",
+  "number": 3371,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Unify `tools`/`target` build type configuration to disambiguate \"debug\" (used for both game debugging and engine dev tools)",
+  "up": 15,
+  "updatedAt": "2022-11-21T06:55:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3371"
+}

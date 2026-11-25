@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know if this can be an addon",
+    "format": "form",
+    "workaround": "it's an editor feature that would be used a bit"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-25T06:20:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8252,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow filtering nodes by configuration warning status in the scene dock",
+  "up": 1,
+  "updatedAt": "2023-10-25T19:07:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8252"
+}

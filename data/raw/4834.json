@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about changing the defaults in new projects to improve the out-of-the-box user experience.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-07-07T23:13:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 4834,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Tweak default environment and graphics settings in new Godot 3.6 projects",
+  "up": 29,
+  "updatedAt": "2022-10-27T16:02:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4834"
+}

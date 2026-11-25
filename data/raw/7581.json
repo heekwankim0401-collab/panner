@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "What i want cannot be added using plugins as of now.\n\nI'm sure there are other developers out there that use types that are not natively compatible with the Export attribute and would ideally want to be able to create their own converter.\n\nThis would make it easier to handle types like TimeSpan in my case.",
+    "format": "form",
+    "workaround": "This property can either be replaced by a primitive, such as a long, or a string that has to be formatted in a specific way to make it not crash on launch which could easily be broken."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-08-30T00:46:24Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 7581,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "[C#] Add support for custom converters to extend the Export attribute's functionalities",
+  "up": 10,
+  "updatedAt": "2024-10-18T07:20:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7581"
+}

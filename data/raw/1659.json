@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is an issue with the way editor handles plugin scripts, so it should be changed in the editor, but possibly optional.",
+    "format": "legacy",
+    "workaround": "I guess a plugin can be made to watch `.gd` files in the `res://addons` folder and toggle related plugins, but that's unreasonable in my opinion."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-17T13:09:10Z",
+  "comments": 6,
+  "createdAt": "2020-10-13T17:34:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.0",
+  "number": 1659,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Require explicit confirmation for reloading plugin scripts",
+  "up": 9,
+  "updatedAt": "2022-05-17T21:39:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1659"
+}

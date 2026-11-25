@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-07-14T15:38:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15193,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Increase precision of Anchor Offsets properties in the inspector to allow for subpixel values",
+  "up": 0,
+  "updatedAt": "2026-07-15T16:21:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15193"
+}

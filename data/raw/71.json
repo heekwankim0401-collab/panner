@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because it would make it easy to create rigid bodies from many selected objects ... and as I showed before this is something basic in programs like unity\n\n# GLTF mesh match for tests\n[techo_destruible.zip](https://github.com/godotengine/godot-proposals/files/3613284/techo_destruible.zip)",
+    "format": "legacy",
+    "workaround": "If you can but as I showed in a video above, it is a basic thing to create multiple rigidbodys from the selection of many objects in the node search engine or gameobject in unity"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2019-09-15T00:25:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 71,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create multiple RigidBodies from many several selected MeshInstances in the Scene tree dock",
+  "up": 5,
+  "updatedAt": "2020-11-06T18:45:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/71"
+}

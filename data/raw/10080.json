@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This requires a core implementation.",
+    "format": "form",
+    "workaround": "This requires a core implementation."
+  },
+  "assignees": 1,
+  "closedAt": "2025-01-14T00:22:27Z",
+  "comments": 1,
+  "createdAt": "2024-06-30T01:11:48Z",
+  "down": 0,
+  "labels": [
+    "topic:xr"
+  ],
+  "milestone": "4.x",
+  "number": 10080,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add binding modifiers to OpenXR action map",
+  "up": 0,
+  "updatedAt": "2025-01-14T00:22:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10080"
+}

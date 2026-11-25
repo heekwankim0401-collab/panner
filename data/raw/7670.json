@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Terrain Autotiler, on which this proposal is derived, is already available as a plugin. And another plugin, [Better Terrain](https://github.com/Portponky/better-terrain), which originated from a different proposal (https://github.com/godotengine/godot-proposals/issues/5575), has proven to be very popular among Godot 4 users.\n\nHowever, the terrain tile system is already a core feature that is simply not working as designed. Integrating a fix in the main engine would benefit more users and provide a smoother and faster experience than using a plugin.",
+    "format": "form",
+    "workaround": "Traditionally, many developers have created custom tile-matching algorithms for their games, but they are usually a lot more intensive than a few lines of code. They require both time investment and programming experience. Having a built-in autotiling system in Godot has been a big draw for indie developers."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2023-09-15T05:11:09Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7670,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Refactor Terrain Tile Matching Algorithm for Accuracy and Determinism",
+  "up": 60,
+  "updatedAt": "2024-06-24T12:56:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7670"
+}

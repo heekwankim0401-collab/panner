@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think this feature should be part of the core engine because it affects a fundamental aspect of the editor interface, which is the editing of values and sliders. It is not something that can be easily added or modified by an add-on, as it requires changing the code of a core class (EditorSpinSlider). Moreover, this feature would benefit all users who work with values and sliders in the editor, regardless of their specific use case or project type. It would also make Godot more consistent with Blender, which is a widely used tool in the game development community.",
+    "format": "form",
+    "workaround": "This enhancement cannot be worked around with a few lines of script, as it requires modifying the internal behavior of the EditorSpinSlider class. A possible workaround would be to create a custom editor plugin that replaces all EditorSpinSliders with custom ones that implement this feature, but this would be cumbersome and inefficient."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-13T09:08:30Z",
+  "comments": 1,
+  "createdAt": "2023-11-12T23:33:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8410,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Hold down the Shift key while dragging to fine-tune values and sliders",
+  "up": 1,
+  "updatedAt": "2023-11-13T11:09:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8410"
+}

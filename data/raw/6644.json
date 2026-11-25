@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "core",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-06T16:38:42Z",
+  "comments": 1,
+  "createdAt": "2023-04-06T02:53:22Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6644,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "support unary 'not' for types that support implicit to bool",
+  "up": 0,
+  "updatedAt": "2023-04-06T16:38:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6644"
+}

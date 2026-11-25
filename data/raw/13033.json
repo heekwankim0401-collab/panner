@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I attempted to use the dwmapi.dll in C# to implement it my self using [`DwmExtendFrameIntoClientArea`](https://learn.microsoft.com/en-us/windows/win32/api/dwmapi/nf-dwmapi-dwmextendframeintoclientarea), but to no effect. Leading me to beleive that Godot is tightly controlling it.",
+    "format": "form",
+    "workaround": "As far as I can tell, no."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-19T20:40:19Z",
+  "comments": 1,
+  "createdAt": "2025-08-19T16:58:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 13033,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add Windows support for \"extend_to_title\"",
+  "up": 0,
+  "updatedAt": "2025-08-19T20:40:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13033"
+}

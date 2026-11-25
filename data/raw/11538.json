@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is meant to replace a system that doesn't work that well.",
+    "format": "form",
+    "workaround": "The only solution is to add an extra AnimationPlayer node, and then manually make it animate the AnimatedSprite nodes."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-17T19:30:28Z",
+  "comments": 3,
+  "createdAt": "2025-01-11T13:04:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 11538,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Replace AnimatedSprite Nodes with SpriteAnimator",
+  "up": 0,
+  "updatedAt": "2025-02-17T22:09:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11538"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't see how this could work as an add-on when it's about the native workflow.",
+    "format": "form",
+    "workaround": "This enhancement would be used with every AudioEffect in a Godot project."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-13T22:11:14Z",
+  "comments": 1,
+  "createdAt": "2025-09-13T20:41:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13167,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow adjusting AudioEffects in the editor during gameplay",
+  "up": 0,
+  "updatedAt": "2025-09-13T22:11:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13167"
+}

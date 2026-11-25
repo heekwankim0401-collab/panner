@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "More of a consistency issue than a new feature request. If there is a feature in one Animation node, why shouldn't it be in others?",
+    "format": "legacy",
+    "workaround": "First answer (David-Ochoa)"
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-15T18:54:23Z",
+  "comments": 2,
+  "createdAt": "2020-02-11T10:05:57Z",
+  "down": 1,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 463,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a timescale to individual animations in AnimationNodeStateMachine",
+  "up": 4,
+  "updatedAt": "2023-09-16T19:26:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/463"
+}

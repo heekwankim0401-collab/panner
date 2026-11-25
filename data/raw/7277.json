@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Usability is important especially for something as complex and time consuming as a state machine. Getting it right often requires a tonne of tweaking and with the current setup that means potentially hundreds of mode changes and loading up of the Inspector eating time and sanity.",
+    "format": "form",
+    "workaround": "It would be used regularly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-07-14T11:48:26Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7277,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve AnimationNodeStateMachine usability",
+  "up": 5,
+  "updatedAt": "2024-10-22T10:53:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7277"
+}

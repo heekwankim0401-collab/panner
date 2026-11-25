@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. The Inspector rendering of exported properties is implemented in the Godot editor itself and cannot be meaningfully altered from an add-on without fully replacing or duplicating Inspector behavior.\n\nThis proposal concerns a core limitation of how flags enums are displayed in the Inspector and would benefit all C# users (and potentially other languages) who rely on flags enums with a zero value. An opt-in core solution avoids fragmented, project-specific hacks and provides a consistent, engine-level improvement to editor UX.",
+    "format": "form",
+    "workaround": "It can technically be worked around by duplicating enums specifically for Inspector usage and manually mapping them to the runtime enums. However, this is not a simple or clean workaround: it introduces duplicated types, extra maintenance cost, and potential for desynchronization between editor-facing and runtime APIs.\n\nThis workaround becomes increasingly problematic in larger frameworks or plugins with many flags enums."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-26T21:04:57Z",
+  "comments": 3,
+  "createdAt": "2026-01-17T02:00:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 14023,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add optional way to hide zero/\"None\" entry for exported flags enums in Inspector",
+  "up": 2,
+  "updatedAt": "2026-01-26T21:05:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14023"
+}

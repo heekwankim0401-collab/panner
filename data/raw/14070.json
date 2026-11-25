@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As far as I understand, it cannot be implemented as an add-on.",
+    "format": "form",
+    "workaround": "This cannot be worked around through script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-01-26T00:08:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14070,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add new dropdown \"File > Open Recently Closed\" to the script editor",
+  "up": 1,
+  "updatedAt": "2026-01-26T22:49:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14070"
+}

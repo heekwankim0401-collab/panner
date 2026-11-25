@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-07T14:40:43Z",
+  "comments": 3,
+  "createdAt": "2026-04-15T09:06:21Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 14678,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Exclude GLB files from \"Quick Open Scenes\" (or offer an option to do so)",
+  "up": 12,
+  "updatedAt": "2026-07-07T14:42:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14678"
+}

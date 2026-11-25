@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "The network identity part I think it's not feasible to implement in scripts, specially not in a way that RPCs and MultiplayerSynchronizer can benefit from. \n\nOther parts of this proposal can probably be worked around, but not easily. It would probably require implementing a custom MultiplayerAPIExtension, alongside a custom node type. I think this improvements are general and useful enough to guarantee implementing in core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2025-04-11T17:20:47Z",
+  "down": 4,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 12217,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Introduce a MultiplayerEntity node for improved identity and authority management",
+  "up": 22,
+  "updatedAt": "2026-03-27T12:56:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12217"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a low-level physics limitation that cannot be fully addressed via an add-on.\n\nThe issue relates to how RigidBody2D handles transforms, center of mass, and collision detection when parented under another node.\n\nAdd-ons cannot reliably override or patch the physics engine’s internal behavior, especially for high-speed interactions or complex collision scenarios.\n\nA core implementation would ensure consistent, predictable physics behavior for destructible objects, improve usability, and avoid hacks or workarounds that break scene hierarchy or introduce instability.\n\nBecause of this, proper support should exist at the engine level rather than as a user-space plugin.\n\n\nAttached is a minimal reproduction project demonstrating the issue:\n[DestructibleMRP.zip](https://github.com/user-attachments/files/24754343/DestructibleMRP.zip)",
+    "format": "form",
+    "workaround": "At the moment, this cannot be reliably worked around with a few lines of script.\nPossible workarounds (such as reparenting RigidBody2D nodes to the scene root at runtime, manually offsetting transforms, or recreating bodies on trigger) introduce additional complexity, visual glitches, and unstable physics behavior.\n\nThese approaches also reduce the practicality of authoring pre-fractured objects directly in the editor, which is the main goal of this setup. A proper engine-level solution would be more robust and easier to use than scripting-based hacks."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-21T19:39:20Z",
+  "comments": 1,
+  "createdAt": "2026-01-21T01:06:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 14042,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow RigidBody2D to properly detach child pieces with independent physics in 2D",
+  "up": 0,
+  "updatedAt": "2026-01-21T22:31:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14042"
+}

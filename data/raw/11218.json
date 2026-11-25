@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "My intention is that this would be a potential replacement for the current boolean functions, but it’s not necessary that those functions are removed.",
+    "format": "form",
+    "workaround": "You would need to use this function (or one of the current implementations) to access the private attributes on_floor, on_ceiling, on_wall, as they are currently defined in character_body_2d.h."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-10T03:45:18Z",
+  "comments": 2,
+  "createdAt": "2024-11-22T21:50:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:codestyle",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11218,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Consolidation of boundary-touching functions in character_body_2d.cpp",
+  "up": 1,
+  "updatedAt": "2024-12-11T07:54:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11218"
+}

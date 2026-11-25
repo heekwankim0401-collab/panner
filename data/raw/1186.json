@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The audio mixer seems to be a core Godot feature; I can't find add-ons or plugins that can modify the audio mixer.",
+    "format": "legacy",
+    "workaround": "Not a few lines, but a technically possible workaround is creating a UI in-game that uses AudioServer methods to modify audio mixers and their effects, basically recreating the entire Godot project's audio mixer into the game. After achieving an acceptable result, write down values and then adjust the actual audio mixer accordingly."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2020-07-10T17:21:57Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1186,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the editor's audio bus editor affect the running project in real-time",
+  "up": 54,
+  "updatedAt": "2026-03-23T12:33:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1186"
+}

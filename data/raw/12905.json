@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Build system is core",
+    "format": "form",
+    "workaround": "No. I tried using `unbuffer` but I couldn't figure out how to get it to give the expected results."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-30T22:49:54Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 12905,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `progress=yes` in SCons when using non-interactive standard output",
+  "up": 1,
+  "updatedAt": "2025-07-30T23:58:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12905"
+}

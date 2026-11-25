@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-01T14:01:18Z",
+  "comments": 1,
+  "createdAt": "2026-07-31T05:13:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15294,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add support for partially overflowing tabs in TabContainer and TabBar",
+  "up": 6,
+  "updatedAt": "2026-08-01T14:01:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15294"
+}

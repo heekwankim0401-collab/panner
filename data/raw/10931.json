@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "mainloop is core",
+    "format": "form",
+    "workaround": "can't, mainloop is core"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-16T14:09:31Z",
+  "comments": 2,
+  "createdAt": "2024-10-08T00:33:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10931,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `fallback_main_loop_type` in addition to the existing `main_loop_type`",
+  "up": 0,
+  "updatedAt": "2024-10-16T14:12:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10931"
+}

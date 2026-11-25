@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Rendering is core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-01-14T03:07:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6096,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Filmic tonemapper desaturate bright colors (like ACES)",
+  "up": 4,
+  "updatedAt": "2023-04-02T14:45:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6096"
+}

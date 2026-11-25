@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I couldn't find a way to do it through script",
+    "format": "form",
+    "workaround": "I couldn't find a way to do it through script"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-15T21:09:45Z",
+  "comments": 1,
+  "createdAt": "2023-05-15T08:21:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 6884,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose MultiNodeEdit get_node, get_node_count and add_node methods to GDScript for plugin development",
+  "up": 1,
+  "updatedAt": "2023-10-11T01:47:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6884"
+}

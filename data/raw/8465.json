@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "`get_node_or_null()` is available to use"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-29T22:43:14Z",
+  "comments": 1,
+  "createdAt": "2023-11-18T12:19:38Z",
+  "down": 12,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8465,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change % and $ from get_node() to get_node_or_null()",
+  "up": 0,
+  "updatedAt": "2023-12-29T22:43:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8465"
+}

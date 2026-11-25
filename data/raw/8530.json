@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's GDScript parser/compiler related.",
+    "format": "form",
+    "workaround": "A workaround would be to use `as` or declare a temporary untyped variable.\nThe following shows an example with multiple ways to workaround it, however, all these workarounds are rather cumbersome and should be unnecessary.\n\n```gdscript\nfunc _input(event: InputEvent) -> void:\n    var joypad_motion := event as InputEventMouseMotion\n\n    if event is InputEventJoypadMotion:\n        print((event as InputEventJoypadMotion).axis)\n    elif event is InputEventJoypadButton:\n        var ev := event as InputEventJoypadButton\n        print(ev.button_index)\n    elif joypad_motion:\n        print(joypad_motion.relative)\n    elif event is InputEventMouseButton or event is InputEventKey:\n        var ev = event\n        print(ev.button_index)\n```\n\nAlso, `@warning_ignore(\"unsafe_property_access\")` right before the line producing errors, does not seem to work when warnings are treated as errors."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2023-11-27T19:14:02Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8530,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ignore \"unsafe method/property access\" errors inside a corresponding `is` condition block",
+  "up": 24,
+  "updatedAt": "2026-05-13T18:24:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8530"
+}

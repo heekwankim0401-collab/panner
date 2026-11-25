@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the shader editor",
+    "format": "form",
+    "workaround": "I highly doubt it"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-07-16T14:51:42Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 4887,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the shader resource name (or path) inside of the error output when compilation fails",
+  "up": 4,
+  "updatedAt": "2022-07-17T02:46:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4887"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Unfortunately swift is core build.",
+    "format": "form",
+    "workaround": "Sounds like all code will finally switch to swift"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-10-14T07:53:21Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "platform:macos",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 10967,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement Swift support in buildsystem for iOS and macOS builds",
+  "up": 0,
+  "updatedAt": "2024-10-30T10:07:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10967"
+}

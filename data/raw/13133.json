@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I believe it's something that makes sense to be part of the core engine.",
+    "format": "form",
+    "workaround": "Probably yes, with a custom importer plugin, but it's something that makes sense to be part of the core engine."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-08T14:38:49Z",
+  "comments": 1,
+  "createdAt": "2025-09-06T08:50:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13133,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for automatically importing manually authored LODs based on naming conventions",
+  "up": 1,
+  "updatedAt": "2025-09-08T14:38:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13133"
+}

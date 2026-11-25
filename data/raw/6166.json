@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a modification to an in-engine class, and as such it would be difficult to implement as an addon.",
+    "format": "form",
+    "workaround": "It kind of can, but considering how useful this would be to implement for anyone trying to sync things to music in their games, and to anyone who wants to measure the progress of their music in a way that makes sense for music, it makes sense to implement a method into the class to work well with `AudioStream.get_bpm()`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-01-24T21:10:20Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 6166,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `get_current_beat()` function to AudioSteam",
+  "up": 9,
+  "updatedAt": "2024-09-05T00:52:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6166"
+}

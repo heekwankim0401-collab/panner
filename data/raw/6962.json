@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would need to part of gridmap core code.",
+    "format": "form",
+    "workaround": "No, it would be gridmap core code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-27T20:13:02Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6962,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add key modifier to draw gridmap placement to rectanglar block",
+  "up": 2,
+  "updatedAt": "2023-05-27T20:30:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6962"
+}

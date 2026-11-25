@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It works now with a little code, it's just a very weird feature omission and if I didn't know to try harder, I would just see the absence and believe Godot can't do that.",
+    "format": "form",
+    "workaround": "It works now with a little code, it's just a very weird feature omission and if I didn't know to try harder, I would just see the absence and believe Godot can't do that."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-10-08T14:37:42Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8036,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add MeshInstance option to get mesh from MeshLibrary",
+  "up": 3,
+  "updatedAt": "2024-11-06T19:15:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8036"
+}

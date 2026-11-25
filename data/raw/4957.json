@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a Quality of Life improvement for the Visual Shader Editor and would be used by everyone using the visual shader editor.",
+    "format": "form",
+    "workaround": "It could be created as a Custom Visual Shader Node add-on"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-02T17:20:49Z",
+  "comments": 3,
+  "createdAt": "2022-07-23T20:45:19Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 4957,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose often-used variables derived from built-ins as seperate visual shader nodes/ shader constants",
+  "up": 14,
+  "updatedAt": "2022-08-02T17:20:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4957"
+}

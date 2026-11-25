@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Streamlining working with audio.",
+    "format": "form",
+    "workaround": "It can be done but it is lot of lines for something so simple.\n\n1) stored in var\n2) has to be removed as a child\n3) signal has to be connected\n4) back into the SceneTree\n5) played\n6) cleaned up"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2022-05-20T15:51:26Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 4569,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement SceneTreeAudioPlayer",
+  "up": 12,
+  "updatedAt": "2024-01-18T18:07:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4569"
+}

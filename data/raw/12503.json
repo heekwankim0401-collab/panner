@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems like a must have.",
+    "format": "form",
+    "workaround": "A small workaround I found is setting the `syntax_highlighter` property to null and then reassigning it again, but it makes the text flicker, and that's not very nice to look at."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-05-27T06:41:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12503,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to manually update SyntaxHighlighter's highlighting without relying on lines_edited_from()",
+  "up": 2,
+  "updatedAt": "2025-05-27T16:17:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12503"
+}

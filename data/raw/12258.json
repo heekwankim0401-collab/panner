@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Motion blur is a core post processing effect in modern engines, in the same vein as depth of field and TAA. In fact, motion blur usually relies on the same data as the two other effects, and in modern engines, these 3 effects tend to be tightly integrated alongside each other for performance and quality reasons.\n\nIn addition, the current Compositor addon implementation of motion blur has multiple shortcomings that are difficult, if not impossible, to workaround as an addon. Including but not limited to - issues with TAA, FSR 2, and MSAA, issues with clipmap terrain, and the aforementioned (lacking) motion vectors for the skybox that had to be worked around with a pre-blur processing stage.",
+    "format": "form",
+    "workaround": "Not a few, no. Compositor currently has some shortcomings and it was generally agreed on that this should eventually come built-in."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2025-04-16T15:06:04Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12258,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Port community motion blur addon",
+  "up": 24,
+  "updatedAt": "2026-01-15T13:17:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12258"
+}

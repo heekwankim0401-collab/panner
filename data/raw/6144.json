@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because its an extension of a core feature - makes tile-map layers more powerful. Could be used for other layer / area specific uses",
+    "format": "form",
+    "workaround": "I could get an array of the whole layer and iterate through to find the min and max values for limits, but since the function exists and it would avoid another loop i think it makes sense."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-01-22T22:41:31Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6144,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow get_used_rect() to get the rect of specific layers in Godot 4.0",
+  "up": 3,
+  "updatedAt": "2023-01-22T23:39:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6144"
+}

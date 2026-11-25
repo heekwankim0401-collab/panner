@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "This is core editor/rendering functionality.",
+    "format": "form",
+    "workaround": "No, as PVRTC compression support is part of the engine itself."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-16T10:15:34Z",
+  "comments": 2,
+  "createdAt": "2021-12-17T21:05:30Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:3d",
+    "topic:editor",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 3688,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove support for obsolete PVRTC texture compression",
+  "up": 1,
+  "updatedAt": "2022-05-14T21:21:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3688"
+}

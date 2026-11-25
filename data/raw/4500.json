@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This cannot really be added as an addon.",
+    "format": "form",
+    "workaround": "This is purely cosmetic."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-25T20:45:57Z",
+  "comments": 4,
+  "createdAt": "2022-05-06T12:11:42Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 4500,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Rename C# enum values containing acronyms to uppercase",
+  "up": 2,
+  "updatedAt": "2023-02-25T20:46:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4500"
+}

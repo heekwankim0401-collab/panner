@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "MultiMeshInstance is core, this would just add a collision counterpart for instances where they are useful and need to be tied to MMI.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-11T15:52:53Z",
+  "comments": 11,
+  "createdAt": "2022-04-04T19:25:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 4344,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add MultiColliderInstance",
+  "up": 0,
+  "updatedAt": "2024-07-03T21:18:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4344"
+}

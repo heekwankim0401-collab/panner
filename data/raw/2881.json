@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Enhancement of existing feature, while not breaking any other things. Better for 3d workflow.",
+    "format": "form",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-10T15:14:26Z",
+  "comments": 5,
+  "createdAt": "2021-06-18T18:28:31Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 2881,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow BoneAttachments to be outside of the Skeleton node",
+  "up": 6,
+  "updatedAt": "2023-10-10T15:14:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2881"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "the AstarGrid2D class is already part of core\n\n*Bugsquad edit (keywords for easier searching): AStar*",
+    "format": "form",
+    "workaround": "i think its an important addition to the AstarGrid2D class"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-27T22:17:10Z",
+  "comments": 4,
+  "createdAt": "2023-02-11T20:01:13Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.4",
+  "number": 6276,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to get all points from an AStarGrid2D",
+  "up": 6,
+  "updatedAt": "2024-08-27T22:17:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6276"
+}

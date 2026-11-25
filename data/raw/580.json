@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-07T23:04:33Z",
+  "comments": 5,
+  "createdAt": "2020-03-13T19:03:08Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 580,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Treat enums as a list of constants, not dictionaries",
+  "up": 0,
+  "updatedAt": "2022-04-16T20:45:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/580"
+}

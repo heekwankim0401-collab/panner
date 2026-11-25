@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot already supports built-in normal map in the canvas item shader, and it is very odd that there is no property to make use of this for some of the 2D rendering nodes, while others have it (mesh2d and sprite).",
+    "format": "legacy",
+    "workaround": "It can be worked around by making a custom shader, but the UX is pretty bad."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-04T03:44:25Z",
+  "comments": 3,
+  "createdAt": "2020-10-11T13:19:42Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1651,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a normalmap property to Polygon2D",
+  "up": 4,
+  "updatedAt": "2021-03-04T03:45:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1651"
+}

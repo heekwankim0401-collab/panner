@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because it seems reasonable that we have some sort of grid component for placing spacial nodes",
+    "format": "legacy",
+    "workaround": "this would be used alot more then the current one and no"
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-02T23:52:23Z",
+  "comments": 5,
+  "createdAt": "2020-04-24T00:05:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 747,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "allow GridMap to use a node library and not just mesh libraries",
+  "up": 1,
+  "updatedAt": "2020-05-03T11:49:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/747"
+}

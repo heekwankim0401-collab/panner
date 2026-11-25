@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is part of the engine.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-31T15:31:23Z",
+  "comments": 1,
+  "createdAt": "2024-07-30T20:37:27Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 10326,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Split editor_doc_cache.res into version",
+  "up": 0,
+  "updatedAt": "2024-07-31T15:31:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10326"
+}

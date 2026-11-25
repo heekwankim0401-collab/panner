@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the editor workflow out of the box",
+    "format": "form",
+    "workaround": "Undo / Redo missing cannot be worked around with a script"
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-04T16:01:47Z",
+  "comments": 5,
+  "createdAt": "2024-06-28T14:05:41Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 10062,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Undo / Redo support to Animation Library Editing",
+  "up": 0,
+  "updatedAt": "2024-07-04T16:02:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10062"
+}

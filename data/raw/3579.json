@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's already in core, and would go nicely with other already exposed collision functions.",
+    "format": "form",
+    "workaround": "definitely no."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-22T16:34:32Z",
+  "comments": 15,
+  "createdAt": "2021-11-21T03:25:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3579,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose physics shape separation functionality",
+  "up": 2,
+  "updatedAt": "2021-12-08T16:32:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3579"
+}

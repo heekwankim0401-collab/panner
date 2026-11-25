@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes\nAdd on cannot add button by itself unless godot core allows it. So in my opinion this is a core feature",
+    "format": "form",
+    "workaround": "Yes currently there is a workaround\n\n```\n@tool\n\n@export var myButton: bool: \n      set(value):\n           if(Engine.is_editor_hint()):   //so that it only executes in editor\n                myButton = false           //keeping it false so that it doesn't get checked not required but I prefer it\n                // This will be executed every time it is clicked\n\n```\nWith this job gets done but \n- It is not a button and hence cannot rename it or add icon to it (Add metadata has + icon)\n- It requires tool just for this specific purpose"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-21T17:56:42Z",
+  "comments": 2,
+  "createdAt": "2023-01-21T17:23:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6140,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add the ability to export button in inspector",
+  "up": 1,
+  "updatedAt": "2024-01-23T13:13:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6140"
+}

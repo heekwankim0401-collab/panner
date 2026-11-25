@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its a very small feature that could be used so frequently that remembering to downloading a plugin for every project you need it, would be hassle and a pain.\n\nAnd implementing it in the core could lead to more performant texture generation, like [placeholder texture](https://docs.godotengine.org/en/stable/classes/class_placeholdertexture2d.html)",
+    "format": "form",
+    "workaround": "This could be worked around with the current verbose method of doing it."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-30T10:04:04Z",
+  "comments": 6,
+  "createdAt": "2025-06-29T15:41:35Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12692,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add a SolidColorTexture Resource",
+  "up": 7,
+  "updatedAt": "2025-06-30T10:04:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12692"
+}

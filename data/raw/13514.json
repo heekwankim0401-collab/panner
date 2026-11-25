@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "It cannot be worked around with a few lines of script as far as I know. It might be possible with a disproportionate amount of addon code, but since this is just a minor visual improvement, it wouldn't make sense to do this as an addon."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-24T15:34:35Z",
+  "comments": 5,
+  "createdAt": "2025-10-30T20:06:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 13514,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use monospaced font for code names (methods, signals, properties) in editor",
+  "up": 9,
+  "updatedAt": "2026-02-24T15:34:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13514"
+}

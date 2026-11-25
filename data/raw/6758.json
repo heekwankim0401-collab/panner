@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having it in core is the only way to really use this in an efficient workflow. I also believe that this is a feature that will help quite some users while not adding much complexity.",
+    "format": "form",
+    "workaround": "This is core physics behavior. There is no way to work around it easily. One can write an editor script that takes a shape, calculates the center of mass, and then offsets all polygon shapes to make the origin the same as the center of mass. However this is cumbersome and a lot more than \"worked around with a few lines\"."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-04-26T00:25:21Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6758,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve automatic center of mass determination for polygon shapes",
+  "up": 2,
+  "updatedAt": "2023-04-26T12:29:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6758"
+}

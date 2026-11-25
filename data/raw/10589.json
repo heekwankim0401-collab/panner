@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its a small feature that assits greatly and opens new possibilities for the already existing animation node",
+    "format": "form",
+    "workaround": "Technically yes but it would be quite hard to achive the more complex the animations are. I did with code because i only needed to animate the values"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-08-29T10:03:50Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10589,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Frames manager on AnimationPlayer",
+  "up": 0,
+  "updatedAt": "2024-08-31T03:13:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10589"
+}

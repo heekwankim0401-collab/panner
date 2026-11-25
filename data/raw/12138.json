@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This means an add-on could override core behaviors of the editor. I am not sure whether that's possible.",
+    "format": "form",
+    "workaround": "Since the feature concerns navigation, it will be benefited from at all time when using the editor on 3D projects."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-04-01T16:11:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12138,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to invert the 3D viewport zoom direction",
+  "up": 1,
+  "updatedAt": "2026-09-14T14:04:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12138"
+}

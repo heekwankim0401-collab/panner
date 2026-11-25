@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "consistency; theres a `hex_encode`, why no `hex_decode`?",
+    "format": "form",
+    "workaround": "yes: \n```gdscript\nstatic func hex_decode(s: String) -> PackedByteArray:\n  var result := PackedByteArray()\n  var half_len := len(s)/2\n  result.resize(half_len)\n  for i in half_len:\n    result[i] = (s[i * 2] + s[i * 2 + 1]).hex_to_int()\n  return result\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-05T18:24:00Z",
+  "comments": 1,
+  "createdAt": "2023-03-02T06:39:08Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.1",
+  "number": 6392,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `hex_decode()` method to complement `PackedByteArray.hex_encode()`",
+  "up": 2,
+  "updatedAt": "2023-04-05T18:24:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6392"
+}

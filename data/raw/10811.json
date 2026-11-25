@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its a fix of an already existing feature",
+    "format": "form",
+    "workaround": "The current implementation is not work around-able due to android.permission.DUMP being blocked by default unless for system applications. So unable to get true DPI from the system."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-09-23T02:16:36Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10811,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Change Android Display server DPI",
+  "up": 0,
+  "updatedAt": "2024-09-23T15:12:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10811"
+}

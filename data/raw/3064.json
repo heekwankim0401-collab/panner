@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not possible to implement.",
+    "format": "form",
+    "workaround": "Not possible."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-18T06:51:26Z",
+  "comments": 5,
+  "createdAt": "2021-07-31T01:40:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": "3.x",
+  "number": 3064,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Backport API renames to 3.x and deprecate the old ones",
+  "up": 4,
+  "updatedAt": "2023-09-18T06:51:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3064"
+}

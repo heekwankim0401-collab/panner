@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be a imho necessary improvement to an existing feature to make is more usable for production work.",
+    "format": "legacy",
+    "workaround": "It would be used often by Level designers, people who quickly want to block out prototypes, gamejams games that require just very basic geometry. It would also integrate brilliantly with the upcoming Gltf2 export https://github.com/godotengine/godot/issues/14752"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2019-10-24T21:03:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 182,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow multiple CSG meshes to be merged into one",
+  "up": 34,
+  "updatedAt": "2026-03-27T11:03:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/182"
+}

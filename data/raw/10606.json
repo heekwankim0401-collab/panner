@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it sould be core.",
+    "format": "form",
+    "workaround": "if no signals. i think 2 way to solve this:\n1. use a area instead.\n2. in process or timer contious check.\n\nbut i think 2 ways both not good. for some situation, use the raycast was make sense."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-08-30T14:26:28Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10606,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add some signal for RayCast2D/3D",
+  "up": 2,
+  "updatedAt": "2024-09-03T01:50:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10606"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If somebody coded that in some library, honestly I'll be glad to just download it and `#include` it in my own shader.\n\nThe advantage of Godot developers doing it is that they can plug the C++ implementation in color.cpp and ok_color.h (assuming they can use C++ code in their shader language).\n\nIf they need to copy their C++ implementation to pure shader language to make it work, then I suppose it would be equal work to write it for Godot itself or in an asset library.",
+    "format": "form",
+    "workaround": "I'm already doing this for HSL. I could do this for OK HSL too, but I fear I'll have to get through the formulas myself this time (as it's much harder to find existing functions on this new space)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-03-07T19:42:53Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6454,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add shader built-in functions to convert colors between RGB, HSV, HSL and OKHSL",
+  "up": 23,
+  "updatedAt": "2026-03-17T00:45:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6454"
+}

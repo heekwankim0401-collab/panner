@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "All the other colors are tunable, so this seems to have been missed. I'm in fact surprised that this color would be the only hardcoded one.",
+    "format": "form",
+    "workaround": "No, I'd need to rewrite my own Path2D node."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-03-29T21:39:52Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12108,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Editor Setting to change Path 2D base color",
+  "up": 0,
+  "updatedAt": "2025-03-31T15:22:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12108"
+}

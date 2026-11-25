@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a core functionality.",
+    "format": "form",
+    "workaround": "No. don't ask why (-_-)"
+  },
+  "assignees": 1,
+  "closedAt": "2026-04-16T14:56:04Z",
+  "comments": 0,
+  "createdAt": "2025-08-15T11:22:09Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": "4.7",
+  "number": 13003,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow moving and resizing the embedded game window on Android",
+  "up": 1,
+  "updatedAt": "2026-04-16T14:56:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13003"
+}

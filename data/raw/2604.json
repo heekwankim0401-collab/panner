@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Rendering is Core.\n\nNote: Godot can Auto-Generate Shadow Meshes, as an LOD of the Original Mesh, and is the easiest part to implement and as such is taken for granted in the Proposal above..",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-03T12:21:22Z",
+  "comments": 5,
+  "createdAt": "2021-04-14T11:04:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2604,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Shadow Meshes",
+  "up": 0,
+  "updatedAt": "2021-08-03T12:21:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2604"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The code for rendering CanvasItem nodes with a higher Y position in front of nodes with a lower Y position already exists. I think adding a statement to render in the opposite order would work better where the existing code is located, instead of creating a different module, which could cause issues.",
+    "format": "form",
+    "workaround": "I have not tried yet, but it can be worked around changing the z index of the different canvas items based on their **position.y** value"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-01T10:28:54Z",
+  "comments": 3,
+  "createdAt": "2024-12-01T09:03:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11271,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Inverted Y Sort",
+  "up": 0,
+  "updatedAt": "2024-12-02T06:18:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11271"
+}

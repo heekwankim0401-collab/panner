@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Tweens should provide flexibility out of the box, it would be a shame to have almost all the components needed to bring their usability to the next level, just to lack a few of them.",
+    "format": "form",
+    "workaround": "Maybe a GDScript wrapper around the current implementation is possible but it's not very convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-11-08T14:59:39Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:core"
+  ],
+  "milestone": "4.x",
+  "number": 3515,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rework the Tween system to allow more flexibility and readability",
+  "up": 10,
+  "updatedAt": "2024-10-21T04:33:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3515"
+}

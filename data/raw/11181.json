@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm sure most people does use visual studio to edit C# code in godot, having such feature would make tons easier to work on godot when testing C# code like on unity.",
+    "format": "form",
+    "workaround": "This requires most likely an extension to be made for visual studio, and maybe some changes inside the engine code to support given extension i believe."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-11-18T13:20:45Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11181,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to attach Visual Studio to Godot Editor",
+  "up": 9,
+  "updatedAt": "2024-12-05T10:58:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11181"
+}

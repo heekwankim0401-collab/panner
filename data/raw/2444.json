@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves the situation for everyone working with godot.",
+    "format": "markdown",
+    "workaround": "This is wrong behaviour of the fundamental asset handling in the core, it cannot be worked around, and may even require extending the existing file format."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-10T14:15:16Z",
+  "comments": 1,
+  "createdAt": "2021-03-10T07:10:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2444,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add -fix core asset handling misbehaviours- to gsoc",
+  "up": 0,
+  "updatedAt": "2021-03-10T14:17:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2444"
+}

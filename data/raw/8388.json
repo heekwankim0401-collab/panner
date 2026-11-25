@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Cannot be done with addons.",
+    "format": "form",
+    "workaround": "Honestly, the more signals the better."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-10T02:04:38Z",
+  "comments": 4,
+  "createdAt": "2023-11-09T22:10:22Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8388,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"scroll_visibility_changed\" signal to ScrollContainer",
+  "up": 0,
+  "updatedAt": "2023-11-10T02:37:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8388"
+}

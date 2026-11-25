@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would require changes to GDScript itself",
+    "format": "markdown",
+    "workaround": "This enhancement is not _necessary_. At the end of the day, the current options with `@export` and `_get_property_list` do work. If this proposal doesn't happen, I'll live."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-02T22:58:16Z",
+  "comments": 3,
+  "createdAt": "2021-01-06T01:24:50Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2080,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Give properties a block for export logic",
+  "up": 0,
+  "updatedAt": "2022-03-02T22:58:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2080"
+}

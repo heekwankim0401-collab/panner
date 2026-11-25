@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2026-02-15T15:36:14Z",
+  "down": 3,
+  "labels": [
+    "platform:linuxbsd",
+    "platform:windows",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 14236,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Enable Embed PCK by default for exported projects",
+  "up": 3,
+  "updatedAt": "2026-07-29T14:10:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14236"
+}

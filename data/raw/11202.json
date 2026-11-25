@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Currently GDScript does not support custom annotations (#1316) so an add-on could not implement it. In addition, this change could also improve the built-in node `TouchScreenButton`.",
+    "format": "form",
+    "workaround": "As far as I'm aware, `@export_enum` nor `@export_custom` allow a dynamic list of options, like options taken from project settings, so they are not suitable for this. You could possibly implement this using `get_property_list()` but this seems rather inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-13T21:28:07Z",
+  "comments": 4,
+  "createdAt": "2024-11-21T07:13:16Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript",
+    "topic:input"
+  ],
+  "milestone": "4.5",
+  "number": 11202,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `@export` annotation for InputMap actions",
+  "up": 6,
+  "updatedAt": "2026-03-07T07:25:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11202"
+}

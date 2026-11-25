@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-19T16:53:10Z",
+  "comments": 1,
+  "createdAt": "2020-06-14T19:34:32Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.0",
+  "number": 1059,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "C# Add a Generics version of SceneTree.GetNodesInGroup(...)",
+  "up": 0,
+  "updatedAt": "2020-08-05T07:43:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1059"
+}

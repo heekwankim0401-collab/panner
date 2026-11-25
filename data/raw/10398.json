@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The Curve Resources are Core.",
+    "format": "form",
+    "workaround": "It can be worked around with `curve.get_point_position(curve.get_point_count() - 1)`.\n\nHowever it would probably be used fairly often by those that use `Curve3D` and `Curve2D`, and would improve the behavioural consistency of Godot."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-08T22:25:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10398,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `Curve`'s `get_point_x` methods to take negative indexes",
+  "up": 4,
+  "updatedAt": "2024-08-24T15:19:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10398"
+}

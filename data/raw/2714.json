@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It has to be part of the internal physics engine, where area collision detection takes place.",
+    "format": "markdown",
+    "workaround": "This enhancement is trivial in the engine and can make things easier for users, while the alternative in the editor requires a lot of manual work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2021-05-11T23:14:50Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2714,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option for faster Area3D/Area2D enter/exit checks using AABBs only",
+  "up": 43,
+  "updatedAt": "2021-05-14T08:24:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2714"
+}

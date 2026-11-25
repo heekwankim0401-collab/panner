@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I'm not sure if you can actually extend the Advanced Import Setting window with an addon.",
+    "format": "form",
+    "workaround": "Don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-11-07T10:08:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13590,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add freelook camera to the Advanced Import Settings dialog",
+  "up": 4,
+  "updatedAt": "2025-11-10T23:48:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13590"
+}

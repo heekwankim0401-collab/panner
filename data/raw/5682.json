@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Addon will be slower for compute.",
+    "format": "form",
+    "workaround": "If it's gdscript function, use it will be easier, and the gdscipt already has the function but not support the data type yet."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-31T12:17:02Z",
+  "comments": 1,
+  "createdAt": "2022-10-31T08:37:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5682,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add xform() support Transform/Transform2D args",
+  "up": 0,
+  "updatedAt": "2022-10-31T15:01:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5682"
+}

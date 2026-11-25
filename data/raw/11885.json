@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a basic feature in all 3d modelling software, and in glTF.",
+    "format": "form",
+    "workaround": "Not that I know of."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-01T21:05:24Z",
+  "comments": 1,
+  "createdAt": "2025-03-01T17:18:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11885,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for mirrored albedo extrapolation.",
+  "up": 0,
+  "updatedAt": "2025-03-01T21:05:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11885"
+}

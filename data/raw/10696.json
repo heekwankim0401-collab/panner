@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is the core.",
+    "format": "form",
+    "workaround": "No. The actions layer together with key binding is the core of the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-09-08T23:55:38Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10696,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add case-sensitive events to InputMap",
+  "up": 0,
+  "updatedAt": "2024-09-18T15:32:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10696"
+}

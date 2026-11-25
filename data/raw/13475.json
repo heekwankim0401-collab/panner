@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It could be provided as a static library for godot-cpp authors - and that's how I use it, since I implemented it myself. It should be made core if the core team feels it aligns with, and helps achieve, the direction and end goals they have for godot-cpp.",
+    "format": "form",
+    "workaround": "Workarounds are not needed. The enhancement adds an optional abstraction layer between binding code and ClassDB - the existing ClassDB API is completely unaffected."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-10-26T16:15:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 13475,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add type-safe, low-boilerplate bindings for godot-cpp",
+  "up": 2,
+  "updatedAt": "2026-07-29T22:21:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13475"
+}

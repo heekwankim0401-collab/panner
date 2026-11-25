@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be far more convenient and very useful for the majority of users importing from Blender.",
+    "format": "form",
+    "workaround": "I think it could be done with a tool script, but it would be inconvenient for most users."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-01-04T08:14:02Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6040,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Import hint for Transform3D/Position3D/Node3D when importing from blender",
+  "up": 5,
+  "updatedAt": "2023-01-05T15:52:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6040"
+}

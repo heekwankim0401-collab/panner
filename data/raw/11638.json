@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature is a language-level enhancement, not something that can be implemented as an add-on. It requires modifications to the GDScript parser and is fundamental to how dictionaries are written in the language. Adding it to the core will benefit all GDScript users by improving the overall developer experience.",
+    "format": "form",
+    "workaround": "While the current syntax is functional, it is verbose and requires repetitive code. There is no simple workaround to achieve the same level of readability and conciseness."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-01-25T23:45:06Z",
+  "down": 6,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11638,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add shorthand syntax for dictionary keys in GDScript",
+  "up": 2,
+  "updatedAt": "2025-01-27T18:46:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11638"
+}

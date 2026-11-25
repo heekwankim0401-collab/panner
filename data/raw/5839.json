@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would improve the naming clarity of core functionality.",
+    "format": "form",
+    "workaround": "Technically yes, you could simply use a helper function to mask the function, property names. But boilerplate code just to rename functions and properties is not as efficient."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-31T17:57:51Z",
+  "comments": 1,
+  "createdAt": "2022-11-24T14:17:14Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:audio"
+  ],
+  "milestone": "4.0",
+  "number": 5839,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change AudioServer properties 'device' and 'capture_device' and their method names for clarity",
+  "up": 2,
+  "updatedAt": "2023-01-31T17:57:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5839"
+}

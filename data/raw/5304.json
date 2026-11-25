@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "Probably not"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-09-01T13:36:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5304,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option for inverting heightmap and enabling negative scale",
+  "up": 0,
+  "updatedAt": "2022-09-01T15:58:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5304"
+}

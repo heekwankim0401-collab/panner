@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The functionality is widely applicable in such that any project with a \"generating\" function (one whose return value changes with each call) can make use of it and by making it a core part of GDScript it would both encourage cleaner code patterns and enable more functional styles.",
+    "format": "form",
+    "workaround": "An alternative to the above Generator implementation is to provide an inverted exit condition. However, this pattern can be confusing for some and doesn't work as well in all scenarios (such as filling an Array).\n\n```gdscript\nfunc handle_packets():\n  while true:\n    var packet = get_packet()\n    if packet == null: # <-- Inverted logic to exit early\n      break\n    handle_packet(packet)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-27T05:20:18Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7883,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add generic `generate(method: Callable)` to offer non-int alternative to `range(...)`",
+  "up": 0,
+  "updatedAt": "2025-04-16T07:29:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7883"
+}

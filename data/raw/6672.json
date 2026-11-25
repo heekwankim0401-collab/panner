@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Tight integration with the tilemap.",
+    "format": "form",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-09T11:43:07Z",
+  "comments": 5,
+  "createdAt": "2023-04-09T16:18:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6672,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to set export variables on Scene Collection tiles in GD4",
+  "up": 8,
+  "updatedAt": "2023-07-09T11:43:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6672"
+}

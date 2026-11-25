@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In core, an improvement to the usage of CSG operations and would need to be injected at the CSG operation step.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-08T00:45:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 12745,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make CSG preserve UV transforms from nested nodes",
+  "up": 2,
+  "updatedAt": "2025-07-08T09:30:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12745"
+}

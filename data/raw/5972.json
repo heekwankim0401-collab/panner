@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Animation system is core",
+    "format": "form",
+    "workaround": "Never"
+  },
+  "assignees": 1,
+  "closedAt": "2023-09-29T08:22:20Z",
+  "comments": 5,
+  "createdAt": "2022-12-21T14:12:58Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.2",
+  "number": 5972,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement `AnimationPlayerBase` class to make the blending process shared between `AnimationPlayer` and `AnimationTree`",
+  "up": 9,
+  "updatedAt": "2023-09-29T08:22:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5972"
+}

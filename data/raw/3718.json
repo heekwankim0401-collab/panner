@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Multiplayer games must be able to check if the client has a working internet connection.",
+    "format": "form",
+    "workaround": "Multiplayer games will make use of it.\nCan not, to my knowledge, be worked around with a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-12-25T21:07:28Z",
+  "down": 0,
+  "labels": [
+    "topic:network",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3718,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an `OS.is_internet_connected()` method (and signals)",
+  "up": 8,
+  "updatedAt": "2022-08-08T08:51:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3718"
+}

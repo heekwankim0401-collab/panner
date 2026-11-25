@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Animation playback tracks are a core feature.",
+    "format": "form",
+    "workaround": "I understand not every game needs this. I completed games with Godot where the requirement didn't appear.\n\nHowever, a feature rich third person melee combat system requires extra tracks AND blend spaces. Extra tracks are used to enable and disable the collision of weapons, trigger projectiles, particle and sound effect... And blend spaces are necesary for locomotion, hurt animations, and so on. While in principle the extra tracks are mostly for attacks which do not require blend spaces, please notice that the step above is to make a state machine, and I would want to be able to do that with an `AnimationTree` or controlling which animation to play next from an `AnimationPlayer`. Thus, I want all these animations on the same place.\n\nThe workaround is not trivial at all. It involves reimplementing blendspaces in GDScript. Please note that a functionality to execute animations without a node is not available - at least not to scripting - so we might have to also implement the playback without an `AnimationPlayer` or use the `AnimationPlayer` in some hacky ways."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-14T09:40:58Z",
+  "comments": 1,
+  "createdAt": "2024-05-22T04:01:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 9801,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add animation blend space playback tracks",
+  "up": 0,
+  "updatedAt": "2025-05-14T13:38:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9801"
+}

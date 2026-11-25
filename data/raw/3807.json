@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should probably be part of the core.\nIt's unlikely that someone will search for this as an add-on.",
+    "format": "form",
+    "workaround": "It will probably be used every time a new folder is created while moving a file."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-01-16T15:09:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3807,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically select the created folder after using \"Move to…\" in the FileSystem dock",
+  "up": 2,
+  "updatedAt": "2022-01-16T15:57:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3807"
+}

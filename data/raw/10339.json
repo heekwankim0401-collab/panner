@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "BBCode parsers are already in core. This is a refactor combined with exposing the new class to scripting for user's convenience.",
+    "format": "form",
+    "workaround": "Yes but writing a new feature-complete BBCode parser is a lot of effort to maintain and prone to diverge from other implementations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-08-01T16:59:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10339,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify BBCode tokenizing/parsing within Godot",
+  "up": 8,
+  "updatedAt": "2025-05-20T02:50:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10339"
+}

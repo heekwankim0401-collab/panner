@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Permessage-deflate is part of the Websocket specification and it makes sense to make it as accessible to games as possible.",
+    "format": "form",
+    "workaround": "It is not feasible for a game to implement this support in script because of how Godot drops incoming packets with the compression bit set and does not allow sending packets with the compression bit set. Getting around this requires calling a function in the underlying wslay library, and this has to be done within the WebSocketPeer class implementation.\n\nIt is also arduous to implement the compression/decompression part in script because Godot's compression API does not actually support raw DEFLATE streams. The compression mode labeled \"DEFLATE\" actually still expects a zlib header on the stream, and thus fails to handle compressed websocket payloads.\n\nAdditionally, while it is easy to pass additional headers to the connection handshake, the game cannot see what headers the remote peer responds with. This prevents the game from performing the parameter negotiation itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-09-15T17:29:33Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 13179,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for WebSockets compression",
+  "up": 26,
+  "updatedAt": "2025-09-15T19:40:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13179"
+}

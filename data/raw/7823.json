@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal is about GDScript compiler, which is part of Godot.",
+    "format": "form",
+    "workaround": "While in simple cases, one paradigm alone can be overcome by manually optimize the source script, complex case or multiple paradigms combining together increase its difficulty. Also sometimes applying these paradigms may produce ugly or hard to maintain code. So developers may refuse to do these optimizations because this waste too much time with relative small peformance gain or they prefer cleaner code. Having these work done in compiler benifits all GDScript users."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-23T16:43:14Z",
+  "comments": 5,
+  "createdAt": "2023-09-23T16:42:21Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7823,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Apply basic optimizations in GDScript compiler",
+  "up": 2,
+  "updatedAt": "2023-09-23T17:49:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7823"
+}

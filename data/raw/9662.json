@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "_Can_ it be an add-on?",
+    "format": "form",
+    "workaround": "It cannot"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-03T08:27:47Z",
+  "comments": 3,
+  "createdAt": "2024-05-03T05:23:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 9662,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow IF statements to span multiple lines",
+  "up": 0,
+  "updatedAt": "2024-05-18T07:10:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9662"
+}

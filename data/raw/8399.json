@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this is a basic functionality present in most game engines",
+    "format": "form",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-12T15:58:16Z",
+  "comments": 4,
+  "createdAt": "2023-11-11T09:24:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8399,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "get frame render time when vsync is enabled",
+  "up": 0,
+  "updatedAt": "2023-11-12T16:12:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8399"
+}

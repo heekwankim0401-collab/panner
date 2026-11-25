@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "No, it's more of a core import setting option.",
+    "format": "form",
+    "workaround": "I imagine this would get a lot of use by others making 3D assets that want to get UV measurements/looks correct in blender, but want to use in-game materials to keep their games more performant and sizes down."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-20T23:18:30Z",
+  "comments": 6,
+  "createdAt": "2023-07-20T20:22:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7341,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a project setting to import glTF materials from Blender as placeholders",
+  "up": 0,
+  "updatedAt": "2023-07-21T00:18:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7341"
+}

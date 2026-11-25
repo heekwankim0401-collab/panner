@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "As i said earlier, there is no way to get access to editor cameras in normal meaning of this word. Otherwise, it could be pretty much possible. Additionally i think that if such functionality will be implemented in the engine itself (without any need to search for addons) it can make the life of users more comfortable, if they have such case as mine.",
+    "format": "form",
+    "workaround": "Sadly i can't make it on my own. If i could get access to editor cameras, i'd try to implement it on my own. Currently it is possible to get access to editor cameras, but in quite tricky, hacky ways (which can be broken at next update). I understand that editor API changes can be hard, so i ask you to make this specific function i wanted to make on my own with a hope it's easier to make for you."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-27T01:36:31Z",
+  "comments": 10,
+  "createdAt": "2023-01-28T02:11:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6186,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add possibility to \"Create New Node\" at editor cameras global transform origin",
+  "up": 3,
+  "updatedAt": "2023-02-27T19:51:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6186"
+}

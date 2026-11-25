@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this should be build into the engine as it would speed up workflow quite a lot for people who create a lot of projects.",
+    "format": "legacy",
+    "workaround": "It would be used a lot by anyone creating small test projects, teachers, people testing things in the engine ..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2020-01-30T23:45:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 423,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement saving and loading the Input Map from within the Project Settings",
+  "up": 39,
+  "updatedAt": "2024-02-02T20:20:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/423"
+}

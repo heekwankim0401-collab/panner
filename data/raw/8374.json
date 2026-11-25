@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's commonly used for simulate long hair characters and for other jiggle thing similar to soft body, this should be a standard feather for a good game engine.",
+    "format": "form",
+    "workaround": "Yes, but not so onvenient."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-13T23:22:41Z",
+  "comments": 11,
+  "createdAt": "2023-11-08T15:58:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": "4.4",
+  "number": 8374,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add 3D spring bone support for character hair physics simulation",
+  "up": 10,
+  "updatedAt": "2025-01-13T23:24:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8374"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "XMLParser is a core class and this method is already there, it just does nothing currently.",
+    "format": "form",
+    "workaround": "Not really. XMLParser doesn't expose any way to know what it parses. It only gives you the final data."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-05T06:44:11Z",
+  "comments": 1,
+  "createdAt": "2022-07-04T23:53:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4810,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement XMLParser.get_current_line()",
+  "up": 1,
+  "updatedAt": "2022-07-05T06:44:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4810"
+}

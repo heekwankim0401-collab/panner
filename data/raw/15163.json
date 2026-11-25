@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-07-10T07:18:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 15163,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add touch input as a flag to Button's button_mask",
+  "up": 4,
+  "updatedAt": "2026-07-17T12:46:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15163"
+}

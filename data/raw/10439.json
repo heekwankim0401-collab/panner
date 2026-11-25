@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Modifies the interface of a core node.",
+    "format": "form",
+    "workaround": "This would be a *huge* quality of life improvement for anyone using tilemaps in an advanced way, and considering how many people use Tilemaps I think this would be used often.\n\nThis functionality is already *doable* with Tool scripts, but it's not exactly *easy* to do."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-14T13:21:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10439,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Tilemap Hook Scripts\" or similar to allow easier and tighter coupling of Tilemaps and Tool scripts",
+  "up": 1,
+  "updatedAt": "2024-08-14T14:09:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10439"
+}

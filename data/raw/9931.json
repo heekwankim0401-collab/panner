@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Its 100% useful when using subviewports, as the current workflow of using a separate scene to edit stuff outside the viewport doesnt take into account the viewport size/ratio.\nA scene cant know anything about its parent.\n\nAdvantage is to edit stuff with a proper subviewport size and save it on the same scene.",
+    "format": "form",
+    "workaround": "I believe its 100% useful when using subviewports and used as often as using viewports."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-06-09T15:18:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9931,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "A button to \"Go in\" or \"Scope in\" a Subviewport",
+  "up": 5,
+  "updatedAt": "2026-08-16T09:31:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9931"
+}

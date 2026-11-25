@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Need a way to determine what we seeing. Is it `Callable`? and is it better to call with `await` or without. For now i __can__ check at compile time, but i want to process some functions at runtime. And there are no ways to overcome this crash/error",
+    "format": "form",
+    "workaround": "By default we can use as in javascript to await for blocking methods as if they would be async. Let's say we want to call it from non-async method. Then `Need to use await` error will arise"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-11-07T01:18:05Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8363,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "`Callable.is_async()` - to check run it with `await` or not.",
+  "up": 1,
+  "updatedAt": "2023-11-07T07:42:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8363"
+}

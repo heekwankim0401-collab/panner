@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be core to the language syntax.\nLacking this language feature isn't the worst thing in the world but having it enables other convenient features like python-style dictionary iteration.",
+    "format": "markdown",
+    "workaround": "Yes, it can be worked around with a few lines of script *per call*. This adds a lot of visual noise though as it can come up quite frequently.\nIt can also be worked around by using Dictionaries for everything, but that's an uncomfortable amount of overhead for such simple functionality, and is only a drop-in replacement for new variables being declared, not reusing existing ones."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 53,
+  "createdAt": "2021-01-17T05:04:37Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2135,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add array unpacking/destructuring to GDScript",
+  "up": 352,
+  "updatedAt": "2026-06-25T18:11:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2135"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its not possible to do in plugin!",
+    "format": "form",
+    "workaround": "Yes, its a core feature"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2021-07-17T11:23:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 3003,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve \"Instantiate Child Scene\" popup",
+  "up": 13,
+  "updatedAt": "2022-09-09T23:42:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3003"
+}

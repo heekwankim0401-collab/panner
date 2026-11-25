@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a convenient behavior, and it should be part of the engine. We do not need to constantly move the necessary files for the theme into the project, loading happens once in all projects automatically.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-22T02:39:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10521,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support for unique editor themes",
+  "up": 1,
+  "updatedAt": "2024-08-22T14:55:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10521"
+}

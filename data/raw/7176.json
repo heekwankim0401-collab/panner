@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It looks very intuitive to have this in the InputMap API.",
+    "format": "form",
+    "workaround": "The actual workaround is: \n\n```\nvar jump_input_events\n\nfunc disable_jump(): \n  jump_input_events = InputMap.action_get_events(\"jump\") \n  InputMap.action_erase_events(\"jump\")\n\nfunc renable_jump(): \n  for input_event in jump_input_events: \n  InputMap.action_add_event(\"jump\", input_event)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2023-06-29T16:43:18Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 7176,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to disable specific InputEventAction in code",
+  "up": 0,
+  "updatedAt": "2026-01-20T17:54:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7176"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a necessary usability improvement allowing efficient AnimationPlayer use.",
+    "format": "legacy",
+    "workaround": "Don't think it can."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-01-01T20:56:29Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 345,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "AnimationPlayer: show values in the Inspector also when selecting different key types",
+  "up": 10,
+  "updatedAt": "2022-07-07T16:37:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/345"
+}

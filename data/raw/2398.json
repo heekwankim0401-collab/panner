@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "None, this could be an add-on but I think this being made inside of godot would be a good way of attracting user base that work in teams.",
+    "format": "markdown",
+    "workaround": "That would be just downloading the project and then changing the code that has changed which could be time consuming"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-05T12:46:20Z",
+  "comments": 12,
+  "createdAt": "2021-03-04T16:21:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2398,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to collaborate with the same code",
+  "up": 0,
+  "updatedAt": "2021-03-05T13:12:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2398"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-13T16:47:47Z",
+  "comments": 0,
+  "createdAt": "2026-04-12T09:11:01Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": "4.7",
+  "number": 14648,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Drop broken big endian platform support",
+  "up": 8,
+  "updatedAt": "2026-04-13T16:47:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14648"
+}

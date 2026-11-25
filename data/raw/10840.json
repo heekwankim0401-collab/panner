@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would make the Signals way easier to use and change, also making things like testing more straight foward (you could change the signals faster and test one by one to see which one you need in that particular moment)",
+    "format": "form",
+    "workaround": "This can be worked around by just deconnecting all the signals manually and then reconnecting all again and recoding everything, but it is time consuming and not convenient"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-27T19:29:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10840,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow editing signal connections in the Connections to Method dialog",
+  "up": 2,
+  "updatedAt": "2024-09-28T22:40:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10840"
+}

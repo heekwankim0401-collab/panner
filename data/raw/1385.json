@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would enhance the usability and understanding of collision data in godot, helping reduce game bugs at the same time.\n\nI presume this could easily be extended to the other bit based mask fields such as the lighting or render layers...",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-08-18T08:15:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1385,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "A means of viewing (collision) layer and mask bit fields in one place for all nodes",
+  "up": 2,
+  "updatedAt": "2020-08-18T12:33:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1385"
+}

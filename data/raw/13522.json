@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "n/a",
+    "format": "form",
+    "workaround": "n/a"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-10-31T14:09:12Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13522,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make floating script editor top bar custom to match main Godot editor window",
+  "up": 1,
+  "updatedAt": "2025-11-03T19:29:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13522"
+}

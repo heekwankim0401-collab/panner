@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Scene previews are part of the editor's core",
+    "format": "form",
+    "workaround": "No, it's part of Quality of Life in the editor itself and cannot be worked around to my knowledge"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2022-06-26T21:57:32Z",
+  "down": 3,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4757,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove scene previews in the inspector (and show scene name instead)",
+  "up": 44,
+  "updatedAt": "2026-06-16T08:30:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4757"
+}

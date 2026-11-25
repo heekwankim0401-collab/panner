@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It requires changes to RenderingServer - not exactly asset material!",
+    "format": "form",
+    "workaround": "This enhancement will be used every time a mesh is rendered."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-01-21T19:49:21Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11620,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Consolidate vertex buffers for increased CPU performance in RenderingDevice",
+  "up": 4,
+  "updatedAt": "2025-01-21T22:18:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11620"
+}

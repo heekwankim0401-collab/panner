@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I believe this would need to be part of the visual shader editor which is part of the core.",
+    "format": "form",
+    "workaround": "It might be possible to write an accompanying README.md or equivalent, but a separate document *always* ends up getting out of sync with the implementation."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-14T21:43:07Z",
+  "comments": 2,
+  "createdAt": "2022-10-14T19:25:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5592,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add comment blocks to visual shaders",
+  "up": 0,
+  "updatedAt": "2022-10-14T23:10:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5592"
+}

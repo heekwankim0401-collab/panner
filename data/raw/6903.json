@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about core nodes' virtual functions",
+    "format": "form",
+    "workaround": "Yes, but it's tedious imho."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-17T16:18:16Z",
+  "comments": 5,
+  "createdAt": "2023-05-17T16:01:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 6903,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Easier way to accept input event",
+  "up": 0,
+  "updatedAt": "2023-05-22T02:35:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6903"
+}

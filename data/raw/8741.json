@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Being a core will benefit all developers from enjoying such a great and useful function direct from the software, without any cell data to download implementation of such behavior from the asset lib.",
+    "format": "form",
+    "workaround": "This might be achieved by GDExtension or plugin, but I'm not sure if `CreateDialog` is exposed.\nOf course, this is not a thing able to be done within few lines of codes; instead, it requires branches of intricate codes working together."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-02T11:58:16Z",
+  "comments": 6,
+  "createdAt": "2023-12-29T04:45:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 8741,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add category system for node creating dialog (Superseding #8675)",
+  "up": 0,
+  "updatedAt": "2026-04-02T18:06:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8741"
+}

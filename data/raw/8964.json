@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As far as I know, this is impossible to implement as an add-on. It *might* be possible in a C++ module as long as you don't care about messages before you apply the hooks, but I do - intrinsically, if you want to record messages before you apply a callback, you need engine support for that.",
+    "format": "form",
+    "workaround": "No; there's currently no way to retrieve log messages from in-game without engine modifications."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-05T21:06:13Z",
+  "comments": 16,
+  "createdAt": "2024-01-25T11:35:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 8964,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add user-facing log interception callback",
+  "up": 20,
+  "updatedAt": "2025-09-05T21:06:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8964"
+}

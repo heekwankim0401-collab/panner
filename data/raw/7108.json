@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Color Selector is part of the Core.  Any enhancements to the core of that functionality should be part of core.",
+    "format": "form",
+    "workaround": "The workaround is to enter the full hex code in the field."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-09T10:30:24Z",
+  "comments": 3,
+  "createdAt": "2023-06-18T09:37:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 7108,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve color selector editable hex code entry handling",
+  "up": 3,
+  "updatedAt": "2024-01-09T10:35:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7108"
+}

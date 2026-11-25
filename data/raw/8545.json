@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhances the experience of using assets, giving a way to see important functions separate from the hundreds of others.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-25T15:35:46Z",
+  "comments": 3,
+  "createdAt": "2023-11-30T08:38:37Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8545,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an Important annotation to prioritise options in code completion",
+  "up": 0,
+  "updatedAt": "2024-01-25T15:35:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8545"
+}

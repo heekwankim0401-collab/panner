@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would make YSort a much better experience out of the box, a lot more accessible, flexible and would give the developers more control of how the node works. The possibility of it overlapping other tiles unintentionally would be gone. I struggled with this issue for longer than I care to admit and tried several solutions until I found the tex offset today in a [forum post](https://godotengine.org/qa/46040/how-to-adjust-ysort-detection). Not everyone is always gonna find the solution tucked away in an obscure forum post everytime and I think this would make for a really good improvement. Also for people just starting out or trying Godot and don't necessarily know about the YSort node even existing. Seeing it referenced while creating their first tilemap can hopefully make them curious enough to discover it.",
+    "format": "form",
+    "workaround": "As mentioned. You can fix this by using texture offsets but it's not very intuitive or obvious, not to mention time consuming for larger tilemaps. You can also work around it sometimes by setting the anchor point to the bottom left or center but that doesn't always work and it's not as precise as using tex offset. \n\nYou can also work around the issue by dividing up the tiles that are larger than one tile and put them into a layer that's above the player but that's also not a great solution because if the bottom portion isn't being sorted at the proper Y. Then you'd have to use tex offset to fix that and you'd have to add the same tex offset to the detached upper tile too."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-10-22T20:42:29Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5636,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Ysort cutoff property and/or tile tool",
+  "up": 1,
+  "updatedAt": "2022-10-24T20:18:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5636"
+}

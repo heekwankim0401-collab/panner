@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be standard notification method like `_ready`, `_enter_tree` and so on.",
+    "format": "legacy",
+    "workaround": "Described above."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-10T13:51:54Z",
+  "comments": 6,
+  "createdAt": "2020-05-07T15:16:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 803,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Requesting a new notification method that will be called when node is constructed and all child nodes are added to its tree",
+  "up": 0,
+  "updatedAt": "2024-10-02T17:46:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/803"
+}

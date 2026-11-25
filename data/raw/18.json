@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't believe first-class support for custom resources would constitute as bloat.  I believe it's an essential but missing feature for all games which require any kind of user-created resource type, for anyone who needs to export a bundle of named data with type safety, for anyone who wants to associate their own resource type with their own node type, for anyone who needs complex but easily modified data saved to disk; since virtually every game made with Godot makes use of Resources, every developer would benefit from this, if not by a little, by a lot.",
+    "format": "legacy",
+    "workaround": "In short: no, just the opposite, it requires a lot more code to be written to work around this inhibition, or requires a tedious process to add a custom resource to the inspector.\n\nThe fundamental issue is the current inability for the user to simply export a resource of their own creation.  We are left with the following options:\n\nBrute Force\n```\n#unnamed and unstructured, no guarantees of anything\nexport(Array, float) var stats\nexport(Array, Array, String) var combat_messages\n#this one's especially painful, where you need multiple types in one array\nexport(Array) var mixed_data\n#...but nothing compares to this, besides the dictionary variation\nexport(Array, Array) var lots_of_mixed_data\n\n#named but unstructured, and you have to name them for every dictionary added in the latter example, no autocomplete\nexport(Dictionary) var stats := {\"strength\" : 0.0, \"defense\" : 0.0, ...}\nexport(Array, Dictionary) var god_help_you_if_you_do_this\n```\n\nThe OmniResource\n```\n#named, structured, autocompleted (if you cast)\n#necessitates a process where you create the custom resource then copy it over (after scrolling through the ginormous list of resources this gives you), or save it to the system and drag and drop\nexport(Resource) var not_as_it_seems\n```\n![image](https://user-images.githubusercontent.com/28724859/64293195-bb0c3f80-cf31-11e9-8fed-ca3ae7c4fc22.png)\n\n\nDo Repeat Yourself\n```\n#player_character.gd\nexport var strength: float\nexport var defense: float\n...\n\n#enemy.gd\nexport var strength: float\nexport var defense: float\n...\n\n#equipment.gd\nexport var start_strength: float\nexport var start_defense: float\n...\nexport var upgraded_strength: float\nexport var upgraded_defense: float\n...\n```\n\nForget About It!\n```\n#my_character.gd\nfunc get_character() -> PlayerCharacter:\n    var player_character = PlayerCharacter.new()\n    player_character.stats = Stats.new()\n    player_character.stats.strength = 7\n    ...\n    return player_character\n\n#character_defs.gd\nfunc get_characters() -> Array:"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-18T09:01:08Z",
+  "comments": 76,
+  "createdAt": "2019-09-04T23:02:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 18,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add first-class custom resource support",
+  "up": 449,
+  "updatedAt": "2024-03-17T14:44:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/18"
+}

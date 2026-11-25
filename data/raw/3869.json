@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this will make Godot's UI feel more polished, and UI is something that I know is not a key thing for Godot as it is focused on function, but this change is tied to something that is practically unavoidable in the engine and having a way to just clean up your project without the dread of knowing that you're going to be clicking every arrow manually can be a nice way to keep a user progressing with their project, as they feel like their project can be cleaned in a matter of seconds.",
+    "format": "form",
+    "workaround": "I have seen some good addons, so potentially there is a way to do this with an addon, but I think it would be beneficial if it comes with Godot natively, as this folding and unfolding action is done practically every time you use Godot."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-26T10:17:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3869,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow toggling folding of multiple nodes by dragging the mouse over folding arrows in the Scene tree dock",
+  "up": 5,
+  "updatedAt": "2024-05-13T06:52:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3869"
+}

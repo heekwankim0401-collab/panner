@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's about AnimationPlayer.",
+    "format": "legacy",
+    "workaround": "Not sure, but it would be more than few lines."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-23T15:28:22Z",
+  "comments": 2,
+  "createdAt": "2020-04-10T20:03:05Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 694,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to click on AnimationPlayer timeline without moving animation",
+  "up": 3,
+  "updatedAt": "2021-05-23T15:28:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/694"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "^",
+    "format": "form",
+    "workaround": "Yes, but they're very useful to have more easily accessible and fit with working with colors in godot."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-11T15:00:48Z",
+  "comments": 2,
+  "createdAt": "2023-12-11T13:30:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8635,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add built-in rgb_to_hsv() and hsv_to_rgb() functions to shaders",
+  "up": 2,
+  "updatedAt": "2023-12-11T15:00:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8635"
+}

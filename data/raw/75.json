@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe networked object spawning/despawning is a core feature of most high-level networking libraries out there (as an example Unreal has it, Photon has it, UNET has it, Forge Networking has it, yadda yadda). And I'd really want to see high level networking functionality in godot improve and provide even better experience and match the expectation of what high level api should really be like.\n\nP.S. also a similar issue was discussed at the general tracker: https://github.com/godotengine/godot/issues/16793\nP.P.S. I know this wall of text would be hard to read, sorry. I've never been great at writing essays, so if any moderators would make an effort to reformat this text in a more readable way I appreciate that.\n\nThanks.",
+    "format": "legacy",
+    "workaround": "Well as you can see I already did worked around with a few lines of code. Although not as complete work around as it would be."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-23T08:07:34Z",
+  "comments": 20,
+  "createdAt": "2019-09-16T10:39:46Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.0",
+  "number": 75,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement networked spawning/despawning (scene replication)",
+  "up": 18,
+  "updatedAt": "2022-04-23T13:32:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/75"
+}

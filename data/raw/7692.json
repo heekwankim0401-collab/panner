@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "1. This use case of integrating 3D elements into native apps should have a steady interest for years to come.\n2. Unity has it as a core feature here: https://unity.com/features/unity-as-a-library\n3. Delivering (1) the most basic Gradle project with Godot as a `library` and with `GameActivity` is like the entry point for generating (2) more advanced Gradle projects and finally (3) APK/AAB.\n\nPoint 1 from this chain is kind of missing in Godot currently and only 2 and 3 are present: `(1) Basic library project --> (2) More advanced Gradle project --> (3) APK/AAB`",
+    "format": "form",
+    "workaround": "It can't be worked around.\n\nUnity said in their post that they had to make C++ modifications in the engine to enable `GameActivity` support."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-23T22:57:48Z",
+  "comments": 5,
+  "createdAt": "2023-09-16T19:09:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 7692,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"library\" and \"GameActivity\" support for Android",
+  "up": 3,
+  "updatedAt": "2024-06-24T17:12:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7692"
+}

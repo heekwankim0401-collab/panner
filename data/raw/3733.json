@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improvement to GDScript basics has to be",
+    "format": "form",
+    "workaround": "I haven't found a way to do type checking with match"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-20T14:22:00Z",
+  "comments": 17,
+  "createdAt": "2021-12-31T15:17:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3733,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript `match` should work for type matching",
+  "up": 33,
+  "updatedAt": "2024-10-20T14:23:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3733"
+}

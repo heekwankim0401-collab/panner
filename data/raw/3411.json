@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I can see, it is impossible for plugins to modify how the input system work.",
+    "format": "form",
+    "workaround": "(See the codes shown in the limitations section)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-11T09:08:22Z",
+  "comments": 3,
+  "createdAt": "2021-10-11T05:40:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3411,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Vector input action",
+  "up": 0,
+  "updatedAt": "2021-10-11T15:15:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3411"
+}

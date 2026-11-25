@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The search bar is already in the file system, just needs a little love.",
+    "format": "form",
+    "workaround": "Oh I'm pretty sure this is a must have to quickly find files."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-22T18:53:46Z",
+  "comments": 3,
+  "createdAt": "2025-01-06T07:39:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 11504,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add glob, file type or regular expression-based search to the FileSystem dock",
+  "up": 6,
+  "updatedAt": "2026-07-22T18:55:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11504"
+}

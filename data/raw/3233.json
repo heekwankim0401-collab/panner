@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Lightmap is core",
+    "format": "form",
+    "workaround": "Nope"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-14T20:57:23Z",
+  "comments": 5,
+  "createdAt": "2021-08-30T17:19:25Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 3233,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow any floating-point value for Lightmap Scale in MeshInstance instead of just 1×/2×/4×/8×",
+  "up": 2,
+  "updatedAt": "2024-11-15T14:08:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3233"
+}

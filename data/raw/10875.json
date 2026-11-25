@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It affects everyone. And the problem is that even if YOU KNOW that it needs to be on toggle mode, you can easily forget and slip out from your mind and then can waste an hour trying to debug. So much the second time it happened I only figured out the issue when I was going to manually re implement the signal using button_down\n\nAlso, I will mention one thing that I know will be mentioned.\n\n\"It is documented and tells you if you mouse over\"\n\nHere's the thing.\n\nThe signal is straight forward to use. And very obvious from the name alone what it is supposed to do. Get the state from variable and then do whatever you want with it.\n\nBut when suddenly it does nothing, you go trough multiple steps before considering to check the manual or that it is intended behaviour.",
+    "format": "form",
+    "workaround": "If you override the node button, maybe, but it is a common issue that people just, forget is a thing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2024-10-01T23:20:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10875,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an warning or error when trying to use the toggled signal with button with toggle mode off",
+  "up": 0,
+  "updatedAt": "2024-10-03T02:22:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10875"
+}

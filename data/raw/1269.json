@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "legacy",
+    "workaround": "It is possible, but still some manual work, and not so convenient."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-27T12:57:53Z",
+  "comments": 5,
+  "createdAt": "2020-07-28T04:17:13Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 1269,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to export a HTML5 project as a Progressive Web App",
+  "up": 14,
+  "updatedAt": "2021-04-27T12:57:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1269"
+}

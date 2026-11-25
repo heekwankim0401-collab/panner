@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the developer experience (DX) for engine contributors and power users.",
+    "format": "form",
+    "workaround": "You can write a shell script like [gd-pr-test.sh](https://gist.github.com/Calinou/9509da17ee3f3773ac6b47e5c2713c5e), but such scripts are generally not cross-platform."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-02-07T17:24:44Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 11719,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `run` option to SCons to automatically run an engine binary after it was compiled",
+  "up": 2,
+  "updatedAt": "2025-02-07T18:13:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11719"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it is core.",
+    "format": "form",
+    "workaround": "Some methods missing! can't implement with scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-24T09:32:44Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8243,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `get_input_port_index(slot_idx)` method to GraphNode",
+  "up": 0,
+  "updatedAt": "2026-03-19T06:12:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8243"
+}

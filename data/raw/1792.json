@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement proposal related to naming in Godot and can not be changed by the asset library.\n\nThank you for your attention!",
+    "format": "legacy",
+    "workaround": "Of course, this can be avoided by having an if-statement in this loop or splitting the array into two."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-28T13:40:06Z",
+  "comments": 2,
+  "createdAt": "2020-11-07T23:12:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 1792,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "LineEdit.editable and TextEdit.readonly should have identical naming scheme.",
+  "up": 6,
+  "updatedAt": "2021-08-28T15:40:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1792"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because, it's a **completely basic feature of every 2D game**. A lot of engines work with this, even Game Maker 8.1 and Adobe Flash worked with this and Godot lacks this important feature.\n\nI've seen a lot of solutions for this problem by just setting the offset manually for each sprite or using the regular Animator instead of AnimatedSprite2D, but it's harder and annoying for newcomers like me and using the regular Animator makes AnimatedSprite2D useless if it cannot set the offset automatically per sprite.",
+    "format": "form",
+    "workaround": "Yes, to work with the default Godot's behaviour, the developer just has to disable the `Use Default Sprite Offset` option and it would work normally just like this feature have never existed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2023-09-24T22:56:52Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7844,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a default offset support for Textures directly",
+  "up": 3,
+  "updatedAt": "2025-12-28T07:12:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7844"
+}

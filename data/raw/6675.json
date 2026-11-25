@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Using encryption can improve the security of the APK in Godot 4.x. If the game is not encrypted, it can be easily cracked, so I believe that using only this encryption method is insufficient for security considerations.",
+    "format": "form",
+    "workaround": "It is not possible."
+  },
+  "assignees": 1,
+  "closedAt": "2025-06-25T23:55:16Z",
+  "comments": 5,
+  "createdAt": "2023-04-10T17:10:28Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:export"
+  ],
+  "milestone": "4.5",
+  "number": 6675,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Could you provide the PCK encryption for building Android using non-APK extensions?",
+  "up": 2,
+  "updatedAt": "2025-06-25T23:55:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6675"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This code needs to be in the engine, and several other places throughout it.",
+    "format": "form",
+    "workaround": "Yes, but like said above, the code will have lots of boilerplate."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-24T02:25:04Z",
+  "comments": 2,
+  "createdAt": "2023-02-18T01:23:36Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6311,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add \"delta unit\" to _process and _physics_process method",
+  "up": 0,
+  "updatedAt": "2023-02-24T02:25:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6311"
+}

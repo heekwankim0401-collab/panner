@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It is UI of the engine.",
+    "format": "form",
+    "workaround": "I have no idea how to implement this through plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-04T19:48:47Z",
+  "comments": 1,
+  "createdAt": "2025-08-04T17:20:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12939,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add zebra striping into the scene view tree list and any other list that could benefit from it.",
+  "up": 0,
+  "updatedAt": "2025-08-04T19:48:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12939"
+}

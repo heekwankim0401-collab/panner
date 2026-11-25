@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In the case of Approach 3 and considering there's some support for it, I don't think an importer with negligible size penalty meant for compression should be an addon.",
+    "format": "form",
+    "workaround": "Unlikely."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-02T10:47:42Z",
+  "comments": 8,
+  "createdAt": "2024-02-19T17:18:41Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.3",
+  "number": 9133,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for QOA (Quite OK Audio) format",
+  "up": 16,
+  "updatedAt": "2024-05-02T10:47:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9133"
+}

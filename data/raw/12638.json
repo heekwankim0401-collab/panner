@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-20T18:10:18Z",
+  "comments": 4,
+  "createdAt": "2025-06-20T13:36:48Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12638,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move Node buttons that are in the top toolbar to the inspector",
+  "up": 3,
+  "updatedAt": "2025-06-20T18:43:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12638"
+}

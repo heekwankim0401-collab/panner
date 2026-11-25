@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It adds functionality to the editor, which can make it more approachable to shader or Godot beginners.",
+    "format": "form",
+    "workaround": "It could be used often by shader, and 3D developers, but that's only theoretical, as I don't see a lot of requests for such feature..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-09-22T18:41:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10809,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Screen-Reading Shader Visualizer",
+  "up": 3,
+  "updatedAt": "2024-09-22T19:05:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10809"
+}

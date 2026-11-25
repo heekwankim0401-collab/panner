@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Too basic to either be an addon or an editor script",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-02T14:59:00Z",
+  "comments": 1,
+  "createdAt": "2024-11-02T02:40:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11066,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reparent nodes to the root node when they're dragged onto the empty space in scene dock",
+  "up": 7,
+  "updatedAt": "2024-11-02T14:59:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11066"
+}

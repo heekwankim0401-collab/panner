@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Exposing an internal function cannot be done from an add-on.\n\n**Edit**: This will be closed by [PR #62591](https://github.com/godotengine/godot/pull/62591)",
+    "format": "form",
+    "workaround": "Partially, the helper function runs VHACD, but with the mentioned performance issue and doesn't have customizable settings."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-01-16T11:08:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3805,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose convex decomposition to the scripting API, without requiring the creation of a collider",
+  "up": 10,
+  "updatedAt": "2022-07-30T07:45:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3805"
+}

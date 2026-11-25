@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Create Collision Shape already exists in core. We simply add the most basic one.",
+    "format": "form",
+    "workaround": "yes it can! I did. But just feel a bit silly that I need to code it when Create Collision Shape already exist for more complex shapes!"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-30T23:39:09Z",
+  "comments": 7,
+  "createdAt": "2024-05-05T17:29:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 9685,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add AABB (Simple Box) to Collision Shape Type in Mesh > Create Collision Shape",
+  "up": 19,
+  "updatedAt": "2025-09-30T23:41:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9685"
+}

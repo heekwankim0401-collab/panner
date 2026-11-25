@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "a little bit of a problem, right click and middle click on some devices are mapped (in kernel or ROM) to BACK and HOME, which may look like a crush on testing with that kind of device (my oneplus oxygenOS does that and I know that a lot of samsung devices does that).\nAlso, drag is a little bit of a hack as `onGenericMotionEvent` for some reason doesn't fire when mouse is clicked, only `onTouch`)\nAlso unlike most platforms, there is no way to directly control the pointer (except hiding it on listening to it and sticking it on specific View by https://developer.android.com/training/gestures/movement#pointer-capture )",
+    "format": "legacy",
+    "workaround": "Works out of the box for any android port, which is a great addition for developers who want to support chromeOS (I think) and table tablet (which most likly already have mouse) almost immidiatly (or even phones for lazy developers who just want to test the game port quickly)"
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-17T04:21:49Z",
+  "comments": 1,
+  "createdAt": "2020-03-21T21:06:14Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": "3.x",
+  "number": 616,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support mouse controls on Android",
+  "up": 0,
+  "updatedAt": "2020-12-17T04:21:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/616"
+}

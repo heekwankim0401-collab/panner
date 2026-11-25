@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This can't be implemented as a workaround or addon: the renderer is not flexible enough to allow it. I've heard that the 4.0 pipeline should be more flexible, but last I heard there were no concrete plans, and it would be nice to get it before then.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-08-29T18:24:38Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 1428,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "For multi-pass rendering, add \"multiple cameras\" to Viewport, \"depth\" to Camera, and \"keep\" and \"keep depth\"",
+  "up": 10,
+  "updatedAt": "2023-02-24T05:55:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1428"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Implementing this as an addon makes it much less useful and  definitely not a unified solution.",
+    "format": "markdown",
+    "workaround": "Any workaround would be ugly or have drawbacks imo"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2021-01-08T08:01:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2087,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide unified access to plugin settings",
+  "up": 16,
+  "updatedAt": "2025-04-04T20:40:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2087"
+}

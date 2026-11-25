@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "My reasoning is above, and I also wrote a comment down below explaining why would a lot of people will find this beneficial to have access to.",
+    "format": "legacy",
+    "workaround": "There are languages like Beef that are existing to solve this issue, by taking C# syntax and stripping down things like memory virtualization, but most importantly - GC. If this feature is going to be implemented in the additional namespace, then it will not provide any overhead to C# developers that prefer to write code while relying on GC and would also provide an option to a lot of experienced developers to manage their objects in C++ manner."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-14T16:47:24Z",
+  "comments": 4,
+  "createdAt": "2020-07-06T08:26:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 1164,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose a small portion of Mono's VM API to C#",
+  "up": 6,
+  "updatedAt": "2021-08-04T13:43:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1164"
+}

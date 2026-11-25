@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`Basis` is a key property of 3D nodes in Godot.",
+    "format": "form",
+    "workaround": "It can be worked around with `Basis.is_conformal()` and `Vector3.is_normalized()`, but not as conveniently or intuitively."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-09T10:53:25Z",
+  "comments": 0,
+  "createdAt": "2025-06-15T03:22:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.7",
+  "number": 12608,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `Basis.is_orthonormal()` to check if a basis is orthonormalized",
+  "up": 5,
+  "updatedAt": "2026-03-09T10:56:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12608"
+}

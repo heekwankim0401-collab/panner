@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a simple function that would be convenient to have built-in.",
+    "format": "form",
+    "workaround": "In 3.x, it can be worked around by copy-pasting the function above into shaders as needed, which is what I have been doing.\n\nIn 4.0, a shader includes can be used to share this function between multiple shader files."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-08-08T16:55:18Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5112,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the `range_lerp()` function to the shading language ",
+  "up": 4,
+  "updatedAt": "2022-08-08T19:40:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5112"
+}

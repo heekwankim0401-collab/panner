@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because is already core.",
+    "format": "form",
+    "workaround": "It defeats the whole purpose of a built in method to move objects along a trajectory."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-03-07T13:00:05Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9253,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `p_cancel_sliding` from `move_and_collide()` to scripts",
+  "up": 2,
+  "updatedAt": "2024-03-09T17:29:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9253"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript is core",
+    "format": "form",
+    "workaround": "The warning can be manually silenced by prefixing the unused parameter with an underscore (e.g., `_delta`) or using `@warning_ignore(\"unused_parameter\")`. \n\nHowever, this approach clutters the function signature and becomes time-consuming when dealing with multiple overridden functions. It’s especially frustrating when you comment out code that uses the parameter, as you then have to add the underscore to avoid warnings, only to remove it again when restoring the code, which is tedious and annoying."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-09-20T20:39:45Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10791,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript Overridden function parameters shouldn't warn for UNUSED_PARAMETER ",
+  "up": 6,
+  "updatedAt": "2024-09-21T09:24:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10791"
+}

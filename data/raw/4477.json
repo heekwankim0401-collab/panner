@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is no reason to limit this functionality. \n\nADDITIONAL -  it should not be possible to use 0 as is !\nRight now using 0 like this:\n`astar2dObject.SetPointWeightScale(index, 0);`\n\ngets SILENTLY converted to 1 which is horrible practice. It would be better if the function simply fails/throws an exception when 0 is recieved.\nOne should NOT simply arbitrarly feed a function values the programmer did NOT use !\n\nI mean this could even be considered a bug. \nImage calling some function:\n`addition(-1, 3) `\nwhere -1 gets silently set to 1 (because minus numbers are not supported). So insted of result being 2, you get 4. as result",
+    "format": "form",
+    "workaround": "Everything can be workaround, but I dont see why we have such a limit. There is no mathematical problem if some point has a weight cost of 0."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-06T06:40:12Z",
+  "comments": 2,
+  "createdAt": "2022-05-01T17:43:32Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "3.x",
+  "number": 4477,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "AStar Point should have the possibility to have weight of 0",
+  "up": 4,
+  "updatedAt": "2022-05-06T06:40:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4477"
+}

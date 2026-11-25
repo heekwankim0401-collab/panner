@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "---",
+    "format": "form",
+    "workaround": "---"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-08T21:54:06Z",
+  "comments": 3,
+  "createdAt": "2024-01-07T15:51:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 8824,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a Resource type to impot excel file, or make a special folder such as \"StreamingAssets\" folder like unity",
+  "up": 0,
+  "updatedAt": "2024-01-08T21:54:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8824"
+}

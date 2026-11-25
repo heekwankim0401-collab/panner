@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is to enable better performance in the addons.",
+    "format": "form",
+    "workaround": "This will be used by any plugin that needs unfiltered input from the microphone."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-13T22:21:55Z",
+  "comments": 4,
+  "createdAt": "2024-12-09T15:50:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 11325,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow GDExtension to directly read the AudioDriver input buffer used by the microphone",
+  "up": 1,
+  "updatedAt": "2024-12-14T17:39:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11325"
+}

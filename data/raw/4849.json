@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be an improvement to an already existing Feature, and enhance the Game Engine functionallity a lot.",
+    "format": "form",
+    "workaround": "I think it would be used often, and in order to do the same anyways one would have to have a good understanding of the enigne, for example one could check every filled block of the grid map, check if it's a certain block, and add a scene at that position."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-07-10T19:31:23Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4849,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Gridmap consist of scenes, rather than meshes",
+  "up": 33,
+  "updatedAt": "2025-07-04T10:42:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4849"
+}

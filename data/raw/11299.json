@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The `CanvasItem` shader already features a built-in `LIGHT_POSITION` for its `light()` function.\nA fairly quick glance at the source code also suggests that the information about the light's position is already present in the `LightData` struct used in the GLSL files",
+    "format": "form",
+    "workaround": "The current limitations in Godot's shaders (especially the inability to define arrays as `global uniforms`) makes it impractical to pass all the necessary information for implementing a custom lighting system.\nThe only available solution involves computationally expensive and unnecessarily complex scripting operations to compensate for the lack of a simple information."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-12-06T13:41:23Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 11299,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the built-in `LIGHT_POSITION` to the spatial shader's `light()` function",
+  "up": 3,
+  "updatedAt": "2026-02-18T15:17:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11299"
+}

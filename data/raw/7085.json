@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This proposal requires modifications to the GPUParticles node and internal particle so it can't be an addon. It could be protoyped in an addon however.",
+    "format": "form",
+    "workaround": "This cannot be worked around with a script. However, the full CPU-only implementation could be prototyped as an extension/addon"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-25T08:15:43Z",
+  "comments": 6,
+  "createdAt": "2023-06-14T17:24:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7085,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for particle recording and playback",
+  "up": 33,
+  "updatedAt": "2025-06-25T09:00:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7085"
+}

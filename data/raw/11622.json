@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it affects 3DGizmoPlugin classes",
+    "format": "form",
+    "workaround": "not to my knowledge"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-01-22T16:57:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11622,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove the need to restart editor when modifying most `3D Gizmos` settings",
+  "up": 4,
+  "updatedAt": "2025-01-22T17:04:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11622"
+}

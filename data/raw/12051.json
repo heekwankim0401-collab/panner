@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core functionality.",
+    "format": "form",
+    "workaround": "There is currently no way to set both position and size at the same time."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-04T22:16:37Z",
+  "comments": 2,
+  "createdAt": "2025-03-22T17:04:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12051,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `window_set_position_and_size` (or `window_set_rect`)",
+  "up": 0,
+  "updatedAt": "2025-04-06T21:02:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12051"
+}

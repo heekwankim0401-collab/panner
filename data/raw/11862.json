@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This idea cannot be realized without direct interaction with Steam, at least the interaction with the cloud itself",
+    "format": "form",
+    "workaround": "This can be implemented by manual transfer of the file, but after reading some user reviews, this can lead to errors in some cases, so many do not risk doing this and set up everything manually"
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-27T18:54:28Z",
+  "comments": 1,
+  "createdAt": "2025-02-27T10:11:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11862,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add synchronization of settings with a SteamCloud",
+  "up": 0,
+  "updatedAt": "2025-02-27T19:14:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11862"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of Godot core.",
+    "format": "legacy",
+    "workaround": "Not really because how tightly coupled it is with the SceneTree."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-16T22:22:20Z",
+  "comments": 16,
+  "createdAt": "2020-10-16T09:18:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 1675,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the high-level multiplayer API multithreaded",
+  "up": 3,
+  "updatedAt": "2020-10-16T22:31:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1675"
+}

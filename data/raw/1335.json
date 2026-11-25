@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a general enhancement to the editor that would better be done in core.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-23T17:14:14Z",
+  "comments": 7,
+  "createdAt": "2020-08-08T07:50:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:network"
+  ],
+  "milestone": "3.x",
+  "number": 1335,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the editor change debug remote port automatically if unavailable",
+  "up": 4,
+  "updatedAt": "2023-03-28T20:24:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1335"
+}

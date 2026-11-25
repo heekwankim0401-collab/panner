@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Tile Scenes are apart of the base TileMap of Godot, and this is expected functionality with them.",
+    "format": "form",
+    "workaround": "I ended up creating a dictionary of Vector2i -> Node, and then populating it in the onready, but it only does not work for layers:\n```\nvar tileChildren:Dictionary = {}\nfunc _ready():\n\t. . .\n\t(func ():\n\tfor c in TILE_MAP.get_children(true):\n\t\ttileChildren[TILE_MAP.local_to_map(c.position)] = c).call_deferred()\n\t\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-30T17:58:07Z",
+  "comments": 1,
+  "createdAt": "2023-11-30T17:45:52Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8554,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to get a TileMap's tile scene instance from position",
+  "up": 0,
+  "updatedAt": "2023-11-30T17:58:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8554"
+}

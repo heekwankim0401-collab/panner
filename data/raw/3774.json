@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Reflection Probes are Core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-08T20:34:05Z",
+  "comments": 1,
+  "createdAt": "2022-01-08T18:13:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3774,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Apply Reflection Probe ambient to Reflections",
+  "up": 1,
+  "updatedAt": "2022-01-08T20:34:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3774"
+}

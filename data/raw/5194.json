@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the usability of the GDScript editor for faster creation of variable names and less typos. ;)",
+    "format": "form",
+    "workaround": "This might be worked around by an editor plugin but this might be inconvenient.\nBetter to have a feature like that in the editor right from the start."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-08-18T12:54:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5194,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Editor support for adding a quick way of auto-creating a variable of certain type if calling a function with known return type.",
+  "up": 0,
+  "updatedAt": "2022-08-24T14:40:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5194"
+}

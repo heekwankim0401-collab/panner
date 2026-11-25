@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "this will benefit _all_ paid games (and many free games) because they _all_ have pre-game menus and a pause menu",
+    "format": "form",
+    "workaround": "i believe not:\ni asked 1 time each across 2 Godot forums and no-one could answer\n([no longer official forum](https://godotforums.org/d/30489-android-toggle-system-bars), [official forum](https://forum.godotengine.org/t/android-show-system-bars-when-the-game-is-paused/40564))"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-07T12:15:28Z",
+  "comments": 5,
+  "createdAt": "2024-01-07T19:53:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.4",
+  "number": 8826,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to toggle Android status and navigation bars at runtime",
+  "up": 2,
+  "updatedAt": "2024-12-08T17:02:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8826"
+}

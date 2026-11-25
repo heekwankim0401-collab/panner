@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a small but relevant UX improvement.",
+    "format": "legacy",
+    "workaround": "It's very common behavior for animators."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-16T00:38:52Z",
+  "comments": 4,
+  "createdAt": "2019-10-24T02:52:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 179,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow users to completely preview animation by scolling when dragging the timeline timestamp",
+  "up": 2,
+  "updatedAt": "2020-11-16T00:38:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/179"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The information about the project and how templates work seems integrated to the editor itself.",
+    "format": "form",
+    "workaround": "It's just more characters to type for every single new class you create via the editor. It's just one of those things that adds up over time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-12-05T08:22:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11290,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `_PROJECTNAME_` to template placeholders",
+  "up": 4,
+  "updatedAt": "2024-12-14T05:17:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11290"
+}

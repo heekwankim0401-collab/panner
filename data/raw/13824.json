@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Games with hexagonal tiles are pretty popular nowadays, and more 3D assets have hexagonal tiles now than before. Hexagonal tiles give a pretty aesthetic to a 3D game, and it makes sense for a general-purpose game engine to have hexagonal tile support OOTB.",
+    "format": "form",
+    "workaround": "Nope. Not that I can think of, other than having very tiny cells for precise hexagonal placement, which is going to leave the error margin very low and can result in severe deterioration of player experience.\n\nThe problem with such small cell size is that you need to be very very precise when placing tiles, which is very exhausting and time consuming. Also, if you place a wrong tile and close the project, or Godot crashes, it becomes almost impossible, painfully so, to delete the misplaced grid due to small cell size. Here's an example:\n\n<img width=\"1366\" height=\"768\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e0407515-4e13-4ce3-af06-4adf3c572b05\" />"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-10T11:47:45Z",
+  "comments": 2,
+  "createdAt": "2025-12-10T04:40:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 13824,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Hexagon tiles support for GridMap",
+  "up": 0,
+  "updatedAt": "2025-12-10T16:39:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13824"
+}

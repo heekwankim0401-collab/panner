@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "To my knowledge, `get_data_path()` cannot be overridden using an add-on",
+    "format": "form",
+    "workaround": "This can be worked around by using the host filesystem instead of the `user://` path"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-21T13:51:56Z",
+  "comments": 1,
+  "createdAt": "2022-01-21T13:40:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3838,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add self-contained mode for exported games",
+  "up": 0,
+  "updatedAt": "2022-01-21T13:52:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3838"
+}

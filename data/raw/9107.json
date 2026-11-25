@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It modifies native panel commands and works directly on project references - it could be possible but it sounds like a native feature to me, since Inspector field > Save as... already does it, albeit for only one reference.",
+    "format": "form",
+    "workaround": "No, not script, although I described a workaround in editor UI."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-16T18:23:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9107,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add contextual menu to convert binary resource .res to serialized text .tres (and vice-versa)",
+  "up": 9,
+  "updatedAt": "2024-02-16T18:24:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9107"
+}

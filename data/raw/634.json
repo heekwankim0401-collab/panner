@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it helps people make games faster and allows for encapsulation.",
+    "format": "legacy",
+    "workaround": "it can be worked around with a script but its tedious and would be much better in the editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-03-25T18:53:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 634,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to link values of properties from different nodes",
+  "up": 4,
+  "updatedAt": "2022-07-14T12:23:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/634"
+}

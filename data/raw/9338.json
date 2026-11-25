@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Would improve usage of icons in LineEdit.",
+    "format": "form",
+    "workaround": "Can be solved in multiple ways:\n- Having multiple icon sizes\n- Creating scene using LineEdit and Button"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-03-20T05:50:23Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9338,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an Expand Icon property to LineEdit",
+  "up": 0,
+  "updatedAt": "2024-03-26T22:59:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9338"
+}

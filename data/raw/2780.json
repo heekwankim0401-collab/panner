@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As mentioned, this can likely be an editor plugin, but I think that the current UX of setting collision layers is simply bad so a fix needs to be done in the editor and not as a third-party patch.",
+    "format": "markdown",
+    "workaround": "Not a few, but I guess I can imagine a plugin that can be used to override the inspector for these properties."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2021-05-26T17:18:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2780,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add user-defined grouping to Render and Physics layers",
+  "up": 14,
+  "updatedAt": "2021-05-28T20:47:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2780"
+}

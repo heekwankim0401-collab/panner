@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. World partitioning affects engine architecture, resource management, and performance. Leaving it as an add-on risks fragmentation, inconsistent quality, duplication of effort, and reduced adoption. Core integration guarantees a robust foundation for large-scale 3D projects in Godot 5.",
+    "format": "form",
+    "workaround": "Partial solutions exist through community plugins or custom scripts, but implementing fully-featured world partitioning, dynamic LOD streaming, and asset/physics streaming manually is highly complex and inefficient. Core integration ensures performance, stability, and usability for large-scale projects."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-06T18:27:01Z",
+  "comments": 4,
+  "createdAt": "2025-12-06T16:58:54Z",
+  "down": 3,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13798,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Integrated Scene Streaming and LOD System for High-End 3D Worlds",
+  "up": 2,
+  "updatedAt": "2025-12-07T10:42:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13798"
+}

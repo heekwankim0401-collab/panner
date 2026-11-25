@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's relevent to all godot projects and is an easy development speed papercut to fix.",
+    "format": "form",
+    "workaround": "Find the transform in Inspector, hit reset button."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-04T17:38:02Z",
+  "comments": 6,
+  "createdAt": "2025-01-09T02:49:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11523,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Clear Move/Rotate/Scale keyboard shortcuts to the 3D editor",
+  "up": 4,
+  "updatedAt": "2025-03-04T17:38:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11523"
+}

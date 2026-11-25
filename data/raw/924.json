@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "To quote @hpvb \n\n> This should be added to the VideoPlayer class, after that GDNative will also get it. I suggest this gets implemented using Godot's internal HTTP client to ensure that we use the same certificates etc for https streams.\n\n@hbina showed interest on working on the feature.",
+    "format": "legacy",
+    "workaround": "There is no workaround for streaming video from a url."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2020-05-27T16:23:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 924,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement streaming from an URL in VideoPlayer",
+  "up": 44,
+  "updatedAt": "2024-09-18T15:14:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/924"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Export variables are a core feature in GDScript.",
+    "format": "form",
+    "workaround": "```gdscript\n@tool\nextends Control\n\n@export var my_node_path : NodePath\n\n@export var rename_my_node : String:\n\tget: return rename_my_node\n\tset(v):\n\t\trename_my_node = v\n\t\tget_node(my_node_path).name = v\n```\n\nThis works fine enough, aside from the fact that initially setting it may crash Godot, but it works fine and doesn't after crash more then that initial time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-06-19T09:07:54Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7116,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Resolve Node export variables earlier like NodePath export variables",
+  "up": 0,
+  "updatedAt": "2023-06-19T10:23:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7116"
+}

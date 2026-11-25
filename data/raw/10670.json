@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "What we have at the moment is already a core feature - however in its current state its confusing at best and deceptive at worst.\n\nNinja edit: Setters too.",
+    "format": "form",
+    "workaround": "It can be worked around by calling `get_external_skeleton()` expecting a `Skeleton3D`, being confused when you get an error, reading the docs then correcting your code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-06T12:21:09Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 10670,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename `BoneAttachment3D::get_external_skeleton()` to `get_external_skeleton_path()`",
+  "up": 0,
+  "updatedAt": "2024-09-07T04:31:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10670"
+}

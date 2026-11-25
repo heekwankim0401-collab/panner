@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. This feature must be implemented in the core engine because safe await support in worker threads requires changes at the GDScript interpreter and scheduler level.\nAn add-on in the asset library cannot modify the internal coroutine handling or thread execution model of the engine.\n\nWithout core support, any attempt to simulate this behavior in an add-on would still rely on workarounds like polling or manual signaling, which do not provide the same safety guarantees, syntax integration, or performance benefits as a native implementation.",
+    "format": "form",
+    "workaround": "No, it cannot be fully worked around with just a few lines of script.\nWhile it is possible to simulate delays or main-thread communication in worker threads using Mutex, Semaphore, or manual polling, these approaches cannot replicate the simplicity and clarity of a direct await expression in a thread context.\n\nFor example, if I want to write:\n\ngdscript\nنسخ\nتحرير\nvar s = await my_await_function()\nthere is currently no safe and direct way to do this in a worker thread without rewriting the logic into callbacks or complex synchronization code. This makes the workaround significantly more verbose, harder to read, and prone to race conditions."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-11T14:20:24Z",
+  "comments": 2,
+  "createdAt": "2025-08-11T14:08:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12980,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Allow await to be safely used across threads (Because it's really not safe.)",
+  "up": 0,
+  "updatedAt": "2025-08-11T23:32:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12980"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can only be done on the engine level.",
+    "format": "legacy",
+    "workaround": "Impossible to prevent error prints in the debugger *selectively*. It's possible to disable error printing via `application/run/disable_stderr` project setting, but that only prevents terminal output, and the idea here is that it should be possible to do this at run-time as well."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-20T11:22:08Z",
+  "comments": 3,
+  "createdAt": "2020-11-02T23:06:12Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1763,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to temporarily disable error printing in the engine",
+  "up": 5,
+  "updatedAt": "2021-07-19T18:49:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1763"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Seems to me part of core engine functionality to provide transition as high performance is needed and lots of core graphics calls needs to be made",
+    "format": "markdown",
+    "workaround": "No I don't think\n![bookFlippingpreview](https://user-images.githubusercontent.com/3510609/109120005-6a168980-776b-11eb-86a2-7bd54ea3e9fa.gif)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-25T10:26:47Z",
+  "comments": 1,
+  "createdAt": "2021-02-25T07:46:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2346,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "PageCurl transition like iOS and android or unity",
+  "up": 0,
+  "updatedAt": "2021-02-25T10:27:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2346"
+}

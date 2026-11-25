@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature is about GDScript and any binding of GDExtension , it is best to be supported by core.",
+    "format": "form",
+    "workaround": "The core concept of this proposal is very simple, users can define a simple \"Future\" class like my solution by themselves."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-01-18T13:57:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 8911,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a cross-language async/coroutine mechanism",
+  "up": 22,
+  "updatedAt": "2024-07-03T23:45:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8911"
+}

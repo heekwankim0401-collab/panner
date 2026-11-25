@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-05T20:18:56Z",
+  "comments": 6,
+  "createdAt": "2021-09-05T14:30:24Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3255,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `tscn` and `tres` to `scene` and `res` (prefix binary formats with `b`)",
+  "up": 0,
+  "updatedAt": "2021-09-05T20:53:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3255"
+}

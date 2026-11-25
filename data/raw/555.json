@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "legacy",
+    "workaround": "Every user would need to copy-paste path to executable in some setting on IDE side."
+  },
+  "assignees": 0,
+  "closedAt": "2020-03-18T09:39:08Z",
+  "comments": 2,
+  "createdAt": "2020-03-05T09:04:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 555,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Write metadata file with path to Godot executable",
+  "up": 4,
+  "updatedAt": "2020-04-29T14:12:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/555"
+}

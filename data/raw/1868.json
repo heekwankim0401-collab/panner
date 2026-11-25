@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It relates to the core windowing system, used for games, editor and project manager.",
+    "format": "legacy",
+    "workaround": "It's OS-specific and there is nothing exposed to do this from a script AFAIK, it would be very inconvenient to do that with an addon anyways."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-02T12:07:21Z",
+  "comments": 17,
+  "createdAt": "2020-11-21T20:23:21Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 1868,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use dark mode for the window title bar on Windows 10",
+  "up": 25,
+  "updatedAt": "2025-10-16T15:47:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1868"
+}

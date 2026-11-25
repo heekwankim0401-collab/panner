@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Add-ons cannot modify core platform abstraction layers",
+    "format": "form",
+    "workaround": "No viable workaround exists because:\n\n- Platform ports require deep OS integration (cannot be done via scripts)\n\n- Critical subsystems (windowing, input, graphics) need native C++ bindings"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2025-07-05T10:41:13Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12734,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add official support for OpenHarmony OS",
+  "up": 43,
+  "updatedAt": "2026-10-23T14:51:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12734"
+}

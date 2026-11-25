@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "not applicable (can't be an add-on)",
+    "format": "form",
+    "workaround": "My current workaround is to create a .tsv file (tab delimited) and then rename it to .csv. This is somewhat cumbersome because Google Sheets (as recommended by the [importing_translations](https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_translations.html) page in the docs) exports tsv files by default with the extension .tsv, and then I have to shoehorn this into a .csv every time I make some changes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-07-01T02:29:46Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4788,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `.tsv` as a valid file extension for CSV translations",
+  "up": 2,
+  "updatedAt": "2022-08-02T23:18:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4788"
+}

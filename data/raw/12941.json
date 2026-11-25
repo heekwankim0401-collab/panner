@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The idea is to allow for assets to be able to better extend Godot's core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-05T08:30:00Z",
+  "comments": 4,
+  "createdAt": "2025-08-05T03:48:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 12941,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Allow GDExtension-defined Variant types",
+  "up": 0,
+  "updatedAt": "2025-08-05T17:33:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12941"
+}

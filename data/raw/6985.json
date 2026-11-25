@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This improves the Godot .NET experience out of the box and is a change in the way Godot .NET launches Visual Studio. This cannot be provided with an add-on.",
+    "format": "form",
+    "workaround": "This cannot be worked around without changing the name of the solution."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-27T17:26:08Z",
+  "comments": 3,
+  "createdAt": "2023-05-30T20:47:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 6985,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add dotnet/project/solution_name project setting.",
+  "up": 7,
+  "updatedAt": "2025-06-27T17:26:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6985"
+}

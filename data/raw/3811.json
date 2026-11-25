@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would make setting up navigation regions a much easier process since you can overlap meshes across different regions.",
+    "format": "form",
+    "workaround": "This could likely be done in a hacky way with existing code in a plugin that just does a PhysicsQuery in a box area, gets all colliders in that area, adds them to a temp group, instances a NavigationMesh node, sets it to bake nodes in that group, bakes, then removes the colliders from that group."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-03T23:42:46Z",
+  "comments": 2,
+  "createdAt": "2022-01-16T22:15:05Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:navigation"
+  ],
+  "milestone": "4.0",
+  "number": 3811,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make so NavigationMeshes can be set to only bake an area in a bounding box",
+  "up": 1,
+  "updatedAt": "2023-02-03T23:44:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3811"
+}

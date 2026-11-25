@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "You can't write Script Editor plugins. And even if you could, it's a rather obvious usability thing to have.",
+    "format": "legacy",
+    "workaround": "You can't write Script Editor plugins."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-04T15:24:47Z",
+  "comments": 5,
+  "createdAt": "2020-01-19T18:00:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 393,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Autocomplete methods from custom script for override",
+  "up": 5,
+  "updatedAt": "2022-12-04T15:24:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/393"
+}

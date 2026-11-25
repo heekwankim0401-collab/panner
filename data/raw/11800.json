@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not sure this could be added with an add-on as it would have to tie into the rendering.",
+    "format": "form",
+    "workaround": "This would not be used very often, but I don't think this could be worked around with a simple script, it would need to be added in the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-02-18T16:26:46Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11800,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add debug draw modes such as Overdraw to 2D",
+  "up": 12,
+  "updatedAt": "2026-10-30T11:41:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11800"
+}

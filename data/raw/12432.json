@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. The proposed change involves core export logic, which determines how files are bundled inside Android packages. This behavior is part of the native export pipeline and cannot be modified or overridden by asset library add-ons.\n\nSupporting Play Instant is increasingly relevant for mobile games, and this enhancement ensures Godot remains viable for modern Android distribution workflows.",
+    "format": "form",
+    "workaround": "No. Supporting Google Play Instant properly requires control over how assets are bundled in the exported APK or AAB. This cannot be reliably achieved through scripting or plugin-based workarounds."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-12T21:48:56Z",
+  "comments": 7,
+  "createdAt": "2025-05-15T06:10:52Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:export"
+  ],
+  "milestone": "4.5",
+  "number": 12432,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for exporting to Google Play Instant",
+  "up": 7,
+  "updatedAt": "2025-06-12T21:50:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12432"
+}

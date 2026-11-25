@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This change improves the experience of C# integration in Godot for more technical users.",
+    "format": "form",
+    "workaround": "The current overload works, but is not optimal in more allocation heavy conditions. Limiting strain on the C# Garbage Collector is always nice when there's a lot going on. The current overload limits how much developers can do to optimize memory allocation in the .Net CLR."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-01-02T08:40:48Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 8775,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a version of C# `GD.VarToBytes()` that uses Span instead of an array",
+  "up": 4,
+  "updatedAt": "2024-01-03T15:01:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8775"
+}

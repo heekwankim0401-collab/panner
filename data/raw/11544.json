@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "1. **Cross-Platform Consistency** - Match existing functionality on macOS / windows / linux\n2. **Developer Utility** -  Built-in crash handling benefits all developers.",
+    "format": "form",
+    "workaround": "Crash logging can be disabled with arg `--disable-crash-handler`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-01-12T19:06:52Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:core",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11544,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Crash Handler for iOS Platform",
+  "up": 0,
+  "updatedAt": "2025-01-15T14:55:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11544"
+}

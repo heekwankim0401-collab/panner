@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is core",
+    "format": "form",
+    "workaround": "I think it would be used very often if it was available to devs, and the work around using _validate_property() is not user-friendly"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-13T18:51:22Z",
+  "comments": 8,
+  "createdAt": "2025-09-13T01:04:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13162,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Rename @export_storage annotation to @storage",
+  "up": 0,
+  "updatedAt": "2025-09-23T16:32:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13162"
+}

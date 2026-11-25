@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is basic tween system functionality.",
+    "format": "form",
+    "workaround": "Currently there is one way to work around it, which is to use `custom_step(0)`. Since the docs for `custom_step()` say \"Returns true if the Tween still has Tweeners that haven't finished.\" which is pretty much what we want. (Assuming we know that the function does not just return false because the tween is already finished e.g. because we just created it, or `get_total_elapsed_time()` returns 0)\nThe one problem this has (besides it being absolutely non-obvious and more misuse of another API than being a proper API) is: as we said already, starting a tween without any tweener results in an error in the console. And doing a `custom_step` will result in the same error message as if you started it normally. Which means the only way to check whether there are tweeners in a tween will produce an error if there are no tweeners in the tween. Quite ironic if you ask me.\n\nIF you only want to check if there are any tweeners in a tween so that you can avoid the error, you can also instead add `tween.tween_interval(0)` at the very beginning to the tween. So the tween will at least always do something (which is nothing). This works in that case. \n\nAnyone attempting to suggest these are not just dirty workarounds but actually acceptable expected API usage, will be yeeted into THE PIT(tm)."
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-16T09:41:37Z",
+  "comments": 8,
+  "createdAt": "2025-09-25T15:05:52Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 13266,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add method to check if there are any Tweeners added to a Tween or not",
+  "up": 3,
+  "updatedAt": "2026-11-16T09:41:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13266"
+}

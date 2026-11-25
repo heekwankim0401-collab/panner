@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core feature of the physics shape manipulation process.",
+    "format": "form",
+    "workaround": "I am aware that the shapes could be created, owned, transformed, etc. using the methods in CollisionObject, but I'm attempting to extend CollisionShape3D into a new class that can keep track of sprites, meshes, etc. for editing curves, object positions, etc.  It's just way simpler to have an extended class to handle all that than have one giant CollisionObject class keeping track of many different shape transforms, sprites, etc. all at once.\n\nI also know that it is possible to keep an array of owner_ids in the CollisionObject and try to manually sync it up whenever a shape is added or removed.  The problem with that is anytime a shape may be added/removed (even temporarily) without updating the array (e.g. from outside the class), it throws that array out of sync permanently."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-01-26T20:41:48Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6179,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose Collision Shape Nodes' owner_id for scripting",
+  "up": 6,
+  "updatedAt": "2024-10-04T15:07:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6179"
+}

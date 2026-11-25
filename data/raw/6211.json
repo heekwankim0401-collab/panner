@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's engine internal behaviour",
+    "format": "form",
+    "workaround": "It cannot be worked around as it's related to editor/editing interactions that depend on core logic."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-01-31T08:27:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6211,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve sorting for nodes with orphan/missing parent in instantated scenes",
+  "up": 0,
+  "updatedAt": "2023-01-31T13:17:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6211"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Shaders have it and I think gdscript 2.0 will have too.",
+    "format": "form",
+    "workaround": "Yes you can create the types, but when you try to export will not have the nice editor."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-10T19:08:48Z",
+  "comments": 4,
+  "createdAt": "2021-08-01T05:48:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 3071,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Vector2Int and Vector3Int to C#",
+  "up": 0,
+  "updatedAt": "2021-08-10T19:08:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3071"
+}

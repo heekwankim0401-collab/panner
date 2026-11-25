@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "because is an basic tool for any android development area, and can be part of debug and run on project",
+    "format": "form",
+    "workaround": "no , maybe use an default emulator set to work with the android godot project  or create a new custom android emulator from source code - https://android.googlesource.com/platform/external/qemu/+/refs/heads/master but adding benchmarks and outputs to help users to optimize the project"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T07:49:19Z",
+  "comments": 4,
+  "createdAt": "2025-04-14T11:41:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12231,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "godot emulator for android",
+  "up": 0,
+  "updatedAt": "2026-01-28T17:16:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12231"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving editor usability on Android, and can't be implemented by an add-on.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 1,
+  "closedAt": "2026-02-13T13:43:25Z",
+  "comments": 0,
+  "createdAt": "2023-01-29T21:33:59Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": "4.7",
+  "number": 6201,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement `project.godot` file associations for the Android editor",
+  "up": 6,
+  "updatedAt": "2026-02-13T13:43:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6201"
+}

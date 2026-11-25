@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Not possible outside of core",
+    "format": "form",
+    "workaround": "No, it is not extremely important other than for the sake of consistency."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-06T21:25:27Z",
+  "comments": 3,
+  "createdAt": "2024-09-06T02:08:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10668,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make CSGBox3D extend CollisionObject3D",
+  "up": 0,
+  "updatedAt": "2024-09-06T21:25:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10668"
+}

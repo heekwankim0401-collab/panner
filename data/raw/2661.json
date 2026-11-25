@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core functionality for the editor.\n\n*Keywords for easier searching: hiDPI*",
+    "format": "markdown",
+    "workaround": "No, as this is native OS-specific code and is required to ensure the editor scales correctly on all platforms out of the box."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-05T14:52:36Z",
+  "comments": 12,
+  "createdAt": "2021-04-27T18:37:48Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": "4.8",
+  "number": 2661,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement `DisplayServer.screen_get_scale()` on Windows and Linux (X11)",
+  "up": 27,
+  "updatedAt": "2026-08-05T14:52:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2661"
+}

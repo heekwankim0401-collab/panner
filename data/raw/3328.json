@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It makes TextureRect easier to use.",
+    "format": "form",
+    "workaround": "I'd say it's a common problem with TextureRect, but yes, it can be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-12T19:09:48Z",
+  "comments": 0,
+  "createdAt": "2021-09-21T23:02:11Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3328,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add more expand options to TextureRect",
+  "up": 6,
+  "updatedAt": "2023-01-12T19:10:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3328"
+}

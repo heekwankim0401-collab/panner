@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the RichTextLabel out of the box.",
+    "format": "form",
+    "workaround": "I don't think it can be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-28T00:27:12Z",
+  "comments": 1,
+  "createdAt": "2025-04-17T18:25:13Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 12265,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add get_line_height and get_line_width method for RichTextLabel",
+  "up": 2,
+  "updatedAt": "2025-04-28T00:34:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12265"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "SpringArm3D is an exisitng node and core part of the engine.",
+    "format": "form",
+    "workaround": "If not required, this method can just be ignored by the user."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-12-19T17:52:01Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8691,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add is_colliding() method to SpringArm3D",
+  "up": 1,
+  "updatedAt": "2023-12-19T17:59:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8691"
+}

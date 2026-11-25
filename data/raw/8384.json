@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is specifically an improvement to an existing editor feature. Having it as an add-on would be inconvenient.",
+    "format": "form",
+    "workaround": "No. It could potentially be worked around in a heckton of lines of code, but that would be least convenient and most silly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-11-09T20:26:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8384,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add regex search/replacement capability to the script editor's Find in Files dialog",
+  "up": 25,
+  "updatedAt": "2025-01-13T17:06:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8384"
+}

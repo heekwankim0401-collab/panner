@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core feature.",
+    "format": "markdown",
+    "workaround": "Yes, one can use `rng.seed = 37` instead of proposed `rng.seed(37)` or `rng.initialize(37)`\n\nWith godotengine/godot#44089, you have to make sure that seed is not reset after modifying the state."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-12-07T12:53:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1950,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide consistent `RandomNumberGenerator` API for initializing and modifying the internal state",
+  "up": 2,
+  "updatedAt": "2021-06-25T19:08:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1950"
+}

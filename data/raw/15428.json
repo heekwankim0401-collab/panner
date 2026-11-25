@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-08-24T11:06:53Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15428,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to match the order of animation tracks to that of scene tree nodes",
+  "up": 1,
+  "updatedAt": "2026-08-24T11:25:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15428"
+}

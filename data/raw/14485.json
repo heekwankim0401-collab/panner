@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2026-03-17T22:21:39Z",
+  "down": 2,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14485,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Bind C++ lambdas as methods",
+  "up": 0,
+  "updatedAt": "2026-03-18T20:58:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14485"
+}

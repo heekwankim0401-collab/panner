@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a great feature for a game engine to have, people might need it often.",
+    "format": "form",
+    "workaround": "It shouldn't be easy to implement an accurate path predictor, especially a newbie like me so I doubt that it can be worked around with a few lines of script"
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-12T12:08:55Z",
+  "comments": 1,
+  "createdAt": "2021-07-12T12:07:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2985,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Predict projectile path",
+  "up": 0,
+  "updatedAt": "2021-07-12T12:08:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2985"
+}

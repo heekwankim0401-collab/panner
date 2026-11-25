@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No, it's a core feature.",
+    "format": "form",
+    "workaround": "No, it's a core feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-09-25T01:39:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13263,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow disabling a FoldableContainer",
+  "up": 9,
+  "updatedAt": "2025-10-08T14:35:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13263"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This process of calling 'Set' and having to supply a full string path with no other means is pretty much entering 'you only know if you know' territory and needs simplifying. But a quick win solution that will aid all coders is ability to copy hover tooltips to the clipboard.",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-13T18:19:22Z",
+  "comments": 1,
+  "createdAt": "2020-06-13T16:42:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1054,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Making Animation Tree property path (and all IDE tooltips) better and less error prone",
+  "up": 0,
+  "updatedAt": "2020-06-13T18:19:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1054"
+}

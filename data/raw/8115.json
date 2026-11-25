@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It modifies core editor behaviour",
+    "format": "form",
+    "workaround": "no work around"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-15T11:10:42Z",
+  "comments": 2,
+  "createdAt": "2023-10-14T11:07:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8115,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add displayName param to [Export] attribute, which changes the display name on inspector.",
+  "up": 6,
+  "updatedAt": "2023-10-15T11:11:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8115"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is not possible to modify the behavior of built-in nodes without modifying the engine code, so it couldn't be made as an add-on.",
+    "format": "form",
+    "workaround": "Waiting until the next physics frame to use `get_overlapping_areas/bodies` works, but is not always desirable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2021-08-09T22:05:25Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3111,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `force_area_update()` method to Area2D/3D to immediately update colliding areas and bodies",
+  "up": 50,
+  "updatedAt": "2023-07-16T15:46:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3111"
+}

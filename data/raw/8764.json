@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe this could be useful in many use-cases when using Godot for building applications. which Honestly it has no right being, as good at as it is. Being a game engine",
+    "format": "form",
+    "workaround": "I believe it could but It would end up being more han a few. it would also be inefficient and unnecessarily time consuming to do so. not to mention it would be completely Impractical.\n\nyou'd have to use textEdit overlayed on a RichTextLabel. then everytime the user inputs text, copy that text from the TextEdit to the RichTextLaybel. then delete the text from the TextEdit node. \n\nthen you'd have to make sure that the text in the RTL and the TE is perfectly alligned so that there are no visual bugs. \n\nat the end of the day it's completely impractical"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-01T13:07:47Z",
+  "comments": 3,
+  "createdAt": "2024-01-01T11:46:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8764,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "RichTextEdit Node",
+  "up": 11,
+  "updatedAt": "2024-01-06T06:07:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8764"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I have no idea, if one could add fast, performant GI, to a single light source or, area, that'd be amazing and, prob. run on slower hard-ware, demo looks like they have made GI, well, not sure how it's working . . . I don't need full sdfgi, except for AAA titles, be nice with a faster, more optimized system, for making god rays, in a very local space, with neat results, demo makes it look possible, don't understand the tech, behind it, atm . . . :OO . .",
+    "format": "form",
+    "workaround": "No, I can't code this, on my own . . . .\n\nI don't know, reason I wanted to ask, is because there's already volumetric fog, not sure, well seems logical to add volumetric light, though I don't know what it is, really would like some local, really fast GI, say for a window, or corridor ( Half-life 2, Resident Evil 5, on PS3 ) . . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-11T19:20:23Z",
+  "comments": 5,
+  "createdAt": "2021-09-20T04:18:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3321,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Consider adding support for OpenGL ES 3.0 volumetric lights ( see demo ) . . .",
+  "up": 0,
+  "updatedAt": "2022-01-11T19:21:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3321"
+}

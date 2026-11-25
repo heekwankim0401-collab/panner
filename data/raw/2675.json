@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I am not sure if add-ons can offer this functionality in shader/post-process.",
+    "format": "markdown",
+    "workaround": "As far as I understand, access to normal and arbitrary buffers is not possible."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-04-30T04:34:25Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2675,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add arbitrary buffers that are accessible in post-processing shaders",
+  "up": 14,
+  "updatedAt": "2021-04-30T16:11:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2675"
+}

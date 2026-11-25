@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It requires core changes",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-01-26T17:46:10Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.x",
+  "number": 6177,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting for the Shader editor to warn/error as if using the gl_compatibility renderer",
+  "up": 5,
+  "updatedAt": "2023-01-26T19:23:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6177"
+}

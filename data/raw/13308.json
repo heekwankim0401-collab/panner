@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.\n\n---\n\nbtw I know this is very similar to https://github.com/godotengine/godot-proposals/issues/11612. I came with a concrete implementation.",
+    "format": "form",
+    "workaround": "Yes, you can make a plugin to do that. But if making plugins involves having another plugin then something is wrong."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-09-30T11:03:40Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13308,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an easy way to reload editor addons",
+  "up": 8,
+  "updatedAt": "2026-09-26T05:25:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13308"
+}

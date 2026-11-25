@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-03T11:21:34Z",
+  "comments": 6,
+  "createdAt": "2026-09-07T13:36:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 15492,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a ```tracking_enabled``` boolean on XR tracked nodes",
+  "up": 0,
+  "updatedAt": "2026-10-05T18:17:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15492"
+}

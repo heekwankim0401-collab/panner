@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I can't think of any reason this can't be an add-on, assuming it doesn't hinder integration compared to if this was core (I don't have actual experience with Godot Add-Ons yet).\n\nIf it's in the Asset Library, everyone looking up search terms to solve the problem of limiting the aspect ratio range of their Godot game to more than just 1 aspect ratios would find it just as easily as they would instructions on how to do this in the Base Godot engine if this was core.\n\nHowever, I think this might be a common problem especially for beginners, so it should still be considered\nif it's a good idea to make this core instead.",
+    "format": "markdown",
+    "workaround": "I can't find a way to restrict the aspect ratio range in game code.\nMy best attempt was very buggy and unusable (sometimes the game crashes, sometimes the game view shrinks to 1×1px)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-03-31T15:06:54Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2535,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to customize aspect ratio range of possible aspect ratios in the game",
+  "up": 2,
+  "updatedAt": "2021-12-23T19:09:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2535"
+}

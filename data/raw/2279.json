@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Solving the problem using autocompletion with a plugin (al least with gdscript one) is not available now, because there is no [API for working with autompletion](https://github.com/godotengine/godot-proposals/issues/1514).\n\nBut I can see some options of how to solve it:\n- a plugin that adds `class_name MyClass` line to current script; this would be hacky due to lack of exposed `ScriptEditor` API (for example [this one](https://github.com/godotengine/godot-proposals/issues/2278))\n- a plugin that creates a script by class name (it opens a popup where you specify the class name `MyClass`, and when confirmed, it creates a script in the folder selected in the filesystem dock, with name `my_class.gd` and adds `class_name MyClass` line there); this could be fine, but this may be inconvenient / not enough if you have already created a script and only then decided to make it a custom class\n\nHowever despite the possibility of creating a plugin that solve the problem, I find it useful to have this in core.",
+    "format": "markdown",
+    "workaround": "Well, you just could write class name manually every time, or you could somehow copy-paste script file name and then change it to PascalCase. But this is not convinient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-02-11T22:36:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2279,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Suggest class name after `class_name` based on script file name",
+  "up": 15,
+  "updatedAt": "2026-08-20T17:32:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2279"
+}

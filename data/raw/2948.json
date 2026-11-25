@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't see a reason for this not to be core, to be honest, but i also don't really see a reason for it to be in core either since you can just do what i did above",
+    "format": "form",
+    "workaround": "It can get around a few lines of code, without this feature you would have to do what i just did above"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-07-04T19:35:38Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2948,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method for getting the 2D length of a Vector3",
+  "up": 0,
+  "updatedAt": "2021-07-15T12:54:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2948"
+}

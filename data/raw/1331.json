@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The \"standard\" outputs formats of godot (stereo, 5.1...) don't allow a large number of mono outputs, so the output system need to be reviewed.\n\n@jpcima have work on a first version : https://github.com/godotengine/godot/issues/24274",
+    "format": "legacy",
+    "workaround": "We can't get this feature working or any work around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-08-07T20:07:03Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 1331,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add JACK audio support with per-channel mixer outputs",
+  "up": 3,
+  "updatedAt": "2020-09-04T23:32:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1331"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Array and Vector are part of core.",
+    "format": "form",
+    "workaround": "Array and Vector are used often."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-09T07:55:22Z",
+  "comments": 1,
+  "createdAt": "2021-10-29T16:35:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3479,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Array/Packed*Array slice consistent",
+  "up": 2,
+  "updatedAt": "2021-12-09T07:55:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3479"
+}

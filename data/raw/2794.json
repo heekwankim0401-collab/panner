@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A lot of fast paced action games are generally balanced using frames rather than time, which would require finding the add-on in the first place.",
+    "format": "markdown",
+    "workaround": "I think the easiest way to work around this is to do the math yourself, figure out how many seconds an animation of a given frame length will be but that's not a perfect solution because adjustments to the games frame rate mean that you have to change every single animation, if you want things to happen on a specific frame."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-05-28T05:57:10Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 2794,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Frame Rate Based Animation Player",
+  "up": 1,
+  "updatedAt": "2021-05-28T21:54:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2794"
+}

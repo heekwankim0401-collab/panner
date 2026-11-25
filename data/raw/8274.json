@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because its simple functionality which tonnes of shaders depend on. take your pick of practically any shader on https://www.shadertoy.com/ for example and it'll use normalised coordinates.  Even something as simple as a non deformed circle within a dynamically sized canvas requires it\n\n![Screenshot_20231027_174615](https://github.com/godotengine/godot-proposals/assets/74463310/adb2f8c9-81d2-4472-8278-4179926621e9)",
+    "format": "form",
+    "workaround": "For one shader yes. for 5 its a pain,  when you depend on it for a lot of shaders then it becomes a major nuisance"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-10-27T15:52:11Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8274,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a built-in way to obtain the aspect ratio of a non-fullscreen control node from a shader",
+  "up": 19,
+  "updatedAt": "2025-01-28T19:27:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8274"
+}

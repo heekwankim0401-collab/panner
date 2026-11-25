@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It compliments the peer functions and makes it easy to initialize things when on the server or client when connected or disconnected.\n\nNote I know the server doesn't connect to itself or disconnect from itself but the idea and code that would be used in these signals would be the same.",
+    "format": "legacy",
+    "workaround": "It would be used to setup things in other nodes that don't have networking code and while it can be by creating your own signals it may not be very clear on where to do so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-11-25T05:45:00Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 1892,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add NetworkSelfConnected and NetworkSelfDisconnected signal to tree",
+  "up": 0,
+  "updatedAt": "2021-07-25T11:24:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1892"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature must be in the core because oss-fuzz requires a single executable and uses clang instrumentation to find bugs.",
+    "format": "legacy",
+    "workaround": "No, this requires integration by the compiler and Godot C++ code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2019-10-19T23:56:37Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 168,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Godot Engine to oss-fuzz",
+  "up": 23,
+  "updatedAt": "2021-09-08T21:06:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/168"
+}

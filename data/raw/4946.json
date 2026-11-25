@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "i think that it is a basic feature that would be used not only in fog volumes because \"NoiseTexture3D\" could be used in a variety of shaders",
+    "format": "form",
+    "workaround": "I think that it is possible but it is inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-27T22:00:31Z",
+  "comments": 48,
+  "createdAt": "2022-07-21T20:39:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "4.1",
+  "number": 4946,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add NoiseTexture3D",
+  "up": 7,
+  "updatedAt": "2023-04-27T22:01:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4946"
+}

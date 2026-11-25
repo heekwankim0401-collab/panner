@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's fundamental to how GDScript parses scripts, it can't be implemented externally.",
+    "format": "legacy",
+    "workaround": "I think it would be used quite often!\nHowever, the work around is just to not use static typing sadly."
+  },
+  "assignees": 0,
+  "closedAt": "2020-03-17T22:56:51Z",
+  "comments": 2,
+  "createdAt": "2020-03-17T22:23:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 595,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript: Allow cyclical references between classes",
+  "up": 0,
+  "updatedAt": "2020-03-17T22:56:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/595"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This could be an asset but an entire asset for this is insane and would not be worth installing from AssetLib.",
+    "format": "form",
+    "workaround": "It can be worked around by connecting signals with the dialog but when connecting signals from differnet nodes it's very slow."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-10-31T23:23:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8323,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Abilty to drag functions into signals to connect them",
+  "up": 4,
+  "updatedAt": "2023-11-01T08:47:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8323"
+}

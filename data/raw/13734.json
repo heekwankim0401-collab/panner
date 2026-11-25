@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "1. **System-level integration**: PROJ/GDAL are system libraries that benefit from being compiled with the engine rather than loaded as GDExtensions\n2. **Performance**: Native C++ integration provides better performance than script-based solutions\n3. **Wide applicability**: Geographic features are useful for many game types (location-based games, flight simulators, GIS applications, map visualizations)\n4. **Foundation for future features**: Enables future geographic features (geographic TileMaps, GPS integration, map rendering, etc.)\n5. **Standardization**: Having coordinate transformation as core ensures consistent APIs across the ecosystem\n6. **Dependency management**: Core modules can handle optional dependencies more gracefully than add-ons\n7. **Editor integration**: Can provide editor tools for geographic data (already planned for future)\n\nHaving this as a core module ensures:\n- Consistent APIs across all projects\n- Better performance than script-based solutions\n- Easier maintenance and updates\n- Foundation for future engine features that depend on geographic capabilities\n- Proper handling of optional system dependencies",
+    "format": "form",
+    "workaround": "*CoordinateTransform**: No. Implementing coordinate transformations correctly requires:\n- Complex mathematical formulas (Haversine, projection math, datum transformations)\n- Handling hundreds of coordinate systems and their parameters\n- Proper handling of datum shifts, ellipsoid parameters, and projection parameters\n- This is why PROJ exists - it's a complex, well-tested library with decades of development\n\n**DEMImporter**: No. DEM import requires:\n- Parsing various raster formats (GeoTIFF, HGT, etc.) with their specific structures\n- Handling coordinate system metadata embedded in files\n- Proper interpolation and sampling algorithms for elevation data\n- GDAL provides this functionality - reinventing it would be error-prone and time-consuming\n\nWhile basic coordinate math could be implemented manually for simple cases (like WGS84 to Web Mercator), it would:\n- Only work for a few coordinate systems\n- Be error-prone without extensive testing\n- Require significant maintenance as coordinate systems evolve\n- Not handle edge cases and datum transformations properly\n\nThese features require integration with proven libraries (PROJ/GDAL) rather than script-based workarounds."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-11-27T14:50:59Z",
+  "down": 2,
+  "labels": [
+    "topic:core",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13734,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Geospatial Module: PROJ Coordinate Transformations and GDAL DEM Import",
+  "up": 0,
+  "updatedAt": "2025-11-28T00:15:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13734"
+}

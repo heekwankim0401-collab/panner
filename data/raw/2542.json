@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Cannot be an addon since it is a change to core code.",
+    "format": "markdown",
+    "workaround": "The only known work around is to use OS.execute() which is sensitive to the hosting OS."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-04-01T20:05:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2542,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a parameter to `Directory.copy()` to maintain source file `last_modified_timestamp`",
+  "up": 1,
+  "updatedAt": "2021-04-01T22:03:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2542"
+}

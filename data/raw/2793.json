@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would have to be a core engine feature",
+    "format": "markdown",
+    "workaround": "No, as this is rendering technology."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 40,
+  "createdAt": "2021-05-27T13:31:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2793,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Implement virtualized geometry rendering",
+  "up": 71,
+  "updatedAt": "2025-02-20T11:54:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2793"
+}

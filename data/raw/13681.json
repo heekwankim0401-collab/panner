@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Its a core feature that can only be used partly",
+    "format": "form",
+    "workaround": "Editor plugin possibly?"
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-05T20:02:21Z",
+  "comments": 0,
+  "createdAt": "2025-11-22T09:42:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 13681,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Editor @export_enum scrollbar + search input for selecting values",
+  "up": 3,
+  "updatedAt": "2026-10-05T20:02:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13681"
+}

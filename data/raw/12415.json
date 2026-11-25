@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "there is already a couple of plugins that trying to add this feature, but since it modifying the editor itself, it turns to be kind-of hack that sometime break or crash the engine.",
+    "format": "form",
+    "workaround": "switching from scene & script is a basic task and this QOL will use very often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-12T04:06:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12415,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make script list panel dockable, add a shortcut button to toggle Stay in Script Editor on Node Selected",
+  "up": 0,
+  "updatedAt": "2025-05-12T18:59:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12415"
+}

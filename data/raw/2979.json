@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This cannot be done using an add-on.",
+    "format": "form",
+    "workaround": "No, this is about the GDScript syntax."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-07T17:22:27Z",
+  "comments": 4,
+  "createdAt": "2021-07-11T09:22:57Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2979,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "`private`/`public` setters and getters (GDScript properties)",
+  "up": 1,
+  "updatedAt": "2023-02-07T17:31:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2979"
+}

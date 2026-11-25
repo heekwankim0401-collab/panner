@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "/",
+    "format": "form",
+    "workaround": "/"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-03T08:28:49Z",
+  "comments": 2,
+  "createdAt": "2023-07-03T08:20:04Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7191,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add clean_points() for Gradient",
+  "up": 0,
+  "updatedAt": "2023-07-03T10:45:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7191"
+}

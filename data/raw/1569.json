@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its a extra icons yes but its a pretty basic feature when it comes to the state of controls\n\n**Updates**\n- UPDATE 9/25/2020:  \n  - tab containers also do not have pressed or disabled icons they seem to emulate disabled with \ntransparency\n   - sliders don't have focus style for slider area or pressed icon for the grabber\n   - tree control doesn't have a way to style sub controls and its impossible to do doted tree lines \n   - tree and spin box doesn't have disabled and pressed icons for up and down separately \n   - tree  also can't edit the horizontal line width without effecting the spacing",
+    "format": "legacy",
+    "workaround": "idk styles aren't the easiest thing to implement and I think having this feature would be useful"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-09-25T19:00:21Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1569,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Some missing styles for controls",
+  "up": 0,
+  "updatedAt": "2020-09-25T22:13:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1569"
+}

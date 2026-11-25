@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript is core.",
+    "format": "form",
+    "workaround": "It can be \"worked around\" by using `return`, but it's about convenience.\n\nEven if the proposal is rejected, the `filter()` etc. methods should at least error out when you return wrong value >_> (although that's difficult for `map()`...)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2022-12-11T15:17:49Z",
+  "down": 4,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5925,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make lambdas automatically return value of the last expression",
+  "up": 34,
+  "updatedAt": "2023-03-15T22:23:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5925"
+}

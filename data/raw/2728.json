@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is GDscript core.\n\n[See also](https://godotengine.org/qa/69701/compatible-function-rpc-calls-for-an-online-and-offline-game)",
+    "format": "markdown",
+    "workaround": "See below...\n\nI don't want to have each client become a host, although there might be a way for a client to switch between host and client modes based on a possible server connection."
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-07T20:26:19Z",
+  "comments": 1,
+  "createdAt": "2021-05-15T15:30:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 2728,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support `rpc()` and `rset()` even the client is not connected to a server",
+  "up": 3,
+  "updatedAt": "2026-11-09T12:53:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2728"
+}

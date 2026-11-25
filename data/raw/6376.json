@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it is a fundamental raycasting option",
+    "format": "form",
+    "workaround": "the answer is given above"
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-01T01:15:46Z",
+  "comments": 0,
+  "createdAt": "2023-03-01T01:14:28Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6376,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow RayCast to report collisions through multiple objects",
+  "up": 0,
+  "updatedAt": "2023-03-01T01:15:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6376"
+}

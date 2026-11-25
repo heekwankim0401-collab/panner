@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-06-21T18:13:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15053,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a configuration warning when MultiMesh is null in MultiMeshInstance2D/3D",
+  "up": 1,
+  "updatedAt": "2026-06-22T17:58:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15053"
+}

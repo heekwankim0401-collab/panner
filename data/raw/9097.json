@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Selecting the code editor is a core feature that enhances UX.\n```[tasklist]",
+    "format": "form",
+    "workaround": "It is certainly possible to manually set the `text_editor/external/use_external_editor` checkbox each time a project is opened, but it's better for the lazy programmer (the best kind of programmers) if the editor itself manages this."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-07T19:32:31Z",
+  "comments": 4,
+  "createdAt": "2024-02-15T16:54:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 9097,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow `text_editor/external/use_external_editor` to be overridden per project",
+  "up": 1,
+  "updatedAt": "2025-11-07T19:32:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9097"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be done efficiently in GDScript and GDNative is impractical for this purpose.\n\n\n<sup>\\* I don't think this is a good name but I can't think of a better one right now.</sup>",
+    "format": "markdown",
+    "workaround": "Just don't use it."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-04T08:25:47Z",
+  "comments": 10,
+  "createdAt": "2020-12-25T22:20:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2023,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to zero-initialize Pool*Arrays",
+  "up": 5,
+  "updatedAt": "2022-03-04T08:26:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2023"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a core part of GDScript and is not project specific, since it will be used by pretty much all projects.",
+    "format": "form",
+    "workaround": "It will be used in almost every exported project, as it brings benefits to pretty much all of the cases."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2023-12-07T14:15:14Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8605,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use an intermediate representation format for GDScript",
+  "up": 93,
+  "updatedAt": "2026-08-14T21:15:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8605"
+}

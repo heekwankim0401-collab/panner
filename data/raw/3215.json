@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As far as I am aware, the functionality cannot be achieved with add-ons.",
+    "format": "form",
+    "workaround": "No (one could use an external editor but that would defeat the point)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-08-28T12:09:50Z",
+  "down": 4,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3215,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Give tabs control over 2d, 3d, and scripts, not the other way around.",
+  "up": 1,
+  "updatedAt": "2021-09-01T05:56:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3215"
+}

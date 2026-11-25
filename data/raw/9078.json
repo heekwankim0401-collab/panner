@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is integral logic to the XR system, while some of it will exist in script or in plugins, the core feature has to be added to the XRServer.",
+    "format": "form",
+    "workaround": "This is integral logic to the XR system, while some of it will exist in script or in plugins, the core feature has to be added to the XRServer."
+  },
+  "assignees": 2,
+  "closedAt": "2024-02-19T09:44:39Z",
+  "comments": 1,
+  "createdAt": "2024-02-12T03:39:26Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:xr"
+  ],
+  "milestone": "4.3",
+  "number": 9078,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for face tracking",
+  "up": 1,
+  "updatedAt": "2024-02-19T09:44:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9078"
+}

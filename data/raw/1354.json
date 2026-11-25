@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Why not, Godot already uses the principled shader, and Blender is open source, it would be a nice work-flow, also to encourage users to use open source software, when using Godot, as well . .\n\nIt would also lower the need by engine makers, to make documentation, since there'd instantly be many tutorials, for many cool effects, very easily . .\n\nThanks . . .",
+    "format": "legacy",
+    "workaround": "I'm a beginner, it's really complicated, to make visual shaders, atm . ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-08-12T07:15:38Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 1354,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the visual shader in Godot 1-to-1 match (open source) Blender system, add copy-paste . .",
+  "up": 10,
+  "updatedAt": "2021-01-26T20:42:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1354"
+}

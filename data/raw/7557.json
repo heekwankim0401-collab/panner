@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a very standard feature.",
+    "format": "form",
+    "workaround": "This can't be worked around by anything in Godot.\n\nIn my case, I can ignore the error code by adding `IgnoreExitCode=\"True\"` to my `.csproj` (but this isn't ideal):\n```csproj\n<Target Name=\"BuildPck\" BeforeTargets=\"CoreCompile\">                                                                   \n    <Exec Command=\"%GODOT4% --display-driver headless -s BuildPck.gd\" WorkingDirectory=\"$(ProjectDir)\" IgnoreExitCode=\"True\" />  \n</Target>\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2023-08-25T06:43:18Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7557,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Exit MainLoop script with a custom error code",
+  "up": 0,
+  "updatedAt": "2024-11-18T15:12:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7557"
+}

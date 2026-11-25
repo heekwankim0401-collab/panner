@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If a user knows to be careful, they don't need the add-on, though perhaps an add-on could do the same thing.\n\nGodot has a policy of not crashing if possible, which is good so that work isn't lost. There are also many other soft limits in the settings, such as limiting the maximum size of lightmaps, which seem to me to be similar in function to this. So the need for the user to know about their device's limits, to not accidentally exceed the limit, the scale of the consequences of exceeding a device's practical capabilities (freezing) and the fact there are similar limits in place, to me indicates this safeguard belongs in core.",
+    "format": "form",
+    "workaround": "The user can just not request large texture sizes. The obstacle is knowing not to do so and not doing so by accident."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-08-28T01:21:14Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13085,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add project setting that limits the maximum texture size dimensions allowed",
+  "up": 0,
+  "updatedAt": "2025-09-04T10:35:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13085"
+}

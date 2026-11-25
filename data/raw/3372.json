@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's central to the interaction between the inspector and script windows in the IDE",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-09-30T11:44:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3372,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically generate smarter inspector references for GDScript",
+  "up": 3,
+  "updatedAt": "2021-09-30T12:08:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3372"
+}

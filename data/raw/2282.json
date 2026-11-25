@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes as part of the editor basic workflow.",
+    "format": "markdown",
+    "workaround": "Anyone editing more than one scene that has child node scripts will benefit."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-02-13T01:41:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2282,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Retain script being edited as unique in each scene tab in the same way find/replace is unique to each tab editor instance",
+  "up": 0,
+  "updatedAt": "2021-02-13T15:00:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2282"
+}

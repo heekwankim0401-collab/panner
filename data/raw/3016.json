@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This changes built in `SceneTree` behavior.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-07-20T07:17:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3016,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Indicate and warn when an inherited scene is using the base scene's script",
+  "up": 0,
+  "updatedAt": "2021-07-20T08:32:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3016"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure - can addons/modules add GDScript methods to core types? Besides, it solves a problem in what appears to be a relatively common scenario.",
+    "format": "form",
+    "workaround": "It can be worked around as I did in my example code, but I don't see any performant way to get a single key from the dictionary."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-12-30T10:34:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11447,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method for acquiring a single key from Dictionary",
+  "up": 0,
+  "updatedAt": "2025-03-22T10:44:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11447"
+}

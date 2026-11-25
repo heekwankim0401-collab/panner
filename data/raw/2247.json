@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core renderer functionality.",
+    "format": "markdown",
+    "workaround": "No, as Godot 4.0's decal rendering is implemented by the engine and can't be overridden in a script."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-20T06:54:21Z",
+  "comments": 3,
+  "createdAt": "2021-02-05T14:41:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 2247,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a property to change the texture sampling mode for Decals, OmniLight3D and SpotLight3D projectors",
+  "up": 9,
+  "updatedAt": "2026-01-26T22:52:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2247"
+}

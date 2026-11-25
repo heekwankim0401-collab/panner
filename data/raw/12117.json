@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This cannot be achieved with add-ons, but as proposed would not try to replace the functionality of logging add-ons or dictate how people handle their own logging, but would enrich the ecosystem for handling debugging information at runtime.\n\n---\n\nThis is not work I expect someone else to do for me; if approved, I would be happy to contribute the implementation myself.",
+    "format": "form",
+    "workaround": "Both major versions of this change would be non-breaking, and given the buffer-based version is incorporated, it could be gated behind a default-false setting before the buffer is populated. If a setting is used, it would potentially be a great place to also be able to set a severity level, restricting what messages get added to the buffer. For example, \n\n```gdscript\nEngine.error_buffer_enable = Engine.ErrorBuffer.DISABLED # 0, default\nEngine.error_buffer_enable = Engine.ErrorBuffer.ERROR # 1\nEngine.error_buffer_enable = Engine.ErrorBuffer.WARN # 2, includes errors as well\nEngine.error_buffer_enable = Engine.ErrorBuffer.INFO # 3, includes errors and warnings as well\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-31T15:43:35Z",
+  "comments": 2,
+  "createdAt": "2025-03-31T08:25:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12117,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Application-facing API for Internal Godot Errors.",
+  "up": 0,
+  "updatedAt": "2025-03-31T18:55:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12117"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core SceneTree function.",
+    "format": "markdown",
+    "workaround": "I think it will be used often. It can be worked around by polling SceneTree at some interval or using `_notification`."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-05T20:20:47Z",
+  "comments": 5,
+  "createdAt": "2021-02-27T20:46:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2374,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add new SceneTree signal `paused_changed`",
+  "up": 0,
+  "updatedAt": "2023-11-05T20:26:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2374"
+}

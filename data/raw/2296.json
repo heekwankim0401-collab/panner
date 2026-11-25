@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be an add-on, since it involves adding new functionality to the script system.",
+    "format": "markdown",
+    "workaround": "I don't see an easy way to wotk-round this.\nChild nodes could possibly be a relatively simple way, but adding behaviors as child nodes:\n- could cause confusion and inconvenience, especially for containers.\n- less efficient\n- less flexible (since you can add only nodes to nodes)\n- still needs the code that manages this, that is not handy"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-02-16T11:35:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2296,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to set additional scripts to nodes/objects",
+  "up": 9,
+  "updatedAt": "2023-02-08T13:58:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2296"
+}

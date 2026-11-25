@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is not possible to get this convenience through an addon.\n\nA sign of a good API is that common things are easy to do and complex things are possible to do, e.g. by going one abstraction level lower. This is currently not possible and the workarounds are disproportionately hard to use.",
+    "format": "form",
+    "workaround": "As described above, custom Window scaling modes are possible to implement, but are very awkward to use, because all global coordinates become meaningless and the code becomes full of utility conversion methods. This is hard to test and maintain, because the coordinates of the custom scaling mode and the Window are often the same."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-10-14T10:06:39Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13382,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make it easier to implement custom Window content scale modes",
+  "up": 0,
+  "updatedAt": "2025-10-15T16:10:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13382"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There should be the official way to do this, otherwise we will get a complete mess if several developers modify the same context menu in a brute way",
+    "format": "markdown",
+    "workaround": "There's no API for that, so no it can't."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-03T14:20:50Z",
+  "comments": 8,
+  "createdAt": "2021-03-05T02:53:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.4",
+  "number": 2401,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support adding custom items to editor right-click context menus",
+  "up": 65,
+  "updatedAt": "2024-09-21T10:00:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2401"
+}

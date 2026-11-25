@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe it basically has to be part of the Mac OS application?",
+    "format": "form",
+    "workaround": "Not it's just app ui"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-03-06T02:54:39Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6442,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Distinguish multiple Godot instances in the dock on macOS",
+  "up": 3,
+  "updatedAt": "2025-11-21T10:56:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6442"
+}

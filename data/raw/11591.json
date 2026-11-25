@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the usability of the editor and should be a core feature.",
+    "format": "form",
+    "workaround": "I think this feature is going to be used really often by beginners, and implementing it in few lines of code won't be easy."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-01-17T04:59:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11591,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to update Node2Ds transforms in game workspace",
+  "up": 1,
+  "updatedAt": "2025-01-17T10:59:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11591"
+}

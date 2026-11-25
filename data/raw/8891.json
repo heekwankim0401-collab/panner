@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not sure, wanted to know what mods think about it.",
+    "format": "form",
+    "workaround": "Not easy to implement outside of core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-01-15T20:27:11Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8891,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `weight` property to `Curve3D` `Point`s",
+  "up": 3,
+  "updatedAt": "2024-10-01T12:10:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8891"
+}

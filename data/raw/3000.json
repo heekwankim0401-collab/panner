@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this is basic functionally which gives info about the cause of error and where is the error",
+    "format": "form",
+    "workaround": "I am not sure but it will be used often when the project is big and multiple people working"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-07-16T09:53:38Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 3000,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Print the owner node of the shader material when there is a shader error",
+  "up": 4,
+  "updatedAt": "2024-12-31T16:23:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3000"
+}

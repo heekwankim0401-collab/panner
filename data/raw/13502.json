@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Printing to output is part of core I think?",
+    "format": "form",
+    "workaround": "Not with a script, as far as I'm aware."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-10-29T12:41:03Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13502,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to print to output with a clickable reference to the remote object",
+  "up": 18,
+  "updatedAt": "2025-11-05T15:04:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13502"
+}

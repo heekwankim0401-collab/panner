@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core functionality.",
+    "format": "form",
+    "workaround": "Don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-02T15:33:52Z",
+  "comments": 4,
+  "createdAt": "2025-02-02T12:25:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 11685,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow modifying GDExtensions lookup path",
+  "up": 0,
+  "updatedAt": "2025-02-03T19:35:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11685"
+}

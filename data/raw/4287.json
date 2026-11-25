@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This requires changes to the core code.",
+    "format": "form",
+    "workaround": "No. This is a pretty big change to the GDExtension system."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2022-03-26T22:23:45Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 4287,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow creating custom rendering backends using GDExtension",
+  "up": 84,
+  "updatedAt": "2025-02-14T07:58:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4287"
+}

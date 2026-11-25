@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This concerns the Animation Player's usability.",
+    "format": "form",
+    "workaround": "This can be worked around by making the stream not loopable and just putting it in many times in the track editor, but this is very cumbersome."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-09T02:39:42Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 10157,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow setting the exact duration for looping AudioStreams in Animation Player Audio Playback tracks",
+  "up": 0,
+  "updatedAt": "2024-07-09T13:44:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10157"
+}

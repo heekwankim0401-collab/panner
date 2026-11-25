@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Once again this could probably be worked around with an asset library add-on but I think it is useful enough to be an inherent feature.",
+    "format": "form",
+    "workaround": "This could probably be worked around with an editor plugin but I think it is useful enough to be an inherent feature."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-04T05:32:10Z",
+  "comments": 1,
+  "createdAt": "2023-05-04T02:51:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6806,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Display cell coords at mouse in tilemap editor",
+  "up": 0,
+  "updatedAt": "2023-05-04T05:32:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6806"
+}

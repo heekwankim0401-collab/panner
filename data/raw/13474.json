@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be something that any user would find handy if they want to make use of has_method, and duck typing is something central to the design of gdscript itself- so it makes sense to have extra functionality to make the duck typing workflow more convenient.",
+    "format": "form",
+    "workaround": "I don't think this is something most users can implement easily, and certainly not something that can be done without an in-depth knowledge of the inner workings of the Godot editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-26T15:05:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13474,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the parameter defined in a has_method call to a secondary method autocomplete popup",
+  "up": 0,
+  "updatedAt": "2025-10-26T17:26:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13474"
+}

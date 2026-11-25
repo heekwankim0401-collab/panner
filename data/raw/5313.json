@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Mobile platforms is part of our supported list.",
+    "format": "form",
+    "workaround": "ASTC is not trivial in compute time to encode."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-07T17:00:27Z",
+  "comments": 6,
+  "createdAt": "2022-09-03T14:00:26Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 5313,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ASTC to image and VRAM compression for better quality on mobile platforms",
+  "up": 4,
+  "updatedAt": "2023-02-07T17:00:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5313"
+}

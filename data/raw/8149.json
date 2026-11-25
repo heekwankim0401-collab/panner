@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This could be an addon if more of CSG internals were exposed to addon APIs. However, the implementation is relatively simple, so having it in core wouldn't be excessive bloat. The proof of concept is around 700 lines of gdscript total between to script files; the C++ would be more verbose, but still.\n\nI think this would be very beneficial to most 3d game projects. I imagine that more projects would use it than the GridMap node. It would be unfortunate if the first thing every 3d godot game dev was told was to download some specific addon to make organic modelling easier.\n\n*Production edit (keyword for easier searching): curve, patch, heightfield, displacement*",
+    "format": "form",
+    "workaround": "No quick workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-16T14:53:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8149,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a CSG deformation node for more advanced in-editor 3D modeling",
+  "up": 21,
+  "updatedAt": "2024-12-06T15:22:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8149"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think it can be worked around outside of core (the workaround given in original issue is for server-side projects, but it's needed for non-server projects, too)\n\nOriginal issue: https://github.com/godotengine/godot/issues/19121",
+    "format": "legacy",
+    "workaround": "Nope."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-04T10:59:02Z",
+  "comments": 0,
+  "createdAt": "2020-05-26T08:49:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 898,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Stack multiple identical printed messages together in the editor Output panel",
+  "up": 8,
+  "updatedAt": "2021-05-04T10:59:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/898"
+}

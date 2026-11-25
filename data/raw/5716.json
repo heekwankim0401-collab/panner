@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is part of the core plugins",
+    "format": "form",
+    "workaround": "For performance reason, script is not a good choice."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-06T10:03:59Z",
+  "comments": 4,
+  "createdAt": "2022-11-03T01:53:05Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 5716,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"fish bones\" visualization to the Path3D in the Editor",
+  "up": 9,
+  "updatedAt": "2022-12-06T10:03:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5716"
+}

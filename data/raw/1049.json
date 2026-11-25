@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It enables making collision to follow animations at least in a rough manner.",
+    "format": "legacy",
+    "workaround": "I don't know a way to enable this in few lines of code"
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-13T15:27:45Z",
+  "comments": 2,
+  "createdAt": "2020-06-12T22:11:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1049,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Option for KinematicBody to enable collision from its complete Node tree (grand children included)",
+  "up": 0,
+  "updatedAt": "2020-06-13T15:28:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1049"
+}

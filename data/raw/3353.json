@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core rendering functionality.",
+    "format": "form",
+    "workaround": "No, as DirectionalLight3D rendering code is part of the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-09-25T23:45:10Z",
+  "down": 1,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "5.0",
+  "number": 3353,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move DirectionalLight3D's shadow mode to a project setting",
+  "up": 3,
+  "updatedAt": "2023-02-24T04:21:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3353"
+}

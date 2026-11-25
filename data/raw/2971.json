@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because  this behaviour is used in all games all over the world from the very beginning of videogames, so godot not having it hardcoded is a bit strange.",
+    "format": "form",
+    "workaround": "No, it can be workarounded by colorrect and animation player calls all over the project which gets tiring especiallly to get that one animation player node from lowlevel nodes..."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-03T16:07:49Z",
+  "comments": 7,
+  "createdAt": "2021-07-10T01:25:31Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2971,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Fade in / Fade out to solid color",
+  "up": 0,
+  "updatedAt": "2021-11-03T16:07:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2971"
+}

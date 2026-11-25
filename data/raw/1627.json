@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Directory is core, and the addition should be a part of it, as it can be used for tool managers, modding tools and other similar applications",
+    "format": "legacy",
+    "workaround": "Not really, the easiest way is to get the icons manually for all the needed files, but that isn't procedurally able to get all the icons from a folder if new things are added to it."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-20T20:07:12Z",
+  "comments": 2,
+  "createdAt": "2020-10-08T09:49:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1627,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Get File Icon to Directory",
+  "up": 0,
+  "updatedAt": "2021-12-20T22:32:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1627"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AnimatedSprite is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 1,
+  "closedAt": "2023-01-27T10:08:47Z",
+  "comments": 6,
+  "createdAt": "2023-01-05T01:51:39Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 6043,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `AnimatedSprite`'s playback API consistent with `AnimationPlayer`",
+  "up": 1,
+  "updatedAt": "2023-01-27T19:12:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6043"
+}

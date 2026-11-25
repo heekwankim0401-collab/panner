@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.\n\n*Keywords for easier searching: selfcontained*",
+    "format": "markdown",
+    "workaround": "For the editor, no. For exported projects, yes, but it needs to be done consciously by the project developer every time they're writing a file somewhere. This implies never relying on `user://` and using `OS.get_executable_path().get_base_dir().path_join(\"project_data\")` instead."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-03-17T18:41:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 2474,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve the self-contained mode for greater flexibility and cleanliness",
+  "up": 12,
+  "updatedAt": "2026-07-28T18:51:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2474"
+}

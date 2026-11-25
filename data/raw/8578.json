@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same reason",
+    "format": "form",
+    "workaround": "It's a part of the engine"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-12-03T08:50:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8578,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change the error for creating ViewportTexture for not 'local to scene' resources into a warning",
+  "up": 0,
+  "updatedAt": "2026-05-13T14:36:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8578"
+}

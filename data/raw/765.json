@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I believe that it's a feature that would benefit to everyone and which should be embedded in Godot by default. That being said, since the VS Code extension already supports it I suppose that it may be possible to implement it as an add-on.",
+    "format": "legacy",
+    "workaround": "This enhancement would definitely be often used:\n\n- it has been requested in Godot's main repository: https://github.com/godotengine/godot/issues/27607\n- the [VSCode extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) supports it: https://github.com/godotengine/godot-proposals/issues/177#issuecomment-595926144"
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-20T13:18:12Z",
+  "comments": 1,
+  "createdAt": "2020-04-29T09:26:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 765,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show native documentation in a popup (in Script Editor)",
+  "up": 7,
+  "updatedAt": "2020-08-20T13:18:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/765"
+}

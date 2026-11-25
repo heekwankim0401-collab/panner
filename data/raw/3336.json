@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There's no way to implement it as an add-on",
+    "format": "form",
+    "workaround": "No. This is a built-in property and cannot be changed by the user."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-23T04:11:33Z",
+  "comments": 1,
+  "createdAt": "2021-09-23T02:32:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3336,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename \"disabled\" property in CollisionShapes to \"enabled\" and set the default value to true",
+  "up": 3,
+  "updatedAt": "2021-09-23T04:11:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3336"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Possibly the \"Cadillac\" version of this proposal should be an editor plugin (which I'd be eager to make!). But I'd need GDScript access to `DocData` to do so.",
+    "format": "form",
+    "workaround": "I don't think so. As far as I can tell, the internal C++ `DocData` is not accessible to GDScript and its generation could not easily be reproduced."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-05T14:57:39Z",
+  "comments": 3,
+  "createdAt": "2023-11-05T14:08:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:docs",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8352,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for generating project documentation - i.e., a project custom class wiki",
+  "up": 0,
+  "updatedAt": "2023-11-05T15:36:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8352"
+}

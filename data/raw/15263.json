@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-07-26T14:41:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15263,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Take property enum values into account when filtering properties by name in Inspector",
+  "up": 2,
+  "updatedAt": "2026-07-27T23:12:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15263"
+}

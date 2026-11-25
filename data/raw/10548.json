@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It makes it look nicer",
+    "format": "form",
+    "workaround": "According to the orchestrator plugin dev it's a limitation of the node graph"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-24T02:32:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10548,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify new GraphNode grid to ensure connections are always aligned to the grid",
+  "up": 0,
+  "updatedAt": "2024-08-24T19:24:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10548"
+}

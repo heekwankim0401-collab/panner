@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Same as above, inability to do this via GDscript interface.",
+    "format": "form",
+    "workaround": "There are no script interface which allows selectively disabling collisions per TileMap layer.\n\nYou can turn off collision for a TileSet -- but this will effect all TileMaps and all TileMap layers."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-17T16:58:44Z",
+  "comments": 3,
+  "createdAt": "2023-05-14T21:44:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6881,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Godot 4: Ability to toggle collision selectively for a TileMap layer",
+  "up": 0,
+  "updatedAt": "2023-05-17T17:02:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6881"
+}

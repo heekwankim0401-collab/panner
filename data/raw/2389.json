@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "This enhancement can only be done in the core.",
+    "format": "markdown",
+    "workaround": "This enhancement is critical to XR support"
+  },
+  "assignees": 1,
+  "closedAt": "2022-07-25T01:16:57Z",
+  "comments": 2,
+  "createdAt": "2021-03-03T02:31:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core",
+    "topic:input",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 2389,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "XR input events for action bindings",
+  "up": 3,
+  "updatedAt": "2022-07-25T12:40:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2389"
+}

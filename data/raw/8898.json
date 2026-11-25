@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "With the current VCS implementation in Godot, some core changes need to be made. https://github.com/godotengine/godot-proposals/issues/4369 discusses changing the VCS API to abstract this feature set out.",
+    "format": "form",
+    "workaround": "Not cleanly, no. With a different VCS implementation (see Path 1 above), this could all be abstracted out to a plugin. As it stands, this two-part fix is necessary for the add."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-01-16T18:49:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8898,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Perforce Integration in Godot Editor",
+  "up": 4,
+  "updatedAt": "2025-04-14T16:25:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8898"
+}

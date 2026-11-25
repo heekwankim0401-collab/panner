@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core editor functionality should match with user expectations based on debugging with other software that uses F5.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-11T03:45:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8068,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make F5 continue from a breakpoint instead of restarting the project if it's currently running",
+  "up": 17,
+  "updatedAt": "2026-10-28T18:17:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8068"
+}

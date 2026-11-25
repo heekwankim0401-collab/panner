@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a trivial improvement with close to no cost. Just utilizing more of the libraries' functionality.",
+    "format": "form",
+    "workaround": "You can do hacky workarounds, but there really is no need to, when PCRE2 offers the functionality out of the box.\nThe convenience functions are not a must, I just think they would be appropriate."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-10-30T23:49:51Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3487,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose Regex Options / Improve Regex Usability",
+  "up": 1,
+  "updatedAt": "2021-11-07T00:45:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3487"
+}

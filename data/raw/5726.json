@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Feature imparity of built-in nodes.",
+    "format": "form",
+    "workaround": "It is possible to just use \"use_collision\" in CSGPolygon3D, albeit with possible performance concerns, and it always acting as a StaticBody."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-11-05T17:12:13Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5726,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Spin and Path modes for CollisionPolygon3D",
+  "up": 0,
+  "updatedAt": "2022-11-14T15:56:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5726"
+}

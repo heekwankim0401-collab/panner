@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AFAIK this would only be possible to do in core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-08-14T18:00:41Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 5168,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Tree-shaking compiler to reduce size and load time of exported games",
+  "up": 11,
+  "updatedAt": "2022-08-17T13:17:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5168"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Being able to see the value of properties at runtime is pretty vital and Godot currently does not support this.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-17T00:12:38Z",
+  "comments": 3,
+  "createdAt": "2021-05-29T16:42:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2799,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement tracking or evaluating properties not updated by Inspector during debug",
+  "up": 0,
+  "updatedAt": "2026-01-17T00:12:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2799"
+}

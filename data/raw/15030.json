@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-19T03:49:16Z",
+  "comments": 1,
+  "createdAt": "2026-06-19T01:01:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15030,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow ConfigFile to write to string or buffer (to be paired with ConfigFile.parse())",
+  "up": 1,
+  "updatedAt": "2026-06-20T00:11:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15030"
+}

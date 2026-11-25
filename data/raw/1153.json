@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a change in one of the core nodes. However, an add-on could be implemented to converts Markdown to BbCode.",
+    "format": "legacy",
+    "workaround": "Yes, there are tools and websites to convert Markdown to BbCode."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-02T14:05:21Z",
+  "comments": 1,
+  "createdAt": "2020-07-02T13:26:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1153,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support Markdown Syntax in RichTextLabel",
+  "up": 1,
+  "updatedAt": "2020-07-02T14:05:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1153"
+}

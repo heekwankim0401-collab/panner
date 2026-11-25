@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is an engine related feature.",
+    "format": "form",
+    "workaround": "The workaround is current to loop through the entire ItemList."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-02-13T08:49:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11764,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `get_item_at_index(int idx)` to ItemList",
+  "up": 0,
+  "updatedAt": "2025-02-16T11:57:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11764"
+}

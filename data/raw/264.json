@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a tiny small but very meaningful improvement to an already existing great Node in Godot.",
+    "format": "legacy",
+    "workaround": "It would be used by anyone who wants to loop video. Since most of us are making games, the VideoPlayer node is actually often used to play short files that need looping, not necessarily movie-length files that don't need looping as much."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-12T15:39:28Z",
+  "comments": 18,
+  "createdAt": "2019-11-28T23:39:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": "4.2",
+  "number": 264,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a \"loop\" property to the VideoPlayer node",
+  "up": 2,
+  "updatedAt": "2023-07-19T07:26:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/264"
+}

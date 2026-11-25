@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This will most likely involve adding built-in mechanics and changing core GDScript. It is somewhat a combination of keywords 'onready', 'export', and possibly 'tool'.\nEven more it will realistically be touching almost every scene in most projects and I believe that goes well beyond the scope of most add-ons.",
+    "format": "form",
+    "workaround": "I believe it will be used very often by most developers. \nFurthermore I believe that even though it can be 'worked around' with some extra scripting it will make accessing properties much safer, much less error-prone, and much more compact and readable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-08-13T17:29:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3133,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to export children's properties to editor through \"linked\" variables",
+  "up": 9,
+  "updatedAt": "2021-08-13T20:06:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3133"
+}

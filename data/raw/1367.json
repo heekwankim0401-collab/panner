@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "yes, it needs to run REALLY FAST, and gd script is VERY SLOW",
+    "format": "legacy",
+    "workaround": "uh, no, it needs to be fast as hell"
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-23T16:32:01Z",
+  "comments": 21,
+  "createdAt": "2020-08-14T12:10:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1367,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Mesh Based 3D Terrain (Not Height Map Based, Not Noise Based)",
+  "up": 0,
+  "updatedAt": "2021-06-23T16:32:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1367"
+}

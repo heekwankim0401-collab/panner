@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "need to add a new method on a core type\n\nI submitted several PR as part of this effort. see [#64043](https://github.com/godotengine/godot/pull/64043), [#63956](https://github.com/godotengine/godot/pull/63956), [#64212](https://github.com/godotengine/godot/pull/64212)",
+    "format": "form",
+    "workaround": "No, need to add a new method on a core type."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-18T00:56:46Z",
+  "comments": 4,
+  "createdAt": "2022-08-10T14:33:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5136,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move rotation interpolation logic from `PathFollower`2D/3D to `Curve`2D/3D",
+  "up": 1,
+  "updatedAt": "2023-08-18T00:56:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5136"
+}

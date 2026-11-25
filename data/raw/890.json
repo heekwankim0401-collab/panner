@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's about Godot's documentation.\n\nEDIT:\nFound another use case. RigidBody3D/Generic6DOFJoin (and probably similar nodes) have some descriptions repeated thrice, for each axis.",
+    "format": "legacy",
+    "workaround": "Well, it can be worked around with more text, but the point is to avoid this .-."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-05-25T15:54:12Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": null,
+  "number": 890,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add macro support in documentation",
+  "up": 0,
+  "updatedAt": "2021-09-27T10:01:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/890"
+}

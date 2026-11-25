@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's too small of a feature to install an entire plugin for. It's the sort of feature that makes an editor noticeably more responsive to user needs, and doesn't really take up much space.",
+    "format": "form",
+    "workaround": "I estimate that this would be used quite often, though that does depend on your personal workflows."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-21T20:16:38Z",
+  "comments": 5,
+  "createdAt": "2023-08-31T12:16:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 7589,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expand directories on hover while dragging files in the FileSystem dock",
+  "up": 18,
+  "updatedAt": "2025-10-21T20:17:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7589"
+}

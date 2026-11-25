@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is related to the core vehicle class",
+    "format": "form",
+    "workaround": "Yes but it will be redundant work to recalculate the suspension force, when it is already calculated."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-24T16:40:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13464,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose suspension force from the VehicleWheel3D node",
+  "up": 3,
+  "updatedAt": "2025-10-26T14:23:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13464"
+}

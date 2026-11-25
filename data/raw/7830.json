@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Doing so would duplicate a lot of work already done by Godot on this plugin, since it would involve copying over code that already exists in Godot. It feels like this is not only something useful to users of Godot, but a nice refactoring project to improve Godot itself, so that this editor plugin could be used in more places than it currently is.",
+    "format": "form",
+    "workaround": "Short answer: not really.\n\nLong answer: there are two big ways that this could be accomplished. One would be to copy the source of this plugin, change the hard-coding to use one of your own, custom classes, and then add that editor plugin. The other would be to just use one of the hardcoded classes as a base for your node, then piggyback off the existing rect for your own purposes.\n\nBoth of these feel inadequate, since a lot of functionality exists in the editor already to do this, but it's hard-coded for these specific classes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-09-24T00:19:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7830,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "\"Edit Region\" button should be allowed on arbitrary nodes, not just hard-coded ones",
+  "up": 11,
+  "updatedAt": "2023-09-25T14:48:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7830"
+}

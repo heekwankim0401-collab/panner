@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's already core functionality",
+    "format": "form",
+    "workaround": "**(1) I currently use the following code as a workaround (which is option 1, solution 1):**\n(Only problem is I have to map it every time I want to access the device ID, if forgotten can create input conflicts)\n\n```GDScript\nfunc _get_device_id_from_event(event:InputEvent) -> int:\n\tvar device_id_keyboard_mouse := -2\n\t# --- Mouse ---\n\tif event is InputEventMouse:\n\t\treturn device_id_keyboard_mouse\n\tif event is InputEventMouseButton:\n\t\treturn device_id_keyboard_mouse\n\tif event is InputEventMouseMotion:\n\t\treturn device_id_keyboard_mouse\n\t\t\n\t# --- Keyboard ---\n\tif event is InputEventKey:\n\t\treturn device_id_keyboard_mouse\n\t\t\n\treturn event.device\n```\n\n**(2) Another workaround would be to prefix the joypad ID, e.g. `joypad_0`**\n**(3) Or increase the ID for joypads, e.g. `+= 1`, so joypad IDs start at `1` and not at `0`**"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-18T23:29:18Z",
+  "comments": 7,
+  "createdAt": "2023-06-26T08:12:36Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.7",
+  "number": 7161,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Resolve device ID conflict between joypads and mouse and keyboard",
+  "up": 25,
+  "updatedAt": "2026-02-18T23:30:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7161"
+}

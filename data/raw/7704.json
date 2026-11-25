@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I personally think it will be used very often. And I want this since Godot 3.2.\nBut the reality is no one asked for it.\nSo Idk. Maybe it should be an add-on. But it just looks like a core feature.",
+    "format": "form",
+    "workaround": "Not really. An EditorInspectorPlugin with the UI as above is simple but still needs a scene and dozens of code for some skilled dev I think."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-17T10:01:04Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7704,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow export nodes within autoload scenes.",
+  "up": 6,
+  "updatedAt": "2023-09-17T17:32:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7704"
+}

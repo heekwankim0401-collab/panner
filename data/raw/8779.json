@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`ParallaxBackground` and `ParallaxLayer` are core nodes.",
+    "format": "form",
+    "workaround": "It cannot, unfortunately. I don't mind making a node for my own use, but while I'm at it, I'd be glad to share and fix the current system."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-04T13:11:16Z",
+  "comments": 17,
+  "createdAt": "2024-01-03T01:13:01Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": "4.3",
+  "number": 8779,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace ParallaxBackground and ParallaxLayer with different workflow",
+  "up": 9,
+  "updatedAt": "2024-04-05T20:23:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8779"
+}

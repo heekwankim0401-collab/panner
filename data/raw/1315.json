@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's relative to TreeItem Object.",
+    "format": "legacy",
+    "workaround": "The code : item.set_tooltip(0, \" \") seems to do the job but it's not as clean as a built-in function"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-08-05T19:25:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1315,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a disable tooltip function for the TreeItem object",
+  "up": 16,
+  "updatedAt": "2025-06-10T17:54:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1315"
+}

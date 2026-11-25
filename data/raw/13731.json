@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a defect of the plugin API.",
+    "format": "form",
+    "workaround": "This can be hacked by accessing the node structure blindly, then take advantage of the fact that the script list shows the path of files as its item tooltip.\n\n```gdscript\nvar se := EditorInterface.get_script_editor()\nvar il: ItemList = se.get_child(0).get_child(1).get_child(0).get_child(0).get_child(1)\nvar selected := il.get_selected_items()\nif not selected:\n    print(\"Nothing selected\")\n    return\nvar index := selected[0]\nprint(il.get_item_tooltip(index))\n```\n\nIt works but it's a hack."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-11-27T11:25:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13731,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to get the text file that is currently editing",
+  "up": 1,
+  "updatedAt": "2026-03-06T17:33:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13731"
+}

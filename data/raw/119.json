@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "If the goal is for the manner of addon implementation to be irrelevant to the end-user, then the end-user should not need a separate tool to setup and use the code in an organized and efficient way. I should be able to use Godot as a lightweight IDE, just as it works for C#.\n\nFurthermore, content creators should not have to go through an obscure and difficult process just to organize their addons adequately. It should all be built-in.",
+    "format": "legacy",
+    "workaround": "It would be used *very* often. I have already started working with it and then frequently stopped because of how much of a hassle it is to setup, manage, and use the C++ scripts compared to GDScript and C#. If it were easier, I would be more inclined to use them. And if we are going to improve the usability of one, we may as well ensure that the NativeScript ecosystem itself can benefit from the changes rather than just C++ alone (as a PluginScript would do).\n\nOnce we start having more first-party addons that port functionality out of the core and once the addon ecosystem is improved further (teaching more users how to setup Travis CI builds for their own multi-platform GDNative projects - godotengine/godot-docs#2815), I believe we will see more and more people wanting to use it for complex projects and performance-intensive code.\n\nAny user that wants to include third-party addon in their project shouldn't have to worry about what kind of source code was used to write that addon. Including it in their project should mean that using it works out-of-the-box with minimal effort.\n\nYou *can* do most of this exclusively through script code, but the code itself is highly complex and C++ is supposed to an official Godot language (as the godotengine team members directly maintain the `godot-cpp` repository). We should also put forward the minimal effort of improving the C++ workflow for users through the editor, even if it has to separately download most of the required files."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 31,
+  "createdAt": "2019-10-02T21:08:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 119,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create a built-in editor tool for organizing and mass/selectively compiling GDNative projects and addons",
+  "up": 99,
+  "updatedAt": "2023-02-17T11:09:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/119"
+}

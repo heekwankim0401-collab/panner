@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "ItemList is a core widget, and it affects the editor",
+    "format": "form",
+    "workaround": "Requires implementation of a pseudo-ItemList by hand in projects using a scroll container, can be less optimized when there are a lot of items as it instantiates as many children nodes whereas the ItemList only draws the items on the canvas.\nAnd does not solve related issues to it as it is used in the Godot editor itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-02-11T22:56:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9076,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "(DRAFT) Refactor ItemList item layout algorithm to solve multiple rendering quirks",
+  "up": 3,
+  "updatedAt": "2024-05-01T15:44:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9076"
+}

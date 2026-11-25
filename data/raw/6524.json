@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- one solution is to extend the Sprite Type, with an add-on can't do iirc\n - I was genuinely confused how this is not an option given how well the general integration of 2D, 3D and UI works with Godot\n - especially having a 3D-Parody of `SubViewportContainer` feels like a thing that should exist for consistency-sake",
+    "format": "form",
+    "workaround": "[It has been demonstrated, that it can be done with a reasonable amount work.](https://github.com/godotengine/godot/issues/72657#issuecomment-1416179892) So the question if this belongs to core now is more one of Convenience and Consistency."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-03-17T14:26:17Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6524,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Do we want to have Mouse Passtrough on Sprites / SubViewportSprite in Core?",
+  "up": 3,
+  "updatedAt": "2023-03-18T10:59:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6524"
+}

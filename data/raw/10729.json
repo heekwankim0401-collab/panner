@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is already an addon called [gdfxr](https://github.com/timothyqiu/gdfxr) for this job.\n\nThis implementation's advantage is being more lightweight because It does not create, fill a buffer and pass it to the audio server, but it simulates oscillators and generates a new audio frame when audio server requests. However, this feature may not be user friendly if its UI is not improved by a graph based audio splitting/mixing UI as explained in [Proposal 3394](https://github.com/godotengine/godot-proposals/issues/3394).",
+    "format": "form",
+    "workaround": "It can be worked around by using [AudioStreamGenerator](https://docs.godotengine.org/en/stable/classes/class_audiostreamgenerator.html#class-audiostreamgenerator)\n\nIt is advantageous for users without signal or audio processing experience."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-12T19:45:03Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 10729,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a partial solution for procedural audio support",
+  "up": 2,
+  "updatedAt": "2024-09-18T14:16:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10729"
+}

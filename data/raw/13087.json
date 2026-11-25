@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This concerns the core editor interface. Making the 2D viewport consistent with the 3D viewport improves usability for all users, and fixes an annoying visual quirk.",
+    "format": "form",
+    "workaround": "No, as this is part of the editor’s layout system and not user scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-28T13:48:15Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13087,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the 2D editor viewport automatically resize when panels or window are resized",
+  "up": 1,
+  "updatedAt": "2025-08-28T13:56:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13087"
+}

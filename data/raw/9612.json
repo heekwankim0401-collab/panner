@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves a tool (Gridmap) that is already core.",
+    "format": "form",
+    "workaround": "It should be used often by 3D games with interiors and buildings."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2024-04-27T12:44:28Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9612,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Brush Spacing property to GridMap to control spacing between tiles when using paint/fill tools",
+  "up": 5,
+  "updatedAt": "2025-10-11T03:28:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9612"
+}

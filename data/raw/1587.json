@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think LineShape2D can be used in many Projects by various people and will be a huge help for me too.",
+    "format": "legacy",
+    "workaround": "For my case, It can't be worked around as I tried using SegementShape2D's but that didn't work too."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-09-30T18:27:12Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1587,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a CollisionShape2D shape which is a line and can take PoolVector2Array as points",
+  "up": 0,
+  "updatedAt": "2021-05-27T04:58:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1587"
+}

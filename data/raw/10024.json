@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't believe there is a way to create custom annotations or modify existing ones with how Godot and GDScript currently works. Thus, I think it would have to be core rather than an add-on.",
+    "format": "form",
+    "workaround": "As users take further advantage of nested scenes, this enhancement will be used more and more.\n\nThe behavior can be accomplished with pure GDScript, but it feels rather clunky to me when combined with regular game code:\n```gdscript\n@tool\nextends Node2D\n\n@export var sprite: Sprite2D\n@export var sound_player: AudioStreamPlayer2D\n@export var health: int = 10\n\nfunc _process(_delta):\n    if Engine.is_editor_hint():\n        return\n    print(\"Sprite = %s, sound player = %s, health = %s\" % [sprite, sound_player, health])\n\nfunc _validate_property(property):\n    var scene_root = EditorInterface.get_edited_scene_root()\n    if property.name in [\"sprite\", \"sound_player\"] and scene_root.is_ancestor_of(self) and not scene_root.is_editable_instance(self):\n        property.usage = PROPERTY_USAGE_NO_EDITOR\n```\n\nThis has a few drawbacks, in my opinion:\n1. When we add the `@tool` annotation to the script, making it run in the editor, we have to add checks in (at least) the `_ready()` and `_process()` functions to ensure that the actual script behavior only runs when the game is playing. This boilerplate feels unnecessary and bloated to me.\n2. The logic inside of `_validate_property()` function isn't immediately intuitive or readable in my opinion. Additionally, requiring the property names to be written in an array means that if for some reason the user changes the property names, they'll have to go back and change them here as well. With an annotation on the variable itself, this wouldn't happen."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-06-24T00:32:32Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10024,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an annotation to only display property if node is root of current scene",
+  "up": 9,
+  "updatedAt": "2024-06-24T16:48:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10024"
+}

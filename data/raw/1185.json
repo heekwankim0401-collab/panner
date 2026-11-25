@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Modules loading are part of the core. This changes would make it simplier.",
+    "format": "legacy",
+    "workaround": "This can't be workaround as current module system does not give a way to dynamically include or exclude modules."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-10T14:44:29Z",
+  "comments": 1,
+  "createdAt": "2020-07-10T17:02:22Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 1185,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "iOS Plugin support",
+  "up": 4,
+  "updatedAt": "2020-11-10T14:44:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1185"
+}

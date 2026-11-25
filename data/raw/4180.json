@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this is a built in audio feature",
+    "format": "form",
+    "workaround": "no, it's a setting on the reverb, or which reverb code we are using... there are different \"flavours\" of reverb... i believe even a simple one like on my Korg keyboard for example... would be adequete, we might not need a high CPU utlizing moddeling one as digital reverbs have sounded great for a long time"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-03-07T18:22:43Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 4180,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve AudioEffectReverb quality by reducing noise/ringing artifacts",
+  "up": 17,
+  "updatedAt": "2025-07-21T15:03:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4180"
+}

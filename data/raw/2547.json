@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It requires C++ code. The asset library is purely GDScript.",
+    "format": "markdown",
+    "workaround": "I don't see how. The only way to add a shortcut to the list of shortcuts in EditorSettings is by using the setter for the \"shortcuts\" property. And, unfortunately, it only accepts InputEvents, which it turns into a shortcut object. The shortcut object is never returned, and lacks the \"original\" meta, which causes it to never appear in the options dialog. In other words, the closest thing to a workaround simply doesn't do the trick."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-24T22:10:00Z",
+  "comments": 8,
+  "createdAt": "2021-04-03T10:02:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2547,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide GDScript access to `ED_SHORTCUT()` from editor_settings.cpp",
+  "up": 0,
+  "updatedAt": "2022-02-24T22:11:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2547"
+}

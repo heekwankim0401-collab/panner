@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-09T17:59:39Z",
+  "comments": 3,
+  "createdAt": "2026-03-09T11:07:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14408,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add a nearest-neighbor filtering option to the 3D Rendering tab/pipeline.",
+  "up": 0,
+  "updatedAt": "2026-03-10T10:27:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14408"
+}

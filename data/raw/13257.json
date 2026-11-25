@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "QoL improvement",
+    "format": "form",
+    "workaround": "It's always used"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-09-24T04:44:54Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13257,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to the `SplitContainer` so it can be fit to the content size by double click",
+  "up": 3,
+  "updatedAt": "2025-10-02T17:39:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13257"
+}

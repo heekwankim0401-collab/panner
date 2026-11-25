@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems like something that should certainly be included with the OptionButton by default.  It is absurd to me that a Class with the sole purpose of containing and displaying options would not grant you access to the array containing those options.",
+    "format": "markdown",
+    "workaround": "Yes, though suboptimally."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-04-07T19:27:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2566,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `get_items()` method to OptionButton",
+  "up": 3,
+  "updatedAt": "2021-04-08T11:56:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2566"
+}

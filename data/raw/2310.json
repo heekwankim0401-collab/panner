@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think datatypes are usually built in, so probably won't be an unnecessary bloat to the engine",
+    "format": "markdown",
+    "workaround": "Yes this can be worked around\nTho there's a lot of wasted memory for storing the type of the variables, as normal array would have to redundantly store the type of its element"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-18T16:07:39Z",
+  "comments": 6,
+  "createdAt": "2021-02-18T10:00:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2310,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add PoolBoolArray, PoolVector2/3i and `File.store_bool()`",
+  "up": 0,
+  "updatedAt": "2021-02-18T16:28:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2310"
+}

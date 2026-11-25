@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Importer is core.",
+    "format": "form",
+    "workaround": "You can find and select a resource of the format which you want to change default importer options for."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-03-31T10:05:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4314,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change Import tab to Import Settings when no Resources selected",
+  "up": 3,
+  "updatedAt": "2022-03-31T15:11:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4314"
+}

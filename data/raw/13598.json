@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Security would be the biggest problem if it is implemented wrong by a community member, as well as seamless integration with the already existing HashingContext. Additionally a new game/software developer will be more enticed to use the existing fast hashing methods vs searching for slow one in the asset library, which could lead them into a bad spot if the hashed data needed to be secured.",
+    "format": "form",
+    "workaround": "At the moment, it would require the developer to create a plugin or something similar to implement such a feature. So no, this cannot be made with a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-11-09T01:34:01Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13598,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add password hashing algorithms to HashingContext",
+  "up": 0,
+  "updatedAt": "2025-11-13T15:21:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13598"
+}

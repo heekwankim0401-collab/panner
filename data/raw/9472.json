@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This functionality can not be added via add-on.",
+    "format": "form",
+    "workaround": "Work around currently requires finding function name via CTRL + SHIFT + F, but that often returns unrelated results such as functions named similarly in other scripts, variables or text in strings."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-08T20:40:31Z",
+  "comments": 1,
+  "createdAt": "2024-04-07T16:26:57Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9472,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ctrl + Click on declared function should show usage",
+  "up": 5,
+  "updatedAt": "2024-04-08T20:40:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9472"
+}

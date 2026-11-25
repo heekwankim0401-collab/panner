@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a simple addition to built-in data type.",
+    "format": "form",
+    "workaround": "The data could be reordered before being read, but that would be cumbersome both to do the reordering and to remap byte offsets, or data could be read with multiple calls to `decode_u8()` function and then rearranged and combined using bitwise operations, but this would also be cumbersome, especially for signed integers."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-04-23T23:58:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9586,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to configure endianness of PackedByteArray",
+  "up": 8,
+  "updatedAt": "2025-12-02T17:44:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9586"
+}

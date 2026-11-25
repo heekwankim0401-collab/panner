@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Project management features should be native to the engine.",
+    "format": "form",
+    "workaround": "It cannot be worked around with a simple script since the project manager cannot be scripted by user.\nThis feature is a simple, but, in my opinion, necessary quality of life improvement and will not impact the engine performance in any capacity."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-16T15:03:47Z",
+  "comments": 2,
+  "createdAt": "2025-09-16T14:48:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13187,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose the project default path in the Project Manager",
+  "up": 0,
+  "updatedAt": "2025-09-16T15:03:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13187"
+}

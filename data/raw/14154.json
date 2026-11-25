@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Here's The Reason Why this should Be core in the engine not an add on.\n\n[\"Why should this be core and not an add-on?\"]\n\n[Editor Integration (The \"2D View\" Barrier):]\nAn add-on cannot easily modify the core UI of the Godot Editor to add a \"2D/3D Toggle\" or create draggable Gizmos that feel native. To make the 2D View Mode they must be integrated into the engine's source code.\n\n[Long-term Stability & Performance]\nThird-party add-ons often break during minor engine updates (e.g., 4.2 to 4.3), creating friction for long-term projects. By integrating this into the Core, it ensures:\n\nFirst\n C++ Optimization: Better editor performance in large 2.5D scenes.\n\nSecond \nVersion Guarantee: The feature is maintained and tested by the Godot team for every release.\n\nThird\nReliability: Professional studios can rely on these tools without worrying about an add-on becoming \"abandoned\" by its creator.\n\n[Short Answer:]\nYes it should be in The Engine Because Developer who came from Unity And Unreal Engine Will Expect that Godot Had These Feature Already But In Reality it's Not which Makes Unity And Unreal Engine Developers stay at there Default engine\n\n\n**[At the End]**\nI made This Format Because my first Format Was Complex\nAlso This Format Made To make Godot More Greater And More\nEasier For Old Developers And New Developers\n\nI'am not saying Godot Is Bad or Had Bad Features NO\ngodot haven't been that Awesome And This Simple Snice it's Release\n\n\nWrite With Love From A Creator",
+    "format": "form",
+    "workaround": "Can it be worked around with a few lines of script?\n\n[Answer Yes:]\n\"While these feature can technically be scripted, doing so for every project is inefficient and creates a high barrier for entry for several reasons:\""
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-05T19:38:21Z",
+  "comments": 5,
+  "createdAt": "2026-02-05T12:44:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "spam",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14154,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a \"2.5D / 2D Interaction Mode\" to the 3D Viewport with Z-axis locking and 2D Gizmos",
+  "up": 0,
+  "updatedAt": "2026-02-05T19:57:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14154"
+}

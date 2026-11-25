@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Singleton Input already returns similar data from the host system.\n● CursorShape get_current_cursor_shape() const",
+    "format": "form",
+    "workaround": "N/A. Knowledge of the underlying host system is needed. The proposal is mainly about the system cursor. \nFor custom cursors the size is usually known although it'd be handy if this method also returns the size for custom mouse cursors."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-01T15:37:27Z",
+  "comments": 5,
+  "createdAt": "2022-01-21T20:35:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3842,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an OS method to return the size of the current system mouse cursor",
+  "up": 1,
+  "updatedAt": "2022-02-01T16:31:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3842"
+}

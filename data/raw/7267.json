@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "For this to be performant and not a nightmare to implement, it couldn't be done as an add-on.",
+    "format": "form",
+    "workaround": "As far as I know this would be a nightmare to work around, you would have to do the following:\n\n1. Calculate the positions of newlines in the RichTextLabel\n2. Insert those newlines into the raw text (could hypothetically be done ahead of time, but would be a nightmare with translations)\n3. Add each character with their effect to the RichTextLabel one at a time for it to display properly\n\nI don't know if Godot even has the functionality to tell you where newlines are in a RichTextLabel built in."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-12T22:05:27Z",
+  "comments": 2,
+  "createdAt": "2023-07-12T03:52:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7267,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable RichTextEffects being applied to characters only once displayed",
+  "up": 0,
+  "updatedAt": "2023-07-12T22:32:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7267"
+}

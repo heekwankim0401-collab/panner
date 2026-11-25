@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it's adding a field to built-in AnimationPlayer.",
+    "format": "form",
+    "workaround": "It can be worked around via code by switching to RESET animation, forcing properties refresh then switching to wanted animation. I tested the following code below and it works:\n\n```gd\nanimation_player.play(&\"RESET\")\nanimation_player.advance(0)\nanimation_player.play(animation_name)\n# extra advance required if you do this at the end of the frame,\n# e.g. in _on_animation_player_animation_finished callback,\n# to avoid showing default state for 1 frame\nanimation_player.advance(0)\n```\n\nAlternatively, if you know which extra properties are missing from some animations, you can manually reset them in code.\n\nIt can be worked around by changing data, but you need to add missing properties to every animation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-03-03T19:05:16Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6417,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Animation Player: reset all track properties that are not present in current animation to RESET values",
+  "up": 4,
+  "updatedAt": "2026-04-04T14:54:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6417"
+}

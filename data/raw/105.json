@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a very basic debug feature that I would expect it to be useful for every game being developed.",
+    "format": "legacy",
+    "workaround": "Not that I can see."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-25T05:07:38Z",
+  "comments": 10,
+  "createdAt": "2019-09-25T18:07:19Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "4.5",
+  "number": 105,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `get_stack()` available in release/debug export templates as well as in the editor",
+  "up": 9,
+  "updatedAt": "2025-04-25T09:14:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/105"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's pretty much a core-only feature",
+    "format": "form",
+    "workaround": "Not really."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-10-09T14:41:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8049,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add planar YUV texture support",
+  "up": 2,
+  "updatedAt": "2025-02-13T11:31:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8049"
+}

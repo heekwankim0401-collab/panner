@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about making the particles more userfriendly out of the box",
+    "format": "form",
+    "workaround": "This would be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-07-08T16:20:27Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 10153,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change particle `lifetime` and `randomness` over to `lifetime_min` and `lifetime_max` values",
+  "up": 6,
+  "updatedAt": "2025-01-14T14:35:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10153"
+}

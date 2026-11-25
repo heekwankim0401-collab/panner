@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, it can't technically be an addon. Why this feature can essentially only be implemented in the source code (*without problems) and why it would be worth adding in principle, I described above.",
+    "format": "form",
+    "workaround": "Theoretically, you can do it like this:\n- set the initial values ​​of the window under the boot splash\n- disable the real boot splash\n- set the fake boot splash as the first scene\n- set the desired values ​​at the end of the real or not so real boot\nHowever, there are two nuances:\n- why bother so much?\n- working with interface elements and especially 2D nodes will turn into hell if the game should not have a default resolution of 500x300, although this can be avoided by making a fake boot splash at the very end of work on the project (and then you will have to edit a huge number of aligns hehe)"
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-12T15:19:46Z",
+  "comments": 2,
+  "createdAt": "2025-07-11T21:48:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12773,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Borderless boot splash",
+  "up": 0,
+  "updatedAt": "2025-07-12T15:19:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12773"
+}

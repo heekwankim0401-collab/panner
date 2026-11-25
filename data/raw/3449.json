@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think its possible currently to modify the ``Asset Installer`` with a script and not an addon in the asset library.",
+    "format": "form",
+    "workaround": "I'm not sure exactly if the ``Asset Installer`` can be modified with a script to make it work."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-15T00:37:28Z",
+  "comments": 2,
+  "createdAt": "2021-10-20T05:46:57Z",
+  "down": 0,
+  "labels": [
+    "topic:assetlib",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3449,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to rename files when installing an addon from the asset library",
+  "up": 0,
+  "updatedAt": "2022-05-15T00:37:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3449"
+}

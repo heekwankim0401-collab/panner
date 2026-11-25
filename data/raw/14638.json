@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-04-11T03:55:19Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 14638,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to override the way RPC methods encode/decode objects",
+  "up": 1,
+  "updatedAt": "2026-04-13T23:07:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14638"
+}

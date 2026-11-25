@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is related to the editor's export functionality.",
+    "format": "legacy",
+    "workaround": "No, as this is related to the editor's export functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-09-04T13:13:28Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 1459,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create the macOS export template structure on the fly when exporting the project",
+  "up": 2,
+  "updatedAt": "2021-04-15T17:34:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1459"
+}

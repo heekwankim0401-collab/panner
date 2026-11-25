@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Everyone searches in the AssetLib and it would be better to avoid confusion for them when using the software",
+    "format": "legacy",
+    "workaround": "That would be a lot of code for something so small"
+  },
+  "assignees": 0,
+  "closedAt": "2019-10-26T07:12:30Z",
+  "comments": 3,
+  "createdAt": "2019-10-25T18:26:37Z",
+  "down": 0,
+  "labels": [
+    "topic:assetlib",
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 184,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display a message when the search in AssetLib doesn't find anything",
+  "up": 3,
+  "updatedAt": "2020-08-05T07:54:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/184"
+}

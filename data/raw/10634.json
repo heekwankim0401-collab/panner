@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "4.x has it already and it is already written there\nhttps://docs.godotengine.org/en/stable/classes/class_transform3d.html#class-transform3d-method-rotated-local",
+    "format": "form",
+    "workaround": "It can with the Autoloads script, but it isn't convenient, feels clunky and doesn't have documentation"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-09-02T15:36:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "3.x",
+  "number": 10634,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Port rotated_local() as a method to Godot 3.x along with addtional math helper functions present in Godot 4.x ",
+  "up": 0,
+  "updatedAt": "2024-09-04T02:36:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10634"
+}

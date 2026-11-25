@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Printing is a core feature of every IDE/text editor and many more. It would include a way of durably archiving source code and documentation including all the Godot editor display features not available in other programs.",
+    "format": "form",
+    "workaround": "No. This is an editor feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-07-04T03:13:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10111,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add printing (on paper with a printer) support to Godot",
+  "up": 0,
+  "updatedAt": "2024-07-06T21:45:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10111"
+}

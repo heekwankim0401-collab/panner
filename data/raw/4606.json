@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires changing Inspector.",
+    "format": "form",
+    "workaround": "Requires creating new resources for every child resource you are going to use.  For some types of resource data, this will create hundreds of extra hard to manage files."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-18T00:56:34Z",
+  "comments": 2,
+  "createdAt": "2022-05-30T18:33:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.1",
+  "number": 4606,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Inspector should expose Resource's Script property so scripts can be set in nested resource fields",
+  "up": 4,
+  "updatedAt": "2023-09-18T01:30:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4606"
+}

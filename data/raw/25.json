@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it would mostly benefit work-flows. Thus I doubt it's reasonable to make these features \"discoverable\" instead of part of the main \"framework\".\n\n_Side note: This issue has been moved from the \"old tracker\" godotengine/godot#24794_",
+    "format": "legacy",
+    "workaround": "I'm not sure it's possible to implement right now, since some editor functionalities are seemingly hard-coded."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-09T15:19:36Z",
+  "comments": 9,
+  "createdAt": "2019-09-05T05:50:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 25,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Exclude certain folders from search/quick scene",
+  "up": 33,
+  "updatedAt": "2025-06-09T15:19:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/25"
+}

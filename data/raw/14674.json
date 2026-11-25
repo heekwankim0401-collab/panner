@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 26,
+  "createdAt": "2026-04-14T19:55:30Z",
+  "down": 13,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "5.0",
+  "number": 14674,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make capitalization consistent across value types (5.0)",
+  "up": 6,
+  "updatedAt": "2026-04-16T08:46:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14674"
+}

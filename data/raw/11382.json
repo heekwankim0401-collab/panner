@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I can't even make a normal app in Godot for those devices, because the time for loading the app is too long, users probably don't want to wait 10 seconds for a simple app to load",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-21T19:33:03Z",
+  "comments": 4,
+  "createdAt": "2024-12-18T22:35:27Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 11382,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Insane loading time on mobile devices (espesially on poor performance devices)",
+  "up": 0,
+  "updatedAt": "2024-12-21T19:48:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11382"
+}

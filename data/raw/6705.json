@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The biggest benefit of type-safe programming languages (hello `Javascript`) is the ability to see errors before they occur. By using signal names as strings and by using methods that allow us to enter any set of arguments for a very specific method's signature is atrocious and should be forbidden if possible. Luckily in C# we got code generators. \n\nThis deserves to be a core feature of the already awesome product to make it even better!",
+    "format": "form",
+    "workaround": "can be worked around by typing a lot of non-safe code"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-16T10:30:56Z",
+  "comments": 2,
+  "createdAt": "2023-04-16T07:30:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 6705,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve usability of signals in C# using code generation",
+  "up": 0,
+  "updatedAt": "2023-04-16T20:11:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6705"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I suspect it would be much, much easier to implement this feature through the core than through an add-on given that MeshInstance3D already has a Surface Material Override feature; it simply needs to be propagated over to the MultiMeshInstasnce3D object.",
+    "format": "form",
+    "workaround": "It can be, but requires using a Local to Scene mesh and overriding its material slots directly. It's not that what I need to do can't presently be done, it's just not as optimized as it could be with this proposed feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-07-21T03:49:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10259,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Surface Material Override\" Property to MultiMeshInstance3D",
+  "up": 10,
+  "updatedAt": "2024-09-11T22:11:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10259"
+}

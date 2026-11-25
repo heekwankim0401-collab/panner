@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "PSD is a very popular and standardized format, so it can be added for convenience.",
+    "format": "form",
+    "workaround": "This can be done as GDExtension plugin. I will most likely create a PR in the main engine branch, but if this proposal is not successful, it will be converted to plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 33,
+  "createdAt": "2023-02-16T16:41:47Z",
+  "down": 11,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6303,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Import PSD as separate layers or as plain image",
+  "up": 29,
+  "updatedAt": "2024-12-07T07:59:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6303"
+}

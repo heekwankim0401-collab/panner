@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "core functionality of GDScript",
+    "format": "form",
+    "workaround": "every line which triggers warning X needs to be prepended by `# warning-ignore: X`, making the code and real comments hard to read"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-09T20:36:49Z",
+  "comments": 7,
+  "createdAt": "2022-12-07T05:50:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.4",
+  "number": 5906,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ignore warnings for multiple lines in GDScript",
+  "up": 7,
+  "updatedAt": "2024-12-09T20:36:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5906"
+}

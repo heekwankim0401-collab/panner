@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's a change to GDScript",
+    "format": "form",
+    "workaround": "It's probably very small change to the source."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-03T21:39:43Z",
+  "comments": 2,
+  "createdAt": "2021-09-02T18:27:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 3246,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an argument to `Navigation2D.get_simple_path()` to return a path without diagonals",
+  "up": 0,
+  "updatedAt": "2021-09-03T23:01:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3246"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of core features.",
+    "format": "form",
+    "workaround": "Yes, as you can reparent an audio stream player to other nodes that is existing. However, I don't think it worth making wheels and boilerplates for a frequently needed feature. So why not integrate it and make this feature out-of-box?"
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-02T12:08:34Z",
+  "comments": 4,
+  "createdAt": "2025-07-06T12:11:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 12739,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow a stream keep playing after its owner AudioStreamPlayer gets freed",
+  "up": 1,
+  "updatedAt": "2026-04-02T12:28:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12739"
+}

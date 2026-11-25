@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I tried to get the dock `EditorInterface.get_file_system_dock()` find \"Files\" among its children and connect \"item_activated\" signal, like GodotEditor [does it](https://github.com/godotengine/godot/blob/master/editor/docks/filesystem_dock.cpp#L549), but it didn't work. Maybe I did something wrong.\nEven if it works, it would be a hack.",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-30T13:54:06Z",
+  "comments": 2,
+  "createdAt": "2025-12-14T22:05:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 13867,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an API for overriding Open file from the FileSystem dock behavior",
+  "up": 0,
+  "updatedAt": "2026-05-31T18:29:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13867"
+}

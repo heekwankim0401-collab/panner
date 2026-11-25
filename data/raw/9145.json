@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The suggested change is intended to be an improvement of a core feature for all users, not an opt-in feature for specific use cases.",
+    "format": "form",
+    "workaround": "No, it is core editor functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-19T14:29:13Z",
+  "comments": 0,
+  "createdAt": "2024-02-21T14:37:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9145,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make search boxes for files treat spaces the same way as search boxes for nodes",
+  "up": 5,
+  "updatedAt": "2024-04-19T14:31:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9145"
+}

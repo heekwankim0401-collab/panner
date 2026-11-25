@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, because it will be used often.",
+    "format": "legacy",
+    "workaround": "It can be worked around, but this is something that will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 63,
+  "createdAt": "2020-06-02T19:35:50Z",
+  "down": 19,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 996,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the $ operator in GDScript cache node references (or add a $$ operator)",
+  "up": 64,
+  "updatedAt": "2024-12-22T19:45:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/996"
+}

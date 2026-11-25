@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "SceneTreeTween is not extensible to my knowledge.",
+    "format": "form",
+    "workaround": "There current options are:\n\n**1 - Safe option: Create a function every time you need to wait for a signal, and connect the signal to it.**\n- This can add up when there are many little delays in between every action. For example: Character goes to position, waits 0.25sec, turns around, does something else, some variable is changed, function is called etc. The code will look something like:\n```\nfunc cutscene_pt1() -> void:\n    character.go_to_pos(some_vec2)\n    character.connect(\"go_to_pos_finished\", self, \"cutscene_pt2\")\n    \nfunc cutscene_pt2() -> void:\n    get_tree().create_timer(0.25).connect(\"timeout\", self, \"cutscene_pt3\")\n    \nfunc cutscene_pt3() -> void:\n    character.turn_around()\n    get_tree().create_timer(0.25).connect(\"timeout\", self, \"cutscene_pt4\")\n    \nfunc cutscene_pt4() -> void:\n    character.anim_player.play(\"some_animation\")\n    character.anim_player.connect(\"animation_finished\", self, \"cutscene_pt5\")\n    \nfunc cutscene_pt5(_anim: String) -> void:\n    ...\n```\nThe problem is that making any edits, especially to the order of events will be very difficult.\n\n\n\n**2 - Unsafe option: Use yield to wait for every signal. this forces us to make sure that the player can't pause and reload or do anything that will make the yielded function throw an Error:**\n\n```\nfunc cutscene():\n    character.go_to_pos(some_vec2)\n    yield(character, \"go_to_pos_finished\")\n    yield(get_tree().create_timer(0.25), \"timeout\")\n    character.turn_around()\n    yield(get_tree().create_timer(0.25), \"timeout\")\n    character.anim_player.play(\"some_animation\")\n    yield(character.anim_player, \"animation_finished\")\n    ...\n```\nWhile this is more readable and editable, the problem here is that it's not cancellable. It's an unskippable sequence of events\n\n\n\n**3 - Complex: Create a custom class that can handle every possible kind of event.**"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-17T20:11:16Z",
+  "comments": 6,
+  "createdAt": "2023-07-20T09:00:57Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.7",
+  "number": 7337,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add tweener that waits for a signal to be emitted",
+  "up": 15,
+  "updatedAt": "2026-03-27T03:58:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7337"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a warning",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-01-05T02:23:17Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3755,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a warning when code tries to access res://",
+  "up": 2,
+  "updatedAt": "2022-01-06T16:49:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3755"
+}

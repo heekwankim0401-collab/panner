@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a basic functionality that the Label node has and Label3D doesn't.",
+    "format": "form",
+    "workaround": "No. You can achieve a similar effect by instead adding and removing letters from the text, but as mentioned previously this makes the whole text move around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-29T13:31:18Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12891,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `visible_characters` and `visible_ratio` to Label3D node",
+  "up": 5,
+  "updatedAt": "2025-07-29T14:22:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12891"
+}

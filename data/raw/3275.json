@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it's a basic enhancement  which should be core. It's not a huge modification but it will facilitate quite a lot the management of layer names.",
+    "format": "form",
+    "workaround": "As long as your game use layers (physics, 2D Render, 3D Render, Navigation, etc.) it will be used often to easily clarify the purpose of each layer."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-28T23:36:04Z",
+  "comments": 2,
+  "createdAt": "2021-09-10T21:25:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3275,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename layers via PopupMenu/DialogBox",
+  "up": 18,
+  "updatedAt": "2022-01-28T23:36:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3275"
+}

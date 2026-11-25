@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it is change in the Godot itself and couldn't be handled by plugin in any way",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-30T16:10:13Z",
+  "comments": 9,
+  "createdAt": "2022-05-06T23:00:01Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4504,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement an editor for quaternions that exist outside of the Node3D Transform",
+  "up": 1,
+  "updatedAt": "2022-07-30T16:10:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4504"
+}

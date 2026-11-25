@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Given [the Godot editor will soon be available on Android](https://github.com/godotengine/godot/pull/57747), improving the touchscreen usability of Godot's GUI system will become increasingly important.",
+    "format": "form",
+    "workaround": "No. This *may* be feasible as an add-on, but it's not exactly trivial."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-03-22T18:15:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 4258,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Increase PopupMenu spacing when it is brought up by a touch event (in contrast to a mouse event)",
+  "up": 5,
+  "updatedAt": "2022-09-09T23:55:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4258"
+}

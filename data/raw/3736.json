@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No. Simple and useful mathematical operations are desired out of the box.",
+    "format": "form",
+    "workaround": "Yes, but simply changing the operator to Python's way is far more practical. (Once the change is made, if you want the old version back, simply use `abs()`.)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2022-01-01T05:28:46Z",
+  "down": 2,
+  "labels": [
+    "breaks compat",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3736,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change behavior when using a negative operand with the modulo (`%`) operator",
+  "up": 10,
+  "updatedAt": "2024-05-17T13:56:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3736"
+}

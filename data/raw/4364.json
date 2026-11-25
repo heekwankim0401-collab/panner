@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because there is  a line 2d node already...it causes confusion... every game needs it",
+    "format": "form",
+    "workaround": "."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-23T16:32:21Z",
+  "comments": 5,
+  "createdAt": "2022-04-07T17:33:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4364,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a Line3D node",
+  "up": 13,
+  "updatedAt": "2023-01-23T16:32:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4364"
+}

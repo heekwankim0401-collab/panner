@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "no",
+    "format": "form",
+    "workaround": "Myself and many others use the export feature multiple times a day, the only work around is the tedious manual annoyance of re-collapseing all the folders to get a clear view of what you want to select."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-03-20T21:14:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9346,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Persist folding state of sections in the Export dialog",
+  "up": 0,
+  "updatedAt": "2024-03-26T22:57:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9346"
+}

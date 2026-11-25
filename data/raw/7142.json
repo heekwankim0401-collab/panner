@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The animation library is a core feature that would improve the experience of every user that uses it.",
+    "format": "form",
+    "workaround": "Place a ruler on top of the computer screen."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-06-23T13:33:24Z",
+  "down": 1,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7142,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve animation libraries menu by extending the highlight background of each animation row.",
+  "up": 4,
+  "updatedAt": "2023-06-26T09:38:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7142"
+}

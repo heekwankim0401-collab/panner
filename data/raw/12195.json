@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of a core system.",
+    "format": "form",
+    "workaround": "I don't think the transition logic can be overridden in a script"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-04-08T16:11:35Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12195,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Sync from End\" switch mode to animation transitions",
+  "up": 4,
+  "updatedAt": "2025-04-08T19:27:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12195"
+}

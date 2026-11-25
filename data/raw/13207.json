@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature may reuse the underlying code or functionality of ResourceLoader.load, potentially necessitate refactoring of related components, and involves significant changes to core systems.",
+    "format": "form",
+    "workaround": "May be not"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-09-18T03:08:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13207,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend ResourceLoader to accept buffer or stream inputs, thereby enabling custom data processing (such as encryption, compression) and dynamic runtime loading.",
+  "up": 3,
+  "updatedAt": "2025-09-18T13:40:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13207"
+}

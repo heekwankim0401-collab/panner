@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as this is part of the web editor's welcome page (which can't be modified by the user easily)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-02T17:16:04Z",
+  "comments": 3,
+  "createdAt": "2022-01-19T19:31:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:web",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3831,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Preload Godot WebAssembly and JavaScript files on the web editor's welcome page",
+  "up": 0,
+  "updatedAt": "2022-04-02T17:16:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3831"
+}

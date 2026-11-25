@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The editor is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-06-16T02:44:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2870,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Reuse the same instance of Godot for both the project manager and the editor",
+  "up": 6,
+  "updatedAt": "2022-04-19T00:19:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2870"
+}

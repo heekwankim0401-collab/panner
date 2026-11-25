@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It could probably be done in an addon, but it'd be an addon that simply exposes an existing method to scripts.",
+    "format": "form",
+    "workaround": "A 1 to 1 behavior can't be replicated from scripts because we don't have access to the simplification features in the SurfaceTool."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-03-31T16:47:23Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4316,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Baking OccluderInstances from script",
+  "up": 18,
+  "updatedAt": "2026-10-14T19:14:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4316"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's just a very basic functionality which works everywhere and shouldn't need an addon.",
+    "format": "form",
+    "workaround": "No it's editor's basic feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-15T14:51:15Z",
+  "comments": 8,
+  "createdAt": "2023-10-28T11:26:53Z",
+  "down": 1,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 8282,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Select the root node resulting from the drag-and-drop operation after drag-and-dropping a file to the editor viewport",
+  "up": 9,
+  "updatedAt": "2024-02-15T14:51:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8282"
+}

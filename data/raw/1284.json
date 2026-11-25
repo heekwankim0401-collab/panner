@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This might be feasible using a GDNative-based add-on. However, since high refresh rate displays will probably be the norm in a few years' time, it's probably better to support this as a core feature.",
+    "format": "legacy",
+    "workaround": "It *might* be possible to do this on Linux by calling `xrandr`, but it's not particularly user-friendly. On other platforms (especially mobile platforms), this may not be possible at all."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-04T10:51:07Z",
+  "comments": 8,
+  "createdAt": "2020-07-31T12:50:21Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 1284,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an OS method to retrieve a screen's refresh rate",
+  "up": 8,
+  "updatedAt": "2022-03-11T20:23:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1284"
+}

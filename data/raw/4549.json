@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Basic building block data structures offer a lot of bank for buck when it comes to programming. If Sets were to eventually become first-class in the language, they would need deep integration with it.",
+    "format": "form",
+    "workaround": "I am meaning to make a Set class that uses Dictionaries under the hood so I can at least have a clean interface to work with for when I'm going to invariably move this to a C++ module. It is 100% work-around-able. As for how often Sets are used, I find that once you work on a project that needs them, you use them A LOT."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-16T20:50:51Z",
+  "comments": 1,
+  "createdAt": "2022-05-16T14:15:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4549,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a HashSet type to GDScript",
+  "up": 3,
+  "updatedAt": "2022-05-16T20:50:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4549"
+}

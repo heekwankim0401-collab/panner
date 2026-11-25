@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this is part of engine.\n\nSorry for my english.",
+    "format": "legacy",
+    "workaround": "I am use ugly dirty hack for this trouble. I send variables from fragment to light with TRANSMISSION vec3."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-25T20:46:21Z",
+  "comments": 4,
+  "createdAt": "2020-06-14T17:31:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 1057,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to transport shader variables from `fragment()` to `light()`",
+  "up": 5,
+  "updatedAt": "2020-12-25T20:46:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1057"
+}

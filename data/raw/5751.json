@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think this can be done with an add-on",
+    "format": "form",
+    "workaround": "Look the described current solution"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-11-09T09:36:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5751,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add window size/position/mode change signals/callbacks to `DisplayServer`",
+  "up": 1,
+  "updatedAt": "2023-05-08T06:26:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5751"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "as its already library it just needs to port into gradle",
+    "format": "form",
+    "workaround": "no idea"
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-28T16:26:47Z",
+  "comments": 4,
+  "createdAt": "2022-10-28T11:18:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 5670,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move Godot AAR library to Gradle",
+  "up": 0,
+  "updatedAt": "2023-03-06T06:35:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5670"
+}

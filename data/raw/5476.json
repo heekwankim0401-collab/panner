@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Need to modify internal engine classes, so not happening.",
+    "format": "form",
+    "workaround": "For me will be used very very often. But there is workarounds you can define a function to do that or in C# you can make an extension method. \nBut using the workround will not result in a cleaner code/equation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2022-09-23T06:28:55Z",
+  "down": 4,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5476,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add + and - operators for math primitives to Vector2/3/4(i)",
+  "up": 6,
+  "updatedAt": "2026-02-27T15:08:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5476"
+}

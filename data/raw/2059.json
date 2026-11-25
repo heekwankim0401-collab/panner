@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the editor.",
+    "format": "markdown",
+    "workaround": "Not really."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2021-01-02T15:57:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2059,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow disabling the built-in script editor when using an external script editor",
+  "up": 14,
+  "updatedAt": "2024-07-21T02:28:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2059"
+}

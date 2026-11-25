@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because there is `move_to_front()`, which can be workarounded by ```get_parent().move_child(self, get_parent().get_child_count())``` but it is core, so why `move_to_back()` shouldn't be?",
+    "format": "form",
+    "workaround": "There is a workaround: ```get_parent().move_child(self, 0)``` but it is not particularly convenient when there is ```move_to_front()```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-05T16:34:32Z",
+  "comments": 1,
+  "createdAt": "2025-04-05T16:06:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 12162,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add `move_to_back()` method for `CanvesItem`s",
+  "up": 0,
+  "updatedAt": "2025-04-06T21:02:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12162"
+}

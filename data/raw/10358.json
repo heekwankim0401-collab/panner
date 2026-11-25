@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The function to set the metadata is there, but it doesn't allow to do that on the Editor. This should be doable through the Editor as well.",
+    "format": "form",
+    "workaround": "Yes, one can:\n\n* Add the metadata on `_ready()`.\n* Make a Node that inherits `OptionButton` and export a \"metadata_per_item` `Array` that collects metadata for each index of the items."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-08-04T13:29:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10358,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow adding/removing metadata for items in OptionButton on the Editor",
+  "up": 3,
+  "updatedAt": "2025-06-15T06:49:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10358"
+}

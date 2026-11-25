@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core: Expands on Core components of Control Nodes",
+    "format": "markdown",
+    "workaround": "I'm not sure how often other developers run into this, but during the development of our game I have ran into this numerous times already. \n\nThis issue can actually be worked around, but it generally requires a lot of premeditated Control node setup. With multiple `MarginContainers` the core rect can be made bigger than it seems, meaning there is additional space on the left & right, in which nodes can extrude without being clipped. Getting this to work within the allowed space, and without impacting the visual spacing of your UI, can require quite a lot of fiddling. \nTherefore, I still think that the requested feature would be a better, more consistent and easier to understand solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-01-14T11:16:15Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2119,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Control's `rect_clip_content` should allow choosing the Axis that is clipped",
+  "up": 0,
+  "updatedAt": "2021-01-14T13:12:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2119"
+}

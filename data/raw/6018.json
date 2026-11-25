@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it could be used often, but I don't think it could be implemented without changing the source.",
+    "format": "form",
+    "workaround": "I think it could be used often, but I don't think it could be implemented without changing the source."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-12-29T17:17:48Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6018,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add show flag propagation",
+  "up": 0,
+  "updatedAt": "2022-12-30T01:01:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6018"
+}

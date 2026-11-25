@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It should ideally be applied on imported textures and not the source files themselves, I wouldn't know how to do that through an add-on.",
+    "format": "legacy",
+    "workaround": "No, it currently depends on the artist who delivers the files."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-06T17:50:06Z",
+  "comments": 1,
+  "createdAt": "2020-11-06T17:14:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1784,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to the texture import tab to change normal map coordinate systems",
+  "up": 0,
+  "updatedAt": "2020-11-06T17:51:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1784"
+}

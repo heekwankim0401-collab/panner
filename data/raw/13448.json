@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can increase the reusability of scenes as components without adding export variables and related script code to each scene script.",
+    "format": "form",
+    "workaround": "You can use 'Editable Children' to expose all child nodes of a scene instance node, But it will make the scene nodes have many useless nodes, especially when you only want to modify a few parameters.\n\nor just add script to scene add use export variables"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-10-23T04:33:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13448,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Property Promote\" function to scene object in editor",
+  "up": 6,
+  "updatedAt": "2025-10-23T09:51:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13448"
+}

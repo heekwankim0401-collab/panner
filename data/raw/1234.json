@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "XML is a popular a markup language which could be used in plugins, save data, etc. but since it's very low level users \nrecommending JSON instead.",
+    "format": "legacy",
+    "workaround": "YES, but every one using xml files should write/use the tag api before using the XMLParser each time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-07-21T14:31:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1234,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve XMLParser",
+  "up": 5,
+  "updatedAt": "2023-07-23T22:57:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1234"
+}

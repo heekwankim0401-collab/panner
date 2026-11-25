@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Something as important as keywords should probably be deeply integrated with the rest of GDscript.",
+    "format": "form",
+    "workaround": "Like any other piece of syntax sugar, it can simply be replicated by writing everything by hand."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-30T23:49:09Z",
+  "comments": 1,
+  "createdAt": "2026-01-30T23:12:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 14117,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `with` keyword (syntactic sugar that temporarily changes the scope of code execution)",
+  "up": 0,
+  "updatedAt": "2026-01-30T23:49:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14117"
+}

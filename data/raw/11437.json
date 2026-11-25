@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Implementing this node with stability may require changes within Window node.",
+    "format": "form",
+    "workaround": "Multiple focuses is a very common approach when dealing with embedded UIs (such as inventory per character). Having multiple windows within main viewport is the only way to achieve this in godot currently. \n\nThis may be achieved with some lines of codes but I guess that depends on how complicated a node like SubviewportContainer is."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-12-28T22:40:16Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11437,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add WindowContainer similiar to SubviewportContainer",
+  "up": 1,
+  "updatedAt": "2024-12-30T10:29:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11437"
+}

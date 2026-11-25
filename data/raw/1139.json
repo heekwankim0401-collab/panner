@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "1. It's an extremely common use case, nearly all games want a smooth camera rather than a camera which instantly teleports to the player (or some other object)\n2. It already exists in 2D and is commonly use\n3. InterpolatedCamera is removed in 4.0 so this would replace part of it's functionality\n\nMaybe there's some technical limitation? Let me know!",
+    "format": "legacy",
+    "workaround": "I would use it in any 3D project I would ever create"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-06-29T08:33:11Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1139,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add smoothing properties to Camera3D",
+  "up": 15,
+  "updatedAt": "2023-02-14T20:59:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1139"
+}

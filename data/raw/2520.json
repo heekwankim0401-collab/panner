@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.\n\n*Keywords for easier searching: cylinder*",
+    "format": "markdown",
+    "workaround": "No. While OmniLight3Ds and even SpotLight3Ds can be used to achieve this kind of \"localized\" DirectionalLight3D effect, light and shadow rendering will look incorrect unless the light is placed *really* far away. This greatly lowers the effective shadow resolution. OmniLight3Ds also have to render cubemap (or dual parabolid) shadow maps, which are more expensive than SpotLight3D shadows since they only have to render one face."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2021-03-28T20:50:44Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2520,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow specifying a non-zero start radius for SpotLight3D (resulting in cylindrical lights)",
+  "up": 14,
+  "updatedAt": "2026-06-20T03:52:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2520"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The engine doesn't expose methods to get the node list.",
+    "format": "form",
+    "workaround": "There is no scripting API for this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-29T15:37:18Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 9845,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add API to get the nodes of an `AnimationTree`'s graph",
+  "up": 2,
+  "updatedAt": "2024-05-29T15:38:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9845"
+}

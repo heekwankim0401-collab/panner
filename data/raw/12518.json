@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about the basic 3D rotation of objects, which concerns about every 3D game",
+    "format": "form",
+    "workaround": "I think it would be used often.\n\nIt could be worked around (as shown above in my example code) **_IF_** the user properly understands how 3D vector math works.\n\nI'm quite familiar with 3D math and it still took me a while to figure out this simple formula. Imagine someone who isn't.\n\nThis would be a useful tool to alleviate mental 3D math workload. The same way we have a bunch of 3D helper functions who are kinda redundant, but still useful.\n\nI think we should be able to do this without understanding or thinking about the underlying vector math."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-28T22:52:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12518,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement the \"make_rot_from_\" functions from Unreal",
+  "up": 2,
+  "updatedAt": "2025-05-29T17:48:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12518"
+}

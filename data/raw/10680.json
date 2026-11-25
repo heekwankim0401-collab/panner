@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Not sure if it's core or GDScript, but this is part of either of those.",
+    "format": "form",
+    "workaround": "I could simply continue to use the signal through my singletons."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-09T10:31:24Z",
+  "comments": 3,
+  "createdAt": "2024-09-07T13:09:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10680,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Static signals",
+  "up": 3,
+  "updatedAt": "2024-09-09T10:31:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10680"
+}

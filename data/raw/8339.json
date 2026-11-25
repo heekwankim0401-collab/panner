@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "enhances the built-in lighting system\n\n\ndiscussion on the subject https://github.com/godotengine/godot-proposals/discussions/8298#discussion-5793462",
+    "format": "form",
+    "workaround": "i don't think that would be possible"
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-12T10:51:02Z",
+  "comments": 2,
+  "createdAt": "2023-11-02T01:20:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8339,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Readd support for 2D isometric lighting and shadows by exposing `LIGHT_VEC` or `SHADOW_VEC`",
+  "up": 5,
+  "updatedAt": "2023-11-12T10:51:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8339"
+}

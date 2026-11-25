@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because it is very basic functionality and people are used to it",
+    "format": "form",
+    "workaround": "it will be used every time a new project will be created"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-01T14:25:33Z",
+  "comments": 4,
+  "createdAt": "2021-07-09T16:05:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2968,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "When creating a new project, remember the last used path and keep it as the default",
+  "up": 0,
+  "updatedAt": "2021-09-01T14:25:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2968"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": "2026-10-02T13:51:33Z",
+  "comments": 1,
+  "createdAt": "2026-10-02T00:22:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 15593,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for gl_ClipDistance",
+  "up": 2,
+  "updatedAt": "2026-10-02T13:51:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15593"
+}

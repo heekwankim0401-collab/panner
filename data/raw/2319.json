@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The changes can't be made in an add-on, and the workarounds mentioned above are needlessly complex for a simple feature.",
+    "format": "markdown",
+    "workaround": "Changing the color of the black bars can be done by creating a solid color texture and setting the black bar texture to that, like this:\n```gdscript\nvar black_bar_texture = preload(\"res://black_bars.png\")\t\nvar t_id = black_bar_texture.get_rid()\nVisualServer.black_bars_set_images(t_id, t_id, t_id, t_id)\n```\nBut it's a weird workaround. Changing the other settings I mentioned aren't possible. It is possible to create a scene with a viewport, and use that viewport as your game's main viewport, and then you can do whatever you want behind the viewport. But this is a lot of extra work and requires the game's scene tree to be completely changed."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-28T22:14:55Z",
+  "comments": 4,
+  "createdAt": "2021-02-19T19:00:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2319,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add more options for customizing the VisualServer black bars",
+  "up": 1,
+  "updatedAt": "2025-07-28T22:15:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2319"
+}

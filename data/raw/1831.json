@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be an unusual feature to be in the asset library\n\n---\n\nCC @pycbouh: We discussed the possibility that users would miss the fact that they deleted files. What do you think about this proposal as an improvement on that problem? Do you think this popup system would be too intrusive for users for small actions such as deletion?",
+    "format": "legacy",
+    "workaround": "This will be used pretty often and can't really be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-13T18:46:06Z",
+  "comments": 2,
+  "createdAt": "2020-11-13T18:32:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1831,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Toasts/Snackbars for progress bars and notices",
+  "up": 1,
+  "updatedAt": "2020-11-13T18:46:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1831"
+}

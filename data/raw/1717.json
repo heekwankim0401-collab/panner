@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I feel like it would help newbies get into lighting, and also it'll be much faster in terms of the workflow to add source lights that way.",
+    "format": "legacy",
+    "workaround": "I don't think it's really possible unless it'll be a material script, but I don't think it's going to work"
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-24T14:01:04Z",
+  "comments": 4,
+  "createdAt": "2020-10-24T12:53:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1717,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add default light textures for the Light2D node",
+  "up": 2,
+  "updatedAt": "2021-04-05T14:18:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1717"
+}

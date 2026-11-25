@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A small modification to the functionality of a core node doesn't merit an add-on.",
+    "format": "form",
+    "workaround": "There are some hacky workarounds involving the use of [child nodes](https://youtu.be/R7N2ew2rezA), but these have their own limitations and annoyances. \n\nGiven that this is a very minor tweak that would improve workflow considerably for certain use-cases, I feel it's fair to add this to the engine."
+  },
+  "assignees": 1,
+  "closedAt": "2024-02-23T10:33:02Z",
+  "comments": 1,
+  "createdAt": "2024-01-07T15:36:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 8823,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add text wrapping functionality to buttons",
+  "up": 13,
+  "updatedAt": "2024-02-23T10:33:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8823"
+}

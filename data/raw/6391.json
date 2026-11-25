@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a display issue.",
+    "format": "form",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-03-02T03:42:00Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6391,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Hiding Skeleton2D bones should also hide the editor gizmos from the SkeletonModificationStack",
+  "up": 0,
+  "updatedAt": "2023-03-02T21:44:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6391"
+}

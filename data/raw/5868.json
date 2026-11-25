@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The reason I feel this should be in the core is that it deals with the fundamentals of 3D interaction via colliders. I propose that many developers are using the collider generators as a means to speed up the development of simple game fundamentals and this tool would give them a free performance and safety boost.",
+    "format": "form",
+    "workaround": "I propose that for a heavy number of use cases, a simple box collider would be more beneficial for mesh objects, especially static ones. I think that this feature will be used very often."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-30T23:39:09Z",
+  "comments": 4,
+  "createdAt": "2022-11-29T14:52:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": "4.6",
+  "number": 5868,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Create boundary cube collision sibling\" option for mesh",
+  "up": 6,
+  "updatedAt": "2025-09-30T23:41:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5868"
+}

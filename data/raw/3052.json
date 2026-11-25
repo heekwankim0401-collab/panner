@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Subtracting two `Input.get_action_strength`s is a quite common task.",
+    "format": "form",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-28T13:12:45Z",
+  "comments": 2,
+  "createdAt": "2021-07-28T10:53:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3052,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Simplify the use of Input.get_action_strength by taking an opposite action",
+  "up": 0,
+  "updatedAt": "2021-08-01T22:06:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3052"
+}

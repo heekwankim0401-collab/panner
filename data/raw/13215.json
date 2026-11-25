@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's not rare to have strings longer than 100 chars, be it log messages or game dialogue. Why waste CPU power to concatenate when one string do trick?",
+    "format": "form",
+    "workaround": "You can concatenate the strings:\n```GDScript\nfunc _ready() -> void:\n\tvar s := \"Hello this is a normal\" +\n\t\t\t\"two line string, \" +\n\t\t\t\"that stretches over three lines.\"\n```\n\nYou could also use something like:\n```GDScript\nfunc _ready() -> void:\n\tvar s := \"Hello this is a normal\n\t\t\ttwo line string.\".replace(\"\\t\", \"\").replace(\"\\n\", \" \")\n```\nAlthough you lose the ability to add escape sequences yourself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-09-18T19:41:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13215,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ignore tabs and newlines added by formatting for multiline strings and raw strings",
+  "up": 0,
+  "updatedAt": "2025-09-19T12:06:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13215"
+}

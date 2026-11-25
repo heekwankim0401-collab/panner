@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm looking to have GradientTexture2D modified, which can only be done in core. From what I can see, an add-on doesn't have the ability to create proper Texture resource sub-classes in order to add a \"CustomRadialGradientTexture2D\" resource of sorts. \n\nThe most an add-on could do in this scenario from my understanding is create and draw to a viewport, then get the viewport texture. Or draw pixel by pixel to an image on the CPU which is slow.",
+    "format": "form",
+    "workaround": "It could be worked around in a shader."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-09-13T02:55:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5413,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GradientTexture2D: Support starting and ending radius (Radial gradient focal point)",
+  "up": 3,
+  "updatedAt": "2022-09-14T19:41:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5413"
+}

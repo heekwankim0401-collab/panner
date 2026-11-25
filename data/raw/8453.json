@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This cannot be an add-on.",
+    "format": "form",
+    "workaround": "NOTIFICATION_APPLICATION_FOCUS_IN and NOTIFICATION_APPLICATION_FOCUS_OUT can be worked around, but on iOS NOTIFICATION_APPLICATION_RESUMED and NOTIFICATION_APPLICATION_PAUSED has no equivalent."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-14T13:09:54Z",
+  "comments": 7,
+  "createdAt": "2023-11-17T12:04:11Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 8453,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve Android and iOS Focus/Unfocus MainLoop Notifications",
+  "up": 3,
+  "updatedAt": "2024-02-14T13:09:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8453"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There's no way to access private members of a class in gdscript",
+    "format": "form",
+    "workaround": "```gdscript\nvar new_tooltip:String = \"\"\nif <TreeItem>.get_button_count(<int column>) > 0:\n   <TreeItem>.erase_button(<int column>, <int button_index>)\n\nadd_button(<int column>, null, <int button_index>, false, new_tooltip)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-12T13:23:00Z",
+  "comments": 0,
+  "createdAt": "2023-06-17T21:43:12Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.2",
+  "number": 7104,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `TreeItem.set_button_tooltip_text`",
+  "up": 2,
+  "updatedAt": "2023-07-12T13:23:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7104"
+}

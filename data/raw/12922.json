@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I would even argue treating all warnings as errors would be a decent default, but I'd be content with having it as a toggle for my workflow.",
+    "format": "form",
+    "workaround": "You can edit the project.godot file with an external editor to add\n\n```\ngdscript/warnings/unassigned_variable=2\ngdscript/warnings/unassigned_variable_op_assign=2\ngdscript/warnings/unused_variable=2\ngdscript/warnings/unused_local_constant=2\ngdscript/warnings/unused_private_class_variable=2\ngdscript/warnings/unused_parameter=2\ngdscript/warnings/unused_signal=2\ngdscript/warnings/shadowed_variable=2\ngdscript/warnings/shadowed_variable_base_class=2\ngdscript/warnings/shadowed_global_identifier=2\ngdscript/warnings/unreachable_code=2\ngdscript/warnings/unreachable_pattern=2\ngdscript/warnings/standalone_expression=2\ngdscript/warnings/standalone_ternary=2\ngdscript/warnings/incompatible_ternary=2\ngdscript/warnings/untyped_declaration=2\ngdscript/warnings/inferred_declaration=2\ngdscript/warnings/unsafe_property_access=2\ngdscript/warnings/unsafe_method_access=2\ngdscript/warnings/unsafe_cast=2\ngdscript/warnings/unsafe_call_argument=2\ngdscript/warnings/unsafe_void_return=2\ngdscript/warnings/return_value_discarded=2\ngdscript/warnings/static_called_on_instance=2\ngdscript/warnings/missing_tool=2\ngdscript/warnings/redundant_static_unload=2\ngdscript/warnings/redundant_await=2\ngdscript/warnings/assert_always_true=2\ngdscript/warnings/assert_always_false=2\ngdscript/warnings/integer_division=2\ngdscript/warnings/narrowing_conversion=2\ngdscript/warnings/int_as_enum_without_cast=2\ngdscript/warnings/int_as_enum_without_match=2\ngdscript/warnings/enum_variable_without_default=2\ngdscript/warnings/empty_file=2\ngdscript/warnings/deprecated_keyword=2\ngdscript/warnings/confusable_identifier=2\ngdscript/warnings/confusable_local_declaration=2\ngdscript/warnings/confusable_local_usage=2\ngdscript/warnings/confusable_capture_reassignment=2\ngdscript/warnings/property_used_as_function=2\ngdscript/warnings/constant_used_as_function=2\ngdscript/warnings/function_used_as_property=2\n```\nunder the `[debug]` section, and you can get this list of warnings from https://github.com/godotengine/godot/blob/master/modules/gd"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-08-02T18:40:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12922,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting to treat all GDScript warnings as errors without needing to change them individually",
+  "up": 3,
+  "updatedAt": "2026-09-11T21:10:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12922"
+}

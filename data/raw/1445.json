@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Add-ons can't modify how the splash screen is drawn since it's drawn by the engine itself.",
+    "format": "legacy",
+    "workaround": "No, as splash screen drawing is handled by the engine itself."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-23T09:50:15Z",
+  "comments": 1,
+  "createdAt": "2020-09-01T14:09:37Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1445,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make it possible to use a plain color as splash screen instead of an image",
+  "up": 25,
+  "updatedAt": "2022-03-04T23:44:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1445"
+}

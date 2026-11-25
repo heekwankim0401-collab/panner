@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's not an asset.",
+    "format": "form",
+    "workaround": "It makes little sense to use a script to configure the game editor settings."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 33,
+  "createdAt": "2022-10-26T12:57:06Z",
+  "down": 5,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5658,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a pixel art-friendly setting preset when creating a new project",
+  "up": 29,
+  "updatedAt": "2025-05-18T10:37:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5658"
+}

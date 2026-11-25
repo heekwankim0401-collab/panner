@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AnimationPlayer is core",
+    "format": "form",
+    "workaround": "No (or I don't see how, but I'm not a great developer)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-09-09T07:58:42Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 3268,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Directly import frames in AnimationPlayer from AnimationSprite or a spritesheet",
+  "up": 0,
+  "updatedAt": "2026-02-23T19:45:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3268"
+}

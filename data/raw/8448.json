@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This cannot be done with an add-on.",
+    "format": "form",
+    "workaround": "No it cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-17T10:48:08Z",
+  "comments": 1,
+  "createdAt": "2023-11-16T18:56:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8448,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remember search string in Find in Files dialog",
+  "up": 2,
+  "updatedAt": "2023-11-17T10:48:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8448"
+}

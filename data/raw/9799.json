@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's not possible to get the Node-Create-Btn or the signal via GDScript.\n\n<details>\n<summary> Initial issue </summary>",
+    "format": "form",
+    "workaround": "No, because there's no possibility to override the \"Create Node Dialog\"-Open-Signal handler."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-21T19:08:17Z",
+  "comments": 7,
+  "createdAt": "2024-05-21T11:09:19Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9799,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "GDScript: Expose \"Create-Node\"-Button",
+  "up": 0,
+  "updatedAt": "2024-05-21T20:28:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9799"
+}

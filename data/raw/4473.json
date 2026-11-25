@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Meow",
+    "format": "form",
+    "workaround": "Meow"
+  },
+  "assignees": 1,
+  "closedAt": "2024-10-01T15:36:52Z",
+  "comments": 8,
+  "createdAt": "2022-04-30T11:16:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.4",
+  "number": 4473,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an expression evaluator (REPL support with inspector sequent results)",
+  "up": 130,
+  "updatedAt": "2024-10-16T01:49:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4473"
+}

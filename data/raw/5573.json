@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this could be an add-on, but even if it could, there is already a setting to control the home bar on iOS, and a setting to toggle Immersive Mode on android. This functionality is also built in to Unity, which can be seen in their docs and utilized notably by Pokemon Go.",
+    "format": "form",
+    "workaround": "I don't believe it can, I think it requires recompiling the engine from source."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-17T15:32:39Z",
+  "comments": 1,
+  "createdAt": "2022-10-11T14:43:58Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 5573,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Project Setting to show iOS Status Bar",
+  "up": 3,
+  "updatedAt": "2022-10-17T15:32:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5573"
+}

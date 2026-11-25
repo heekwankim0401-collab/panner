@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Implementing it using an external library would make it necessary to create temp files too.\n\nAdding here, it is possible to reimplement the PCK Format (as it is rather simple) in pure GDScript (someone has actually done that in an addon), but as the core already has all the functionality, just doesn't expose this portion of it, I think it would be much less friction to spend the time to do it here.\n\nIf this proposal gets accepted, I would even do the change myself, it's really straightforward.",
+    "format": "form",
+    "workaround": "Only by doing this:\n```gdscript\n\tvar filename : String = \"res://bla\"\n\tvar packer : PCKPacker # imagine it's already initialized\n\tvar tmp = FileAccess.create_temp(FileAccess.WRITE_READ, \"blabla\", \"bin\", true)\n\ttmp.store_buffer(buff)\n\ttmp.close()\n\tpacker.add_file(filename, tmp.get_path_absolute())\n\treturn tmp\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-26T21:04:59Z",
+  "comments": 4,
+  "createdAt": "2025-07-18T04:05:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.7",
+  "number": 12806,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "PCKPacker: Add function to add file using PackedByteArray instead of source filename",
+  "up": 6,
+  "updatedAt": "2026-01-26T21:06:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12806"
+}

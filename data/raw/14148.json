@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Once in the editor, I imagine an addon/script could display a GUI that builds an icon in this manner and makes it the project icon. However, as with many proposed features, this requires the user install the addon within the project first. Additionally, doing so requires having the project be created first, but it would be nice for the user to be able to configure the project icon at the same time they name the project itself (i.e., on project creation).\n\nTo my knowledge, addons/scripts cannot be run within, or interface with, the Project Manager. Availability from the Project Manager is an important component of this feature, in my mind."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2026-02-04T21:17:58Z",
+  "down": 4,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14148,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add simple icon composer to Project Manager and editor",
+  "up": 15,
+  "updatedAt": "2026-02-05T21:50:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14148"
+}

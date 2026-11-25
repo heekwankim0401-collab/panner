@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "SceneTreeTimer is already core.",
+    "format": "form",
+    "workaround": "It can be worked around as explained above, but it's really nasty."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-06-08T14:03:14Z",
+  "down": 2,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "5.0",
+  "number": 9924,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `SceneTree.create_timer`'s `process_always` argument default to false",
+  "up": 14,
+  "updatedAt": "2026-06-30T18:18:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9924"
+}

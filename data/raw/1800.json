@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be in the core cause I can imagine that a lot of beginners will run into this problem.",
+    "format": "legacy",
+    "workaround": "This proposal is just for reducing the chances of getting into strange situations."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-10T13:35:41Z",
+  "comments": 1,
+  "createdAt": "2020-11-10T06:55:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 1800,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Node names should not having trailing whitespace",
+  "up": 3,
+  "updatedAt": "2020-11-10T13:35:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1800"
+}

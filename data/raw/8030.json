@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems fundamentally integrated functionality",
+    "format": "form",
+    "workaround": "Not easily"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-08T09:20:17Z",
+  "comments": 2,
+  "createdAt": "2023-10-08T09:11:40Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8030,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Extend PhysicsDirectSpaceState3D or PhysicsServer3D for easy state duplication / memoization",
+  "up": 0,
+  "updatedAt": "2023-10-08T09:26:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8030"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a small change that exposes existing engine functionality. I don't think this is possible with an add-on without merely re-implementing Godot editor's functionality itself.",
+    "format": "form",
+    "workaround": "No. The goal is to avoid re-implementing built-in functionality of the engine by exposing that functionality. It cannot be done with a few lines of GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-03T17:09:13Z",
+  "comments": 3,
+  "createdAt": "2024-12-14T23:09:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 11352,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow EditorInspector tools create Godot's orignal inspectors embedded in our own tooling",
+  "up": 0,
+  "updatedAt": "2025-01-03T17:09:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11352"
+}

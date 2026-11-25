@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is an addition to the basic Godot types, therefore should be in the core.",
+    "format": "form",
+    "workaround": "Yes, this can be worked around by doing something like `Vector2(vec2i) * vec2`. \n\nHowever, this is not intuitive and diverges from the expectations set by `int * float` working.\n\nThis workaround also introduces extra boilerplate that makes the code and intentions harder to read (in my opinion, of course)."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-28T22:20:23Z",
+  "comments": 1,
+  "createdAt": "2023-08-28T22:01:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7575,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow arithmetic operators between integer and float Vectors",
+  "up": 0,
+  "updatedAt": "2023-08-28T22:20:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7575"
+}

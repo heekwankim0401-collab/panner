@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Video decoding needs to have hooks in the engine to be efficiently implemented, so it needs dedicated GDExtension work.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 66,
+  "createdAt": "2021-09-12T02:19:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 3286,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Move video playback out of core and into an officially supported GDExtension",
+  "up": 65,
+  "updatedAt": "2026-05-02T18:37:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3286"
+}

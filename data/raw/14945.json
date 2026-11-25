@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-06-01T03:44:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 14945,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `ic()` method to print variables/functions with their name and value (IceCream-like printing)",
+  "up": 2,
+  "updatedAt": "2026-06-01T23:50:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14945"
+}

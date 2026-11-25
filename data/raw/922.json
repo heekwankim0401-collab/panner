@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires editor changes inaccessible to the existing scripting API.",
+    "format": "legacy",
+    "workaround": "The entire point is to avoid having to reproduce multiple lines of script, and no, existing EditorPlugin features do not allow for this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-05-27T14:34:46Z",
+  "down": 0,
+  "labels": [
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 922,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a generic EditorPlugin callback for Node configuration warnings",
+  "up": 3,
+  "updatedAt": "2020-08-27T12:29:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/922"
+}

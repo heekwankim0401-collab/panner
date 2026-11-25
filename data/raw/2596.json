@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I would expect this type of functionality to become part of any tilemap using level artist's environment art workflow (assuming they use tiles with variations) so I recommend it be considered for base Godot editor inclusion.\nIt's something that feels like it's missing from Godot 3.2 and the (amazing) upcoming 4.0 tiles editor update doesn't seem to fully satisfy the need.",
+    "format": "markdown",
+    "workaround": "No, I don't believe so. It would mean adding a tool or some other editor ui change."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-21T18:27:15Z",
+  "comments": 5,
+  "createdAt": "2021-04-13T01:47:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2596,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a tile variation tool for already-placed tiles to the TileMap editor",
+  "up": 2,
+  "updatedAt": "2021-06-21T19:49:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2596"
+}

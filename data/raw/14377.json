@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-03-04T01:10:20Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 14377,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `ClassDB::add_compatibility_class` or similar mechanism for plugins",
+  "up": 0,
+  "updatedAt": "2026-03-05T18:19:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14377"
+}

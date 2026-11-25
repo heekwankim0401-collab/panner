@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "3D Importer is part of the engine's core 3D functionality.",
+    "format": "form",
+    "workaround": "This is part of the prep work, you don't want to do this with a script if possible, it's hugely cumbersome."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-21T16:13:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12827,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add multi-selection and editing to the Advanced Import Settings dialog",
+  "up": 5,
+  "updatedAt": "2026-03-19T17:26:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12827"
+}

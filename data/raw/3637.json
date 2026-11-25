@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving 3D editor usability.",
+    "format": "form",
+    "workaround": "No, as VoxelGIData currently does not store the extents and subdivision level (although it could be guessed using the cell size and extents)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-12-05T16:37:19Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.x",
+  "number": 3637,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Emit a node configuration warning when VoxelGI extents or subdivision size is changed, but it wasn't re-baked yet",
+  "up": 3,
+  "updatedAt": "2024-07-30T05:03:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3637"
+}

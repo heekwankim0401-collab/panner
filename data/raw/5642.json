@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The same reason as above, it seems a considerable amount of work to write a new editor window compared to adding a few buttons/shortcuts to the native ones.",
+    "format": "form",
+    "workaround": "No, I don't think it's easy to extend native windows with buttons/shortcuts like this. That may be feasible with a brand new editor window, but it doesn't seem worth the effort."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-10-23T11:38:44Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5642,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Generate tile patterns (TileMapPattern) directly from TileSet or TileMap window using menu or copy-paste",
+  "up": 2,
+  "updatedAt": "2022-10-23T14:53:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5642"
+}

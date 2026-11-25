@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a part of the plugin system.",
+    "format": "legacy",
+    "workaround": "This is extremely important for plugin developers, but out of our hands at this moment. No way to solve with any scripts, except for mentioned tricks to deduce needed conditions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-05-26T10:38:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 900,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide a keyword to differentiate between tool scripts and plugin code",
+  "up": 22,
+  "updatedAt": "2024-02-26T17:16:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/900"
+}

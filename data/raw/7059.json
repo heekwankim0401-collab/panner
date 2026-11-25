@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's very tiny and heavily related to Dictionary, so it would be most optimal to put it there.",
+    "format": "form",
+    "workaround": "It can be worked around in a few lines of script, but it will be used often. At least, I am using it often. I have no idea how common this pattern is in other people's Godot games."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-16T16:57:01Z",
+  "comments": 7,
+  "createdAt": "2023-06-10T20:34:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 7059,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `get_or_set_default` method to Dictionary",
+  "up": 13,
+  "updatedAt": "2023-12-16T17:05:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7059"
+}

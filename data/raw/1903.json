@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is part of the built-in regex module.",
+    "format": "markdown",
+    "workaround": "This is part of the built-in regex module, so no."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-13T17:07:01Z",
+  "comments": 3,
+  "createdAt": "2020-11-28T17:02:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1903,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Regex module: Replace libpcre2 with `std::regex`",
+  "up": 15,
+  "updatedAt": "2025-01-13T17:07:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1903"
+}

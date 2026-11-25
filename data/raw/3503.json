@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Inverting strings is quite frequent task when working with text. For example in Python you can use `[::-1]` to do this.",
+    "format": "form",
+    "workaround": "There are some workrounds, for example\n```gdscript\nstatic func invert_string(s:String)->String:\n    var chars_pool = PoolStringArray()\n    var length = s.length()\n    chars_pool.resize(length)\n    for i in length:\n        chars_pool[i] = s[i]\n    chars_pool.invert()\n    return chars_pool.join(\"\")\n```\nThis doesn't look efficient tho"
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-16T15:04:19Z",
+  "comments": 3,
+  "createdAt": "2021-11-05T12:20:37Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.2",
+  "number": 3503,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `String.invert()`/`reverse()`",
+  "up": 5,
+  "updatedAt": "2023-08-16T15:04:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3503"
+}

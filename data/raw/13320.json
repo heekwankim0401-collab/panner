@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "They are core math functions for working with audio.",
+    "format": "form",
+    "workaround": "Yes, but it involves some obscure constants and logarithm math that most devs are not likely to know."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-02T03:29:10Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13320,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement pitch_scale_to_semitones and its inverse",
+  "up": 5,
+  "updatedAt": "2025-10-20T14:12:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13320"
+}

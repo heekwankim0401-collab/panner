@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The animation tree is currently in a less then stellar state and this would be more of QoL feature to make working with it much easier especially when making any kind of locomotion system without motion matching, and to my knowledge it is currently not possible to simply extend the BlendSpace1D/2D in a way that wouldn't require remaking it completely from scratch in GDExtension.",
+    "format": "form",
+    "workaround": "It can be done with multiple BlendSpaces and blend2s but it would require weird calculations for certain types of situations and would cause a lot of clutter."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-04-29T18:34:51Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12335,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add BlendSpace BlendPoint weight transitions",
+  "up": 2,
+  "updatedAt": "2025-05-06T22:05:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12335"
+}

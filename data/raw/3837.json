@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-25T11:16:55Z",
+  "comments": 11,
+  "createdAt": "2022-01-21T00:44:19Z",
+  "down": 4,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.0",
+  "number": 3837,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "C#: Represent Variant as its own type instead of System.Object",
+  "up": 8,
+  "updatedAt": "2022-08-25T11:16:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3837"
+}

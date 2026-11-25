@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "while this could be gotten around technically in 2d, 3d is a bit more complicated, noone wants to make 14 copies of every drawable and 14 copies of every collider each object has.\n\nI think this would be used quite often in any space game",
+    "format": "legacy",
+    "workaround": "this could be worked around if you could parent a collider to another collider and have it still work but getting it to be opimized could be trouble"
+  },
+  "assignees": 0,
+  "closedAt": "2020-04-01T03:09:52Z",
+  "comments": 8,
+  "createdAt": "2020-03-30T04:30:30Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 650,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "wrap rect for graphics and colliders both 2d and 3d ",
+  "up": 0,
+  "updatedAt": "2020-04-29T14:08:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/650"
+}

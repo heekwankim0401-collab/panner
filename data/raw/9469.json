@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As said above, people who need this might find hard to get if it is an addon, because they are beginners",
+    "format": "form",
+    "workaround": "I don't think so, or maybe with an editor plugin, which would be tough to use (this proposal is for people who begins, so they probably don't want to have a plugin to install at their very first steps in Godot)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-07T14:03:19Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9469,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add view control buttons to 3d view like gizmos in Blender",
+  "up": 3,
+  "updatedAt": "2024-05-21T17:05:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9469"
+}

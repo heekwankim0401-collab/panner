@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature is about improving the usability and accessibility of the built-in script editor, thus it should be core.",
+    "format": "form",
+    "workaround": "This would be a core feature of the Godot engine and, as far as I'm aware, cannot be worked arround. Besides, it most likely would be used on a regular basis by the majority of users who use the built-in script editor."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-11T19:07:55Z",
+  "comments": 5,
+  "createdAt": "2021-10-31T08:34:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3488,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to drag and drop text in the script editor with the mouse",
+  "up": 6,
+  "updatedAt": "2022-02-05T19:03:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3488"
+}

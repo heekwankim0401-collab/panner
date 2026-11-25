@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core function of SpinBox / LineEdit",
+    "format": "form",
+    "workaround": "It can be done but I haven't found an elegant solution yet.\n\nThe grab_focus() method can't be overriden.\nSetting the line focus mode to None results in an warning.\nSo there is something internal to the SpinBox node that is doing this.\n\nI used a combination of changing the focus style and releasing focus after text or value change.\nBut it's not perfect. Clicking the arrows even when they are disabled pulses the line edit.\n\nPerhaps instead of a LineEdit, I'd be better off with a Label and two buttons.\nI tried setting Editable to false, but that just makes it so it can't be changed at all (even via the buttons.)\nI just don't want to be able to focus the text field. But the spin box auto-focuses the text field even if focus mode is disabled on the spin box.\n\n\n```gdscript\nextends SpinBox\n\nconst NORMAL_LINEEDIT_STYLE = preload(\"res://normal_lineedit_style.tres\")\n@onready var line = get_line_edit()\n\nfunc _ready():\n\t# Ensure SpinBox itself can't grab focus\n\tfocus_mode = Control.FOCUS_NONE\n\t\n\t# line.focus_mode = Control.FOCUS_NONE\n\t# line.mouse_filter = Control.MOUSE_FILTER_IGNORE  # Prevent mouse clicks from selecting it\n\t# Remove focus border from internal line edit\n\tline.add_theme_stylebox_override(\"focus\", NORMAL_LINEEDIT_STYLE)\n\t\n\t# Remove focus from LineEdit after it grabs it\n\tline.text_changed.connect(_on_text_changed)\n\tself.value_changed.connect(_on_value_changed)\n\nfunc _on_text_changed(_new_text):        \n\tline.release_focus()\n\nfunc _on_value_changed(_value):        \n\tline.release_focus()\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-09T18:43:37Z",
+  "comments": 2,
+  "createdAt": "2025-02-06T17:10:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11711,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "SpinBox focus mode does not work as expected",
+  "up": 0,
+  "updatedAt": "2025-03-09T18:43:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11711"
+}

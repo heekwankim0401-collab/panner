@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a modification to an existing editor function.",
+    "format": "legacy",
+    "workaround": "It can be worked around in script, but the intention behind it is to avoid needing to write some script for connections that don't need it and to increase the QoL and tooling options available for a gameplay designer to quickly and easily wire up various game events to available methods on other nodes. In the worst case a new script file needs to be created and maintained for a single task that already exists on the node itself.\n\nThis is partly inspired by a [Unity Engine talk](https://www.youtube.com/watch?v=raQ3iHhE_Kk), Godot is about 90% of the way there for this type of tooling, the signals system is super powerful, but there are some improvements that can be made to the tooling to take it to the next level."
+  },
+  "assignees": 0,
+  "closedAt": "2020-04-25T15:46:32Z",
+  "comments": 4,
+  "createdAt": "2020-04-25T13:49:03Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 752,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show existing methods when connecting signals (including base funcs when no script is attached)",
+  "up": 0,
+  "updatedAt": "2020-04-25T23:50:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/752"
+}

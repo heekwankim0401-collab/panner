@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, we can already scale, and offset UV's, seems like rotating them is the missing bit . .\n\nThx <3",
+    "format": "legacy",
+    "workaround": "I have got no idea, I'm just wondering why we can't rotate UV's, since we scale or, offset them, was hoping it might be a minor thing, to add to the engine, the effect is quite amazing, as can be seen above, 45 degree rotation values basically are enough, 30 degree, ie 30, 60, 90, 120, 150 so, on would probably be all one needs . ."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-15T10:47:11Z",
+  "comments": 50,
+  "createdAt": "2020-07-20T13:33:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1230,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add rotation of UVs to StandardMaterial3D",
+  "up": 10,
+  "updatedAt": "2023-11-15T10:47:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1230"
+}

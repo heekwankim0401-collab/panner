@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The TouchScreenButtons should be on par with the rest of Godot's buttons.",
+    "format": "form",
+    "workaround": "I believe it would be used as often as the disabled property of regular buttons would.  It can be circumvented with a few lines of script, however."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-28T23:17:11Z",
+  "comments": 2,
+  "createdAt": "2022-07-28T21:14:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5006,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"disabled\" Property to TouchScreenButtons",
+  "up": 0,
+  "updatedAt": "2022-07-28T23:29:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5006"
+}

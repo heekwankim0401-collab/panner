@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Same reason as above.",
+    "format": "legacy",
+    "workaround": "Absolutely not. This a visual server level change."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-25T15:50:20Z",
+  "comments": 7,
+  "createdAt": "2020-05-30T23:18:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.3",
+  "number": 974,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the `VERTEX` variable editable in spatial fragment shaders",
+  "up": 11,
+  "updatedAt": "2024-04-25T15:50:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/974"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improve the intuitiveness of the Bezier Curve editor, especially for beginners.",
+    "format": "form",
+    "workaround": "The dragging via middle mouse works fine, but it isn't quite as intuitive as scrolling with mouse wheel."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-11-05T13:20:15Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11096,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a vertical scroll bar/mouse scroll to Bezier Curve editor in AnimationPlayer",
+  "up": 6,
+  "updatedAt": "2026-03-20T21:12:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11096"
+}

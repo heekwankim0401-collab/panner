@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its a core feature in an editor node",
+    "format": "form",
+    "workaround": "the fix is, literally, three lines of code implementation"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-24T02:49:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12655,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `time_left` property setter in Timer node",
+  "up": 3,
+  "updatedAt": "2025-06-24T16:58:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12655"
+}

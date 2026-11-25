@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The `connect` method belongs to the `Object` class, so I think it would be more logical and handy to have this feature in the core.",
+    "format": "legacy",
+    "workaround": "It's possible to create a `ConnectUtils` class and a static function something like `connect_once()` in it (or `ConnectUtils` singleton with `connect_once()` method) that would do the connection check, but this generates additional dependencies and it is not much more convenient than just using `if ! is_connected()` in the code every time.\nUsing a flag would be more convenient imo"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-09-30T08:11:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1585,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add connection_check flag or parameter in connect/disconnect methods",
+  "up": 0,
+  "updatedAt": "2020-12-23T20:05:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1585"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having this common function be part of the standard library would make it much more accessible and code more readable.  Possibly faster too.",
+    "format": "form",
+    "workaround": "You can do something similar with\n```\nfunc frac(f:float)->float:\n    return f - floor(f)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-12-12T12:26:24Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11339,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add frac(f:float) to @GlobalScope",
+  "up": 0,
+  "updatedAt": "2024-12-13T05:08:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11339"
+}

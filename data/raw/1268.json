@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its help reduce the amount of code to do something that should already be part of the editor and how it serializes scripts.",
+    "format": "legacy",
+    "workaround": "it would be used quite alot especially in ui.\nit also can be worked around but you have to update everything manually"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-28T20:17:12Z",
+  "comments": 1,
+  "createdAt": "2020-07-28T01:29:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1268,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Exported vars should automatically detect changes",
+  "up": 3,
+  "updatedAt": "2022-05-28T20:17:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1268"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The same reason as above.",
+    "format": "form",
+    "workaround": "Adding a custom property & showing it in the Inspector is okay. (`meta` & `EditorInspectorPlugin`)\n\nBut I think it's not allowed to injecting logic into the loader or to the `PackedScene.instantiate()` function."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-22T02:23:06Z",
+  "comments": 38,
+  "createdAt": "2021-07-29T07:59:04Z",
+  "down": 6,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3056,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add node binding to scenes",
+  "up": 6,
+  "updatedAt": "2022-06-22T05:45:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3056"
+}

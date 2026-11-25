@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a proposal to improve core performance",
+    "format": "form",
+    "workaround": "it is possible to workaround this way:\n```\nvar a: Array = []\na.resize(100)\nfor i in range(100): \n    a[i] = some_func(i)\n```\n\nhowever, you cannot \"excede\" your desired memory without affecting the result of `size()`"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-30T16:26:22Z",
+  "comments": 2,
+  "createdAt": "2021-07-06T23:34:44Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": "4.6",
+  "number": 2954,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `capacity()` and `reserve()` to core data structures",
+  "up": 6,
+  "updatedAt": "2025-09-30T18:07:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2954"
+}

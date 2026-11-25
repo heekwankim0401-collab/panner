@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Shader language improvements must be core.\n</details>",
+    "format": "markdown",
+    "workaround": "This enhancement will affect anyone who has more than a passing interest in shaders."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-21T10:49:05Z",
+  "comments": 3,
+  "createdAt": "2021-01-24T18:44:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2179,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve support for external shader editors",
+  "up": 0,
+  "updatedAt": "2021-03-21T10:49:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2179"
+}

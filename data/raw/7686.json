@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "core ux",
+    "format": "form",
+    "workaround": "used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-16T13:01:03Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7686,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change \"skip import\" to \"import\" in the 3d import dialog",
+  "up": 0,
+  "updatedAt": "2023-09-16T16:51:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7686"
+}

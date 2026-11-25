@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, because this is a core feature that should be available by default.",
+    "format": "form",
+    "workaround": "Yes, the arguments' types can be filled in manually."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-08-09T09:25:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5122,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Include argument types when autocompleting virtual methods and generating signal handlers",
+  "up": 0,
+  "updatedAt": "2022-08-09T19:00:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5122"
+}

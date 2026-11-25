@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a small usability change for which I don't want to install a plugin.",
+    "format": "markdown",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-04-11T15:17:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2588,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "SpriteFrames editor: Save the number of horizontal/vertical frames for each image in its respective `.import` file",
+  "up": 13,
+  "updatedAt": "2023-10-21T01:03:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2588"
+}

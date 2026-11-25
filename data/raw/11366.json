@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a simple quality of life adjustment that could speed up Ui workflows.",
+    "format": "form",
+    "workaround": "You could try running the editor and imposing the state (ie hovering, hover pressed, etc)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-18T22:52:41Z",
+  "comments": 1,
+  "createdAt": "2024-12-17T03:55:32Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11366,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Preview for UI Styles",
+  "up": 0,
+  "updatedAt": "2024-12-18T22:54:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11366"
+}

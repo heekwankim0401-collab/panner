@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 24,
+  "createdAt": "2025-10-13T13:34:28Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem",
+    "topic:codestyle"
+  ],
+  "milestone": null,
+  "number": 13378,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Minimize transitive includes in the codebase",
+  "up": 2,
+  "updatedAt": "2025-10-14T14:26:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13378"
+}

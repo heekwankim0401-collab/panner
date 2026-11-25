@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There're some addons, but none of those addons work for me, only Decal node from 4.0 works for me currently.",
+    "format": "markdown",
+    "workaround": "No, it can't be."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-16T14:35:42Z",
+  "comments": 5,
+  "createdAt": "2021-05-14T18:17:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2722,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Backport Decal node to 3.x",
+  "up": 1,
+  "updatedAt": "2021-10-16T14:36:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2722"
+}

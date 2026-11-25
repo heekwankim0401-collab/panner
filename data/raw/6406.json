@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improving the useability of the program should be a priority or at least an important issue and having it in the core would be a positive change for the program.",
+    "format": "form",
+    "workaround": "No- currently, the only way is to modify godot's source code and build godot from source (I'm currently doing that to implement my control scheme)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-27T22:17:09Z",
+  "comments": 14,
+  "createdAt": "2023-03-02T18:59:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 6406,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow full customization of 3D navigation controls (rotate, pan, zoom)",
+  "up": 4,
+  "updatedAt": "2025-03-05T04:40:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6406"
+}

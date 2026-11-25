@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-14T17:07:54Z",
+  "comments": 7,
+  "createdAt": "2019-10-06T23:10:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 133,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Complete debugger Output buffer should be copyable so it can be pasted elsewhere",
+  "up": 1,
+  "updatedAt": "2025-05-14T17:08:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/133"
+}

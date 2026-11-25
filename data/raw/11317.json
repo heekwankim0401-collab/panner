@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core functionality.",
+    "format": "form",
+    "workaround": "Yes, but you would need to check if the data layer exists in the TileSet first rather than TileData, which is cumbersome and probably not always accessible. If TileData can get the custom data layer, it should also tell me whether it exists or not.\n\nSee: https://forum.godotengine.org/t/can-you-determine-if-a-custom-data-layer-exists-for-a-tilemaplayer/85891/5"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-13T19:28:58Z",
+  "comments": 0,
+  "createdAt": "2024-12-08T16:40:46Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": "4.4",
+  "number": 11317,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `has_custom_data()` to TileData",
+  "up": 2,
+  "updatedAt": "2025-01-13T19:28:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11317"
+}

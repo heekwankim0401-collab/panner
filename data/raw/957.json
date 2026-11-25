@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It needs to touch core rendering APIs.",
+    "format": "legacy",
+    "workaround": "No. I have described a workaround for the base issue above (using `multimesh_instance_set_*`), but this enhancement would improve performance further by avoiding doing the API calls in a loop and not having an extra cache to copy to."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-05-29T01:03:42Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 957,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "More performant partial region updates to multimeshes",
+  "up": 1,
+  "updatedAt": "2022-09-09T23:42:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/957"
+}

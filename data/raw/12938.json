@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Working with Vectors is a huge part of gamedev, and having convenient ways to convert between them is important.",
+    "format": "form",
+    "workaround": "It can be, but the whole point is to avoid those few lines and just have one.\n\nThough I understand that this won't be an issue in small codebases or games with not much 2D/3D interopability."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-04T17:05:48Z",
+  "comments": 1,
+  "createdAt": "2025-08-04T17:04:10Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12938,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add Vector swizzling with `@GlobalScope` enums serving as permutation keys",
+  "up": 0,
+  "updatedAt": "2025-08-04T17:05:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12938"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Collision detection is one of the most basic aspects of any game with moving parts.",
+    "format": "form",
+    "workaround": "If it could be, I wouldn't be writing this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-11T18:26:58Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13612,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Redesign physics query API in PhysicsDirectSpaceState",
+  "up": 13,
+  "updatedAt": "2026-07-11T23:40:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13612"
+}

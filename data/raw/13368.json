@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "see above",
+    "format": "form",
+    "workaround": "It might be possible to do this in an addon, but it's nice to include this in core."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-27T14:53:49Z",
+  "comments": 0,
+  "createdAt": "2025-10-12T01:37:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 13368,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Script editor join_line keybind",
+  "up": 0,
+  "updatedAt": "2026-02-27T14:53:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13368"
+}

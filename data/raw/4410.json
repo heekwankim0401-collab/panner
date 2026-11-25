@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Making it an add-on would not help make this use more obvious to anyone who might repeat my mistake or a similar one.",
+    "format": "form",
+    "workaround": "I'm not sure how often this would come up in other projects. It seems like it has the potential to, but I'm not versed enough in how people create different types of projects."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-22T17:53:26Z",
+  "comments": 2,
+  "createdAt": "2022-04-16T22:13:00Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "3.x",
+  "number": 4410,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make documentation of position testing of Navigation2D clearer or add new functions",
+  "up": 0,
+  "updatedAt": "2022-08-22T20:04:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4410"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "New data type constructors can't be created by an add-on; adding this feature would add very few lines of code to the engine and would make working with Transforms more convenient.",
+    "format": "form",
+    "workaround": "Yes. You can use one of these to achieve the same thing:\n```gdscript\nTransform(Basis.IDENTITY, origin)\nTransform.IDENTITY.translated(origin)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-12-17T18:18:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3686,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a new Transform constructor: `Transform(origin: Vector3)`",
+  "up": 8,
+  "updatedAt": "2022-01-04T22:45:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3686"
+}

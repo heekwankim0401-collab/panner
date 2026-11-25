@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "-- NOT RELATED --",
+    "format": "legacy",
+    "workaround": "Godot can be easily manually compiled with this flags, but this solution isn't suitable for CI due to time of compiling and most of users doesn't know how to compile Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-29T19:03:16Z",
+  "comments": 1,
+  "createdAt": "2020-11-12T13:06:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 1822,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add official binaries with Address, Leak and Undefined sanitizers",
+  "up": 1,
+  "updatedAt": "2021-10-29T19:23:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1822"
+}

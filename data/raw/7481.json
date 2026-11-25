@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No this affects programming syntax.",
+    "format": "form",
+    "workaround": "Not that I am aware of, you can only define a `var` and re-assign to it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-11T13:38:35Z",
+  "comments": 1,
+  "createdAt": "2023-08-11T13:34:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7481,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "`const` for assignments from functions/getters/variables",
+  "up": 0,
+  "updatedAt": "2023-08-11T13:39:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7481"
+}

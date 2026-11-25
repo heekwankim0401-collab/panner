@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Visual shader is core, and is an important feature for many artists.",
+    "format": "form",
+    "workaround": "Not to my knowledge"
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-16T17:16:38Z",
+  "comments": 3,
+  "createdAt": "2026-10-15T21:05:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.8",
+  "number": 15653,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Visual shader: Add backspace as input to delete visual shader nodes",
+  "up": 2,
+  "updatedAt": "2026-10-30T16:46:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15653"
+}

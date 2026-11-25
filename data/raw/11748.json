@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It does exactly that, moves things into a asset library, and makes the godot engine more modular.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-11T22:23:28Z",
+  "comments": 0,
+  "createdAt": "2025-02-11T19:36:50Z",
+  "down": 1,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 11748,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Start moving stuff out of core and into offical GDExtension plugins.",
+  "up": 0,
+  "updatedAt": "2025-02-11T22:28:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11748"
+}

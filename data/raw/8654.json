@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This enhancement will benefit everyone using C#, and help reduce friction with the engine for new users. A script on the users end would both be overkill and require they know they need to move the .csproj file in the first place. The process would also require adjusting the .sln file to account for the move of the .csproj, which would be beyond what most beginners know how to do. A script or plugin is not a good solution to this problem."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-17T06:23:43Z",
+  "comments": 4,
+  "createdAt": "2023-12-14T04:18:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 8654,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move project source to a subdirectory when creating a new C# project",
+  "up": 1,
+  "updatedAt": "2024-08-26T16:04:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8654"
+}

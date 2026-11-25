@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A basic fundamental feature.",
+    "format": "form",
+    "workaround": "Will be used quite often. I guarantee."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-15T20:30:43Z",
+  "comments": 41,
+  "createdAt": "2023-01-13T23:02:41Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 6092,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add strict and safe equality operator `===` for comparing references and variants (implemented as `is_same()` method)",
+  "up": 13,
+  "updatedAt": "2023-01-26T10:01:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6092"
+}

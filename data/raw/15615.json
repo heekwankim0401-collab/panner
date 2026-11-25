@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-10-07T08:35:02Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 15615,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an easier way to generate mipmaps for textures from models loaded at runtime",
+  "up": 1,
+  "updatedAt": "2026-10-07T17:25:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15615"
+}

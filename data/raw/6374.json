@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "yes.",
+    "format": "form",
+    "workaround": "I tried to cast, check the script with `get_script()` and the script `get_instance_base_type()` but nothing worked.\n\nI **haven't figured yet** but it may be not possible at all to do it with the current gdscript,\neven if there is an obscure function that allow this check why not allowing the simple `self is X` ?"
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-28T18:34:24Z",
+  "comments": 7,
+  "createdAt": "2023-02-28T18:25:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6374,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Allow self to be casted or checked",
+  "up": 1,
+  "updatedAt": "2026-10-28T18:35:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6374"
+}

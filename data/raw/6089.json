@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "there is a zipreader - why cant there by a tarreader? also making a gdextension for something so small seems like overkill.",
+    "format": "form",
+    "workaround": "```gdscript\nvar output := []\nvar err := OS.execute(\n\t\"tar\",\n\t[\n\t\t\"xzf\",\n\t\tProjectSettings.globalize_path(\"user://archive.tgz\"),\n\t\t\"--directory\",\n\t\t\tProjectSettings.globalize_path(\"res://out_dir\")\n\t\t],\n\t\toutput\n\t)\n\nif err != 0:\n\treturn ERR_BUG\nreturn OK\n```\nsort of"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2023-01-12T04:42:11Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6089,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `TARReader`",
+  "up": 3,
+  "updatedAt": "2023-02-05T14:13:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6089"
+}

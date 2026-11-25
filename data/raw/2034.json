@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it's easy to implement and useful for everyone.",
+    "format": "markdown",
+    "workaround": "First, it will be used often. The automatical adjustment can not be worked around since it is core but manually, one could pull the window bigger."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-12-27T16:31:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2034,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Auto adjust tree width if icons from toolbar and node name overlap",
+  "up": 0,
+  "updatedAt": "2020-12-27T18:34:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2034"
+}

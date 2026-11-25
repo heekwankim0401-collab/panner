@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "2D platform games make up a large volume of games and such a 'random' and inaccurate event is not good.",
+    "format": "legacy",
+    "workaround": "no, the only alternative is area2d on a camera, and that is more complex and removes ability to set it on a specific kinematic body."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-13T21:36:21Z",
+  "comments": 3,
+  "createdAt": "2020-06-23T12:25:57Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1110,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add properties to make VisibilityNotifier2D more accurate",
+  "up": 0,
+  "updatedAt": "2021-08-13T21:36:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1110"
+}

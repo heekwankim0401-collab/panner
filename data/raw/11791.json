@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core part of the engine.",
+    "format": "form",
+    "workaround": "It can be easily worked around. You can just ignore the problem and use the current names."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2025-02-17T10:12:12Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "5.0",
+  "number": 11791,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Swap the names of the engine's internal \"abstract\" and \"virtual\"",
+  "up": 4,
+  "updatedAt": "2025-02-26T21:10:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11791"
+}

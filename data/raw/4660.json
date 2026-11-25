@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it would make using the engine much easier for beginners!",
+    "format": "form",
+    "workaround": "Given that this is part of the engine itself, I'm not entirely sure if you can write a workaround."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-06-12T16:29:58Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "5.0",
+  "number": 4660,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename \"Selected Collision One Way\" to something else",
+  "up": 0,
+  "updatedAt": "2023-02-24T05:53:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4660"
+}

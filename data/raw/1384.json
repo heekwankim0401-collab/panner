@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a change to how core physics works.\n\nFinally, its worth noting that these changes should make implementing some of the other proposals (e.g. #236, #364, #628, #667 #740) easier.",
+    "format": "legacy",
+    "workaround": "No, this will actually simplify scripts."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-26T07:04:52Z",
+  "comments": 22,
+  "createdAt": "2020-08-18T05:18:28Z",
+  "down": 11,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1384,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Simplify the PhysicsBodies interface and its methods",
+  "up": 18,
+  "updatedAt": "2022-09-18T21:13:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1384"
+}

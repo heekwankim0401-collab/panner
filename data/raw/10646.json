@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Add-ons can't affect the project manager.",
+    "format": "form",
+    "workaround": "No, as the project manager can't really be replaced."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2024-09-03T16:23:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10646,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow editing already-created tags in the project manager",
+  "up": 7,
+  "updatedAt": "2025-09-30T12:15:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10646"
+}

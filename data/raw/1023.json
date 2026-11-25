@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot's editor must be modified to add this feature.",
+    "format": "legacy",
+    "workaround": "Not entirely. Connecting signals through GDScript has the side effect of not showing up in the UI which is not what we want in our current project given the sheer amount of signals.\n\nIt's worth mentioning that this issue will come up when working on complex games -- refactoring nodes and code whilst keeping the UI the same will become a pain because users will have to retype or copy paste function names every single time they attempt to connect signals through the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-05T09:29:56Z",
+  "comments": 1,
+  "createdAt": "2020-06-07T16:28:40Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 1023,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow users to specify signal method receiver name format",
+  "up": 3,
+  "updatedAt": "2022-01-05T09:29:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1023"
+}

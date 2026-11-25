@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it expands an existing engine function",
+    "format": "form",
+    "workaround": "Yes, by writing your own singleton lerp wrapper class. Not important really, but would make the code cleaner by cutting off 1 class."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-05T15:57:06Z",
+  "comments": 2,
+  "createdAt": "2024-08-27T18:44:49Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.4",
+  "number": 10579,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expand lerp function to include Transform2D and Transform3D",
+  "up": 4,
+  "updatedAt": "2024-09-05T15:57:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10579"
+}

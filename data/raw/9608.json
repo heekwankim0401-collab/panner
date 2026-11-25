@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure if this is applicable.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-04-27T00:57:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9608,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to restore only the current active scene tab when reopening the editor",
+  "up": 0,
+  "updatedAt": "2024-04-27T22:50:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9608"
+}

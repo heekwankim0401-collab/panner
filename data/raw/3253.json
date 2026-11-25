@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Needs a rework of 2D camera.\n___\nOriginal issue: https://github.com/godotengine/godot/issues/31153",
+    "format": "form",
+    "workaround": "Technically it's possible to make a custom class inheriting Camera2D, but the issue is mora a usability problem that's more relevant for newly created 2D projects (as adding cameras is usually done on early stages), including prototypes."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-31T17:57:16Z",
+  "comments": 7,
+  "createdAt": "2021-09-04T23:53:44Z",
+  "down": 1,
+  "labels": [
+    "breaks compat",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3253,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change Camera2D \"current\" property to \"enabled\" and make it true by default",
+  "up": 10,
+  "updatedAt": "2023-01-31T17:57:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3253"
+}

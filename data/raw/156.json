@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Would make process that doesn't require to be run a full FPS like pathfinding or input check or periodic events, much more simpler, not require node setup with timers and overall improve the project optimization (since the function wont run at every frame).",
+    "format": "legacy",
+    "workaround": "Sure, can be done with a combination of timers, but is not a clean solution."
+  },
+  "assignees": 0,
+  "closedAt": "2020-01-12T21:46:25Z",
+  "comments": 5,
+  "createdAt": "2019-10-14T01:32:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 156,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "_Process function that has a customized framerate",
+  "up": 0,
+  "updatedAt": "2020-01-12T21:46:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/156"
+}

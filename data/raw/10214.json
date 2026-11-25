@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "CSG Cylinder is a core node. It is not consistent with the CSG Box.",
+    "format": "form",
+    "workaround": "It can be worked around with a few more movements/resizes of the shape. But it is quite annoying."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-25T18:10:38Z",
+  "comments": 1,
+  "createdAt": "2024-07-15T10:07:00Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.4",
+  "number": 10214,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow dragging top/bottom of Cylinder Shape and CSG Cylinder individually",
+  "up": 7,
+  "updatedAt": "2024-10-26T19:23:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10214"
+}

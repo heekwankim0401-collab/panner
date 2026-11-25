@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement allows big projects to use `atlasTextures` as they expect, because currently it is only workable to small projects, due to having the manual workflow of selecting individual files to be part of a atlas and pressing re-import button, which is inviable for big project that have hundred of folders, with thousands of textures.\n\nDue to the nature of atlas textures, if you use a thirdpartytool, you will need a plugin to handle the information transition of which frames are where, their size and padding, Godot do all of this automatically, I don't see a reason to not have this in the core, it's extending the functionality.",
+    "format": "form",
+    "workaround": "No, because it is asking for a automatic atlasTexture creation, which currently is part of the core import code, having one to make a import plugin from scratch if it wants to modify how the import works. I did not found a way to easily tell Godot to not import all the thousand textures as individual resources but as atlasTexture automatically.\n\nIt is frustrating, because Godot has a excellent atlas packaging algorithm, even with current limitations, but we cannot tell Godot to import them automatically."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-11-11T15:18:50Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3530,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend the import functionality to automatically import atlases",
+  "up": 0,
+  "updatedAt": "2021-11-13T04:31:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3530"
+}

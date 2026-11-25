@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This enhancement should be implemented in the core engine because it directly affects the language-level behavior and lifecycle of GDScript variables. It is not possible to fully replicate this behavior through an external add-on or plugin without intrusive or hacky workarounds.",
+    "format": "form",
+    "workaround": "Yes, this behavior can be worked around, but the workaround comes at the cost of clarity, encapsulation, and developer ergonomics.\n\n```gdscript\n@export var alpha: float = 1:\n\tset = set_alpha\n\n@onready var icon = $Icon\n\nfunc _ready():\n\tset_alpha(alpha)\n\nfunc set_alpha(value: float) -> void:\n\talpha = value\n\tif is_instance_valid(icon):\n\t\ticon.modulate.a = value\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-05T15:53:10Z",
+  "comments": 3,
+  "createdAt": "2025-08-05T13:30:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12943,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow support using `@onready` with `@export` variables",
+  "up": 0,
+  "updatedAt": "2025-08-06T08:21:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12943"
+}

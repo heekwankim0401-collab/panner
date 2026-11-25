@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it is reasonable to have in _AStar_  a clean function checking is there a path between A and C in connection A-B-C.",
+    "format": "legacy",
+    "workaround": "A quick solution is provided above, but I wanted to see if someone could check is this ok and/or would it make sense to add a _cleaner_ function whos sole purpose is to check does any indirect path exisit between 2 points."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-08T04:13:38Z",
+  "comments": 8,
+  "createdAt": "2020-05-03T19:02:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 795,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "AStar check is there an (indirect) connection between 2 points",
+  "up": 0,
+  "updatedAt": "2020-05-09T06:47:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/795"
+}

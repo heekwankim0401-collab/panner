@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would likely require modifications to `AudioStreamPlayer` types to implement, unless a custom type is made. If this is done per-viewport, it may also require modifications to viewport code. Therefore, this as an add-on may not be possible. (I've never made an add-on, so I don't know the specifics there.)\n\nThis is definitely up for debate, but IMO this feels like a feature that a game audio engine should have. In addition, I imagine there would be virtually no performance hit if this is implemented but not used.",
+    "format": "form",
+    "workaround": "This could be done with GDScript, albeit rather complicatedly. Iit may require using custom `AudioStreamPlayer` classes everywhere. It may also have performance hits, at least compared to a c++ implementation. Ultimately I'm not entirely sure what it'd look like as GDScript (or c++, for that matter)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-12-20T21:25:13Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 13892,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an audio pool/concurrency/playback limit feature",
+  "up": 2,
+  "updatedAt": "2026-05-12T01:07:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13892"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a change to the included navigation system and cannot be an add-on.",
+    "format": "form",
+    "workaround": "No, this limitation is core to the design of the current navigation system.  The only way to work around it is to not use the existing system and build your own."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-10-22T06:47:30Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 5635,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement hierarchical path finding and region updates",
+  "up": 19,
+  "updatedAt": "2024-03-13T19:24:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5635"
+}

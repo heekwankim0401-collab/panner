@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Needs to be integrated with Jolt physics engine.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-11-19T01:09:32Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13661,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide way for SoftBody3D to use tetrahedra volumes in simulation",
+  "up": 4,
+  "updatedAt": "2026-02-21T05:15:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13661"
+}

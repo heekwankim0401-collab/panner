@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It seems like something that is positioned better in core.",
+    "format": "form",
+    "workaround": "I presume a lot of people are interested in it as there a lot of implementations of save systems in the asset store. But thus also yes, it can be done via script, but it won't necessarily be very specific to the scene."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-30T19:01:28Z",
+  "comments": 4,
+  "createdAt": "2021-09-29T09:52:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3364,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Save Node for easy scene state saving",
+  "up": 0,
+  "updatedAt": "2021-09-30T19:08:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3364"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "An asset library instalable addon seems a little tedious for such a small feature.\nAlso, developers encountering this sort of problem are generally tempted to stick to scrolling up and down their script before even having the idea that such a feature might be useful ;)",
+    "format": "form",
+    "workaround": "No, but it does not interfere with workflow not utilising it."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-26T22:33:29Z",
+  "comments": 1,
+  "createdAt": "2024-03-23T20:26:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9365,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to immediately see the value of a constant without scrolling to its declaration",
+  "up": 0,
+  "updatedAt": "2024-03-26T22:33:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9365"
+}

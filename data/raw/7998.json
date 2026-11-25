@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There may be more use cases, for example moving the order of when to do physics step, maybe forcing it before rendering, or forcing physics to be synchronous to the step currently done.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-05T23:04:18Z",
+  "comments": 1,
+  "createdAt": "2023-10-05T21:32:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7998,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create a `.force_physics_step(steps: int, delta: float)` method to the PhysicsServer2D and PhysicsServer3D",
+  "up": 0,
+  "updatedAt": "2023-10-05T23:04:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7998"
+}

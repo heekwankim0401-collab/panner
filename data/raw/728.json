@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Control class is so low on the inheritance chain, i cannot extend it from a module in a way that it applies to every subclass",
+    "format": "legacy",
+    "workaround": "It can be implemented as an script but having this script assigned to every control makes more difficult to then extend this one, (since GdScript doesn ot allow multiple inheritance, so we could not inherit this script and a different one which we need at the same time)"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-18T03:27:33Z",
+  "comments": 7,
+  "createdAt": "2020-04-18T22:28:45Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 728,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Controls: merge Container classes with Control Class",
+  "up": 5,
+  "updatedAt": "2026-01-18T17:37:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/728"
+}

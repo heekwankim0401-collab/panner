@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "If floor/wall/ceiling node info is already inside the CharacterBody3D or it's last collision, it'd be just exposing it more readily, so an add-on or asset library feature seems overboard. If it's not possible i'll just keeping using casts and areas, and investigate the last slide collision further.",
+    "format": "form",
+    "workaround": "I image it'd be used often. In particular detecting information about floor body's. I almost always have to have a pair of Area3Ds on my character's feet, and another going out of their chest just for detecting wall and floor info."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-17T19:42:24Z",
+  "comments": 3,
+  "createdAt": "2025-07-12T00:25:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12774,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose Characterbody3D floor/wall node info, add a get_floor() or get_wall()",
+  "up": 4,
+  "updatedAt": "2026-08-17T20:28:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12774"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "The LSP, the debug server and every feature that uses TCP/UDP sockets are broken right now on the web platform. This proposal aims to fix these features, to make them usable in some way at least.",
+    "format": "form",
+    "workaround": "This enhancement would be used extensively on the Web platform, as it would replace the sockets implementation of the other platforms."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-06-30T22:33:24Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "requires core feedback",
+    "topic:core",
+    "topic:network"
+  ],
+  "milestone": "4.x",
+  "number": 7179,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a message system for the Web platform",
+  "up": 7,
+  "updatedAt": "2023-06-30T22:34:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7179"
+}

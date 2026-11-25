@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The `TextEdit` node could be used for many many different projects, but it not being able to syntax highlight symbols makes it more limited.",
+    "format": "legacy",
+    "workaround": "Not as far as I know... I'm currently creating one myself with a `RichTextLabel` and constantly checking what the user input is, to then highlight it with a BBcode."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-14T01:49:54Z",
+  "comments": 12,
+  "createdAt": "2020-08-27T15:33:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1420,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "TextEdit should syntax highlight symbols",
+  "up": 0,
+  "updatedAt": "2021-08-14T01:49:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1420"
+}

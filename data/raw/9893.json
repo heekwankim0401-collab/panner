@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a usability issue. Using `AnimationTree` without an `AnimationPlayer` is being touted as a benefit of the new `AnimationMixer`  resource however actually using `AnimationTree` in this way as it stands is confusing and error prone due to the number of boilerplate steps.",
+    "format": "form",
+    "workaround": "It can be worked around a couple of ways:\n1. Use the cumbersome method mentioned above.\n2. Attach an `AnimationPlayer` the way we have in the past and add animations through it."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-17T03:50:58Z",
+  "comments": 3,
+  "createdAt": "2024-06-05T05:20:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9893,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make adding AnimationMixer libraries more intuitive",
+  "up": 2,
+  "updatedAt": "2026-01-13T21:32:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9893"
+}

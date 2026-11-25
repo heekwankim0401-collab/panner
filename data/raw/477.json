@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think it's even possible to do this with an add-on, and it doesn't seem like it would take up a lot of disk space.",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-02-15T05:56:31Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 477,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement right-clicking Godot's Windows taskbar icon to show recent files",
+  "up": 7,
+  "updatedAt": "2021-05-16T05:39:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/477"
+}

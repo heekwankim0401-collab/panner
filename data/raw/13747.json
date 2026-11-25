@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "particle copy shader can't be changed in any other way",
+    "format": "form",
+    "workaround": "It can be worked around with shaders, but it's clunky, long, and worsen the project bloat"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-28T17:51:46Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 13747,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Give better rotation options for particles",
+  "up": 11,
+  "updatedAt": "2025-11-28T22:42:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13747"
+}

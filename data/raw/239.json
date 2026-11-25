@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature would also allow for people less experienced with code/not willing to look through huge amounts of code to easier work with signals, and prevent accidental creation of duplicate functions, resulting in faster code development.",
+    "format": "legacy",
+    "workaround": "I am not sure you can work around that with a few lines of script"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-25T08:52:27Z",
+  "comments": 1,
+  "createdAt": "2019-11-17T19:17:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 239,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Suggest function names in the signal connection dialog",
+  "up": 21,
+  "updatedAt": "2023-01-25T08:54:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/239"
+}

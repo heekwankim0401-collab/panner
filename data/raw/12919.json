@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "**_Engine_**.time_scale",
+    "format": "form",
+    "workaround": "I doubt a \"warn if time scale is set to 0\" plugin would catch on"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-08-02T13:04:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12919,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add error when attempting to set `Engine.time_scale` to 0",
+  "up": 1,
+  "updatedAt": "2025-08-02T15:57:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12919"
+}

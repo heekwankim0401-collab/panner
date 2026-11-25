@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Ideally, this would be incorporated into the inspector for the Control node itself, not added on as a separate field, which I think is what would have to happen in an add-on. It would also interact closely with the Control node code and its existing properties.",
+    "format": "form",
+    "workaround": "As stated above, I think the calculation itself is relatively trivial, but having to include a script with it on every node that I want to exhibit this behavior seems like it would be quite unwieldy. If the node has a main purpose, then in my mind the script attached to it should be dedicated to that purpose."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-15T01:25:58Z",
+  "comments": 2,
+  "createdAt": "2024-06-06T03:16:43Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9899,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Option to provide Control pivot offset as ratio of size",
+  "up": 3,
+  "updatedAt": "2024-06-15T01:25:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9899"
+}

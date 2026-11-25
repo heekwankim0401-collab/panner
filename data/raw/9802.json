@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since we have a workaround this feature is not needed in core per-se. In fact, I have completed games in Godot where I have used said work around multiple times with no big issue.\n\nYet, it is a recurrent need, and it would be good to have support in core for ease of use.\n\nFuthermore, it would make easier the setup for https://github.com/godotengine/godot-proposals/discussions/9712 - See also: https://github.com/godotengine/godot-proposals/issues/9801",
+    "format": "form",
+    "workaround": "We can have an animation player reference another animation player."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-14T09:41:00Z",
+  "comments": 4,
+  "createdAt": "2024-05-22T04:01:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 9802,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add animation inheritance",
+  "up": 2,
+  "updatedAt": "2025-05-14T13:37:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9802"
+}

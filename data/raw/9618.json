@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe it could useful to a lot of people, and less of a hassle, therefore better to be built in the engine.",
+    "format": "form",
+    "workaround": "It could be an importer script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-12T18:36:24Z",
+  "comments": 6,
+  "createdAt": "2024-04-28T17:40:48Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.5",
+  "number": 9618,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to invert texture colors in the default importer",
+  "up": 4,
+  "updatedAt": "2025-07-18T21:00:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9618"
+}

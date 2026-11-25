@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know if this editor behavior change is possible without changing the logic of the import process, which is core.",
+    "format": "form",
+    "workaround": "The users can always create a different terminal extension by themselves. But since most software use only the terminal extension to recognize files, it would be cumbersome to use that made-up extension with other softwares. For example, a made-up extension .dialog_json would not clash with anything in godot but then the operating system and external software integration would get messed up, the user would have to manually associate that file type to open with some software, maybe the text editor the person uses won't show the json highlight right away and the person would need to further configure his editor to recognize that made-up extension as json, etc.\n\nBesides that, It would be pretty easy to create editor import plugins for handling imports of common file extensions like json and csv that are not meant to import every json or every csv, but only a subset of them."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-11T00:25:29Z",
+  "comments": 1,
+  "createdAt": "2024-06-04T21:55:06Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.5",
+  "number": 9888,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the import logic to operate on segmented file extensions (eg.: .tar.gz) or filename endings instead of terminal file extensions (eg.: .gz)",
+  "up": 2,
+  "updatedAt": "2025-04-11T17:08:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9888"
+}

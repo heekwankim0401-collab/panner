@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2021-08-20T19:45:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3173,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow dropping assets into the scene directly from OS file manager/outside of the project folder",
+  "up": 2,
+  "updatedAt": "2021-11-13T13:44:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3173"
+}

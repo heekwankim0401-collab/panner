@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "SVG is needed for editor icons too and that is before addons are initialized",
+    "format": "form",
+    "workaround": "SVG rendering is not easy."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-14T15:38:54Z",
+  "comments": 0,
+  "createdAt": "2021-06-23T15:36:57Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 2912,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use ThorVG instead of NanoSVG for importing SVGs ",
+  "up": 19,
+  "updatedAt": "2022-01-14T15:39:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2912"
+}

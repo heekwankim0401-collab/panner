@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Plugins are generally more purpose-built. Something like Zylann's (excellent) VoxelTools plugin is useful for much more complex terrains (like caves!). By default, Godot might not need such complex functionality, however, simple terrain systems are present in virtually every single modern game engine. \n\nMy proposal is a really really lightweight solution, so I feel like this could easily be included by default. It's also highly customizable!\n\nPS I think DisplacementMesh could work better as a name. I can change it later though.",
+    "format": "form",
+    "workaround": "The problem is, it's technically feasible to work around it, and I have done so previously. However,\n1. I think it's cumbersome to do so every single time.\n2. It doesn't really make sense to use the shader + HeightMapCollision method, because it's technically boilerplate since you need to keep the terrain algorithm up with the HeightMapCollision.\n3. Generating a cube mesh is also feasible with a relatively short script, nevertheless, the BoxMesh primitive exists because it's really convenient and useful."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-09-22T15:56:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 13241,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a HeightMapMesh/DisplacementMesh primitive mesh",
+  "up": 7,
+  "updatedAt": "2025-10-21T15:26:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13241"
+}

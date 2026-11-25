@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This can only be implemented in native code.",
+    "format": "form",
+    "workaround": "There is no way to override the behavior of `get_image()`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-03-28T20:15:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12097,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to override `Texture2D.get_image()` so custom textures can return the correct image data",
+  "up": 3,
+  "updatedAt": "2025-08-01T00:31:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12097"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It changes the core export system.",
+    "format": "markdown",
+    "workaround": "As far as I'm aware there is no way to achieve this functionality currently."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-29T10:46:36Z",
+  "comments": 9,
+  "createdAt": "2021-04-10T01:18:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2582,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow conditional exports (or sub-exports)",
+  "up": 8,
+  "updatedAt": "2022-06-29T10:46:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2582"
+}

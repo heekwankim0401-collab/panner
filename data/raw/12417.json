@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a core GUI feature.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-05-12T21:42:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12417,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make SplitContainer hide child controls when the user drags the split beyond the minimum size",
+  "up": 13,
+  "updatedAt": "2025-05-12T22:06:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12417"
+}

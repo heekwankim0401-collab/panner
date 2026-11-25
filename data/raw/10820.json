@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "…",
+    "format": "form",
+    "workaround": "The only other solution would be to add metadata programatically, but that'd defeat the purpose (I want to work with metadata while in 2D view and without having to switch to the code editor)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-09-24T07:41:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10820,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow reordering node metadata in the inspector",
+  "up": 4,
+  "updatedAt": "2024-09-27T06:59:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10820"
+}

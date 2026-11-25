@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDScript is core.",
+    "format": "form",
+    "workaround": "As I mentioned, you can technically use `call_deferred()`, but there are some cases when you want the part before `await` to be executed immediately and can't wait."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-18T20:44:44Z",
+  "comments": 2,
+  "createdAt": "2021-09-18T15:40:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3315,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to ignore await coroutines",
+  "up": 0,
+  "updatedAt": "2021-09-18T20:44:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3315"
+}

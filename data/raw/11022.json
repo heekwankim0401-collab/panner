@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Tween API is core, and already has methods for invoking Callables, waiting periods of time, and even awaiting on signals/coroutines (to be merged soon, I hope). Given that it already has this wide a collection of functionality, and is intended to be used for sequences of actions (as evidenced by `parallel` and `chain`), allowing us to insert subtweens into existing tweens feels like a natural step.",
+    "format": "form",
+    "workaround": "I imagine that, at least for people who use tweens in their workflow, this will be used a lot to simplify and modularize their animations/sequences.\n\nSolutions using the existing Tween API for the problem proposed in #3515's original post are provided there, but involve using `await` and/or chained Callables, which again feels quite fragile to me.\n\nFor the UI sequenced animation example, I know that similar behavior could be achieved by having the `animate_pulse` method take an existing Tween object as an argument and add Tweeners to it via calls:\n```gdscript\nfunc animate_pulse(tw: Tween = null):\n    if tw == null:\n        tw = create_tween()\n    tw.tween_property(self, \"scale\", Vector2.ONE * 2, 1.0)\n    tw.tween_property(self, \"scale\", Vector2.ONE, 1.0)\n```\nHaving a function that modifies its argument like this feels a bit old-fashioned to me, not like something I'm used to seeing in a language like GDScript. It also doesn't necessarily help with the other existing problems of building complex sequences."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-06T23:47:44Z",
+  "comments": 8,
+  "createdAt": "2024-10-24T21:12:06Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.4",
+  "number": 11022,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `tween_subtween` method for nesting Tweens",
+  "up": 0,
+  "updatedAt": "2025-01-06T23:47:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11022"
+}

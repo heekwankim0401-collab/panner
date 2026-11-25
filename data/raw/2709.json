@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I'm not sure where this would be best. I would think the core engine would need to facilitate settign a default library, and then users (or libraries, but that's dangerous) could set such a default themselves.",
+    "format": "markdown",
+    "workaround": "It's worked around by setting a library for every newly-created script."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-10T22:34:38Z",
+  "comments": 1,
+  "createdAt": "2021-05-10T22:33:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 2709,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow setting default NativeScript library",
+  "up": 0,
+  "updatedAt": "2024-04-21T07:36:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2709"
+}

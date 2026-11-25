@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "tiny core ux change",
+    "format": "form",
+    "workaround": "it's a minor UX thing that occurs often"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-16T18:17:07Z",
+  "comments": 1,
+  "createdAt": "2023-07-28T15:53:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 7404,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Hightlight hovered items even if they are selected already in the FileSystem ",
+  "up": 3,
+  "updatedAt": "2024-12-16T18:17:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7404"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-08-08T15:40:20Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "platform:web",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15346,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add asynchronous shader compilation support for WebGL when the game is loading",
+  "up": 0,
+  "updatedAt": "2026-08-10T21:00:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15346"
+}

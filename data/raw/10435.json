@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "load and preload are core functions.",
+    "format": "form",
+    "workaround": "No. load and preload are core functions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-08-14T01:19:19Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10435,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a flag for `load()` and `preload()` that lets the engine also load any resources within the scenes",
+  "up": 0,
+  "updatedAt": "2026-04-13T22:49:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10435"
+}

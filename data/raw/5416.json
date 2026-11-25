@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This requires modifying core nodes.",
+    "format": "form",
+    "workaround": "It can be worked around, but the screen dragging is already implement in the engine but unusable and has to be implemented manually by emulating mouse wheel inputs, requiring quite a fair bit of code and testing to get a good synchronisation between the user's motion and the scrolling amount."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-09-13T16:17:16Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 5416,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Customisation options for `SubViewport`s to make them behave like touchscreens",
+  "up": 2,
+  "updatedAt": "2022-09-13T16:18:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5416"
+}

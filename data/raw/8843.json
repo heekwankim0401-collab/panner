@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core build feature, I don't think an addon can solve this.",
+    "format": "form",
+    "workaround": "The only work around is by manually building the engine, which as stated above, is quite complicated for lots of users."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-09T12:50:54Z",
+  "comments": 1,
+  "createdAt": "2024-01-09T12:49:49Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8843,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Include double precision builds with official builds",
+  "up": 0,
+  "updatedAt": "2024-01-09T12:51:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8843"
+}

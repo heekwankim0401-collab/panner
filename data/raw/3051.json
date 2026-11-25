@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Mice acting differently from keyboard/gamepads when interacting with buttons is a basic and fundamental UI design principle, at least for menu-heavy games, and should not have to be hacked into existence on top of the engine when the engine could provide support or infrastructure for it itself.",
+    "format": "form",
+    "workaround": "This can currently be worked around by doing input code manually in _input() or _gui_input(), but doing so is very unwieldy and prone to keyboard focus bugs, and it's unlikely that everyone implementing this from scratch would avoid those keyboard focus bugs."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-07-28T07:13:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3051,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Button/BaseButton control signals carry the responsible input event (if there is one)",
+  "up": 5,
+  "updatedAt": "2021-07-28T16:37:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3051"
+}

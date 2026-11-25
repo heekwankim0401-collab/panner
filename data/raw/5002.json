@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Part of it is already in the source, it just needs to be coded in.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-27T08:17:40Z",
+  "comments": 2,
+  "createdAt": "2022-07-28T15:55:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.1",
+  "number": 5002,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Brotli (de)compression support to core",
+  "up": 0,
+  "updatedAt": "2023-10-27T08:18:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5002"
+}

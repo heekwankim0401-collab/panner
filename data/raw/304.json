@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It could be an asset but I think this should be a well maintained feature in the engine and most important multiplatform engines have methods to obtain system version info.",
+    "format": "legacy",
+    "workaround": "I don't think this can be implemented in *a few* lines for every supported platform."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2019-12-14T14:09:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 304,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a more detailed system version info to OS class",
+  "up": 1,
+  "updatedAt": "2020-03-19T08:48:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/304"
+}

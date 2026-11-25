@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Tile collision seems to be very limited right now without having to create a new layer for each type of tile Xd",
+    "format": "legacy",
+    "workaround": "This would be much more optimized and flexable way for checking against tile collisions as tiles don't need to hold onto a collision shape and they can check against more then just solids."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-11-12T21:32:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1826,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow us to assign groups to individual tiles",
+  "up": 4,
+  "updatedAt": "2020-11-12T22:31:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1826"
+}

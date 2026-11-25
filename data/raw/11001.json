@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because FastNoiseLite is core",
+    "format": "form",
+    "workaround": "You can create a script which extends from FastNoiseLite and create the values. Unfortunately the \"ValidateProperty\" method does not execute on every property like Frequency\n\n<img width=\"582\" alt=\"image\" src=\"https://github.com/user-attachments/assets/86a37de0-3914-4682-bdb1-7a8cecc1ae97\">"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-10-19T20:01:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11001,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Property \"MaxValue\", \"MinValue\" and \"MouseHoveredValue\" to FastNoiseLite",
+  "up": 1,
+  "updatedAt": "2024-10-21T09:53:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11001"
+}

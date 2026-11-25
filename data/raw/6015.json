@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form",
+    "workaround": "I think a few lines is not enough, and it's complex - correct me if I'm wrong."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-12-28T09:09:05Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6015,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a function to project a camera's frustum into 2D plane and returns points",
+  "up": 7,
+  "updatedAt": "2024-05-13T23:05:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6015"
+}

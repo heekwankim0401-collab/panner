@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The shading language cannot be user-extended.",
+    "format": "legacy",
+    "workaround": "Sometimes.  Workarounds depend on whether the data can fit into a supported uniform type such as Vec4, mat4 or similar.  A more generalized workaround involves glue code in a tool script which can generate an ImageTexture suitable to be bussed and decoded from a uniform Sampler2D within a given shader."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-04T16:16:19Z",
+  "comments": 13,
+  "createdAt": "2020-05-28T01:14:09Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 931,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support uniform arrays in the shader language",
+  "up": 82,
+  "updatedAt": "2024-01-20T20:10:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/931"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As an abstraction, it's meant to be built upon by other add-ons. More specifically, it allows an entire range of add-ons to exist that otherwise couldn't in the first place. It's not an asset intrinsically",
+    "format": "form",
+    "workaround": "In GDScript it'd be impossible to replicate. In a module/GDExtension, it would be a fairly hefty amount of boilerplating and bringing in standard/non-native assets in an environment that would ideally not have them in the first place"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-08T23:19:08Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7247,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `FileAccess` equivalent for devices (USB, HID, etc)",
+  "up": 4,
+  "updatedAt": "2024-12-15T01:56:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7247"
+}

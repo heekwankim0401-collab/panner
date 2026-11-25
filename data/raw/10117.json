@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The nameof operator or equivalent feature is widely recognized as a best practice in programming languages like C#. Implementing it as a core feature in GDScript would promote code robustness, maintainability, and readability across projects within the Godot engine environment. It would also align with industry standards and developer expectations for modern development tools.",
+    "format": "form",
+    "workaround": "Currently, developers can work around this limitation by manually using string literals to refer to property names or method names. However, this approach is error-prone and can lead to code that is harder to maintain, especially in larger projects or during refactoring."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-04T21:12:59Z",
+  "comments": 3,
+  "createdAt": "2024-07-04T18:11:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10117,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `nameof()` operator equivalent to GDScript",
+  "up": 3,
+  "updatedAt": "2024-07-08T17:23:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10117"
+}

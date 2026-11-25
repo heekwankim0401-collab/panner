@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "O suporte a formatos de vídeo mais amplos é essencial para aumentar a acessibilidade e usabilidade da Godot, permitindo que desenvolvedores criem projetos mais modernos sem depender de conversões externas. Isso também abriria possibilidades para aplicativos multimídia, jogos narrativos e interfaces mais ricas, tornando a engine mais competitiva no mercado. Agradeço pela atenção, e aguardo ansiosamente por mais atualizações da engine",
+    "format": "form",
+    "workaround": "Atualmente, o único contorno é converter os vídeos para OGV usando ferramentas externas, o que pode ser trabalhoso e limitar o desempenho e a compatibilidade. Algumas soluções envolvem plugins ou scripts externos que utilizam APIs de terceiros para decodificar vídeos, mas isso adiciona complexidade e não é tão eficiente quanto um suporte nativo na engine."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-14T15:58:24Z",
+  "comments": 1,
+  "createdAt": "2025-03-14T04:06:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 11983,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Aprimorando dos recursos do nó vídeo player ",
+  "up": 0,
+  "updatedAt": "2025-03-14T15:58:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11983"
+}

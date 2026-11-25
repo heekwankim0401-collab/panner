@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is a core part of exporting html5 projects.",
+    "format": "form",
+    "workaround": "I expect the feature to be frequently used, as many hosting servers do not compress data transparently.\n\nFor example, looking at a few godot games on itch.io, only the wasm file is sent compressed by the server.  Taking two random games, compressing their pck file saved quite a bit of bandwidth.  (56mb -> 36mb, 21mb -> 15mb)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-04-10T03:56:39Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "platform:web",
+    "topic:export",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12208,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support loading compressed files in the Web export",
+  "up": 16,
+  "updatedAt": "2025-11-10T00:38:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12208"
+}

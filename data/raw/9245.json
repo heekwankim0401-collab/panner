@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a usability improvement in the editor. Could be implemented via add-on, but not easily and definitely not worth doing it that way.",
+    "format": "form",
+    "workaround": "It's a usability improvement in the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-16T15:21:26Z",
+  "comments": 7,
+  "createdAt": "2024-03-06T18:12:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9245,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Prompt to rename root node of newly created scene",
+  "up": 0,
+  "updatedAt": "2024-05-16T15:22:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9245"
+}

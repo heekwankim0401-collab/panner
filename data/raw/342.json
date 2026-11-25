@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's not an asset",
+    "format": "legacy",
+    "workaround": "I wish"
+  },
+  "assignees": 1,
+  "closedAt": "2020-09-23T14:13:43Z",
+  "comments": 19,
+  "createdAt": "2019-12-29T21:53:04Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "3.x",
+  "number": 342,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Android Application Bundle option in the Android export template options",
+  "up": 12,
+  "updatedAt": "2020-12-15T01:47:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/342"
+}

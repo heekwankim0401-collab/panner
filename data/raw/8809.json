@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, running multiple instances of Godot is a core feature.",
+    "format": "form",
+    "workaround": "Not easily, Godot does not provide a way to inject different arguments per session. It only allows setting the amount of instances and set arguments that are passed to all sessions."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-29T12:18:59Z",
+  "comments": 13,
+  "createdAt": "2024-01-06T00:34:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8809,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a session number command line argument to distinguish multiple instances of Godot",
+  "up": 7,
+  "updatedAt": "2025-03-29T12:30:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8809"
+}

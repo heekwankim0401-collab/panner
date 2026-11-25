@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Area_set_monitorable() already exists, and this is very low-level.",
+    "format": "markdown",
+    "workaround": "There is no workaround. RIDs are opaque, and all that is given by Physics2DServer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-02-04T23:59:13Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2244,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add area_set_monitoring() to Physics2DServer",
+  "up": 2,
+  "updatedAt": "2021-02-07T16:53:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2244"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot should follow OS names for similar actions even if it does not make sense to Linux/macOS users, or do not follow them at all. Microsoft hadn't decided to rename the menu option to \"Move to Recycle Bin\", so I don't see a reason why Godot should break user expectations just for the sake of consistency with Linux/macOS.\n\nLets have a discussion. Please don't just downvote this proposal if you disagree (if you do, please explain why). I treat \"small things\" on the same level as \"big things\". Thank you!\n\nI'd also create a discussion instead of creating yet another proposal, but GIP has no GitHub Discussions enabled here: #2069. If we do enable this feature eventually, feel free to transfer this \"proposal\" to \"discussion\".",
+    "format": "markdown",
+    "workaround": "[Have to patch the engine](https://goost.readthedocs.io/en/latest/usage/configuring.html#patching) to rename it.\n\nI'm sorry if I'm just being vocal about this and it may be obvious to you, but I'd like to understand what are we aiming for. Because current decision does not make sense to me: we shouldn't break established user expectations just for Windows users.\n\nTo resolve this for all platforms, perhaps Godot should just pick another word for this action, like \"Remove\", and not to depend on platform implementation."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-11T21:35:46Z",
+  "comments": 13,
+  "createdAt": "2021-03-15T01:22:39Z",
+  "down": 1,
+  "labels": [
+    "platform:windows",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2463,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename \"Move to Trash/Recycle Bin\" back to \"Delete\" on Windows",
+  "up": 16,
+  "updatedAt": "2021-06-11T21:35:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2463"
+}

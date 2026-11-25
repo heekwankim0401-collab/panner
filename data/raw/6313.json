@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This feature would be used when creating scripts and is hardcoded into gdscript so there is no workaround"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-06T22:49:27Z",
+  "comments": 4,
+  "createdAt": "2023-02-18T03:52:27Z",
+  "down": 8,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6313,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Remove class_name and inner classes for just outer class",
+  "up": 0,
+  "updatedAt": "2023-04-06T22:49:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6313"
+}

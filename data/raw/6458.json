@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "GLTF support is in core itself.",
+    "format": "form",
+    "workaround": "I am not aware of a script workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-30T17:13:21Z",
+  "comments": 1,
+  "createdAt": "2023-03-08T09:57:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6458,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support KHR_materials_variants extension when loading glTF scenes",
+  "up": 0,
+  "updatedAt": "2025-01-31T22:50:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6458"
+}

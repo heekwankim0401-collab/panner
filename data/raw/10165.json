@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It should apply to the Godot Editor itself.",
+    "format": "form",
+    "workaround": "Not really."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-07-10T13:03:45Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10165,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement caret blink idle timeout",
+  "up": 4,
+  "updatedAt": "2024-07-11T01:06:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10165"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This a feature proposal for add-on assets",
+    "format": "markdown",
+    "workaround": "I think I can write an actual Godot game and have it store it's state as a text file and then copy paste that text file into a Godot `tool` or a Godot `EditorScript` and then hope for the best.\nWhat I'm looking for is something that directly allows full interactivity with the editor without writing new Engine code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-03-30T04:52:45Z",
+  "down": 0,
+  "labels": [
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2528,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Interactive Plugins: let our plugins listen to mouse and keyboard input and then exit.",
+  "up": 0,
+  "updatedAt": "2021-03-30T10:21:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2528"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Changes core API",
+    "format": "form",
+    "workaround": "Changes core API"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-02T12:06:55Z",
+  "comments": 15,
+  "createdAt": "2022-08-09T12:13:45Z",
+  "down": 7,
+  "labels": [
+    "breaks compat",
+    "requires core feedback",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 5123,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename API around shaders to use the word \"parameter\" and not \"uniform\" (except text shaders)",
+  "up": 9,
+  "updatedAt": "2022-09-03T14:45:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5123"
+}

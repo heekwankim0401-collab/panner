@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The Importer is Core, and this is a basic feature required for trimming the node count of assets in game when Godot makes useless nodes on import due to any number of issues, that don't even have to be Godot's fault, but rather the fault of the exporting process, likely to be the case in the above problem.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-03-24T09:07:15Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4272,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for Tree Modifications upon Import",
+  "up": 5,
+  "updatedAt": "2022-03-24T16:02:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4272"
+}

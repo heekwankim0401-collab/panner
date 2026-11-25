@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not 100% familiar with the backend of Godot or the systems it uses but I believe this would dramatically improve the ease of use for newer users.",
+    "format": "form",
+    "workaround": "This feature is a minor thing but it directly affects the workflow and improves how intuitive the interface is."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-04-28T00:17:37Z",
+  "down": 3,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4457,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Merge scene tabs with script tabs in the tab bar at the top of the editor",
+  "up": 24,
+  "updatedAt": "2026-08-30T22:56:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4457"
+}

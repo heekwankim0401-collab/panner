@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the usability out of the box.",
+    "format": "form",
+    "workaround": "This can be worked around with an editor plugin maybe, but this is a very common operation and it would benefit everyone to be in core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-12-31T17:14:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6028,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Right-Click Shortcut to Create Shader Material from Shader File",
+  "up": 7,
+  "updatedAt": "2026-03-19T08:52:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6028"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "gdscript feature",
+    "format": "legacy",
+    "workaround": "if statements/ ternary operator."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-09T10:09:41Z",
+  "comments": 7,
+  "createdAt": "2020-11-24T20:57:20Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1887,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Short-circuiting: Make 'a or b' return first truthy item, not boolean",
+  "up": 5,
+  "updatedAt": "2020-12-09T10:29:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1887"
+}

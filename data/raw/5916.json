@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "- positioning a Camera manually is a very common task\n- new button in the editor",
+    "format": "form",
+    "workaround": "unknown"
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-08T18:02:11Z",
+  "comments": 3,
+  "createdAt": "2022-12-08T17:38:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5916,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Camera feature to copy editor's camera transform",
+  "up": 0,
+  "updatedAt": "2022-12-08T18:28:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5916"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`RegEx`s are a core class",
+    "format": "form",
+    "workaround": "No, as far as I can tell errors are inaccessible to scripts"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-11T19:34:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10721,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `RegEx.get_compilation_error()` method",
+  "up": 0,
+  "updatedAt": "2024-09-12T08:44:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10721"
+}

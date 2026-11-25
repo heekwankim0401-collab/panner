@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "---\nThe same reason RemoteTransform is a currently a node, for a convenience that I believe everybody would want and use.",
+    "format": "legacy",
+    "workaround": "---\nAlthough I believe it would be used often, if not that yes, it can be worked around easily\n```\nnode.translation=node.translation.linear_interpolate(translation,lerp_amount)\nnode.rotation_degrees=node.rotation_degrees.linear_interpolate(rotation_degrees,lerp_amount)\n```\nHowever, I believe this is irrelevant because RemoteTransform as it is now can also be worked around with a few lines of script \n```\ntransform=node.transform, rotation_degrees=node.rotation_degrees, scale=node.scale\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-11-06T19:02:16Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1785,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add interpolation and separate vectors to the RemoteTransform node",
+  "up": 5,
+  "updatedAt": "2020-11-09T11:55:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1785"
+}

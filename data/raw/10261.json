@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be core since it would help users set up their reflection probes better.",
+    "format": "form",
+    "workaround": "It could be separated into two MeshInstance3D with different view layers."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-07-21T11:53:33Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10261,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement per-surface visual layers",
+  "up": 0,
+  "updatedAt": "2024-07-21T22:22:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10261"
+}

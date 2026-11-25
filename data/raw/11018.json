@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think it's possible and it should be core functionality of the engine.",
+    "format": "form",
+    "workaround": "It's often required for pixel perfect games.\n\nA possible implementation would be catching transform notifications in the physics nodes and changing the transform to round the final position of the node. The float values should still be available to code doing the movement of the nodes and this wouldn't be so easy to implement. The float values would be used only when updating the position of nodes, the engine would only see the rounded position. This could be another way of looking at a possible solution but I don't think it could be implemented properly outside of the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-10-24T11:56:24Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11018,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add setting \"Snap 2D transform to pixel\" for the physics",
+  "up": 0,
+  "updatedAt": "2026-06-03T18:32:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11018"
+}

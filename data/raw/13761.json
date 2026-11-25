@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's already part of core somewhat.",
+    "format": "form",
+    "workaround": "I mean, yes. I know it's not a super useful feature, but since it's already in the editor, I don't know why it's not available through gdscript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-30T15:11:24Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13761,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose the CollisionPolygon2D \"move gravity center to geometric center\" function to the scripting API",
+  "up": 0,
+  "updatedAt": "2025-12-01T23:39:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13761"
+}

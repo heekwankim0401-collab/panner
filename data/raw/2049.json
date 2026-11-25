@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Good performance in 3D scenes should be built into the engine, not reliant on third party assets that might not be up to date.",
+    "format": "markdown",
+    "workaround": "This enhancement would be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-05T17:55:47Z",
+  "comments": 14,
+  "createdAt": "2020-12-30T08:34:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2049,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement static objects and batching in Godot",
+  "up": 9,
+  "updatedAt": "2021-02-05T17:56:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2049"
+}

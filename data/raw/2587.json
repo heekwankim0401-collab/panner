@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes! Because it's a core feature. I know no other ways to do this.",
+    "format": "markdown",
+    "workaround": "No it's can't be worked around because it's a core feature."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-14T06:01:20Z",
+  "comments": 0,
+  "createdAt": "2021-04-11T13:31:34Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 2587,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement getsockname and poll socket functions",
+  "up": 0,
+  "updatedAt": "2021-05-14T06:01:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2587"
+}

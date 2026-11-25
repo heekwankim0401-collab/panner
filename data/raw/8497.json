@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an improvement on an already establish module",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-11-22T19:17:51Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 8497,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change the A* heuristic for navigation to be admissible, guaranteeing the shortest path across regions and links with varied travel cost",
+  "up": 4,
+  "updatedAt": "2023-11-23T16:12:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8497"
+}

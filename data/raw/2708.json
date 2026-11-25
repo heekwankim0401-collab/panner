@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should be core because its a small feature that can improve godots export variables area.",
+    "format": "markdown",
+    "workaround": "a workaround I have found would be to use a function, since the export is initialized, you can call a function return a value, but this has its limitations"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-11T19:08:46Z",
+  "comments": 16,
+  "createdAt": "2021-05-10T14:21:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2708,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Set the export variables first before the rest of the variables in the script.",
+  "up": 0,
+  "updatedAt": "2021-05-11T19:11:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2708"
+}

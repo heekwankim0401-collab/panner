@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It should be intuitive that a TileMap made with tiles from a texture with normals should also have normals. Adding normals to tilesets in 3.x was possible, but I can't figure out a way to do it in 4.0, and nobody in the Godot discord seems to be able to either.",
+    "format": "form",
+    "workaround": "No, I tried to overcome this using GDScript and shaders, but nothing worked"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-09T16:22:46Z",
+  "comments": 3,
+  "createdAt": "2022-05-25T00:47:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4587,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Retrieve normal map from CanvasTexture atlas in TileSet/TileMap",
+  "up": 5,
+  "updatedAt": "2022-11-09T16:22:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4587"
+}

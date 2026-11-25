@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "improve ui usability",
+    "format": "form",
+    "workaround": "this is an often case, can be made with a script"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-02-22T18:26:40Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6341,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a string case property in all Control nodes that can display text",
+  "up": 0,
+  "updatedAt": "2023-02-24T19:09:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6341"
+}

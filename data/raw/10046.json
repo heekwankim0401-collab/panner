@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "--",
+    "format": "form",
+    "workaround": "--"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-26T17:39:08Z",
+  "comments": 0,
+  "createdAt": "2024-06-26T17:38:09Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10046,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to use sdf functions in canvas_item shaders outside of fragment() and light(), e.g. in helper functions",
+  "up": 0,
+  "updatedAt": "2024-06-26T17:39:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10046"
+}

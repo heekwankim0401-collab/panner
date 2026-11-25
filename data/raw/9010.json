@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No, it should core.",
+    "format": "form",
+    "workaround": "None"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-02T04:10:18Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9010,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move GraphNodeTitleLabel's font_color to GraphNode's title_font_color",
+  "up": 0,
+  "updatedAt": "2024-02-02T16:03:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9010"
+}

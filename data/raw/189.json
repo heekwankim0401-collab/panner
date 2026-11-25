@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's too small of a UX improvement to justify a download in the asset library.",
+    "format": "legacy",
+    "workaround": "It would be used often I believe by people who experiment a lot, by people who learn the engine, by people who want to try out different things quickly, by people who have had the same frustration with their muscle memory."
+  },
+  "assignees": 0,
+  "closedAt": "2019-10-30T09:05:29Z",
+  "comments": 7,
+  "createdAt": "2019-10-29T17:42:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 189,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"set as main scene\" to the context menu in the Filesystem when RMB clicking on .tscn files",
+  "up": 3,
+  "updatedAt": "2020-08-05T07:55:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/189"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While this system can be done as an addon, it is far from optimal.\nTo get accurate results you first use get_simple_path() from starting location to every single NavLinkPath-start location, then from every single NavLinkPath-end location to every single NavLinkPath-start location, then finally from every single NavLinkPath-end location to the final destination, use Dijkstra or A* on the resulting navigation connections. The NavLinkPath-end to NavLinkPath-start paths can be pre-computed but this still leaves us (2 * NavLinkPath_count + 1) number of calls to get_simple_path(). If this was a core feature the links could be part of normal path finding, which should add a minimal additional CPU time cost once the navmesh has been baked.\n\nPersonally I don't have a rush on this feature as I can get by with an addon and I don't have plans to port this to mobile. But it is something I consider an essential feature in the long term.\n\nThanks for your time. :)",
+    "format": "markdown",
+    "workaround": "I consider this to be the biggest missing feature of Godot's navigation system. I'm fairly certain this system would be eventually used to some extent by most users if it was more readily available and configurable.\n\nThis system can be done with scripts but not easily and not cheaply, requiring exponentially growing number of calls to \"get_simple_path()\" as the navigation link system grows."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-01T21:57:33Z",
+  "comments": 24,
+  "createdAt": "2021-03-30T03:41:09Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.0",
+  "number": 2527,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add navigation links/jumps so navigation agents can move from one position of the navigation mesh into another directly",
+  "up": 18,
+  "updatedAt": "2022-09-01T21:57:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2527"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it improves the particle effect system",
+    "format": "form",
+    "workaround": "it can be worked around by using a 3d sprite\nnot with a few lines of script"
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-22T15:55:27Z",
+  "comments": 2,
+  "createdAt": "2021-12-20T18:52:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3703,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement aligning billboards to an arbitrary axis in Particles ProcessMaterial",
+  "up": 0,
+  "updatedAt": "2021-12-22T16:55:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3703"
+}

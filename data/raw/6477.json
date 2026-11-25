@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Part of core functions.",
+    "format": "form",
+    "workaround": "Yes it can be worked around pretty easily but the same workaround must be done every time, for every function call that needs it, which makes the code look bloated and more complicated than it actually is."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-10T21:35:24Z",
+  "comments": 1,
+  "createdAt": "2023-03-10T20:57:11Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6477,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a \"try_yield\" function.",
+  "up": 0,
+  "updatedAt": "2023-03-10T21:39:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6477"
+}

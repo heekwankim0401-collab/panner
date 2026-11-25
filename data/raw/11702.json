@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "yes",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-02-05T03:15:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11702,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to filter the global scope functions that `Expression` has access to",
+  "up": 0,
+  "updatedAt": "2025-02-05T16:49:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11702"
+}

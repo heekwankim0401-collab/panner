@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it makes the workflow easier to anyone create a more variety of shaders without depending on CPU part, as this is already automated.",
+    "format": "legacy",
+    "workaround": "Indeed yes, just assigning the global transform of the node with set_shader_param to shader everytime the node moves."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-07-14T21:35:41Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.x",
+  "number": 1195,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `INV_PROJECTION_MATRIX` built-in to CanvasItem Shader",
+  "up": 5,
+  "updatedAt": "2023-02-24T05:44:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1195"
+}

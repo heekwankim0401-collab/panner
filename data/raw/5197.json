@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same as above, can be made as an external addition to replace the existing system, but that seems counterproductive.",
+    "format": "form",
+    "workaround": "The behavior in the `MenuButton` can be replicated, but the problem is that the code in `menu_button.cpp` is isolated and cannot be affected without dirty hacks (in the engine) or at all (in scripting). So a custom system can be scripted to replace the existing behavior completely, but IMO it doesn't make sense when we already have the backbone of this feature and only need to share it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-08-18T14:32:29Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5197,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make \"switch on hover\" a feature of all buttons, not just `MenuButton`",
+  "up": 5,
+  "updatedAt": "2022-08-18T14:32:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5197"
+}

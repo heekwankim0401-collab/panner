@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Already part of core.",
+    "format": "legacy",
+    "workaround": "Trivial (but painful) for black and white gradients by switching leftmost and rightmost grabbers manually, *not* trivial for anything else."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-08T19:53:44Z",
+  "comments": 2,
+  "createdAt": "2020-10-25T16:56:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1724,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a button to reverse a Gradient resource in the editor",
+  "up": 4,
+  "updatedAt": "2021-11-08T19:53:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1724"
+}

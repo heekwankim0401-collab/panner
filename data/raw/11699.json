@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's in the core.",
+    "format": "form",
+    "workaround": "There's no way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-02-04T13:42:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11699,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `pp_level` to VideoStreamPlayer to control post-processing levels",
+  "up": 0,
+  "updatedAt": "2025-02-11T17:42:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11699"
+}

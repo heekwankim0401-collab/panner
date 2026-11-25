@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's improving the readability of those properties, if it's not a reason for them to be called like this?\n(i might have missunderstand the function of this ??)",
+    "format": "form",
+    "workaround": "Everytime someone uses Axis lock."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-03-03T11:41:57Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6411,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename Axis Lock properties",
+  "up": 3,
+  "updatedAt": "2023-03-03T20:42:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6411"
+}

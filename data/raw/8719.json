@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "One-liner addons are counterproductive.",
+    "format": "form",
+    "workaround": "It can be worked around, but it's annoying when you need it often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-12-23T17:47:24Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8719,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Vector3(Vector2, float)` constructor to Vector3",
+  "up": 15,
+  "updatedAt": "2026-08-10T20:31:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8719"
+}

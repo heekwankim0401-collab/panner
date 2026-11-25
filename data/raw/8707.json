@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's an operating system with potentially millions of users, and it's unwise to limit native support to Unity as the sole game engine.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-02T17:44:01Z",
+  "comments": 8,
+  "createdAt": "2023-12-21T15:06:40Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:platforms",
+    "topic:xr"
+  ],
+  "milestone": "4.5",
+  "number": 8707,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add visionOS Support",
+  "up": 1,
+  "updatedAt": "2025-12-02T17:44:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8707"
+}

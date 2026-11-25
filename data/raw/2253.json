@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "CSG is Core, It makes sense to have it Functional in Core instead of having a Broken (Possibly on a fundamental level even) Core and a Functional Addon.\n\nNotes:\n1. I'd Work on re-Implementing/fixing CSG in Godot myself, However I'm not proficient enough with C++ to do so.\n2. ~~There are some Special Cases that need to be checked with the 1st Intersection checking stage, which I've worked around in the Project example, which could probably be done a lot better.~~ I've Rewritten the example, it'll be cutting faces in a separate pass after all the intersection points are gathered, and then it'll just Draw out the polygons that are to be deleted/kept (depending on operation) - this method is used for both child and parent triangles\n3. The Project is ~~WIP and Will be Updated Periodically as I get past milestones (Triangle Spliting, Cutting unwanted triangles out of the mesh, etc..)~~ ~~Abandoned due to technical issues with mesh separation, latest version is posted above if you care to try and figure out what I could not.~~ - Figured out Mesh Separation, however properly drawing out triangles is the issue now, in fact it's the last hurdle to a functional Reliable CSG \n4. Probably Best Wait for the Whole Proof of Concept Project to be Finished (if it ever does) and use it as Base for the rework.\n5. In the unlikely case that someone works on the Prototype and makes progress on it, please comment what you have and where you are stuck, as I'll still be following this closely and might be of some help.",
+    "format": "markdown",
+    "workaround": "No\n\nHowever https://github.com/godotengine/godot-proposals/issues/892 could potentially get the current CSG bugs to be Far less common & far less visible as the main issue is the Snap.. the smaller it can be, the less cases where the bugs show up and are noticable - however how effective that will be in reality is unclear right now."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-11T08:19:45Z",
+  "comments": 2,
+  "createdAt": "2021-02-06T17:47:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2253,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rework CSG algorithms to be more reliable",
+  "up": 0,
+  "updatedAt": "2021-02-22T11:43:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2253"
+}

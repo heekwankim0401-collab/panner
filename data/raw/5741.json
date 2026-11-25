@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I believe this option should be available by default for all web exports. Using a GDExtension plugin instead would add an unnecessary dependency on GDExtension to the web export for those who use it.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-11-07T18:19:23Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:gui",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 5741,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a backend for `TextServer` using the `CanvasRenderingContext2D` web API",
+  "up": 2,
+  "updatedAt": "2023-12-26T18:10:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5741"
+}

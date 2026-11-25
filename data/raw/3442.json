@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is a core feature.  I don't think the importers can be modified with an addon.",
+    "format": "form",
+    "workaround": "You just have to remember with each file you import to set the framerate to match that which you had in blender or whatever software to use to animate."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-19T22:52:13Z",
+  "comments": 2,
+  "createdAt": "2021-10-19T01:39:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:animation",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3442,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Import animations at the framerate (fps) used in the imported file (by default)",
+  "up": 0,
+  "updatedAt": "2021-10-19T22:55:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3442"
+}

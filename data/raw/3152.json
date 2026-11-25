@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Is a core editor feature, affects scene and script parsing.",
+    "format": "form",
+    "workaround": "No, it can't have simple workarounds."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-08-16T19:18:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3152,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to recover scene's exported values with old variable names",
+  "up": 23,
+  "updatedAt": "2025-01-21T09:19:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3152"
+}

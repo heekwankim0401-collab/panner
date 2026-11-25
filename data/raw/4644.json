@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Mostly convenience.",
+    "format": "form",
+    "workaround": "It can be worked around by a script, but it's not user friendly to have to attach a script to every node whose scale i want to keyframe in a more streamlined way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2022-06-09T12:52:54Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4644,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a scale multiplier property, so that the scale vector can be keyframed with a single value.",
+  "up": 0,
+  "updatedAt": "2022-06-09T16:03:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4644"
+}

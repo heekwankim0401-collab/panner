@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a gdscript language feature and therefore can't be made into an add-on",
+    "format": "legacy",
+    "workaround": "It *can* be worked around by adding a node of the specific type below and attaching the script on that one, but it's not really a comfortable way of doing things\n\nAnother way would be to outsmart the type system:\n```gd\nvar body = self\nbody.some_func_on_body()\n```\nBut this is confusing to read and does not benefit from type checks"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-04-11T20:46:04Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 698,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow stricter base types when extending a script",
+  "up": 2,
+  "updatedAt": "2020-11-06T19:08:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/698"
+}

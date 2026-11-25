@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can technically be an add-on, but the point here is that this functionality *must* be built-in to achieve the desired goal (which is, forcing V-Sync behavior on any project made with Godot).",
+    "format": "markdown",
+    "workaround": "Technically, yes, but the project will need to be modified for it (see below). Also, implementing this functionality with a script will not make this option easy to discover as it won't be standardized across all Godot projects. It will not be mentioned in the command line help either, and the legacy V-Sync options will remain available."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-12-02T12:40:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 1923,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `--vsync` command line argument to control V-Sync status on startup",
+  "up": 8,
+  "updatedAt": "2023-03-25T17:26:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1923"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In addition to the last paragraph, it is more efficient to do the physics and rotation calculations natively instead of having it as an add-on. \n\nThis is important for almost every physics based game out there. That's why Unity's Configurable Joints comes with the \"targetRotation\" property. The down side is that they still need an addon to make it easier to use... we can improve upon that through Godot.\n\nMoreover, this property should be in core instead as joint nodes are already in core.",
+    "format": "form",
+    "workaround": "No, being able to set target rotations on configurable joints has been a standard in Unity and other game engines. From active ragdolls to animated physics based vehicles and props it is essential to be able to control and rotate joints.\n\nAlthough there is already prior work of addons, albeit incomplete, implementing world space to local space rotation calculations and the proper torque calculations, let alone coding the property to every rotating joint node both 2D and 3D would take more than a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-03T13:13:05Z",
+  "comments": 8,
+  "createdAt": "2022-01-29T12:55:06Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.8",
+  "number": 3891,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add motor/target_rotation property to Joint Nodes",
+  "up": 29,
+  "updatedAt": "2026-07-03T13:13:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3891"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be core so that my projects (and others) can be addons on the asset library.",
+    "format": "form",
+    "workaround": "No, animation nodes cannot be extended in eithe GDScript of GDExtension"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-13T22:23:09Z",
+  "comments": 2,
+  "createdAt": "2024-11-09T16:18:10Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:gdextension"
+  ],
+  "milestone": "4.4",
+  "number": 11123,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `AnimationNodeExtension` node",
+  "up": 3,
+  "updatedAt": "2024-12-13T22:23:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11123"
+}

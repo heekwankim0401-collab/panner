@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't believe addons can modify the Project Manager.",
+    "format": "form",
+    "workaround": "It likely won't be used super often, and can be worked around by using the command line to open the project, rather than the Project Manager. However, this requires the user to locate the Godot executable (extra time-consuming on macOS due to the way apps are structured) and ensure the command-line arguments are all correct.\n\nThe current method of enabling verbose mode (holding Alt/Option) is out of the way of regular use, so it doesn't clutter the UI."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-28T16:36:17Z",
+  "comments": 0,
+  "createdAt": "2025-03-09T22:12:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 11956,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow users to open projects in verbose mode from Project Manager",
+  "up": 4,
+  "updatedAt": "2025-03-28T16:36:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11956"
+}

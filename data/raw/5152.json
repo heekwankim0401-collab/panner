@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`Image` is core class.",
+    "format": "form",
+    "workaround": "Yes, e.g.:\n```gdscript\nimg.rotate_90(CLOCKWISE)\nimg.flip_x()\n```\nBut it's slower than it could be which in case of image manipulation is likely to be an issue. And it's not as clear as `img.transpose()`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-08-11T21:29:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5152,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Image.transpose` method",
+  "up": 5,
+  "updatedAt": "2022-08-11T21:30:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5152"
+}

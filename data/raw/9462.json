@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot be an add-on, as it changes how GDExtensions are registered with godot.",
+    "format": "form",
+    "workaround": "Any solution we can come up with in gdext will require some amount of overhead, or will require users of the library to write unusual code using unsafe rust. We can for instance:\n\n1. Pass a null terminated list. This makes `free_property_list` always have linear time overhead. \n2. Store the length in a hashmap of array pointers to array lengths. This requires extra allocation.\n3. Require the user of the library to uphold the safety contract. This is highly discouraged in rust unless absolutely necessary, which this really shouldn't be.\n4. Make some kind of header struct which stores the length, and then stores the array afterwards. However rust does not have a way of safely doing this at the moment except in very specific cases."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-29T08:15:37Z",
+  "comments": 0,
+  "createdAt": "2024-04-06T18:56:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": "4.3",
+  "number": 9462,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot should pass count when freeing the property list of GDExtension classes ",
+  "up": 2,
+  "updatedAt": "2024-04-29T08:15:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9462"
+}

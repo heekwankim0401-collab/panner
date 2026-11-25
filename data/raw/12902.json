@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Thor is already included in the engine. The page that the Godot documentation links to to show what part of the spec is supported ([Support is limited](https://www.thorvg.org/about#:~:text=among%20the%20svg%20tiny%20specs%2C%20yet%20unsupported%20features%20in%20the%20thorvg%20are%20the%20following)) explicitly mentions SVG-filters, so many godot-users will get the impression that these are already available.",
+    "format": "form",
+    "workaround": "Obviously all these filters can be implemented in a dozen different ways: You can use shaders to blur stuff, or copy your assets to create faux drop-shadows. But this is pretty cumbersome, what makes SVG's great is that they can be very expressive: you need only a few lines to create very complex images."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-30T17:15:01Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12902,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for SVG-filter functionality (drop-shadow, gaussian blur) by exposing ThorVG scene-effects .",
+  "up": 0,
+  "updatedAt": "2025-07-30T18:19:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12902"
+}

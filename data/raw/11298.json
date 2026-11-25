@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "VisualShader is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-12-06T13:04:28Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 11298,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add universal math visual shader nodes that automatically work with floats and vectors",
+  "up": 0,
+  "updatedAt": "2024-12-06T13:20:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11298"
+}

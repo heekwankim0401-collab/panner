@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This question does not apply.\n\n# Nightly builds\n\nAs an optional feature, a pre-release GitHub Release can be used to provide Godot tarballs which are in sync with `master`. Action https://github.com/eine/tip/ allows to gather all the artifacts of a workflow and push them as assets of a pre-release. At the same time, the git tag is updated, so that the pre-release points to the commit that produced the latest available tarballs/assets. See, for example:\n\n- https://github.com/ghdl/ghdl/blob/nightly/.github/workflows/push.yml#L156-L168\n  - https://github.com/ghdl/ghdl/releases/tag/nightly\n- https://github.com/umarcor/hwstudio/blob/godot/root/.github/workflows/build.yml#L92-L138\n  - https://github.com/umarcor/hwstudio/releases/tag/nightly\n\nRef: https://hugo.pro/projects/godot-builds/",
+    "format": "legacy",
+    "workaround": "Contributors might enable it in their forks, but it would be really cumbersome."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-16T02:10:39Z",
+  "comments": 24,
+  "createdAt": "2020-08-25T14:15:52Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": "4.0",
+  "number": 1412,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide PR artifacts and nightly builds",
+  "up": 6,
+  "updatedAt": "2020-10-16T06:51:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1412"
+}

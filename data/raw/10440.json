@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is such a no-brainer in my opinion. How often would it be easier to be able to generate a solid color in the engine rather than having to make one in a third party software? Need to make a 3x1 pixel slightlyh blue line for rain particles? Just create a new SolidTexture resource, specify it's size and pick a color. Want to make a panel frame and be able to modulate the background inside the frame for UI? Create a SolidTexture resource on a TextureRect with a 9PatchRect as a child for the frame. Now you can recolor the backing independently.",
+    "format": "form",
+    "workaround": "Could do this with a tool script to automate the setup process by assigning a saved Gradient2D.tres file to a TextureRect. Also making an export variable that updates the gradient color. Would still be easier with a versatile and simple solid color solution.\n\nYou can also make a 1x1px white Gradient2D and use the modulate property to achieve the same result. I just think it'd be more intuitive for newcomers to see the option to create one where you create similar resources rather than figuring it out by jumping through hoops to and find workarounds."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-14T14:09:14Z",
+  "comments": 1,
+  "createdAt": "2024-08-14T13:26:12Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10440,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a new solid color TextureResource ",
+  "up": 1,
+  "updatedAt": "2024-08-14T14:09:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10440"
+}

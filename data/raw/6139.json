@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Modifies core behavior",
+    "format": "form",
+    "workaround": "AFAIK there's no way to change icon sizes of `PopupMenu`s from scripts."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-06T17:01:27Z",
+  "comments": 3,
+  "createdAt": "2023-01-21T13:33:54Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.1",
+  "number": 6139,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to expand/set icon size in PopupMenu",
+  "up": 3,
+  "updatedAt": "2023-05-06T21:32:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6139"
+}

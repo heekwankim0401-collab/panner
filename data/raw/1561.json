@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Have to modify the build system itself so the rest of the community can benefit from this.\n\nI can implement this myself, having previously worked on `custom_modules` support in godotengine/godot#36922.",
+    "format": "legacy",
+    "workaround": "You have to constantly remind people that they must rename the module directory name in order to successfully compile a module. In fact, I've even [written some documentation in Goost](https://goost.readthedocs.io/en/gd3/development/modules.html#adding-community-modules) which reflects this limitation.\n\nThis is how it should be done currently:\n```bash\n# Cloning properly:\ngit clone https://github.com/Xrayez/godot-anl anl\n# Adding as submodule in another git project:\ngit submodule add --name anl https://github.com/Xrayez/godot-anl modules/anl\n```\n\nYet some people go as far as to just fork a module and modify those names directly in their forks...\n\nSome modules better follow the previously mentioned naming convention because:\n1. It doesn't make sense to give a different repository name in case a module simply acts as a wrapper for another C++ library adapted to work with Godot types.\n2. Do not want to create confusion with other large projects, as may be the case in https://github.com/GodotExplorer/ECMAScript, for instance."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-09-24T13:40:03Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 1561,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to customize C++ module name by not relying on module's directory name",
+  "up": 4,
+  "updatedAt": "2021-08-12T10:34:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1561"
+}

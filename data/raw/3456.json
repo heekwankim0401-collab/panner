@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "User-friendliness for new users.",
+    "format": "form",
+    "workaround": "I don't see a workaround except enabling the auto-reload for all files with some plugin, which will make this dialogue window disappear. But it will not make this window easier to understand for new users."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-25T04:56:57Z",
+  "comments": 13,
+  "createdAt": "2021-10-21T08:57:55Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 3456,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make a dialogue window \"The following files are newer on disk\" easy to understand",
+  "up": 12,
+  "updatedAt": "2024-12-25T04:57:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3456"
+}

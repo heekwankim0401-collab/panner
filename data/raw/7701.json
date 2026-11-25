@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's about exposing an existing feature to make it useful",
+    "format": "form",
+    "workaround": "it would be used relatively often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-09-17T07:54:31Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7701,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "expose `Shader`s' `set_default_texture_parameter` as a parameter in the inspector",
+  "up": 5,
+  "updatedAt": "2024-03-03T19:22:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7701"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The reason is because it would be super simple to setup all in a node structure. Give it the group name \"navigation_mesh_source_group\", and even objects with a mesh as navmesh could be baked into one big static navmesh. So it can all be seperated blend files.",
+    "format": "form",
+    "workaround": "Yes, no. Not tested it, but for sure you can create a merged Navmesh in some way, and add it to the \"NavigationRegion3D\" via code.\nAlso there is the Blender suffix -navmesh. But it creates a NavigationRegion3D node. Also you can't export a Navmesh in Godot when going over .blend file import settings. Maybe also a thing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-01-18T14:14:33Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 11601,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add custom navmesh baking option to NavigationRegion3D",
+  "up": 0,
+  "updatedAt": "2025-01-18T15:53:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11601"
+}

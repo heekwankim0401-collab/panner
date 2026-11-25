@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think this could be implemented as an addon",
+    "format": "legacy",
+    "workaround": "well instead of\n```gdscript\nvar last_item = pool_str.pop_back()\n```\nI could do something like\n```gdscript\nvar size = pool_str.size()\nvar last_item = pool_str[size-1]\npool_str.remove(size-1)\n```\nbut I'm not sure if it will work as fast as if it were a built-in method.\n\nalso as you can see it doesn't look so clear.\nbesides, I'm not sure if it is possible to move this part of the code into a separate method, and even if it is possible, if such a method would be convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-07-18T09:35:33Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1213,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `pop_back()` and `pop_front()` methods to Pool*Array/ Packed*Array",
+  "up": 13,
+  "updatedAt": "2022-07-04T21:56:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1213"
+}

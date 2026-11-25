@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It affects the core Godot UI.\n\nNote: Discussed in #3485",
+    "format": "form",
+    "workaround": "It would be used often and writing a script for this is not intuitive or simple."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2021-11-04T01:06:17Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 3494,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a shader property to the StyleBox resource",
+  "up": 32,
+  "updatedAt": "2026-09-22T05:02:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3494"
+}

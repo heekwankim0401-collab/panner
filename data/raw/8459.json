@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Nine patch is already part of core and this sort of thing is also supported in raylib.\nIt's basically a 2x3 or 3x2 patch depending on the axis stretch modes but you still define the nine patch region like it's a 3x3 patch.",
+    "format": "form",
+    "workaround": "I don't know if this can be worked around but if it can let me know.\nI would add my own stretch mode but I don''t think that's possible"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-11-17T17:55:00Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8459,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a None stretch mode for nine-patch textures",
+  "up": 2,
+  "updatedAt": "2024-01-23T11:21:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8459"
+}

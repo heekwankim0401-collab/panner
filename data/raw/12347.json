@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The engine itself exposes the type information of its API.",
+    "format": "form",
+    "workaround": "Not in script, but it can be worked around by individual GDExtension bindings. This would however mean all APIs need to be manually special-cased, and that effort would need to be replicated for each binding, rather than once in Godot.\n\n<br>"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-01T09:34:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 12347,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve integer and float consistency (32/64-bit, signed/unsigned, float/double)",
+  "up": 7,
+  "updatedAt": "2025-05-01T14:01:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12347"
+}

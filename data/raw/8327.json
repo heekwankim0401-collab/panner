@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "做成附加组件也可以",
+    "format": "form",
+    "workaround": "js脚本"
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-01T08:37:13Z",
+  "comments": 1,
+  "createdAt": "2023-11-01T07:43:01Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8327,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "是否有意愿将界面的功能分离出来，或则能够兼容其他的界面库例如QT qml ",
+  "up": 0,
+  "updatedAt": "2023-11-01T08:55:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8327"
+}

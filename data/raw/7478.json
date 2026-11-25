@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Bit-wise conversion functionality should be the \"first class support\" not the external library or extension.\n\nTo improve performance one can consider making an SSBO/push_constant class as an extension/library in C++ instead of GDScript, though, which does not discards the requirement for bit-wise conversion functionality, especially for push_constant which must be low latency.",
+    "format": "form",
+    "workaround": "Bit-wise conversion will be very complicated  in GDScript in this case. I'm not as advanced in GDScript to say that this is impossible, though I found no easy way here."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-16T13:10:58Z",
+  "comments": 4,
+  "createdAt": "2023-08-11T10:31:05Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7478,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Convert an array into byte stream for SSBO and push_constant uniform fill out.",
+  "up": 0,
+  "updatedAt": "2023-08-16T13:27:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7478"
+}

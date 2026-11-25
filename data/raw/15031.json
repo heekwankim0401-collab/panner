@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-06-19T02:39:09Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 15031,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `time_scale` to RichTextLabel, for controlling playback speed of RichTextEffect.",
+  "up": 7,
+  "updatedAt": "2026-06-20T00:11:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15031"
+}

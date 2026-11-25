@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This modifies important properties of the Control node, so I don't thing this could be an addon.\n\nI Understand this would be a large change with consequences to existing games, but since godot has a major version in the horizon I didn't want to let this idea die without sharing it. Thanks for reading up to this point.",
+    "format": "legacy",
+    "workaround": "It would be used often, since UI is present in every game. It also does not exclude the container workflow, but gives more control of where each container could be in relation to each other."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T14:46:13Z",
+  "comments": 1,
+  "createdAt": "2020-08-02T18:36:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 1296,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace margins and anchors with an alternative system",
+  "up": 11,
+  "updatedAt": "2023-12-31T14:46:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1296"
+}

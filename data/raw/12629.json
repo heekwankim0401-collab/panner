@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While it’s trivial to work around with a helper method, this issue is so common for Godot users that it deserves a first-class solution in the engine core.\n\n---\n\n> I've read this similar proposal. Not a fan of the approach. Often, I want to rerun the tween but with slightly different parameters, so reusing the exact same tween isn't always ideal.\nhttps://github.com/godotengine/godot-proposals/issues/8966",
+    "format": "form",
+    "workaround": "N/A as this enhancement would be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-06-18T17:11:18Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12629,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Better API for \"if tween then kill\" check",
+  "up": 14,
+  "updatedAt": "2025-10-28T01:12:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12629"
+}

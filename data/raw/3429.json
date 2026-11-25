@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as fog is implemented in the renderer itself and can't be overridden for all materials at once. https://github.com/godotengine/godot/pull/41415 allows overriding fog on a per-material basis, but this means people would have to use their custom materials everywhere instead of BaseMaterial3D."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-18T10:26:36Z",
+  "comments": 5,
+  "createdAt": "2021-10-14T23:27:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.3",
+  "number": 3429,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a hard cutoff property to Environment fixed fog (for open world fog fading)",
+  "up": 15,
+  "updatedAt": "2024-02-18T10:26:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3429"
+}

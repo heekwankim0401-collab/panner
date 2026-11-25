@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Need to export internal interfaces; plugins cannot achieve this.",
+    "format": "form",
+    "workaround": "cannot"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-02-18T11:39:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 11798,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to add, remove and manage files to be added to the PCK in EditorExportPreset",
+  "up": 2,
+  "updatedAt": "2025-02-18T13:42:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11798"
+}

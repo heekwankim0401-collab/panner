@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is part of core",
+    "format": "form",
+    "workaround": "For the `Project Manager`, yes, but as mentioned above it just requires more clicks.\nFor the command line, no, it is impossible to create projects from the command line."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-03T19:57:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7978,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Augment Project Manager and --path to create the directory if it doesn't exist for slightly quicker project creation",
+  "up": 1,
+  "updatedAt": "2023-10-03T21:01:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7978"
+}

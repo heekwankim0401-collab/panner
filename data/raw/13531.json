@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "FileSystem is core.",
+    "format": "form",
+    "workaround": "You can look up the folder in the file manager of your OS to see what plugins are there, and you can move .gd files outside of the plugins folder so that they appear... but neither of these are desirable solutions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-01T09:31:01Z",
+  "down": 0,
+  "labels": [
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 13531,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show folders and `.gd` files in `res://ios/plugins` folders",
+  "up": 0,
+  "updatedAt": "2025-11-03T15:30:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13531"
+}

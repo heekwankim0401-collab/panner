@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This change affects all Godot users equally; Godot users already have control over how much screen space various aspects of the engine take up, this just gives them more control that they should have had to begin with.",
+    "format": "form",
+    "workaround": "This should be used almost universally, but if it is not, it is an editor setting that can be disabled."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-23T19:22:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12488,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to force Vector property labels and values onto the same line",
+  "up": 4,
+  "updatedAt": "2025-05-24T18:40:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12488"
+}

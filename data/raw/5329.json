@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I mean, even besides the fact that I will have to change the whole structure of my scene, just discovering what was actually going on wasted lots of time and made me some headaches. All this could turn off some newbies who have no way of knowing this (such a \"limitation\" of CanvasLayers is not well explained in the official documents). And, all could be avoided by a simple feature :)",
+    "format": "form",
+    "workaround": "The workaround is not easy, especially in a case like mine. Imagine building a game from scratch, with a mindset of having several CanvasLayers with in-game objects as their children. Then, later in development, I decided to use Camera2D node. But, surprise surprise, it doesn't work as expected, and everything is stuck on the same screen except for a few objects, messing everything up."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-04T15:11:11Z",
+  "comments": 4,
+  "createdAt": "2022-09-04T14:31:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5329,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "CanvasLayer is NOT affected by Camera2D... give me the option to make it possible!",
+  "up": 0,
+  "updatedAt": "2022-09-18T20:55:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5329"
+}

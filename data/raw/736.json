@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I dont know if this would be possible to do as an addon.",
+    "format": "legacy",
+    "workaround": "I would see this as a permanent change as this would only affect macOS anyways. Maybe leave in a option to allow the user to revert to the old menu behavior?"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-23T10:53:07Z",
+  "comments": 2,
+  "createdAt": "2020-04-20T11:01:23Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 736,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add native menubar support on macOS (global menu)",
+  "up": 3,
+  "updatedAt": "2022-08-23T10:53:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/736"
+}

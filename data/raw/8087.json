@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It requires handling data directly related to scenes and signals, which are core entities.",
+    "format": "form",
+    "workaround": "The only currently possible work-around is to save the branch of Nodes in their own Scene."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-10-12T18:59:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8087,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "There should be an easier way to duplicate signal connections setup via editor with advanced options",
+  "up": 4,
+  "updatedAt": "2023-10-14T17:49:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8087"
+}

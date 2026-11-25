@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it's much easier to implement it inside the AnimatedTexture, in my custom build I did it within a few lines of code. It might mean that we need to duplicate the resource a few times to play it separately but we already did a similar thing for fonts. \n\nMaybe misunderstood something about the engine structure, or the right way to handle this, please let me know. I'm willing to do a PR for this.\n![image](https://user-images.githubusercontent.com/37972124/78896535-3115ed80-7aa3-11ea-8ddb-02a8f46c030a.png)\n\nThis is what it looks like after I exposed the current_frame property. (And yes I know the setter need to use visual server a little bit).",
+    "format": "legacy",
+    "workaround": "The oneshot one can be done by disabling the texture exactly when it finishes, but I don't see anyway around the current_frame setter getter, if we for some reason want to skip frames randomly."
+  },
+  "assignees": 0,
+  "closedAt": "2020-04-29T07:15:03Z",
+  "comments": 1,
+  "createdAt": "2020-04-09T12:47:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 686,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add current_frame/pause/oneshot getter setter for AnimatedTexture?",
+  "up": 3,
+  "updatedAt": "2020-04-29T14:07:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/686"
+}

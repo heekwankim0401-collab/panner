@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Both SystemFont and the OS.get_system_fonts() function are core components, and the proposed support for getting and specifying font_style_names I think would allow them to be used as I think the original intention with the features was.",
+    "format": "form",
+    "workaround": "No, it's currently not possible to get a list of installed font family members, at least not via the Godot font system. Possibly you could try getting paths to the system font files and try to list the files in these directories and try guess based on the filenames. But this seems inefficient and prone to errors.\n\nIt is also not possible to select a specific known font style member of an installed system font. In simple cases (like if there's a \"Bold\" style) it could be selected by setting the font family name as SystemFont `font_names` and setting `font_weight` to a guessed value of what the \"Bold\" style would have. But this will be increasingly difficult with style names like \"Semi-Bold\", \"Book\", \"Roman\", \"Caption\", \"Display\" etc that may not just refer to weight (and you don't know if they exist for this font)."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-02-06T18:38:58Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11712,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add style_name support to SystemFont to allow using specific members of font families",
+  "up": 0,
+  "updatedAt": "2025-02-07T12:44:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11712"
+}

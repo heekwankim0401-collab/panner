@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If implemented, I think this feature would be used a high percentage of the time when awaiting a signal would happen, as it lets the developer utilize CancellationTokens with signals.",
+    "format": "form",
+    "workaround": "can be worked around as a complex extension method as shown above, which is overly complex for most developers to implement on their own."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-03-04T18:19:16Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 11909,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make awaiting Signals cancelable: Implementation for `SignalAwaiter.WaitAsync(CancellationToken ct)`",
+  "up": 12,
+  "updatedAt": "2025-07-10T22:08:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11909"
+}

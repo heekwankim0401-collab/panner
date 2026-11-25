@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Iterating children of a `Node` is common to almost every project. Might be a good QoL feature.",
+    "format": "form",
+    "workaround": "Yes. It can be done by adding the following to a project, however it'd be a nice-to-have as a built-in. There may be issues I haven't considered with adding it as a core feature, so if that's the case, this at least should be helpful for those who might like it in their project. Keep in mind it assumes you're not modifying the collection as you're iterating.\n\n```cs\npublic static class NodeExtensions\n{\n    public static NodeEnumerable<Node> GetEnumerable(this Node node)\n    {\n        return new NodeEnumerable<Node>(node);\n    }\n\n    public static NodeEnumerable<T> GetEnumerable<T>(this Node node) where T : Node\n    {\n        return new NodeEnumerable<T>(node);\n    }\n}\n\npublic struct NodeEnumerator<T> where T : Node\n{\n    private readonly int _count;\n    private readonly Node _node;\n    private int _index;\n    private T _next = null!;\n\n    public NodeEnumerator(Node node)\n    {\n        _node = node;\n        _count = _node.GetChildCount();\n        _index = -1;\n    }\n\n    public readonly T Current => _next;\n\n    public bool MoveNext()\n    {\n        while (++_index < _count)\n        {\n            if (_node.GetChild(_index) is T child)\n            {\n                _next = child;\n                return true;\n            }\n        }\n\n        return false;\n    }\n\n    public void Reset()\n    {\n        _index = -1;\n        _next = null!;\n    }\n}\n\npublic readonly struct NodeEnumerable<T>(Node node) where T : Node\n{\n    private readonly Node _node = node;\n    public readonly NodeEnumerator<T> GetEnumerator() => new(_node);\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-05-10T16:51:00Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 12404,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add alloc-free way to enumerate Node children in C#",
+  "up": 16,
+  "updatedAt": "2025-05-17T01:45:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12404"
+}

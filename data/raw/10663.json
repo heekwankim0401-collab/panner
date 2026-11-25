@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As many projects need this if they include boot splash, and when user prefers to use windowed or this is an application so there is a need to have this as launching executable and suddenly having borders and the transparent content seems unpleasant.",
+    "format": "form",
+    "workaround": "I have no idea how you can add script to boot splash."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-09-05T08:50:58Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10663,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Borderles during boot splash ",
+  "up": 0,
+  "updatedAt": "2025-07-12T15:20:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10663"
+}

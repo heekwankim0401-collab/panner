@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's simple and it's a function that should be default in NavigationAgent so it should be in the core.",
+    "format": "form",
+    "workaround": "I don't think it's very difficult to do, but it's a very important and time-saving feature."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-11T23:37:54Z",
+  "comments": 11,
+  "createdAt": "2023-01-26T22:23:06Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.3",
+  "number": 6181,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a function that returns a random point in the NavigationMesh",
+  "up": 14,
+  "updatedAt": "2025-03-06T00:52:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6181"
+}

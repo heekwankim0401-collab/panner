@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Basic usability feature",
+    "format": "legacy",
+    "workaround": "I'm not sure if this could be easily scripted, but I imagine this feature will be used quite often regardless."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-31T21:10:19Z",
+  "comments": 6,
+  "createdAt": "2020-06-18T16:54:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 1080,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Unfold inspector sections when dragging something over it",
+  "up": 9,
+  "updatedAt": "2023-08-31T21:10:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1080"
+}

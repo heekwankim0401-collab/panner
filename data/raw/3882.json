@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Sprite sheets are great, but they're not much use when you cannot get a specific region as a texture.",
+    "format": "form",
+    "workaround": "Not that I know of. What I have to do now is duplicate everything I have in my sprite sheets as individual graphic files that I use in code where a Texture is required."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2022-01-27T21:44:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3882,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to create a Texture from a Sprite region or AtlasTexture",
+  "up": 5,
+  "updatedAt": "2024-09-07T10:20:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3882"
+}

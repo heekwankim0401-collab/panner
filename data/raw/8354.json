@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be in core as it would allow programmers to easily load in read only filesystems at runtime for script/resource related stuff.",
+    "format": "form",
+    "workaround": "No, as there is also currently no implementation for creating temporary files."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-11-05T21:50:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8354,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a ZIPReader method to open a ZIP file from a PackedByteArray",
+  "up": 4,
+  "updatedAt": "2025-09-21T01:06:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8354"
+}

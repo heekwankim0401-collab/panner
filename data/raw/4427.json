@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "It can be done with an addon, but it would duplicate the base functionality which doesn't work for all meshes"
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-23T13:38:29Z",
+  "comments": 1,
+  "createdAt": "2022-04-22T18:35:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4427,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Outline mesh should auto-weld vertices",
+  "up": 1,
+  "updatedAt": "2022-04-23T13:38:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4427"
+}

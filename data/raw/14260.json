@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-02-17T17:12:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 14260,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an API to move/rename project files to `EditorFileSystem`, which works similarly to the FileSystem dock move operation",
+  "up": 6,
+  "updatedAt": "2026-02-20T11:09:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14260"
+}

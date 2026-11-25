@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Just something that could improve both UX and overall workflow.",
+    "format": "form",
+    "workaround": "Perhaps with an Editor Plugin? But I'm quite sure it is something that would be used pretty often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-02-05T10:15:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9029,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically switch to FileSystem dock when drag-and-dropping a resource to the editor window",
+  "up": 2,
+  "updatedAt": "2024-05-05T16:07:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9029"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Editor usability affects everyone using Godot.\n\nAfter using the editor for a couple years and doing some soul-diving, I noticed I was reluctant to make project setting changes or reimport files which would cause an editor restart. I think I noticed that access to my computer would be blocked for upwards of 10 seconds and thie makes me uncomfortable restarting the editor.\n\nThe issue makes me similarly reluctant to open projects from the Project Selector, so I found myself preferring to open projects from the console.",
+    "format": "form",
+    "workaround": "No: Editor window placement seems to occur before addons are loaded, and at the moment it opens a fullscreen window, usability of the computer is interrupted."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-12-20T04:03:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5966,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to default to non-maximized; and pass `-w` when relaunching from window",
+  "up": 2,
+  "updatedAt": "2023-04-16T10:01:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5966"
+}

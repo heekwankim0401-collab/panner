@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know how making this an add-on would work.",
+    "format": "legacy",
+    "workaround": "I don't think there's any way to not animate the effect with code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-10-11T03:48:20Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1646,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Custom RichTextLabel BBCode non-animated effects",
+  "up": 1,
+  "updatedAt": "2021-10-20T15:02:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1646"
+}

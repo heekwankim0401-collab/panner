@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This would improve the web export on Mac devices.",
+    "format": "form",
+    "workaround": "I guess you could implement these for your self, but it would take time, especially if you want to include all of the shortcuts."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-20T15:18:07Z",
+  "comments": 8,
+  "createdAt": "2022-01-04T19:19:40Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "platform:web",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 3754,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use macOS shortcuts in LineEdit and TextEdit when the host platform is macOS on HTML5",
+  "up": 5,
+  "updatedAt": "2024-05-20T15:18:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3754"
+}

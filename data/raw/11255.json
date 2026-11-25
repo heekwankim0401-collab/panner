@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "CSV is a very common format. Common enough that literally Godot itself uses it for translations. It is a little goofy that Godot has CSV support in theory but in practice requires finding a plugin or script that allows for importing CSV data **especially** at runtime without FileAccess. This would make CSV at least reasonably supported, rather than a hack that is just barely in so that Translations work. Also, adding something like this would allow for improving Godot's Translation import, since you could take arbitrary string data from a PackedByteArray instead of specifically relying on FileAccess, which limits what you can do and how you can access data. As it currently stands, Translations have to be manually constructed during runtime via FileAccess, and when you don't have FileAccess (streamed from online, ZIPReader, etc) you now have to rely on some script or plugin from god knows where just to parse this very common format.",
+    "format": "form",
+    "workaround": "I know CSV is supposed to be easy to parse, but parsing files isn't exactly \"few lines of script\" territory for the majority of things. CSV is also universal enough that it probably would get used more if Godot had decent CSV integration."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-11-28T21:51:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11255,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Decouple CSV parsing from FileAccess and move to a separate class",
+  "up": 4,
+  "updatedAt": "2024-12-09T15:19:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11255"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "core already",
+    "format": "form",
+    "workaround": "can't be worked around with a few lines of script"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-20T16:56:13Z",
+  "comments": 2,
+  "createdAt": "2023-09-20T08:16:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.2",
+  "number": 7759,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use a more donut-y icon for `TorusMesh` and `CSGTorus3D`",
+  "up": 3,
+  "updatedAt": "2023-09-20T16:56:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7759"
+}

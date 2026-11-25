@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No, but it should be in the core to make testing more easy",
+    "format": "legacy",
+    "workaround": "AFAIK,no."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-13T22:53:31Z",
+  "comments": 9,
+  "createdAt": "2020-01-11T08:16:29Z",
+  "down": 2,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 373,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add function to emulate features when playing the game from Editor",
+  "up": 12,
+  "updatedAt": "2024-02-13T22:56:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/373"
+}

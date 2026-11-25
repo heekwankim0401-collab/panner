@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Just a small quality of life improvement to better help someone get their bearings, when deep in a method that is large(r than it should be).",
+    "format": "form",
+    "workaround": "I'm not sure, but I would assume not. I find myself searching for this functionality fairly often, since it intuitively mirrors what the scripts panel above does."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-31T13:52:39Z",
+  "comments": 1,
+  "createdAt": "2024-08-31T13:39:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10617,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "In the text editor side panel, automatically highlight method currently in possession of caret",
+  "up": 0,
+  "updatedAt": "2024-08-31T13:52:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10617"
+}

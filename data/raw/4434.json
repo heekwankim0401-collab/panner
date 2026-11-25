@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The editor splash screen cannot be changed by an add-on.",
+    "format": "form",
+    "workaround": "The editor splash screen cannot be changed by a script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-04-23T21:49:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4434,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use editor theme color for editor splash screen",
+  "up": 5,
+  "updatedAt": "2022-04-24T01:37:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4434"
+}

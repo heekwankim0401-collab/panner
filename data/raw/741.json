@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Don't think load() can be changed by an add-on.",
+    "format": "legacy",
+    "workaround": "Not sure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-04-23T07:52:51Z",
+  "down": 2,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 741,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Prioritize files that are closer to the variable name in `load()`'s file suggestion list",
+  "up": 2,
+  "updatedAt": "2020-05-04T07:52:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/741"
+}

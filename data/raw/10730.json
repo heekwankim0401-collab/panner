@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GetWallNormal and GetFloorNormal are already in godot.",
+    "format": "form",
+    "workaround": "It would be used to check ceiling normals when colliding with a ceiling."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-09-12T20:58:39Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10730,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `get_ceiling_normal()` method to CharacterBody3D",
+  "up": 5,
+  "updatedAt": "2025-05-03T03:13:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10730"
+}

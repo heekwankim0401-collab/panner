@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-28T14:43:16Z",
+  "comments": 1,
+  "createdAt": "2024-08-06T19:43:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.4",
+  "number": 10381,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to make `RegEx` compilation quiet (i.e. not print an error to stdout).",
+  "up": 1,
+  "updatedAt": "2024-08-28T14:43:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10381"
+}

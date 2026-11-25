@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It gdscript based which is core",
+    "format": "legacy",
+    "workaround": "No it can't the only other way to do it is to use yield and it's more tedious and less controllable"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-13T21:18:03Z",
+  "comments": 35,
+  "createdAt": "2020-06-22T01:29:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1105,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for code animation",
+  "up": 0,
+  "updatedAt": "2021-08-13T21:18:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1105"
+}

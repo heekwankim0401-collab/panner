@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is one of the core tools of the TileMap feature of the engine. While it's probably possible to make it a plugin, this would be and improvement of the usability of said core feature.",
+    "format": "form",
+    "workaround": "I don't know if there's any way to work-around."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-25T15:49:55Z",
+  "comments": 2,
+  "createdAt": "2025-03-25T12:36:01Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12071,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Copy + Paste functionality to TileMap tile collision polygons",
+  "up": 0,
+  "updatedAt": "2025-03-25T15:50:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12071"
+}

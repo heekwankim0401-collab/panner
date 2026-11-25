@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would make tileMaps a lot more flexible to use, and more intuitive about what property belongs to what entity.",
+    "format": "form",
+    "workaround": "I don't think you can add a property to a node in-editor with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-19T02:41:51Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8187,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Tilemap: Give tilemaps the option to override tile size stored in the tileset",
+  "up": 2,
+  "updatedAt": "2023-11-04T06:56:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8187"
+}

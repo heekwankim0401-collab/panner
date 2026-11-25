@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think asset lib could do it, it is highly likely it requires core changes (but I could be wrong, I'm not a Godot developer)\n\nOriginal issue: https://github.com/godotengine/godot/issues/20280\n\nRelated issue:  https://github.com/godotengine/godot/issues/27911",
+    "format": "legacy",
+    "workaround": "Nope."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-23T20:56:05Z",
+  "comments": 1,
+  "createdAt": "2020-05-28T11:32:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 936,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add WorldEnvironment custom material override",
+  "up": 19,
+  "updatedAt": "2024-08-23T20:56:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/936"
+}

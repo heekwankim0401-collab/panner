@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Developers should have access to ways to minimize input lag in their projects as easily as possible.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-04T09:21:30Z",
+  "comments": 0,
+  "createdAt": "2022-09-18T17:17:50Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 5448,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename FPS limiting project setting and Engine property to be easier to discover",
+  "up": 4,
+  "updatedAt": "2022-10-04T09:21:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5448"
+}

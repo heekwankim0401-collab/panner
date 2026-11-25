@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`RichTextLabel` is part of core.",
+    "format": "form",
+    "workaround": "Unless I've missed something big, no it can't."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-10T17:24:13Z",
+  "comments": 1,
+  "createdAt": "2022-02-09T14:18:07Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3938,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add corresponding get_content_width() method for RichTextLabel",
+  "up": 3,
+  "updatedAt": "2022-02-10T17:24:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3938"
+}

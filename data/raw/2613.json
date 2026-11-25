@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would fix alot of null node errors",
+    "format": "markdown",
+    "workaround": "yes with null checks but you have to know why and when to do it"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-04-16T00:18:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2613,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "onready support for properties and exports",
+  "up": 0,
+  "updatedAt": "2021-08-15T23:03:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2613"
+}

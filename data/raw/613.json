@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The proposal is to change an existing method in a core class. You could write your own utility function that ignores the return value for you, but that's a rather patchy fix. This change would mainly benefit new users; avoiding the unnecessary hookup on the obscure error code.\n\n**Addendum**\nIt appears to me that the return code for `connect` is a remnant from another error handling pattern in earlier version of Godot that has changed a bit since. Even though it's a small annoyance, I'd say revising it falls under the ease-of-use policy.\nI would personally consider this to be a very simple change, though it is a breaking change. My hope is that it would be included in the 4.0 version.\n\nSome like the idea of still having a return code that is more detailed and useful while removing the error logs. There is no precedence for this in Godot beyond the non-deterministic functions like `File.open` as explained above. This proposal is for removing the return code in the default implementation of `connect` but would not oppose an optional method being devised to return an error code instead.",
+    "format": "legacy",
+    "workaround": "You can disable `return value discarded` warnings, type `var _err = connect(...)` or use an annotation `warning-ignore` to just ignore it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2020-03-21T15:48:33Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 613,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve `Object.connect` error handling",
+  "up": 18,
+  "updatedAt": "2024-08-24T22:24:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/613"
+}

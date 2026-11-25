@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core font rendering functionality.",
+    "format": "legacy",
+    "workaround": "No, as this is core font rendering functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-16T14:01:09Z",
+  "comments": 2,
+  "createdAt": "2020-10-22T12:18:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 1704,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for using variable fonts in DynamicFont",
+  "up": 13,
+  "updatedAt": "2020-12-16T14:01:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1704"
+}

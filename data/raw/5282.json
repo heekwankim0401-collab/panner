@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because movement is important, and decreasing fidelity that can be achieved by mid-level and high-level functions looks wrong. It can be in the asset library, or it can be left like it is, but then it can turn a lot of people from Godot. Beginner-friendly should not mean beginner-only, or rather beginners + those who ready to dive at the level of engine developer, understand how move_and_slide works (by the looks of it it's rather complicated) and make their own.",
+    "format": "form",
+    "workaround": "It will be used quite often. However, yes there is one, but ugly, workaround - apply small movement into surface with another move_and_slide after each step with main one. That messes with slides count, is_on_floor/wall/ceiling conditions and requires to retrieve and copy intermediate data in script, each step, which probably can be costly.\nOn the other hand, making similar functionality by the means of move_and_collide and low-level stuff is hard. It can work, but there is too many corner cases, and forcing regular game developer to do that is too much."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-29T09:07:43Z",
+  "comments": 9,
+  "createdAt": "2022-08-28T16:43:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5282,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make it possible to use move_and_slide in user implemented character controllers, not only in premade one in Godot 4, and maybe some improvements for more advanced use",
+  "up": 0,
+  "updatedAt": "2022-08-29T09:32:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5282"
+}

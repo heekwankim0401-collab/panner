@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Cause AnimatedSprite will be used by smaller sprites for pixle art games often, I guess.\n\nIt would be very nice if someone finds the time to implement this!",
+    "format": "legacy",
+    "workaround": "No, it is possible to open the image in an external program and counting rows to find the frame I need."
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-15T16:47:18Z",
+  "comments": 3,
+  "createdAt": "2020-07-30T08:17:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1278,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Select Frames Modal has no zoom functionality",
+  "up": 2,
+  "updatedAt": "2020-09-24T10:44:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1278"
+}

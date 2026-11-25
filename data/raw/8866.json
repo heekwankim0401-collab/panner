@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this can save time for many devolpers working with transforms without the need of community made resources",
+    "format": "form",
+    "workaround": "iunparenting nodes changing its position then reparenting to rotate the parent node.\n\nbefore rotating:\nmain\n   worldMap\n   pivot\n      player\n\nwhile rotating:\nmain\n   worldMap\n   pivot (change position)\n   player\n\nafter process:\nmain\n   worldMap\n   pivot (different origin to player)\n      player (player will set its rotation to the global rotation of pivot)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-01-12T00:22:12Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 8866,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Transform3D method to rotate around a point",
+  "up": 18,
+  "updatedAt": "2026-04-19T21:26:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8866"
+}

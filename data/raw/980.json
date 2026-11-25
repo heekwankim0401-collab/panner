@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's not user-modifyable",
+    "format": "legacy",
+    "workaround": "This part is not user-modifyable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-05-31T15:19:15Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 980,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "C#: Merge methods that exist with and without underscore (virtual and non-virtual)",
+  "up": 1,
+  "updatedAt": "2020-06-01T20:18:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/980"
+}

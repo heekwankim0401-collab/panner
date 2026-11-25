@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would involve changing the `csharp_script.cpp` core file.",
+    "format": "form",
+    "workaround": "Yes. A workaround is to override the `_GetPropertyList` function and export stuff the long way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-07-07T22:31:57Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.x",
+  "number": 2957,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose property info 'usage' in C# Export Attribute",
+  "up": 11,
+  "updatedAt": "2023-02-24T05:49:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2957"
+}

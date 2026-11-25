@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving editor plugin.",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-20T10:20:09Z",
+  "comments": 2,
+  "createdAt": "2024-04-20T01:46:54Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 9562,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Editor Plugin Register Callback into Trigger Save or Build",
+  "up": 0,
+  "updatedAt": "2024-04-20T10:27:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9562"
+}

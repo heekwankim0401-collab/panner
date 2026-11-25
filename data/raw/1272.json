@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a system feature.",
+    "format": "legacy",
+    "workaround": "This is a core feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-07-28T22:07:06Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1272,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Streamline permission requesting / handling on mobile",
+  "up": 0,
+  "updatedAt": "2020-09-18T21:51:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1272"
+}

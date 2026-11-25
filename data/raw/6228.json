@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "For the reason stated above",
+    "format": "form",
+    "workaround": "It cannot be worked around in script as it's core editor functionality. \nMaybe by implementing custom property editors for all property types, but that doesn't seem feasible and will easily break or interfere with other addons."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-03T17:03:42Z",
+  "comments": 2,
+  "createdAt": "2023-02-03T16:48:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6228,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an 'Apply override to base' option to property inspector for inherited scenes",
+  "up": 0,
+  "updatedAt": "2023-02-03T18:48:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6228"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since Godot already provides many standard tookit like UI widgets, including a color picker -- it kind of seems like it should be included.",
+    "format": "form",
+    "workaround": "I have not been able to figure out how to create this myself, though that isnt saying much. I do not think this would be as simple as a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-25T20:13:52Z",
+  "comments": 3,
+  "createdAt": "2021-08-31T14:05:32Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3239,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add calendar widget node",
+  "up": 1,
+  "updatedAt": "2021-10-25T20:13:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3239"
+}

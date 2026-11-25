@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-19T11:38:07Z",
+  "comments": 5,
+  "createdAt": "2026-07-11T23:40:13Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.8",
+  "number": 15175,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for gamepad gyro auto-calibration",
+  "up": 6,
+  "updatedAt": "2026-08-19T11:38:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15175"
+}

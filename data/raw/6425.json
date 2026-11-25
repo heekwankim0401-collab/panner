@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core `line2D`",
+    "format": "form",
+    "workaround": "Please see below..."
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-07T20:26:42Z",
+  "comments": 4,
+  "createdAt": "2023-03-04T14:23:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6425,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a resample() method to the Line2D class in Godot",
+  "up": 0,
+  "updatedAt": "2026-11-09T12:54:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6425"
+}

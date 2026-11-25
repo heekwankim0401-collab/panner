@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Same as the previous answer.",
+    "format": "form",
+    "workaround": "It's impossible to be solved out of source code."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-25T12:50:54Z",
+  "comments": 3,
+  "createdAt": "2024-07-25T11:45:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10277,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make `move_and_collide` and `move_and_slide` not runnable in the editor if `@tool` is attached, or `RigidBody2D` runnable if it's attached with a `@tool`-ed script, in order to achieve coherent behaviors",
+  "up": 0,
+  "updatedAt": "2024-07-25T13:43:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10277"
+}

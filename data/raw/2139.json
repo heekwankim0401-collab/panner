@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, because as soon as you add a viewport, your ability to create a game is severely hampered.",
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-01-17T17:52:40Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2139,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make viewports/containers usable inside Godot, improve viewport documentation and make it simpler to actually use viewports",
+  "up": 13,
+  "updatedAt": "2021-01-18T22:03:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2139"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its easy to use and flexible.",
+    "format": "form",
+    "workaround": "It can be but Godot's input system is a pain in the butt. you have to use the `_input` hook if you want anything special"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-22T11:51:24Z",
+  "comments": 5,
+  "createdAt": "2021-09-22T03:53:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3331,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Input actions better",
+  "up": 0,
+  "updatedAt": "2023-04-10T15:17:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3331"
+}

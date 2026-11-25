@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Would be a great improvement over the modulate function, making it more powerful, maybe allow to add some color pallethe to override the previous index mode colors.",
+    "format": "legacy",
+    "workaround": "Would help things like easily replacing an entire sprite set or enemies or even groups of enemies with some nice effects like having them on certain collor pallethes, like kof uses as special effects like fire or poison."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-31T03:09:04Z",
+  "comments": 4,
+  "createdAt": "2020-02-01T20:01:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 429,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow indexed mode pictures",
+  "up": 2,
+  "updatedAt": "2024-01-26T11:49:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/429"
+}

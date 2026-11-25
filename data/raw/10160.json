@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the editor behaviour out of the box.",
+    "format": "form",
+    "workaround": "This would be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-07-09T11:07:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10160,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add zoom function to the Texture preview inspector",
+  "up": 13,
+  "updatedAt": "2025-06-10T07:00:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10160"
+}

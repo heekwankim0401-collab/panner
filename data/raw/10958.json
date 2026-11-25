@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core functionality",
+    "format": "form",
+    "workaround": "I'm not sure. In my current project I have just decided to layer a TouchScreenButton on top of my regular button. That way I do not need to supply a texture. I tried copying the button normal and pressed textures from the default button theme; however these are StyleBoxTexture and not Texture2D, so I could not get it to work.\n\nThe limitation of this is that the button state textures are incorrect. (Pressing 2 buttons simultaneously, only one will appear in the pressed state.) So I just change all the default button textures to normal texture.\n\nIf there was an easy way to convert the base button textures to work with the touch screen button that would mostly solve my issue as well.\n\nhttps://github.com/godotengine/godot-proposals/issues/3562"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-15T21:16:17Z",
+  "comments": 1,
+  "createdAt": "2024-10-13T01:35:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10958,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support for non-textured TouchScreenButton, or add multi-touch support to BaseButton",
+  "up": 2,
+  "updatedAt": "2024-10-15T21:16:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10958"
+}

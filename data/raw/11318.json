@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This operation could be provided by an add-on, but I'd consider it essential enough at this point, similar to how you can invert the green channel of a normal map to make it look as expected in Godot.",
+    "format": "form",
+    "workaround": "No. In fact, this can't be resolved without losing quality if the source texture uses lossy compression (JPEG/lossy WebP/DDS/KTX), as you'd need to overwrite the source file to perform the required changes outside Godot. If Godot makes these changes on import, it can be done during the import process without affecting quality more than required."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-12-08T18:09:24Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11318,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an import option that corrects material heightmaps to reduce visible distortion without affecting their scale",
+  "up": 0,
+  "updatedAt": "2024-12-08T18:10:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11318"
+}

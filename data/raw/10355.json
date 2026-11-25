@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because this feature is to detect a potentially un-intuitive and hard to diagnose behavior, people are unlikely to install an addon specifically to address such a niche problem, or have the foresight to do it before they need it.",
+    "format": "form",
+    "workaround": "Nearly every project I do involves AnimationTree with BlendTree and some amount of filtering, so I think it would be used fairly often. It could be implemented in a manner which is completely unobtrusive, so people who don't need it would not notice it.\n\nI don't believe a script could fix it, or would be the appropriate way to address it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-04T00:25:24Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10355,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add warnings for BlendTree filtering new tracks/keyframes",
+  "up": 0,
+  "updatedAt": "2024-08-04T14:10:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10355"
+}

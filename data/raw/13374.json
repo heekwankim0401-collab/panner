@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this is part of the editor itself so it is core, it would be a very welcomed improvement for the UX and the process of adding it is way more complicated than a simple add-on download.",
+    "format": "form",
+    "workaround": "This WILL be used often because it is part of the editor icons, icons that the user will eventually see. The user would have to manually edit the icons to fit the current look of the other icons and insert them in the engine code.\nNow is the perfect time for it since the editor is getting new class icons like the PhysicsBody2D/3D, making more UX improvements means a better user experience."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-10T13:28:30Z",
+  "comments": 2,
+  "createdAt": "2025-10-13T01:42:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13374,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Change/adapt the Geometry2D and Geometry3D icons to the new editor icons",
+  "up": 0,
+  "updatedAt": "2026-08-10T13:28:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13374"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "MeshLibrary is in core.",
+    "format": "form",
+    "workaround": "This feels more like closing a gap in the implementation of https://github.com/godotengine/godot/pull/52298 that wasn't covered previously."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-31T17:50:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 10622,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Export MeshLibrary support for Transform of GLTF imported MeshInstances",
+  "up": 1,
+  "updatedAt": "2024-09-05T01:32:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10622"
+}

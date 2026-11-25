@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems unintuitive to have an option to change the mouse cursor in code but not to change the mouse offset in code, even though the mouse offset can be changed in the project settings just like the mouse cursor. This feature or a similar feature will improve the experience when working with custom mouse cursors.",
+    "format": "form",
+    "workaround": "It is possible to use a mouse-following sprite to make a custom mouse, but it will always be one frame behind, at least in godot 3. I have tried setting the mouse hotspot in the project settings, but I believe it is not updated after the game starts. allowing the setting of that after the game starts would also solve my problem."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-04T04:34:02Z",
+  "comments": 0,
+  "createdAt": "2022-09-04T04:32:28Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 5321,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "extra option in Input.set_custom_mouse_cursor to specify hotspot",
+  "up": 0,
+  "updatedAt": "2022-09-18T20:55:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5321"
+}

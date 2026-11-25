@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because this is a core export functionality",
+    "format": "legacy",
+    "workaround": "It will be used every time the export to Android feature is used. No, it can't be easily worked around with a few lines of code"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T08:01:09Z",
+  "comments": 4,
+  "createdAt": "2020-05-28T19:11:18Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:export",
+    "topic:platforms"
+  ],
+  "milestone": "4.5",
+  "number": 946,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the default Android export behavior so that a .pck or .zip file of the project is pushed to the assets folder instead of the project files",
+  "up": 12,
+  "updatedAt": "2026-01-28T10:04:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/946"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "AnimationPlayer",
+    "format": "form",
+    "workaround": "Unfortunately not that I know of for AnimationTree"
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-07T20:26:24Z",
+  "comments": 5,
+  "createdAt": "2022-02-09T10:38:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3937,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a button to reverse an animation in AnimationPlayer",
+  "up": 9,
+  "updatedAt": "2026-11-09T12:53:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3937"
+}

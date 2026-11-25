@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's very common feature, in a lot of engines including Unity/Roblox, etc. It's important to a lot of games to just quickly slap some text on 3D signs and stuff.",
+    "format": "form",
+    "workaround": "Not really you have to code a viewport and make a mess of your scene since there's no directly renderable textures."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-29T00:51:33Z",
+  "comments": 7,
+  "createdAt": "2024-12-29T18:24:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11443,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add TextTexture for 3D signs",
+  "up": 1,
+  "updatedAt": "2025-08-29T10:33:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11443"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about core class code health.",
+    "format": "form",
+    "workaround": "🤔"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-19T14:01:44Z",
+  "comments": 16,
+  "createdAt": "2022-04-05T23:53:34Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 4353,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Refactor ColorPicker",
+  "up": 34,
+  "updatedAt": "2025-03-19T14:01:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4353"
+}

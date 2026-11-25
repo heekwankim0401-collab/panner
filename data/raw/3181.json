@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Lack of effective workarounds.",
+    "format": "form",
+    "workaround": "No but if https://github.com/godotengine/godot/pull/51296 is merged and the methods it adds are exposed to script it theoretically becomes possible to maybe kind of work around this. Huge pain though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-08-21T23:35:11Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3181,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Area2D and Area3D bus override transition zones and different modes",
+  "up": 5,
+  "updatedAt": "2021-08-22T00:38:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3181"
+}

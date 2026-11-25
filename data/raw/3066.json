@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It needs to be included within the GodotPhysics",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-10T09:47:24Z",
+  "comments": 4,
+  "createdAt": "2021-07-31T03:36:02Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 3066,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement `is_inside_solid_geometry()` in `CharacterBody`",
+  "up": 4,
+  "updatedAt": "2022-08-10T09:47:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3066"
+}

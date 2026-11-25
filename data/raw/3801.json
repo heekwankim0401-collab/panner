@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "RayCast2D is core and other node types have editor gizmos for changing position-related properties visually (Shape2D, Control, Node2D, etc.)",
+    "format": "form",
+    "workaround": "You can edit `cast_to` in the Inspector or through a script."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-27T05:56:08Z",
+  "comments": 0,
+  "createdAt": "2022-01-15T16:36:56Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 3801,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a 2D editor gizmo for `RayCast2D.cast_to`",
+  "up": 9,
+  "updatedAt": "2022-04-27T05:56:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3801"
+}

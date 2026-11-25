@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "These are technologies that Godot relies on to build the game, and are listed as requirements in the documentation. Godot also already does this for other dependencies (Export Templates, FBX2GLTF), so it makes sense to provide this in core for consistency.\n\nI believe Godot should be the source of truth on which versions of these tools are compatible with the export process. Putting the onus on the end user - who knows nothing about the internals of the export process - seems like a poor user experience.",
+    "format": "form",
+    "workaround": "Yes. Ideally this should just be an optional feature. If developers want to set up these tools the old-fashioned way, then it should still be possible for someone to provide an arbitrary path to the executable. This applies to the suggested CLI command as well - a user if free to ignore its existence and it should not harm them."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-11-15T17:46:20Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 11165,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow users to download platform build tools/executables from the editor",
+  "up": 0,
+  "updatedAt": "2026-08-24T23:16:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11165"
+}

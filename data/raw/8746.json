@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "(A security breach?) All my scenes, scripts, etc. are so exposed:\n\n```\nfunc _ready():\n\tprint(\"ready\")\n```\nThis shouldn't be as readable when exported.",
+    "format": "form",
+    "workaround": "It would not be necessary to deactivate it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-29T22:38:41Z",
+  "comments": 1,
+  "createdAt": "2023-12-29T21:15:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 8746,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't leave SCRIPTS and STRUCTURES so exposed when exporting to Android",
+  "up": 0,
+  "updatedAt": "2023-12-29T22:38:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8746"
+}

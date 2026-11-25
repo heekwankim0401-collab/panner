@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because I don't think it's possible without engine-level access. It could probably be done with a module, but I feel like if implemented in a way that allows users to inject code into the base engine as well, it could be extremely useful to people that don't know C++, but want to make a change to the engine's code that wouldn't otherwise be changeable, and it would definitely help with making mods for games that use Godot if a developer wants to build a modding community around their game.",
+    "format": "legacy",
+    "workaround": "I actually don't believe so. If it could, I would love to be told how to for when 4.0 hits. After I saw annotations were coming to GDScript, I immediately thought about how this could solve my conundrum for how to make a useful modding API without needing to add hooks myself into everything and then maintain those hooks."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-03T17:51:58Z",
+  "comments": 7,
+  "createdAt": "2020-08-10T21:23:46Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1346,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add SpongePowered-like mixins to GDScript",
+  "up": 0,
+  "updatedAt": "2026-06-21T02:15:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1346"
+}

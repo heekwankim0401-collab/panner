@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is related to Godot Editor, which is core.",
+    "format": "form",
+    "workaround": "No, it is related to Godot Editor only.\n\nIt may be frequently used, declaration of `@export var COLOR := Color()` can be frequent when creating nodes. Such enhancement allows one to directly update the color code from the editor, which improve experience when user is a developer."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-21T03:50:10Z",
+  "comments": 8,
+  "createdAt": "2023-04-07T10:50:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.5",
+  "number": 6653,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Preview and update inline colors with a ColorPicker in the script and shader editors",
+  "up": 24,
+  "updatedAt": "2025-06-21T03:50:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6653"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's already present in the underlying vector API, so we're just exposing it to the GDScript API.",
+    "format": "form",
+    "workaround": "it can be worked around with a few lines of code, but the lines of code feel very verbose and less clear in intent than a simple `return array.erase(value)`.\n\n```gdscript\nvar index := array.find(value)\nif index < 0:\n\treturn false\narray.pop_at(index)\nreturn true\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-02-07T13:40:18Z",
+  "down": 1,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11718,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change `Array.erase` API to return `true` if successful",
+  "up": 3,
+  "updatedAt": "2025-02-27T08:57:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11718"
+}

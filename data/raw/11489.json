@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a change to core data representations in the engine.",
+    "format": "form",
+    "workaround": "This cannot be a script."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-06T13:38:51Z",
+  "comments": 7,
+  "createdAt": "2025-01-04T09:15:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11489,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Unify Types for GDScript",
+  "up": 0,
+  "updatedAt": "2026-09-06T13:39:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11489"
+}

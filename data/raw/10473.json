@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improving a core class.",
+    "format": "form",
+    "workaround": "Not script but this can be achieved in two ways that I know.\n1. Scale the entire TileMapLayer2D down.\nMake the tile size match the tile resolution and scale down the TileMapLayer2D node. However this will scale down the _entire_ tilemap, it's children and the scenes collections it holds. So sub optimal if you are using that. Also I haven't tested it but It might also mess up things like collision since AFAIK it's discouraged to scale collision shapes.\n2. Use a shader for every single tile.\nYou make a shader that effectively overrides the texture the individual tiles use, which lets you avoid scaling down the entire tilemap. However then the editor visualization of placing tiles, the effect of tiles darkening when the node is not selected, and the ability to flip/rotate tiles are completely lost, AND this makes the TileSet SIGNIFICANTLY longer to set up. It will also most likely affect performance negatively."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-17T15:08:42Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10473,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve workflow with TileMaps when the tile size and texture size don't match",
+  "up": 0,
+  "updatedAt": "2026-02-20T12:15:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10473"
+}

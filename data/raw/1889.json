@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it would make 2d and 3d editing more consistent and easier to learn the 3d scene editor when your have just used the 2d one.\n\nI know I had trouble finding where things where at when I first star6ted using the 3d scene editor.",
+    "format": "legacy",
+    "workaround": "Yes\nAlso idk about that few lines of script I don't think you can."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-11-24T23:07:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1889,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Refactor 3D tool bar to be more like the 2D one",
+  "up": 0,
+  "updatedAt": "2021-06-07T01:09:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1889"
+}

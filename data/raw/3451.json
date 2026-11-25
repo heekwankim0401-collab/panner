@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be core because organizing export vars is something that should be inherent to the workflow of creating a game. I think that it's a natural desire for a developer to organize things into things, and when you have a script that contains many many variables you start to feel the need to organize them, in the same way that we organize our project file structure, we organize our nodes...etc.",
+    "format": "form",
+    "workaround": "Based on the documentation, it seems to me like it can be worked around but not with a few lines of script. Also, the documentation does not explain clearly how to do it, in my opinion."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-28T17:10:35Z",
+  "comments": 10,
+  "createdAt": "2021-10-20T12:58:56Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3451,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "C#: Add an easy and accessible way of organizing export variables",
+  "up": 0,
+  "updatedAt": "2022-08-28T17:11:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3451"
+}

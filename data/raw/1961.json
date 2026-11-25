@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Modifying `Node` is a pretty major thing anyway.",
+    "format": "markdown",
+    "workaround": "Nope."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-21T10:42:39Z",
+  "comments": 4,
+  "createdAt": "2020-12-09T08:42:04Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1961,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Deprecate `Node.filename`, replace with something more accurate",
+  "up": 0,
+  "updatedAt": "2022-08-21T10:42:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1961"
+}

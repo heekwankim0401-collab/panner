@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "This will be useful for pretty much every game/program that plans to export for mobile devices.",
+    "format": "form",
+    "workaround": "As i tried to do it in GDScript, it's impossible to do. You have no way to scroll the contents of Node and even check if touch holds the Node."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-21T15:26:20Z",
+  "comments": 3,
+  "createdAt": "2023-11-20T18:35:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "platform:ios",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 8482,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Control Nodes scrolling for phones that isn't limited to scrollbars ",
+  "up": 2,
+  "updatedAt": "2023-12-01T10:04:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8482"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If leveraging a defined convention to redefine how loading is perfromed, it must be implemented at a core level to perform lookups.  Using something like npm's package.json to define where \"sources\" or an \"index\" exists is helpful as well.",
+    "format": "legacy",
+    "workaround": "Best solution I've found, since not everyone publishes to the Godot Asset Library, is to use git submodules.  This also allows for handling any modules that a company may keep internal for personal projects."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2019-09-12T20:25:24Z",
+  "down": 0,
+  "labels": [
+    "topic:assetlib"
+  ],
+  "milestone": null,
+  "number": 62,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Establish convention for sharing libraries",
+  "up": 12,
+  "updatedAt": "2023-10-19T20:54:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/62"
+}

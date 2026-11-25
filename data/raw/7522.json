@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a very used functionality, and I don't see the way it can be done if it is not implemented in the core.",
+    "format": "form",
+    "workaround": "I would love to write my self a Utils static function to do this for me. But I don't think this is possible without a proper way to send the `bind` to the function so the function can access to local variables from the caller."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-18T12:39:16Z",
+  "comments": 2,
+  "createdAt": "2023-08-18T10:33:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7522,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript user friendly (in-place) string interpolation",
+  "up": 4,
+  "updatedAt": "2023-08-18T12:39:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7522"
+}

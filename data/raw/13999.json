@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Being an addon would be difficult to maintain since it usually involves hacky solutions that could potentially break depending on the direction certain features of the engine get implemented in the future.",
+    "format": "form",
+    "workaround": "The methods I've mentioned above can most likely be implemented with MORE than a few lines of script, but I am not sure what the best course of action would be there."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2026-01-13T01:38:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13999,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Contextual Scene Editing",
+  "up": 8,
+  "updatedAt": "2026-09-17T19:44:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13999"
+}

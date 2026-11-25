@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be a change to the core syntax of the GDScript language.\n\n*Production edit (keywords for easier searching): typedef*",
+    "format": "form",
+    "workaround": "This issue can be worked around by using wrapper classes, but this introduces unnecessary complexity and performance overhead. For example, here’s the code for a wrapper EntityID class, but now an extra object needs to be created, and data access requires using a field. This pattern must be repeated for every alias desired and thus does not scale well.\n\n```gdscript\nclass_name EntityID\n\nvar value: int\n\nfunc _init(value: int) -> void:\n\tself.value = value\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2025-01-06T03:57:21Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11503,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add type aliasing support in GDScript",
+  "up": 47,
+  "updatedAt": "2026-02-21T11:59:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11503"
+}

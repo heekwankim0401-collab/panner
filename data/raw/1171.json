@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature would disable mouse events on the OS level to make sure it affects everything in the engine, so it has to be part of core.",
+    "format": "legacy",
+    "workaround": "It can't be worked around with a few lines of script afaik. There are possible hacky workarounds, like adding an invisible panel on top of all game UI to catch mouse events and ignore them, but that doesn't handle all cases for the whole project (e.g mouse scrolling would still be registered)."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-09T08:33:32Z",
+  "comments": 14,
+  "createdAt": "2020-07-08T09:16:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 1171,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add mouse mode to disable mouse events for the whole project",
+  "up": 0,
+  "updatedAt": "2020-07-09T08:33:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1171"
+}

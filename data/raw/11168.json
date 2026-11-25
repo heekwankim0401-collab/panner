@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is the generated 'glue' file that uses internally visible objects and methods. There is no way to make this change outside of the core.",
+    "format": "form",
+    "workaround": "No, I do not think so"
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-16T13:46:31Z",
+  "comments": 1,
+  "createdAt": "2024-11-15T20:24:52Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.0",
+  "number": 11168,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make C# 'glue' methods virtual ",
+  "up": 0,
+  "updatedAt": "2026-05-16T14:46:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11168"
+}

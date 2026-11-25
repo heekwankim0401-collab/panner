@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature is already part of most modern languages and the lack of it in godot is rather puzzling",
+    "format": "form",
+    "workaround": "I Doubt it, it's c++ compiler business."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-05-27T08:23:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12505,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add static variable shadowing",
+  "up": 1,
+  "updatedAt": "2025-06-04T00:22:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12505"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this is beyond that, but I also can't program this myself.\n****",
+    "format": "markdown",
+    "workaround": "I do not think it will be used often, but I can't figure out how to work around this.  Please correct me if I am wrong."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-15T21:38:12Z",
+  "comments": 3,
+  "createdAt": "2021-04-15T21:16:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2611,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Novel EditorProperties Made via EditorInspectorPlugins to be Remembered upon Inspector Refresh",
+  "up": 0,
+  "updatedAt": "2021-04-15T21:46:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2611"
+}

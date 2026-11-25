@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Instantiating child scenes and searching for files is something one does very frequently.",
+    "format": "form",
+    "workaround": "This feature is too complex to be worked around with a few lines of script. \nI also believe this enhancement will be used often since add-ons are very common."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-10T23:04:28Z",
+  "comments": 7,
+  "createdAt": "2024-03-25T15:33:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 9378,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to exclude the `addons` folder (or any other folder) from search operations in the editor",
+  "up": 9,
+  "updatedAt": "2024-11-10T23:05:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9378"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "`MultiplayerAPI` is core, using it for a dedicated server is a common use case.",
+    "format": "form",
+    "workaround": "No, I hope I'm not overlooking something."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-25T22:28:32Z",
+  "comments": 2,
+  "createdAt": "2023-01-24T11:11:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 6164,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a boolean flag in MultiplayerAPI that prevents clients from being notified when other clients connect or disconnect",
+  "up": 0,
+  "updatedAt": "2024-07-26T08:21:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6164"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think the script editor is customizable in that way using an add-on.",
+    "format": "markdown",
+    "workaround": "It can't since it touches core functionalities of the script editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2021-02-01T14:05:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2215,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Include an LSP client to the script editor",
+  "up": 11,
+  "updatedAt": "2025-04-09T09:16:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2215"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, it's about optimizing the editor binary size."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2021-10-13T09:37:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 3421,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Reduce size impact of editor and class reference translations on editor binaries",
+  "up": 0,
+  "updatedAt": "2025-02-11T14:32:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3421"
+}

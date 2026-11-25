@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It refers to a core type.",
+    "format": "markdown",
+    "workaround": "A few lines of script repeated over and over and over ..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-01-31T13:12:11Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2210,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "`RayCast.get_collider()` should have a more specific return type",
+  "up": 3,
+  "updatedAt": "2021-01-31T21:31:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2210"
+}

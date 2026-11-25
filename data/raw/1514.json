@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think this couldn't be implemented as an add-on since there is no API for it",
+    "format": "legacy",
+    "workaround": "No, there's no way to work around it"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-09T03:17:26Z",
+  "comments": 3,
+  "createdAt": "2020-09-15T13:56:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1514,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to change Script Editor default completion or use custom ones",
+  "up": 0,
+  "updatedAt": "2023-05-09T03:18:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1514"
+}

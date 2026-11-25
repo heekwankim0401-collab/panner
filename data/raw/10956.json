@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is available in other game engines like Unity's prewarm particle system option",
+    "format": "form",
+    "workaround": "As stated in [this godot issue](https://github.com/godotengine/godot/issues/87843), this can be worked around with displaying particles for a frame at the start of the game"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-10-12T11:32:07Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 10956,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to pre-compile particle materials at game load or scene load",
+  "up": 8,
+  "updatedAt": "2025-10-08T21:03:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10956"
+}

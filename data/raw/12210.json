@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would improve the ability to implement new custom Control Nodes.",
+    "format": "form",
+    "workaround": "This can't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-04-10T06:35:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12210,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a focus mode that allows using `grab_focus()` without focusing on click",
+  "up": 0,
+  "updatedAt": "2025-04-11T02:48:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12210"
+}

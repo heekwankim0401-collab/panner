@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A single useful keybind to add a quick boost to level creation/blockout time seems like a good little feature to be in the engine itself as opposed to an addon people need to seek out",
+    "format": "form",
+    "workaround": "```gdscript\n@tool\nextends Node\n\nvar instant_press: bool = true\n\nfunc _process(_delta):\n\tif is_keybind_pressed() && instant_press == true:\n\t\tvar selected_nodes: Array[Node] = EditorInterface.get_selection().get_selected_nodes()\n\t\t\n\t\tif selected_nodes.size() == 1:\n\t\t\tvar parent: Node = selected_nodes[0].get_parent()\n\t\t\tEditorInterface.get_selection().clear()\n\t\t\tawait get_tree().create_timer(0.05).timeout\n\t\t\tEditorInterface.edit_node(parent)\n\t\t\n\t\tinstant_press = false\n\telif is_keybind_pressed() == false && instant_press == false:\n\t\tinstant_press = true\n\nfunc is_keybind_pressed() -> bool:\n\treturn Input.is_key_pressed(KEY_CTRL) && Input.is_key_pressed(KEY_J)\n```\n\nadd this as an autoload to set CTRL + J to the functionality in a kind of bodjed way using a timer to stop the deselect from happening after the new selection for some reason"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-06-06T09:40:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9903,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add keybind to select parent of current node",
+  "up": 6,
+  "updatedAt": "2024-06-06T10:12:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9903"
+}

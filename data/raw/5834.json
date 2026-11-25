@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it changes the behavior of internal collision detection.",
+    "format": "form",
+    "workaround": "There is currently no possible work around whatsoever."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-08T06:55:27Z",
+  "comments": 5,
+  "createdAt": "2022-11-23T18:45:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5834,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to configure collision layers for individual CollisionShapes",
+  "up": 4,
+  "updatedAt": "2025-10-08T06:55:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5834"
+}

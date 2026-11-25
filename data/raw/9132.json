@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a fundamental improvement to the 2D/UI workflow",
+    "format": "form",
+    "workaround": "You can assign the theme to every `Control` that has `Node2D` parents manually, but it is cumbersome, and if you wanted to change a node's theme, you would have to change it for all the children."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-02-19T16:49:01Z",
+  "down": 1,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9132,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Theme to propagate through Node2D nodes",
+  "up": 7,
+  "updatedAt": "2024-07-08T01:29:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9132"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Anisotropic filtering level can't be overridden by an add-on.",
+    "format": "form",
+    "workaround": "Anisotropic filtering can be disabled on a per-material basis (per-texture basis in `3.x`), but this requires a lot of code to consistently apply throughout an entire project at run-time. Also, this does not allow using a lower or higher level of anisotropic filtering than the default while leaving it enabled."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-17T15:23:39Z",
+  "comments": 6,
+  "createdAt": "2022-06-15T15:37:20Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 4673,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow changing the anisotropic filter level at run-time",
+  "up": 11,
+  "updatedAt": "2024-12-17T15:23:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4673"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript is a core component.",
+    "format": "legacy",
+    "workaround": "It cannot currently be worked around easily."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-08-05T07:00:30Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1311,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `const`/`final` qualifier for methods that shouldn't be overridden",
+  "up": 17,
+  "updatedAt": "2020-11-14T02:27:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1311"
+}

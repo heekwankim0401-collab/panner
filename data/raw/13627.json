@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I doubt the current C++ addons API is able to allow this; can someone confirm?",
+    "format": "form",
+    "workaround": "Kinda difficult, unless making a whole generator using another technical solution out of Godot"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-13T02:01:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13627,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create a practical way to make custom theme generators for the Godot editor",
+  "up": 3,
+  "updatedAt": "2025-11-13T10:48:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13627"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Changing the rendering pipeline is part of the core.",
+    "format": "legacy",
+    "workaround": "No. A workaround is possible, but significant work is required:\n\nIt's possible to use a [custom postprocessing](https://docs.godotengine.org/en/latest/tutorials/shading/advanced_postprocessing.html) shader and a LUT to convert sRGB (or Linear with sRGB primaries) to whichever color gamut desired. However, custom postprocessing is not currently very wieldy, and it does not apply to UI elements (e.g. color choosers) on the editor side. It's also requires users to somehow generate their own LUTs from ICC profiles.\n\nThe Color Correction option in Environment is not fit for this purpose, as it can't be used for 2D, and also conflicts with scene grading within the sRGB gamut.\n\nSee https://github.com/godotengine/godot/pull/26869 for a draft in 3.2."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-05-26T12:57:32Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 903,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement color profile management (ICC)",
+  "up": 35,
+  "updatedAt": "2024-09-14T01:06:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/903"
+}

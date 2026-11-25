@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A\n\nMinimal example here:\n[texture_backface.zip](https://github.com/godotengine/godot-proposals/files/6495586/texture_backface.zip)",
+    "format": "markdown",
+    "workaround": "According to the issue https://github.com/godotengine/godot/issues/42411 there's a work-around of inserting \n> if (!FRONT_FACING) NORMAL = -NORMAL;\n\ninto the `fragment()` shader.  This fix fails if the light is not on the same side of the mesh as the viewer, and it's not ideal to have to fall back to the shader code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-05-17T17:29:51Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2735,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make backface material look the same as the frontface of a mesh when cull_mode is disabled",
+  "up": 6,
+  "updatedAt": "2025-03-11T03:17:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2735"
+}

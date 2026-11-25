@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "C# support is already in core, this is just an update.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-28T01:04:58Z",
+  "comments": 3,
+  "createdAt": "2022-11-14T08:11:26Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.0",
+  "number": 5780,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add .NET 7 support",
+  "up": 4,
+  "updatedAt": "2023-01-28T03:33:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5780"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-09-17T21:18:24Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 15539,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove the mirroring/aliasing effect from sounds with low pitch rate or low sample rate.",
+  "up": 0,
+  "updatedAt": "2026-09-22T09:28:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15539"
+}

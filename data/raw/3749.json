@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It requires updating core input and platform code.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-01-04T10:58:40Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3749,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide a way to retrieve a list of connected Input devices and their properties",
+  "up": 12,
+  "updatedAt": "2025-11-15T04:13:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3749"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot be made as an addon.",
+    "format": "form",
+    "workaround": "No, GDScript syntax cannot be modified by a script."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-31T10:36:38Z",
+  "comments": 3,
+  "createdAt": "2022-05-23T21:49:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 4583,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow accessing Scene Unique Nodes without quotes in GDScript",
+  "up": 7,
+  "updatedAt": "2022-05-31T10:37:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4583"
+}

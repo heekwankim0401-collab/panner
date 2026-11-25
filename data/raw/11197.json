@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Evidence.\n\n\n#### EDIT\nSeems that the bug wasn't due to what I said, but since it's similar to the issue of that other guy : https://www.reddit.com/r/godot/comments/1cloe8h/parameter_get_viewport_is_null/\nThat might still be tied, but since I don't know what triggered it, and definitely an unclear bug, I guess I couldn't even make a bug report, since I can't repro. Well guess this issue will sleep dormant until someone else figure it out.",
+    "format": "form",
+    "workaround": "I cannot without changing the damn CPP. \n\nWell, the error in itself can be fixed by checking if the node already has been reparented by X node."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-20T14:55:49Z",
+  "comments": 1,
+  "createdAt": "2024-11-20T13:06:20Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 11197,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Parameter \"get_viewport()\" is null while reparenting in an Area2D/3D",
+  "up": 0,
+  "updatedAt": "2024-11-20T14:55:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11197"
+}

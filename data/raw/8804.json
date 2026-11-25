@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think its pretty important feature to allow more flexibility for the editor and the engine allowing users to more easily create vast worlds with large tilesets and easily customize their tilesets to add or remove specific tiles.",
+    "format": "form",
+    "workaround": "Potentially yes?, as i said above if the enhancement isnt used we can just remove the new code or the button that triggers it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-01-05T11:55:54Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8804,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "TileMap Merging Improvements!",
+  "up": 0,
+  "updatedAt": "2024-01-06T12:11:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8804"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's basically gamemaker's sprite mask feature but for godot.\nAnd it compliments Sprite2D and AnimatedSprite2D very well.",
+    "format": "form",
+    "workaround": "It would be used in games who's dev's don't want to manually define everything in animation player, since doing so can be tedious."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-12-23T04:48:32Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11412,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "SpriteCollision2D and AnimatedSpriteCollision2D",
+  "up": 0,
+  "updatedAt": "2025-01-03T02:52:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11412"
+}

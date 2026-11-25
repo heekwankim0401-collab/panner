@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is tied to the rendering pipeline, making it practically impossible to implement at the component level; furthermore, having this texture enables more advanced screen-space post-processing effects.",
+    "format": "form",
+    "workaround": "I can't easily generate the instance_id_texture"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-06-30T08:52:52Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12697,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Generate a screen instance ID texture to use in shaders",
+  "up": 4,
+  "updatedAt": "2026-11-03T22:56:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12697"
+}

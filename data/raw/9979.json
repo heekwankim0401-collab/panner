@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a core modification to GDScript and it seems quite bizarre to me that this _isn't_ allowed. I can't see a single benefit to having RefCounted's exist and also not be maually free-able.",
+    "format": "form",
+    "workaround": "_Kind of?_ I'm going to try restructuring my infrastructure around returning WeakRefs where possible (or just use Objects). In either case, this sort of defeats the purpose of a RefCounted object - which exists for convenience."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-31T03:35:14Z",
+  "comments": 12,
+  "createdAt": "2024-06-16T17:45:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9979,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow manually freeing instances of RefCounted",
+  "up": 0,
+  "updatedAt": "2024-07-31T04:53:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9979"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not sure how it would fit in the asset library, but this would be convenient\n\non the other hand, i think it is good that it throws an error and forces you to look at the contructor since the constructor might come from a row-major order place",
+    "format": "legacy",
+    "workaround": "yes, you currently can manually change the syntax from things like \n```\nreturn mat4( v.x*v.x*ic + c,     v.y*v.x*ic - s*v.z, v.z*v.x*ic + s*v.y, 0.0,\n                 v.x*v.y*ic + s*v.z, v.y*v.y*ic + c,     v.z*v.y*ic - s*v.x, 0.0,\n                 v.x*v.z*ic - s*v.y, v.y*v.z*ic + s*v.x, v.z*v.z*ic + c,     0.0,\n\t\t\t     0.0,                0.0,                0.0,                1.0 );\n```\nto the godot style constructor, but it is painstacking especially for mat4"
+  },
+  "assignees": 0,
+  "closedAt": "2020-03-05T07:42:38Z",
+  "comments": 1,
+  "createdAt": "2020-02-25T21:17:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 523,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support for Shadertoy-style matrix constructor in shaders",
+  "up": 3,
+  "updatedAt": "2020-03-05T19:45:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/523"
+}

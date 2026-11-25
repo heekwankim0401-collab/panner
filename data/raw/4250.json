@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`Transform2D` is a central aspect of Godot CanvasItem positioning.",
+    "format": "form",
+    "workaround": "As shown in https://github.com/godotengine/godot/issues/30950#issuecomment-1073120652, dealing with the different coordinate systems, can not easily be done by other means."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-03-20T19:14:35Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 4250,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Streamline Transform2D Hierarchy and Coordinate Systems",
+  "up": 14,
+  "updatedAt": "2025-03-19T03:32:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4250"
+}

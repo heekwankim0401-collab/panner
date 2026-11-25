@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be solved with script code alone, so it would require changes to the GDScript implementation.",
+    "format": "legacy",
+    "workaround": "It can be worked around with a few lines of script, but the purpose is to improve usability to avoid having to produce N lines of code for every method call you want to delegate."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-05-29T20:24:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 964,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add dynamic GDScript method call and reflection support",
+  "up": 10,
+  "updatedAt": "2020-05-30T09:49:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/964"
+}

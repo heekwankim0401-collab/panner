@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As demonstrated above, all existing scripts or shader-based solutions have flaws and limitations, so extending the engine is the only technically possible way.",
+    "format": "form",
+    "workaround": "Several existing methods exist to create an outline procedurally. However, all existing solutions are flawed, unintuitive, inefficient, or not universal.  \n\nHere, I list them down for anyone who needs them later."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-01-01T21:52:56Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11466,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a standard way to create outlines for CanvasItems",
+  "up": 7,
+  "updatedAt": "2025-01-02T19:10:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11466"
+}

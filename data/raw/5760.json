@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I am uncertain whether this is even possible in regards to my proposal.",
+    "format": "form",
+    "workaround": "The simplest workaround is to just choose an external editor that isn't installed on the user's machine, such as JetBrains Rider in my case. This is however not ideal, given that this will constantly spew errors and clutter up the terminal, and this workaround also requires a user to be mindful and restrictive of applications installed outside the scope of Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-14T14:07:49Z",
+  "comments": 2,
+  "createdAt": "2022-11-10T17:13:34Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5760,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose an optional explicit path to an external mono editor within editor settings, or add a \"silent\" option to the external editor field.",
+  "up": 0,
+  "updatedAt": "2023-06-14T14:07:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5760"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I know, editor plugins and add-ons aren't capable of modifying the Project Manager. While the feature could theoretically be implemented in the editor, at that point, it wouldn't be able to do anything except provide an apologetic notice, as the editor would have already done automatic cleanup. This would also lose the benefits of out-of-the-box convenience for a situation that applies to a wide range of groups. (It would arguably be even more vital to solo developers who may not be using a version control system.)",
+    "format": "form",
+    "workaround": "We did attempt to give everyone a couple days of advance notice before starting the project, but humans are humans, which means that we forget and/or procrastinate sometimes."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-21T03:01:38Z",
+  "comments": 2,
+  "createdAt": "2021-12-21T02:48:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3708,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show warning when project has been edited with a newer engine version",
+  "up": 1,
+  "updatedAt": "2021-12-21T17:11:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3708"
+}

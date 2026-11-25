@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about GDScript.",
+    "format": "form",
+    "workaround": "```gdscript\nclass_name Util\n\nstatic func equal(a, b) -> bool:\n    return typeof(a) == typeof(b) and a == b\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-07T17:32:17Z",
+  "comments": 26,
+  "createdAt": "2022-05-21T10:49:52Z",
+  "down": 3,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4571,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow for comparing values of different types",
+  "up": 4,
+  "updatedAt": "2023-02-07T17:32:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4571"
+}

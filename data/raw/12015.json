@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Looks like core shader functionality",
+    "format": "form",
+    "workaround": "<del>No.</del> If the uniform has a default value this could be worked around when https://github.com/godotengine/godot/issues/44454 is fixed by doing:\n\n```\nmy_node.get_instance_shader_parameter(\"myparam\") != null\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-18T18:35:53Z",
+  "comments": 1,
+  "createdAt": "2025-03-18T16:05:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12015,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Get list of uniforms of a shader from script",
+  "up": 1,
+  "updatedAt": "2025-03-19T16:02:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12015"
+}

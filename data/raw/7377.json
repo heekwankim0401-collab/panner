@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Plugins may work, but I think it would be better, and wonderful and awesome to see it in the engine itself if the feature gets implemented",
+    "format": "form",
+    "workaround": "As the second column says, if the feature don't get popularly used, we will use two resources together. In one hand, the coding will be a bit harder and complex; on the other hand, the available place of RAM will be taken since two are objects."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-20T23:15:23Z",
+  "comments": 3,
+  "createdAt": "2023-07-26T09:57:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 7377,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Resource Signal Connections Menu in the Inspector",
+  "up": 4,
+  "updatedAt": "2025-10-20T23:19:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7377"
+}

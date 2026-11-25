@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would require writing a godot shading language parser in gdscript.",
+    "format": "form",
+    "workaround": "This would require writing a godot shading language parser in gdscript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-25T22:13:53Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7374,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose shader errors to scripting",
+  "up": 1,
+  "updatedAt": "2023-07-26T08:28:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7374"
+}

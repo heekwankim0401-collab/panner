@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No.",
+    "format": "form",
+    "workaround": "No.\n\nBut if this is too expensive, it can still be considered by the main dev team for running the unit tests locally."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-08-05T15:29:00Z",
+  "down": 0,
+  "labels": [
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 7452,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use ASAN versions of lavapipe in Unit Tests",
+  "up": 0,
+  "updatedAt": "2023-08-06T10:51:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7452"
+}

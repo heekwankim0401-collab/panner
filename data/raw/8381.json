@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Maybe this was a very simple method, but I think it should be core. and I found in shader, it has this method yet.",
+    "format": "form",
+    "workaround": "maybe \n```\nfunc fract(f:float)->float:\n    return f-floor(f)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-11-09T10:01:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8381,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `fract()` global function",
+  "up": 0,
+  "updatedAt": "2025-07-25T08:13:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8381"
+}

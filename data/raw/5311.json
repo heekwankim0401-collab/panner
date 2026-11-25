@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "**AnimatedTexture** is core.",
+    "format": "form",
+    "workaround": "Kind of. It'd still be quite the headache for the casual user to set up a custom Script for their **AnimatedTexture** to handle a theoretical `speed_scale`"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-08T15:25:38Z",
+  "comments": 3,
+  "createdAt": "2022-09-02T17:11:42Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 5311,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make AnimatedTexture more similar to AnimatedSprite: turn `fps` into `speed_scale`",
+  "up": 7,
+  "updatedAt": "2022-09-08T15:25:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5311"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Should be core to be able to update the SceneTreeDock controls from a plugin without hacks",
+    "format": "form",
+    "workaround": "A workaround would be to manually reload the scene (see above).\nI also have an idea (from the plugin) to create a new empty scene then switch to it then close it, but this looks very hacky (ugly), and also I can't find an easy way how to close a scene from a plugin.\n\nUpd:\nI found a workaround to update node connections buttons (thanks to Zylann \nsuggested using `update_tree()`):\n\n```gdscript\n\tvar base = get_editor_interface().get_base_control()\n\n\tvar scene_tree_dock= base.find_node(\"Scene\", true, false)\n\tvar scene_tree_ed =  find_child_by_class(scene_tree_dock, 'SceneTreeEditor')\n\tscene_tree_ed.update_tree()\n\nstatic func find_child_by_class(node:Node, cls:String):\n\tfor child in node.get_children():\n\t\tif child.get_class() == cls:\n\t\t\treturn child\n\n```\nBut I still think a similar method could be added/exposed and documented.\n\nAlso there are cases when the node added  using a plugin/tool script is not displayed (but displayed when switching scenes).\nIn this case you can try `EditorInterface.edit_node()` or select the added node (`EditorSelection.add_node()`)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-11T10:02:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3785,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to update SceneTreeDock",
+  "up": 4,
+  "updatedAt": "2024-03-29T14:31:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3785"
+}

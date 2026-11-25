@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Previously there was little reason to support glTF extras, but with per-instance shader uniforms and the refactoring of object metadata, there is now more reason than ever to add it, and make it part of the standard import workflow. As far as I can tell, this can not easily be done in a way that would be an asset library add-on.",
+    "format": "form",
+    "workaround": "As far as I can tell the glTF importer doesn't support glTF extras, or if it does it doesn't pass that data along to EditorScenePostImportPlugins so to get this functionality would require either modification of engine source or a completely custom glTF importer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-03-26T18:25:46Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4286,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatic import of glTF extras as per-instance shader uniforms and other object data in 4.x",
+  "up": 8,
+  "updatedAt": "2023-01-08T02:51:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4286"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It adds a function to the built in Object class",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-04T20:38:10Z",
+  "comments": 8,
+  "createdAt": "2024-02-04T19:07:58Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9026,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow overriding virtual functions from the outside",
+  "up": 0,
+  "updatedAt": "2024-02-04T20:38:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9026"
+}

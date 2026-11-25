@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be core.",
+    "format": "legacy",
+    "workaround": "UIs will be using this often. Also plugins for the editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2019-10-20T16:12:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 171,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "For TextEdit/LineEdit, provide a checkbox in the editor to automatically select text on any focus/mouse entered events.",
+  "up": 1,
+  "updatedAt": "2026-02-09T17:50:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/171"
+}

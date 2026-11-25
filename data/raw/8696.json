@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, this should be a core feature because it affects the fundamental process of importing 3D models. It's not something that can be easily added on top of the existing system without modifying the importers themselves.",
+    "format": "form",
+    "workaround": "This enhancement will be used every time a model is imported, which is a fundamental part of using the engine. While it's possible to manually generate tangents after importing a model, doing so would be less efficient and could still lead to inconsistencies."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-12-20T17:04:40Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 8696,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify Tangent Generation in 3D Importers",
+  "up": 0,
+  "updatedAt": "2024-02-09T15:54:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8696"
+}

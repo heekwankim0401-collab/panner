@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a quality of life addition to the existing AudioStreamPlayer nodes. I don't think it would make sense to make it an add-on.",
+    "format": "form",
+    "workaround": "I believe this enhancement would be used quite often. However, this behavior can be done manually via code. In my example below, \"_play_polyphonic()\" is inside an AutoLoad script called AudioStreamFunctions. So, anything can call AudioStreamFunctions._play_polyphonic(AudioStream) to achieve this desired result.\n\n```\nextends Node\n\nfunc _play_polyphonic(stream:AudioStream):\n\tvar new_player:AudioStreamPlayer = AudioStreamPlayer.new()\n\tget_tree().root.add_child(new_player)\n\tnew_player.stream = stream\n\tnew_player.play()\n\tawait new_player.finished\n\tnew_player.queue_free()\n```\n\nHowever, this is not particularly ideal if the user wants each AudioStream to follow specific settings for volume, pitch, bus, etc. on each play, because it creates a new blank AudioStreamPlayer each play. So, the user must do something like this:\n\n- Create an AudioStreamPlayer in the node hierarchy, set desired property values, assign it to an `@export` var, then instance it, play a stream from that instance, and free it.\n\n- Create a function to quickly assign desired settings to each new AudioStreamPlayer immediately after it is instanced.\n\n- Pass through an AudioStreamPlayer to instantiate along with the AudioStream. \n\nAgain, this is just extra work on the user's end. It would be great to have the feature built-in to AudioStreamPlayer nodes, like Unity has with their AudioSources."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-18T14:05:59Z",
+  "comments": 49,
+  "createdAt": "2024-01-17T21:03:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 8903,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Give AudioStreamPlayer a property or method to provide similar functionality to \"PlayOneShot()\" from Unity's AudioSources.",
+  "up": 2,
+  "updatedAt": "2024-01-19T13:28:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8903"
+}

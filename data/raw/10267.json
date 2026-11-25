@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Sprite2D editor plugin, BitMap and Geometry2D are core",
+    "format": "form",
+    "workaround": "This can be a addon and written in script, but it's better if provided by Godot"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-07-23T09:22:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 10267,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add concave hull algorithm and support generating concave polygon from Sprite2D",
+  "up": 3,
+  "updatedAt": "2024-07-25T14:56:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10267"
+}

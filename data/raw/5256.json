@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "If it's in core it's obvious for every user to use.\n\nThe ability for users to listen to \"help documentation\" to be read back to the user. \n\nSome big benefits:\n1. Stand up and stretch more when you're looking for answers.\n2. Users can give their eyes a break from the screen.\n3. Users can get up and go get their bevy and snack time.\n4. Allows the mid to absorb information in a different cognitive way. \n5. User can think more about the problem while listening to help.\n6. More readers.\n7. Great way for checking documentation. It's always horrible when someone says there is a typo there or your grammar is wrong. This offers a sanity check for authors of documentation to listen to how their documentation might be read.",
+    "format": "form",
+    "workaround": "The user can work around this. This is a tool for problem-solving and listening."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-16T21:23:10Z",
+  "comments": 4,
+  "createdAt": "2022-08-25T06:52:01Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:docs",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5256,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Read aloud of help documentation for the user",
+  "up": 0,
+  "updatedAt": "2022-12-16T21:23:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5256"
+}

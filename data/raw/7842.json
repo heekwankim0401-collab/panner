@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 97,
+  "createdAt": "2023-09-24T16:29:03Z",
+  "down": 3,
+  "labels": [
+    "performance",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 7842,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose a zero allocation API to Godot C# bindings",
+  "up": 341,
+  "updatedAt": "2025-09-07T14:05:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7842"
+}

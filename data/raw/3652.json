@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Default theme\n\n\nCame across this while reviewing https://github.com/godotengine/godot/pull/52015\nCC: @fire @mechPenSketch\n\nThe inputs are current measurements, the outputs are new measurement.\n![image](https://user-images.githubusercontent.com/20573784/145629791-20370886-baab-4813-b89b-5b2a57169b9f.png)",
+    "format": "form",
+    "workaround": "Default theme"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-11T10:17:51Z",
+  "comments": 4,
+  "createdAt": "2021-12-10T19:16:21Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3652,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the hotzone area size for ports in `GraphNode`",
+  "up": 0,
+  "updatedAt": "2022-01-11T10:17:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3652"
+}

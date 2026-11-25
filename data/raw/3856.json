@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "EditorPlugins are engine core?",
+    "format": "form",
+    "workaround": "The work around is to restart the editor every time something goes wrong (which is frequently when working on tools scripts and plugins)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-24T20:39:08Z",
+  "comments": 2,
+  "createdAt": "2022-01-24T20:12:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3856,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disable and re-enable EditorPlugins when saving",
+  "up": 0,
+  "updatedAt": "2022-01-24T20:39:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3856"
+}

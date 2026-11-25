@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a different button especially used for a lot of user interface heavy applications.",
+    "format": "form",
+    "workaround": "You can use the default Button Node but it does not feel correct because it does not update its size to its children. Instead you have to set a minimum size and let the children fit to its parent width."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-12-25T15:49:15Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13916,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a PanelContainerButton or PanelButton node",
+  "up": 7,
+  "updatedAt": "2025-12-27T23:50:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13916"
+}

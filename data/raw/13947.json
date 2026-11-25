@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe it'd be a huge quality of life improvement for UI-related work done in Godot to support an already solid system, and should be possible to implement without affecting anything that's been currently done in people's projects, although it would require them to manually link these new tokens to their theme properties once if they want to take advantage of this feature. I think this being an add-on wouldn't solve the issue as it'd have to be one of the workarounds I mentioned earlier, and instead it should be a change within the engine.",
+    "format": "form",
+    "workaround": "While technically it's possible to get around this limitation (as is the case with all limitations), neither of these solutions are efficient, and they have their own problems (if done via code, updating theme properties at runtime causes noticeable performance issues, and if done via resources, themes and the engine's pre-made nodes are not utilised as this requires custom scenes to be built and used instead of just using themed control nodes)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-01-03T19:04:56Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13947,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add project-level or theme-level token library to centralise values for styles",
+  "up": 13,
+  "updatedAt": "2026-04-28T14:55:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13947"
+}

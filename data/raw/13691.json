@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While this addition could be done as an add-on, this would require the add-on to override Godot's default light handling, thus I feel this works better as a core feature in case changes are made to Godot's default light handling in the future, in which case those changes would be reflected immediately in how the VisualShader nodes I am proposing would work.",
+    "format": "form",
+    "workaround": "The only way to code custom light shading right now is to do it ENTIRELY from scratch in the VisualShader system, which almost completely defeats the point of them being \"visual\" shaders, especially in the case of specular lighting which is far more complex than diffuse lighting. Furthermore, you currently cannot override ONLY diffuse or ONLY specular; if you override one it overrides them both."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-23T22:13:40Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 13691,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"DefaultDiffuse\" and \"DefaultSpecular\" VisualShader Nodes",
+  "up": 0,
+  "updatedAt": "2025-11-24T14:07:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13691"
+}

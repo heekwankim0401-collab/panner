@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is extremely flexible and can be used in many different applications.",
+    "format": "form",
+    "workaround": "You can use signals and functions like so:\n\n```gdscript\n# Player\nsignal mod_take_damage(args: Dictionary)\n\nfunc take_damage(type, amount):\n    var args = {\"type\": type, \"amount\": amount}\n    mod_take_damage.emit(args)\n    hp -= args.amount\n\n# Upgrade\nfunc take_damage(args): # Connected to the player's mod_take_damage signal\n    if args.type == \"fire\":\n        args.amount = 0\n```\n\nBut it is more cumbersome, and there is no way to completely cancel the event."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-01-22T02:31:39Z",
+  "down": 7,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8934,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add node for apply script to parent",
+  "up": 0,
+  "updatedAt": "2024-01-22T19:30:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8934"
+}

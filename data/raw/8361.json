@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can be solved only on the engine level.",
+    "format": "form",
+    "workaround": "No. I don't see how."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-23T22:43:11Z",
+  "comments": 1,
+  "createdAt": "2023-11-06T19:12:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 8361,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow importing resources only when they are initially used",
+  "up": 0,
+  "updatedAt": "2025-01-23T23:57:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8361"
+}

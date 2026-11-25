@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The current behavior misrepresents what methods are available to signals in the Godot editor, which seems like an (understandable) oversight rather than a bonus feature.",
+    "format": "form",
+    "workaround": "Yes, but it's inconvenient and inconsistent with Godot's behavior in code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-05-10T20:47:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9723,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose autoloaded scene/script methods to Node panel signals in editor UI",
+  "up": 3,
+  "updatedAt": "2024-05-11T14:50:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9723"
+}

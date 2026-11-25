@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires changing the C++ source code",
+    "format": "form",
+    "workaround": "My current workaround:\n```C#\npublic override void _Process(double delta)\n{\n    Rect2 aabb = new(Position, Size);\n    Hovered = aabb.HasPoint(Container.GetLocalMousePosition());\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-16T20:31:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 12797,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add a new MouseFilter option to allow propogation to sibling nodes",
+  "up": 1,
+  "updatedAt": "2025-07-17T00:00:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12797"
+}

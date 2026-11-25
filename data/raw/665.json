@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not a big enough feature to warrant an add on. It would be very useful to anyone using an AnimatedSprite with multiple animations where the offsets are different for different animations.\n\n\n\n\nEDIT: \n\nThe workaround actually does not work. Since frame_changed is called AFTER the frame has changed, the first frame will be played with the previous animations offsets. So the sprite \"jumps\" for a frame as the second frame is played with the correct offsets.\n\nEDIT 2:\n\nNew workaround by overriding the \"play\" function. Works like it should. Still requires me to hardcode offsets which is less than ideal.",
+    "format": "legacy",
+    "workaround": "It can be worked around by using the frame_changed() signal. It requires hardcoding the offsets per animation which isn't a desirable solution. It will cause additional code to be ran every single frame to check whether the animation has changed. If there were some \"animation_changed()\" signal that would be much more efficient and match the problem better."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-04-03T18:13:55Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 665,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to specify per-animation offsets to AnimatedSprite",
+  "up": 8,
+  "updatedAt": "2024-01-05T22:55:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/665"
+}

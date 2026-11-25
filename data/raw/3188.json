@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be an improvement for the 3D editor out of the box.",
+    "format": "form",
+    "workaround": "This can be worked around by creating custom tools, but go tell a designer that they must create their own object placement tool in a engine that *already* offers a visual editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-08-23T00:37:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3188,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add custom user grid snap size settings for the 3D editor",
+  "up": 0,
+  "updatedAt": "2023-09-24T20:13:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3188"
+}

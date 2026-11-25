@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Not that I know of, but I'm not the best person to ask.\n\nThank you for considering this.",
+    "format": "form",
+    "workaround": "It likely would be used often. Many web developers use the WebAssembly Text Format to directly author programs (preferring it to C and Rust)."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-18T00:45:37Z",
+  "comments": 3,
+  "createdAt": "2021-06-18T00:33:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:web",
+    "topic:gdextension",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 2877,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support authoring code using the WebAssembly Text Format",
+  "up": 0,
+  "updatedAt": "2021-06-18T01:07:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2877"
+}

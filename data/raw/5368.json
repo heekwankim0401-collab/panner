@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Adding the constants directly to GDScript would make code that uses them way more elegant than using a Constants singleton that contains the two constants.\n\nIn addition, if someone wanted to port the Godot runtime to an old or exotic system (think homebrew) and the int type changed its size as a result, then any code that directly codes in the signed 64-bit integer limits could crash or error out whereas using constants (that could be changed during the runtime porting process) would let the game continue. It's not like numbers past the signed 32-bit integer limits are common, so to have Godot projects fail on this (admittedly exotic and currently hypothetical) system would be a disappointing compatibility issue. After all, the point of runtime environments and bytecode is to be as compatible as possible across any platform that the runtime is ported to.",
+    "format": "form",
+    "workaround": "I doubt anybody has an INT_MAX or INT_MIN constant in their GDScript if they weren't trying to duplicate this programming technique, or needed a bitmask of all 1s or all 1s except the sign bit."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-08T00:46:50Z",
+  "comments": 1,
+  "createdAt": "2022-09-08T00:30:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5368,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an INT_MAX and INT_MIN constant to GDScript",
+  "up": 0,
+  "updatedAt": "2022-09-08T00:46:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5368"
+}

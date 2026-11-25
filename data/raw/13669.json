@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it exposes core functionality.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-25T18:00:49Z",
+  "comments": 0,
+  "createdAt": "2025-11-20T04:46:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.7",
+  "number": 13669,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Bind `EditorFileSystem::is_importing()`",
+  "up": 2,
+  "updatedAt": "2026-02-25T19:35:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13669"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2026-04-05T23:53:35Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 14615,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Adding enum.type.to_string()",
+  "up": 5,
+  "updatedAt": "2026-05-11T10:50:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14615"
+}

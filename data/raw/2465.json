@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Instance-based blend shape modifiers are the standard way that other 3D engines tackle this same issue, and not just due to ad populum. By making blend shape modifiers local to the renderer / instance of the mesh, the creation of needless duplicate resources is avoided and assets become far more reusable, which is invaluable in a game that uses blend shapes for any of the following:\n\n  * Character appearance modification.\n  * Mouth animation.\n  * Discrete animations that do not need a dedicated bone.",
+    "format": "markdown",
+    "workaround": "There is no work-around for this limitation that I know of beyond duplicating mesh resources at runtime, which is wasteful and error-prone.\n\nSupport for the old blend shape approach may be phased out by keeping the old modifier logic on the `Mesh` resource and simply adding instance-based modifiers. Then, in the next breaking release, they may be removed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-03-15T21:51:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2465,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move Blend Shape Modifiers to MeshInstance",
+  "up": 5,
+  "updatedAt": "2021-10-29T16:19:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2465"
+}

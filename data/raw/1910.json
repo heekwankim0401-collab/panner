@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is an usability improvement for programmers to more easily extend the engine and make it´s use for non programmers (or for themselves)",
+    "format": "markdown",
+    "workaround": "Theoretically this is possible using the API from EditorPlugin.\n![image](https://user-images.githubusercontent.com/1776044/100555954-b2fa9700-327d-11eb-8f20-ddeb786e463d.png)\nHowever having a more OOP like the Spatial alternative to direct access to the object being edited instead of mixing the edits of many different objects (or creating many plugins for the same set of correlated features) is much better for scalability."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2020-11-29T23:03:43Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1910,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add EditorCanvasGizmoPlugin for 2D (similar to 3D's SpatialEditorGizmoPlugin)",
+  "up": 48,
+  "updatedAt": "2025-11-17T18:16:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1910"
+}

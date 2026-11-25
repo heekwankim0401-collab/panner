@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Project export is a core functionality, and this is pretty low level.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-07-14T16:21:34Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10208,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow restricting exported game to be a single-instance process",
+  "up": 13,
+  "updatedAt": "2024-08-31T14:24:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10208"
+}

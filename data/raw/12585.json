@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can't change the internal exporting process with an addon.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-11T16:22:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 12585,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow customization of resources by multiple `EditorExportPlugin`s so it works with features like the shader baker and script tokenizer",
+  "up": 1,
+  "updatedAt": "2025-06-13T14:10:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12585"
+}

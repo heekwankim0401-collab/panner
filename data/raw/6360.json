@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a hassle to need to do these extra steps on each export, and it would be better if it was correctly set when you export it from Godot. \n\nIt would probably also be a good idea to then bump up the default values for these since I think the current minimum required macOS and iOS values will likely be wrong in for all exports unless they're using the compatibility renderer.",
+    "format": "form",
+    "workaround": "You can work around it on macOS by exporting the game unsigned, editing the info.plist manually and then manually signing and notarizing it via terminal. \nOn iOS you can edit the information in XCode before building it there."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-19T08:15:01Z",
+  "comments": 3,
+  "createdAt": "2023-02-26T13:21:00Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "platform:macos",
+    "topic:export"
+  ],
+  "milestone": "4.1",
+  "number": 6360,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add minimum required OS version setting to macOS and iOS exports",
+  "up": 1,
+  "updatedAt": "2023-04-19T08:15:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6360"
+}

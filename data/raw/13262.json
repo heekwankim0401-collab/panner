@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the 3D editor usability.",
+    "format": "form",
+    "workaround": "This can be worked around with an editor plugin (see the above link)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-09-24T17:51:26Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13262,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show a preview sphere for selected ReflectionProbes in the 3D editor",
+  "up": 12,
+  "updatedAt": "2025-09-24T17:51:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13262"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "small ux tweak",
+    "format": "form",
+    "workaround": "small ux tweak"
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-29T11:03:56Z",
+  "comments": 1,
+  "createdAt": "2023-06-26T08:12:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 7160,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Highlight the hovered item in the editor's tree widgets (scene, filesystem, etc.)",
+  "up": 7,
+  "updatedAt": "2026-03-30T23:21:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7160"
+}

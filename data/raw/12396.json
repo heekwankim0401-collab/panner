@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a value that's already being used internally to calculate how much force should be applied to the vehicle body, so why not expose it?",
+    "format": "form",
+    "workaround": "Not really. Because the wheel's origin point is constantly changing according to the pressure applied to it, so you can't use its origin minus the contact point to get a distance as an approximation of compression."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-09T04:27:18Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12396,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add VehicleWheel3D \"compression\" property",
+  "up": 0,
+  "updatedAt": "2025-05-09T11:33:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12396"
+}

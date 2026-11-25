@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It improves an existing editor feature.",
+    "format": "markdown",
+    "workaround": "Doesn't make a lot of sense to write a script for something that's already partially implemented."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-16T16:50:49Z",
+  "comments": 5,
+  "createdAt": "2020-12-30T16:00:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2051,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add numpad 0,2,4,6,8,9 to viewport camera options",
+  "up": 8,
+  "updatedAt": "2021-10-16T16:50:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2051"
+}

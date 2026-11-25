@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "/",
+    "format": "form",
+    "workaround": "Everything was solved with a GDScript JSONRPC, but them code was same as CPP JSONRPC 95%, so I wish this can be implement for built-in JSONRPC."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-06-28T14:40:37Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 7171,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enhance JSONRPC",
+  "up": 0,
+  "updatedAt": "2023-06-29T07:50:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7171"
+}

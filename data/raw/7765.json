@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Lightmap is core",
+    "format": "form",
+    "workaround": "Can be work around with external software"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-20T20:41:19Z",
+  "comments": 1,
+  "createdAt": "2023-09-20T15:48:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7765,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `albedo boost` option to lightmap to tweak it for artistic porpuses.",
+  "up": 1,
+  "updatedAt": "2023-09-20T20:41:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7765"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure it can be done with a plugin because it's builtin in the editor code:\n![image](https://github.com/godotengine/godot-proposals/assets/81109165/39336290-6b22-455c-8c0c-2b5bda797cb0)",
+    "format": "form",
+    "workaround": "I don't think it's possible."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-29T20:37:39Z",
+  "comments": 4,
+  "createdAt": "2024-04-13T16:32:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9513,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add editor setting to keep bottom panel state on play and stop game",
+  "up": 5,
+  "updatedAt": "2024-05-29T20:37:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9513"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-07-20T12:18:41Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 15219,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "[Core] Move `.compat.inc` includes to the bottom of `.cpp` files",
+  "up": 7,
+  "updatedAt": "2026-07-20T12:28:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15219"
+}

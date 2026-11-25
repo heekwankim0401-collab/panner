@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Implementing this as an add-on would be a lot less elegant and likely require use of file streams and `ProjectSettings.globalize_path()`, as well as reloading the config file or locking it while the operation is performed.",
+    "format": "legacy",
+    "workaround": "Depending on the application, yes.  Users with full control over the input data can design around the limitations of ConfigFile however they please, but the only option they have within `ConfigFile` itself to remove expired or now-useless keys is to erase an entire section."
+  },
+  "assignees": 0,
+  "closedAt": "2019-11-26T13:35:17Z",
+  "comments": 6,
+  "createdAt": "2019-11-16T20:28:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 238,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "ConfigFile:  Erase key, Rename section/key",
+  "up": 0,
+  "updatedAt": "2021-09-14T23:00:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/238"
+}

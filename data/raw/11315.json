@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires changing FileAccess",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-08T13:54:42Z",
+  "comments": 2,
+  "createdAt": "2024-12-08T13:39:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.4",
+  "number": 11315,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "FileAccess should support reading and writing half floats",
+  "up": 0,
+  "updatedAt": "2024-12-08T13:55:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11315"
+}

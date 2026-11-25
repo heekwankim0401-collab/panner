@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This adds natural and expected behavior to an existing core class.",
+    "format": "form",
+    "workaround": "It can be scripted, but it's not trivial and wastes the value of `FlowContainer`, which is very close to having the desired functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-28T16:19:59Z",
+  "comments": 1,
+  "createdAt": "2023-05-23T13:25:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 6936,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add FlowContainer wrap options for the last row when set to center alignment ",
+  "up": 6,
+  "updatedAt": "2025-11-28T16:20:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6936"
+}

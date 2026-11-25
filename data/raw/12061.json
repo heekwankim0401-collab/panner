@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "Not that I'm aware of."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-25T16:15:10Z",
+  "comments": 0,
+  "createdAt": "2025-03-24T16:34:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 12061,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to traverse the inheritance of a `SceneState` from scripts",
+  "up": 2,
+  "updatedAt": "2025-03-25T21:01:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12061"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This change is partially intended at new users of Godot, most of whom would not install add-ons from the asset library when first starting out. It also is a change which makes the nodes more concise, and by implementing this in the core it makes Godot as a whole more concise and better.\n\n*Note*: As a lot of nodes are being reworked for the 4.0 release, I believe that should be the version this change would be implemented in.",
+    "format": "form",
+    "workaround": "This enhancement changes the nodes, not the functions of nodes, but you could still use *CollisionPolygon2D*s as a separate node. However, you wouldn't get the benefits (straightforwardness and simplicity)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2021-07-08T01:09:42Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.x",
+  "number": 2960,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Replace the `CollisionPolygon2D` node with a polygon shape resource for `CollisionShape2D`",
+  "up": 33,
+  "updatedAt": "2024-10-14T17:09:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2960"
+}

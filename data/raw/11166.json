@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Same as above",
+    "format": "form",
+    "workaround": "`ImporterMesh::generate_lods` uses `SurfaceTool::simplify_with_attrib_func` which cannot be accessed from `GDExtension` or `GDScript`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-11-15T18:21:12Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 11166,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `ImporterMesh.generate_lods()` `simplify_options` to scripting",
+  "up": 4,
+  "updatedAt": "2026-10-02T16:36:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11166"
+}

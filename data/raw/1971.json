@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it is part of the editor, I do not know to what degree a third party extension can affect this",
+    "format": "markdown",
+    "workaround": "It would be used often by me, and I have no idea how this could be worked around with script. It is ofcourse trivial to manually switch to remote after running the game, but this would be a great quality-of-life change for me atleast. This _is_ somewhat mitigated by the hot-reload behavior of the editor, but that does not always work, so I find myself having to re-play the game quite often"
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-11T14:33:09Z",
+  "comments": 2,
+  "createdAt": "2020-12-11T14:04:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1971,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically switch Scene Tree view to Remote when playing the project/scene from the editor",
+  "up": 0,
+  "updatedAt": "2020-12-11T15:25:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1971"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because this method is necessary for creating this kind of plugins.",
+    "format": "markdown",
+    "workaround": "```gdscript\nfunc get_main_screen()->String:\n\tvar screen:String\n\tvar base:Panel = get_editor_interface().get_base_control()\n\tvar editor_head:BoxContainer = base.get_child(0).get_child(0)\n\tif editor_head.get_child_count()<3:\n\t\t# may happen when calling from plugin _init()\n\t\treturn screen\n\tvar main_screen_buttons:Array = editor_head.get_child(2).get_children()\n\tfor button in main_screen_buttons:\n\t\tif button.pressed:\n\t\t\tscreen = button.text\n\t\t\tbreak\n\treturn screen\n\n\n```\nThis should work better but still not well tested:\n\n```gdscript\n\nstatic func get_main_screen(plugin:EditorPlugin)->int:\n\tvar idx = -1\n\tvar base:Panel = plugin.get_editor_interface().get_base_control()\n\tvar button:ToolButton = find_node_by_class_path(\n\t\tbase, ['VBoxContainer', 'HBoxContainer', 'HBoxContainer', 'ToolButton'], false\n\t)\n\n\tif not button: \n\t\treturn idx\n\tfor b in button.get_parent().get_children():\n\t\tb = b as ToolButton\n\t\tif not b: continue\n\t\tif b.pressed:\n\t\t\treturn b.get_index()\n\treturn idx\n\t\n\nstatic func find_node_by_class_path(node:Node, class_path:Array, inverted:= true)->Node:\n\tvar res:Node\n\n\tvar stack = []\n\tvar depths = []\n\n\tvar first = class_path[0]\n\t\n\tvar children = node.get_children()\n\tif not inverted:\n\t\tchildren.invert()\n\n\tfor c in children:\n\t\tif c.get_class() == first:\n\t\t\tstack.push_back(c)\n\t\t\tdepths.push_back(0)\n\n\tif not stack: return res\n\t\n\tvar max_ = class_path.size()-1\n\n\twhile stack:\n\t\tvar d = depths.pop_back()\n\t\tvar n = stack.pop_back()\n\n\t\tif d>max_:\n\t\t\tcontinue\n\t\tif n.get_class() == class_path[d]:\n\t\t\tif d == max_:\n\t\t\t\tres = n\n\t\t\t\treturn res\n\n\t\t\tvar children_ = n.get_children()\n\t\t\tif not inverted:\n\t\t\t\tchildren_.invert()\n\t\t\tfor c in children_:\n\t\t\t\tstack.push_back(c)\n\t\t\t\tdepths.push_back(d+1)\n\n\treturn res\n```\nAs you can see this is a hacky workaround, I don't like it because it depends on UI tree and UI states (like `Button.pressed`).\n\n\nUPD:\nsolution by pycbouh\nhttps://github.com/pycbouh/godot-time-tracker/blob/master/addons/time-tracker/plugin.gd#L76-L118"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2021-01-06T14:29:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.0",
+  "number": 2081,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add EditorInterface `get_main_screen_editor()` method",
+  "up": 7,
+  "updatedAt": "2025-12-04T02:24:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2081"
+}

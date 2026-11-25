@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a simple interface change that should be consistently applied. I am not sure it could be done as an add-on.",
+    "format": "form",
+    "workaround": "No, it's a visual indicator on interface elements."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-31T18:08:55Z",
+  "comments": 21,
+  "createdAt": "2025-01-31T16:55:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11676,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make menus and text fields uniquely identifiable in the editor.",
+  "up": 2,
+  "updatedAt": "2025-02-02T04:39:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11676"
+}

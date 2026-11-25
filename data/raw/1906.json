@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It gets combines the script and node hierarchy's and gets rid of any confusion between node and script",
+    "format": "markdown",
+    "workaround": "Yes it would be and No it can't"
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-11T22:47:47Z",
+  "comments": 10,
+  "createdAt": "2020-11-29T04:26:50Z",
+  "down": 9,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1906,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "We need a way to unify scripts, scenes and nodes (Discussion)",
+  "up": 0,
+  "updatedAt": "2021-04-11T22:53:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1906"
+}

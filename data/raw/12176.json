@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core editor functionality.",
+    "format": "form",
+    "workaround": "I don't think the API controlling this is exposed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-04-06T17:53:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12176,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add quick access to enable/disable multiple run instances",
+  "up": 5,
+  "updatedAt": "2025-04-06T18:25:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12176"
+}

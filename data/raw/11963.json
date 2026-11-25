@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The dialog add-on itself should be in the asset library, but the editor prompt has to be in core/editor.\nMy current implementation of this is to bundle the add-on file inside the editor code, because asset library won't work in offline mode.\nWe can discuss this and let the editor grab the add-on from asset library later.",
+    "format": "form",
+    "workaround": "This enhancement is often used because the law enforcement by the MIT license."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-03-11T05:00:40Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11963,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to help users comply with MIT license requirements",
+  "up": 3,
+  "updatedAt": "2025-03-11T17:23:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11963"
+}

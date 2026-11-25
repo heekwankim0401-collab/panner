@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature *can* be implemented as an add-on, as demonstrated by [godot-overscan-demo](https://github.com/Calinou/godot-overscan-demo). However, an optimal implementation will require integration into core, specifically to automatically make use of VRS as mentioned above.\n\n[^1]: Overscanned images currently appear less sharp. This is likely an issue with my implementation which could be fixed.",
+    "format": "form",
+    "workaround": "This enhancement is likely to be used often in high-end 3D games, at least as an option for people with GPU power to spare. Overscan can also be useful for [offline rendering](https://github.com/Calinou/godot-photo-mode-demo), especially when coupled with supersampling to further improve image stability in motion."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-24T19:33:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3854,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement overscan to improve screen-space effect stability in motion",
+  "up": 15,
+  "updatedAt": "2026-09-25T16:16:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3854"
+}

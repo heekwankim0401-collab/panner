@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this feature can also be used for massive multiplayer servers that have a lot of players.",
+    "format": "form",
+    "workaround": "I think an extension or direct engine implication would be best but I am not qualified to comment on this."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-07T16:44:17Z",
+  "comments": 2,
+  "createdAt": "2024-02-07T13:13:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 9042,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Multi-thread solution for cpu performance demanding games and multiplayer servers",
+  "up": 0,
+  "updatedAt": "2024-02-07T16:50:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9042"
+}

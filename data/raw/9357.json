@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's the project manager.",
+    "format": "form",
+    "workaround": "The workaround is to disable the auto project creation, create a directory manually and browse there when creating the project.\n(It doesn't feel right to disable a new functionality for this though.)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-21T14:53:17Z",
+  "comments": 4,
+  "createdAt": "2024-03-22T12:59:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9357,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move Project Manager settings from Editor Settings to Project Manager Settings.",
+  "up": 2,
+  "updatedAt": "2024-06-21T14:53:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9357"
+}

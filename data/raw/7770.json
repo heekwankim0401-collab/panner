@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's a core feature lacking basic functionality",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-20T19:00:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7770,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Access contents of a folder in filesystem search",
+  "up": 13,
+  "updatedAt": "2024-04-22T01:35:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7770"
+}

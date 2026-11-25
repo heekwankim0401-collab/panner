@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "you need to modify source code to allow that!",
+    "format": "form",
+    "workaround": "nope"
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-19T16:08:20Z",
+  "comments": 1,
+  "createdAt": "2022-12-19T12:58:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5960,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "[Shader] Allow using structs with uniform",
+  "up": 0,
+  "updatedAt": "2022-12-19T16:08:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5960"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it should be an out-of-the-box feature for ergonomics",
+    "format": "form",
+    "workaround": "no, the editor needs to be changed"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-30T18:17:52Z",
+  "comments": 1,
+  "createdAt": "2023-10-29T02:17:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8287,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add alt-key shortcuts to common dialogs",
+  "up": 0,
+  "updatedAt": "2023-10-30T18:25:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8287"
+}

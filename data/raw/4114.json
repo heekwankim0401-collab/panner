@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a usability enhancement that should improve the general workflow of users who do lots of iterative builds, for example while working on networking projects, such a feature can be implemented with an add-on, but I think this will hurt the said feature as it would not be as widely known of and will force the user to either find a working add-on or implement a similar feature themselves which can be tedious.",
+    "format": "form",
+    "workaround": "If this enhancement is not desired, it could be easily switched off in the editor settings, Implementing a similar feature in a script can be a hassle."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-02-25T09:27:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 4114,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to open the directory where the project was exported to in the default file manager",
+  "up": 10,
+  "updatedAt": "2022-09-09T23:56:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4114"
+}

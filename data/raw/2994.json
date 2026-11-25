@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because its not 80's where flat games ruled on atari 2600 but even NES games had z axis with a lot of its titles so why godot is behind ?\nGodot has nice 3D but quite crippled 2d because of missing z axis",
+    "format": "form",
+    "workaround": "I dont think that anyone succesfully recreated it with code where collission boxes could be put mid/air  to represent collision from head to waist  with depth."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-25T17:32:23Z",
+  "comments": 10,
+  "createdAt": "2021-07-15T00:08:48Z",
+  "down": 6,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 2994,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "That very missing Z axis in 2D world......",
+  "up": 0,
+  "updatedAt": "2021-07-25T17:36:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2994"
+}

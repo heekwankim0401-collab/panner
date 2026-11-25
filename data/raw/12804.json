@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not sure there is enough API for that",
+    "format": "form",
+    "workaround": "By searching the function and member should be possible"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-07-17T11:53:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12804,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use a gray color for unused function and member variables in GDScript syntax highlighting",
+  "up": 8,
+  "updatedAt": "2025-07-18T14:03:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12804"
+}

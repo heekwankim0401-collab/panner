@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Until the core exposes `POTGenerator`, there's no way to provide this functionality from an add-on.",
+    "format": "form",
+    "workaround": "I don't believe there's any way to manage this from a script since none of the necessary functionality is exposed to GDScript. Without the enhancement, you'd have to use the POT Generation tab in the editor whenever translatable strings change."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-10-17T11:20:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 10986,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support POT generation from command line",
+  "up": 10,
+  "updatedAt": "2025-09-30T11:00:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10986"
+}

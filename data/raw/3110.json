@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Well, it's just a little worry, not sure if it's important, it's a bit confusing, at least for some time, why there's two particles, and they seem to not be different, name-wise . . As a beginner, I assume all particles are CPU particles, bec. it's sort of math - heavy and, not texture - related or, rendering or, so . . .",
+    "format": "form",
+    "workaround": "Sigh, I've got no idea, can't really code, beyond visual script . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-09T16:23:30Z",
+  "comments": 1,
+  "createdAt": "2021-08-09T16:12:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3110,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename Particles to GPUParticles to avoid confusing with CPUParticles . .",
+  "up": 0,
+  "updatedAt": "2021-08-09T16:24:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3110"
+}

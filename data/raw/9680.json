@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the core engine API to be friendlier to work with",
+    "format": "form",
+    "workaround": "you can guard against this with `is_nan()` but that requires knowing about this case"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-08T07:54:35Z",
+  "comments": 3,
+  "createdAt": "2024-05-05T15:54:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 9680,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make remap be fault tolerant of a 0 istart istop range",
+  "up": 0,
+  "updatedAt": "2024-10-27T14:53:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9680"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It requires revisions to the Asset Library tab to support script-based inclusions of data renderings / data pulls via web APIs. This is outside the scope of script code.\n\nEdit: Updated to use the new ISSUE_TEMPLATE.",
+    "format": "legacy",
+    "workaround": "It can be worked around in the sense that one can add docks/bottom panels/main screens/etc. that provide an interface to a specific data source (like Sketchfab's main screen plugin from above), but all this does is lead to a disjointed collection of additional GUI elements that clutter up the interface. We should have a prescribed, standardized method of displaying and interacting with online asset sources that is accessible from the Editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2019-09-03T20:09:50Z",
+  "down": 0,
+  "labels": [
+    "topic:assetlib",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable plugins to integrate arbitrary 3rd-party data sources to the AssetLib tab",
+  "up": 9,
+  "updatedAt": "2021-01-16T09:37:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12"
+}

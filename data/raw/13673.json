@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is not possible for this to implemented as an addon or a gdextension at the current time.",
+    "format": "form",
+    "workaround": "There is no way to work around this. If a user chooses to implement a custom audio stack, they must do so by forking the engine or by releasing an application that contains at least two audio engines running at the same time since the built in audio system is not setup to be disabled."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-11-21T02:48:15Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 13673,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for plugging in alternative audio engines (not drivers)",
+  "up": 12,
+  "updatedAt": "2026-03-11T22:21:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13673"
+}

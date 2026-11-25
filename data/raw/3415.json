@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can helps the 2d game has a better experience, a very useful function for every 2d game I think.",
+    "format": "form",
+    "workaround": "The only way I think of is use a AudioStreamer and change the gain manually, but that means the sound is mono. I think I cannot decide how strong the stereo effects, or control the audio pan in a single object easily."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-12T11:05:04Z",
+  "comments": 1,
+  "createdAt": "2021-10-12T11:00:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3415,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add stereo pan rate for the AudioStreamPlayer2D/3D node",
+  "up": 0,
+  "updatedAt": "2021-10-12T11:05:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3415"
+}

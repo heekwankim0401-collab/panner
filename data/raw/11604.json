@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This directly involves the AudioServer and Godot audio bus management.",
+    "format": "form",
+    "workaround": "At the moment, the best workaround I could find is to add an AudioEffectAmplify on the bus in order to manage the volume with tweens, but this is not ideal in my opinion."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-01-18T17:55:14Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 11604,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an AudioBus object",
+  "up": 2,
+  "updatedAt": "2026-06-28T15:28:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11604"
+}

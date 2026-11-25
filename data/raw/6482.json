@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Affects the editor core.",
+    "format": "form",
+    "workaround": "No, since the values are hardcoded."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-13T10:02:03Z",
+  "comments": 1,
+  "createdAt": "2023-03-11T14:02:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6482,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Move all hardcoded editor element sizes into theme constants, so that they can be customized",
+  "up": 2,
+  "updatedAt": "2023-03-13T10:48:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6482"
+}

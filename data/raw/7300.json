@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because it is the base interface of godot",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-07-16T11:39:18Z",
+  "down": 3,
+  "labels": [
+    "topic:docs",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7300,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "In the bottom panel, display only contextual panels and move the audio panel to the top bar",
+  "up": 0,
+  "updatedAt": "2023-07-16T19:29:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7300"
+}

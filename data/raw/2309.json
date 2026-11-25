@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, because in my opinion and possibly others, it seems silly to use a custom add-on to bypass a minimal size limit with buttons when instead the limitation can be removed in the core.",
+    "format": "markdown",
+    "workaround": "It might be possible to bypass this by automatically swapping all buttons with a script with a TextureButton instead but this will require the user to assign their own textures instead of just using the default theme for their buttons. It also might be possible to bypass it by setting the scale size or making a custom button scene with having no minimal size limit."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-27T15:44:52Z",
+  "comments": 10,
+  "createdAt": "2021-02-18T09:03:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2309,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Buttons should be able to be resized to a minimum height of (0, 0) instead of (12, 20)",
+  "up": 3,
+  "updatedAt": "2022-01-27T15:44:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2309"
+}

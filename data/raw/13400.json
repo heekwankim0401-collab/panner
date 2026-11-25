@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is part of the game startup and hard coded in the template.",
+    "format": "form",
+    "workaround": "Workaround is to simply comment out the code that does this check in `GDMono::initialize()` of `gd_mono.cpp`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-16T09:13:54Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 13400,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to disable check for NET assemblies directory",
+  "up": 0,
+  "updatedAt": "2025-10-16T15:07:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13400"
+}

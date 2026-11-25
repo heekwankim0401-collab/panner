@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be a core addition to the engine as a way to extend the engine's functionality. It will significantly reduce time with adding sound effects, allowing for rapidly repeating sounds that last a long time like gun shots, impact sounds, and other similar sounds to be played at a specific time during an animation, using the built in Audio Playback track. It would also make the audio playback work how one would expect given the visuals, with the old way being optional if the sound should cease.",
+    "format": "form",
+    "workaround": "Currently, this can be worked around in three methods: You can have a separate animation player for sounds which has the play method called when you want to have the sound play, however, this still does not allow the same sound to overlap. You can also have an audio stream player, with the stream changed and the playing property set to true on that frame, but it still has the same problems. The last workaround that can be used is by writing your own code to do it, even with specifying a file to play and allowing for audio overlap, at the cost of never being able to hear the audio until runtime, and the call method being very slow since you have to copy the path to the sound. Two of these methods require adding a method call track, which is a very slow track to set up, and the last requires two keys to be used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2024-10-01T22:07:58Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 10874,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option for allowing a sound played from Audio Playback Track from AnimationPlayer to play after animation has finished",
+  "up": 10,
+  "updatedAt": "2026-07-02T17:52:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10874"
+}

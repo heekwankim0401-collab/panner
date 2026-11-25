@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`TreeItem` button is a core object instead of a node",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-06-10T14:58:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9940,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `TreeItem` buttons to scale themselves automatically",
+  "up": 4,
+  "updatedAt": "2024-06-10T15:01:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9940"
+}

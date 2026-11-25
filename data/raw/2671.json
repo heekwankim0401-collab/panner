@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core engine functionality.",
+    "format": "markdown",
+    "workaround": "No, as this is core engine functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-10T12:52:23Z",
+  "comments": 1,
+  "createdAt": "2021-04-29T19:29:34Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2671,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `SceneTree.call_group()` call methods immediately instead of using deferred calls",
+  "up": 9,
+  "updatedAt": "2022-05-10T16:39:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2671"
+}

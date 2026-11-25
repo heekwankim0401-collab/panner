@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Convenience",
+    "format": "form",
+    "workaround": "It can be worked around with a tool script - however it would be better if it was integrated in the same UI as the editor, considering that editing assets not in the scene where they're instanced is pretty common, and the lack of features like https://github.com/godotengine/godot/pull/85562 is exacerbating the problem (even when that pull request is in though, there still will be use cases for having a preview environemnt)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-01-30T12:53:09Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11667,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to specify a custom world environment for preview in editor",
+  "up": 13,
+  "updatedAt": "2025-01-30T23:11:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11667"
+}

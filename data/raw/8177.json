@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because I'm not sure if add-ons can change built-in nodes and it seems like something that should have been thought of.",
+    "format": "form",
+    "workaround": "You just need to use get_name() to get the name?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-18T07:47:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8177,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change _on_disconnection_request/_on_connection_request parameters for graph edit",
+  "up": 0,
+  "updatedAt": "2023-10-18T18:06:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8177"
+}

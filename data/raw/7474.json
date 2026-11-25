@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The method `get_global_name` is in core.",
+    "format": "form",
+    "workaround": "We can work around it for GDScript like this:\n\n```\n\tvar result := \"\"\n\tfor global_class in ProjectSettings.get_global_class_list():\n\t\tif str(global_class[\"path\"]) == script.resource_path:\n\t\t\tresult = str(global_class[\"class\"])\n\t\t\tbreak\n```\n\n<strike>However, that is only for `GDScript`. The method `get_global_name` exists in `Script`, and so it would also work for `CSharpScript` and any other future - or third party - derived class.</strike>"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-18T17:25:13Z",
+  "comments": 2,
+  "createdAt": "2023-08-10T14:12:08Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 7474,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `Script.get_global_name()`",
+  "up": 6,
+  "updatedAt": "2023-12-18T17:27:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7474"
+}

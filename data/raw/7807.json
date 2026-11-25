@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This makes it easier to create addons.",
+    "format": "form",
+    "workaround": "It can be worked around, but the workaround is less convenient. This is about convenience.\nAlso tweening with custom curves is a frequently requested feature. The feature suggested here would make it easy to implement curves as an addon."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-16T23:29:05Z",
+  "comments": 1,
+  "createdAt": "2023-09-22T22:50:31Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.3",
+  "number": 7807,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make it easier to tween properties with custom easings",
+  "up": 29,
+  "updatedAt": "2024-02-16T23:33:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7807"
+}

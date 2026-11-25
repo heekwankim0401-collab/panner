@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core at the present time does not expose enough low-level details about the audio streams and ability to keep them in sync.  Most audio features are better suited integrated tightly with the engine, however if the APIs could be improved to expose more details then it's possible that this could be a feature managed better in an asset such as Godot-Mixing-Deck",
+    "format": "legacy",
+    "workaround": "Not presently without causing audio to jitter.  Audio runs on a thread separate from the game loop, so attempting to modulate and keep tracks in sync using scripts is not ideal."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-15T15:26:39Z",
+  "comments": 8,
+  "createdAt": "2019-09-29T19:07:18Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.3",
+  "number": 113,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Keep multiple audio tracks in sync",
+  "up": 15,
+  "updatedAt": "2024-06-15T15:26:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/113"
+}

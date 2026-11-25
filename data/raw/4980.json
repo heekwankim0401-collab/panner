@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it's there for gdscript, it should be there for c#",
+    "format": "form",
+    "workaround": "you can work around it by deleting the comments, it's just annoying"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-25T16:29:08Z",
+  "comments": 1,
+  "createdAt": "2022-07-25T16:08:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4980,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "add a no comments template for c# similar to the one for gdscript",
+  "up": 0,
+  "updatedAt": "2022-07-25T16:29:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4980"
+}

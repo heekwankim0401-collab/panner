@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the core rendering.",
+    "format": "form",
+    "workaround": "The multimesh buffer is impossible to access directly in raw form, it only can be modified using the exposed PackedFloat32Array buffer.\n\nWhat seperates this from just doing PackedByteArray::to_float32_array is the fact that setting the buffer raw **skips the abstraction layer, such as any compressing of the color and custom data values as float16 which is done in the Compatibility renderer**"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-03T19:49:32Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10650,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `multimesh_set_buffer_raw` to `RenderingServer`",
+  "up": 3,
+  "updatedAt": "2024-09-04T09:22:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10650"
+}

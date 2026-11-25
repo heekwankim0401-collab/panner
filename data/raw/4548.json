@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The first solution extends the ResourceLoader and -Saver singletons, the second requires changes to GDExtension. Both are core changes.",
+    "format": "form",
+    "workaround": "It might be possible to create global ResourceFormatLoaders and -Savers with GDScript that forward method calls to their GDExtension counterparts."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-30T13:05:53Z",
+  "comments": 3,
+  "createdAt": "2022-05-16T11:49:30Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": "4.0",
+  "number": 4548,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow adding custom ResourceFormatLoaders and ResourceFormatSavers with GDExtension",
+  "up": 7,
+  "updatedAt": "2022-06-30T13:05:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4548"
+}

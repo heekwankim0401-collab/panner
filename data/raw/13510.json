@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The main argument in favor of making this core is that rigid body transforms are a pretty fundamental class of 3D trasnforms, and being able to work with them directly in their constrained representation is better than relegating them to a script-implemented object.\n\nThe [change](https://github.com/casseveritt/godot/tree/pose-variant) (same link as above) to support Pose is pretty small, and low risk. It's possible that adding a new case to the Variant::Type switches increases the cost of those switches, but I'm not sure that is true.",
+    "format": "form",
+    "workaround": "It is pretty easy to functionally work around this limitation in gdscript. In fact, it's straightforward to create a Pose class in gdscript.\n\nThis is the reason this proposal is likely to be rejected. But since the same argument could be made for Quaternion, it seemed reasonable at least to consider it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-10-29T21:33:34Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13510,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Pose (rigid body transform) Variant type",
+  "up": 2,
+  "updatedAt": "2025-10-31T03:08:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13510"
+}

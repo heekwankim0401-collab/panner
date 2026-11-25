@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's GDScript syntax, so can't a add-on",
+    "format": "form",
+    "workaround": "In GODOT4, I can't implement this"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-28T00:43:18Z",
+  "comments": 11,
+  "createdAt": "2021-10-26T07:46:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3469,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[Godot4] return GDScriptFunctionState in someway",
+  "up": 0,
+  "updatedAt": "2021-11-08T13:49:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3469"
+}

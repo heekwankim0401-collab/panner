@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This library (a collection of classes and functions) can be either a native asset or be a built-in. There are some pros and cons in both cases:\n- Making it a built-in solution will result in lower space consumption (as compiling a shared library requires about 2 megabytes of glue code) and allows to improve GDScript functionality more 'official' way. But most of the functionality will not be used and will just waste the space (redundant code).\n- Making a separate addon feels like a 'nightly' solution, but still a good option anyway. As I mentioned, creating an addon will require an additional glue code, which will take even more space than the library itself.",
+    "format": "form",
+    "workaround": "This library can be a module (please see section below)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2024-10-24T23:28:57Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11023,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Template library for common functionality",
+  "up": 0,
+  "updatedAt": "2024-10-29T01:17:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11023"
+}

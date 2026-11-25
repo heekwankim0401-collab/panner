@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it's not project specific",
+    "format": "form",
+    "workaround": "I feel like at least the icons should be there, since they are a standard thing in Godot projects and asset lib already uses icons as well"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2023-11-15T15:44:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8438,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve list of plugins display in the Project Settings",
+  "up": 10,
+  "updatedAt": "2024-02-18T08:08:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8438"
+}

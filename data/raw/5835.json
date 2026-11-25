@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this requires changes on core",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-24T15:31:21Z",
+  "comments": 7,
+  "createdAt": "2022-11-23T21:05:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 5835,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make C# signal connections straightforward like GDScript 2.0 is",
+  "up": 6,
+  "updatedAt": "2022-11-24T15:34:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5835"
+}

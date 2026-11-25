@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It requires changes to the core.",
+    "format": "form",
+    "workaround": "It is used often and is difficult to replace with few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-17T18:10:04Z",
+  "comments": 3,
+  "createdAt": "2022-10-13T09:02:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 5580,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Could we replace Godot numerics types (vectors, planes, etc.) with System.Numerics from .NET?",
+  "up": 1,
+  "updatedAt": "2022-10-17T20:17:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5580"
+}

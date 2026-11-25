@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "All the needs restoring is the removed dialog from this change: https://github.com/godotengine/godot/pull/32321",
+    "format": "form",
+    "workaround": "All the needs restoring is the removed dialog from this change: https://github.com/godotengine/godot/pull/32321"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-08T10:55:05Z",
+  "comments": 3,
+  "createdAt": "2023-12-08T10:41:13Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8616,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Restore quit confirmation in Godot 4",
+  "up": 1,
+  "updatedAt": "2025-03-18T16:27:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8616"
+}

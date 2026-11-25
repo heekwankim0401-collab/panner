@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "You'd intuitively expect it to work that way",
+    "format": "form",
+    "workaround": "This can be worked around by dealing with scrolling through a thousand types to find the resource I'm looking for. At the single-man prototypal scale its hard to mess up but I imagine this is quite the pain for a larger team"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-09T04:01:39Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10401,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make AnimationPlayer Call Method track dialog follow static typing used in scripts",
+  "up": 3,
+  "updatedAt": "2024-08-09T15:38:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10401"
+}

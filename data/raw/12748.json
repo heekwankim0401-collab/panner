@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about optimizing PCK/ZIP file size for dedicated server exports, which will benefit all projects that export as a dedicated server.",
+    "format": "form",
+    "workaround": "It's possible for projects to manually exclude specific resources, but their scenes and game logic must then be modified to account for this as the resource won't exist in the exported project in dedicated server mode. For large projects, this can be a time-consuming effort requiring lots of maintenance.\n\nIn contrast, this proposal allows to export any existing project as a dedicated server with no code changes needed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-08T17:26:14Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 12748,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Strip audio from dedicated server exports to reduce PCK size",
+  "up": 5,
+  "updatedAt": "2025-07-09T12:20:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12748"
+}

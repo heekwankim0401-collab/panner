@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It affects Godot's core 3D features",
+    "format": "form",
+    "workaround": "No, it requires direct access to the engine's rendering systems to implement"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-10-11T18:42:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.x",
+  "number": 10949,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow sampling reflections and ambient light in light shader functions",
+  "up": 13,
+  "updatedAt": "2024-11-26T15:32:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10949"
+}

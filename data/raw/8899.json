@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because the rigid body practically fails at its own job as acting as a physical object, physical objects don't/shouldn't phase into each other.",
+    "format": "form",
+    "workaround": "After weeks of pain I managed to create my own physics script that I attached to a character body 3d. It does not use angular momentum but it still works the way I need it to.\n\n```gdscript\nextends CharacterBody3D\n\n@export var Mass := 1.0\n@export var Velocity := Vector2(0,0)\n@export var ForceOfGravity := Vector2(0,-9.8)\n@export var FrictionCoefficient := .5\n@export var AirResistance := .001\n@export var IsStatic := false\n@export_range(0.0,1.0) var ForceTransfer := 0.5\n\nvar ShapeCast = ShapeCast3D.new()\n\nfunc _ready():\n\tadd_child(ShapeCast)\n\tShapeCast.shape = GetCollisionShape()\n\nfunc _process(delta):\n\t\n\tpass\n\t\n\tApplyForce(Mass,ForceOfGravity*delta)\n\t\n\tMove(delta)\n\t\n\nfunc ApplyForce(AppliedMass:=1.0,AppliedVelocity:=Vector2(0,0)):\n\t\n\tVelocity += AppliedMass*AppliedVelocity/Mass\n\nvar VelocityDelta = 1\nvar Collisions = 0\n\nfunc Move(delta):\n\t\n\tVelocityDelta = 1\n\t\n\tif TestCollision(delta) && VelocityDelta > 0 && Collisions < 10:\n\t\tCollisions += 1\n\t\tMove(delta)\n\t\treturn\n\t\n\tCollisions = 0\n\nfunc TestCollision(delta):\n\t\n\tvar PointBeforeCollision = YZToVec2(global_position)\n\t\n\tmove_and_collide(Vec2ToYZ(Velocity*VelocityDelta*delta))\n\t\n\tShapeCast.target_position = Vec2ToYZ(RotatePoint(Velocity*VelocityDelta*delta,global_rotation.x))*Vector3(1,1,-1)\n\tShapeCast.force_shapecast_update()\n\t\n\tif ShapeCast.is_colliding():\n\t\t\n\t\tvar CollisionNormal = YZToVec2(ShapeCast.get_collision_normal(0))\n\t\t\n\t\t#Gets time to destination to make movement after collision more accurate\n\t\tVelocityDelta -= GetTimeToDestination(YZToVec2(global_position),PointBeforeCollision,Velocity*VelocityDelta)\n\t\t\n\t\t#Adds Collision force\n\t\tTransferMomentum(CollisionNormal,ShapeCast.get_collider(0))\n\t\t\n\t\treturn true #Was collision\n\treturn false #was no collision\n\t\n\nfunc TransferMomentum(Normal,InvolvedCollider):\n\t\n\t#Helps determine how collision would act in a result of the objects being static\n\tvar Object1Static = IsStatic\n\tvar Object2Static = false\n\t\n\tif \"IsStatic\" in InvolvedCollider:\n\t\tObject2Static = InvolvedCollide"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2024-01-16T23:00:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8899,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a RigidBody compression resolver",
+  "up": 0,
+  "updatedAt": "2024-07-03T23:35:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8899"
+}

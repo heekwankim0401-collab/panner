@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this is a simple and non-intrusive addition that needs to sit at the `Object` level to be useful, otherwise you need to subclass everything explicitly to get this behavior.",
+    "format": "form",
+    "workaround": "You can work around it by making your own subclasses that have this functionality - which doesn't scale well if you want to use it in a lot of places. You can also kind of abuse `_notification` to get a simple message but \n1. It won't include the payload\n2. It risks colliding with system message values if you aren't careful about the values you pick for your own messages\n\nSo there are a lot of ways to solve the actual functionality but none as easy or as universal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-12-10T20:57:05Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11330,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Object`-level arbitrary message sending",
+  "up": 0,
+  "updatedAt": "2024-12-14T16:26:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11330"
+}

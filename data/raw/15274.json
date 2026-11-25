@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2026-07-27T11:47:04Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 15274,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow super.<method> to return a Callable (rather than a syntax error)",
+  "up": 3,
+  "updatedAt": "2026-08-22T16:56:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15274"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDScript feature",
+    "format": "legacy",
+    "workaround": "Most of the cases could be workarounded for example with `load()` or `connect()`+`emit_signal()`, \nbut depending on the complexity of the code, such work-rounds could be quite confusing and poorly readable.\nIt would also force the user to create such an architecture and then make him depend on that architecture."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-11T00:50:44Z",
+  "comments": 6,
+  "createdAt": "2020-10-31T03:16:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1751,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add include keyword/annotation in GDScript",
+  "up": 0,
+  "updatedAt": "2021-01-11T01:13:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1751"
+}

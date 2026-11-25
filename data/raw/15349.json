@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-08-09T05:45:11Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15349,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make material emission display on unshaded materials",
+  "up": 0,
+  "updatedAt": "2026-08-10T20:58:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15349"
+}

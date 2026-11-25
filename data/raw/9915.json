@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about the core rendering capabilities.",
+    "format": "form",
+    "workaround": "It can be resolved by adding a tween which would change the alpha value of the modulation and remove when finished. This would achieve the same visual effect. However, tweens would run on CPU, and creating a large number of tweens can negate the performance benefit of removing old decals.\n\nThis can be also achieved with using particles however particles wouldn't conform to surfaces like decals."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-06-07T05:37:47Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9915,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add fade over time curve to Decal",
+  "up": 2,
+  "updatedAt": "2024-06-09T03:39:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9915"
+}

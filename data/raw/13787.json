@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Part of Godot is changed",
+    "format": "form",
+    "workaround": "Compiling Godot"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-12-04T15:40:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13787,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make FSR 2 Thin Feature (pixel locking) support Optional",
+  "up": 0,
+  "updatedAt": "2025-12-04T15:42:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13787"
+}

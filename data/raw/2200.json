@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of the core engine",
+    "format": "markdown",
+    "workaround": "It cannot be worked around."
+  },
+  "assignees": 1,
+  "closedAt": "2023-01-19T21:45:57Z",
+  "comments": 4,
+  "createdAt": "2021-01-29T10:07:29Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2200,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow animation blends/transitions to be interrupted in StateMachine",
+  "up": 2,
+  "updatedAt": "2023-01-19T21:47:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2200"
+}

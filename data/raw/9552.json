@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should improve the editor usability, as it's a missing core funcionality",
+    "format": "form",
+    "workaround": "It can't be worked around. The only way to achieve the same result is by manually changing each of the references to a certain file/directory when moved/renamed (which is not convenient at all, in particular when you are moving a large amount of file into a new location, and might lead to some of the references to be null if you forget to manually update them)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2024-04-18T22:32:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9552,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Resource to handle project files/directories references",
+  "up": 0,
+  "updatedAt": "2025-02-26T10:46:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9552"
+}

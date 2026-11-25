@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't know whether the features required to run Godot on Apple TV can be added to the project as a plugin, but I suspect not.",
+    "format": "form",
+    "workaround": "It can't."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 37,
+  "createdAt": "2025-11-01T10:11:35Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "platform:visionos",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 13532,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add tvOS (Apple TV) support",
+  "up": 23,
+  "updatedAt": "2026-09-27T15:22:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13532"
+}

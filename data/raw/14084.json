@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a limitation of Godot's shading language (GDShader)",
+    "format": "form",
+    "workaround": "With RenderingDevice I can work with GLSL directly, but it takes many lines of script to accomplish and still would not allow me to create a Material. I need to use the shaders in 2D and on the compatibility renderer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-01-27T22:27:01Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 14084,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve compatibility between GDShader and plain GLSL",
+  "up": 0,
+  "updatedAt": "2026-10-19T08:29:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14084"
+}

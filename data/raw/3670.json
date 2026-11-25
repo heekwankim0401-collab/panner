@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would require a change to a core asset type.",
+    "format": "form",
+    "workaround": "You would need to create a new node to do this, but it would be better if Position3D and Position2D supported this without the need to extend them."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-11T07:55:21Z",
+  "comments": 2,
+  "createdAt": "2021-12-15T01:10:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 3670,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Backport Postion3D and Position2D editor drawing improvements to `3.x`",
+  "up": 0,
+  "updatedAt": "2022-01-11T07:55:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3670"
+}

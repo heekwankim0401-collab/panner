@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "To me the main use case of this would be looking at a target while rotating at a constant value, which would be useful for something like a turret or homing missile off the top of my head. I think these would share the use cases with `slerp`, with this being mostly preferential.",
+    "format": "form",
+    "workaround": "The functions can be recreated (or copied from here) as static functions. But some implementations of it I saw can cause a division by zero near the end."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-01T22:30:19Z",
+  "comments": 18,
+  "createdAt": "2023-10-02T23:56:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7965,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a `rotate_toward()` method to Vector2, Vector3, Quaternion and Basis",
+  "up": 9,
+  "updatedAt": "2025-12-01T23:13:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7965"
+}

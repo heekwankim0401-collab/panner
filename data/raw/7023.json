@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "NoiseTexture is core, and this affects performance",
+    "format": "form",
+    "workaround": "It can be worked around by exporting the scene into gltf which saves the texture, and using that texture instead of the NoiseTexture, which is a time consuming and doesn't allow for changing the NoiseTexture after the fact without redoing it again."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-06-05T12:05:16Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7023,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement support for caching NoiseTextures to disk",
+  "up": 15,
+  "updatedAt": "2025-04-21T10:14:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7023"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If the [predefined colors](https://docs.godotengine.org/en/stable/classes/class_color.html#constants) are built-in, why do not add them in the `ColorPicker`?",
+    "format": "form",
+    "workaround": "It cannot be if you use the inspector."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-07-07T06:36:04Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7228,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add predefined colors to the ColorPicker",
+  "up": 3,
+  "updatedAt": "2023-07-07T17:31:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7228"
+}

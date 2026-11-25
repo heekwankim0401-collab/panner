@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be required to be core as some core changes/additons are needed.",
+    "format": "form",
+    "workaround": "No - You could write a custom shader every time you need something like this, but this would be very time consuming/unintuitive. In addition, this wouldn't allow for use cases where a 2d-gradient could be used invisibly as a mask or something else."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-29T15:59:40Z",
+  "comments": 2,
+  "createdAt": "2021-08-31T17:14:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3240,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Gradient2D resource",
+  "up": 25,
+  "updatedAt": "2021-10-29T18:25:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3240"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It seems like a pretty basic functionality, and I don't expect there should be any visible performance hit from implementing teh Decal Normal Map Magnitude factor this into the core.\n\nSince user error is a cnsideration when alowing 16-bit PNG files to eb used, a swithc could be added in user or project preferences disabling automating quantization to 8-bit color if users are sure they can handle the extra freedom.",
+    "format": "form",
+    "workaround": "Not really, it either requires changes in how the engine handles importing 16-bit PNG files and/or how the Standard 3D Material Shader."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-09-21T01:46:26Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3326,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Normal Map Magnitude property to Decals",
+  "up": 6,
+  "updatedAt": "2021-12-30T01:11:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3326"
+}

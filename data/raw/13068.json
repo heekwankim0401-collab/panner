@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "An addon can't add this functionality.",
+    "format": "form",
+    "workaround": "The only way to work around it is to simply already know what the existing keys are. Not sure how that is done. Even looking at the source there doesn't seem to be a clear way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-26T07:15:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 13068,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add EditorScenePostImportPlugin::get_option_values()",
+  "up": 0,
+  "updatedAt": "2025-08-26T08:57:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13068"
+}

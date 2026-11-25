@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Vector2 and Vector3 already have these methods in core, so it would be consistent for Vector2i and Vector3i to have them in core too, rather than having these methods be add-ons in the asset library.",
+    "format": "markdown",
+    "workaround": "Used often is uncertain and debatable. Yes, this can be worked around with a few lines of script, but this kind of API is something that should be done to Vector2i and Vector3i, since it's core for Vector2 and Vector3 to already have these methods."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-02-16T12:26:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.x",
+  "number": 2297,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to Vector2i/3i for consistency with Vector2/3",
+  "up": 28,
+  "updatedAt": "2024-01-06T20:51:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2297"
+}

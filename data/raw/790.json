@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Most workarounds are inefficient, ugly, and the easiest workaround uses a function which using isn't considered a best practice.  See above.",
+    "format": "legacy",
+    "workaround": "The most obvious workaround is to make duplicate submenus and parent them to the popup appropiately, giving each one metadata it can check itself for to perform the correct action.  This creates duplicate nodes and requires usage of `Object.set_meta()` or attaching an extension script, which is a bit of a hack."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-21T01:09:06Z",
+  "comments": 0,
+  "createdAt": "2020-05-03T00:40:13Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 790,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "PopupMenu: get_current_index() or current_index property",
+  "up": 1,
+  "updatedAt": "2020-08-05T07:45:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/790"
+}

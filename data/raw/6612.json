@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It affects the renderer.",
+    "format": "form",
+    "workaround": "It can not be worked around with a few lines of script, since keeping a reference to every light and saving the default state (whether the light should not render shadows even if shadows are enabled for example) would result in a big mess of code."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-10T13:18:28Z",
+  "comments": 6,
+  "createdAt": "2023-04-02T15:11:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6612,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to disable shadows or allow shadow resolution to be set to 0",
+  "up": 4,
+  "updatedAt": "2024-04-10T17:59:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6612"
+}

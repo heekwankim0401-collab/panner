@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core API change.",
+    "format": "markdown",
+    "workaround": "No, as this is a core API change."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-28T15:56:15Z",
+  "comments": 5,
+  "createdAt": "2021-01-18T03:18:00Z",
+  "down": 2,
+  "labels": [
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2141,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Follow the CSS-style \"top, right, bottom, left\" order in methods that specify coordinates in 4 directions",
+  "up": 12,
+  "updatedAt": "2022-04-28T15:56:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2141"
+}

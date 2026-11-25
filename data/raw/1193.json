@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It doesn't make sense to add this, in an add-on, as many people would never get to use it . . I don't know if this is very complex, but it would be a lot nicer, if it worked that way, everything set up the right way, from Blender, to Godot . .\n\nIt would be a nice addition, and make a lot more sense, to the users . .",
+    "format": "legacy",
+    "workaround": "I don't know, it's just a lot easier to set up the collision bodies in Blender, and it makes more sense, to have this work-flow, over the current one, which works nice, fine, but it would be nice if 3D work was done completely, in Blender, and then game making and, design is done, in Godot . . I know this is a small thing, but it would be nice . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-15T14:04:12Z",
+  "comments": 5,
+  "createdAt": "2020-07-14T13:27:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1193,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Making it easier to make collisionshapes in Godot . .",
+  "up": 0,
+  "updatedAt": "2020-07-15T14:04:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1193"
+}

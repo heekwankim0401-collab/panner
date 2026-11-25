@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Changes built-in nodes.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-08-01T14:17:41Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5045,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose material properties for draw passes in particles rather than using the mesh's",
+  "up": 2,
+  "updatedAt": "2022-08-08T14:39:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5045"
+}

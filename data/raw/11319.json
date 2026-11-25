@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Literally no reason to be an addon... It's just quality of life, which in my oppinion should have been the way it was implemented in the first place seeing as how in-editor we have these options already. Makes no sense to not have them from code especially since some of these functions already give plenty of options for these functions, even options not available from the editor (such as the `MeshConvexDecompositionSettings`).",
+    "format": "form",
+    "workaround": "As I said, obviously it can be worked around, no big deal. The problem still is, working around it makes your code unnecessarely more complex and also less performant for all those reparenting and freeing of the static body made by these current functions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-12-08T20:09:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11319,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expand on the `create_*_collision()` methods in the `MeshInstance3D` class to have additional parameters for `CollisionShape` placement.",
+  "up": 0,
+  "updatedAt": "2024-12-09T01:21:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11319"
+}

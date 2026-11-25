@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`Resource`s are a core part of Godot. This would help the entire workflow.",
+    "format": "form",
+    "workaround": "The proposal is laid out in a way where there is no need to work around it. By default, it will work just like it did before its implementation."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-02T16:01:22Z",
+  "comments": 4,
+  "createdAt": "2025-06-01T20:50:47Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12538,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Option to change CacheMode on specific directories from the editor (before runtime)",
+  "up": 0,
+  "updatedAt": "2025-06-02T16:26:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12538"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think tooltip generation is accessible",
+    "format": "form",
+    "workaround": "I don't think tooltip generation is accessible"
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-04T08:36:58Z",
+  "comments": 1,
+  "createdAt": "2025-09-12T11:02:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.8",
+  "number": 13157,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Keep blank lines as lines break into tooltip/doc generation",
+  "up": 8,
+  "updatedAt": "2026-10-04T08:37:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13157"
+}

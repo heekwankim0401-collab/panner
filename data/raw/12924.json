@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because I don't use add-ons.",
+    "format": "form",
+    "workaround": "It can be worked around with a bunch of lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-04T15:11:46Z",
+  "comments": 0,
+  "createdAt": "2025-08-03T02:51:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12924,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Using Shape2D or similar in LightOccluder2D instead of a PackedVector2DArray",
+  "up": 0,
+  "updatedAt": "2025-08-04T15:21:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12924"
+}

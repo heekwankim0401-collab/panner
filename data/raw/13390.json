@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript is core.\n\nAlthough I can imagine adding some Inspector Plugin for this, it does not seem worth the hassle.",
+    "format": "form",
+    "workaround": "It can't be done with a script.\n\nWe have workarounds:  We can use an `enum`. In fact, we can use `String` given that this code is not expected to be performance critical.\n\nIn fact, I ended up adding it via `_validate_property`:\n\n```GDScript\nfunc _validate_property(property: Dictionary) -> void:\n\tvar property_name: String = property.name\n\tmatch property_name:\n\t\t\"read_sensitivity_axis\":\n\t\t\tproperty.hint = PROPERTY_HINT_ENUM\n\t\t\tproperty.hint_string = \"X,Y\"\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-04T16:52:31Z",
+  "comments": 1,
+  "createdAt": "2025-10-15T11:58:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.8",
+  "number": 13390,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow export_enum on StringName",
+  "up": 10,
+  "updatedAt": "2026-08-04T16:52:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13390"
+}

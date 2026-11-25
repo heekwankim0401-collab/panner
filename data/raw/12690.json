@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an improvement to an existing editor behavior, not a plugin",
+    "format": "form",
+    "workaround": "No, this is a small change of a core editor window."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-06-29T09:00:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12690,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Keep current item selection when clearing search in Create New Node dialog",
+  "up": 5,
+  "updatedAt": "2026-05-08T06:47:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12690"
+}

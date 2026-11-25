@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Having a \"nice\" schematic editor combined with godot's engine and assets is an unvaluable framework for gamification of all kinds of subjects. Schematic graphs/diagrams are used in many areas of engineering for communicating knowledge between programmers/designers and other developers. With GraphEdit, most of the functionality is already there. The only missing feature for working with large/complex graphs to be pleasing is a well-thought layout and routing solution.\n\nHence, it might be possible to duplicate GraphEdit, should making godot dependent on any external library be unacceptable. Otherwise, I believe that all the current users of GraphEdit would benefit from the enhancement being built-in.\n\nRef #506 #593 #1159 \n\n# OGDF\n\nOGDF is a long going open source project developed by several international research groups. It stands both for *Open Graph Drawing Framework* (the original name) and *Open Graph algorithms and Data structures Framework*.\n\n> OGDF is a self-contained C++ library for graph algorithms, in particular for (but not restricted to) automatic graph drawing. It offers sophisticated algorithms and data structures to use within your own applications or scientific projects.\n\n- [ogdf.uos.de](https://ogdf.uos.de/)\n- [github.com/ogdf/ogdf](https://github.com/ogdf/ogdf)\n- https://ogdf.github.io/doc/ogdf/index.html\n\n# d3-hwschematic\n\nRegarding minimization of crossings, \"*see [On the Automatic Layout of Data Flow Diagrams](http://rtsys.informatik.uni-kiel.de/%7Ebiblio/downloads/theses/msp-dt.pdf) by Miro Spönemann, referenced in [ghdl/ghdl#111:363395770](https://github.com/ghdl/ghdl/issues/111#issuecomment-363395770) by @Nic30 (see [Nic30/d3-hwschematic](https://github.com/Nic30/d3-hwschematic)). See also [Nic30/d3-wave](https://github.com/Nic30/d3-wave) and [(RTL) Schematic view](https://github.com/eine/hwd-ide/wiki/%28RTL%29-Schematic-view)*\" (from SymbiFlow/ideas/issues/41).",
+    "format": "legacy",
+    "workaround": "My main concern is routing of connections. I believe it is currently not possible to override how connections are drawn by GraphEdit. I assume that rewriting the class from scratch might be needed.\n\nRegarding layout algorithms, there is #1253 where implementing 6 different algorithms is proposed. Should any of those be significantly different from the ones available in existing libraries, I wonder whether contributing them there might be a better long-term approach.\n\nI think that clustering is NOT a priority. I mentioned it because it is thoroughly covered in some of the references, and it would come handy. Nevertheless, I believe that improving routing and layout are the relevant enhancements, in that order."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-06T01:19:14Z",
+  "comments": 10,
+  "createdAt": "2020-08-22T12:31:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 1401,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Plug a graph drawing framework into GraphEdit, for automatic layout and routing",
+  "up": 1,
+  "updatedAt": "2022-01-06T01:20:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1401"
+}

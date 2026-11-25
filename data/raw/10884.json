@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Is this even possible to be an addon?",
+    "format": "form",
+    "workaround": "App-by-App is perfectly usable, but freeform in my opinion would be better."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-11T15:16:48Z",
+  "comments": 0,
+  "createdAt": "2024-10-03T09:14:55Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 10884,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for freeform windows in the Android editor",
+  "up": 0,
+  "updatedAt": "2025-02-11T15:17:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10884"
+}

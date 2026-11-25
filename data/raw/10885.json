@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Its an ENET binding bug. I cannot see how this could be core or an addon.",
+    "format": "form",
+    "workaround": "Yes, you just use single-letter variable names in the parameters of every RPC..."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-03T15:25:20Z",
+  "comments": 2,
+  "createdAt": "2024-10-03T12:08:10Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10885,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Optimize RPC headers",
+  "up": 0,
+  "updatedAt": "2024-10-03T16:47:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10885"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I would consider it base functionality for visual editors such as this one.",
+    "format": "form",
+    "workaround": "That I don't know the answer to, but I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-31T21:48:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8319,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Assign keyboard shortcuts to create nodes in the visual shader editor",
+  "up": 2,
+  "updatedAt": "2023-11-01T09:01:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8319"
+}

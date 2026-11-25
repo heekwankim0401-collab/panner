@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This functionality already exists in Godot for some native methods and would make sense to have especially since the docs recommend a [Custom Scene Switcher](https://docs.godotengine.org/en/latest/tutorials/scripting/singletons_autoload.html#custom-scene-switcher), which would remove the scene autocomplete.",
+    "format": "form",
+    "workaround": "~~This enhancement would change the recommended way of statically typing scene paths so it would be used often.~~\nAs a workaround, you could have your wrapper function take an enum which maps to a string path name but that has its own problems."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-08-21T00:43:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13038,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "User methods to use native autocompletes / editor tooltips for certain arguments like scene paths",
+  "up": 2,
+  "updatedAt": "2025-08-21T12:58:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13038"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would require changes in the engine itself.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-19T18:23:16Z",
+  "comments": 3,
+  "createdAt": "2020-05-25T19:52:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 895,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement multi-pass post-processing shaders",
+  "up": 10,
+  "updatedAt": "2021-09-19T18:23:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/895"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a change in how the shading language functions, particularly its preprocessing step. It cannot realistically be done outside of core.",
+    "format": "form",
+    "workaround": "`hint_range` cannot take a constant or any other variable. Currently it can only be hard-coded, so there is no work-around solution."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-06T20:18:41Z",
+  "comments": 5,
+  "createdAt": "2022-11-13T21:27:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5777,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make hint_range accept shader preprocessor macros",
+  "up": 3,
+  "updatedAt": "2023-02-06T20:20:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5777"
+}

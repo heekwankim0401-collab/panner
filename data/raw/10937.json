@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Make the AnimatedSprite2D fully morphed",
+    "format": "form",
+    "workaround": "No, because you never know what the size of the largest tile is. Unless you manually count them one by one, which is stupid."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-10T12:43:28Z",
+  "comments": 1,
+  "createdAt": "2024-10-08T14:39:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 10937,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enhance AnimatedSprite2D with Frame-Specific Offset Support for Complex 2D Sprite Animations!!!",
+  "up": 0,
+  "updatedAt": "2024-10-10T12:43:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10937"
+}

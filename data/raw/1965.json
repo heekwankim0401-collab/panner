@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "dictionary is a core object, all of its functions should be included with it. extracting key/value pairs seems crazy as an external library function",
+    "format": "markdown",
+    "workaround": "The closest method i can imagine with the tools we already have is to call  .keys() iterate over them using a for loop, make the list of key/value pairs, and then sort that list of pairs using a custom sorting function because we also don't have lambdas (The custom sort can already be handled using this method  via https://godotengine.org/qa/32053/how-to-sort-array). But this is extremely messy and id say 2 helper functions is a lot of extra code to just sort a dictionary by its values."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-12-10T03:17:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1965,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `Dictionary.items()` getter function",
+  "up": 24,
+  "updatedAt": "2026-07-28T12:34:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1965"
+}

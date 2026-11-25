@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "is something that happens in the godot interface. I don't know if it can be solved with a plugin.",
+    "format": "form",
+    "workaround": "I don't know anything about that."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-09-04T22:17:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10656,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow opening multiple FileSystem docks at once",
+  "up": 32,
+  "updatedAt": "2026-09-02T16:46:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10656"
+}

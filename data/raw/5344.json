@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it would be useful when creating calculators and things like this.\nI believe there are other cases when you would like to have this option, even for use in the core",
+    "format": "form",
+    "workaround": "maybe I can convert all numbers to floats in the string using Regex, but I should also consider cases when for example some numbers are already written in float etc"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2022-09-05T18:38:33Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5344,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to parse all numbers as floats in Expression",
+  "up": 2,
+  "updatedAt": "2023-10-20T05:58:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5344"
+}

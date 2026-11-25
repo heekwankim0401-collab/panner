@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This involves error messages within the engine.",
+    "format": "form",
+    "workaround": "Not as far as I'm aware, unless there's another way to unbind axes without changing any indices under the input action."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-18T15:44:13Z",
+  "comments": 1,
+  "createdAt": "2024-09-15T23:07:47Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.4",
+  "number": 10754,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow InputEventJoypadMotion to have an Invalid Axis without error messages.",
+  "up": 4,
+  "updatedAt": "2024-09-18T15:44:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10754"
+}

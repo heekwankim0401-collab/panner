@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's not possible to implement this via an add-on as far as I can see.",
+    "format": "form",
+    "workaround": "It can, but if you're forgetful like me, you'll end up with crash bugs often if you change your tilemap."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-18T20:26:10Z",
+  "comments": 2,
+  "createdAt": "2025-02-18T02:35:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 11796,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide a way to get custom layer data and tile atlas coordinates from a tile_set",
+  "up": 0,
+  "updatedAt": "2025-02-18T21:55:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11796"
+}

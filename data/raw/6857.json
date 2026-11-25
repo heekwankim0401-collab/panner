@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a basic improvement to the usability of the \"Show Collision Shapes\" debug facility, to make it more useful as well as consistent with the editor's treatment of collision shape visibility.",
+    "format": "form",
+    "workaround": "Not really, but I imagine it would be fairly easy to implement in the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-05-10T23:26:04Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6857,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Hide collision shapes when \"visible\" property is false",
+  "up": 2,
+  "updatedAt": "2025-10-30T14:03:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6857"
+}

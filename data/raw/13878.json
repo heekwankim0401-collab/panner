@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes, this should be a core feature for several important reasons:\n1. Requires Deep Editor Integration\nNeeds access to the preview/run system that add-ons cannot modify\nRequires integration with editor's play button and debug controls\nMust hook into the mobile editor's preview pipeline\nNeeds system-level input routing before it reaches the game\nAdd-ons cannot access these low-level editor systems.\n2. Platform-Specific Implementation\nRequires different implementations for Android vs iOS\nNeeds optimization for mobile-specific constraints (memory, battery, touch input)\nMust integrate with mobile OS lifecycle management\nRequires platform-specific performance profiling\nThis level of platform integration is only feasible at the core level.\n3. Parity with Desktop Feature\nDesktop Godot has \"Run Multiple Instances\" as a core debug feature\nMobile equivalent should also be core to maintain feature parity\nDebug/testing features belong in the editor core, not as add-ons\nThis is fundamental development tooling, not optional functionality\n4. Accessibility Mission\nThis directly supports Godot's mission of accessible game development\nAdd-ons create additional barriers (discovery, installation, compatibility)\nMobile-only developers need this built-in, not hidden in asset library\nCore features signal official support and maintenance\n5. Maintenance and Compatibility\nAdd-ons break between Godot versions\nCore features receive proper testing and updates\nMobile-only developers may not know to look for add-ons\nCritical development tools need guaranteed long-term support\n6. User Experience\nNew developers expect basic debugging tools to be built-in\nHaving to install an add-on for essential multiplayer testing is poor UX\nCore integration provides better performance and reliability\nConsistent experience across desktop and mobile editors\n7. Technical Limitations of Add-ons\nAdd-ons cannot:\nModify the editor's run/preview system\nAdd new preview modes to the play button dropdown\nAccess low-level inp",
+    "format": "form",
+    "workaround": "No, this cannot be effectively worked around with a few lines of script.\nWhile technically possible to create SubViewports manually, the workaround requires:\nSignificant scripting knowledge - Creating viewports, managing input routing, handling touch events per-viewport, setting up proper containers and layouts\n30-50+ lines of complex code minimum for basic functionality\nDeep understanding of Godot's viewport system, input handling, and scene management\nManual setup for every project - not reusable across projects easily\nNo debugging tools - developers still can't pause, inspect, or manage individual instances easily\nExample of current \"workaround\" complexity:\n# This is the \"simple\" version - still too complex for many users\nextends Control\n\nvar viewports = []\nvar game_scene = preload(\"res://main.tscn\")\n\nfunc _ready():\n    var hsplit = HSplitContainer.new()\n    add_child(hsplit)\n    \n    for i in range(2):\n        var viewport = SubViewport.new()\n        viewport.size = get_viewport_rect().size / 2\n        viewport.render_target_update_mode = SubViewport.UPDATE_ALWAYS\n        \n        var game = game_scene.instantiate()\n        viewport.add_child(game)\n        \n        var container = SubViewportContainer.new()\n        container.stretch = true\n        container.add_child(viewport)\n        hsplit.add_child(container)\n        \n        viewports.append(viewport)\n    \n    hsplit.split_offset = get_viewport_rect().size.x / 2\n\nfunc _input(event):\n    if event is InputEventScreenTouch or event is InputEventScreenDrag:\n        var viewport_index = 0 if event.position.x < get_viewport_rect().size.x / 2 else 1\n        var local_pos = event.position\n        local_pos.x = fmod(local_pos.x, get_viewport_rect().size.x / 2)\n        \n        var new_event = event.duplicate()\n        new_event.position = local_pos\n        viewports[viewport_index].push_input(new_event)\n        get_viewport().set_input_as_handled()\nThis \"workaround\" still lacks:\nProper touch input handling for all ev"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-16T23:36:48Z",
+  "comments": 2,
+  "createdAt": "2025-12-16T15:40:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13878,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Multi-Instance Testing Support For Godot Mobile Editor.",
+  "up": 0,
+  "updatedAt": "2026-01-02T17:39:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13878"
+}

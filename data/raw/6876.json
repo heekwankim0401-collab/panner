@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about not having to necessarily use the _process function (which runs every frame) every time a user wants to check if a timer is active and running or not.",
+    "format": "form",
+    "workaround": "This signal is convenient and can produce a faster running code."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-13T15:31:58Z",
+  "comments": 2,
+  "createdAt": "2023-05-13T14:21:11Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6876,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a IsTimerActive signal for timer nodes",
+  "up": 0,
+  "updatedAt": "2023-05-15T02:28:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6876"
+}

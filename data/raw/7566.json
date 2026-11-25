@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The functionality is there but it's pretty much worthless.",
+    "format": "form",
+    "workaround": "There are workarounds but they un-necesarily complicate the setup and have their own problems.\nThey also render the built-in functions like get_tree().change_scene() useless."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-18T11:01:46Z",
+  "comments": 1,
+  "createdAt": "2023-08-27T17:42:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7566,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "VisualServer.black_bars_set_images() change the default behavior or/and add function to change it.",
+  "up": 0,
+  "updatedAt": "2026-07-19T07:54:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7566"
+}

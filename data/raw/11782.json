@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "From my understanding, what's in the asset library is built with what exists in Godot, but what I am proposing is not possible with what is already available. Feel free to correct me if this is wrong.",
+    "format": "form",
+    "workaround": "Not to my knowledge. If it can, I would be glad to make an addon with the workaround instead of a new class."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2025-02-16T09:19:27Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 11782,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Adding a new AudioStream variant to play audio from an actual stream (continously adding data)",
+  "up": 7,
+  "updatedAt": "2026-03-17T20:28:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11782"
+}

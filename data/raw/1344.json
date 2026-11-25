@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because its very useful and it can help godot way of animating scenes and cinematic way better, also its a very good optimization, as calling `add_child()` many times is not an good idea.",
+    "format": "legacy",
+    "workaround": "if you want to spawn actors for the animation player, you have to Spawn the actor in the script, and put all the data needed, then repeate the code Again and again until you have everything you need to be animated."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-03T12:34:39Z",
+  "comments": 63,
+  "createdAt": "2020-08-10T10:18:40Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1344,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Spawn event to AnimationPlayer",
+  "up": 1,
+  "updatedAt": "2020-11-30T18:23:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1344"
+}

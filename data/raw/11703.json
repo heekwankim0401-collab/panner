@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. This affects how scripts are loaded and arranged in the script panel, which likely requires internal changes to how Godot stores this data. It makes sense for this to be handled at the core level rather than through an add-on.",
+    "format": "form",
+    "workaround": "Not sure. This is one of those things that you don’t actively notice but just make your life way easier when they work correctly.\n\nAs for scripting a workaround, since it's an internal Godot behavior, I don’t think it can be done from the outside."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-10T11:58:37Z",
+  "comments": 5,
+  "createdAt": "2025-02-05T11:14:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11703,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Preserve script order in the Script Panel after restarting the Editor",
+  "up": 4,
+  "updatedAt": "2026-09-02T13:11:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11703"
+}

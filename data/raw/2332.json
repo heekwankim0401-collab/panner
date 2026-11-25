@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an issue with KinematicBody API in the engine.",
+    "format": "markdown",
+    "workaround": "This can't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2021-02-22T11:56:09Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2332,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Clarify and clean-up how kinematic bodies uses physics state",
+  "up": 6,
+  "updatedAt": "2023-05-04T10:54:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2332"
+}

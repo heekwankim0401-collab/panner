@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Callables are core.",
+    "format": "form",
+    "workaround": "Cannot be worked around without creating a new method or lambda."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 28,
+  "createdAt": "2022-07-19T18:31:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.x",
+  "number": 4920,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend `Callable.bind()` to place binds in either front or back",
+  "up": 38,
+  "updatedAt": "2026-01-18T18:09:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4920"
+}

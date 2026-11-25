@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-09-14T11:09:56Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 15521,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Import assets via code/ LightmapGI texture import takes too long",
+  "up": 0,
+  "updatedAt": "2026-09-14T17:19:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15521"
+}

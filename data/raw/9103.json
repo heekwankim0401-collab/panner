@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It could be done but then users would be to download an add-on just to run a custom `instantiate_with_packed_scene_name` method.",
+    "format": "form",
+    "workaround": "Yes, it's possible to rename the node manually, but I need to extract the basename from packed_scene.resource_path (still working on it).\n\nEDIT: I found a one-liner: `instance.name = packed_scene.resource_path.get_file().get_basename()`\n\nA generation-based incremental strategy is harder. Fortunately Godot has an automatic name safety system that increments numbers until name conflicts are resolved (in other words, it fills the first gap in 1, 2, 3...), which is good enough for me (but doesn't replace the current incremental system)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-15T19:47:10Z",
+  "comments": 3,
+  "createdAt": "2024-02-15T19:26:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9103,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use PackedScene original name to build name of node created via PackedScene.instantiate instead of @NodeType@",
+  "up": 0,
+  "updatedAt": "2024-02-15T19:48:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9103"
+}

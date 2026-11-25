@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "a library/plugin cannot control this as far as I know",
+    "format": "form",
+    "workaround": "more or less yes, for the automatic pot generation is more problematic"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2024-07-07T10:56:00Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript",
+    "topic:gui",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 10139,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an `@export_translation` annotation to mark an exported String as localizable",
+  "up": 4,
+  "updatedAt": "2026-08-03T21:58:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10139"
+}

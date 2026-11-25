@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This improves engine usability drastically for everyone who ever uses 3d models in Godot. I have seen many complaints about the inability to batch assign materials to meshes online. It's huge for out of the box usability.",
+    "format": "form",
+    "workaround": "This is such a basic functionality that any plugin for this adds unnecessary work and complicates things."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-10T10:35:46Z",
+  "comments": 3,
+  "createdAt": "2025-06-07T21:07:23Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.5",
+  "number": 12566,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an import setting to assign an external material to an imported mesh by default like in Godot 3",
+  "up": 13,
+  "updatedAt": "2025-06-10T10:35:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12566"
+}

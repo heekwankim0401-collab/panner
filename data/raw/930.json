@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "legacy",
+    "workaround": "No, as this deals with a part of the editor interface not directly accessible or modifyable through the add-on API."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-05-28T00:58:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 930,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "\"Revert sub-resources to parent\" and \"Revert to Parent\" in Object Properties dropdown",
+  "up": 6,
+  "updatedAt": "2024-06-30T10:41:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/930"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- There's no API for modifying ProjectManager\n- Anyway, I think this could be convenient for many users and it should be easy to implement it in core.",
+    "format": "markdown",
+    "workaround": "You have to set focus manually: press `left` key on the keyboard or just click there.\nYep, no big deal, but doing this automatically would make `Create a Project` dialog user friendlier."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-03-08T05:03:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2427,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Set focus to `Project Name` field when closing `There is already..` popup in `ProjectManager`",
+  "up": 1,
+  "updatedAt": "2021-03-08T10:21:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2427"
+}

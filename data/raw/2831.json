@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is necessary to change the AnimationPlayer and AnimationTree.",
+    "format": "markdown",
+    "workaround": "It is not possible to share animations between models with different rest rotations while maintaining the rest rotation of the model. It is possible to deal with this by converting animation resources every time the model is loaded, but this is not a good idea in terms of performance and maintainability."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-02T02:30:28Z",
+  "comments": 3,
+  "createdAt": "2021-06-05T22:25:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 2831,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to TransformTrack to select between local and global transformations",
+  "up": 0,
+  "updatedAt": "2021-12-02T15:25:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2831"
+}

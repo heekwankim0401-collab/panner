@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Performance.",
+    "format": "form",
+    "workaround": "It's possible to set the 2D physics engine to Dummy and use the 3D physics engine via the PhysicsServer3D interface, but this requires writing many many lines of script. In fact I've done that once, which gave me the idea to implement this feature so I wouldn't have to do it again."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-09-30T22:20:54Z",
+  "down": 2,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13313,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to use 3D physics engine in 2D",
+  "up": 10,
+  "updatedAt": "2025-11-08T12:09:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13313"
+}

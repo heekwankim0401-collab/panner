@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There actually is an [add-on](https://github.com/mphe/godot-diagnostic-list) that does this, however, this add-on has to use the language server to pull the magic off, and this is extremely inefficient and slow, especially in projects that have several hundred GDScript files. Basically, what it does is it lists all the files in the project and then feeds every file one by one to the language server to find out which errors are in each script. While this is a workaround, I think this can be done much more efficiently directly in the editor using the C++ API. Also, this approach suffers from some [fundamental issues](https://github.com/mphe/godot-diagnostic-list?tab=readme-ov-file#known-issues) like not being able to have multiple instances of Godot open with this plugin enabled or having to deal with network congestion.",
+    "format": "form",
+    "workaround": "I think this will be used often, and it can currently not be worked around with a few lines of script as there is no built-in way to access all the errors and warnings of the project through an API except the language server, which isn't exactly trivial to use."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-05T17:35:05Z",
+  "comments": 1,
+  "createdAt": "2025-11-05T06:52:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13573,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a window that shows all errors and warnings currently in the project in every file",
+  "up": 4,
+  "updatedAt": "2025-11-05T17:35:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13573"
+}

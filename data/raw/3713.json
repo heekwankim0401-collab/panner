@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's an essential part of godot networking",
+    "format": "form",
+    "workaround": "sed"
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-24T11:05:40Z",
+  "comments": 1,
+  "createdAt": "2021-12-24T10:18:27Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 3713,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename RPC modes “master” and “puppet”",
+  "up": 1,
+  "updatedAt": "2021-12-24T16:18:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3713"
+}

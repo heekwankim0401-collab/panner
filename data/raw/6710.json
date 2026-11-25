@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't imagine this type of functionality could be added in an add-on? Fixing a UI papercut like this really should be core anyway.",
+    "format": "form",
+    "workaround": "It can be worked around by scrolling to find your specific resource in the drop down list."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-17T09:54:13Z",
+  "comments": 1,
+  "createdAt": "2023-04-17T04:05:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6710,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Replace dropdowns with comboboxes when there are too many options",
+  "up": 2,
+  "updatedAt": "2023-04-17T10:09:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6710"
+}

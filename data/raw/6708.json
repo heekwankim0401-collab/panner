@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Plugin for a rename is illogical",
+    "format": "form",
+    "workaround": "Yes, but finding it as a user who knows not of DirAccess took time, which was annoying. Should be as straightforward as fileaccess."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-18T15:45:21Z",
+  "comments": 6,
+  "createdAt": "2023-04-16T18:33:29Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6708,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename DirAccess to DirectoryAccess",
+  "up": 0,
+  "updatedAt": "2023-04-18T15:47:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6708"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "These docks are already core, this is about compatibility and feature support.",
+    "format": "form",
+    "workaround": "This is not a problem can be worked around, it has to do with the editor itself."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-23T22:56:14Z",
+  "comments": 4,
+  "createdAt": "2025-05-19T00:35:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12460,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add icons for existing docks",
+  "up": 0,
+  "updatedAt": "2025-12-23T22:56:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12460"
+}

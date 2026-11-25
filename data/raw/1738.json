@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think it would be easier to do this way and would be easier to understand.",
+    "format": "legacy",
+    "workaround": "This would be used for modding and it can be worked around but its not very trivial as you have to treat user and res files differently depending on whether your running from editor or from executable"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-16T05:19:04Z",
+  "comments": 4,
+  "createdAt": "2020-10-27T18:00:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1738,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add user:// folder for files to be exported on game run",
+  "up": 1,
+  "updatedAt": "2021-05-16T05:19:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1738"
+}

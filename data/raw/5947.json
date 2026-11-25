@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "no, but maybe it could be better to have it built-in like bbcode ?",
+    "format": "form",
+    "workaround": "it can be worked around for me by converting ANSI to BBCode, but I think this is limiting."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-21T02:14:52Z",
+  "comments": 3,
+  "createdAt": "2022-12-17T11:56:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5947,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement ANSI-to-BBCode conversion in RichTextLabel",
+  "up": 0,
+  "updatedAt": "2023-06-16T04:25:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5947"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It requires exposing native interfaces that aren't exposed.",
+    "format": "legacy",
+    "workaround": "It appears it can't."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-12T12:32:40Z",
+  "comments": 3,
+  "createdAt": "2019-10-05T22:03:56Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.4",
+  "number": 127,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose more audio methods to be able to generate waveform previews",
+  "up": 18,
+  "updatedAt": "2025-06-12T12:33:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/127"
+}

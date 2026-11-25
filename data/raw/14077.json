@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is about syntax and coding efficiency.",
+    "format": "form",
+    "workaround": "no."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-27T11:32:39Z",
+  "comments": 1,
+  "createdAt": "2026-01-27T06:54:06Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 14077,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "autoIndent trouble in comment: if comments end with colon, next line will indent unexpectedly increasing",
+  "up": 0,
+  "updatedAt": "2026-01-27T11:32:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14077"
+}

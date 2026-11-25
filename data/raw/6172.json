@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "CPU and GPU particle nodes are part of the core, and I think they should (as far as possible) be consistent in their use and functionality in the core.",
+    "format": "form",
+    "workaround": "There is the workaround using the standard materials billboarding setting, but this is restrictive as you then need to use the standard material. It's also inconsistent with GPUParticles and hard to understand (since it seems backward to have the material of the mesh be responsible for the orientation of the particles)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-01-26T09:48:13Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6172,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add billboard transform align settings to CPUParticles3D (like in GPUParticles3D)",
+  "up": 0,
+  "updatedAt": "2023-01-26T12:17:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6172"
+}

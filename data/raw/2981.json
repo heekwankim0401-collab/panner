@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is an improvement for the asset library itself, so it can't be an addon.",
+    "format": "form",
+    "workaround": "No, it must be part of the asset library infrastructure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-07-11T12:54:19Z",
+  "down": 0,
+  "labels": [
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2981,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a configuration file for asset library repositories to exclude specific files automatically",
+  "up": 1,
+  "updatedAt": "2023-11-02T10:47:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2981"
+}

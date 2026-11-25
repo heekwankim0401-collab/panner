@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not sure this can be easily handled with an addon.  It'd be just a nice convenient thing to have in general.",
+    "format": "form",
+    "workaround": "Seems pretty core.  I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-04-10T05:27:09Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12209,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add blending fraction for SpringBoneSimulator3D",
+  "up": 1,
+  "updatedAt": "2025-10-22T18:12:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12209"
+}

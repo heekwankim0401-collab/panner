@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Aside from the fact that lots of people use spreadsheets for large-scale data editing / balancing purposes and having an integrated editor that supports Godot-specific data structures would be great to have built into the editor?\n\nAll of the functionality outlined above *could* be achieved through an EditorPlugin *except* for the \"Resource type\" concept. And if that were implemented as its own standalone feature in the engine, the rest of it could go into an external plugin. But I believe the use-case (editing tabular data related to Godot projects, built upon Godot data structures) is far-reaching enough that it is something that should be included in the engine itself.\n\nEdit: Updated to use the new ISSUE_TEMPLATE.",
+    "format": "legacy",
+    "workaround": "This cannot be worked around with just a few lines of script. It would involve a new resource type, a detailed set of editor changes, and a new export functionality, outlined above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 40,
+  "createdAt": "2019-09-04T01:37:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Spreadsheet resource for handling tabular data",
+  "up": 142,
+  "updatedAt": "2025-03-25T00:56:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13"
+}

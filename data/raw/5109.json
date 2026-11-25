@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "not possible, since you need low level information",
+    "format": "form",
+    "workaround": "not sure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-08-08T11:34:34Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5109,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow developer to limit engine resources",
+  "up": 2,
+  "updatedAt": "2022-08-08T14:25:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5109"
+}

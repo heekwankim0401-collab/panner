@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the default editor user experience.",
+    "format": "form",
+    "workaround": "This would be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-16T12:46:30Z",
+  "comments": 1,
+  "createdAt": "2025-02-11T13:48:30Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 11741,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a filter field to the animation editor to allow filtering tracks",
+  "up": 4,
+  "updatedAt": "2025-05-16T12:47:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11741"
+}

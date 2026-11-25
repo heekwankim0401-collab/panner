@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There are some areas in the project/editor settings which could benefit from this (not mentioning the existing ability to add custom settings to the list of existing ones per project):\n\n![godot-default-gravity-vector](https://user-images.githubusercontent.com/17108460/72753893-dcaf5000-3bce-11ea-8bd0-5c9c26ec8bd4.png)\n\nI'm not sure if it's possible to provide a custom editor hint for the **_core_** basic type by writing an `EditorInspectorPlugin` alone which would be available globally throughout the project, and *not* restricted to specific object types.\n\nThe proposal can be seen as a specific use case which probably needs a more underlying engine support: \n\n*Allow to override and add custom property hints for core datatypes.*",
+    "format": "legacy",
+    "workaround": "At least requires to write an editor inspector plugin, so no. It would be used quite often in my project, globally."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-01-20T20:14:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 397,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Vector2/3 normalized direction export hint",
+  "up": 18,
+  "updatedAt": "2022-06-29T16:51:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/397"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would make it useful for odd file hosting situations, such as self hosting with no certificate.\n\nIt is worth noting that Godot 3 supported doing this, complete with audio, right out of the box, as seen here:\nhttp://content.nukley.com/misc/g3daudio/ (click anywhere)",
+    "format": "form",
+    "workaround": "I can only assume that if the js file is programmed in the correct way, this would be completely unnecessary, as it could simply just support both http and https with any issues."
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-29T17:23:30Z",
+  "comments": 5,
+  "createdAt": "2024-06-29T23:31:07Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:export"
+  ],
+  "milestone": "4.8",
+  "number": 10076,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for plaintext HTTP for web exports with threads disabled",
+  "up": 7,
+  "updatedAt": "2026-10-29T17:23:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10076"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of the editor itself, and no API exist right now to add your own mirrors or links.",
+    "format": "form",
+    "workaround": "I couldn't find a way around. The method refreshing the list of possible mirrors has a unique and hardcoded link to the Godot Website."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-04T06:16:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 10894,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow adding custom mirrors to the export template manager",
+  "up": 2,
+  "updatedAt": "2024-10-04T13:09:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10894"
+}

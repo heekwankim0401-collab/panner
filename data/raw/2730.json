@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be core because it's part of the editor and is a quality of life improvement.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-11T20:57:32Z",
+  "comments": 9,
+  "createdAt": "2021-05-16T00:29:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 2730,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve display of color previews in the script editor autocompletion",
+  "up": 0,
+  "updatedAt": "2023-12-11T20:59:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2730"
+}

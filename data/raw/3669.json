@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This option exists in e.g. VS Code. Also the functionality is already there, it just requires a change of one setting.",
+    "format": "form",
+    "workaround": "I could maybe hack the editor to achieve this, but it's hacky."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-13T08:11:07Z",
+  "comments": 4,
+  "createdAt": "2021-12-14T23:43:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3669,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to always hide scene tabs close button",
+  "up": 4,
+  "updatedAt": "2022-03-13T08:11:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3669"
+}

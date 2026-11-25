@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be a core addition because I feel like it should be something that a non english speaker wants a dedicated asset library to have names on the languages in order to find their language.",
+    "format": "form",
+    "workaround": "I don't know how the godot engine works itself so I do not know how it can be changed, but I feel like the drop down menu could store its name and how it should be described as above somewhere."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-18T16:09:54Z",
+  "comments": 5,
+  "createdAt": "2022-09-29T17:15:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 5516,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Put language names in the editor settings",
+  "up": 5,
+  "updatedAt": "2024-08-18T16:19:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5516"
+}

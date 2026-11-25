@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know whether it can be implemented by add-on.",
+    "format": "form",
+    "workaround": "Maybe, after building, running a script to replace *GodotEventListeners.add(window,\"pointermove\"* to GodotEventListeners.add(canvas,\"pointermove\" is a worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-24T10:31:23Z",
+  "comments": 0,
+  "createdAt": "2025-11-24T03:28:32Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13693,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Is it possible for godot to add pointermove event on its canvas, not whole window?",
+  "up": 0,
+  "updatedAt": "2025-11-24T10:31:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13693"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Since most games made with Godot are in landscape, and many games actually get shipped on web platforms and also target mobile systems. This option will be very useful to retain end user experience with minimal effort.",
+    "format": "form",
+    "workaround": "Since my experience with the Godot's internal workings is still limited, I still couldn't come up with solutions on how to solve this problem, besides of trying to design the game to be in specific rotation by default. Also, this approach will also NOT be applicable to the opposite type of platform that the screen already cooperates with requirements from the application."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-06-28T12:36:45Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7170,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option for HTML5 platform to render canvas in fixed rotation regardless of current system screen rotation",
+  "up": 1,
+  "updatedAt": "2023-06-28T14:03:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7170"
+}

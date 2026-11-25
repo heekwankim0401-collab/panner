@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-05T15:51:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10664,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support baking Light3D Projector textures for lights with Static bake mode in LightmapGI",
+  "up": 9,
+  "updatedAt": "2025-01-16T16:37:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10664"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a built-in editor dialog.",
+    "format": "legacy",
+    "workaround": "This will be used all the time, and is a change to the editor UI itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-06-16T12:49:55Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 1071,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve the Release/Debug export workflow",
+  "up": 16,
+  "updatedAt": "2026-07-07T15:14:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1071"
+}

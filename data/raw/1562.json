@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Implementing this in the asset library would be difficult, and it will make it much easier for new arrivals from the gamemaker studio 2 engine to adjust to Godot.",
+    "format": "legacy",
+    "workaround": "I don't think this can be achieved using scripts or plugins, I also believe that it won't be used quite often, so having it hidden away would be fine"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-09-24T17:07:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1562,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Prevent parent node from expanding when selecting child node",
+  "up": 0,
+  "updatedAt": "2020-09-25T09:20:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1562"
+}

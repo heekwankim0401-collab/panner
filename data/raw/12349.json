@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`AnimationNodeExtension` is core, so a way to use it should be core.",
+    "format": "form",
+    "workaround": "The method I've found so far for working around lack of a GUI option is to add a script to the animation tree like so:\n```gdscript\n@tool\nextends AnimationTree\n\nfunc _ready() -> void:\n\tvar root: AnimationNodeBlendTree = tree_root\n\t\n\troot.add_node(\"testing\", AnimationNodeTest.new())\n```\nwhere `AnimationNodeTest` is my custom node. Reload the scene then remove the script. The custom node will now be in my blend tree."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-01T12:22:33Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12349,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add registration method for AnimationNodeExtension nodes",
+  "up": 5,
+  "updatedAt": "2025-05-18T10:40:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12349"
+}

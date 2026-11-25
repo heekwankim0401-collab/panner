@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While system-wide programs exist to emulate SOCD behavior in any game, they are typically only available on Windows (and are sometimes reserved to certain keyboard models). To ensure fair gameplay regardless of platform, it's important that games can provide this behavior out of the box without needing any system-wide programs.",
+    "format": "form",
+    "workaround": "This can be implemented in a script, but it's nontrivial, especially if you wish to keep support for analog gamepads with the same code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-04-15T00:20:46Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 12235,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a SOCD handling parameter to `Input.get_vector()` and `Input.get_axis()` (simultaneous opposite cardinal direction)",
+  "up": 3,
+  "updatedAt": "2025-04-22T10:28:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12235"
+}

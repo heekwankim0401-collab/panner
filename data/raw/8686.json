@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This will improve core Godot experience, especially for newer users who might not have any clue how this even works. Also, considering this proposal: https://github.com/godotengine/godot-proposals/issues/1274 there was even debates about it and how it should work, even suggestions about removing (or explaining better what kind of limitations user will face) this feature: https://github.com/godotengine/godot/issues/31758. There also was comment about adding current hint: https://github.com/godotengine/godot/issues/31758#issuecomment-526372791, but still no docs.",
+    "format": "form",
+    "workaround": "User could look for answer using Google and browsing Godot subreddit and forums, but that doesn't sound that good for built-in feature and for users who might not have internet."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-12-18T20:50:23Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8686,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve warning and documentation for built-in scripts in the Attach Node Script dialog",
+  "up": 4,
+  "updatedAt": "2023-12-19T13:40:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8686"
+}

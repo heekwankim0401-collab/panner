@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because the GLSL templates depend on the rendering backend, which is part of the engine's core. I had to change the engine and build it locally to work around these limitations more efficiently.",
+    "format": "form",
+    "workaround": "It needs changes to the GLSL templates in the engine to achieve the best performance. It can be worked around in each shader with additional code (that's what I'm doing now), but it is both ugly and performing worse than it could be."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-09-16T16:44:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5436,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add material render mode options for shaders working with depth values",
+  "up": 1,
+  "updatedAt": "2022-09-16T18:28:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5436"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because Spatial nodes are often times modified using position, scale and rotation rather than matrixes",
+    "format": "form",
+    "workaround": "for position you can use `transform.basis.origin`\nfor rotation you can use `rotation` or `rotation_degrees`\nfor scale you can use `transform.basis.scale`\n\nbut this is inconsistent and it would be nicer to have position, rotation and scale easily accessable"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-31T14:47:24Z",
+  "comments": 1,
+  "createdAt": "2022-07-31T14:43:11Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 5035,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make position and scale easily accessible",
+  "up": 0,
+  "updatedAt": "2022-07-31T14:59:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5035"
+}

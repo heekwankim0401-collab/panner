@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it is used by every developer all the time when editing 2d and 3d scenes.",
+    "format": "form",
+    "workaround": "editor plugin, but so far not implemented."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-07T15:28:55Z",
+  "comments": 3,
+  "createdAt": "2021-07-18T00:33:19Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3007,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display the mouse coordinates in the 2D editor",
+  "up": 0,
+  "updatedAt": "2024-08-20T09:20:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3007"
+}

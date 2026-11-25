@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's about making the editor usable.\n\n(btw related https://github.com/godotengine/godot/issues/6797)",
+    "format": "legacy",
+    "workaround": "That's definitely more than few lines."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-22T20:37:34Z",
+  "comments": 9,
+  "createdAt": "2020-10-08T13:29:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1630,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make UndoRedo history independent for each scene",
+  "up": 20,
+  "updatedAt": "2022-08-22T20:37:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1630"
+}

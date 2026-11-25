@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This requires integration with the core rendering and input polling loop.\n\nI've  opened a PR for this: https://github.com/godotengine/godot/pull/96991",
+    "format": "form",
+    "workaround": "No -- this requires interacting with the AMD Radeon drivers to function."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-09-14T11:41:23Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10739,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for AMD Anti-Lag 2",
+  "up": 7,
+  "updatedAt": "2024-09-18T14:46:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10739"
+}

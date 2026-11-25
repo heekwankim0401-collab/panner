@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "properties are used quite often and having to type `(value)` for every one is an extra 7 characters and is honestly ugly in my opinion",
+    "format": "legacy",
+    "workaround": "Its less typing so it would probably be used more then the current version and no"
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-10T08:47:58Z",
+  "comments": 7,
+  "createdAt": "2020-11-23T22:04:47Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1880,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow implicit property typing with new properties",
+  "up": 0,
+  "updatedAt": "2021-01-10T08:48:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1880"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Loading resources is part of the core features of the engine,",
+    "format": "form",
+    "workaround": "I think it would be possible to instantiate nodes in a packed scene one by one and rebuild the scene tree structure, but not using few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-10T07:34:35Z",
+  "comments": 2,
+  "createdAt": "2022-06-10T01:06:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4650,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add progress status on `PackedScene.instantiate()`",
+  "up": 0,
+  "updatedAt": "2022-06-10T07:34:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4650"
+}

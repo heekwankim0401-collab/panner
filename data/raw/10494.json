@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a basic functionality the interactive stream player should have.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-10T20:16:37Z",
+  "comments": 2,
+  "createdAt": "2024-08-19T06:17:09Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.4",
+  "number": 10494,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose the currently playing clip in AudioStreamInteractive",
+  "up": 4,
+  "updatedAt": "2024-12-10T20:20:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10494"
+}

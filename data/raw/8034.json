@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the animation editor usability.",
+    "format": "form",
+    "workaround": "Not trivially."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-08T12:32:09Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8034,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow previewing multiple animations at once",
+  "up": 3,
+  "updatedAt": "2023-10-13T13:31:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8034"
+}

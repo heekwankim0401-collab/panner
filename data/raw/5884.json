@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think add-ons can add new event types or callbacks on core objects like Window?",
+    "format": "form",
+    "workaround": "The best workaround I've found currently is to subscribe to the main viewport  size_changed signal and then check if the window mode has changed after this size change. Assuming fullscreen/window changes also mean changing size.\n\nHowever, it's not ideal as it seems the viewport size change when moving from fullscreen to windowed happens before the mode change, so I need to set up a timer to check for the change a little while after the viewport size change to catch going to window mode. Technically I guess you could also change between fullscreen and window mode without changing the size of the viewport in some cases, which this workaround would miss."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-12-01T10:05:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5884,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add window mode (fullscreen state) change signal or callback window event",
+  "up": 4,
+  "updatedAt": "2023-10-14T16:13:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5884"
+}

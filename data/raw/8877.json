@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would make the ProgressBar node more useful in a broader set of scenarios.",
+    "format": "form",
+    "workaround": "You can't really achieve the same look just scripting the ProgressBar since it always starts from either the left or the right, you can always make a custom control but if you want it to follow the application theme it's a bit bit more complex."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-02T11:09:18Z",
+  "comments": 1,
+  "createdAt": "2024-01-14T08:16:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 8877,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an \"indeterminate\" mode to the ProgressBar control",
+  "up": 17,
+  "updatedAt": "2024-02-02T11:09:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8877"
+}

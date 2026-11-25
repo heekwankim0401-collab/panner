@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": "2026-11-09T17:17:39Z",
+  "comments": 0,
+  "createdAt": "2026-02-17T01:10:18Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.8",
+  "number": 14254,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Android: Allow SAF to access cloud providers",
+  "up": 1,
+  "updatedAt": "2026-11-09T17:17:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14254"
+}

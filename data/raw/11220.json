@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This improves the 3d editor.",
+    "format": "form",
+    "workaround": "cannot be worked around easily"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-27T21:28:30Z",
+  "comments": 0,
+  "createdAt": "2024-11-23T02:01:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:physics",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 11220,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an editor setting to only show 3D collision shape gizmos for selected nodes",
+  "up": 2,
+  "updatedAt": "2026-01-27T21:29:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11220"
+}

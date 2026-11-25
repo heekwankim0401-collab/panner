@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because **class_name** and the inspector are core.",
+    "format": "legacy",
+    "workaround": "This enhancement will be used all the time as it affects a keyword for GDScript and the way the engine would handle it in the inspector"
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-02T14:06:25Z",
+  "comments": 4,
+  "createdAt": "2019-09-28T02:44:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 109,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Have class_name classes properly show in the inspector",
+  "up": 13,
+  "updatedAt": "2020-07-02T14:06:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/109"
+}

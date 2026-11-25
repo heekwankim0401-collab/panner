@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This changes gdscript.",
+    "format": "form",
+    "workaround": "It will be used often"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-04T14:01:30Z",
+  "comments": 180,
+  "createdAt": "2021-07-10T15:35:45Z",
+  "down": 28,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2972,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Python-style list comprehensions to GDScript",
+  "up": 62,
+  "updatedAt": "2024-08-21T08:14:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2972"
+}

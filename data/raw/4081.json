@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The Script Editor is core.\n\n_**Note**: see also related discussion: https://github.com/godotengine/godot-proposals/discussions/4248_",
+    "format": "form",
+    "workaround": "... You could use other IDE's. However, it's worth noting that the Godot Editor having a built-in text editor is nothing to scoff at. Some users would even struggle to keep two programs open at the same time, whether that'd be due of management or performance issues, or even simply limited screen size. Shrinking the font size may also not be an option for them."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2022-02-22T14:42:17Z",
+  "down": 2,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4081,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Script Editor: Allow displaying Scripts and Docs as tabs above the Text Editor, akin to other IDEs",
+  "up": 115,
+  "updatedAt": "2026-01-13T21:13:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4081"
+}

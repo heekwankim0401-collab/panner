@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-08-13T14:36:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15372,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make _draw function render above the Origin Hint x and y lines when used in tools",
+  "up": 0,
+  "updatedAt": "2026-08-13T17:09:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15372"
+}

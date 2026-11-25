@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it's possible to implement this feature with a gdscript plugin, but it would have some drawbacks, for example the user can't use project manager for creating projects from template, since afaik there's no Project manager API like adding new nodes etc",
+    "format": "legacy",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-09-09T02:35:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1481,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to save and load local project templates",
+  "up": 25,
+  "updatedAt": "2021-09-29T07:37:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1481"
+}

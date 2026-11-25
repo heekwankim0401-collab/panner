@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Object class names seems very core",
+    "format": "form",
+    "workaround": "No, I do not think so"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-04-29T12:08:26Z",
+  "down": 1,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12334,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Object.get_class() and Object.is_class() to include script class_name and not just built in base class",
+  "up": 5,
+  "updatedAt": "2025-05-01T11:45:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12334"
+}

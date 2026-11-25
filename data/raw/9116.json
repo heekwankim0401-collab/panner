@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Core functionality.",
+    "format": "form",
+    "workaround": "Will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-02-17T23:42:33Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9116,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change LightmapGI Global Texel Scale to Texels Per Unit",
+  "up": 12,
+  "updatedAt": "2026-07-07T08:19:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9116"
+}

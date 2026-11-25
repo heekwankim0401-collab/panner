@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Enhancement to built-in type.",
+    "format": "form",
+    "workaround": "Doing this from script code is slow."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-12T20:53:18Z",
+  "comments": 8,
+  "createdAt": "2023-10-16T04:30:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 8139,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "PackedByteArray: add to_vector2_array and to_vector3_array functions",
+  "up": 10,
+  "updatedAt": "2025-06-12T20:53:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8139"
+}

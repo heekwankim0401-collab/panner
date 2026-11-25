@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would not be possible to implement this in an add-on so that the code is brief. The only simplification would be a coalescing function like\n```py\nfunc coalesce(a, b):\n    return a if a else b\n```\n\nEven with the function, `b` would always be evaluated even if `a` is valid.",
+    "format": "legacy",
+    "workaround": "This will be used often. Currently, the workaround for slow or non-const function is:\n```py\nvar http_result = http_get()\nvar result = http_result if http_result else cached_value\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 38,
+  "createdAt": "2020-08-06T22:13:37Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1321,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a null-coalescing operator (`??`)",
+  "up": 181,
+  "updatedAt": "2026-10-01T22:19:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1321"
+}

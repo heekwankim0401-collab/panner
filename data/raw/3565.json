@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving convenience when comparing floating-point values \"the intended way\".",
+    "format": "form",
+    "workaround": "Yes, as the epsilon constant can be declared in a script as follows:\n\n```gdscript\nconst EPSILON = 0.00001\n\nfunc _ready():\n    if 2.0 + 3.0 < 5.0 + EPSILON:\n        print(\"Lower than 5; this should never happen.\")\n```\n\nFor shaders, `const float EPSILON = 0.00001;` can be used in global scope as well."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-11-17T18:12:46Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3565,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `CMP_EPSILON` constant to the scripting API",
+  "up": 14,
+  "updatedAt": "2024-07-11T19:16:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3565"
+}

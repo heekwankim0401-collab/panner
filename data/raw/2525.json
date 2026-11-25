@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is part of `BaseButton`",
+    "format": "markdown",
+    "workaround": "Unfortunately I've not yet found a workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-29T19:16:25Z",
+  "comments": 1,
+  "createdAt": "2021-03-29T19:14:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2525,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow setting the hover state on a BaseButton",
+  "up": 0,
+  "updatedAt": "2021-03-29T19:17:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2525"
+}

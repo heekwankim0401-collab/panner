@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't know, can't code, sigh one of reasons I don't use plug-ins is, bec. they add bloated code, bunch of folders, so on, to a project . . I'd like a plug-in, sort-of to not do that . . Be it's own program, or, to have a plug-in, that just worked, instead of adding a bunch of stuff, maybe some simple UI, for plug-in makers, anyway, the plug-in system could be more cool, right now it's a bit almost sigh like, 'yard - sale', so on . . It works, quite well, as it is, it has a few down-sides, wanted, to ask for a more ' pro ' or, ' optimized ' plug-in system, easy to use for plug-in makers, so on . . . .",
+    "format": "form",
+    "workaround": "I can't do this, never seen this in a plug-in, or, SOME folder that is NOT added, to the final export, in Godot, but, it'd make the res folder weird, to read . . Stuff is here, stuff is not . . Or, if one could mark a folder, for not export, or, certain say selected files, so, they can be used in a plug-in, and, one can decide, if to export them, or, not, or so . . ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-02-10T04:25:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3945,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Suggestion to make plug-ins more adaptable or, flexible . . .",
+  "up": 0,
+  "updatedAt": "2022-02-12T14:36:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3945"
+}

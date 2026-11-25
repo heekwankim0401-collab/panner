@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Relates to built-in math classes",
+    "format": "form",
+    "workaround": "It's a mathy subject, which is easy to mess up. The calculations can be implemented in GDScript as well though. Proof to this is that there's bugs in my implementation as well."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-19T12:47:43Z",
+  "comments": 5,
+  "createdAt": "2021-12-11T16:18:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3656,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Euler rotation representation should ideally be a real class, not piggybacking on Vector3",
+  "up": 0,
+  "updatedAt": "2021-12-19T17:02:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3656"
+}

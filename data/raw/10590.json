@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "POT Generator is core feature and can't be extended.",
+    "format": "form",
+    "workaround": "You can manually add exceptions using some post-process script that removes strings, but it's inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-15T16:46:53Z",
+  "comments": 7,
+  "createdAt": "2024-08-29T10:04:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.4",
+  "number": 10590,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow skipping script lines from POT generation",
+  "up": 3,
+  "updatedAt": "2024-11-15T16:46:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10590"
+}

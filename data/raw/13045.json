@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a shortcut.  I'm sure you could write a plugin to provide a shortcut for the button but it would be a misuse of a plugin I think.",
+    "format": "form",
+    "workaround": "I'd use it a lot.  I made it through about 40 minutes of searching for a solution which should underscore how important I think this shortcut is.  I've already spent more time researching and creating this issue than I'll ever spend moving the mouse to the button to click it."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-10T14:34:55Z",
+  "comments": 4,
+  "createdAt": "2025-08-21T19:26:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": "4.6",
+  "number": 13045,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a shortcut for previous/next edited document",
+  "up": 0,
+  "updatedAt": "2025-11-10T14:36:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13045"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As I said before its core of signals",
+    "format": "form",
+    "workaround": "Yes"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-21T09:55:20Z",
+  "comments": 1,
+  "createdAt": "2024-01-18T15:49:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.4",
+  "number": 8912,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add 'is_connected()' function without parameters to check if signal is connected",
+  "up": 6,
+  "updatedAt": "2024-09-21T09:55:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8912"
+}

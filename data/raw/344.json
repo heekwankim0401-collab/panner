@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its already there I think someone must have accidentally not made it overridable.",
+    "format": "legacy",
+    "workaround": "For every variable of the spatial class I want to have a setter for, I could make a second variable like psuedo_rotation. Then use a setter on that, then on physics_process() set rotation = psuedo_rotation. But then I don't get all the functionality the actual rotation has from the spatial class and it wouldn't be perfectly synced especially when it comes to changes triggered by input events. It should also be totally unnecessary to make an assignment every iteration, all the tools are there just not being used. Alternatively I could do the setter manually every time I set the transform information but that is extremely tedious, unreadable, I might forget an instance or implement it differently on accident."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-21T14:27:51Z",
+  "comments": 3,
+  "createdAt": "2019-12-30T15:40:06Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 344,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow overriding built-in setter and getter methods with a script",
+  "up": 1,
+  "updatedAt": "2022-04-21T14:27:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/344"
+}

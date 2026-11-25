@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No reason, but this would make the tool more flexible to use for the community.\n\nThis is actually how `--doctool` works in Godot so I don't see a reason why this cannot be implemented.",
+    "format": "markdown",
+    "workaround": "Certainly."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-15T12:46:24Z",
+  "comments": 2,
+  "createdAt": "2021-02-06T20:12:43Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": "4.0",
+  "number": 2254,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Output  reStructuredText (`.rst`) generated documentation per module",
+  "up": 0,
+  "updatedAt": "2021-02-15T12:46:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2254"
+}

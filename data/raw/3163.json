@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "These additions will help new users get the hang of threads, and they fit well with the way other things are done in Godot.",
+    "format": "form",
+    "workaround": "Yes, but it is kind of not trivial, especially for novices at programming. Here's what I came up with for a general solution:\n\n```gdscript\nclass_name ThreadedFuncExecutor\nextends Object\n\nsignal func_returned\n\nvar _worker: Thread\nvar _result = null\n\n\nfunc _wrapper(data: Array) -> void:\n\t\n\tif data[2]:  # So you can execute functions that take no arguments.\n\t\t_result = data[0].call(data[1], data[2])\n\telse:\n\t\t_result = data[0].call(data[1])\n\t\t\n\temit_signal(\"func_returned\")\n\n\nfunc execute(instance: Object, method: String, userdata = null,\n\t\tpriority = Thread.PRIORITY_NORMAL) -> void:\n\t\n\t_worker = Thread.new()\n\t_result = null\n\tvar data = [instance, method, userdata]\n\t_worker.start(self, \"_wrapper\", data, priority)\n\t\n\nfunc collect():\n\t\n\tif _worker.is_active():\n\t\t_worker.wait_to_finish()\n\t\treturn _result\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-08-19T18:44:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3163,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve Thread for better usability",
+  "up": 3,
+  "updatedAt": "2022-01-11T19:14:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3163"
+}

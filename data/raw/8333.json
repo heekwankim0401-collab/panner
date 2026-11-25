@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Constraints are an important tool in UI design, to the point that it can be considered basic functionality. Currently, Godot allows for minimum size limiting, but not maximum size. This has to do with \"broken expectations\" if both are present. As such, a dedicated node should be added, which will have easily understandable behavior.",
+    "format": "form",
+    "workaround": "As mentioned in #1802, this can be achieved by adding code to a MarginContainer (SpanLimiter). However, that's a rather inconvenient solution, especially when working large and complex UI."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-07T23:31:11Z",
+  "comments": 2,
+  "createdAt": "2023-11-01T12:01:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8333,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add a SizeContainer control node",
+  "up": 67,
+  "updatedAt": "2026-04-07T23:32:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8333"
+}

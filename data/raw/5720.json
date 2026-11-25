@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "yeah its just a more sensible default for me",
+    "format": "form",
+    "workaround": "yes, its just a UX improvement"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-05T23:03:48Z",
+  "comments": 2,
+  "createdAt": "2022-11-04T16:07:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5720,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make debug --debug-server enabled by default and change command line flag to --disable-debug-server",
+  "up": 0,
+  "updatedAt": "2024-02-05T23:09:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5720"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Profiler is a core feature. This is just an addition to it.",
+    "format": "form",
+    "workaround": "I'd say pretty often as it pertains to optimization."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-09-30T17:41:41Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13311,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Source report for the profiler when a stutter is detected.",
+  "up": 0,
+  "updatedAt": "2026-07-09T23:00:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13311"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDScript core",
+    "format": "form",
+    "workaround": "I've not found a way to enter debugger without crashing the game."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-03T17:45:50Z",
+  "comments": 5,
+  "createdAt": "2023-05-03T17:25:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6803,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a `debugger` keyword",
+  "up": 0,
+  "updatedAt": "2023-05-06T15:58:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6803"
+}

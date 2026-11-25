@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "1. It’s not a single asset—it’s a structured ecosystem\nThis proposal isn’t about one plugin or tool. It’s a modular framework that organizes and curates existing assets into a coherent, interoperable system. That kind of structure requires coordination, versioning standards, and interface consistency that go beyond what individual add-ons typically offer.\n\n2. It defines a common starting point for all developers\nBy bundling a Core Module with essential systems (input, state management, save/load, UI templates, etc.), it gives every developer—especially newcomers—a reliable foundation. This is something that should be available by default, not something users have to hunt down externally.\n\n3. It reduces fragmentation and duplication across the ecosystem\nRight now, developers often reimplement the same features (e.g. dialogue systems, platformer controllers, save/load logic) because there’s no clear “official” or recommended version. By curating and integrating the best existing MIT-licensed assets, this system would reduce duplicated effort and improve consistency across projects.\n\n4. It improves discoverability and trust\nAssets in the Asset Library vary widely in quality, documentation, and maintenance. By making this system officially supported and bundled, it signals to developers that these modules meet a higher standard—tested, documented, and maintained. That builds trust and encourages adoption.\n\n5. It enables seamless integration and updates\nCore modules can be versioned alongside the engine, tested for compatibility, and updated in sync with Godot releases. This ensures that developers aren’t left guessing whether a third-party asset will break with the next update.\n\n6. It strengthens Godot’s identity as a professional-grade engine\nHaving a curated, modular toolkit built into the engine reinforces Godot’s reputation as a serious, production-ready platform. It lowers the barrier to entry for studios and teams who expect a more integrated development experienc",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-09-14T11:52:00Z",
+  "down": 2,
+  "labels": [
+    "topic:assetlib",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13169,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Proposal: A Modular, Curated Asset Ecosystem for Godot",
+  "up": 0,
+  "updatedAt": "2025-10-29T11:03:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13169"
+}

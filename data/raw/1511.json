@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "In every other application in the app store this feature is used - from the calculator to any browser. Why is Godot not supporting this feature? (Correct me if I am wrong, but I did not found this setting where I expected it)",
+    "format": "legacy",
+    "workaround": "I dont think so."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-04T17:12:30Z",
+  "comments": 6,
+  "createdAt": "2020-09-14T09:04:21Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:gui",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 1511,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow specifying the type of virtual keyboard to pop up in LineEdit and `OS.show_virtual_keyboard()`",
+  "up": 24,
+  "updatedAt": "2022-12-20T15:18:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1511"
+}

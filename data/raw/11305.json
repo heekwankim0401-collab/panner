@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about providing a better user experience in the editor.",
+    "format": "form",
+    "workaround": "This can be worked around by updating the project settings for each project, but it's not particularly convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-12-06T19:08:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11305,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a context menu option to the Debugger > Errors panel to ignore GDScript warnings",
+  "up": 3,
+  "updatedAt": "2025-05-23T14:41:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11305"
+}

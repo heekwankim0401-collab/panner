@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core part of Godot's data handling",
+    "format": "form",
+    "workaround": "This can be worked around with script, however from a usability and consistency stance does need work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-10-03T20:13:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5536,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make \"polygon\" data type consistent across polygon types",
+  "up": 4,
+  "updatedAt": "2022-10-04T07:21:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5536"
+}

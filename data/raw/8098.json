@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This concerns SDFGI and lights, core systems.",
+    "format": "form",
+    "workaround": "There isn't a workaround I've found that can mimic this functionality. The closest I've found was to create a mesh with the global illumination mode set to static, then give that mesh a highly emissive material. The way the light works is exactly how I imagine static lights would work in my proposal, but I haven't found a way to hide the mesh while keeping the light."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-13T11:40:02Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8098,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change the behavior of static lights in SDFGI to be similar to static lights in Lightmap GI",
+  "up": 4,
+  "updatedAt": "2023-10-13T20:03:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8098"
+}

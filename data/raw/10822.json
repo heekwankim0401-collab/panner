@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If you can do this using an addon, then I'm all for it.",
+    "format": "form",
+    "workaround": "I didn't see any way to implement this using plugins."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-09-24T21:28:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10822,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Displaying the names of code regions in the scene node tree",
+  "up": 0,
+  "updatedAt": "2024-09-25T16:59:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10822"
+}

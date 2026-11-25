@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It has to be on the core method database.",
+    "format": "markdown",
+    "workaround": "It is purely a matter of surfacing better language and debugging capabilities."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-08T19:08:37Z",
+  "comments": 3,
+  "createdAt": "2021-02-04T21:59:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdextension"
+  ],
+  "milestone": "4.0",
+  "number": 2242,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "ClassDB: capture nature of constants as being part of a bitfield",
+  "up": 0,
+  "updatedAt": "2023-12-02T16:31:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2242"
+}

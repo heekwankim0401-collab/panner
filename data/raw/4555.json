@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is probably expected behavior, therefore it wouldn't make sense to implement it as an add-on.",
+    "format": "form",
+    "workaround": "The current workaround is to start a selection and scroll the mouse wheel to show more messages."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-05-17T15:28:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4555,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement scrolling by text selection in RichTextLabel",
+  "up": 3,
+  "updatedAt": "2022-05-17T21:38:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4555"
+}

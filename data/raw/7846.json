@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's pretty useful behaviour, I feel. Especially if you're making addon shaders where users will be tweaking parameters. Being able to document them would be quite useful for less intuitive behaviours.",
+    "format": "form",
+    "workaround": "Nope, it's an engine limitation (as far as I know)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-29T08:15:38Z",
+  "comments": 5,
+  "createdAt": "2023-09-25T01:17:03Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.3",
+  "number": 7846,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow documenting shader uniforms",
+  "up": 15,
+  "updatedAt": "2024-08-14T22:22:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7846"
+}

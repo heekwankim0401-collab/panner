@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core feature.\n\nOriginal issue: https://github.com/godotengine/godot/issues/17910",
+    "format": "legacy",
+    "workaround": "Nope - the point is that the users don't have to work around the current default in every single RB they use."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-06-07T09:52:23Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1019,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Set `contact_monitor` on RigidBodies to 1 by default",
+  "up": 6,
+  "updatedAt": "2024-09-30T08:11:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1019"
+}

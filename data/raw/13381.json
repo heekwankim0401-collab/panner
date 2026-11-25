@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In addition to improving support for external editors, this could also improve the usability of the built-in editor for people with mobility/dexterity disabilities that prevent them from easily clicking and dragging a mouse while simultaneously holding the Ctrl key.",
+    "format": "form",
+    "workaround": "Can be \"worked around\" by manually writing every onready declaration ever used, or by temporarily disabling the external editor option and performing the action using the built-in editor. Neither option is very convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-14T05:02:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13381,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add onready var Ctrl+drag and drop alternative for external editors",
+  "up": 3,
+  "updatedAt": "2025-10-14T13:40:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13381"
+}

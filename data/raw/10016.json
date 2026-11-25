@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should be a core feature",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-23T13:02:25Z",
+  "comments": 3,
+  "createdAt": "2024-06-23T01:39:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10016,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Nested Type Collections",
+  "up": 0,
+  "updatedAt": "2024-06-23T13:28:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10016"
+}

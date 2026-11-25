@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "New developers will not be aware of asset library.",
+    "format": "legacy",
+    "workaround": "Writing a YAML parser, especially one supporting comments (which are the main draw of YAML), is definitely not 'a few lines'"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-21T16:34:41Z",
+  "comments": 27,
+  "createdAt": "2020-05-28T17:03:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 941,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for parsing YAML files",
+  "up": 21,
+  "updatedAt": "2025-07-10T11:17:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/941"
+}

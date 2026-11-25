@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Support for image abstraction with layers should be in the engine. \n\n.exr support is already in the engine, so it shouldn't be a problem to add layer support for it.",
+    "format": "form",
+    "workaround": "I think this is basic functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 34,
+  "createdAt": "2023-02-16T16:32:43Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6302,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to import .exr as separate layers, add a resource similar to AtlasTexture that allows you to select a separate .exr layer",
+  "up": 5,
+  "updatedAt": "2023-03-10T09:33:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6302"
+}

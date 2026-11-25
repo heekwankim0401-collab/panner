@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is probably expected behavior, since it already works in the Script Editor.\nTherefore, it might not make sense to get it from an add-on.",
+    "format": "form",
+    "workaround": "I don't know if this can be worked around with a few lines of script.\nBut the expected behavior already works in the Script Editor,"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-05-17T15:36:16Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4556,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Harmonize double-click/triple-click selection/dragging behavior across LineEdit, TextEdit and RichTextLabel",
+  "up": 4,
+  "updatedAt": "2022-05-17T21:37:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4556"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It probably needs to be implemented in the core, where the options are set for exported games/apps, setting up a flag or something similar.",
+    "format": "form",
+    "workaround": "There might be a way to write scripts for this depending on the OS (maybe not so easy) but it would be much nicer to have it as an option within the Editor to go along with the low processor mode."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-08-23T07:53:25Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 5230,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to prioritize integrated GPU for exported games/apps",
+  "up": 5,
+  "updatedAt": "2025-05-18T21:07:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5230"
+}

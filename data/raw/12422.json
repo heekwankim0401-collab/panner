@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "form",
+    "workaround": "This can not be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-15T15:29:40Z",
+  "comments": 0,
+  "createdAt": "2025-05-13T13:29:59Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": "4.5",
+  "number": 12422,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement the `count` parameter in `RenderingServer.canvas_item_add_triangle_array()`",
+  "up": 1,
+  "updatedAt": "2025-05-15T15:30:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12422"
+}

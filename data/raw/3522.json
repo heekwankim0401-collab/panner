@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it's core funcunality",
+    "format": "form",
+    "workaround": "No, it must be inside the engine"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-11-09T22:38:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3522,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `get_modified_time()` method to DirAccess (to complement FileAccess' `get_modified_time()`)",
+  "up": 1,
+  "updatedAt": "2021-11-10T00:03:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3522"
+}

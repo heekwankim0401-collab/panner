@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "I imagine an editor script could be written to do this, but it would require users upgrading their project's Godot version to seek out, download, and run the script, rather than just having the editor do it automatically. Given the amount of friction that UIDs have already faced for 4.4, I think we should be trying to make the upgrade as seamless as possible, not (practically) requiring any external tools if possible."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-30T17:42:46Z",
+  "comments": 3,
+  "createdAt": "2025-01-26T06:28:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 11639,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add tool to update all scenes and resources to use UIDs for 4.4",
+  "up": 4,
+  "updatedAt": "2025-02-13T12:22:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11639"
+}

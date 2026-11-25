@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "markdown",
+    "workaround": "You can manually replace the paths with local ones, but they get overridden once you save the resource."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-15T09:32:39Z",
+  "comments": 1,
+  "createdAt": "2021-04-15T07:27:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2607,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use relative instead of global paths in resources",
+  "up": 0,
+  "updatedAt": "2021-04-15T09:32:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2607"
+}

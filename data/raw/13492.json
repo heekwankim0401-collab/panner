@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is related to getting internal state of the `TileMapLayer`, so an add-on won't work since we don't have access to the underlying data.",
+    "format": "form",
+    "workaround": "There is a workaround, which is using `get_coords_for_body_rid()` and setting `physics_quadrant_size = 1`.\n\nBut this is not ideal because:\n\n1. `get_coords_for_body_rid` is misleading and makes it seem like it will return the specific cell coordinate (which it used to do prior to 4.5). In other words, it requires knowledge of the internals and setting `physics_quadrant_size = 1` which from an API/interface perspective seems like a hacky workaround.\n2. It forces us to not use the performant version of tile colliders (from v4.5) just to be able to get specific cell coordinates from a collision."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-10-27T22:07:20Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13492,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to get the TileMapLayer cell coordinates where a collision occurred",
+  "up": 19,
+  "updatedAt": "2025-10-28T16:05:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13492"
+}

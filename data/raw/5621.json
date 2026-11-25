@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't be done as an add-on, on the other hand I believe it will benefit every user of Godot, since this is a common feature in the majority of IDEs and text editor nowadays, since its original implementation in TextMate.",
+    "format": "form",
+    "workaround": "No, it's part of the core of the text editor."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-28T00:21:50Z",
+  "comments": 0,
+  "createdAt": "2022-10-19T16:07:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 5621,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Selection and Caret for Next Occurrence of Selection (Select multiple occurrences of the same text and change them all at once)",
+  "up": 19,
+  "updatedAt": "2022-10-31T10:13:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5621"
+}

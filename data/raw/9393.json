@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't know if this can be hacked in as an addon, but the base thing is core already",
+    "format": "form",
+    "workaround": "it can't be worked around"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-03-27T14:05:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9393,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Give the `Gradient`'s points handles in the `GradientTexture2D` editor",
+  "up": 4,
+  "updatedAt": "2024-03-27T14:14:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9393"
+}

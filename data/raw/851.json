@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "if implemented right it would speed up development and while it could be implimented as a asset library its very unlikely someone would do something this big",
+    "format": "legacy",
+    "workaround": "idk if people would use this but it sounds like it could be the next big source control\nalso it couldn't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 28,
+  "createdAt": "2020-05-18T01:14:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 851,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement live multi-user editing of projects over the network",
+  "up": 34,
+  "updatedAt": "2026-06-04T16:59:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/851"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is related to keywords.",
+    "format": "form",
+    "workaround": "I think it would be used often to manage problems related to execution order at a large scale."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-28T10:52:54Z",
+  "comments": 3,
+  "createdAt": "2024-07-28T08:58:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10296,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to force `await` upon select functions.",
+  "up": 0,
+  "updatedAt": "2024-07-28T10:52:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10296"
+}

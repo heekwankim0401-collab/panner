@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The file system is an elementary part of the engine, it would be nice if it has this ability by default. Also I am not sure if an addon should mess with the internal filesystem dock, probably not a good idea.\n\n*Bugsquad edit (keywords for easier searching): non-resource, nonresource*",
+    "format": "legacy",
+    "workaround": "Not really."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-06T08:14:18Z",
+  "comments": 26,
+  "createdAt": "2020-04-07T19:46:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 677,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to see all files to FileSystem dock, even files that can not be used from Godot",
+  "up": 82,
+  "updatedAt": "2024-09-06T08:52:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/677"
+}

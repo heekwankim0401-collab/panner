@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`ItemList` is core node",
+    "format": "form",
+    "workaround": "Well yes, this can be implemented in scripts, it's inconvenient (plus you need to check if `ItemList` is the focus)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-05-03T08:55:13Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6798,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make it an option whether navigation of `ItemList` must be the same row",
+  "up": 0,
+  "updatedAt": "2025-11-15T15:16:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6798"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It will make Godot editor and games/programs made with Godot more usable for users of graphic tables and pens (and, possible, other niche pointing devices).",
+    "format": "form",
+    "workaround": "For me, as for developer: of course, I can expose necessarily options and workaround for my programs/games.\nFor me, as end user of programs/games made by developer not aware of this issue: not much can be done. Only hacking program/game (or sending pull request if it open-sourced) or asking developer to add some workaround.\nSince using graphic tablets with pen as pointing device is quite niche use case, it very unlikely that developer might considering doing something with this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-03-12T18:39:56Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9290,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "[Accessibility] Make tooltips easier to appear when using certain niche pointing devices",
+  "up": 1,
+  "updatedAt": "2024-03-13T20:00:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9290"
+}

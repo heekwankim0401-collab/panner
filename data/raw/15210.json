@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-07-17T23:04:14Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15210,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable `VK_KHR_external_memory` (+ _win32/_fd) on the Vulkan rendering device when supported to allow zero-copy texture sharing with external renderers",
+  "up": 1,
+  "updatedAt": "2026-07-19T22:47:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15210"
+}

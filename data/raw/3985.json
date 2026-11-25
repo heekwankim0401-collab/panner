@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Physics engine related.",
+    "format": "form",
+    "workaround": "Not possible without massive overhead."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-02-17T05:29:17Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3985,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement multi-ray casting for VehicleWheel3D",
+  "up": 4,
+  "updatedAt": "2022-03-06T10:42:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3985"
+}

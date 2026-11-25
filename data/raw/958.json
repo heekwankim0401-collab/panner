@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It certainly could be an addon. I was already thinking of wrapping libOpus in a gdnative library. But the functionality to encode/decode at least ogg already exist right in the engine! So it seems like a bit of duplication.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-29T18:04:01Z",
+  "comments": 3,
+  "createdAt": "2020-05-29T04:48:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 958,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose Audio Encode/Decode methods to GDScript",
+  "up": 0,
+  "updatedAt": "2020-05-30T18:31:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/958"
+}

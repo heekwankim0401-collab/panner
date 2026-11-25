@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There are 3 ways to add this:\n* As an EditorPlugin (kind of limited)\n* As a custom C++ module\n* Part of editor's source code\n\nI think the feature would benefit a lot if it was made as a part of the editor code.",
+    "format": "legacy",
+    "workaround": "I belive many people will use this feature. Definitely can't be worked around with few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2020-08-16T16:15:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1379,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add built-in terminal to editor's bottom panel",
+  "up": 78,
+  "updatedAt": "2026-09-10T20:43:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1379"
+}

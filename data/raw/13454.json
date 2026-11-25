@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a very intrusive change touching the script editor auto complete and autoloads",
+    "format": "form",
+    "workaround": "You can work around it by specifying a gdscript file and have the script load a scene containing its children in _ready."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-24T09:47:55Z",
+  "comments": 2,
+  "createdAt": "2025-10-24T09:45:24Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13454,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Autocomplete Scene Autoloads",
+  "up": 0,
+  "updatedAt": "2025-10-24T09:56:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13454"
+}

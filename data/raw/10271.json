@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Parser behavior is core",
+    "format": "form",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-24T15:29:15Z",
+  "comments": 1,
+  "createdAt": "2024-07-24T13:48:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10271,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support conditional breakpoints",
+  "up": 1,
+  "updatedAt": "2024-07-24T15:29:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10271"
+}

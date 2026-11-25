@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I can't imagine how to achieve this from the outside.",
+    "format": "markdown",
+    "workaround": "I imagine the alternative *hacky* way would be to nuke the resource file under `.import/` and ask Godot to scan the file system for changes. Which feels very wrong."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-15T16:34:46Z",
+  "comments": 7,
+  "createdAt": "2021-03-18T16:50:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:import",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2477,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow editor plugins to force reimport of resources",
+  "up": 4,
+  "updatedAt": "2023-09-15T16:40:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2477"
+}

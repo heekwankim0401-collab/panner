@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't be an addon\n\n_Production edit: relates to godotengine/godot-roadmap#15_",
+    "format": "form",
+    "workaround": "It can't be worked around without editing the source"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2023-11-07T19:56:51Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8366,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for shader templates to override built-in shader code",
+  "up": 39,
+  "updatedAt": "2025-04-15T04:43:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8366"
+}

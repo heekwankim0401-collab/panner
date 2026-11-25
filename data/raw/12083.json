@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "String encoding/decoding should be in core.",
+    "format": "form",
+    "workaround": "Only \"easy\" way I can think of would be using GDExtension and using a library that can do the conversion."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-28T08:56:04Z",
+  "comments": 5,
+  "createdAt": "2025-03-27T10:07:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12083,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add/expose ability to decode EUC-KR encoded strings or any other format strings",
+  "up": 0,
+  "updatedAt": "2025-03-28T16:06:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12083"
+}

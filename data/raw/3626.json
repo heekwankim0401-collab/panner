@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "built-in types and docs are lacking",
+    "format": "form",
+    "workaround": "It can be worked around but it is ugly as well as undocumented, making it difficult to implement the first time around"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-20T14:21:04Z",
+  "comments": 4,
+  "createdAt": "2021-12-02T18:50:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3626,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Angular velocity is difficult to calculate when throwing rigid bodies in VR games",
+  "up": 2,
+  "updatedAt": "2024-10-24T00:59:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3626"
+}

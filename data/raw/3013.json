@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Reflection Probes are a core functionality of Godot.",
+    "format": "form",
+    "workaround": "No. There is no code workaround to \"force\" reflection of the sky in \"inside\" mode as far as I'm aware."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 30,
+  "createdAt": "2021-07-19T10:59:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3013,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Allow ReflectionProbes to recognize when the sky is occluded",
+  "up": 12,
+  "updatedAt": "2026-06-09T03:14:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3013"
+}

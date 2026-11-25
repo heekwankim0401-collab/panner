@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "no idea.",
+    "format": "form",
+    "workaround": "i tried wrapping adb executable in a script but to no effect."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-10T16:27:44Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 9495,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to use adb from system path instead of Sdk/",
+  "up": 0,
+  "updatedAt": "2024-04-10T17:58:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9495"
+}

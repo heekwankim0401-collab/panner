@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Grids are a very common method of displaying _groups of related objects_ in menus (ex: Inventory slots, Level selects, Menu options). Giving users more options to customize grids in menus allow menus to become more _flexible_ (especially on much _smaller, wider screens_).",
+    "format": "form",
+    "workaround": "- By default, GridContainer works the same as before (when _vertical_ is left _true_ by default).\n- Any grid can be represented by a VBoxContainer and a series of HBoxContainers (although GridContainers save a lot of headache accessing children nodes!)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-07-17T01:36:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10234,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `vertical` property to GridContainer",
+  "up": 19,
+  "updatedAt": "2025-08-07T17:47:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10234"
+}

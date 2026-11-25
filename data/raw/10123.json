@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't believe there is currently a way to add `@` properties to the engine in add-ons.",
+    "format": "form",
+    "workaround": "I could use `@onready var camera:=%Camera2D`. Nothing is exposed to inspector. But that breaks when a node is renamed and cannot be easily set from the internal inspector, only in script. If I reuse the same script in a lot of places, that adds an enforcement on node naming, which can be fragile.\n\nI could create a custom editor and flag each of those variables that shouldn't show. This is a large task for such a small button."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-07-05T20:10:37Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10123,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@export_internal` that prevents an exported variable from being edited as a scene instance",
+  "up": 6,
+  "updatedAt": "2025-03-20T01:55:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10123"
+}

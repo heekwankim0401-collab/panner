@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. it's an issue that i run into every time i want to introduce a customizable input mapping. It is very important to have this when we want the user to be able to change the shortcuts.",
+    "format": "form",
+    "workaround": "No. it will complicated the whole input handling."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-07-26T10:46:12Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 7378,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Key modifier logic.",
+  "up": 1,
+  "updatedAt": "2023-07-27T09:33:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7378"
+}

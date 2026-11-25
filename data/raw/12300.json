@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Above reason and also the fact that it's already in core.",
+    "format": "form",
+    "workaround": "No. The only alternative that I can think of in vanilla Godot is using GDNative but I'm not actually sure that will actually work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-04-23T06:56:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12300,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an alternative to `@subpath` in `inst_to_dict`",
+  "up": 6,
+  "updatedAt": "2025-06-09T18:14:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12300"
+}

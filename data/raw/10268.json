@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "`.cfg` files are an integral part of Godot. Given their significance, it makes sense to implement methods that can read and display information from these files directly. Relying on add-ons for such a fundamental task is unnecessary when it can be seamlessly integrated into the core engine.",
+    "format": "form",
+    "workaround": "As you can see, you need quiet a lot of code to simply read out the `.cfg` file."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-01T11:44:12Z",
+  "comments": 4,
+  "createdAt": "2024-07-23T12:31:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10268,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Obtain plugin information by name",
+  "up": 1,
+  "updatedAt": "2024-09-01T12:10:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10268"
+}

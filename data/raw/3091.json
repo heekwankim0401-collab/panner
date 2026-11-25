@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this is a fundamental behaviour of how Godot imports the gLTF2.0",
+    "format": "form",
+    "workaround": "to achieve a workaround.... i am trying to write a script to detect a tag like <mmesh001>, it would be possible with a tool script to achieve what i want so long as i add these extra tags to my blender file\n\nit's not a suitable solution for implementation"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-08-04T19:50:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3091,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement support for importing instance groups from glTF 2.0 scenes",
+  "up": 3,
+  "updatedAt": "2021-08-04T20:24:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3091"
+}

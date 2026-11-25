@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it would be a very easy addition, with far more effort going into creating an obscure add-on like this.",
+    "format": "form",
+    "workaround": "If what is meant by this is the original behavior will be preserved, then yes, this last override will default to the traditional behavior, or the setting will remain off by default.\n\nIf what is meant by this is a workaround for my issue, then no, there is no workaround other than double-checking all parameters (which calls more interop functions and will be checked anyway in look_at)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-03-13T03:28:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11976,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add option to disable \"look_at\" errors",
+  "up": 0,
+  "updatedAt": "2025-08-13T23:06:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11976"
+}

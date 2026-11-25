@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I have no idea how this could be implemented",
+    "format": "form",
+    "workaround": "I can't see non-ugly workarounds.\n\nOne idea is to clear properties values before saving the scene, like set the theme value to null etc, but it seems there is no way t do this in general (I could override `_input` for `Ctrl+S` tho)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-01-20T18:17:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3835,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to not save editor resources when saving scenes",
+  "up": 1,
+  "updatedAt": "2022-01-20T18:49:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3835"
+}

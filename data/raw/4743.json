@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It requires changing alot of core and editor code.",
+    "format": "form",
+    "workaround": "An Editor Plugin can be created, although not ideal."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-25T00:17:45Z",
+  "comments": 4,
+  "createdAt": "2022-06-24T23:40:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4743,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for exposing/exporting Script Methods to the Editor",
+  "up": 0,
+  "updatedAt": "2022-06-26T23:00:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4743"
+}

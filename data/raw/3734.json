@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Lightmaps are Core, and there's no way to change a core functionality easily without tweaking the engine.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-11T18:04:32Z",
+  "comments": 3,
+  "createdAt": "2021-12-31T20:52:59Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 3734,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Bring back an option to not use atlases in LightmapGI",
+  "up": 0,
+  "updatedAt": "2022-08-11T18:36:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3734"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I feel it improves the user experience for a game engine context especially, since backface culling is the norm.\nI found [someone else](https://www.reddit.com/r/godot/comments/1dne5ya/any_way_to_click_through_backfaces_in_the_editor/) who also needs this.",
+    "format": "form",
+    "workaround": "I don't think it can."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-06-04T03:10:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12550,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ignore backfaces when selecting Node3Ds in the Editor viewport",
+  "up": 11,
+  "updatedAt": "2025-07-14T16:53:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12550"
+}

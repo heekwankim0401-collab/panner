@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "legacy",
+    "workaround": "I think it is very useful and standard behavior so it needs to exist in the engine. And it will be used very often."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-01T21:08:02Z",
+  "comments": 3,
+  "createdAt": "2020-06-11T23:38:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1043,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show the highlight on MeshInstance when using arrow keys on keyboard to select it",
+  "up": 3,
+  "updatedAt": "2021-09-01T21:08:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1043"
+}

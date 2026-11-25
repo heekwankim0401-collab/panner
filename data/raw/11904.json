@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Games like Fortnite use this animation LOD trick when you have multiple characters visible at the same time in the game, most notably on LEGO Fortnite mode.",
+    "format": "form",
+    "workaround": "I don't think I can do any workarounds for that unless writing my own SkeletonModifier3D from scratch."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-03T21:56:25Z",
+  "comments": 3,
+  "createdAt": "2025-03-04T07:09:11Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.5",
+  "number": 11904,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Skeleton3D/SkeletonModifier3D \"advance()\" just like the AnimationTree's counterparts for LODs",
+  "up": 2,
+  "updatedAt": "2025-04-03T23:13:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11904"
+}

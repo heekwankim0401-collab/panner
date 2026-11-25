@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "ScrollContainers are core. Theoretically, a reimplementation of a ScrollContainer could be made as an asset, but that's impractical.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-01T18:11:42Z",
+  "comments": 2,
+  "createdAt": "2025-10-23T22:08:09Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.6",
+  "number": 13452,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `scrollbar_h/v_separation` theme constants to ScrollContainer",
+  "up": 5,
+  "updatedAt": "2025-11-01T18:11:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13452"
+}

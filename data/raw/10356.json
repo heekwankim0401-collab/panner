@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Should be a part of the Node object.",
+    "format": "form",
+    "workaround": "The idea is to have this incorporated into the core so that it is not necessary to constantly rewrite these methods."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-04T07:03:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10356,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a get_first_child_with_filter method to Node",
+  "up": 0,
+  "updatedAt": "2024-08-04T16:47:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10356"
+}

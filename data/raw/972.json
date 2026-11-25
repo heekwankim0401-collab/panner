@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Probably not possible with an add-on.",
+    "format": "legacy",
+    "workaround": "I don't think so, but correct me if I'm wrong."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-05-30T10:01:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 972,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `clear_output()` method that mimics pressing the Clear button in the Output tab",
+  "up": 4,
+  "updatedAt": "2020-10-05T09:47:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/972"
+}

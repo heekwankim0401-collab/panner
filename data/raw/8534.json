@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its core engine behavior.",
+    "format": "form",
+    "workaround": "No it can not. It should be and will be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-28T14:29:06Z",
+  "comments": 2,
+  "createdAt": "2023-11-28T11:41:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8534,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Open file resurces in separate Inspector Window. Leave docked inspector for info about selected nodes in the scene.",
+  "up": 0,
+  "updatedAt": "2023-11-28T14:29:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8534"
+}

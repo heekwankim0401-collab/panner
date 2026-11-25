@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about making it easier to deliver crisp visuals at any resolution, while still only having to ship one SVG file per icon with no mipmap generation needed (= less memory usage).",
+    "format": "form",
+    "workaround": "You can use an [icon font](https://docs.godotengine.org/en/stable/tutorials/ui/gui_using_fonts.html#using-icon-fonts) in a Label3D node, and enable MSDF font rendering in the Import dock. However, this is limited to monochrome icons, and creating this icon font can be cumbersome."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-22T21:47:48Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12842,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement DPITexture oversampling in SpriteBase3D",
+  "up": 4,
+  "updatedAt": "2025-08-22T18:17:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12842"
+}

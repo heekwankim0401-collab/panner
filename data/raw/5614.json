@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's a SHAME on godot to not have something so simple. in fact as a godot user, if someone asks me while the engine you are using can't do it, i will feel nothing but shame.\nwant to make a top menu with the shortcut letter underlined? CAN'T! just imagine that..\nwhy should this be a pain to do...",
+    "format": "form",
+    "workaround": "Nope. you can't even retrieve the unmarked text from the bbcode you put in richtextlabel to use a single font function for it."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-18T22:44:04Z",
+  "comments": 1,
+  "createdAt": "2022-10-18T16:50:49Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5614,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Regular Label",
+  "up": 0,
+  "updatedAt": "2022-10-18T22:44:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5614"
+}

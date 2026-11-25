@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems like a small enough enhancement that should improve usability for newcomers",
+    "format": "form",
+    "workaround": "Of course, it is always better if you are smart enough and always know your types, but the point of the debugger is to make your life easier."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-01-11T08:56:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11536,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show variable types in the Debugger Stack tooltips",
+  "up": 3,
+  "updatedAt": "2025-01-11T16:25:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11536"
+}

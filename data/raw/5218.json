@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature can probably be implemented as an add-on in the asset library. In fact, I might implement one if I do not find a better solution. \n\nHowever, this function is quite versatile and would be of use for many projects. Some readers will already be aware of the versatility of such a function - for example, one is [in use in the new lighting engine](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination). There are many others:\n\n- Implement gravity or magnetic forces towards non-point objects\n    - eg. for gravity, or pulling in items\n- Predicting imminent collision timings (-> `timing = distance / speed`)\n- Ray marching\n- Finding nearest surface of some kind (e.g. to teleport towards it)\n- Assessing distance to objects of some kind (e.g. for an off-map detector)\n- Serving as a more accessible + more accurate implementation of 'find nearest object of kind'\n    - ... which is often implemented as a for loop\n\nIf this feature is approved for the Core, but no time can be allocated to implement it, I am willing to help out.\n\n#### Object distance\n\nAnother use-case would be for providing an approximate solution for the closest distance between two objects. This normally requires a function for each primitive pair. An approximate solution can be implemented with a [pair of ray casts](https://stackoverflow.com/a/32807623/730797). However, using one or two signed distance function calls would be less error-prone and more accurate.",
+    "format": "form",
+    "workaround": "Often, instead the distance between both objects' centers is used. However, depending on the use-case, both distance and angle may not be accurate enough.\n\nBetter, a ray cast can be used. However, I cannot find a function for a ray cast limited to one object either (-> https://github.com/godotengine/godot-proposals/issues/5219). A significant limitation pertains to some shapes like donuts, where this approach may even fail. Moreover, while the distance approximation is slightly improved over the previous method, the angle is not improved at all.\n\nThe only remaining solution is implement the distance function manually."
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-18T23:11:14Z",
+  "comments": 2,
+  "createdAt": "2022-08-20T19:27:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5218,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Provide signed distance functions (SDFs) for physics shapes/colliders",
+  "up": 6,
+  "updatedAt": "2026-05-18T23:11:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5218"
+}

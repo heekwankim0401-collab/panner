@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Reflection probes are core.",
+    "format": "form",
+    "workaround": "no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-01-02T18:16:14Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3744,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a shadow resolution property to ReflectionProbe",
+  "up": 2,
+  "updatedAt": "2023-03-20T19:21:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3744"
+}

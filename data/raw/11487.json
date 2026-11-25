@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core in 4.",
+    "format": "form",
+    "workaround": "It would probably be used about as often as any 3D feature. Creating a link node _would_ be easy but there's no way to factor one into the pathfinding algorithm."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-01-04T07:51:50Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 11487,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Backport NavigationLinks (and other 4.x navigation enhancements) to Godot 3",
+  "up": 0,
+  "updatedAt": "2025-01-09T12:52:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11487"
+}

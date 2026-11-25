@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Improves quality of built-in effects.",
+    "format": "form",
+    "workaround": "It can't be added in a script."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-20T22:12:25Z",
+  "comments": 5,
+  "createdAt": "2024-08-19T16:09:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10497,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add depth aware upscaling for post-processing effects",
+  "up": 0,
+  "updatedAt": "2024-08-20T22:12:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10497"
+}

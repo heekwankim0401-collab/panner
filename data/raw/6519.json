@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The functionality to do this wrapping is already included in TextServer and used for RichTextLabel, it is just exposing that option to TextEdit.",
+    "format": "form",
+    "workaround": "You can't access the TextParagraph to change the break flags from within GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-17T07:02:36Z",
+  "comments": 4,
+  "createdAt": "2023-03-16T22:45:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6519,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an \"Adaptive\" line wrapping mode for TextEdit",
+  "up": 2,
+  "updatedAt": "2023-03-17T11:06:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6519"
+}

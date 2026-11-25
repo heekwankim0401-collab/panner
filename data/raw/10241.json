@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "TextEdit and CodeEdit are built in nodes and having their stack exposed would be something that is more of a built in ability than something that is extra like a add-on. it is a core part of that node.",
+    "format": "form",
+    "workaround": "it could be recreated if one recreates their own UndoRedo as the class does exist in the docs . . . but then u have to include everything to mirror the built in one to have the same ability as well as bind the button commands to it and hope the built in one doesnt trigger . . . if it can be done with only a few lines i am not sure as i didnt exactly understand the UndoRedo fully and would have to be fighting the built in one as well to override it with the custom one (if this can already be done please let me know as i have been struggling with this)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-07-18T02:11:29Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10241,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow TextEdit/CodeEdit Undo Stack & State to be Synced Wit Another",
+  "up": 0,
+  "updatedAt": "2024-07-18T10:23:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10241"
+}

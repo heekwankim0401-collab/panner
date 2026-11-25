@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving exported projects' usability, not only for Godot Engine users troubleshooting their projects, but for anyone playing games made with Godot.",
+    "format": "form",
+    "workaround": "A clean implementation requires about 40 lines of script (one that gives screenshots sensible names, allows taking screenshots while paused and saves them to an easily accessible location for users).\n\nSee this autoload for an example (3.x, but can be modified for 4.x): https://github.com/Calinou/escape-space/blob/master/autoload/screenshot.gd\n\nHowever, a core implementation will allow improving the experience in various ways, such as saving the screenshot on a thread to reduce the duration of the stutter that occurs after taking a screenshot (due to PNG encoding taking some time). Hardware readbacks could also be used to further speed up screenshot saving and avoid any noticeable hitch, at the cost of the screenshot being delayed by a few frames after pressing the key.\n\nFor players, a workaround is to add a Godot project as a non-Steam game (if it's not already on Steam). This allows the Steam overlay to work, with <kbd>F12</kbd> taking a screenshot (in lossy JPEG format by default)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-05-02T01:17:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6789,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a default keyboard shortcut to take a screenshot in a running project",
+  "up": 8,
+  "updatedAt": "2023-05-03T17:47:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6789"
+}

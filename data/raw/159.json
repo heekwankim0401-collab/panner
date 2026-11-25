@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, if the grid settings were exposed to scripting, I'd be fine with having it as an addon. Right now it's impossible.",
+    "format": "legacy",
+    "workaround": "It's impossible to access the grid via editor plugins."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-08T14:04:41Z",
+  "comments": 3,
+  "createdAt": "2019-10-15T00:03:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 159,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "In-viewport control of grid offset",
+  "up": 1,
+  "updatedAt": "2020-10-08T14:04:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/159"
+}

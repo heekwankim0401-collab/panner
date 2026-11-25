@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think this should be in the asset library. This feels like a core feature in being able to identify assets and it's inclusion should not be optional to a user.",
+    "format": "form",
+    "workaround": "This would be integrated into the editor source for rendering / preparing this dialog. It would not be avoidable."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-11T17:35:02Z",
+  "comments": 2,
+  "createdAt": "2026-01-10T23:39:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:assetlib",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13989,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Link to Web from AssetLib when viewing an Asset",
+  "up": 0,
+  "updatedAt": "2026-01-11T17:39:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13989"
+}

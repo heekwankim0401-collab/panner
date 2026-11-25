@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This can be worked around by increasing visibility range distances on every mesh at run-time. It can be done using groups or something similar, but it's not particularly easy or convenient to do in a reliable manner. This also can't be customized on a per-viewport basis, which may be desired for split-screen games or games that use a secondary viewport to draw a real-time minimap."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-11T22:59:30Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3787,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting to control visibility range scale factor",
+  "up": 7,
+  "updatedAt": "2022-09-09T17:46:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3787"
+}

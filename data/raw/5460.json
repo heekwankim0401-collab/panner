@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "No, it's core."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-21T15:58:03Z",
+  "comments": 4,
+  "createdAt": "2022-09-19T19:02:12Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 5460,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow connecting an AnimationTree node to an already taken input, automatically replacing the previous connection",
+  "up": 9,
+  "updatedAt": "2025-07-21T15:58:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5460"
+}

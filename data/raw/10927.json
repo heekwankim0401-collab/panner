@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't be an addon, since it affects the low-level RD API.\nThis has no impact on higher level rendering or visuals at the moment.",
+    "format": "form",
+    "workaround": "Not in a few lines - it can be worked around with some relatively complex additional calculation: [e.g. this chapter from GPU Gems](https://developer.nvidia.com/gpugems/gpugems2/part-v-image-oriented-computing/chapter-42-conservative-rasterization) but most modern Desktop GPU's have hardware support for it, which greatly simplifies implementation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-07T14:05:49Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10927,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Conservative Rasterization option to RenderingDevice",
+  "up": 0,
+  "updatedAt": "2024-10-07T14:22:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10927"
+}

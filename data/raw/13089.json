@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a Core Functionallity",
+    "format": "form",
+    "workaround": "Only doable by recompiling the engine with the features manually deleted/modified."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-28T16:23:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13089,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve Editor Feature Management",
+  "up": 0,
+  "updatedAt": "2025-08-28T19:40:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13089"
+}

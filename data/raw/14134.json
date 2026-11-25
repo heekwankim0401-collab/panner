@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about what the entire editor (viewports, previews, etc.) display, so seems more fundamental than what an add-on can achieve.",
+    "format": "form",
+    "workaround": "Not that I'm aware of."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2026-02-02T20:00:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14134,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow picking what texture format (ASTC, BPTC) is used in the editor",
+  "up": 1,
+  "updatedAt": "2026-02-03T19:07:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14134"
+}

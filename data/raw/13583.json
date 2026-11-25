@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Same as above. It also provides faster turnaround time on animation, especially for animators.",
+    "format": "form",
+    "workaround": "This area cannot be influenced by GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-06T12:02:37Z",
+  "comments": 3,
+  "createdAt": "2025-11-06T10:34:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13583,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add sliders to the `Animation` window to change the animation duration",
+  "up": 3,
+  "updatedAt": "2025-11-06T20:43:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13583"
+}

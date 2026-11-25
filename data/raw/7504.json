@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I was honestly quite surprised when I couldn't get this to work. I tried [stack overflow](https://gamedev.stackexchange.com/questions/206864/generate-a-fully-3d-navigationregion-pathfinding-in-godot-4), the docs, discord, but couldn't find something to make this work. I really think full 3D navigation is important for a 3D game engine, and adding this feature would dramatically increase the range of games that could be made with Godot.\n\nI'm happy to work on a PR by the way, if one of the devs could point me in the right direction in terms of which repo's/directories will likely contain the code I need to change.",
+    "format": "form",
+    "workaround": "The only work around would be to re-implement 3D pathfinding myself, and if I'm going to do that (rather large) task I'd rather add it to the Godot engine (via PR) so anyone in the future can benefit from it. There is no \"few lines of script\" solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2023-08-15T07:00:11Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 7504,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add full 3D environment pathfinding (e.g. flying) to NavigationServer3D",
+  "up": 18,
+  "updatedAt": "2025-04-20T00:44:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7504"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about the core documentation.",
+    "format": "form",
+    "workaround": "No. This requires changing files in the documentation folder."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2022-05-15T14:22:52Z",
+  "down": 1,
+  "labels": [
+    "topic:docs",
+    "topic:dotnet"
+  ],
+  "milestone": "5.0",
+  "number": 4543,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Separate classes into groups in the Godot API documentation",
+  "up": 14,
+  "updatedAt": "2022-09-05T19:28:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4543"
+}

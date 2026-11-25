@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "GLTF support, including export, is a core feature and an editor feature. Also, this proposal opens the door for add-ons in the asset library to provide their own export options.",
+    "format": "form",
+    "workaround": "It can't be worked around with a few lines of script, and exporting GLTF files will be used quite often."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-02T14:17:57Z",
+  "comments": 2,
+  "createdAt": "2023-07-11T07:31:26Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": "4.3",
+  "number": 7259,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add export settings to the export dialog for GLTF",
+  "up": 2,
+  "updatedAt": "2024-01-02T14:17:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7259"
+}

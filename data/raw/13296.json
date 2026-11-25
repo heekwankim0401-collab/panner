@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's related to the signal of a core class.",
+    "format": "form",
+    "workaround": "A workaround is not to await finished signal. Another workaround is to write a tween wrapper that does busy wait in _process() to check if tween is still valid, which is not a very clean solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-09-28T15:05:54Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 13296,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `become_invalid` signal to Tween",
+  "up": 4,
+  "updatedAt": "2026-03-18T13:45:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13296"
+}

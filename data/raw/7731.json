@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core.\nI think it's very useful.\nAnother example, VS Code:\n![image](https://github.com/godotengine/godot-proposals/assets/23667522/966b4655-938b-49ae-b1c2-5e9f28a85921)",
+    "format": "form",
+    "workaround": "No. I've implemented it back in 3.x. I will require tons of code and Control nodes. \nAnd I had to do it in a very hacky way. I remember I had to simulate InputEvent for some reason.\nAnd it's impossible to have the syntax highlight in the completion items without being too hacky."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-18T19:32:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7731,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the code completion box a popup",
+  "up": 1,
+  "updatedAt": "2024-08-06T15:32:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7731"
+}

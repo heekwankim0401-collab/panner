@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core change.",
+    "format": "form",
+    "workaround": "Points 1 and 2 are about core changes to how theme properties are defined.\nPoint 3 can be implemented with boilerplate code, but it's not just a few lines."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2022-05-03T12:00:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4486,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Introduce `ThemeDB`/`ThemeServer`, register theme properties with it to define stable theming API for controls and windows, allow to define theme properties in scripts ",
+  "up": 55,
+  "updatedAt": "2025-04-18T16:11:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4486"
+}

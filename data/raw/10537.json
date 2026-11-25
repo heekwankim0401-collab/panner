@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is fundamentally about improving the core experience of using the engine as-is out of the box, and thus should be core.\n\nWhile it _can be_ implemented as a plugin or module, I strongly feel that it _should not be._ This is as it _should_ integrate with the engine to where it can be used and accessed from any script, plugin, extension, or module. This, at least insofar as I know, would more or less require core integration.\n\nAs the implementation of this feature aims to compliment the existing feature set and address criticisms of Godot's \"inability to scale\", not making this core will more or less undermine the majority of this feature's reason to exist, as the current asset store makes plugins and extensions hard to find and sink into obscurity.",
+    "format": "form",
+    "workaround": "This is fundamental to game architecture and is non-trivial to implement for inexperienced developers. While experienced developers are able to work around these problems, it is a relatively complicated issue to solve given the performance requirement and level of integration desired.\n\nIn short, it cannot be worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-08-23T04:51:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10537,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a DataStore to promote separation of concerns, decoupling, and strengthen scalability",
+  "up": 2,
+  "updatedAt": "2024-08-31T00:09:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10537"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Affects the Editor.",
+    "format": "form",
+    "workaround": "I don't think editor plugins can achieve this without significant node wrangling."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-07T21:27:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7235,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Offer option to automatically expand the script list",
+  "up": 3,
+  "updatedAt": "2026-02-07T23:11:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7235"
+}

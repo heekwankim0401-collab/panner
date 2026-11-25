@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Tilemap Navigation is currently barebones and would benefit from API additions such as this to implement custom path planning functionality.",
+    "format": "form",
+    "workaround": "This could also be implemented using the new AStar2DGrid but would be more cumbersome."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-06T07:54:13Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 8002,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "API to access NavigationRegion associated with Tilemap's TileData ",
+  "up": 2,
+  "updatedAt": "2023-10-11T04:34:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8002"
+}

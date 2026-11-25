@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "First, most of the people want this feature implemented, so that they can not only get rid of disgusting nodes displaying in the dock, but also keep `class_name` work, make the script/class extendable and improve the convenience of operation of access to other classes",
+    "format": "form",
+    "workaround": "1. I don't think it will get less used; instead, I believe most people want this feature implemented\n2. This implement is not coverable with some lines of code; instead, before we have this, we need to extend a node via its file path, and when we need to get access to the class, we need a `const` or `var` to `preload()` or `load()` its path and use the identifier as its name of access, which is very complex to operate."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-22T13:12:29Z",
+  "comments": 2,
+  "createdAt": "2023-07-22T07:13:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7349,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Annotation to Hide Node with class_name Displaying in the Node Dock",
+  "up": 0,
+  "updatedAt": "2023-07-22T13:12:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7349"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Getting the interface scaling of controls and their parts should just work out of the box. Applying scale to a popup button should also affect it's popup menu. And applying interface scaling to a window should also affect tooltips in that window.",
+    "format": "form",
+    "workaround": "Not a few lines of code. For popup buttons you can try to intercept the popup when it's about to pop to apply the scaling, but it's unreliable as it's automatically resized and will be cropped. And for tooltips you'd need to supply a custom tooltip in a custom subclass of each control type to be able to apply the correct scaling."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-27T08:13:56Z",
+  "comments": 2,
+  "createdAt": "2023-10-26T18:47:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8267,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Apply parent window content_scale_factor to Control Popup windows (Tooltips and Popup menus)",
+  "up": 1,
+  "updatedAt": "2023-10-27T12:52:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8267"
+}

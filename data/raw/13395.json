@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires changes to `AudioEffectSpectrumAnalyzerInstance` C++ API.",
+    "format": "form",
+    "workaround": "No.  This buffer cannot currently be accessed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-10-15T19:10:09Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 13395,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add method to AudioEffectSpectrumAnalyzerInstance to return entire FFT buffer",
+  "up": 1,
+  "updatedAt": "2026-01-20T01:21:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13395"
+}

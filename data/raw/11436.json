@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It cannot be an add-on",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2024-12-28T15:57:58Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11436,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Custom `Camera3D` projection: a practical approach",
+  "up": 71,
+  "updatedAt": "2026-11-02T00:55:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11436"
+}

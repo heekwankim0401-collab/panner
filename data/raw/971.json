@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's not a big change, but it improves working with the engine. It may be hackable with editorplugins but it's such a basic functionality that most users would not now exists if distributed via assetlibrary, as it's typically expected to be part of the editor (as in other engines)",
+    "format": "legacy",
+    "workaround": "I don't think it can without diving deep."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-04T10:59:02Z",
+  "comments": 3,
+  "createdAt": "2020-05-30T09:27:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 971,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve output log / enable filtering for warnings, errors and verbose messages",
+  "up": 6,
+  "updatedAt": "2021-05-04T10:59:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/971"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a change to a core class.",
+    "format": "form",
+    "workaround": "This cannot be worked around -- no detach method is currently provided."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-01-07T21:55:24Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6062,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename Thread::wait_to_finish to Thread::join and add Thread::detach",
+  "up": 2,
+  "updatedAt": "2023-01-07T21:58:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6062"
+}

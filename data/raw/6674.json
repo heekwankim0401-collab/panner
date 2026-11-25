@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is basic functionality for the RichTextLabel.",
+    "format": "form",
+    "workaround": "This can be [worked around](https://godotengine.org/qa/27229/how-to-vertically-align-text-in-a-richtextlabel?show=92485#a92485) by adding a container around the RichTextLabel, but this is less convenient than having it built-in like with a regular Label."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-29T21:56:15Z",
+  "comments": 3,
+  "createdAt": "2023-04-10T13:45:07Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 6674,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add vertical alignment option to RichTextLabel",
+  "up": 42,
+  "updatedAt": "2024-11-29T21:56:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6674"
+}

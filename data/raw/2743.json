@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Implementing this LOD system in C++ would lead to better performance when using large amounts of particle nodes (hundreds or more).",
+    "format": "markdown",
+    "workaround": "Kind of. It's possible to toggle particle emission in a script. The [Godot LOD](https://github.com/godot-extended-libraries/godot-lod) add-on I wrote provides such a feature."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-24T22:31:15Z",
+  "comments": 7,
+  "createdAt": "2021-05-19T16:09:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 2743,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a level of detail system for GPUParticles3D and CPUParticles3D",
+  "up": 7,
+  "updatedAt": "2022-03-04T23:42:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2743"
+}

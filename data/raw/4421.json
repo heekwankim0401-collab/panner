@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think AssetLib itself needs to use pooling.",
+    "format": "form",
+    "workaround": "Not a few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-04-21T02:54:05Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4421,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `HTTPRequest` use a global thread pool",
+  "up": 5,
+  "updatedAt": "2022-07-18T12:17:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4421"
+}

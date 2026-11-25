@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't see any way, how to do that without support from core of the engine.",
+    "format": "form",
+    "workaround": "Partially by calling `Input.is_key_pressed(...)` in loop with every possible key code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-12-29T21:57:03Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 11444,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Input.get_pressed_keys()`",
+  "up": 0,
+  "updatedAt": "2025-01-02T18:25:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11444"
+}

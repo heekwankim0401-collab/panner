@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the build system, which obviously cannot be changed with add-ons.",
+    "format": "form",
+    "workaround": "Nope. You'd have to keep multiple entire copies of the engine source around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-06-25T03:33:26Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 12661,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `variant_dir` support to the SCons build process",
+  "up": 0,
+  "updatedAt": "2025-06-25T14:35:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12661"
+}

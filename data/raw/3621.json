@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Although it is not a bug, it definitely addresses a sizeable design flaw with the animation editor. This mends an annoyance that has cost me quite some time with my development.",
+    "format": "form",
+    "workaround": "I think this addition will be used a ton by anyone who uses the animation editor.\nIt may take more than a few lines of code though."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-02T21:43:18Z",
+  "comments": 3,
+  "createdAt": "2021-12-01T23:14:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3621,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make animation preview not affect default values in inspector",
+  "up": 1,
+  "updatedAt": "2021-12-02T21:43:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3621"
+}

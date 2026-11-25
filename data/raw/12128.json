@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is an arguably simple addition that would be a part of a core engine feature (importing)",
+    "format": "form",
+    "workaround": "I can't think of any clean way to accomplish a system that scales the volume of specific audio files using simple GDScript"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-01T06:22:27Z",
+  "comments": 5,
+  "createdAt": "2025-04-01T00:06:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12128,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add a volume setting to the audio importer.",
+  "up": 2,
+  "updatedAt": "2025-04-03T12:01:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12128"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It needs to be core.",
+    "format": "form",
+    "workaround": "I'm afraid not."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-13T13:58:31Z",
+  "comments": 3,
+  "createdAt": "2022-12-23T08:19:14Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:navigation"
+  ],
+  "milestone": "4.5",
+  "number": 5978,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a \"maximum path query search length\" property to NavigationAgent",
+  "up": 1,
+  "updatedAt": "2025-06-13T13:58:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5978"
+}

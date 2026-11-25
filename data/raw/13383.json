@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "---",
+    "format": "form",
+    "workaround": "No, this cannot be fully worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-14T20:57:34Z",
+  "comments": 3,
+  "createdAt": "2025-10-14T18:03:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13383,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rework Script Editor Tab Behavior to Offer a \"Standard IDE\" Mode (Script-Centric Tabs)",
+  "up": 0,
+  "updatedAt": "2025-10-15T03:33:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13383"
+}

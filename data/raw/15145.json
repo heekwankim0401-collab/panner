@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-09T08:40:13Z",
+  "comments": 1,
+  "createdAt": "2026-07-07T15:51:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15145,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Allow dragging a node into the signal list to pre-fill the signal connection dialog",
+  "up": 3,
+  "updatedAt": "2026-07-10T09:34:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15145"
+}

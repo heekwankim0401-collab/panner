@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "**Fundamental Editor Behavior**\nThe way Godot handles externally modified files, including scenes and project settings, is a foundational aspect of the editor's interaction with the operating system's file system. It dictates a crucial part of the development workflow for all users, not just those with specific niche needs.",
+    "format": "form",
+    "workaround": "this feature is not a simple utility that can be solved with \"a few lines of script,\" but rather a fundamental improvement that deeply involves Godot editor's file system interaction and workflow efficiency."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-09-28T11:50:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13292,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add editor setting for automatic-apply of externally modified scenes",
+  "up": 1,
+  "updatedAt": "2025-09-28T11:54:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13292"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I feel like people who come from strongly typed programming languages need to swallow this hard pill, and speaking from my experience, I feel a bit uncomfortable that I cannot specify what Types/behaviour I want for my variables, and also the hassle of setting everything by hand, and not getting it automatically also annoys me a bit.",
+    "format": "form",
+    "workaround": "Autocompletion, and keys/values having the desired type when created, without setting their values beforehand, would need a bunch of Dictionary specific code, which can easily multiply the lines of code in a project."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-14T06:00:48Z",
+  "comments": 5,
+  "createdAt": "2024-09-13T17:33:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10736,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Individual key/value based Dictionary types.",
+  "up": 0,
+  "updatedAt": "2024-09-14T06:01:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10736"
+}

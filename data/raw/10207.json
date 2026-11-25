@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I'm working on Addon but for now, I get errors when values change with the slides, and Godot Crashes\n\n[addons.zip](https://github.com/user-attachments/files/16216021/addons.zip)",
+    "format": "form",
+    "workaround": "assigning values one by one"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-16T16:19:32Z",
+  "comments": 1,
+  "createdAt": "2024-07-14T08:01:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10207,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Inspector Transform: add the ability to keep values distance",
+  "up": 2,
+  "updatedAt": "2026-02-16T16:23:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10207"
+}

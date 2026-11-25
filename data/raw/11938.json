@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The functionality already exists but just isn't accessible from scripts.",
+    "format": "form",
+    "workaround": "Actually, one can port `Window::fit_rect_in_parent()` to GDScript and run it in `_process` as a workaround. However, this is probably not as robust as simply having the engine handle it in the same way it does for 'AcceptDialog'"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-03-07T05:49:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11938,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `Window.set_clamp_to_embedder()`",
+  "up": 5,
+  "updatedAt": "2025-03-07T17:48:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11938"
+}

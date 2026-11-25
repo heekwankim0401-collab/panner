@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Above my pay grade :shrug: . I don't think it would make sense as an add-on...",
+    "format": "form",
+    "workaround": "Possibly?, I welcome suggestions on how to implement this. Animated texture only gives you the current frame and randomizing current frame does it for all tiles, not individual tiles."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-11-01T08:55:12Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 8329,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a random start property to AnimatedTexture (or improve TileSet animation performance)",
+  "up": 2,
+  "updatedAt": "2023-11-02T08:44:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8329"
+}

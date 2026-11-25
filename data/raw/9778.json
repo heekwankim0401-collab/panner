@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`Tree` would use it internally.",
+    "format": "form",
+    "workaround": "No. Would have to implement something similar to `TextParagraph` using `TextServer`.\n\nIf only drawing is required, `TextParagraph.draw_line()` can be used to apply line spacing manually. But it still means you have to do this for each `TextParagraph` feature you want to use, e.g., size measurement, outlines, etc."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-05-19T12:02:29Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9778,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow changing line spacing of `TextParagraph`",
+  "up": 0,
+  "updatedAt": "2024-05-19T13:07:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9778"
+}

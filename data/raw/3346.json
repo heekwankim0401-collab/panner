@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As far as I know, this cannot be implemented by a plugin (without hacks).",
+    "format": "form",
+    "workaround": "No, this is the functionality of the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-08T15:50:59Z",
+  "comments": 1,
+  "createdAt": "2021-09-24T17:22:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3346,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Default Callback Name editor setting for Signal Connection Dialog",
+  "up": 1,
+  "updatedAt": "2022-01-05T09:30:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3346"
+}

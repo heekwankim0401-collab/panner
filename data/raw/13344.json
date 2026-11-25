@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "ImmediateMesh is core.",
+    "format": "form",
+    "workaround": "You could build a Mesh with custom data, but the process involves manually building the surface arrays, or using a different tool."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-10-08T16:12:01Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13344,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add custom data fields to ImmediateMesh",
+  "up": 6,
+  "updatedAt": "2026-01-05T17:20:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13344"
+}

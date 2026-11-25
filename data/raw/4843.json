@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "can't",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-30T23:39:06Z",
+  "comments": 1,
+  "createdAt": "2022-07-09T08:45:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 4843,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a visualisation to see the current delta-angle in the 3D rotation gizmo",
+  "up": 6,
+  "updatedAt": "2025-09-30T23:41:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4843"
+}

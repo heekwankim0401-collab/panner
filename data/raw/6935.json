@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a much needed improvement to usability other engines provide out of the box.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 34,
+  "createdAt": "2023-05-23T10:59:17Z",
+  "down": 6,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6935,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a combined 2D/3D viewport tab next to (2D 3D Script AssetLib) to allow editing and previewing 2D and 3D nodes together",
+  "up": 35,
+  "updatedAt": "2024-12-21T16:43:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6935"
+}

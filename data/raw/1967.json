@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Other frameworks have this as well, and it seems to be a often used feature in some cases.\nIt is also something which users don't have to use, so it would just be one more optional feature.",
+    "format": "markdown",
+    "workaround": "Yes, see previous \"active mode\" suggestion."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-12-10T12:41:02Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1967,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "ItemList item-activated signal -- single-click mode",
+  "up": 0,
+  "updatedAt": "2020-12-10T13:52:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1967"
+}

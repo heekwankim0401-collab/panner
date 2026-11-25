@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core functionality that AFAIK cannot be bypassed.",
+    "format": "form",
+    "workaround": "Possibly with a plugin to manage plugins? But that's just going \"turtles all the way down\""
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-24T15:22:34Z",
+  "comments": 2,
+  "createdAt": "2023-03-24T11:41:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 6561,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add global \"editor-only\" addons/plugins",
+  "up": 6,
+  "updatedAt": "2023-03-24T17:05:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6561"
+}

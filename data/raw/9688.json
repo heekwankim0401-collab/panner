@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's core already",
+    "format": "form",
+    "workaround": "It's used in 99% of godot projects."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-20T15:16:19Z",
+  "comments": 5,
+  "createdAt": "2024-05-06T08:43:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9688,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use a colored speaker icon for `AudioStreamPlayer`s",
+  "up": 12,
+  "updatedAt": "2024-05-20T15:17:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9688"
+}

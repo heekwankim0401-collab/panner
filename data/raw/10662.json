@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "What FileSystem shows and doesn't show seems to be part of core, no?",
+    "format": "form",
+    "workaround": "The discrepancy can just remain there I guess. You can obviously select the files in the Project Settings anyway, but that's not the point here."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-06T08:14:17Z",
+  "comments": 0,
+  "createdAt": "2024-09-05T07:23:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 10662,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show `.ico` and `.icns` files in FileSystem",
+  "up": 0,
+  "updatedAt": "2024-09-06T08:14:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10662"
+}

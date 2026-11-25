@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Addons cannot override advanced import settings after the Import button is clicked but before the importing process begins.",
+    "format": "form",
+    "workaround": "It can be worked around by remembering to check the 'Keep Custom Tracks' button in advanced import window."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-24T11:27:52Z",
+  "comments": 8,
+  "createdAt": "2023-10-24T01:10:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 8242,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove 'Keep Custom Tracks' checkbox when saving animations to file",
+  "up": 0,
+  "updatedAt": "2024-04-22T01:19:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8242"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It allows for built in scripts to be type checked.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-03T08:32:36Z",
+  "comments": 2,
+  "createdAt": "2024-05-03T02:13:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9661,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow class_name to be used within built in scripts.",
+  "up": 1,
+  "updatedAt": "2024-05-03T08:32:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9661"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Basic necessity low-level IO function.",
+    "format": "form",
+    "workaround": "Not that I know of."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-22T11:01:50Z",
+  "comments": 8,
+  "createdAt": "2023-04-29T16:48:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 6776,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `FileAccess.set_length(new_length)` to truncate existing files",
+  "up": 1,
+  "updatedAt": "2024-04-22T11:01:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6776"
+}

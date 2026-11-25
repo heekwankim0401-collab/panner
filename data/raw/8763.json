@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "InputMouseMotion is already an event so it should be pretty simple to implement.",
+    "format": "form",
+    "workaround": "No. We can still manually check for mouse input but the point of input actions is so we can bind input for our games."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T22:16:29Z",
+  "comments": 3,
+  "createdAt": "2023-12-31T19:17:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 8763,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow binding mouse movement and mouse scrolling",
+  "up": 0,
+  "updatedAt": "2024-01-01T16:05:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8763"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "OS interaction like this feels like a core feature to me. If supported it will make all exported projects feel more integrated with the OS, allowing properly associating for example custom map file formats or other game files with an exported game. And of course bringing great benefits for non-game applications made in Godot.\n\nThis functionality could also be used for the Godot editor itself to associate its' files types with Godot on all platforms. For the editor this currently [only seems to be partially implemented on macOS](https://github.com/godotengine/godot-proposals/issues/9813).",
+    "format": "form",
+    "workaround": "The file type association can possibly be done, at least on windows and macOS, but not then catching the event when the files are sent from the OS. Custom file type icons can be included in a custom export template on macOS at least, but this then requires creating and maintaining one of these just to include the document icon file."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-07-13T10:04:43Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10195,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add supported file type configuration to exported projects and method to open files sent from OS",
+  "up": 2,
+  "updatedAt": "2024-08-01T13:27:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10195"
+}

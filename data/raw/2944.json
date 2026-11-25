@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is already possible without the typing, so should be with it.",
+    "format": "form",
+    "workaround": "Yes, it can with untyped array, dicts, and Vectors in some cases, but this is not desirable. It would throw away the safeness and performance (best case scenario, tuples are stored linearly in memory) of the typing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-07-02T13:09:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2944,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add typed tuples to GDScript",
+  "up": 182,
+  "updatedAt": "2026-09-29T13:03:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2944"
+}

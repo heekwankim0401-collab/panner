@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This could be implemented as a plugin, but that would require taking into account many pitfalls. First of all we should get list of all resources, it seems this could be done using `PackedScene._bundled.variants`.\nBut should the plugin then change new scene tscn file to update the resources paths? This could be not trivial and maybe even dangerous.",
+    "format": "markdown",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-02-28T03:11:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2375,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to duplicate scenes with all dependencies",
+  "up": 6,
+  "updatedAt": "2024-08-17T02:11:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2375"
+}

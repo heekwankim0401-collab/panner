@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be a core issue to detecting primary screen on osx.",
+    "format": "form",
+    "workaround": "not enhancement, refined detection"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-08-28T22:06:02Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 5285,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a DisplayServer method to detect which displays are internal and external to a laptop/AIO",
+  "up": 1,
+  "updatedAt": "2022-08-28T22:15:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5285"
+}

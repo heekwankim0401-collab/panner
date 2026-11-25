@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core editor functionality.",
+    "format": "form",
+    "workaround": "No, as triggering the reimport on filesystem changes needs to be done by the editor itself."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-16T11:43:07Z",
+  "comments": 0,
+  "createdAt": "2021-09-04T00:30:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": "4.3",
+  "number": 3252,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an editor setting to import resources even when the editor window isn't focused",
+  "up": 8,
+  "updatedAt": "2024-04-16T11:43:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3252"
+}

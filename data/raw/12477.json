@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "core, this is for addon creation",
+    "format": "form",
+    "workaround": "my workaround is not flawless. if somehow the FileSystemDock changes its layout, it could break. Also a single signal is better than manually getting internal nodes."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-24T16:29:58Z",
+  "comments": 1,
+  "createdAt": "2025-05-22T03:58:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.6",
+  "number": 12477,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose the signal when user select a file/folder in the FileSystemDock",
+  "up": 1,
+  "updatedAt": "2025-10-24T16:30:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12477"
+}

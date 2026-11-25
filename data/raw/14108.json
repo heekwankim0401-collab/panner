@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a UI/UX experience that feels frustrating and difficult to interact with. Even if zoom was added to the AnimationNodeStateMachine, it would force people to zoom in to re-arrange nodes, and then zoom back out to see the graph. Easier to move the rename to a right click menu option and allow the full space of the node to easily act as a click surface for moving.",
+    "format": "form",
+    "workaround": "This will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-01-30T07:08:59Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14108,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a context menu option to rename animation nodes in the AnimationNodeStateMachine editor",
+  "up": 4,
+  "updatedAt": "2026-01-30T23:35:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14108"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about changing core methods. Can't be achieved by addons.",
+    "format": "form",
+    "workaround": "No. It's about changing core methods."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-11-17T03:12:40Z",
+  "down": 1,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 13650,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Deprecate `InputEvent.as_text()` and `Shortcut.get_as_text()`",
+  "up": 0,
+  "updatedAt": "2025-11-17T13:35:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13650"
+}

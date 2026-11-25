@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Ellipsoids are just adding one more dimension to the existing spheroid, as a primitive mesh I would expect the ability to create such a shape from the SphereMesh.  It also helps developers easily match collision shapes with the SphereShape3D where it's a true sphere and controlled only by radius:\n![image](https://github.com/user-attachments/assets/17148d86-cd85-4481-a0fb-85ecd176909f)\n![image](https://github.com/user-attachments/assets/211d657a-ab39-4fe2-988f-432ff4357ebb)",
+    "format": "form",
+    "workaround": "Attempting to use code to get around this limitation seems tedious and intuitive.  You would need to add a script whos sole purpose is to scale the spheroid on an additional axis in order to replicate an ellipsoid."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-17T14:30:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 10472,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add shape dropdown to SphereMesh to switch between Sphere, Spheroid, and Ellipsoid",
+  "up": 0,
+  "updatedAt": "2024-08-17T15:44:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10472"
+}

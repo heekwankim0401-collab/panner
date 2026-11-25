@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "These are defaults for shape already in the core engine, so it's already core.",
+    "format": "form",
+    "workaround": "Yes, it can be easily worked around without using any script. Also, even with improved defaults, the sizes will have to be adjusted in many cases because not all characters are the same, but hopefully with improved defaults the sizes will need to be adjusted less often and adjusted a smaller amount."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-03T15:59:08Z",
+  "comments": 2,
+  "createdAt": "2021-12-31T00:56:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3732,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve the default size of 3D shapes and meshes (Box, Capsule, and Cylinder)",
+  "up": 9,
+  "updatedAt": "2022-02-03T16:00:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3732"
+}

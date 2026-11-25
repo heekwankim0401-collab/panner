@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This greatly improves the user experience for the audio offset point adjustement operation. Godot has an incredible mixer and effects bus system; this part of audio work also deserves a great experience.",
+    "format": "legacy",
+    "workaround": "On a case-by-case basis, yes, as explained sooner. But it definitely is cumbersome for some fine-tuning work where the feedback loop must be fast."
+  },
+  "assignees": 0,
+  "closedAt": "2019-09-20T12:41:03Z",
+  "comments": 3,
+  "createdAt": "2019-09-19T22:34:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 83,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "In-editor audio preview of music loop offset",
+  "up": 0,
+  "updatedAt": "2020-04-29T22:25:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/83"
+}

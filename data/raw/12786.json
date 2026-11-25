@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Part of GradientTexture2D",
+    "format": "form",
+    "workaround": "Not sure. For now I have created a parent sprite with a clipping mask texture corresponding to the desired shape. But the effect is not exactly the same."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-15T02:02:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12786,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a regular polygon fill mode to GradientTexture2D",
+  "up": 1,
+  "updatedAt": "2025-07-15T15:42:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12786"
+}

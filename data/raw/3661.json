@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Less static functions in globals, and could see high use, but that's what this proposal is for.",
+    "format": "form",
+    "workaround": "Yes, its simply a helper function such as `get_node()`."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-17T10:01:24Z",
+  "comments": 15,
+  "createdAt": "2021-12-12T05:38:13Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3661,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `Node.get_children_of_type()` method to get child nodes inheriting from a specific type",
+  "up": 25,
+  "updatedAt": "2026-02-22T14:20:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3661"
+}

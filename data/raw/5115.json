@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Exporting integration is the feature here, we can also do this outside of the import process.",
+    "format": "form",
+    "workaround": "No!"
+  },
+  "assignees": 1,
+  "closedAt": "2022-08-26T17:16:53Z",
+  "comments": 2,
+  "createdAt": "2022-08-08T17:38:44Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.0",
+  "number": 5115,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use rcodesign CLI tool to sign / notarize mac binaries without a Mac.",
+  "up": 2,
+  "updatedAt": "2022-08-26T18:45:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5115"
+}

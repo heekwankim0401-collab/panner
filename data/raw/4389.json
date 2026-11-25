@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-12T13:53:07Z",
+  "comments": 1,
+  "createdAt": "2022-04-12T01:30:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:windows",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4389,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Prevent or warn users when creating projects with a \".\" at the end of the name",
+  "up": 3,
+  "updatedAt": "2022-04-12T13:54:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4389"
+}

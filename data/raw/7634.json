@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It touches on both functionality and Godot UX",
+    "format": "form",
+    "workaround": "It can but it clutters shaders and the existing options are unintuitive and a bit messy."
+  },
+  "assignees": 1,
+  "closedAt": "2023-11-07T20:01:17Z",
+  "comments": 1,
+  "createdAt": "2023-09-09T11:10:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:particles",
+    "topic:rendering",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7634,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rethink transform align modes for particles",
+  "up": 7,
+  "updatedAt": "2023-11-07T20:26:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7634"
+}

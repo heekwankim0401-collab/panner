@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Implementation in GDScript would be slower, a set would just hash the object and look for it, similar to how a dictionary would,but having a new variant type would solve all problems.",
+    "format": "form",
+    "workaround": "A few lines, not really, a whole class should be implemented, probably extending from refcounted."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-26T07:05:08Z",
+  "comments": 2,
+  "createdAt": "2023-06-25T09:55:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7155,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add the new type \"Set\"",
+  "up": 4,
+  "updatedAt": "2023-06-26T07:05:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7155"
+}

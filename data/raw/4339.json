@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as the script editor's code completion dialog is not extensible with add-ons."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-04-03T18:07:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 4339,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Highlight autocompletion suggestions from the direct class (as opposed to inherited classes)",
+  "up": 8,
+  "updatedAt": "2022-09-09T17:43:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4339"
+}

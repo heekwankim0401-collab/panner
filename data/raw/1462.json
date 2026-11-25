@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's directly modifying the behavior of a built-in class.",
+    "format": "legacy",
+    "workaround": "It can be worked around, but not elegantly, and in many more lines than I'd like.\n\nI'm not aware of many people who use animation state machines this way, especially since Unity's been neglecting Mecanim in favor of DOTS stuff, but I'm hoping Godot can pick up the slack."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-09-04T20:42:12Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 1462,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add AnimationNode lifecycle callbacks",
+  "up": 9,
+  "updatedAt": "2021-11-28T21:58:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1462"
+}

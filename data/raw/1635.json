@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Becuase the functionality is in the core right now",
+    "format": "legacy",
+    "workaround": "Scripting will not help here"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-10-08T18:56:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1635,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add lock node / selectable childrens to the nodes right click context menu",
+  "up": 1,
+  "updatedAt": "2020-10-08T19:41:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1635"
+}

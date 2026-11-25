@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This issue is about exposing an existing feature.",
+    "format": "form",
+    "workaround": "The part with the plugin could possibly be done via `ProjectSettings` although I did not get it work until now."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-11T21:09:25Z",
+  "comments": 2,
+  "createdAt": "2022-07-07T10:05:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4831,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose settings overwrites for autoloads",
+  "up": 1,
+  "updatedAt": "2022-12-11T21:15:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4831"
+}

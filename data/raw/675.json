@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It has to be core.",
+    "format": "legacy",
+    "workaround": "Sadly no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-04-07T16:59:38Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 675,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow assigning `DIFFUSE_LIGHT` and `SPECULAR_LIGHT` in custom 3D light shaders",
+  "up": 0,
+  "updatedAt": "2020-11-22T15:17:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/675"
+}

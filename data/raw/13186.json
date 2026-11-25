@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core",
+    "format": "form",
+    "workaround": "No, you will just have to deal with having the variable not named what you want it to be, or go through the hassle of reassigning all the values/references again."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-16T13:56:33Z",
+  "comments": 1,
+  "createdAt": "2025-09-16T11:54:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13186,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to refactor `@export` variable name without resetting values",
+  "up": 1,
+  "updatedAt": "2025-09-16T13:56:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13186"
+}

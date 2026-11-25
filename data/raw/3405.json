@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature is heavily used for fps games.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-09T06:05:05Z",
+  "comments": 3,
+  "createdAt": "2021-10-09T03:54:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3405,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a material flag to render a material after the depth buffer was cleared",
+  "up": 0,
+  "updatedAt": "2021-10-09T06:23:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3405"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think it's possible to do with a plugin. And the standard meshes and CSG meshes should match in feature set anyway. It's weird swapping between them and having different properties to work with.",
+    "format": "form",
+    "workaround": "I can't think of any way, no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-29T10:55:29Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 12889,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add top and bottom radius to CSGCylinder3D  node so it matches CylinderMesh features",
+  "up": 1,
+  "updatedAt": "2025-07-29T16:14:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12889"
+}

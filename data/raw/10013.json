@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Connecting methods to signals via code is very common. This saves a of of time because you don't need to write boilerplate code or look up signal arguments when connecting methods to signals.",
+    "format": "form",
+    "workaround": "I believe this will be used often and I don't think there's a work around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-22T10:12:09Z",
+  "comments": 1,
+  "createdAt": "2024-06-22T10:10:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10013,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add autocompletion when connecting methods to signals via code",
+  "up": 0,
+  "updatedAt": "2024-06-22T18:54:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10013"
+}

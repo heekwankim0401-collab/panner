@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Tileset management is largely provided in-core, and it probably makes sense to keep this in-core. I am willing to accept a third-party script or tool that can do this, although that tool would need to be kept up-to-date whenever the tileset file structure or format changes.",
+    "format": "form",
+    "workaround": "It's possible to manually merge tilesets within Godot, although this requires creating one of them within the other one. It's tedious and error prone; the copy/paste bitmask tool helps a lot."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2022-01-04T16:17:13Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3751,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to merge tilesets together",
+  "up": 5,
+  "updatedAt": "2026-09-06T20:21:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3751"
+}

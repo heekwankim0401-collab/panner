@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal solves 2 problems at once (see above).\nTo solve problem (2) the current API is not enough.\nFor example, it is impossible to add these shortcuts to the Project Manager (since you simply do not have plugin API for this).",
+    "format": "markdown",
+    "workaround": "See above pls."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-04-20T23:45:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2627,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Tree` and `ItemList` keyboard shortcuts to go to start/end of the list",
+  "up": 9,
+  "updatedAt": "2021-04-21T14:38:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2627"
+}

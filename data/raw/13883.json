@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The decal node already has so much utility such as render layer masking and emission ect. It would take a LOT of work to get all of this working on a custom shader asset.",
+    "format": "form",
+    "workaround": "No, decal nodes don't allow for custom shaders, so I would not be able to write my own code to fix this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-12-18T12:00:44Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13883,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Blend Mode Setting for Decals",
+  "up": 5,
+  "updatedAt": "2026-04-21T19:20:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13883"
+}

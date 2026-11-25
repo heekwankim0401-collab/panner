@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires changing GDScript.",
+    "format": "form",
+    "workaround": "No, since `var` fields can be overwritten and cannot be used as default parameter values."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-12-02T01:41:11Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11275,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make it possible to create Callables as const members of a class",
+  "up": 0,
+  "updatedAt": "2026-08-31T21:47:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11275"
+}

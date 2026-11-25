@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "A DebugDraw class like this may well be an add-on.\nImplementing it on the native side may benefit performance though.\nHowever more important may be to not hide such a debug feature behind an add-on.",
+    "format": "legacy",
+    "workaround": "I assume it will be used often. It is likely more than a few lines of code to provide a generic class with a rich set of shapes like CanvasItem to draw in both 2D and 3D."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-18T14:19:43Z",
+  "comments": 49,
+  "createdAt": "2019-09-28T16:27:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 112,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for immediate-mode debug drawing",
+  "up": 30,
+  "updatedAt": "2022-08-18T14:19:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/112"
+}

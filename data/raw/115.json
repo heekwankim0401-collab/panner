@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because debugging is such an essential and big part of development time, efficient and easy use should not be an downloadable option, but already come with the engine on first installment.",
+    "format": "legacy",
+    "workaround": "It's a debugging improvement, so I can imagine it being used a lot."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2019-09-30T10:17:12Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 115,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"debug\" Label to display node properties in a running project",
+  "up": 21,
+  "updatedAt": "2020-11-06T18:51:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/115"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a feature that's available in so many general purpose programming languages. Since GDScript is now considered a general programming language, this functionality also enables more usability to the language itself.",
+    "format": "form",
+    "workaround": "While I don't believe this functionality will not be used often, it's relatively simple to create the implementation in GDScript with the snippet below:\n```gdscript\nextends RefCounted\nclass_name DisposableSignal\n\nsignal resolved(result)\n\nstatic func create(lambda: Callable) -> Signal:\n    var disposable := DisposableSignal.new()\n    lambda.call_deferred(disposable)\n    return disposable.resolved\n\nfunc resolve(result = null) -> void:\n    resolved.emit(result)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-01-31T12:37:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8999,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add an instantiable and disposable Signal type to GDScript",
+  "up": 4,
+  "updatedAt": "2024-05-12T22:38:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8999"
+}

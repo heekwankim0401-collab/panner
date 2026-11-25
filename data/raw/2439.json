@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It can't fix the buildsystem.",
+    "format": "markdown",
+    "workaround": "Providing the patch in a separate \"gd_tweaks\" repository or fork would be possible but because this has to be applied to the source code, an upstream pull request for the main godot repository would be better."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-05T07:00:35Z",
+  "comments": 3,
+  "createdAt": "2021-03-09T20:57:57Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:buildsystem",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 2439,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Musl libc support, scons detection for libexecinfo",
+  "up": 0,
+  "updatedAt": "2022-10-05T07:03:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2439"
+}

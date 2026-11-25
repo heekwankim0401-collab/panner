@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is no reason for it to be core. It could be an addon aswell",
+    "format": "form",
+    "workaround": "I have tried and searched on forums on the internet and found nothing about a way to go around this. The only thing that can be achieved is to have a diamond-shaped-cells, that way the y-sorting works because it is a diagonal setup"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-07-02T14:20:26Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 10095,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Align TileMapLayer Horizontally Alongside Node2D",
+  "up": 0,
+  "updatedAt": "2024-07-02T14:32:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10095"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the default behavior of the editor.",
+    "format": "form",
+    "workaround": "This would be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-14T11:09:37Z",
+  "comments": 4,
+  "createdAt": "2024-11-28T15:07:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 11254,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the option to view separate channels in the texture inspector",
+  "up": 8,
+  "updatedAt": "2025-01-14T11:09:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11254"
+}

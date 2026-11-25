@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about a slight change in behavior to the GLTF import feature.",
+    "format": "form",
+    "workaround": "It can be worked around by exporting the materials even though they aren't needed."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-11T09:22:40Z",
+  "comments": 4,
+  "createdAt": "2022-04-04T19:04:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.5",
+  "number": 4343,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Preserve material names when importing a GLTF file with \"placeholder\" materials",
+  "up": 7,
+  "updatedAt": "2025-06-11T09:22:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4343"
+}

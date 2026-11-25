@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it's off putting to require a lot of running around to get things configured. Part of adding a feature like this is better as a core feature because having to load an add-on is just extra tedium for developers to go through depending on the knowledge level.",
+    "format": "form",
+    "workaround": "I have no idea."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-03-05T07:03:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6433,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Being able to save project settings as templates to pick when starting a new project",
+  "up": 11,
+  "updatedAt": "2023-03-05T15:58:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6433"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a common need across many real-world projects, especially games with interfaces embedded inside the 3D environment.\nTherefore, this functionality should be available directly in the engine to ensure ease of use.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-04-27T20:01:46Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12326,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add toggle to disable Motion Vectors in MeshInstance3D",
+  "up": 0,
+  "updatedAt": "2025-04-29T20:49:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12326"
+}

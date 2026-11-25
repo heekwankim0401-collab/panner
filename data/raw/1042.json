@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Again, entirely editor-related and definitely a core feature.",
+    "format": "legacy",
+    "workaround": "No, because it concerns only the editor. The \"workaround\" is to use the popup dialog, which is distracting for the user due to the context switch. They may have their eyes on the node in the scene tree already, click on the \"assign\" button and get an entire new tree to browser through, just to find the same item again."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-21T10:35:14Z",
+  "comments": 8,
+  "createdAt": "2020-06-11T21:31:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1042,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement drag-and-drop for NodePaths",
+  "up": 29,
+  "updatedAt": "2021-12-22T09:00:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1042"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "legacy",
+    "workaround": "No, as this is core CSG functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-04T20:35:19Z",
+  "comments": 7,
+  "createdAt": "2020-11-19T21:51:28Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "4.7",
+  "number": 1862,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use automatic angle-based smoothing for CSG faces instead of manual per-node smoothing",
+  "up": 12,
+  "updatedAt": "2026-03-04T20:35:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1862"
+}

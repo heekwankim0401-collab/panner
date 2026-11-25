@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "gdscript is part of the core",
+    "format": "form",
+    "workaround": "it can be worked around but it's less convenient"
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-05T23:26:13Z",
+  "comments": 2,
+  "createdAt": "2023-03-05T17:32:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6439,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a `wait([float seconds])` function",
+  "up": 0,
+  "updatedAt": "2023-03-05T23:26:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6439"
+}

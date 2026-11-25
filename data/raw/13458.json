@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I suspect this could be a native iOS plugin? I wouldn't know.",
+    "format": "form",
+    "workaround": "It can't."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2025-10-24T13:08:52Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:audio",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 13458,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow changing iOS audio session category at runtime",
+  "up": 9,
+  "updatedAt": "2025-12-17T14:55:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13458"
+}

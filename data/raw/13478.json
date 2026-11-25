@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think it could work as an add-on and the `EditorPlayBar` functions backing the `EditorInterface` API already have this functionality.",
+    "format": "form",
+    "workaround": "This can be worked around by having the plugin write to the `editor/run/main_run_args` project setting at least for `play_main_scene`, but it doesn't work for `play_custom_scene` or `play_current_scene`\n\nThis method is also inconvenient because the setting gets saved to `project.godot` which is typically a version controlled file so you have to be careful not to accidentally commit it during testing.\n\nAnother workaround is to run `OS.create_instance` which allows for passing runtime arguments, but the problem with this method is the process that starts up isn't configured with the editor so you lose editor integration."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-27T09:10:25Z",
+  "comments": 1,
+  "createdAt": "2025-10-26T19:25:34Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13478,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to pass runtime arguments to EditorInterface play scene functions",
+  "up": 1,
+  "updatedAt": "2025-10-27T11:15:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13478"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Text really feels (to me) like it IS a core resource we're using and pushing around in game dev. Games without text are comparably rare to games without textures. Text re-use within a game similarly so. Having raw text expose a similar user experience to other resources would feel natural, especially to new users.\n\nHonestly, despite a fair bit of research before posting this I still just kinda feel like someone's gonna say \"oh yeah, we already have that.\" cause it just feels so natural.",
+    "format": "form",
+    "workaround": "I'm working around this right now with a custom resource that looks like\n\n```\nextends Resource\nclass_name Textish #TextFile is taken\n\nexport (String) var text = \"\"\n\n```\nIt's not actually all that terrible, but I imagine it is a little obtuse for brand new devs, and will result in text being less consistent across projects. It also isn't compatible with existing classes. Also, while it can be opened and edited with a text editor the tags are a bit offputting, ie. Perhaps most importantly it opens in the Inspector instead of the full script file editor, which makes editing it in godot substantially more unpleasant. Almost forgot, it lacks autoimport which is just such a nice feature.\n\n```\n[gd_resource type=\"Resource\" load_steps=2 format=2]\n\n[ext_resource path=\"res://resources/customtypes/Textish.gd\" type=\"Script\" id=1]\n\n[resource]\nscript = ExtResource( 1 )\ntext = \"my text\"\n\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2022-06-12T19:23:31Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4662,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an alternate TextFile resource (for storing text as a resource)",
+  "up": 12,
+  "updatedAt": "2025-08-27T16:16:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4662"
+}

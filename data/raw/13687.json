@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal is specifically about improving the **built-in FileSystem dock’s usability**:\n\n- The FileSystem dock is a central part of the editor workflow, used by all projects, and its “Filter Files” field is already the natural place where users expect to type search terms.\n- Adding a simple AND/OR expression syntax directly there keeps the experience **consistent and discoverable**, instead of forcing users to rely on a separate custom dock or asset.\n- The change is small, self-contained, and backward compatible: users who never need AND/OR logic can keep using the filter exactly as before.\n- Having this in core benefits all users out of the box, without requiring them to search the asset library, install, and maintain extra plugins just to get basic multi-keyword filtering.\n\nBecause of this, it feels like a natural, core usability improvement rather than something that should live only as an optional add-on.",
+    "format": "form",
+    "workaround": "It can be partially worked around with an editor plugin, but not in a convenient or fully integrated way:\n\n- A plugin can create its own dock with a custom search box and a list of results, implementing `&` / `|` logic in GDScript.\n- However, this means users have to **use an additional panel** instead of the built-in FileSystem dock they already rely on.\n- A plugin cannot easily replace or intercept the internal filtering logic of the existing FileSystem dock, so behavior becomes fragmented:\n  - The built-in “Filter Files” field still behaves as a simple substring filter.\n  - The plugin panel behaves differently, which can be confusing and inconsistent.\n\nSo while a plugin can approximate the feature, it is not particularly convenient and does not improve the default out-of-the-box experience of the FileSystem dock."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-11-23T11:05:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13687,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow simple AND/OR expressions in the “Filter Files” field of the FileSystem dock",
+  "up": 0,
+  "updatedAt": "2025-11-25T00:35:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13687"
+}

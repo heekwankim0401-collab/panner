@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The core feature is already implemented for XR [PR#99407](https://github.com/godotengine/godot/pull/99407) but is not exposed for viewports on the RenderingServer.",
+    "format": "form",
+    "workaround": "I could not find an alternate solution for specifying a render region for a viewport to draw into."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-05-11T16:43:37Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14827,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `viewport_set_render_region()` to RenderingServer",
+  "up": 5,
+  "updatedAt": "2026-05-18T02:39:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14827"
+}

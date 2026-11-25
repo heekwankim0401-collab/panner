@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An add-on could solve the problem only if it was a direct copy of the TileMap system with the upgrades built in. TileMap might as well be an add-on itself if that is a better way to manage it.",
+    "format": "form",
+    "workaround": "The enhancement of TileMap can only be done to the node itself. TileMap works too directly with the rendering server to use scripting to solve the issue."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-04-05T15:38:49Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 6642,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add TileMap edge culling for quick tile composites on the fly",
+  "up": 0,
+  "updatedAt": "2023-04-27T14:58:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6642"
+}

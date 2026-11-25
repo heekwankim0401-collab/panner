@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not sure how else we can achieve this without adding this in core.",
+    "format": "form",
+    "workaround": "Currently I can not find any work around for this usecase."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-10-24T03:17:24Z",
+  "down": 0,
+  "labels": [
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 5646,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow XR projects not to create a visible desktop window when running",
+  "up": 0,
+  "updatedAt": "2022-10-24T14:00:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5646"
+}

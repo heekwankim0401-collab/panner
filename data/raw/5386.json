@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the editor and projects' UX.",
+    "format": "form",
+    "workaround": "Not that I know of. It may be possible to create a custom ScrollContainer that does this as an add-on, but it won't work with nodes that implicitly use their own (such as TextEdit or RichTextLabel)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-09-09T15:32:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 5386,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add smooth scrolling option to all scrollable controls",
+  "up": 73,
+  "updatedAt": "2025-03-23T23:05:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5386"
+}

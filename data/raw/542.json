@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'd say that because the importer is part of the core, its improvements also belong there.",
+    "format": "legacy",
+    "workaround": "It looks like it can. (But I don't know how, because adding a script would execute during game runtime each time an instance is created, and it's a step that can be more efficiently made at import time just once)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-03-01T16:16:14Z",
+  "down": 0,
+  "labels": [
+    "topic:import",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 542,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Import collision shape without adding redundant static node",
+  "up": 3,
+  "updatedAt": "2025-10-20T00:05:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/542"
+}

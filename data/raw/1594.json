@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Reporting the current animation frame being played is a fundamental responsibility of an animation player.",
+    "format": "legacy",
+    "workaround": "This should be a core feature of AnimationPlayer, as it would be useful under many circumstances. Probably the best workaround at this point is to use a timer that fires off at the approximate contact time within the animation. However, this is clumsy and prone to timing errors."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-24T22:17:28Z",
+  "comments": 4,
+  "createdAt": "2020-10-02T11:49:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 1594,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a signal emitted on every frame played to AnimationPlayer",
+  "up": 0,
+  "updatedAt": "2024-08-24T22:17:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1594"
+}

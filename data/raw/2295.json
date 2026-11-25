@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Control schemes should always be implemented at a core level.",
+    "format": "markdown",
+    "workaround": "I think all Mac users would prefer this control scheme and even Windows users with multitouch drag pads would find it useful."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-02-15T15:26:58Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 2295,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add touchscreen/trackpad event navigation in the 3D editor",
+  "up": 13,
+  "updatedAt": "2025-05-27T17:40:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2295"
+}

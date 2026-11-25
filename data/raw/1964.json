@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The speed considerations and usefulness of an inclusive design would benefit many with very little overhead and would not require individual developers to become accessibility experts or even have to remember to add the add-on.",
+    "format": "markdown",
+    "workaround": "A new server could be implemented and all state transitions are telegraphed by signals, but that seems like it would be quite slow."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-08T17:52:34Z",
+  "comments": 8,
+  "createdAt": "2020-12-09T18:35:54Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 1964,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add accessibility/screen reader integration to the base UI components",
+  "up": 16,
+  "updatedAt": "2025-04-08T17:52:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1964"
+}

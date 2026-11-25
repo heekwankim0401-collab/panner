@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think that basic tools to removing leaks(and bugs generally) should be integrated into core of engine, and also because almost all Godot users at least once tried to remove leak.",
+    "format": "legacy",
+    "workaround": "I think that this enhancements will be often used and will increase programmers productivity, because it will allow to find and repair memory leaks, which(from my experience) happens regularly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-02-29T16:53:04Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 540,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Better Orphan Nodes and memory leaks tracking",
+  "up": 17,
+  "updatedAt": "2023-09-27T17:14:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/540"
+}

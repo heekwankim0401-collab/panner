@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No. It could be a addon. But it should be developed by developer. There are three plugin available in gitbub. But these are not bug free.",
+    "format": "form",
+    "workaround": "I could be attached by godot developer as a plugin.but i think it is essential to have a process to add text to speech in godot."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-28T13:09:31Z",
+  "comments": 7,
+  "createdAt": "2021-11-22T08:08:18Z",
+  "down": 1,
+  "labels": [
+    "topic:audio",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 3584,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement support for text-to-speech",
+  "up": 0,
+  "updatedAt": "2022-04-28T14:19:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3584"
+}

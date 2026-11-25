@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The reasoning behind adding this to godot outright is due to the fact that this, 1: engine side, unchangeable in most cases, and 2: it should be accessible to everyone using godot outright without being nested in an add-on.",
+    "format": "form",
+    "workaround": "This feature would either be a checkbox or different shadow mapping type outright, it's usage is completely up to the developer and disabling it and enabling it should be simple and direct."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-11-19T21:49:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13665,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "PSSM using stable shadow mapping as opposed to unstable shadow mapping",
+  "up": 0,
+  "updatedAt": "2025-11-20T21:14:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13665"
+}

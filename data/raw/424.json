@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I guess it would be weird to download an add-on for 5 lines of code... That's all I've got.",
+    "format": "legacy",
+    "workaround": "Yes, as seen above. I still want to push for it being in core though, because despite how simple the code I ended up with is, I think the fact that people have been making 3D platformers in Unity for years without needing to know how it works speaks to how powerful and harmless a crutch it is."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-19T14:15:07Z",
+  "comments": 9,
+  "createdAt": "2020-01-31T12:58:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 424,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Quat constructor from two Vector3s representing a rotation between them",
+  "up": 11,
+  "updatedAt": "2025-11-19T16:29:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/424"
+}

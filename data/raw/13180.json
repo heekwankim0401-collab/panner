@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Cannot be implemented as a library.",
+    "format": "form",
+    "workaround": "It can, but it forces you to make your architecture worse, because you either need to use singletons, or rely on strings, which is not type-safe. And I think this **should** be used often, as `InputEvent` is a core Godot class and implementing on-screen control is also a very common use case of the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-09-15T17:32:18Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 13180,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make InputEvent a non-abstract class",
+  "up": 0,
+  "updatedAt": "2025-09-17T09:24:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13180"
+}

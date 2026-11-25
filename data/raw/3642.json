@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, it's bit sad, having heard of Vulkan for some time, and being rather hype, and then being disappointed, over something rather simple, that the ' final ' render, or what it makes, looks like a ' bad ' version, of OpenGL . . The point is, sorry . . . It's all for nothing, if the image isn't nice, or I guess the ' subjective ' look of the image, is worse than OpenGL . . Then it's almost a no - brainer, not to use it . . So, really big fan of Vulkan, sure, it has better specs, FPS, looks to be amazing, and even standard, for future . . I sort-of hope these small things can be fixed, before Godot 4, so we get the really nice Godot 4, we all have been wishing for, for so long, so it doesn't disappoint . . My guess is these things can be fixed, with a few settings, or tweaking the default stuff, maybe at code level, weird idea, set saturation to 0.95 %, contrast to 0.90 %, those numbers might be really bad, but to off - set the default ' post - proc. ' look, if I want that, just add it later, takes 2 seconds, having it set to on, by default, makes the engine too ' Hollywood ' or, big money by default, that's where I just want an honest, clean engine, thanks . . . .",
+    "format": "form",
+    "workaround": "I can't do this, I just hope the devs will think about, now that Vulkan is there, to make the image good, I guess it's the last step, so we get a nice Godot 4, that appeals to all, also the nerds, geeks, that form the majority of the video - game community, and is prob. where Godot will grow from, etc . ."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-07T19:24:30Z",
+  "comments": 4,
+  "createdAt": "2021-12-07T18:45:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3642,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Errors in pixel - rendering on Vulkan / is this a bug . . ",
+  "up": 0,
+  "updatedAt": "2021-12-08T04:16:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3642"
+}

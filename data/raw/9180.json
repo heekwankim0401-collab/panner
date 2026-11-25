@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be a core editor setting. Also, from the forums and discord channel, the off-putting way in which the scene editor and script editor interact seems to be a very hot topic",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-02-26T14:04:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9180,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting that opens the associated scene file with each script",
+  "up": 1,
+  "updatedAt": "2024-02-27T00:29:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9180"
+}

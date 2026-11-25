@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be on the editor",
+    "format": "form",
+    "workaround": "This probably should be core stuff"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-06T07:10:43Z",
+  "comments": 4,
+  "createdAt": "2022-12-23T17:59:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 5979,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Readd renderer selection dropdown to the editor window",
+  "up": 8,
+  "updatedAt": "2023-01-06T07:10:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5979"
+}

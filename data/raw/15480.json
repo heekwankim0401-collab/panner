@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2026-09-04T08:47:43Z",
+  "down": 1,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15480,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Include signals to `TileMapLayer` for `tile_painted` and `terrain_painted`",
+  "up": 0,
+  "updatedAt": "2026-09-04T15:54:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15480"
+}

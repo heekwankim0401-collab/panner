@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Primarily since I think it would be potentially useful to editor development as well. But I think that since we already have some clipboard access functionality in the core this could be added to the core for the same reason. Godot 4 and the following updates have improved UX a lot by better OS integration, and this proposed improved OS clipboard integration could be seen as a step in the same direction.\n\n_EDIT: Added mention of https://github.com/godotengine/godot/pull/63826 that adds a not yet documented clipboard_get_image() and clipboard_has_image() to DisplayServer to allow access to images on the clipboard._",
+    "format": "form",
+    "workaround": "No, I do not think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2023-09-28T08:18:56Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 7899,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improved clipboard functionality with support for multiple formats",
+  "up": 30,
+  "updatedAt": "2026-08-16T02:55:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7899"
+}

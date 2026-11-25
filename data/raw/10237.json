@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think the necessary information is exposed to add-on creators. It also feels like a missing link in what should(?) be a bidirectional conversion.",
+    "format": "form",
+    "workaround": "No. As far as I'm aware, doing so would require pre-caching a map of all possible conversions via `DisplayServer.keyboard_get_keycode_from_physical()` and then reversing it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-07-17T15:11:21Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10237,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a function to convert a keycode to a physical keycode",
+  "up": 0,
+  "updatedAt": "2024-10-19T10:31:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10237"
+}

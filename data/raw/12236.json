@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think this would be generally useful to all, but maybe it could be an asset if that is possible",
+    "format": "form",
+    "workaround": "No because it needs to be in the editor, not in runtime"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-04-15T00:25:27Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12236,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow GridContainer to display gridlines in debug mode",
+  "up": 0,
+  "updatedAt": "2025-04-16T01:49:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12236"
+}

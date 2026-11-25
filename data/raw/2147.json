@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Lightmapper is in core, as this is an enhancement to the lightmapper it would also need to be in core",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-30T07:42:03Z",
+  "comments": 7,
+  "createdAt": "2021-01-18T21:42:01Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 2147,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for multiple atlases to the CPU lightmapper (already implemented in `3.x`)",
+  "up": 0,
+  "updatedAt": "2025-02-25T13:38:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2147"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Root nodes are a part of Godot, and glTF support is core.",
+    "format": "form",
+    "workaround": "This will be used often. It is possible to work around in script, but only in a hacky way."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-29T17:26:39Z",
+  "comments": 5,
+  "createdAt": "2023-09-21T22:41:41Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.3",
+  "number": 7791,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow customizing how the root node is handled in GLTF import/export",
+  "up": 7,
+  "updatedAt": "2024-11-29T17:27:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7791"
+}

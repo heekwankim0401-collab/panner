@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having looked at questions on the 'net, I am not the first to ask how to do this.  It should be a really simple change to make this available, and the workaround is not intuitive and was quite hard to find.  The documentation for [RandomNumberGenerator](https://docs.godotengine.org/en/stable/classes/class_randomnumbergenerator.html) suggests that we should be able to use `get_seed()` on any instance of the RNG, but we cannot use that on the internal one.  This would make the internal RNG more consistent with the documented features of RNGs in general.",
+    "format": "form",
+    "workaround": "```\nrandomize()\nvar new_seed = randi()\nseed(new_seed)\n\nprint(new_seed)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-10-19T00:19:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5615,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose current internal random number generator seed to scripts",
+  "up": 5,
+  "updatedAt": "2023-03-02T20:49:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5615"
+}

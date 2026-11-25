@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Lacking this feature seems like an oversight.",
+    "format": "legacy",
+    "workaround": "A whole additional seemingly unnecessary object is required to do something Viewports should do on their own."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2019-11-23T14:06:19Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 252,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add background color to Viewports",
+  "up": 27,
+  "updatedAt": "2025-04-13T20:58:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/252"
+}

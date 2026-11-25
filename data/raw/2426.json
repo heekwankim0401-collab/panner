@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- There's no API for modifying ProjectManager\n- Anyway, I think this could be convenient for many users and it should be easy to implement it in core.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-03-08T04:37:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2426,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Enter` shortcut to `Create New Project` dialog",
+  "up": 1,
+  "updatedAt": "2021-03-08T10:21:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2426"
+}

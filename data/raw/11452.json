@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It affects the readability of nodes on an official theme (OLED)",
+    "format": "form",
+    "workaround": "not sure"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-12-30T17:23:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11452,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add borders or lighter shades for nodes in AnimationTree when the Draw Extra Borders editor setting is enabled",
+  "up": 5,
+  "updatedAt": "2025-01-02T18:36:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11452"
+}

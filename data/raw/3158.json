@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would be part of the export logic.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 1,
+  "closedAt": "2026-01-28T07:58:01Z",
+  "comments": 0,
+  "createdAt": "2021-08-18T18:21:27Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms",
+    "topic:xr"
+  ],
+  "milestone": "3.x",
+  "number": 3158,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for Quest optimized splash screen",
+  "up": 2,
+  "updatedAt": "2026-01-28T07:58:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3158"
+}

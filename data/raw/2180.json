@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it will vastly improve audio quality for games, say you have background music playing and you fire a gun, you wouldn't necessarily want a louder the bullet louder, but you would keep it the same level as the background music, and cut\nthe frequencies the gun shot makes from the background music, making everything level and clean, getting rid of muddiness, this is the exact way I mix, and most major mixing engineers mix,",
+    "format": "markdown",
+    "workaround": "im not sure"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-01-24T20:14:02Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 2180,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement side-chainning audio buses for frequency dynamic EQing and multiband compression",
+  "up": 3,
+  "updatedAt": "2022-07-24T19:02:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2180"
+}

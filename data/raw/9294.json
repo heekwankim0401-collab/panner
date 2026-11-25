@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "1. Detection of colliding wall/ceiling/floor is heavily used, and developers would prefer clean code that helps achieve such function. Though there may be developers who would like to provide the detection for all `PhysicsBody`s, the built-in one would be more attractive for users.\n2. Upgrading the three functions are not implementable by neither GDScript nor C#, even nor GDExtension.",
+    "format": "form",
+    "workaround": "See the codes above. Though custom methods are available, I think it would be more beneficial if it becomes a built-in feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-06T12:48:20Z",
+  "comments": 1,
+  "createdAt": "2024-03-13T09:36:09Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9294,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make `is_on_*()` function utilizable for all `PhysicsBody`s, plus an extra param `up_direction: Vector2` (or `normal: Vector2`)",
+  "up": 0,
+  "updatedAt": "2024-05-06T12:48:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9294"
+}

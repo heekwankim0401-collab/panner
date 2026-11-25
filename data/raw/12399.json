@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It is essential for animation workflow speed and works great for 2D objects, so expanding it to 3D would be fantastic.",
+    "format": "form",
+    "workaround": "I think this enhancement would be used by all developers who want to animate any 3D objects with the AnimationPlayer to drastically speed up workflows."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-10T16:42:04Z",
+  "comments": 3,
+  "createdAt": "2025-05-09T20:51:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12399,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add 3D node functionality to the Auto Insert Key feature for animations",
+  "up": 1,
+  "updatedAt": "2025-05-10T16:42:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12399"
+}

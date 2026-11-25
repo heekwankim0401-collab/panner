@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, it's never easy to answer this, I say core :-OO . .\n\nAdd : The default spawned particle material is quite ugly, esp. if combined with a quads, it's just like a things fall down, not sure, it could be more user-friendly, and by spawning say, in a cube, or sphere area, one could see the spawned particles, at all time . . Hope someone will give it some thought, maybe spawn cubes, inside a cube, instead of a sphere shape, tweak it . . . It's a suggestion, maybe it's not possible, but a little work here, might be quite helpful, not sure . . . \n\nNote, spawning cubes in 3D, would make them work well, with 2D, if they were square sprites . . Spawn in 3D, it's particles, as cubes, in 2D, it's sprites, also square, and the two sort-of uhh ' work together ', at least, well visually . . . !",
+    "format": "form",
+    "workaround": "No, this is about default settings in the engine, since cubes are already coded, having a default setting using cubes, wouldn't really change anything, and since one has to click, to add say particleshaders anyway, it would not really change anything, one still has to click stuff, to change the settings, at least once, to get anything done, if it's all blank, no settings . . Same amount of work, however, it is a bit more fun, esp. for beginners, to add a particle system, and for experienced users, it's still a visual help, for getting started, and it makes sense, also other engines do this, but that doesn't exactly mean, it's a good idea, still, some improvements here, I think is perhaps necessary, so like always, this is a noob suggestion, hope someone could make it better, or, so, that's all . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-11T15:04:23Z",
+  "comments": 2,
+  "createdAt": "2021-11-23T23:39:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 3589,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Suggestion to spawn particle systems with a basic, simple default spawn pattern . .",
+  "up": 1,
+  "updatedAt": "2024-12-11T15:04:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3589"
+}

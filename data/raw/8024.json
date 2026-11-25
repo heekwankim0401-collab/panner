@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "TreeItem is core and is what the Editor uses",
+    "format": "form",
+    "workaround": "No. I would be fine with any workarounds, even help on making CELL_MODE_CUSTOM items editable again, but it doesn't seem possible to me"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-07T16:20:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8024,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow TreeItem's custom_draw callback to work without setting the cell_mode to CELL_MODE_CUSTOM",
+  "up": 6,
+  "updatedAt": "2023-10-07T17:29:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8024"
+}

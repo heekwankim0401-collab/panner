@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Not really, but something like this included in the engine would make it even more streamlined and approachable for beginners.",
+    "format": "form",
+    "workaround": "There are several ways to do this without this feature, but all of them are either a multi-step process, require advanced coding skills, or lacks a good overview."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-03T22:00:13Z",
+  "comments": 1,
+  "createdAt": "2021-09-03T21:36:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3249,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Include spreadsheet interface for quick/simple data handling",
+  "up": 0,
+  "updatedAt": "2021-09-03T22:00:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3249"
+}

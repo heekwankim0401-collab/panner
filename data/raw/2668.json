@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's already a core function, so might as well just expose it, especially considering there are already a lot of similar geometry functions available.",
+    "format": "markdown",
+    "workaround": "Not a few lines of script, the convex decomposition is rather complex, and besides it would run slow in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-23T19:14:39Z",
+  "comments": 5,
+  "createdAt": "2021-04-29T17:24:37Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2668,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `Geometry2D::decompose_polygon_in_convex()` to GDScript",
+  "up": 2,
+  "updatedAt": "2022-09-23T19:14:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2668"
+}

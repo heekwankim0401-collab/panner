@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the 3D game development experience, as most polished projects will need to draw at least one progress bar in 3D space at some point in their development.",
+    "format": "form",
+    "workaround": "For linear progress bars, this can be worked around in two ways:\n\n- Use a Label3D node that prints vertical bar characters (such as `|`) to represent progress. This is less precise and slower as it requires more triangles that may result in overdraw (remember that Label3D is transparent). This is what the [3D Labels and Texts](https://github.com/godotengine/godot-demo-projects/tree/master/3d/labels_and_texts) demo currently does.\n- Use a MeshInstance3D + QuadMesh setup with the X scale being changed depending on the progress value (UV1 scale can be adjusted to counteract texture stretching in this case). This is a complicated solution to put in practice, with a fair amount of scripting needed (and having to make materials in each progress bar unique so they don't affect each other).\n\nThere is no easy workaround for radial progress bars if you want a good level of precision. If you don't need a lot of precision, you could use a MeshInstance3D + QuadMesh setup with UV1 offset set to display one of N pregenerated texture slices. This solution requires a lot of memory if you use high-resolution textures and need a lot of progress steps for a smooth appearance."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-11-14T15:35:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8430,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a TextureProgressBar3D node to represent linear and radial progress bars in 3D space",
+  "up": 0,
+  "updatedAt": "2023-12-10T22:43:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8430"
+}

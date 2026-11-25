@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, because anyone who wants to do networking in a secure way would benefit from this change.",
+    "format": "form",
+    "workaround": "It could be implemented but it could get pretty complex as your InputMap holds more and more controls. This would make sending inputs over the network much easier."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-09-07T16:49:15Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 5365,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add functionality to get all actions from the Input singleton",
+  "up": 5,
+  "updatedAt": "2022-09-08T00:46:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5365"
+}

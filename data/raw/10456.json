@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This functionality is fundamental to the asset import process and would benefit a large number of Godot users working with 3D assets. Integrating it into the core would ensure consistent behavior. \n\nAdditionally, being part of the core importer would allow for better optimization and integration with other import processes.",
+    "format": "form",
+    "workaround": "Given that this feature doesn't exist in Godot currently, you might have to resort to workarounds such as:\n1. Manually separating the desired parts of the model in a 3D modeling software before importing\n2. Importing the entire scene and then copying parts into new scenes manually - space inefficient & lose inheritance\n3. Writing a custom import script to handle this specific use case - actually quite difficult with current API\n\nWhile it's probably possible to write custom import scripts to achieve similar functionality, this would require significant effort and expertise from users. And really isn't a straightforward to implement with the current API import hook methods\n\nThe proposed feature would make the process of importing bundled model files much more accessible and user-friendly, benefiting a wide range of projects that use complex 3D assets.\nThese types of bundles models are extremely common."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-16T12:06:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 10456,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Selective Branch Import for Multi-Mesh 3D Assets",
+  "up": 0,
+  "updatedAt": "2024-08-16T13:42:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10456"
+}

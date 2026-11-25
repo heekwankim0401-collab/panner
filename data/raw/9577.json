@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Iteration speed is king when it comes to polishing the visuals of any given scene, and the faster you can iterate, the more iterations you can get in while preserving your mental energy.",
+    "format": "form",
+    "workaround": "I cannot see how this wouldn't be useful in any serious project that uses baked lighting, but I can imagine scripting this could be difficult with new meshes being added constantly to a project currently in development."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-24T15:39:32Z",
+  "comments": 2,
+  "createdAt": "2024-04-22T21:23:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9577,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create global Lightmap Scale parameter on LightmapGI node",
+  "up": 1,
+  "updatedAt": "2024-04-24T15:40:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9577"
+}

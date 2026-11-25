@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about expanding the reach of the Godot Editor to the Android platform.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 2,
+  "closedAt": "2023-02-21T14:17:40Z",
+  "comments": 44,
+  "createdAt": "2022-02-07T23:09:08Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 3931,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Port the Godot editor to Android",
+  "up": 19,
+  "updatedAt": "2023-02-21T14:17:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3931"
+}

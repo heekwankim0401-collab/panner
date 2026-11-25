@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core to how the scattering functionality of the TileMap Editor works.",
+    "format": "form",
+    "workaround": "It's core to how the scattering functionality of the TileMap Editor works."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-05-25T17:58:43Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4591,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change behaviour of the 'scattering' property in the new TileMap Editor to directly correlate with the probability of an empty tile being placed",
+  "up": 10,
+  "updatedAt": "2022-06-01T16:31:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4591"
+}

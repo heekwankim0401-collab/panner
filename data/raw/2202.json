@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-11T23:32:50Z",
+  "comments": 2,
+  "createdAt": "2021-01-29T22:54:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2202,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Prevent editing a container child's position and size in the inspector",
+  "up": 0,
+  "updatedAt": "2021-09-06T13:01:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2202"
+}

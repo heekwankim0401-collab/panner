@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-03-04T00:40:44Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14376,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the Camera3D preview sticky/still appearing in the inspector when scrolling past the preview window",
+  "up": 0,
+  "updatedAt": "2026-03-04T19:22:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14376"
+}

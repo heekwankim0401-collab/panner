@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "We cant create an addon for this so it should be in the core for sure.",
+    "format": "form",
+    "workaround": "**For 1 & 2 & 4**\nNot possible atm we are stuck with allocating new byte[] every time\n\n**For 3**\nWe can convert to and from byte[] but it is cumbersome to use and difficult to understand for newer users not aware of all byte sizes of each data type."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-09-10T16:21:00Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5394,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve compute shader StorageBuffer API",
+  "up": 9,
+  "updatedAt": "2022-09-10T20:12:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5394"
+}

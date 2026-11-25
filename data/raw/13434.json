@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Modifying the base Timer node to add an elapsed property is not something I would expect an add-on to do.",
+    "format": "form",
+    "workaround": "This missing property can be worked around by doing the small calculation yourself, but the property would be used often as I would already be using it often in this and older projects."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-10-21T02:19:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13434,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Timer.elapsed property",
+  "up": 0,
+  "updatedAt": "2025-10-21T12:13:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13434"
+}

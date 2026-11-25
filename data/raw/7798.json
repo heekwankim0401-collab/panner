@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it's about relieving pain",
+    "format": "form",
+    "workaround": "used very often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2023-09-22T11:55:05Z",
+  "down": 1,
+  "labels": [
+    "topic:audio",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7798,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create an `AudioStreamRandomizer` when dropping several files on an `AudioStream` field",
+  "up": 19,
+  "updatedAt": "2026-04-06T00:21:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7798"
+}

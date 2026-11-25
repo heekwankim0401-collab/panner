@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is just improved functionality on the current A* class.",
+    "format": "legacy",
+    "workaround": "No, I would have to re-implement or use a completely different A* implementation."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-04T12:45:50Z",
+  "comments": 15,
+  "createdAt": "2019-12-01T20:52:46Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.3",
+  "number": 277,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an AStar function to get partial path if end point is unreachable",
+  "up": 18,
+  "updatedAt": "2024-06-20T22:50:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/277"
+}

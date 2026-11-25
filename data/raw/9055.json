@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a relatively standard feature that is similar to other functionality that already exists in Godot.",
+    "format": "form",
+    "workaround": "I believe you could write a custom shader to achieve this, but it would be very convenient if we could disable decals as easily as disabling shadows and other similar material options we have already."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-02-08T14:34:29Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9055,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a material flag to set a specific material to not receive decals",
+  "up": 3,
+  "updatedAt": "2024-03-07T16:53:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9055"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "no, GDScript is a build-in feature",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-14T16:01:26Z",
+  "comments": 5,
+  "createdAt": "2022-04-30T16:44:28Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.8",
+  "number": 4474,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve return from Raycast functions",
+  "up": 30,
+  "updatedAt": "2026-10-14T16:48:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4474"
+}

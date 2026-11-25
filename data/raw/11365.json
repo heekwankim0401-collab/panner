@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the script editor usability.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-09T21:20:34Z",
+  "comments": 0,
+  "createdAt": "2024-12-16T18:57:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 11365,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a script editor keyboard shortcut to show the documentation tooltip for the word the caret is on",
+  "up": 11,
+  "updatedAt": "2026-02-09T21:23:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11365"
+}

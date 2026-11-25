@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This directly improves the usability of the application. All users of the software will have to make a decision when creating a new project, which means its a feature that will be widely encountered.",
+    "format": "form",
+    "workaround": "I believe this enhancement will be used frequently by new users especially. Experienced users may also find the direct access link useful if they chose to learn about a new renderer option. While the documentation page can be found manually, providing it directly within the application will improve the usability."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-13T23:47:56Z",
+  "comments": 0,
+  "createdAt": "2025-07-26T00:29:50Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12868,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a documentation link to the renderer selection dialog when creating a new project",
+  "up": 5,
+  "updatedAt": "2025-11-13T23:50:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12868"
+}

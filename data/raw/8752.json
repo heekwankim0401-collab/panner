@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be hard to achieve this level of editor and GDScript integration with an add-on.",
+    "format": "form",
+    "workaround": "The best alternative I can think of is to write a plugin that abuses Object `metadata`, but that would be pretty messy and certainly more than a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-12-30T19:06:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8752,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a tagging system for organizing properties, methods, and signals",
+  "up": 7,
+  "updatedAt": "2024-01-04T09:46:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8752"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is something that can only be implemented in the core, AFAIK",
+    "format": "legacy",
+    "workaround": "I believe a workaround for this is just duck-tapping the problem."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-27T23:20:19Z",
+  "comments": 3,
+  "createdAt": "2019-12-04T23:33:13Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 285,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add autowrap field to RichTextLabel",
+  "up": 5,
+  "updatedAt": "2025-03-27T23:20:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/285"
+}

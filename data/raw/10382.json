@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it's about core usability",
+    "format": "form",
+    "workaround": "one can always ignore bothersome things of course, but still..."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-23T10:32:54Z",
+  "comments": 3,
+  "createdAt": "2024-08-06T19:51:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 10382,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't autocomplete on name declaration",
+  "up": 4,
+  "updatedAt": "2024-09-23T10:33:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10382"
+}

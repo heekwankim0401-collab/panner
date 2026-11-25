@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's already implemented within the physics engine",
+    "format": "form",
+    "workaround": "Yeah, just feels silly to have to do"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-12-28T22:49:00Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3725,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose ShapeSW/GodotShape3D `get_volume` to Shape/Shape3D resource",
+  "up": 7,
+  "updatedAt": "2021-12-28T23:10:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3725"
+}

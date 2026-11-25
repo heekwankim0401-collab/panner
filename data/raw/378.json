@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "> non-pluginable",
+    "format": "legacy",
+    "workaround": "It's an editor things, non-pluginable."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-15T08:17:05Z",
+  "comments": 0,
+  "createdAt": "2020-01-12T20:57:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 378,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create spritesheet for SpriteFrames by drag and dropping",
+  "up": 4,
+  "updatedAt": "2021-01-15T08:17:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/378"
+}

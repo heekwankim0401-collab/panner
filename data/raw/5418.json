@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this is a very important feature that is useful to most developers.",
+    "format": "form",
+    "workaround": "I'm pretty sure it's not possible to implement in script."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-17T07:39:29Z",
+  "comments": 9,
+  "createdAt": "2022-09-14T05:57:12Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5418,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow importing textures as 16 bpc integer format",
+  "up": 1,
+  "updatedAt": "2023-02-08T20:55:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5418"
+}

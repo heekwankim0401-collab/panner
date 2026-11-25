@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Lightmappers need to be implemented in core to be fast.",
+    "format": "form",
+    "workaround": "No, as a lightmapper can't be implemented in a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-01T18:22:26Z",
+  "comments": 2,
+  "createdAt": "2022-02-05T23:01:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3921,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Port the CPU lightmapper to Godot 4",
+  "up": 8,
+  "updatedAt": "2025-01-01T18:22:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3921"
+}

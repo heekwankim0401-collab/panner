@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-09-07T12:17:47Z",
+  "down": 1,
+  "labels": [
+    "performance",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 15491,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Gate runtime GDScripts behind a project setting, and use this to make `GDScript` functions nonvirtual when possible",
+  "up": 14,
+  "updatedAt": "2026-09-21T01:13:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15491"
+}

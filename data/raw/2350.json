@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "This is a low level change to the way that vertex data management is done in the renderer\n\n\nAndroid Games DevTech Team @ Google",
+    "format": "markdown",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-20T08:49:07Z",
+  "comments": 13,
+  "createdAt": "2021-02-25T18:46:04Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:3d",
+    "topic:core",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 2350,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Split Vertex Buffers Into Position and Interleaved Attribute Streams",
+  "up": 1,
+  "updatedAt": "2021-07-26T14:52:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2350"
+}

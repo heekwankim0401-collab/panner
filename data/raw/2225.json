@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Shaders are core.",
+    "format": "markdown",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-02-02T10:49:28Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2225,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose the light's position and/or distance to in the Spatial shader `light()` function",
+  "up": 9,
+  "updatedAt": "2025-07-28T08:17:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2225"
+}

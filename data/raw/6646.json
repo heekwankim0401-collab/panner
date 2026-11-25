@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Yes.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 106,
+  "createdAt": "2023-04-06T09:24:37Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "platform:web",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6646,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add WebGPU support",
+  "up": 260,
+  "updatedAt": "2026-10-27T00:00:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6646"
+}

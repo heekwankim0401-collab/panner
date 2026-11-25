@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-09-23T00:20:10Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15561,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add popup menu to convert audio file to Opus (relies on Opus being merged)",
+  "up": 1,
+  "updatedAt": "2026-09-23T09:31:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15561"
+}

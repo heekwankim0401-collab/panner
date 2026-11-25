@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "VCS interface is already part of the editor.",
+    "format": "form",
+    "workaround": "Yes, there's a way to inject special manager object which would listen to input events and delegate that to commit message box, or vice versa. But doing so would mean to rely on implementation detail, which is error-prone.\n\n```c++\nvoid EditorVCSInterfaceGitManager::_input(const Ref<InputEvent> &p_event) {\n\tERR_FAIL_NULL(commit_msg_box);\n\n\tif (!commit_msg_box->has_focus() || commit_msg_box->get_text().empty()) {\n\t\t// Do not allow commits with empty message body either.\n\t\t// Unfortunately, `VersionControlEditorPlugin::_send_commit_msg` doesn't validate message text.\n\t\treturn;\n\t}\n\tconst Ref<InputEventKey> k = p_event;\n\n\tif (k.is_valid() && k->is_pressed()) {\n\t\tif (k->get_scancode_with_modifiers() == (KEY_MASK_CMD | KEY_ENTER)) {\n\t\t\tVersionControlEditorPlugin::get_singleton()->call_deferred(\"_stage_all\");\n\t\t\tVersionControlEditorPlugin::get_singleton()->call_deferred(\"_send_commit_msg\");\n\t\t}\n\t}\n}\n\n```\n\nYet I'm not sure whether the same is possible to do via GDScript, might not be possible in fact."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-02T10:20:11Z",
+  "comments": 1,
+  "createdAt": "2021-07-13T15:24:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2988,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to use Ctrl + Enter to stage all files and commit in version control commit dock",
+  "up": 1,
+  "updatedAt": "2021-08-02T10:20:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2988"
+}

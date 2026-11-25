@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Tons of changes to NOT script-accessible stuff. See above.",
+    "format": "legacy",
+    "workaround": "This enhancement is largely based on modifications to the Asset Library, the Editor's AssetLib tab, and introducing a new resource: AssetPackage. It also changes the Project Manager and is dependent on standardization changes in the addon ecosystem. It would revolutionize the accessibility and growth of addons, so yes, it would be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 32,
+  "createdAt": "2019-10-10T04:37:34Z",
+  "down": 0,
+  "labels": [
+    "topic:assetlib",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 142,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add dependency handling and enable users to organize and publish addons and addon-collections as packages",
+  "up": 93,
+  "updatedAt": "2026-08-11T15:27:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/142"
+}

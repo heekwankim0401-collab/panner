@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Part of the editor.",
+    "format": "form",
+    "workaround": "Part of the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-04T09:56:20Z",
+  "comments": 8,
+  "createdAt": "2023-10-10T13:08:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.3",
+  "number": 8059,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change default collision shape type in imported 3D scenes away from \"convex decomposition\"",
+  "up": 8,
+  "updatedAt": "2024-05-04T09:57:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8059"
+}

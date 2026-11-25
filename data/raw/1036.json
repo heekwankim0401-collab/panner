@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This seems like a pretty common use case, and would be helpful with more frictionless level editing.",
+    "format": "legacy",
+    "workaround": "You need to do check \"Editable Children\" which bloats the Scene tree. There is no way to override the duplicate function to have custom functionality (as far as I know) - I would be happy with a solution that would allow me to override the duplicate functionality on an instanced Scene."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-17T21:20:08Z",
+  "comments": 5,
+  "createdAt": "2020-06-11T14:33:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1036,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Unique per Duplicate Resource Option",
+  "up": 1,
+  "updatedAt": "2021-05-17T21:20:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1036"
+}

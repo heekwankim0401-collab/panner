@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "core feature",
+    "format": "form",
+    "workaround": "core feature"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-27T15:04:56Z",
+  "comments": 3,
+  "createdAt": "2022-10-03T07:44:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5534,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "4.x Add grid snapping to tileset physics editor",
+  "up": 3,
+  "updatedAt": "2022-11-27T15:05:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5534"
+}

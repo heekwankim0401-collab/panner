@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It adds support for existing and established lighting workflows, improves workflows around already existing functionality in Godot, and improves the quality of life in the editor.",
+    "format": "form",
+    "workaround": "This enhancement would be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-04-16T12:09:43Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9532,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add editor-specific exposure controls within the 3D viewport",
+  "up": 0,
+  "updatedAt": "2024-04-18T08:16:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9532"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this is impossible without a corresponding API in the engine :)",
+    "format": "markdown",
+    "workaround": "I can access [source_code](https://docs.godotengine.org/en/3.2/classes/class_script.html#class-script-property-source-code) of Script and parse icon myself. But this is a bit hacky."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-11T08:45:39Z",
+  "comments": 2,
+  "createdAt": "2021-02-10T21:57:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2270,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "The ability to get class icon from GDScript",
+  "up": 0,
+  "updatedAt": "2021-02-11T15:59:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2270"
+}

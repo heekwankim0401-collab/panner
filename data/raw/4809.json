@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it can't",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-04T20:13:19Z",
+  "comments": 1,
+  "createdAt": "2022-07-04T20:11:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4809,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose the sampling mode of textures in `Decal`",
+  "up": 0,
+  "updatedAt": "2022-07-04T20:14:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4809"
+}

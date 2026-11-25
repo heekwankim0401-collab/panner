@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "doctest is implemented in C++, and the test runner must be implemented under `tests/`, so no.",
+    "format": "legacy",
+    "workaround": "People can still stick to using GUT or other GDScript-based test frameworks in their C++ modules/projects."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2020-09-18T17:59:20Z",
+  "down": 0,
+  "labels": [
+    "topic:tests"
+  ],
+  "milestone": "3.x",
+  "number": 1533,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Backport the engine unit testing framework to Godot 3.x",
+  "up": 6,
+  "updatedAt": "2021-06-25T19:13:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1533"
+}

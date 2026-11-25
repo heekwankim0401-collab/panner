@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm sure I'm not the only one who is inconvenienced by this.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-06-09T16:07:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1028,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow the debugger's \"continue\" action to bring the game to the front while not debugging",
+  "up": 0,
+  "updatedAt": "2020-06-10T18:08:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1028"
+}

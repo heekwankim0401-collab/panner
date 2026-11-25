@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "not sure",
+    "format": "legacy",
+    "workaround": "no it can't, since there's no api for working with selection at all (available in gdscript)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-16T09:56:56Z",
+  "comments": 3,
+  "createdAt": "2020-09-24T02:40:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 1558,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "RichTextLabel: add ability to get text selection",
+  "up": 1,
+  "updatedAt": "2022-01-17T20:51:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1558"
+}

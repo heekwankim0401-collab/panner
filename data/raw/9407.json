@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While the workaround does the job, it's something I feel should be implemented natively.\n\nWhen working with composition, which as far as I can tell is the preferred workflow for Godot, getting nodes via their type rather than their name seems like a more robust system.",
+    "format": "form",
+    "workaround": "#3661 has a workaround posted by @balintbarna in https://github.com/godotengine/godot-proposals/issues/3661#issuecomment-1003397595_"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-29T15:35:37Z",
+  "comments": 1,
+  "createdAt": "2024-03-29T15:32:52Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 9407,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Get node or child of type",
+  "up": 0,
+  "updatedAt": "2024-03-29T15:35:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9407"
+}

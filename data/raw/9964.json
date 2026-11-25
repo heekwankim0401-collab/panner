@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Besides, there's also prior art of this with the InterpolatedCamera3D node in 3.x which not only interpolated FOV changes, but even Z near/far changes (although that aspect is probably not needed often).",
+    "format": "form",
+    "workaround": "This can be worked around by setting the FOV/zoom in `_process()` with the help of `Engine.get_physics_interpolation_fraction()` (by reading a member that is set in `_physics_process()`), but it's not trivial.\n\nConsidering this can make or break the appearance of physics interpolation in a game, it makes sense that this happens out of the box so users don't need to worry about it."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-28T15:09:47Z",
+  "comments": 1,
+  "createdAt": "2024-06-14T20:41:14Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.5",
+  "number": 9964,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Interpolate camera FOV (3D) and zoom (2D) when using physics interpolation",
+  "up": 3,
+  "updatedAt": "2025-04-28T15:11:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9964"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Currently I haven't found a way to enable these hints from GDScript.",
+    "format": "form",
+    "workaround": "It's possible to workaround the issue by setting `SDL_JOYSTICK_HIDAPI_COMBINE_JOY_CONS` environment variable before launching the editor/game. I tried to set the environment variable in Godot by using `OS.set_environment`, but it didn't work.\nWe can probably change the code of `OS.set_environment` to also set SDL hints if that's acceptable though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-01-29T15:20:33Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 14100,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow JoyCon controllers to not be combined into one device on desktop platforms",
+  "up": 2,
+  "updatedAt": "2026-01-30T14:04:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14100"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's a core Godot node.",
+    "format": "form",
+    "workaround": "Better documentation for how to use the node within the editor would be good. Right now there's not much useful info on setting up navigation \"step by step\""
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-02T15:58:43Z",
+  "comments": 3,
+  "createdAt": "2024-02-11T01:24:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:navigation",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9070,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "NavigationRegion nodes should warn you that they won't work until baked ",
+  "up": 4,
+  "updatedAt": "2024-04-02T21:52:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9070"
+}

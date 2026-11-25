@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving core.",
+    "format": "form",
+    "workaround": "Of course, we can filter properies which we need, but obviously, these two methods' return value is inconsistent with their method name."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-18T09:57:07Z",
+  "comments": 1,
+  "createdAt": "2022-11-18T05:12:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5806,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Provide a bool argument for  `Object.get_property_list()` and `Script.get_script_property_list()` to exclude editor properties",
+  "up": 0,
+  "updatedAt": "2022-11-18T14:54:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5806"
+}

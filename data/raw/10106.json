@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not aware of an asset library or addon that can reach into the C++ code and expose properties like this.",
+    "format": "form",
+    "workaround": "The current workaround is to create a second raycast for each of the wheels to re-do the work, or attempt to reverse the collision point (but crucially not the normal) from the wheel's rendered position."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-29T08:42:42Z",
+  "comments": 1,
+  "createdAt": "2024-07-03T15:11:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": "4.4",
+  "number": 10106,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `m_raycastInfo` in VehicleWheel3D to scripting",
+  "up": 4,
+  "updatedAt": "2024-08-29T08:43:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10106"
+}

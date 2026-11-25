@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be in core so programmers can make sandboxed file systems without any nand write.",
+    "format": "form",
+    "workaround": "No, as there is not even a way to make temporary files inside godot.\n\nEDIT: Technically, there would be a better way to implement this using a custom object and dictionaries to hold the file system structure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-11-07T19:56:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8365,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ZIPPackerMemory to create in-memory ZIP archives and write them to PackedByteArray",
+  "up": 0,
+  "updatedAt": "2025-03-09T16:10:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8365"
+}

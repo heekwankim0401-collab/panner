@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a core feature.",
+    "format": "form",
+    "workaround": "It can't currently be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-05T11:18:21Z",
+  "comments": 6,
+  "createdAt": "2025-08-04T08:38:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12929,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make imports be non-blocking using the toast system",
+  "up": 0,
+  "updatedAt": "2025-08-05T11:19:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12929"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can probably be an addon although I don't know how yet.\nIt seems to me like a small enough and general enough feature to include in core.",
+    "format": "form",
+    "workaround": "It would be used often by solo devs."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-31T15:00:53Z",
+  "comments": 1,
+  "createdAt": "2022-10-31T12:38:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5684,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an option to open .blend files in blender",
+  "up": 3,
+  "updatedAt": "2022-10-31T15:00:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5684"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Part of the interface for addons.",
+    "format": "form",
+    "workaround": "The workaround is manually getting specific children of the Node3DEditor and manipulating them directly in forwards-incompatible ways."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-16T09:24:02Z",
+  "comments": 2,
+  "createdAt": "2023-10-16T04:57:52Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8141,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Node3DEditor: expose add_control_to_menu_panel (etc) or wrappers to gdscript",
+  "up": 0,
+  "updatedAt": "2023-10-16T09:24:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8141"
+}

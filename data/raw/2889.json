@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Level streaming is an important tool in many genre of modern games to increase level size while ensuring a seamless player experience. It is used in games with long linear levels, hub-world based games, and open world games. Lastly as stated above this is not possible to do as a plugin with current API as far as I can tell, and must be core.",
+    "format": "form",
+    "workaround": "No, as far as I know there is no way to change how scenes are saved and loaded in editor or worked with to this extent, or to include geometry in a LightmapGI that is not in the lightmap, but is included in the calculation of global illumination."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-06-19T10:53:01Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2889,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"StreamingScene\" node and associated level streaming editor tools",
+  "up": 15,
+  "updatedAt": "2021-06-21T00:30:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2889"
+}

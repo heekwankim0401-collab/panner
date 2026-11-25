@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Games that require the use of light do not want to expose, should be built-in",
+    "format": "form",
+    "workaround": "This can now only be achieved through shaders"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-09T11:47:04Z",
+  "comments": 3,
+  "createdAt": "2022-09-09T07:26:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5382,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improved 2D lighting",
+  "up": 0,
+  "updatedAt": "2022-09-09T15:26:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5382"
+}

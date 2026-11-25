@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. Code protection is a fundamental concern for any developer distributing games publicly.\nExternal tools are unreliable, version-dependent, and can break across engine updates.\nA core, engine-level implementation ensures consistent functionality, compatibility with future Godot releases, and trust that developers’ intellectual property remains secure.",
+    "format": "form",
+    "workaround": "No. While simple renaming scripts could be written, they cannot reliably handle all bytecode, type, and reference cases without breaking the game. A robust solution must be integrated into the engine’s export pipeline to ensure full compatibility and maintain stability."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-05T10:21:46Z",
+  "comments": 1,
+  "createdAt": "2025-11-05T10:17:32Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13576,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Built-in GDScript Obfuscation System for Better Game Source Protection",
+  "up": 0,
+  "updatedAt": "2025-11-05T10:21:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13576"
+}

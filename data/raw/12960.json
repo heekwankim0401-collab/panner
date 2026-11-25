@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a change for a core functionality/part of a core setting. Also this seems such a small change that an add-on would be overkill.",
+    "format": "form",
+    "workaround": "Currently you can check if your templates are part of the folder defined in the \"editor/script/templates_search_path\" in the _enter_tree method of your plugin and if they are not then your can copy them over via script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-07T18:03:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12960,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Let \"Templates Search Path\" accept multiple paths",
+  "up": 1,
+  "updatedAt": "2025-08-07T18:05:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12960"
+}

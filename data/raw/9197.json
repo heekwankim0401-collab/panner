@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "SceneTree and Node are core",
+    "format": "form",
+    "workaround": "Not for detecting changes in the editor. Unless you hook into methods like _process which is very undesired for obvious reasons"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-28T15:04:43Z",
+  "comments": 1,
+  "createdAt": "2024-02-28T15:01:13Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 9197,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add signal for adding a node to a group",
+  "up": 0,
+  "updatedAt": "2024-02-28T15:04:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9197"
+}

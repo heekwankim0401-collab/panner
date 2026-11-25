@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This can't be implemented with an add-on.\n\nThird-party workarounds such as Special K and RTX HDR exist, but they are limited in what they can do (especially when it comes to UI handling). These tools are also only available on Windows.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-09-23T18:44:46Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10817,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add HDR display output support to Android (already implemented on Windows, macOS, iOS, Linux)",
+  "up": 28,
+  "updatedAt": "2026-08-26T20:45:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10817"
+}

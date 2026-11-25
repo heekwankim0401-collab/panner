@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Having an HID API built into Godot could pave the way for users to create add-ons that extend support for specific HID devices through custom-built APIs. For example, users could make an API for interfacing nicely with the DualSense controller, or with the Switch Joy-Cons. Without the underlying HID API being built in, these controller extensions would have to bring their own solution such as hidapi.",
+    "format": "form",
+    "workaround": "No, I would expect it to take a fair amount of work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-03-27T23:31:21Z",
+  "down": 0,
+  "labels": [
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12089,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide an API for HID input and output reports",
+  "up": 4,
+  "updatedAt": "2025-08-15T10:36:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12089"
+}

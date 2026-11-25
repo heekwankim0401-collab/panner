@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The memory enhancements require revisions to what Godot Engine internally executes when performing Variant serialization/initialization. Therefore, the customization features must be made at the Variant level which is a core feature. If things were done with an asset, it would defeat the purpose; the enhancements would only exist for a specific language and would be unavailable to other languages like GDScript and VisualScript, nor would they be available to the Editor.",
+    "format": "markdown",
+    "workaround": "Web and mobile are memory-sensitive platforms by definition, so improving options available for memory conservation opens more options for what can be done with vanilla, script-only Godot projects. Based on mentioned examples, scripted workarounds are either too verbose *and* inefficient or easy-to-use, but *really* inefficient."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-19T13:44:06Z",
+  "comments": 20,
+  "createdAt": "2021-06-03T07:13:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2816,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add compact and customizable complex Struct types to Variant with a strong, but lightweight type system",
+  "up": 78,
+  "updatedAt": "2023-07-19T13:47:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2816"
+}

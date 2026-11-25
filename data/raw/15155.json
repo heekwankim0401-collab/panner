@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-07-08T14:39:57Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15155,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `above` optional parameter to `add_sibling` to allow inserting node above others",
+  "up": 2,
+  "updatedAt": "2026-07-08T17:07:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15155"
+}

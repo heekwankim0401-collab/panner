@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't believe add-ons can modify the GDScript analyzer or provide custom error messages like this.",
+    "format": "form",
+    "workaround": "Once newcomers learn about this difference and/or stop using Godot 3 materials, it won't be necessary for them anymore. But we should want to make it as easy as possible for people to get started with modern Godot, and a strange error like \"Unexpected 'Identifier'\" doesn't help in that regard."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-25T16:42:03Z",
+  "comments": 0,
+  "createdAt": "2025-01-12T06:36:14Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.5",
+  "number": 11542,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add custom error message for Godot 3 `export` syntax",
+  "up": 4,
+  "updatedAt": "2025-04-25T16:44:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11542"
+}

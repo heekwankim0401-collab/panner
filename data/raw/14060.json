@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a non invasive feature that will make it more convenient to edit long scripts.",
+    "format": "form",
+    "workaround": "This can be worked around by just changing each phrase, but if a phrase if used a lot it's time consuming."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-26T10:54:45Z",
+  "comments": 2,
+  "createdAt": "2026-01-24T21:59:26Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 14060,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "\"Change all occurrences\" in text editor",
+  "up": 0,
+  "updatedAt": "2026-01-26T10:54:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14060"
+}

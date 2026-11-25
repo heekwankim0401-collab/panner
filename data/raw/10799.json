@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a change to the GDScript code validator in the editor.",
+    "format": "form",
+    "workaround": "Yes, the point of this proposal is to avoid having to end a function with unreachable code. The workaround (which is the current situation in its entirety) is to add an unreachable return statement of the correct type and optionally annotate it with a comment, like so:\n\n```godot\n# unreachable\nreturn null\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-09-21T17:01:10Z",
+  "down": 1,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10799,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript: \"while true:\" block with no \"break\" statements inside and at least one \"return\" should count as a return for the purpose of \"code paths return a value\"",
+  "up": 0,
+  "updatedAt": "2024-10-01T18:15:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10799"
+}

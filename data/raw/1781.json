@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Imho that is self-evident. TextEdit like it is seems more like a emergency solution and basic formatting (styles, color, maybe size) seem to be very basic features for such a node. \n\n\nP.S. Syntax highlighting is no solution to this as it is not about highlighting keywords automatically but highlighting/changing text manually.",
+    "format": "legacy",
+    "workaround": "It can hardly be worked around.\nOne very clumsy workaround would be to overlay a RichTextLable over a TextEdit (font color = background color) that does ignore mouse and transfer text on the fly to it by adding BBCode. \nThe alignment is a mess and it gets unusable when the text gets longer than the TextEdit (scroll bar).\nAlso selecting text is ugly etc. pp."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2020-11-06T02:50:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1781,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement using several different font styles (light, bold, italic, …) and colors in one single TextEdit",
+  "up": 23,
+  "updatedAt": "2026-04-28T21:02:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1781"
+}

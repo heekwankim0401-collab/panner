@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Improving engine performance out of the box.",
+    "format": "form",
+    "workaround": "You will have to do it for each mesh, and do distance calculation to camera.\n\nI guess not convenient."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-20T00:15:30Z",
+  "comments": 2,
+  "createdAt": "2023-10-15T12:13:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8128,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use Vertex-Lighting for far objects",
+  "up": 0,
+  "updatedAt": "2023-10-20T22:36:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8128"
+}

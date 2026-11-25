@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be core.",
+    "format": "form",
+    "workaround": "No, I need remote transform node to do this."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-29T06:13:34Z",
+  "comments": 3,
+  "createdAt": "2024-07-26T12:55:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 10283,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make \"Show Behind Parent\" CanvasItem property inherit from its parent node",
+  "up": 0,
+  "updatedAt": "2024-07-29T09:03:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10283"
+}

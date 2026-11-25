@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Giving correct attribution to the work done by open source projects is important, so it should be in core.",
+    "format": "form",
+    "workaround": "This is a feature that everybody who exports Godot projects should use."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-08-08T07:12:59Z",
+  "down": 0,
+  "labels": [
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 3107,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Include a license file for the Godot engine when exporting projects",
+  "up": 12,
+  "updatedAt": "2022-02-11T11:28:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3107"
+}

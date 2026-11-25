@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it requires to modify the core structure of a Node, to be able to add this behaviour.",
+    "format": "markdown",
+    "workaround": "I'm not sure if there's a better way to do this, but it would be a nice addition to the engine IMO."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-04T09:13:30Z",
+  "comments": 5,
+  "createdAt": "2021-04-02T00:42:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2544,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `Node.node_added` signal/method to detect the addition of children and subchildren nodes",
+  "up": 9,
+  "updatedAt": "2022-02-04T09:13:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2544"
+}

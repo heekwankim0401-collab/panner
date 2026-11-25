@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It seems that most of the requirements for this are implemented, though I am unsure as I don't know where to look in the source to verify this.",
+    "format": "form",
+    "workaround": "I can't think it wouldn't be possible. As far I can tell, items that are not supported by the drag and drop are filtered out.\nIm gathering this from this actuion being possible for tscn files and tres materials, but not custom resources. Unless im missing something."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-10-27T14:20:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8272,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow editor plugins to implement drag-and-drop for custom file types from the FileSystem dock to the 2D/3D editor viewport",
+  "up": 3,
+  "updatedAt": "2023-11-21T11:06:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8272"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a core feature.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-09-05T22:46:28Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5348,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Optimization of the 2D batching renderer for OpenGL implementations without orphaning",
+  "up": 1,
+  "updatedAt": "2022-09-09T22:16:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5348"
+}

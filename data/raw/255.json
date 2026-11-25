@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There are now drawback to this being core as far as I can see.",
+    "format": "legacy",
+    "workaround": "Not really, it's low level editor code I'm guessing."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-06T14:23:28Z",
+  "comments": 13,
+  "createdAt": "2019-11-24T19:50:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 255,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display enum name next to its value in the Remote Inspector",
+  "up": 56,
+  "updatedAt": "2026-02-06T14:23:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/255"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems to need to be a core modification.",
+    "format": "form",
+    "workaround": "I think an editor plugin could be used to remove some of the minimum_size constraints set on a few things, namely the dock elements and the open files tabcontainer, but it might not be able to replace the hboxes with hflows."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-06-25T13:14:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7156,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use HFlowContainers for toolbars to allow for smaller resizing of the MainScreen element",
+  "up": 9,
+  "updatedAt": "2025-01-30T13:07:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7156"
+}

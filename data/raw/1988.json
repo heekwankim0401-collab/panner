@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "path finding is a core component of most games\n\nextra:\n\n![Screenshot from 2020-12-15 21-26-48](https://user-images.githubusercontent.com/59711483/102269199-98324e80-3f1c-11eb-87ea-1aca01a73e79.png)\n\nas you can see, the function that returns a point doesnt give an exact location, thus i cant block the units precise postion so that other units can avoid it",
+    "format": "markdown",
+    "workaround": "i dont think this is doable with a few lines of script"
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-28T20:40:57Z",
+  "comments": 1,
+  "createdAt": "2020-12-15T16:37:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 1988,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add lower-level access to the AStar class",
+  "up": 0,
+  "updatedAt": "2021-07-28T21:02:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1988"
+}

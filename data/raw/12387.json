@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core functionality.",
+    "format": "form",
+    "workaround": "n/a"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T07:46:59Z",
+  "comments": 3,
+  "createdAt": "2025-05-08T01:57:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12387,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Generate Log Files to Save Output of Godot Engine on Android",
+  "up": 0,
+  "updatedAt": "2026-01-28T17:16:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12387"
+}

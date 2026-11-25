@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be core because both multiplayer and output are core to Godot and game-development at large.",
+    "format": "form",
+    "workaround": "The issue of code execution order being more complex to parse through is much more difficult to solve with a few lines of code.\n\nOne of the two main issues can be side-stepped by printing out an identifier of which instance is specifically outputting information while being more cumbersome by having custom print solutions potentially bloat even simple outputs. This can potentially just add unnecessary bloat to the code-base wherever output is used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-04-07T00:13:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12180,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the option/ability to have output be seperated per game instance when testing multiplayer",
+  "up": 35,
+  "updatedAt": "2025-04-09T22:50:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12180"
+}

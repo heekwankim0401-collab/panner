@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Showing \"Error: port xxxx already in use.\" But still running the project with erratic debug output, is an inconsistent behaviour. Displaying a pop-up and asking the user to rectify his mistake, will be convenient to all such users as mentioned before. As this feature will not consume any editor space and is only a few lines of added code to the editor, I think we should not ask the users to install a plug-in for this.",
+    "format": "markdown",
+    "workaround": "This enhancement will be useful for everyone who uses more than one editor window at a time. And that should be the case for every multiplayer game. It will be only a few lines of code, but the user has to make the change in the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-10T15:33:00Z",
+  "comments": 1,
+  "createdAt": "2021-04-10T11:15:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2583,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "If the \"Debug port\" is already in use and user presses the \"Play button\", the editor will display a popup, asking for a different port number.",
+  "up": 0,
+  "updatedAt": "2021-04-10T15:33:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2583"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would get used a lot I think, and improve visibility and use of demos in assetlib, and from a 'we have a bunch of projects in a folder and just need to parse them and stick the metadata into a postgresql table and then have the client make a GET request' point of view it really should be pretty easy to implement and save a lot of time.",
+    "format": "form",
+    "workaround": "It can be worked around by manually downloading projects or searching github like we have been doing since the beginning of time, but it takes a very long time and also I think it would be used very often. Also, versioning of projects on github, older versions with slightly different behavior probably throw people off."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-03T04:29:49Z",
+  "comments": 2,
+  "createdAt": "2025-07-07T01:51:39Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:docs"
+  ],
+  "milestone": null,
+  "number": 12740,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Link in-engine documentation to do a search for demos that use a specific node or node method",
+  "up": 1,
+  "updatedAt": "2025-11-03T06:52:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12740"
+}

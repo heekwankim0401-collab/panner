@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be core because it'll speed up development time for all devs working in 3D. It would especially be useful for FPS games because then levels could be created quicker. Overall, it would greatly enhance the engine and could make it a more appealing engine to new game devs who may otherwise automatically choose to use Unity.",
+    "format": "legacy",
+    "workaround": "Probably not."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-06-18T03:05:58Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2879,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a mesh-based 3D level design tool",
+  "up": 16,
+  "updatedAt": "2024-11-27T11:40:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2879"
+}

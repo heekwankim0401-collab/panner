@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I found several reddit and forum posts about it. Chat GPT doesn't know how to do that either. I think it's useful functionality for text scrolling manipulation.",
+    "format": "form",
+    "workaround": "I got clipping work properly, so I will use normal label as child of control node + clip outside rectangle + move text position in time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-02-03T13:04:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9017,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add scroll_by_offset/scroll_to_offset to RichTextLabel or adjust scroll_to_line to accept float type",
+  "up": 8,
+  "updatedAt": "2024-03-28T14:40:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9017"
+}

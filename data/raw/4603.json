@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can't be an addon.",
+    "format": "form",
+    "workaround": "It's not about lines. Well, technically it is, but not in that sense."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-11T22:52:11Z",
+  "comments": 29,
+  "createdAt": "2022-05-29T23:22:22Z",
+  "down": 8,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.4",
+  "number": 4603,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add UIDs to script files",
+  "up": 31,
+  "updatedAt": "2024-12-11T07:54:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4603"
+}

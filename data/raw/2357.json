@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this could be used often when creating responsive UIs without the hassle and reinventing the wheel.\nImo this would be a logical addition to the existing vertical scroll slider.",
+    "format": "markdown",
+    "workaround": "Could be work-rounded, but not with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-28T16:41:23Z",
+  "comments": 2,
+  "createdAt": "2021-02-26T01:13:04Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2357,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add HSlider to Tree",
+  "up": 6,
+  "updatedAt": "2021-06-28T16:41:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2357"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should be a core feature for better accessibility and ease of use",
+    "format": "form",
+    "workaround": "There's no work around for this other than editing the Rect properties in the Inspector panel"
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-10T15:38:31Z",
+  "comments": 1,
+  "createdAt": "2023-02-20T22:55:39Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 6330,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve further the Region Editor with better zoom and selection tools",
+  "up": 1,
+  "updatedAt": "2026-04-10T15:39:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6330"
+}

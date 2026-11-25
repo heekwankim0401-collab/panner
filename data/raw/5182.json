@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be exposed to the user by default.",
+    "format": "form",
+    "workaround": "It concerns the way Godot compresses imported textures, and I don't think this is exposed to the user."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-08-16T09:06:50Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5182,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow textures to be stored in grayscale",
+  "up": 6,
+  "updatedAt": "2024-11-27T17:13:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5182"
+}

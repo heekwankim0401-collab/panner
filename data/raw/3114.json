@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as QoS hints cannot be added using a script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-08-10T20:34:24Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 3114,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Send QoS hints in ENet to decrease latency on congested connections",
+  "up": 0,
+  "updatedAt": "2023-06-11T22:00:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3114"
+}

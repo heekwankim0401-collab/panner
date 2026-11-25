@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- reduce overhead\n- focus game logic\n- will add the ability to convert between coordinates and maybe using the same scene for both 2D and 3D and just change the way it renders like transition between 2D and 3D (Satellite Simulation - its really a feature I would love to see natively in cameras and coordinates)",
+    "format": "form",
+    "workaround": "once it's needed in a project all parts of the project should follow it"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-10-06T16:26:10Z",
+  "down": 1,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 10915,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for alternative 2D coordinate systems",
+  "up": 0,
+  "updatedAt": "2024-10-07T15:12:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10915"
+}

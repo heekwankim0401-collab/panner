@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "a few extra csg shapes if we think of them honestly are very useful for prototyping, even icospheres and whatnot...... if someone requires 3D coordinates and that would make this easier i will try to hunt them out... i have already found various shapes around the internet like icospheres etc... i'm not personally aware of the internals of Godot here..... not sure how the UV mapping might be approached being a complication perhaps",
+    "format": "form",
+    "workaround": "when lacking the right shapes we are forced to import models from a program like Blender"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-29T21:24:26Z",
+  "comments": 4,
+  "createdAt": "2022-05-27T01:24:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4596,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a CSGCone3D node",
+  "up": 0,
+  "updatedAt": "2022-05-29T23:05:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4596"
+}

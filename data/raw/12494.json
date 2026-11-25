@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because it would add a core feature to the gdscript syntax. it can't be implemented as an addon. (at least not to my knowledge)",
+    "format": "form",
+    "workaround": "Definitely not. \nI don't believe one can make changes to gdscript inside of gdscript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-05-25T06:19:26Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12494,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Adding an End keyword at the end of a function/loop/if.",
+  "up": 0,
+  "updatedAt": "2025-06-01T14:51:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12494"
+}

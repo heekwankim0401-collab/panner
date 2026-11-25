@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as this is core engine functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-05T14:17:27Z",
+  "comments": 4,
+  "createdAt": "2021-12-01T18:59:46Z",
+  "down": 1,
+  "labels": [
+    "topic:core",
+    "topic:export"
+  ],
+  "milestone": "4.0",
+  "number": 3619,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename the ZIP extension used for exported project data back to PCZ",
+  "up": 8,
+  "updatedAt": "2022-05-05T14:17:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3619"
+}

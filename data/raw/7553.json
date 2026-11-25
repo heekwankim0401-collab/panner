@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the usability of 2D shaders for anything that needs to draw outside the node's original bounds.",
+    "format": "form",
+    "workaround": "Using a non-repeating texture and region drawing in Sprite2D, yes. However, it's fiddly and can't be done with all 2D node types."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-08-24T20:21:18Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7553,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Custom Rect property to CanvasItem to allow 2D shaders to draw outside the node's rect",
+  "up": 9,
+  "updatedAt": "2025-04-11T21:38:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7553"
+}

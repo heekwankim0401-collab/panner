@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Godot editor isn't accessible at all with screen readers \nI tried every possible solution but I can't make it work \nI tried the editor on Windows, Linux and Android, of course with the same result\nI also explored some of the possible solution from the community like \nGodot accessibility plugin\n  without any luck \nmainly I’m using NVDA screen reader on windows and Orca screen reader on Linux\n  as a blind person I really hope you can make Godot accessible to allow me to create my dream games.",
+    "format": "form",
+    "workaround": "Godot editor isn't accessible at all with screen readers \nI tried every possible solution but I can't make it work \nI tried the editor on Windows, Linux and Android, of course with the same result\nI also explored some of the possible solution from the community like \nGodot accessibility plugin\n  without any luck \nmainly I’m using NVDA screen reader on windows and Orca screen reader on Linux\n  as a blind person I really hope you can make Godot accessible to allow me to create my dream games."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-08T09:50:18Z",
+  "comments": 4,
+  "createdAt": "2024-05-08T09:04:24Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 9700,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Godot Accessibility issues",
+  "up": 0,
+  "updatedAt": "2024-05-08T15:34:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9700"
+}

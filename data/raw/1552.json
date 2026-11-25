@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is too tightly bound with the GDScript implementation.",
+    "format": "legacy",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-23T14:43:51Z",
+  "comments": 3,
+  "createdAt": "2020-09-23T09:47:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1552,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDscript: Type enforcing",
+  "up": 0,
+  "updatedAt": "2020-09-23T14:43:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1552"
+}

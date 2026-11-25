@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the Mono Build functionality of Godot.",
+    "format": "form",
+    "workaround": "I compile my code to check for Compilation errors often. So for now I just click the Build button with my mouse."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-14T14:21:54Z",
+  "comments": 2,
+  "createdAt": "2021-08-25T02:23:31Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3197,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Mono Build keyboard shortcut",
+  "up": 5,
+  "updatedAt": "2021-09-14T14:36:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3197"
+}

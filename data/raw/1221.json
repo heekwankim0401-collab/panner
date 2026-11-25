@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it must modify a core class.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-07-19T16:31:46Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 1221,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose request's body send progress in HTTPClient",
+  "up": 4,
+  "updatedAt": "2026-01-26T13:14:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1221"
+}

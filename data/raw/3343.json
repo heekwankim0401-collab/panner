@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think assets can help much with tool scripts and especially \"ownership\"",
+    "format": "form",
+    "workaround": "I wish I could work around it... have been battling this ever since I started this project, and it's either \"see in editor\" or \"have cruft in scene files/leftover old nodes\""
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-09-24T15:04:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3343,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to see nodes in editor without saving them to the scene file",
+  "up": 0,
+  "updatedAt": "2024-07-09T16:04:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3343"
+}

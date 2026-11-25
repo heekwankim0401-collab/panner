@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I had no idea if that is something possible using GDNative/GDExtension, always wanted to make a plugin with that, don't know where to start.\n\n`EditorSettings.call()` does not work, so I think need to be exposed somehow from core.",
+    "format": "form",
+    "workaround": "A few lines? No, you'll need to create the whole shortcut by hand, and nothing ensures that will be the same as the editor uses:\n![image](https://user-images.githubusercontent.com/7025991/155611760-b9a0b4ec-67e9-4ad9-b32f-31ca351d219f.png)\nbecause this will not work:\n```gdscript\nvar settings:EditorSettings = plugin.get_editor_interface().get_editor_settings()\nvar shortcut = settings.get(\"scene_tree/duplicate\") as ShortCut\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-14T20:28:37Z",
+  "comments": 1,
+  "createdAt": "2022-02-24T21:42:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.6",
+  "number": 4112,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `EditorSettings` shortcut related functions",
+  "up": 15,
+  "updatedAt": "2025-11-14T20:30:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4112"
+}

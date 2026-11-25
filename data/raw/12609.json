@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the node and making a bit more friendly and making dynamic data looking up work.\nI can say that Godot already user friendly, but in the long run this will make it even better with less pain and work for developers.",
+    "format": "form",
+    "workaround": "I haven't found a work around yet. but I am going try and use an associative array or dictionary to store id's paired with their primary key / data values. Not ideal, just a bunch of extra code that is not needed than accessing the information direct from the node. This work around might not be for everyone depending on their requirements."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-06-15T04:40:40Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12609,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Control Node (Option Button) - Adding Attribute \"Value\" To Selectable Items",
+  "up": 0,
+  "updatedAt": "2025-06-15T19:16:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12609"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Such internal format changer tools should be core.",
+    "format": "form",
+    "workaround": "Possibly by extracting the array and making a tool to turn that into a mesh and export that"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-04-15T20:20:37Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4406,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow easy Array Mesh <-> Array Occluder translation",
+  "up": 5,
+  "updatedAt": "2022-04-15T21:12:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4406"
+}

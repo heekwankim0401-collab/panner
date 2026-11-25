@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. This proposal is suggesting unobtrusive, optional enhancements for the Godot Editor which can be ignored.\nIn my opinion, this change would be embraced as purely beneficial by a large percentage of 2D users.",
+    "format": "markdown",
+    "workaround": "No. It concerns modifying the editor, fundamentally."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-13T08:46:30Z",
+  "comments": 4,
+  "createdAt": "2021-04-27T09:37:49Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2658,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve 2D editor zoom controls",
+  "up": 7,
+  "updatedAt": "2022-10-20T20:09:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2658"
+}

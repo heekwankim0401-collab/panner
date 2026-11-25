@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I can't find a way to get scenes outside the core.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-04T15:07:22Z",
+  "comments": 1,
+  "createdAt": "2020-08-05T16:01:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1314,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "get_open_scenes() should return an Array of Nodes(Scenes) instead of an Array of Nodes.filename(Scenes.filename)",
+  "up": 4,
+  "updatedAt": "2024-10-04T15:07:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1314"
+}

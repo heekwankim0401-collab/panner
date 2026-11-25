@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this should be included in the engine out of the box, as it clearly improves the engine’s 3D workflow.",
+    "format": "form",
+    "workaround": "I believe this would be used frequently. It might be possible to implement it as a plugin, but I’m not sure about that."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-14T18:00:08Z",
+  "comments": 1,
+  "createdAt": "2026-01-14T15:31:17Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 14008,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "View Flip on Repeated Click of an Axis in the Editor",
+  "up": 0,
+  "updatedAt": "2026-01-14T18:00:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14008"
+}

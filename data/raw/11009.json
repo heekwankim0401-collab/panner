@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "An add-on wouldn't be able to fix this.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-10-21T21:35:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 11009,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Handle multiple editor plugins that target the same resource",
+  "up": 2,
+  "updatedAt": "2024-10-26T10:32:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11009"
+}

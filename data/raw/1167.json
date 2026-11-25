@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If this functionality was core, *all* modifications that would be bloat if it was in the engine could be run by the user as an addon in the project, allowing for each project to have its own de facto customized engine without recompiling anything.",
+    "format": "legacy",
+    "workaround": "Partially, but with more base modifications, it becomes near impossible to add a component to every node that needs this functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2020-07-06T19:50:02Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1167,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow modification of engine's types via scripts on runtime",
+  "up": 29,
+  "updatedAt": "2020-07-07T10:02:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1167"
+}

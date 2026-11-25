@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improving the consistency of the editor out of the box.",
+    "format": "form",
+    "workaround": "Possibly, although it might be easy for a beginner to code, as well as having to put it in every file using it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-02T23:25:39Z",
+  "comments": 3,
+  "createdAt": "2022-10-15T17:38:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5596,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add move_toward() methods for Vector4, Float.",
+  "up": 0,
+  "updatedAt": "2023-10-03T21:46:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5596"
+}

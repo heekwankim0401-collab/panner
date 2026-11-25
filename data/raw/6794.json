@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "HSV conversion is part of core, so it makes sense that HSL would be too.",
+    "format": "form",
+    "workaround": "Unlike with OK HSV / OK HSL, the math is fairly simple, and could be done in GDScript.\nIt'd be faster and easier if it was just part of the Color class though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-05-02T22:35:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.x",
+  "number": 6794,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add API for HSL conversion",
+  "up": 0,
+  "updatedAt": "2023-05-16T01:17:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6794"
+}

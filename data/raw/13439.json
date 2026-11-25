@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This will make playing the scene easier",
+    "format": "form",
+    "workaround": "it can be done by an custom 'EditorContextMenuPlugin'，But I think it should be a core feature"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-16T18:11:30Z",
+  "comments": 1,
+  "createdAt": "2025-10-22T04:22:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 13439,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add 'play this scene' option to file system context menu",
+  "up": 11,
+  "updatedAt": "2026-07-16T18:11:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13439"
+}

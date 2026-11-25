@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "These artifacts will appear in any resized images used in the engine. Some third party image software will export images with RGB colors in transparent pixels that mitigate these issues but these will be specially prominent when downsizing pixel art where solid pixels are next to transparent pixels which most likely are using the default clear color.",
+    "format": "form",
+    "workaround": "I did not see any documented option to implement this behavior other than reimplementing the `Image.resize` method. When I tried sampling pixels from an image in GDScript it was extremely slow."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2025-03-16T17:36:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12006,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make resizing RGBA images not use RGB pixel information for edge pixels without an RGB color",
+  "up": 0,
+  "updatedAt": "2025-03-19T18:30:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12006"
+}

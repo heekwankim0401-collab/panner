@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-02-16T11:34:38Z",
+  "down": 2,
+  "labels": [
+    "breaks compat",
+    "topic:animation",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 14246,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify AnimationPlayer animation libraries storage with a typed resource array instead of current custom UI",
+  "up": 0,
+  "updatedAt": "2026-02-19T00:19:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14246"
+}

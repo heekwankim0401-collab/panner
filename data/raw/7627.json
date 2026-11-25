@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This function is already in 3D, as part of the core. I think it should be the same with 2D.",
+    "format": "form",
+    "workaround": "I think this is hardly possible."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-09-08T13:09:48Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7627,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add picture-in-picture camera preview to the editor when a Camera2D node is selected",
+  "up": 9,
+  "updatedAt": "2024-01-14T17:40:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7627"
+}

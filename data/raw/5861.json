@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "godot's post processing model at this point isn't a feature but rather a work around.",
+    "format": "form",
+    "workaround": "nope, it's pretty hard to work around the overhead."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-28T19:48:42Z",
+  "comments": 2,
+  "createdAt": "2022-11-27T19:29:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5861,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Rework the post-processing model to reduce performance overhead",
+  "up": 0,
+  "updatedAt": "2022-11-28T19:48:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5861"
+}

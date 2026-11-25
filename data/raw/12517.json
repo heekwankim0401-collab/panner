@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, because this dialog is a key part of the editor workflow, and the usability improvement would benefit all users out of the box. Improving the default experience for exploring and understanding nodes supports both new and experienced Godot users.\n\nIf this seems like a useful improvement, I’d be happy to submit a PR.",
+    "format": "form",
+    "workaround": "No, this cannot be conveniently worked around with a script or editor plugin, as the “Create New Node” dialog is part of the core editor UI."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-20T23:15:25Z",
+  "comments": 5,
+  "createdAt": "2025-05-28T19:38:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 12517,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Editor: Make the description area in “Create New Node” dialog resizable",
+  "up": 8,
+  "updatedAt": "2025-10-20T23:19:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12517"
+}

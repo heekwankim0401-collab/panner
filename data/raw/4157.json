@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is what I feel to be the most lacking of all parts of game development I've seen in Godot so far 😞",
+    "format": "form",
+    "workaround": "Not with a few lines of script, my file loaders are usually more than 100 lines and with many areas that errors can sneak through.\n\nThey also are not super stable, because the engine often locks up for weird reasons which seem extremely hard to debug (basically no error logging when crashing in this way)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-28T10:44:24Z",
+  "comments": 5,
+  "createdAt": "2022-03-04T13:02:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4157,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a flag to allow `instance` and `load` to run over several frames",
+  "up": 2,
+  "updatedAt": "2022-05-28T10:44:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4157"
+}

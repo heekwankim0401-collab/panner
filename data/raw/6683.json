@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Since this basic functionality improvement this should be core I think.",
+    "format": "form",
+    "workaround": "This will be used often for animation editing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-04-12T13:34:57Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6683,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Set keyframe value right in AnimationPlayer timeline by click ",
+  "up": 9,
+  "updatedAt": "2023-04-12T19:28:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6683"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is the editor's behaviour, so it probably is not possible with an add-on.",
+    "format": "legacy",
+    "workaround": "I would use this often. It should possible to programme a feature to toggle the full-screen mode in the game itself (seems to be no such shortcut exists by default, because pressing Alt+Enter did not do it), but then one would have to do that every time when they create a new project, and one would have to toggle the mode after the game has started."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-06-19T04:40:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1087,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Easy way to choose whether to start in window or full-screen dynamically.",
+  "up": 8,
+  "updatedAt": "2020-06-19T07:41:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1087"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "FileDialog is core",
+    "format": "markdown",
+    "workaround": "This cannot be worked around without modifying the internals of FileDialog"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-05-13T00:28:40Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2715,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow accessing entire PCK from FileDialog on exports",
+  "up": 1,
+  "updatedAt": "2021-05-13T10:17:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2715"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core functionality",
+    "format": "form",
+    "workaround": "Yes, it can be worked around by separating the set variable into a hidden variable and the getter/setter, and adding and in-between function."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-23T14:07:40Z",
+  "comments": 1,
+  "createdAt": "2025-07-23T10:47:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12845,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow extra default arguments in setters",
+  "up": 0,
+  "updatedAt": "2025-07-23T14:08:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12845"
+}

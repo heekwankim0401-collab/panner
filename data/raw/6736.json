@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The porting process is essential to the core of Godot 4.x.",
+    "format": "form",
+    "workaround": "It will be used for every project that is ported from Godot 3.x to 4.x. It can be done manually but is tedious."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-22T08:00:49Z",
+  "comments": 2,
+  "createdAt": "2023-04-22T07:55:37Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6736,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Porting from Godot 3.5.2 to 4.x should be porting the Input Map",
+  "up": 0,
+  "updatedAt": "2023-04-23T00:27:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6736"
+}

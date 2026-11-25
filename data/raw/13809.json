@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it seems like a confusing inconsistency in how `@export` works rather than a deliberate and sensible design choice",
+    "format": "form",
+    "workaround": "I'm not really sure"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-08T13:57:13Z",
+  "comments": 2,
+  "createdAt": "2025-12-08T13:38:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13809,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add ability to export constants to the inspector",
+  "up": 0,
+  "updatedAt": "2025-12-08T14:17:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13809"
+}

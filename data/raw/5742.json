@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is actually already part of internal core and this would be helpful for other plugins in asset library.",
+    "format": "form",
+    "workaround": "I found the plugin that also tried to work with editor and file in order to handle bookmarks.\nHere: https://github.com/salihfc/persistent-bookmarks/blob/main/addons/persistent_bookmarks/plugin.gd\n\nLooks like that 50% of the plugin source code was made just to support method \"text_edit_and_script_match\". However, it may still not work properly. This is a price of absent direct relation between editor and file.\nAnother option is to navigate and analyze the component tree which looks even worse."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-11-07T20:31:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 5742,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make ScriptEditorBase.get_edited_script() accessible from GDScript",
+  "up": 0,
+  "updatedAt": "2022-11-10T09:22:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5742"
+}

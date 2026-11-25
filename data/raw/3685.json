@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As stated above, It changes how GDScript works for the better as it allows the ability for common coding practices regarding declaring variables in C, C++ and C# to be used in GDScript. I'm also not advising changing how it currently works, but instead allow for the ability to declare a variable type that you know it will be at the time it's created.",
+    "format": "form",
+    "workaround": "This will get used very frequently, in fact it will change the way GDScript works for the better as it allows the ability for common coding practices regarding declaring variables in C, C++ and C# to be used in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-17T15:58:53Z",
+  "comments": 10,
+  "createdAt": "2021-12-17T15:53:13Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3685,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript - Allow for defined types to avoid \"var name : Type\" situations",
+  "up": 0,
+  "updatedAt": "2021-12-18T14:52:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3685"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the built in animation UX.",
+    "format": "form",
+    "workaround": "This would be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-02T18:00:36Z",
+  "comments": 1,
+  "createdAt": "2024-12-12T12:37:07Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 11340,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Visibility, Lock and Delete icons to nodes in the Bezier Animation editor",
+  "up": 1,
+  "updatedAt": "2025-12-02T18:00:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11340"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-01-02T23:37:57Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11473,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Deduplicate `RBMap` and `RBSet` in core",
+  "up": 1,
+  "updatedAt": "2025-01-03T16:48:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11473"
+}

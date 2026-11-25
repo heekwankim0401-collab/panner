@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form",
+    "workaround": "Yes, it can be worked around with a few lines of script, and that’s exactly what I currently do.\n\nThe goal of this proposal isn't to solve a complex limitation, but to improve code ergonomics in a small but useful way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-12-10T19:08:43Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13828,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a static method to `CanvasItemMaterial` for quick creation with a blend mode",
+  "up": 1,
+  "updatedAt": "2025-12-11T19:10:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13828"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe a direct implementation can be made more performant and leads to greater flexibility for users. It also reduces behavior differences between GPU and CPU code.",
+    "format": "form",
+    "workaround": "Interpolation is possible to implement in GDScript. My particular use case could also be implemented using a compute shader but that adds complexity and is not necessarily faster."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-12-07T11:12:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5907,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add sampling function to Image",
+  "up": 2,
+  "updatedAt": "2022-12-08T11:44:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5907"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving User Experience (UX) or should I say developer experience in the Godot Editor",
+    "format": "form",
+    "workaround": "Yes, as I said earlier, having two timer, is adding more unecessary complexity."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-07-27T04:30:12Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12876,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an Initial Delay property to Timer to use a different duration between the first interval and subsequent intervals",
+  "up": 0,
+  "updatedAt": "2025-07-28T18:32:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12876"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As core, it would allow reducing the complex and quite messy code of `rich_text_label`. It could be an add-on, but it would be code duplication.\n\nI am willing to code this myself and do have a very basic implementation already in.",
+    "format": "form",
+    "workaround": "This can be worked around, essentially by reimplementing bbcode manually. However, this is both ugly and duplicating code from the engine. Additionally, this suggestion could also reduce the very large amount of if-elses in the rich_text_label code (a whopping 700 lines).\n\nI'm not satisfied with my solution as a whole, however. I would like to hear better ideas on this. My goal is to make it possible to reimplement any of the base hardcoded tags in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-01-11T10:52:43Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6078,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow RichTextEffects to insert or replace text",
+  "up": 0,
+  "updatedAt": "2023-01-11T12:10:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6078"
+}

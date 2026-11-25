@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires changes to the core I assume.",
+    "format": "form",
+    "workaround": "Not really, but you can achieve an ugly version by doing something like this:\nhttps://github.com/colugomusic/gdnutil/blob/master/include/gdnutil/once_per_frame.hpp\n\nAnother alternative which I discussed above is to abuse the `update() / _draw()` behaviour e.g.\n```gdscript\n\nvar dirty_1 := false\nvar dirty_2 := false\n\nfunc _on_signal_emitted():\n    dirty_1 = true\n    update()\n\nfunc _on_different_signal_emitted():\n    dirty_2 = true\n    update()\n\nfunc _draw():\n    if dirty_1:\n        dirty_1 = false\n        do_some_work()\n\n    if dirty_2:\n        dirty_2 = false\n        do_different_work()\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-09-02T17:09:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3245,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a new connection flag to only a receive a signal once per frame",
+  "up": 4,
+  "updatedAt": "2025-11-12T20:56:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3245"
+}

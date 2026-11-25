@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Adding an add-on is more time wasted than having it as default functionality.",
+    "format": "markdown",
+    "workaround": "I'm sure that many people use external editors for code, so having the script tab at the top open the built-in editor is rather useless to quite a few people."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-04-11T18:30:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2590,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Open an external editor with the top bar Script button or F3, if one is defined",
+  "up": 0,
+  "updatedAt": "2021-04-15T16:52:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2590"
+}

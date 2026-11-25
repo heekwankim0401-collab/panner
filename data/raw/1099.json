@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this is often required in 2D games without mouse control. Almost as often as switching to fullscreen (https://github.com/godotengine/godot/pull/39708). It makes no sense to reinvent the wheel every time. Besides, the mode that I propose is often found in other applications (for example, video players).",
+    "format": "legacy",
+    "workaround": "```gdscript\nvar tmr := Timer.new()\n\nfunc _ready() -> void:\n    tmr.one_shot = true\n    tmr.wait_time = 1.2\n    tmr.connect(\"timeout\", self, \"hide_cursor\")\n    add_child(tmr)\n\nfunc _input(e: InputEvent) -> void:\n    if e is InputEventMouseMotion:\n        Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)\n        tmr.start()\n\nfunc hide_cursor() -> void:\n    Input.set_mouse_mode(Input.MOUSE_MODE_HIDDEN)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-06-21T13:04:55Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 1099,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 'hide when idle' mouse mode",
+  "up": 2,
+  "updatedAt": "2026-09-25T20:19:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1099"
+}

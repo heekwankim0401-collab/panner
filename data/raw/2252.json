@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core: UX improvement on Core functionality",
+    "format": "markdown",
+    "workaround": "Can be worked around by selecting them individually."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-18T10:28:35Z",
+  "comments": 2,
+  "createdAt": "2021-02-05T19:41:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2252,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Selecting frames in AnimatedSprite - `select frames by spritesheet` by clicking & dragging",
+  "up": 4,
+  "updatedAt": "2021-06-18T10:28:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2252"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "• Ads are critical for most mobile games.\n• Core support ensures stability and maintenance across versions.\n• Revenue share can directly support Godot development.",
+    "format": "form",
+    "workaround": "Yes, currently possible with plugins, but hard for new devs, often broken, and not consistent across Android/iOS."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-26T17:50:41Z",
+  "comments": 2,
+  "createdAt": "2025-08-26T17:01:07Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 13074,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Mobile Ads Service in Godot (like Unity Ads)",
+  "up": 0,
+  "updatedAt": "2025-08-26T17:51:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13074"
+}

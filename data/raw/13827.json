@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Convenience for something I believe could be helpful for many.",
+    "format": "form",
+    "workaround": "A workaround I'm using\n```gdscript\ndraw_rect(\n\tRect2(\n\t\tposition.x,\n\t\tposition.y-font_size + 1,\n\t\tget_text_size().x,\n\t\tget_text_size().y\n\t),\n\tColor.YELLOW, false\n)\n```\nwhere `get_text_size` is\n```gdscript\nfont.get_multiline_string_size(text, HORIZONTAL_ALIGNMENT_CENTER, -1, font_size)\n```\n\n<img width=\"695\" height=\"202\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ff7cf5c5-ea3e-4d22-ac8f-3bdaa07944ae\" />\n\nWithout the +1 it's slightly off for some reason.\n\n<img width=\"687\" height=\"183\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2eada686-9e3c-4ceb-83de-0c5129b58a54\" />"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-12-10T16:44:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13827,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add CanvasItem.get_string_rect() and CanvasItem.get_multiline_string_rect()",
+  "up": 2,
+  "updatedAt": "2025-12-10T17:27:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13827"
+}

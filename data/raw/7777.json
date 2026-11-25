@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I have not confirmed this, but I think the underlying components of the engine are exposed to the scripting layer. Which makes it difficult to implement.",
+    "format": "form",
+    "workaround": "I don't think it can. The ColorPicker button itself is not available on its own. Technically, nothing impedes the functionality of the full suite color picker but in my opinion it could be rather bulky for the end user if all you want to do is pick a color."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-09-21T07:39:26Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7777,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose underlying components of UI elements such as ColorPicker",
+  "up": 3,
+  "updatedAt": "2023-09-21T14:16:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7777"
+}

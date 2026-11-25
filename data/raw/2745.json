@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core rendering functionality.",
+    "format": "markdown",
+    "workaround": "No, as shadow rendering mechanisms are part of the renderer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2021-05-19T16:22:11Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2745,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Reduce shadow update frequency for distant real-time shadows",
+  "up": 15,
+  "updatedAt": "2026-10-12T10:36:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2745"
+}

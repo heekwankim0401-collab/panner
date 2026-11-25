@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "So the add-on is already in the Asset Library and available on Github for manual install. \nhttps://godotengine.org/asset-library/asset/1141\n\nHowever, the setup can be complex depending on your game. It is fairly easy to do in a new project, or with a small test. But if you have a large game deep in development, adding this at the end may be too difficult or error prone. In addition, many users do not know about it, so having it integrated into Godot would allow more users to benefit that would otherwise not have the capability.\n\nIn addition, the way I am doing it in the add-on only works at run time. If it were integrated into the engine, it could potentially also work in the editor viewport, allowing users on slower or older computers to create more advanced and realistic graphics that would otherwise not be possible on say an old laptop or integrated graphics.\n\nFinally, this solution works right now in Godot 3.4, and I tested as far back as 3.3 and it still works. So unlike something like FSR, there is no requirements for advanced new API features, it works fine in Godot 3 across all platforms in both OpenGL ES2 and ES3. So while it is up for debate if my shader is better than FSR (I think it is), regardless, the Godot Super Scaling can allow users that cannot upgrade to Godot 4.0 (for whatever reason) to still have a viable solution.",
+    "format": "form",
+    "workaround": "This enhancement could be used in potentially any 3D game of any genre or type. The performance improvements are substantial and while you can do something similar yourself in GDScript, it is a lot more than a few lines of code and the vast majority of users could not figure this out on their own."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-09T15:14:55Z",
+  "comments": 35,
+  "createdAt": "2022-01-19T04:40:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3825,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Integrate Godot Super Scaling (Viewport Render Scaling) Shader Into Godot",
+  "up": 111,
+  "updatedAt": "2022-09-18T21:01:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3825"
+}

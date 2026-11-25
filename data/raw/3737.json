@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's provided in `ScrollContainer`, makes sense to have it in `TextEdit` and maybe in other Controls too, but open to debate.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-01T12:24:50Z",
+  "comments": 2,
+  "createdAt": "2022-01-01T09:30:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3737,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "No function available to get the vertical scrollbar of a TextEdit",
+  "up": 2,
+  "updatedAt": "2022-01-01T12:27:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3737"
+}

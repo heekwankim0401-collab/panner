@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It may be a good piece of code in one-liners that speed up typing and clean-up the code.",
+    "format": "form",
+    "workaround": "Yes, it can be passed to another variable that has the typed inference declared."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T12:14:23Z",
+  "comments": 1,
+  "createdAt": "2024-12-15T02:25:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11355,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Typed inference on any Variant via Class:Variant",
+  "up": 0,
+  "updatedAt": "2026-07-28T12:14:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11355"
+}

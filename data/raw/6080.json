@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's impossible to directly manipulate rendering order from an add-on without manipulating the tree.",
+    "format": "form",
+    "workaround": "It's possible to reorder the children in the tree itself. However:\n-It's difficult to keep track of the original order of the children in order to consistently apply permutations.\n-It modifies the tree itself, and hence any assumptions that could be made about process ordering, or other aspects of tree order. For comparison, `YSort` influences only the render order.\n\nIt might also be possible to solve this with `CanvasGroup` combined with z-index, but that would mean allocating a back-buffer just for the sake of changing a drawing order."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-13T17:29:28Z",
+  "comments": 18,
+  "createdAt": "2023-01-11T16:03:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6080,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Non-Y sort",
+  "up": 0,
+  "updatedAt": "2023-01-13T17:40:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6080"
+}

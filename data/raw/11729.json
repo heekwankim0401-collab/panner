@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Although VisualScript can be added to the asset library as an add-on, there are a number of reasons why it ought to be regarded as a fundamental component:\n\n- Integration: Since VisualScript and the Godot engine are closely related, integrating it as a fundamental feature would guarantee smooth operation and prevent any compatibility problems.\n- Performance: One of VisualScript's primary features is performance optimization, which makes sure the script operates well and doesn't affect the engine's overall performance.\n- Maintenance: By designating VisualScript as a core feature, the Godot development team would be in charge of keeping it up to date and stable.\n- Community: By making VisualScript a fundamental component, the Godot development team would show their dedication to offering a complete and welcoming game development environment that meets the many demands of the community.",
+    "format": "form",
+    "workaround": "No, a few lines of code won't get around this feature. The implementation of VisualScript necessitates a substantial amount of infrastructure and code due to its complexity. Although GDScript and C++ can be used to develop a basic visual scripting system, they would not offer the same degree of capability and usability as the original VisualScript system. A feature that is simple to use and available to a variety of developers, including those who are new to game development or prefer visual scripting, is another objective of this proposal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-02-09T12:17:35Z",
+  "down": 0,
+  "labels": [
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 11729,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Readd visual scripting as a core engine feature",
+  "up": 0,
+  "updatedAt": "2025-05-01T00:16:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11729"
+}

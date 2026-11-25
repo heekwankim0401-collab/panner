@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's pertaining to the `Tree` type's functionality, a core engine feature.",
+    "format": "form",
+    "workaround": "Not that I am aware of, but if there is a way to get it to work please let me know! I've tried `\\n` `\\r` `\\u000a` and using the enter key in the CSV file to create the new line (which I imagine is doing one of the previous options)"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-25T17:30:43Z",
+  "comments": 1,
+  "createdAt": "2021-12-04T04:35:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.1",
+  "number": 3632,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for multi-line Tree column titles",
+  "up": 3,
+  "updatedAt": "2023-04-25T17:30:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3632"
+}

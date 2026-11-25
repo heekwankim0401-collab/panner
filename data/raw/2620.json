@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems like a core feature",
+    "format": "markdown",
+    "workaround": "Not so easily, I could add my cameras to groups and then search for them but it's not ideal."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-09T07:29:21Z",
+  "comments": 7,
+  "createdAt": "2021-04-17T19:39:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2620,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `get_viewport().get_camera()` able to return a Camera2D node instead of a Camera3D",
+  "up": 1,
+  "updatedAt": "2025-02-09T07:29:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2620"
+}

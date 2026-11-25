@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "CSG is a part of Godot, and adding this functionallity as an addon would be difficult",
+    "format": "legacy",
+    "workaround": "Sadly, no."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-20T20:28:24Z",
+  "comments": 1,
+  "createdAt": "2020-08-30T11:22:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1431,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add more Path Follow mode options to CSGPolygon",
+  "up": 0,
+  "updatedAt": "2021-12-20T20:30:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1431"
+}

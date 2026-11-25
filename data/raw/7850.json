@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Area2D and Area3D having gravity is a core feature, we should allow extending it with more gravity types.",
+    "format": "form",
+    "workaround": "I think this won't be used often, most users are not trying to implement Super Mario Galaxy style games with custom gravity. This could kinda be worked around by manually applying forces to rigid bodies, but that would be bypassing the way the engine usually applies gravity, would not play well with the Area node's space override system, and would take many lines. The goal of this proposal is to make it easier to extend Area's gravity with script."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-30T00:59:10Z",
+  "comments": 2,
+  "createdAt": "2023-09-25T03:10:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7850,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow implementing custom gravity in Area2D and Area3D",
+  "up": 10,
+  "updatedAt": "2024-03-30T00:59:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7850"
+}

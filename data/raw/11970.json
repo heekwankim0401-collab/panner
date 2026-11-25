@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is part of the build system",
+    "format": "form",
+    "workaround": "See this Stack Overflow answer for how to resign an application manually:\nhttps://stackoverflow.com/a/74618837"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-03-12T16:56:34Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:gdextension",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11970,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable `com.apple.security.get-task-allow` for macOS build to improve GDExtension debugging",
+  "up": 0,
+  "updatedAt": "2025-07-10T22:08:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11970"
+}

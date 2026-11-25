@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "easability with console games",
+    "format": "legacy",
+    "workaround": "this would probably be used alot for console games and might be doable with a script but it probably would require more then a few lines.\n\nbut again, it would be a really nice feature to have and would be used alot for things like menus.\n**(EDIT)** I don't know if this is doable actually since there is no real way to simulate something like a button press"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-01-16T02:22:41Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 385,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement 3D focusing for keyboard/joystick-based GUI",
+  "up": 1,
+  "updatedAt": "2020-11-15T20:55:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/385"
+}

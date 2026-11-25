@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-24T21:35:13Z",
+  "comments": 1,
+  "createdAt": "2024-07-24T19:33:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10272,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Do not use redundant member names in enumerations.",
+  "up": 0,
+  "updatedAt": "2024-07-24T21:35:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10272"
+}

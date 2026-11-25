@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't reason for why a Popup cannot be closed by a script simply because it is created by the MenuBar. I don't believe this is a bug, but it seems like an oversight. Other than my use case of not wanting the popup to open at all, I could see many other reasons to close the Popups created by the MenuBar. Perhaps if you needed all the clutter removed from the screen for a specific feature, you could begin by looping over all the PopupMenus from the MenuBar and closing them. Or you could add an input that when pressed clears the popups.\n\nIt is a little frustrating that the only way for the PopupMenus to be closed is clicking off of them, especially in my use case where the click input also corresponds to different behavior that is ideally not connected to the only way to close the Popup.\n\nA plugin could theoretically workaround this, but likely only by creating a custom MenuBar that is more free in how it operates, which is the exact thing I am trying to avoid doing for the project I am working on.",
+    "format": "form",
+    "workaround": "It is very simple to add a script to the `AboutToPopup` signal, which effectively functions like a `Pressed` signal. There is no way, however, to prevent the associated PopupMenu from opening or being displayed. This is even when:\n\n- the PopupMenu has 0 options\n- the PopupMenu has a panel theme override that is a StyleBoxEmpty\n- `Hide()` is called on the PopupMenu\n- The `Transparent` or `TransparentBg` properties are set to true\n-  All of the PopupMenus children are removed and `QueueFreed`\n- The parent object of the PopupMenu is hidden\n\nThere is seemingly zero workaround to prevent the popup from being opened or at the very least from being visible."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-07-23T17:07:59Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12849,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend MenuBar or Popup API for More Control Via Scripting",
+  "up": 0,
+  "updatedAt": "2025-07-23T20:49:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12849"
+}

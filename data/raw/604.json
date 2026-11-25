@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "NA",
+    "format": "legacy",
+    "workaround": "NA"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-14T02:14:36Z",
+  "comments": 6,
+  "createdAt": "2020-03-19T17:51:21Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 604,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a setting to change the inspector display color of CurveTexture (from the default red)",
+  "up": 2,
+  "updatedAt": "2021-08-14T02:15:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/604"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The current stretch options are core, this is an (possibly simple) addition to them.",
+    "format": "legacy",
+    "workaround": "Implementing the view port scaling in GDScript should be possible, though I have not yet attempted it, so I am not certain if the API provides everything needed. \nBut it defies the purpose of the already existent options as you most likely have to disable them as to not interfere."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2019-10-02T23:01:31Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 120,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Camera2D aspect ratio scaling mode that behaves like Camera3D's Keep Width (Vert-)",
+  "up": 0,
+  "updatedAt": "2020-11-22T14:48:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/120"
+}

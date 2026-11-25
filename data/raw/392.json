@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a ux modification to the core editor.",
+    "format": "legacy",
+    "workaround": "This is a usability issue to improve workflow."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2020-01-19T05:31:52Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 392,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify bezier animations in the animation player",
+  "up": 13,
+  "updatedAt": "2026-01-29T02:27:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/392"
+}

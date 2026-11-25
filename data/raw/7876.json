@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature would be best served hand-in-hand with the Area2D/Area3D classes. It is a small interface improvement that would make sense to package with them.",
+    "format": "form",
+    "workaround": "I believe it will be used often by anyone working with point gravity. It is only an inconvenience to work around, but it is a simple solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-09-26T16:27:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7876,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Gizmo/Handle for gravity point in Area2D/Area3D",
+  "up": 3,
+  "updatedAt": "2023-09-26T21:41:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7876"
+}

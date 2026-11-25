@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "only can be implemented in the core",
+    "format": "form",
+    "workaround": "nah it can be worked by just disabling it manually but really it should be disabled by default"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-03T09:21:10Z",
+  "comments": 8,
+  "createdAt": "2024-03-02T14:40:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9220,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Orthogonal mode enabled by default",
+  "up": 0,
+  "updatedAt": "2024-03-03T14:16:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9220"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "For this to be available in all the places that use the graph nodes, it would have to be added in core.",
+    "format": "markdown",
+    "workaround": "I think this would be used quite often and could not easily be worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-02-10T12:45:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2267,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a modifier key that allows moving multiple connections in Graph editors in one go",
+  "up": 7,
+  "updatedAt": "2022-08-24T20:42:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2267"
+}

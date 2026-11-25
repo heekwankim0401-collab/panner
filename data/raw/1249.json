@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Viewport in editor settings are core.",
+    "format": "legacy",
+    "workaround": "It could ben an autoload with a script similar to <https://kidscancode.org/blog/2018/07/godot3_splitscreen/> with an `export var` for the id and string interpolation on the `Input.is_action_pressed(\"forward_%s\")` in combination with populating the Input Map with code, but in editor would be preferable for consistency with other projects and helping contributors understand where code is located."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-07-24T09:08:50Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 1249,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add per-Viewport InputEvent device masking",
+  "up": 2,
+  "updatedAt": "2023-08-03T00:35:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1249"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Extends the functionality of an existing node.",
+    "format": "form",
+    "workaround": "You can use an expression node, or remap each field of the vector in an error-prone way."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-23T14:31:20Z",
+  "comments": 0,
+  "createdAt": "2024-09-22T04:45:08Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.4",
+  "number": 10800,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Visual shader: Add vector operator modes to the Remap node",
+  "up": 1,
+  "updatedAt": "2024-09-23T14:31:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10800"
+}

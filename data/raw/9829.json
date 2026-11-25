@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not sure if plugins can even work on the project manager? Locating missing projects is a workflow papercut that should be core.",
+    "format": "form",
+    "workaround": "It can be worked around by removing and re-adding your project to the Project Manager. A tedious process when you move the directory all your projects are currently located.\n\nI'm guessing there's an INI file you can edit somewhere that also includes the list of projects, though it's not immediately apparent where that file is.\n\nThere is also a 'Scan' button that you can use. It'll add a new copy of every project and leave all the existing Missing Projects. This is probably the easiest option to use in my case, however it's still not a perfect solution - especially if you've moved 3 out of your 10 projects for example."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-27T06:26:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9829,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to locate missing project in Project Manager",
+  "up": 6,
+  "updatedAt": "2024-05-27T12:07:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9829"
+}

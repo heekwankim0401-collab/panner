@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Implementing this in core allows for easier integration within the PhysicsServer calculation, allowing gravity to be reliable for all *Body3D, regardless if it's a character or a simple crate.\n\nA single source of truth for something as universal as gravity is always a plus, even if the user have to provide the calculation for non-trivial cases. My solution is to offer a customization point while keeping the current default.\n\nI open to other solutions",
+    "format": "form",
+    "workaround": "Every article/tutorial I found online tackle this problem similarly : Bypass the current physics system and call a getGravity function from the current area. They either give the Body or the Area the responsibility to apply the gravity movement to the Body, but every PhysicsBody must inherit or have the component CustomGravity in order to get the non-physics gravity.\n\nThis means that using PhysicsServer3D.body_get_direct_state(get_rid()).total_gravity become a mistake, so if my scene have custom gravity areas, if I add a RigidBody3D without inheriting from this custom GravityBody, it won't be affected. Worse, we are essentially duplicating the work of the physics body. This prevent some optimizations like the parallelization of the calculation or letting other thread calculate it.\n\nThe alternative are possible, but I believe the integration with PhysicsServer3D is important and should at least be discussed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-11-02T17:59:48Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.x",
+  "number": 5714,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add custom gravity calculation in Area3D/Area2D",
+  "up": 17,
+  "updatedAt": "2024-03-30T00:59:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5714"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This improves usability of variadic arguments, which to quote #1034 \"[are] useful for every project.\"",
+    "format": "form",
+    "workaround": "per above,\n`\tlog_data.callv([5].append_array(args)) #will work, but is cumbersome and likely less efficient`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-11-23T14:39:11Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13690,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve passing of mixed defined and variadic arguments",
+  "up": 1,
+  "updatedAt": "2025-11-23T17:43:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13690"
+}

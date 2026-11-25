@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is common functionality that could enhance the already existing workflow.",
+    "format": "legacy",
+    "workaround": "It can but the functionality is pretty much already there. Also, it will be a lot faster in c++."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-07-30T13:06:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1279,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to Curve3D to find the closest index to a position",
+  "up": 8,
+  "updatedAt": "2025-07-25T19:59:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1279"
+}

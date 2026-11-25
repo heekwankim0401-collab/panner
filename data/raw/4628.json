@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "That is Godot's GlobalScope and need to fix the core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-17T11:02:19Z",
+  "comments": 11,
+  "createdAt": "2022-06-05T21:24:21Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 4628,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"F17 to F24\" Keys to KeyList",
+  "up": 7,
+  "updatedAt": "2022-09-03T08:52:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4628"
+}

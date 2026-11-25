@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think it's possible to create this feature as a add-on.",
+    "format": "form",
+    "workaround": "I think there is a way it can be worked arround, but I don't know of a method at the moment. (In my specific case where it's a tool script)\n\nIf it wasn't a tool script then I think this would work:\n```gdscript\n@export var id: int :\n\tget:\n\t\treturn id\n\tset(value):\n\t\tif not Engine.is_editor_hint():\n\t\t\treturn\n\t\telse:\n\t\t\tid = value\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-25T17:14:34Z",
+  "comments": 5,
+  "createdAt": "2025-07-25T14:55:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12862,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow exported values to be read only",
+  "up": 0,
+  "updatedAt": "2025-07-27T20:46:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12862"
+}

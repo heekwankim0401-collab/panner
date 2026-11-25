@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This must be in code since the constraints are in the debugger and Resource APIs. No add-on can change these.",
+    "format": "form",
+    "workaround": "It could in theory be done through restarting the executable twice, the first one failing to connect to the debug server by design, only running until the first instance is shut down, and then starting a third session that can successfully connect to the debug server without being blocked by the first instance. The problems with this are to me apparent and really of-putting; one is that it now takes two startup cycles to quit the game and return to the main menu for example, which just restarting once takes like 15 seconds on my computer that runs only this add-on, so running multiple add-ons as well as a game will quickly turn unsustainable. It would also really effect complexity and maintainability since the code becomes less intuitive, more intertwined, more spaghetti like and and almost impossible to test in a reasonable manner in order to cover all edge cases. So, while the answer is that yes, technically this may be implementable in like 50 - 100 lines of code, this code would take a lot of time to execute and be very hard to work with as well as put some serious limitations on what can be done with the add-on going forward as well as degrade the experience of the plugin users, modders and end users alike."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-03-22T11:59:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12047,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to unload resource packs loaded by `ProjectSettings.load_resource_pack()`",
+  "up": 3,
+  "updatedAt": "2025-03-22T18:16:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12047"
+}

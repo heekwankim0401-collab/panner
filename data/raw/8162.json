@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Even if it proves possible to extend the AnimationNode system to implement this purely in script, the functionality would likely benefit from the performance and tight-integration of being in core. The AnimationTree editor will likely require special-case handling for 'external' animation nodes to make working with them as seamless as possible, and the functionality they would provide seems broad, useful, and non-intrusive on the existing animation system, at least from what my preliminary implementation of the feature has shown.",
+    "format": "form",
+    "workaround": "There is currently no way to introduce this kind of hot-swapable animation tree concept in a way which could be considered sufficently flexible for the user cases outlined unless the hotswappable graphs were contained exclusively in the top-level node as a unique resource for each instance. This is simply too limited to be practically useful at scale."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-17T05:07:09Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 8162,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Dynamically Compositable AnimationNodeExternal type",
+  "up": 6,
+  "updatedAt": "2024-08-28T14:46:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8162"
+}

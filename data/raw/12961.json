@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It requires changes to core class.",
+    "format": "form",
+    "workaround": "At best you can draw a second arrow."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-07T19:02:33Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12961,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move one-way arrow of CollisionPolygon2D to its geometric center",
+  "up": 1,
+  "updatedAt": "2025-08-07T19:02:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12961"
+}

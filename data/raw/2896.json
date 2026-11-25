@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "For the same reason `RayCast` node is in core and not in the asset library, the existing PhysicsDirectSpaceState API is useful but too complex to use in an optimal way.",
+    "format": "form",
+    "workaround": "No, it requires making a tool script that can handle all the set up data and visualization which can be quite complex for average users."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-20T19:36:17Z",
+  "comments": 7,
+  "createdAt": "2021-06-20T18:42:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2896,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace RayCast node with a generic ShapeCast node that cover more options",
+  "up": 5,
+  "updatedAt": "2021-06-21T11:03:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2896"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AnimationTrackEditor is in the core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-08-24T09:09:15Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5243,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow multiple selection of tracks in AnimationTrackEditor",
+  "up": 15,
+  "updatedAt": "2026-11-18T22:41:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5243"
+}

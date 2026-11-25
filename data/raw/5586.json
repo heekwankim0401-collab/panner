@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think the main problem is it's hard to implement. But if it actually gets implemented, everyone will use it regularly. There's no reason for it to not be core.\nEven if it should be a GDExtension, I don't think there is any better place to propose this.\nAnd it's inefficient to be done in GDScript, because we don't have a GDScriptParser available in GDScript itself.",
+    "format": "form",
+    "workaround": "It will be used often. \nThanks to https://gitlab.com/joao-pedro-braz/godot-finder , for 3.x only though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2022-10-14T09:33:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5586,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Quick Search Bar that seaches everywhere",
+  "up": 12,
+  "updatedAt": "2025-01-11T16:25:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5586"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "not possible as addon",
+    "format": "form",
+    "workaround": "demand editing core"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-06-09T16:56:22Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4647,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using Lookup Symbol functionality on other scripts' members/methods in comments",
+  "up": 0,
+  "updatedAt": "2022-06-09T17:02:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4647"
+}

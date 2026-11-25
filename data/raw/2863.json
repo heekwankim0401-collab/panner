@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because the data that needs to be accessed in order to accomplish this doesn't seem to be available in GDscript. Also, performance would suffer greatly if not written in C++.",
+    "format": "form",
+    "workaround": "This will likely be used often, as it is often used piece of information.\nYes, it can be used the same way that a \"regular\" ray cast is done in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2021-06-13T20:11:08Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2863,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Have raycast in GDScript be able to intersect with non-collision mesh triangles and return the UV coordinate of the texture, as well as the standard info already present",
+  "up": 51,
+  "updatedAt": "2025-08-22T07:56:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2863"
+}

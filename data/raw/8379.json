@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "This is an editor feature. Hence there is no script workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-05T13:15:23Z",
+  "comments": 2,
+  "createdAt": "2023-11-09T08:50:37Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 8379,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add editor setting flag to disable the confirm dialog when starting a new track on the animation player",
+  "up": 6,
+  "updatedAt": "2024-07-05T13:15:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8379"
+}

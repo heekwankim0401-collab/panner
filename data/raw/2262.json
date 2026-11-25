@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Since the plugin system is core, it makes sense to improve it in core.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-21T14:13:50Z",
+  "comments": 4,
+  "createdAt": "2021-02-08T08:35:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:assetlib",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2262,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to update plugins",
+  "up": 24,
+  "updatedAt": "2023-11-21T14:14:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2262"
+}

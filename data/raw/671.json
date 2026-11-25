@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-21T16:11:39Z",
+  "comments": 25,
+  "createdAt": "2020-04-06T06:39:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 671,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add object position interpolation between physics frames",
+  "up": 34,
+  "updatedAt": "2022-09-18T21:03:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/671"
+}

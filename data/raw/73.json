@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because sampler2D is core data type.",
+    "format": "legacy",
+    "workaround": "It can't be worked around, as i know (only with expression node, but as iFire said, it's a bug)"
+  },
+  "assignees": 0,
+  "closedAt": "2019-10-01T19:24:07Z",
+  "comments": 3,
+  "createdAt": "2019-09-15T22:51:21Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "3.x",
+  "number": 73,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Uniform sampler ports in Visual Shader",
+  "up": 0,
+  "updatedAt": "2020-08-05T07:57:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/73"
+}

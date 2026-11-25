@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It *completes* a cool existing feature.",
+    "format": "form",
+    "workaround": "Not really, although script editor plugins are a thing. Maybe."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-05-25T21:22:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4593,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add autocompletion for scene unique nodes",
+  "up": 28,
+  "updatedAt": "2024-09-06T21:01:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4593"
+}

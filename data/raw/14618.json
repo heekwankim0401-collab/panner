@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-04-06T07:24:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 14618,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement `editor/scale_with_editor_scale` in `DPITexture` import settings",
+  "up": 2,
+  "updatedAt": "2026-04-16T22:32:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14618"
+}

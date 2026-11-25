@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be a common feature provided by the editor.",
+    "format": "form",
+    "workaround": "This is be achieved with an Editor Plugin, but the developer would have to crawl through the source code to get the EditorSceneTabs node."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-17T17:03:49Z",
+  "comments": 3,
+  "createdAt": "2024-08-29T06:52:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10587,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Set as Main Scene\" to EditorSceneTabs context menu",
+  "up": 4,
+  "updatedAt": "2025-11-17T17:03:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10587"
+}

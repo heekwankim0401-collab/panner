@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The editor already has this code - it's just not exposed to the world.",
+    "format": "form",
+    "workaround": "It is possible to write our own code to perform the same function, and in only a few lines too. However, the engine already has this code - so why bother basically copying the engine's code?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-02-09T15:41:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9063,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to get all currently-defined groups in a scene",
+  "up": 0,
+  "updatedAt": "2024-02-11T13:23:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9063"
+}

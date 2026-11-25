@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It makes the editor consistent with itself.",
+    "format": "form",
+    "workaround": "It is not even remotely intuitive to work out how to do this in script, since it's tied to the animation editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-06T07:48:30Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6817,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Key Path2D / Curve2D the same way as Line2D",
+  "up": 8,
+  "updatedAt": "2023-05-06T11:22:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6817"
+}

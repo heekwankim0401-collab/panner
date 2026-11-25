@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Based on the fact it's a physics engine, I think the core will be a better place for this, and I don't know it is possible to write a module for this thing.",
+    "format": "form",
+    "workaround": "No, it's too heavy stuff for few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-06T11:52:56Z",
+  "comments": 9,
+  "createdAt": "2021-07-21T09:45:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3023,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Project Chrono as a physics engine",
+  "up": 0,
+  "updatedAt": "2021-08-06T11:53:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3023"
+}

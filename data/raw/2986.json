@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I asume it would benefit a lot of people by default if it where included in the editor.",
+    "format": "form",
+    "workaround": "I am sure this would be used a lot, specially during debugging of huge interitence chains."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-12T12:11:25Z",
+  "comments": 1,
+  "createdAt": "2021-07-12T12:10:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2986,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Option to only show modified properties in the inspector",
+  "up": 0,
+  "updatedAt": "2021-07-12T12:11:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2986"
+}

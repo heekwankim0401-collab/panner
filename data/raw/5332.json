@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Since this is a built-in functionality, it cannot be overridden by a library of an asset.",
+    "format": "form",
+    "workaround": "Possible workarounds:\n\n1. Use singletons for all those shared nodes (like `hud`): but what if we have different scenes (game, menu, map, etc)? What if we want to have `hud` ONLY on `game` scene? Singleton nodes would be global, which will keep them loaded all the times even when they are not needed and will introduce a lot of checks in them like \"if is_game_scene: hud.show()\", etc.\n2. Use `yield(hud, 'ready')`: this will introduce a huge amount of boilerplate code every time we want to access some shared node (like `hud`). It will be terribly easy to forget to add this check and will introduce huge amount of overhead. Developers will need to remember which nodes to `yield(node,'ready')` and which not.\n3. Don't use shared nodes at all - but nodes are great for composition and code structuring. Our entire -projects uses built-in scripts almost everywhere, nodes are extremely convenient for this. We have nodes like `animated`, `kinematic`, `inventory`, `damageable`, `pickable`, etc and we heavily use composition for building our game logic."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2022-09-04T16:57:01Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5332,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide a way to modify order of `_ready` calls",
+  "up": 0,
+  "updatedAt": "2022-09-06T17:44:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5332"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The visual profiler is a core feature",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-04T09:22:17Z",
+  "comments": 1,
+  "createdAt": "2024-08-06T02:07:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 10369,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add target FPS value to visual profiler",
+  "up": 0,
+  "updatedAt": "2024-09-04T09:22:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10369"
+}

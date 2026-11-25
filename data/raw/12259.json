@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Input is core.",
+    "format": "form",
+    "workaround": "You can looping through all InputEvent objects in the InputMap and setting `device` to some impossibly high number. But it's gross."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-04-16T16:49:16Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 12259,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add convenient function to ignore controller input",
+  "up": 7,
+  "updatedAt": "2025-04-18T01:02:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12259"
+}

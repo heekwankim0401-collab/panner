@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I'm not sure, I see that there are platforms integrating as a \"core\" feature like [QT](https://www.qt.io/blog/2019/03/08/announcing-qtlottie)",
+    "format": "legacy",
+    "workaround": "Think that it could be used often, currently I havent found a workaroud"
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-25T23:21:33Z",
+  "comments": 5,
+  "createdAt": "2020-07-15T06:05:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1196,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a player for Lottie animations",
+  "up": 1,
+  "updatedAt": "2021-12-25T23:21:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1196"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core: Expands usability of exported Array UI.\n\n\nThank you everyone in the Godot Community, and a Happy New Year! 🎉",
+    "format": "markdown",
+    "workaround": "It can be worked around by selecting each individual resource and dragging it in. Not the worst thing in the world, but it could drastically be sped up."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-03T17:03:00Z",
+  "comments": 4,
+  "createdAt": "2020-12-31T18:47:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2056,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow drag-and-dropping or selecting multiple resources into an exported Array of resources",
+  "up": 8,
+  "updatedAt": "2021-01-03T17:03:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2056"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It will make scripting easier, this is a very useful signal for everyone that uses gravity so the majority.",
+    "format": "form",
+    "workaround": "We can use a boolean that changes when we are on the floor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-09-19T17:35:24Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5458,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `_as_just_landed(y_velocity)` signal to CharacterBody3D",
+  "up": 2,
+  "updatedAt": "2022-12-24T11:55:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5458"
+}

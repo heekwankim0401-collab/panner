@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be core because \"[the commit dock is embedded into the editor and not depended on the plugin.](https://github.com/godotengine/godot-git-plugin/issues/50#issuecomment-736338114)\"",
+    "format": "markdown",
+    "workaround": "Committing changes to version control is an integral and frequent part of software development. I think this change can be implemented simply and easily, with just a few lines of code, for someone who is familiar with the codebase. But that's coming from someone who is not familiar with the codebase."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-12-01T17:44:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1918,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Don't select all files by default in the VCS commit dock (or provide a way to select/unselect all files at once)",
+  "up": 3,
+  "updatedAt": "2020-12-01T20:57:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1918"
+}

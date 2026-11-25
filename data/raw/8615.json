@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "no",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-12-08T10:07:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8615,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use a different icon for the `addons/` folder in the FileSystem dock and pin it to the top",
+  "up": 10,
+  "updatedAt": "2023-12-08T13:44:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8615"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core behavior",
+    "format": "form",
+    "workaround": "The only workaround is to not use tweens, which is hardly a solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-02-24T02:16:09Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 11837,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make tweens process before nodes (to fix sync issues)",
+  "up": 0,
+  "updatedAt": "2025-02-24T18:37:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11837"
+}

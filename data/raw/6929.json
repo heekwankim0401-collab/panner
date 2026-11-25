@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "unless i accept that my game be [letterboxed](https://en.m.wikipedia.org/wiki/Letterboxing_(filming)) to 16:9 or 9:16 or in-between aspect ratio,\nthis is a must for phone games\nso that the UI stays in the safe area of the phone screen.",
+    "format": "form",
+    "workaround": "this can be worked around with an add-on, but having to install the same add-on in most of my projects is not particularly convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-05-22T08:32:19Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6929,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a built-in way to keep all controls within the display safe area",
+  "up": 7,
+  "updatedAt": "2025-03-20T17:48:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6929"
+}

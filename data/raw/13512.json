@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would be a QOL for the users if it was built-in, praying that this comes before the next major release 🙏",
+    "format": "form",
+    "workaround": "Its ''possible'' BUT it can be a major hassle and it can get very technical and has limits. Example:\nhttps://www.youtube.com/watch?v=jqV5wYV_G7A&t=665s"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-30T22:29:47Z",
+  "comments": 1,
+  "createdAt": "2025-10-30T12:32:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13512,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Custom Vertex/Edge Attribute imports with GLTF",
+  "up": 1,
+  "updatedAt": "2025-10-30T22:29:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13512"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I tried implementing it myself in my own add-on, but then again, the limitations just makes it impossible to do.",
+    "format": "form",
+    "workaround": "Not really. Here's why:\n1. The custom class isn't registered directly to the texture property menu. Only registered to custom resources menu. So I'd need to create a resource for every icons that I have.\n2. Implementing a custom texture implementation would allow many more things like online texture or something like that."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-28T13:26:16Z",
+  "comments": 16,
+  "createdAt": "2024-03-26T14:45:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9385,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow extending or implementing custom Texture class",
+  "up": 0,
+  "updatedAt": "2024-03-28T13:41:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9385"
+}

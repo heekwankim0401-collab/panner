@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot be done with an add-on, because it concerns the functionality of the Project Settings Editor.",
+    "format": "markdown",
+    "workaround": "This is just an improvement to the Project Settings Editor."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-14T11:17:21Z",
+  "comments": 0,
+  "createdAt": "2021-03-12T07:36:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2452,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve Project Settings Editor",
+  "up": 2,
+  "updatedAt": "2021-05-14T11:17:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2452"
+}

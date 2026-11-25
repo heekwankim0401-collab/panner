@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Due to the fact that it is an optimization and not a feature it deserves to be a core part of the engine.",
+    "format": "form",
+    "workaround": "It has no current workaround and is a general overall performance improvement for HTML5 exports."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-06T08:20:57Z",
+  "comments": 2,
+  "createdAt": "2022-07-06T07:18:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:web"
+  ],
+  "milestone": null,
+  "number": 4821,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "WebAssembly.compileStreaming vs WebAssembly.compile for improved web export load times",
+  "up": 1,
+  "updatedAt": "2022-07-06T14:52:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4821"
+}

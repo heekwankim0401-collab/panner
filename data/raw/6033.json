@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Dynamic lightmaps can be made into an add-on, but raytracing APIs would need to be added to RenderingDevice first. Ideally, a zero-copy method of transferring data to the main rendering pipeline should also be added, but if this is not possible, any copying bottlenecks can be alleviated by only copying dynamic lightmaps every few frames for choppier (but not slower) lighting updates.\n\nIf done this way, I recommend simultaneously implementing raytraced render passes (reflections, shadows, etc) in a different add-on, so that any issues with the RenderingDevice raytracing APIs can be ironed out more quickly. This would also allow for experimentation with alternative Lumen-like systems, in cases where creating lightmap UVs would be impossible or prohibitively difficult.\n\n\n[^1]: Lightmap baking is infamous for being a time sink among level designers, analogous to rendering in vfx, or compiling C++ in programming\n[^2]: In the video, you can see the GI takes a few frames to update whenever a light moves. Note that direct shadows update instantly as they are rendered separately from GI.\n[^3]: SDFGI has a limit to how far down it can scale before light leaking and limited distance makes the lighting values completely incorrect, whereas lightmaps can go down to extremely low resolutions with the only artifact being pixelation\n[^4]: This may not be true, as Godot does have a lightmapper based on compute shaders, see godotengine/godot#38386 \n[^5]: Dynamic lightmaps configured with less rays per frame would take longer to converge to being noise-free after lighting changes.",
+    "format": "form",
+    "workaround": "High quality lighting can still be achieved by baking standard lightmaps. Their drawbacks are stated above."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-23T15:38:46Z",
+  "comments": 10,
+  "createdAt": "2023-01-01T18:21:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6033,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement raytraced \"dynamic lightmaps\" to achieve lighting like UE5's Lumen",
+  "up": 9,
+  "updatedAt": "2023-08-23T18:16:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6033"
+}

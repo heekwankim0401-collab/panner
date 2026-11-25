@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See previous question.",
+    "format": "form",
+    "workaround": "It would be nicer to allow people to reuse the existing node instead of asking users to re-implement the rendering to be thematically consistent with the original, C++ implementation."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-10T12:48:44Z",
+  "comments": 2,
+  "createdAt": "2022-05-08T21:42:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 4514,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a vertical fill mode to ProgressBar",
+  "up": 8,
+  "updatedAt": "2022-05-10T13:08:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4514"
+}

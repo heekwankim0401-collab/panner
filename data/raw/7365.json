@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This concerns the behaviour of a built-in node.",
+    "format": "form",
+    "workaround": "It _can_ be worked around with scripting - by manually (re)implementing scrolling, or explicitly setting the embedded `ScrollBar`s' `focus_mode`; and it _may_ not be used often.\n\nHowever, when it _is_ needed, it can be make-or-break for a UI's keyboard accessibility; and such functionality is easy to overlook for a developer who primarily uses a mouse or touch interface when testing their app.  So having this be out-of-the-box behaviour would be beneficial."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-07-24T16:22:48Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7365,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow keyboard scrolling of `ScrollContainer`s by default",
+  "up": 6,
+  "updatedAt": "2026-08-03T22:38:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7365"
+}

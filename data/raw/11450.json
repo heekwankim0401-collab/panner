@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires modification to RenderingServer which cannot be done at this point in time.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-14T12:16:36Z",
+  "comments": 5,
+  "createdAt": "2024-12-30T13:33:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.7",
+  "number": 11450,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an AreaLight3D node to render real-time light coming out from a rectangle in 3D space",
+  "up": 18,
+  "updatedAt": "2026-04-14T12:18:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11450"
+}

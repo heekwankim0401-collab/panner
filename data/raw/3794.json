@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can be a complement. But, if it's like Code Mirror it's not very difficult to change.\nIf it is not possible or of interest to anyone, the way is to create a plugin for some external editor.\nUnlikely that this would become default. But for me it will be standard.",
+    "format": "form",
+    "workaround": "No. Comments are very very often used. Every microsecond of time and effort represents years of energy and time savings."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-15T21:32:48Z",
+  "comments": 16,
+  "createdAt": "2022-01-13T14:30:23Z",
+  "down": 11,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3794,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow writing GDScript comments with `//` in addition to `#`",
+  "up": 0,
+  "updatedAt": "2022-01-15T21:34:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3794"
+}

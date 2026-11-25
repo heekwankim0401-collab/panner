@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Using a perceptually uniform color&nbsp;space like OKLCH is fundamental for high&#x2011;quality and accessible game&nbsp;visuals by modern standards, so OKLCH color support should become core and not stay an add&#x2011;on.",
+    "format": "form",
+    "workaround": "I use my add&#x2011;on for OKLCH colors in Godot, but it's not a complete workaround because it cannot expand Godot's sRGB color&nbsp;gamut: https://codeberg.org/sosasees/godot-oklch-addon"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-10-22T10:50:14Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13440,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an OKLCH color display mode",
+  "up": 1,
+  "updatedAt": "2025-11-09T13:19:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13440"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think this can be implemented as an add-on, maybe as an GDExtension.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-05T14:03:31Z",
+  "comments": 0,
+  "createdAt": "2023-05-05T11:26:36Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6813,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Support for Blender's Grease Pencil",
+  "up": 1,
+  "updatedAt": "2023-05-06T15:28:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6813"
+}

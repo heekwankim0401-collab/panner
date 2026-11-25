@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It helps us build better composite scenes.",
+    "format": "form",
+    "workaround": "If implemented correctly, it would probably be used more then scripts currently"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-03-11T15:59:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11965,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Logic node to simulate a script on another node without actually attaching a script to it",
+  "up": 0,
+  "updatedAt": "2025-03-13T22:25:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11965"
+}

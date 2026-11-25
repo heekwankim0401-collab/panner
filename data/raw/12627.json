@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core UX improvement.",
+    "format": "form",
+    "workaround": "This cannot be worked around easily. It would be used often as lots of games have cutscenes, and most games need cinematics for trailers, showcases, etc."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-06-18T14:48:36Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12627,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add camera shots track to AnimationPlayer to set active cameras",
+  "up": 0,
+  "updatedAt": "2025-06-24T22:27:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12627"
+}

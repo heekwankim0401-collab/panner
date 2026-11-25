@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Actually, it being an addon might be a good compromise that could get the feature added for those who want it, while still allowing anybody who thinks it unsafe to use getters and setters as usual.  But add-ons aren't typically used to change core features of the language.  I think there will be ideological arguments against making an add-on just to expose members.",
+    "format": "form",
+    "workaround": "While it is only 3 lines of code with the old method, it is 149 characters with the old method, versus a mere 24 characters in the method I proposed.  Given that transforms and velocities will be accessed hundreds of times in the code, it adds up to a significant nuisance for programmers to deal with.  It took over a minute just to add 1 to a variable, it's unacceptable for rapid prototyping.\nEnough so that I figure there must be a pretty big reason for Godot to work the way that it does.  However, I haven't found anything substantial yet.  I don't see how making the actual transform a protected member would be unsafe code, as it would still be protected."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2025-04-23T04:12:25Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 12299,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow members of a Transform, Velocity, and any orientation structures to be edited in C#",
+  "up": 3,
+  "updatedAt": "2025-05-02T18:20:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12299"
+}

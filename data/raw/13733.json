@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core feature.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-27T14:42:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 13733,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `EditorTranslationTemplateGenerator`",
+  "up": 0,
+  "updatedAt": "2026-08-28T01:59:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13733"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The plugin's gdextension shared library is opened by the core gdextension loaded and this functionality cannot be done in a plugin",
+    "format": "form",
+    "workaround": "No this needs to be part of the engine's gdextension loader."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-11-18T17:13:42Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 13657,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically remove quarantine attribute from a gdextension's shared library on macOS",
+  "up": 3,
+  "updatedAt": "2026-02-03T22:35:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13657"
+}

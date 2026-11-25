@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a change that would need to happen in `Node3D`/`Node2D` code, in order for all relevant inheriting nodes to benefit from. Can't be done outside of core.",
+    "format": "form",
+    "workaround": "Yes/no, the least-bad workaround so far seems to be to add a child `Node3D` with a script to the `Path3D` with `set_notify_transform(true)` and a `_notification()` override that emits the desired signal - then listen to that signal from any scripts that only should run when the transform gets changed.\n\nThe inclusion of an extra node in there, only to add a kind of proxy signal adds clutter to the node hierarchy, and it seems fundamentally wrong to require a *separate* node to exist in order to listen to the state changes of its *parent* node."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-04T20:57:33Z",
+  "down": 3,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9027,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add opt-in signal for Node2D/3D transform changes",
+  "up": 15,
+  "updatedAt": "2025-09-22T22:29:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9027"
+}

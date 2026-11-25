@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This functionality would give the user control of when Godot's physics executes - IMO it is very closely related to existing core functionality and wouldn't make much sense to segregate as an addon",
+    "format": "markdown",
+    "workaround": "I am not aware of any workarounds that don't involve writing your own custom physics system within Godot"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 34,
+  "createdAt": "2021-06-03T15:09:17Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2821,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to simulate physics manually/multiple times at once",
+  "up": 140,
+  "updatedAt": "2026-02-13T01:46:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2821"
+}

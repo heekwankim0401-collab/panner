@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-19T16:24:57Z",
+  "comments": 0,
+  "createdAt": "2026-02-15T04:16:49Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.7",
+  "number": 14231,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for importing R8 and R8G8 DDS textures",
+  "up": 2,
+  "updatedAt": "2026-02-19T16:24:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14231"
+}

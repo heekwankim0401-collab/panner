@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This will not break compatibility, because the `SplitContainerDragger` will be created/removed on demand instead of being a constant.\nThe only change is that the `split_offset` will be an `Array` instead of a `Float` and will be called split_offsets. We can keep both and we deprecate the first to not break compatibility.",
+    "format": "form",
+    "workaround": "It can't, this will require a full rewrite of a new `Container` to support more children."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-30T15:55:37Z",
+  "comments": 1,
+  "createdAt": "2024-08-30T15:46:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10610,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make `SplitContainer` operate with more than 2 `Control` children.",
+  "up": 0,
+  "updatedAt": "2024-08-30T15:56:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10610"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core function.",
+    "format": "form",
+    "workaround": "I think the return value if added to this function, can be ignored by existing calls to it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-21T00:09:42Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9568,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "  Array#sort_custom should return an error instead of failing silently",
+  "up": 1,
+  "updatedAt": "2024-04-21T12:00:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9568"
+}

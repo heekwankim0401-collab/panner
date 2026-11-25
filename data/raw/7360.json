@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving 3D rendering performance by optimizing the asset pipeline's output.",
+    "format": "form",
+    "workaround": "In some cases, yes, by assigning this script to a MeshInstance3D node. Example for forcing the Back cull mode on all materials:\n\n```gdscript\n@tool\nextends MeshInstance3D\n\nfunc _ready() -> void:\n\tfor index in mesh.get_surface_count():\n\t\tvar material := mesh.surface_get_material(index)\n\t\tmaterial.cull_mode = BaseMaterial3D.CULL_MODE_BACK\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-07-23T21:58:18Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7360,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add cull mode option to materials in the Advanced Import Settings dialog, ignore default Disabled cull mode",
+  "up": 9,
+  "updatedAt": "2026-05-13T07:36:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7360"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Addons can't really burrow deeply enough into the render pipeline",
+    "format": "form",
+    "workaround": "The only alternative that I can think of would be to implement my own custom lighting engine, which would kinda suck"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-03-19T09:05:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6534,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement additional light info built-ins for spatial shader",
+  "up": 5,
+  "updatedAt": "2025-03-05T06:53:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6534"
+}

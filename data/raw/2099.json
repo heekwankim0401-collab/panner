@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm new to godot and don't think an add-on can do this.",
+    "format": "markdown",
+    "workaround": "This feature shouldn't need a work around. However there may be an issue when there are many properties in the inspector and you might be trying to use the mouse to scroll the whole inspector up/down and the mouse may end up inside a number field by accident so will need to have code to enable this feature only after the mouse explicitly moved into the field."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2021-01-10T06:22:11Z",
+  "down": 3,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2099,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use mouse wheel scrolling/keyboard arrows to change number values in inspector",
+  "up": 37,
+  "updatedAt": "2026-10-06T13:11:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2099"
+}

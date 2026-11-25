@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "With the upcoming improvements to Godot's 3D capabilities in 4.0, this feature would help onboard new 3D users from other programs, as well as help everyone who is using Godot for 3D scenes.",
+    "format": "legacy",
+    "workaround": "This feature seems like it would have to be a core improvement to the tools themselves."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-08-17T03:01:40Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 1381,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve object duplication shortcuts in the editor",
+  "up": 25,
+  "updatedAt": "2025-09-01T22:02:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1381"
+}

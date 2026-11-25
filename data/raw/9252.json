@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No.",
+    "format": "form",
+    "workaround": "Yes. It is possible to inherit from `TabBar` and override the `_get_tooltip` method."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-23T17:18:15Z",
+  "comments": 0,
+  "createdAt": "2024-03-07T12:07:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 9252,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add text tooltip for TabBar & TabContainer",
+  "up": 2,
+  "updatedAt": "2024-04-23T17:18:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9252"
+}

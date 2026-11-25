@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In my opinion it's an essential feature that should be accessed by everyone, it shouldn't be a simple add-on.",
+    "format": "legacy",
+    "workaround": "Everyone working with 3d skeletons would use this."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-08T16:13:59Z",
+  "comments": 8,
+  "createdAt": "2020-03-14T09:34:43Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 584,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add 3D bones gizmo manipulators for skeletons",
+  "up": 8,
+  "updatedAt": "2021-10-08T16:14:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/584"
+}

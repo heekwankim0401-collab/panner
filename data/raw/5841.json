@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Cannot be done without modifying the rendering pipeline. Guess you could write your own renderer :^)",
+    "format": "form",
+    "workaround": "Not without modifying the rendering pipeline."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2022-11-24T23:48:44Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5841,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement per-object shadows to improve the quality of received shadows on specific objects",
+  "up": 35,
+  "updatedAt": "2026-10-24T22:17:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5841"
+}

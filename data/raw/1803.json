@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "QOL improvement for fundamental functionality.",
+    "format": "legacy",
+    "workaround": "Workaround: Use a bash script to circumvent this and other shortcomings of using Godot on the command line."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-11T02:10:45Z",
+  "comments": 1,
+  "createdAt": "2020-11-11T01:19:03Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 1803,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Read export_path when exporting on command line",
+  "up": 0,
+  "updatedAt": "2020-11-11T02:10:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1803"
+}

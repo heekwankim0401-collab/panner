@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know.",
+    "format": "form",
+    "workaround": "Maybe with an AnimationPlayer approach, but I am not sure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-01-06T09:32:29Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 11506,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `finished` signal to PathFollow3D when the last point is reached",
+  "up": 1,
+  "updatedAt": "2025-01-06T18:18:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11506"
+}

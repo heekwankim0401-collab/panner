@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The first reason is the same as the answer in previous question.\nThe second reason is that there are people being thirsty for generic type in functions, and even in a whole class. So the implemention of broarder generic type may provide great conveniece for us to code more beautifully.",
+    "format": "form",
+    "workaround": "No, as this is the functionality of core godot resource"
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-12T21:10:26Z",
+  "comments": 2,
+  "createdAt": "2024-07-12T07:34:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10188,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[Just a thought, not sure if possible and easy to implement] Broader generic type for GDScript static typing?",
+  "up": 1,
+  "updatedAt": "2024-07-12T21:10:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10188"
+}

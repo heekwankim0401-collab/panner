@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's for convenience, as toggle fullscreen is a common feature amongst most applications so it makes sense to just have it in the base engine.",
+    "format": "form",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-16T00:22:04Z",
+  "comments": 1,
+  "createdAt": "2024-04-15T22:47:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9530,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Toggleable Fullscreen Button",
+  "up": 0,
+  "updatedAt": "2024-04-16T00:22:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9530"
+}

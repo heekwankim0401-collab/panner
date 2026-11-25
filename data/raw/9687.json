@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's an intuitive core feature and feels like it should have been built in by default",
+    "format": "form",
+    "workaround": "Maybe via an editor plugin but it wouldn't make much sense"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-20T16:42:55Z",
+  "comments": 2,
+  "createdAt": "2024-05-06T06:18:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9687,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow inserting keyframes of any property for multiple nodes",
+  "up": 6,
+  "updatedAt": "2025-11-20T19:40:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9687"
+}

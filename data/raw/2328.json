@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "One could create a new class derived from the OptionButton and override how the item is selected and focused, but it would be nice to have these features right out of the box.",
+    "format": "markdown",
+    "workaround": "Well, keeping the reference of the OptionButton to get the item's id is possible, but in a plugin's UI where the OptionButton is temporary, that is refreshed in some conditions (like the node selectiong changes and a new OptionButton is instantiated with the node's option) a extra variable to just access one function seens a bit strange to me."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-02-21T15:44:21Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2328,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "OptionButton: Change the value returned in the signals \"item_focused\" and \"item_selected\"",
+  "up": 0,
+  "updatedAt": "2024-02-19T09:35:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2328"
+}

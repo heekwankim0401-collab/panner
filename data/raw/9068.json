@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is very useful overall and belongs to the core in my opinion.",
+    "format": "form",
+    "workaround": "For simple animations, tweens for example, you can balance the speed out with some math manually, to give it the illusion of ignoring the `time_scale` value, but with physics movement for example, you can't."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-02-10T20:54:18Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9068,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a property to make `Engine.time_scale` ignore certain nodes",
+  "up": 15,
+  "updatedAt": "2024-02-27T16:47:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9068"
+}

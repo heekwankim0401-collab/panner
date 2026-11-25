@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Need to use C++ to improve performance.",
+    "format": "form",
+    "workaround": "Although it can be implemented using GdScript, the performance is very slow when this method is used frequently during network communication."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-04-05T12:33:56Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 12160,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more binary serialization and deserialization methods to StreamPeer to improve performance",
+  "up": 0,
+  "updatedAt": "2025-04-15T02:09:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12160"
+}

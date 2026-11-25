@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "since the control has a the mouse_exited/entered signals i think that such a function would already exist  in the control node but isnt exposed yet",
+    "format": "form",
+    "workaround": "you would need to get the controlrect ,transorm and the mouseposition and find a way to manually check the collision"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-02-12T10:59:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3956,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "add a check if mouse is in control method",
+  "up": 14,
+  "updatedAt": "2026-07-02T08:34:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3956"
+}

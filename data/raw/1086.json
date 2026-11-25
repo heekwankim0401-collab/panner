@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not sure this is an asset. That would be the only reason. However, if in core, this will address or at least provide support to these issues:\n\n#952 \n#286 \n#331\n\nThanks for reading.",
+    "format": "legacy",
+    "workaround": "I doubt this will not be used often, relative to the space of all developers using the HTML5 export. It can be worked around in a less than safe way as described above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-06-19T00:41:35Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1086,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide extra ES module export from an HTML5 export",
+  "up": 1,
+  "updatedAt": "2020-09-18T22:06:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1086"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Position of nodes is already a core feature, so it would be logical to keep it's corrections/enhancementsin the core as well.",
+    "format": "legacy",
+    "workaround": "I think positioning and layering nodes is used very often. I imagine, giving it more flexibility should be a desired course of action.\nI can also imagine, that this kind of feature can be (like most limitations) worked around somehow."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-03-23T01:39:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 621,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve discovery for animating a vector property's X and Y coordinates independently",
+  "up": 1,
+  "updatedAt": "2021-01-31T03:11:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/621"
+}

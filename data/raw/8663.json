@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be in core because to me it seems like a must-have feature for core.",
+    "format": "form",
+    "workaround": "Not that I know of"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-15T14:39:47Z",
+  "comments": 1,
+  "createdAt": "2023-12-15T14:37:23Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8663,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow running headless editor scripts",
+  "up": 0,
+  "updatedAt": "2023-12-15T15:48:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8663"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I was torn between core or assetlib, but after discussing with Fales, we think core makes sense, as it can be come a starting point for more network-related utility nodes.",
+    "format": "legacy",
+    "workaround": "It would be used often for online games, but not at all for single player games. That said, the implementation is non-trivial so I believe it makes sense to provide out of the box."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-04T15:34:55Z",
+  "comments": 4,
+  "createdAt": "2020-03-25T02:41:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 631,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add network-enabled actors",
+  "up": 1,
+  "updatedAt": "2020-07-05T21:06:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/631"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this feature can be implemented as an add-on properly.",
+    "format": "markdown",
+    "workaround": "It can't"
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-01T19:58:29Z",
+  "comments": 10,
+  "createdAt": "2020-12-16T20:20:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1996,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement removing of class items (methods, properties, signals etc)",
+  "up": 0,
+  "updatedAt": "2021-01-01T20:08:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1996"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "All these behaviors would require re-implementing TabBar in some manner to get parity, TabBar already retains pretty much everything structurally for this behavior and a manner to make it easy to use, and as far as I can see it only needs some modifications to enable this functionality, as well this would be a useful GUI tool to have for lists of toggleable menus where the current TabBar may not be as suited for the case.",
+    "format": "form",
+    "workaround": "Not exactly a few lines, but it could somewhat similarly be implemented with a VBoxContainer and a bunch of buttons at the least."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-07-31T05:12:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5031,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `vertical_mode` toggle to TabBar",
+  "up": 28,
+  "updatedAt": "2022-08-01T14:42:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5031"
+}

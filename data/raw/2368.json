@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature would be used by many different projects. As an add-on, it would not be able to achieve the same level of convenience or performance.",
+    "format": "markdown",
+    "workaround": "This feature will be used very often and the potential workarounds have various downsides:\n\n* We could manual construct the scene so that nodes have the right execution order. This is unpractical for all but simple projects.\n* We could dynamically rebuild the scene at runtime. This means we have to build the scene tree twice, adds unnecessary complexity to projects, and requires more work to maintain the correct execution order.\n* Re-parenting nodes isn't an option since [it doesn't play nicely with physics](https://github.com/godotengine/godot-proposals/issues/2332#issuecomment-787000826).\n* [Write messy code like this](https://github.com/godotengine/godot-proposals/issues/2332#issuecomment-787030173)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-27T19:59:46Z",
+  "comments": 4,
+  "createdAt": "2021-02-27T13:28:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2368,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a priority system for controlling node execution order",
+  "up": 0,
+  "updatedAt": "2021-02-27T20:04:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2368"
+}

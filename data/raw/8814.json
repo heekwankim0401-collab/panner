@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "For the most part this could be a third-party addon, but it's a thousand lines of code, and it's in-scope for the goals of the GLTF module. I could totally see it being argued that this should be third-party, but my opinion is that the engine is the best place for this.",
+    "format": "form",
+    "workaround": "The code in the implementation is about a thousand lines. You could workaround it for specific use cases with simpler code, but the whole feature set (import, export, many audio formats, standardized with GLTF audio) is complex.\n\nTraditionally, the workflow for advanced content like this is to use a proprietary engine-specific format, like Unity packages. The same could be done with Godot if you loaded Godot scenes, but that has its own pitfalls like security and future-proofing (you may make a scene with Godot 4.2 today, but will that load in Godot 7.3 in 50 years? probably not). I believe it's better for everyone if we use an open standard format instead of an engine-specific one."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-01-06T10:39:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:audio",
+    "topic:import"
+  ],
+  "milestone": "4.x",
+  "number": 8814,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add audio support to the GLTF module",
+  "up": 7,
+  "updatedAt": "2025-02-13T18:06:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8814"
+}

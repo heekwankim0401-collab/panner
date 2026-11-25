@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is part of how the dictionaries are represented by the inspector, so I feel like making that more comfortable to use out of the box would be nice.",
+    "format": "form",
+    "workaround": "No, because it is part of the built-in UI."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-03-10T21:16:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11961,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make dictionary key/value resources unfold full width in inspector if the other is not unfolded",
+  "up": 3,
+  "updatedAt": "2026-09-25T12:32:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11961"
+}

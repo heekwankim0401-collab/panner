@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Groups are a core basic feature, and are added/removed using very specific UIs of the editor. A plugin cannot modify that, and cannot alter script auto-completion either. All it can do is to add extra UIs that don't integrate with the existing ones.",
+    "format": "legacy",
+    "workaround": "There has been an attempt to make a plugin related to this need: https://www.youtube.com/watch?v=inBR5-071ko\nBut it doesn't adress the same concerns and doesn't seem to integrate to the editor that much. Besides, I can't find such plugin on the assetlib (nothing with \"group\")."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-20T14:14:54Z",
+  "comments": 2,
+  "createdAt": "2020-05-26T18:27:03Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 907,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add project-wide group management",
+  "up": 16,
+  "updatedAt": "2023-12-20T14:18:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/907"
+}

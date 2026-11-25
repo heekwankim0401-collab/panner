@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Performance.",
+    "format": "form",
+    "workaround": "This can be worked around in GDScript by recursively walking the roomlist after the conversion, collecting the convex hull of every room into a list. Testing the point against every plane in every convex shape in the list, on every bullet hit. Room priority resolution would also be necessary."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-08-03T15:38:02Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3082,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add RoomManager methods for querying the system",
+  "up": 7,
+  "updatedAt": "2022-03-06T00:34:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3082"
+}

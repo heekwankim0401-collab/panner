@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it seems to be a relatively simple feature to a very commonly used scene, and the functionality is relevant for any project working with overlapping tiles.",
+    "format": "legacy",
+    "workaround": "as far as i am aware, you can not override the draw order of a tilemap from a script, currently."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-04-03T13:28:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 664,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Tilemap - Adding support for choosing tile draworder",
+  "up": 5,
+  "updatedAt": "2020-04-21T06:30:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/664"
+}

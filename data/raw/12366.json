@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Everyone will use shader globals and Godot is a user-friendly engine, so the shader global interface needs to be user-friendly as well.",
+    "format": "form",
+    "workaround": "There will be changes to the interface and this will increase usability. There is no need for many changes in code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-05-04T14:02:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12366,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add uniform groups to the Shader Globals editor",
+  "up": 4,
+  "updatedAt": "2025-05-06T15:06:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12366"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It happens in project settings so not really.",
+    "format": "form",
+    "workaround": "It happens in project settings so not really."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-23T22:55:22Z",
+  "comments": 1,
+  "createdAt": "2024-01-23T14:49:14Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.3",
+  "number": 8947,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Export to Android: improve Invalid package name error message by showing Project name converted to $genname explicitly",
+  "up": 1,
+  "updatedAt": "2024-06-24T17:12:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8947"
+}

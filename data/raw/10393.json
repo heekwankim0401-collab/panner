@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is doable with a couple of lines in the engine, while a plugin would need to faithfully recreate the BBCode parsing.",
+    "format": "form",
+    "workaround": "To work around this issue, BBCode would have to be parsed by the user which, while possible, is inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-08T00:37:48Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10393,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `key` option in the `[img]` tag of RichTextLabel",
+  "up": 2,
+  "updatedAt": "2024-08-08T15:45:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10393"
+}

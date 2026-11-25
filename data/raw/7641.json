@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Requires changing engine core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-11T16:35:07Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7641,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow screen_texture to work at a lower resolution",
+  "up": 3,
+  "updatedAt": "2023-09-11T17:04:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7641"
+}

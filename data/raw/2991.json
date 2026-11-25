@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The proposal deals with core editor usability.",
+    "format": "form",
+    "workaround": "I don't think so? It would certainly be a redundant tool to write."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-07-13T19:33:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2991,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Give bezier handles for Path points a different color and size from the points themselves",
+  "up": 4,
+  "updatedAt": "2021-07-13T19:55:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2991"
+}

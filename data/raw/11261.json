@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the 3D editor usability.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-11-29T15:15:03Z",
+  "down": 1,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11261,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically assign PBR textures from base texture name in BaseMaterial3D",
+  "up": 3,
+  "updatedAt": "2024-12-06T15:06:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11261"
+}

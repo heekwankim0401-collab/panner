@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's a build option.",
+    "format": "form",
+    "workaround": "It's a build option."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-25T12:51:03Z",
+  "comments": 4,
+  "createdAt": "2021-11-19T17:38:04Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:core",
+    "topic:export",
+    "topic:platforms"
+  ],
+  "milestone": "3.x",
+  "number": 3574,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable mbedTLS Crypto object in official HTML5 builds",
+  "up": 6,
+  "updatedAt": "2022-05-25T12:51:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3574"
+}

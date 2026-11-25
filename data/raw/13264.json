@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature should be core because it represents a fundamental, architectural improvement to the engine's API.\n\n- It provides a unified data structure for a basic concept (a single validation rule) that would otherwise be a scattered collection of custom functions returning string arrays.\n- By forcing the separation of validation logic (Callable returning bool) from error presentation (String), the feature promotes robust software engineering principles like separation of concerns and test-driven development (TDD), which is crucial for large projects.\n- Every developer should have access to a clean, well-tested, and maintainable way to write complex configuration logic without relying on an external asset or needing to write boilerplate code.\n\nThis issue is semi-related to #3004 , as this type of validation logic should really _always_ run, not just in `@tool` context.",
+    "format": "form",
+    "workaround": "Yes, a workaround is possible, as demonstrated in my custom solution. However, this workaround requires every developer to implement and maintain their own solution (as a wrapper or an add-on). This leads to duplicated effort, inconsistent patterns, and an unnecessary maintenance burden across the Godot ecosystem.\n\nConfiguration validation is a fundamental part of quality assurance and reliable project setup. Providing a standardized, native primitive for defining a validation rule is essential for encouraging best practices and maximizing the benefits of Godot's design-time warnings."
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-12T08:55:42Z",
+  "comments": 8,
+  "createdAt": "2025-09-25T12:52:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13264,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Introduce new composable validation primitives to use in `_get_configuration_warnings()`",
+  "up": 3,
+  "updatedAt": "2026-05-12T09:51:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13264"
+}

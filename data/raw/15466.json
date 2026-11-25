@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-09-02T03:50:56Z",
+  "down": 1,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15466,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make OS.execute() automatically switch the working directory when opening an executable with it",
+  "up": 0,
+  "updatedAt": "2026-10-15T15:40:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15466"
+}

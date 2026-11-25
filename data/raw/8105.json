@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Cannot extend default classes.",
+    "format": "form",
+    "workaround": "It can be done with `reduce`, but its pretty clunky.\n```gdscript\narray.reduce(func (a, b):\n    return a + \" \" + b\n)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-22T02:41:46Z",
+  "comments": 2,
+  "createdAt": "2023-10-13T19:32:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8105,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `Array.join()` method",
+  "up": 4,
+  "updatedAt": "2024-01-22T09:26:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8105"
+}

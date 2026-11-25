@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's a UX enhancement",
+    "format": "form",
+    "workaround": "I'm not sure if an EditorPlugin can modify the script list? it might be possible"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-15T06:25:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8125,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to sort script list by most recent",
+  "up": 16,
+  "updatedAt": "2026-02-18T23:11:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8125"
+}

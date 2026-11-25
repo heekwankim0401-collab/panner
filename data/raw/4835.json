@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It will make C++ game code creation much simpler.",
+    "format": "form",
+    "workaround": "As written above, it can be done in a poor and not reliable way, but with the new GDExtension more and more people will find this feature useful, so have a reliable a well supported version is a good thing to have."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-07-08T09:22:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4835,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Instantiate sub nodes from C++",
+  "up": 9,
+  "updatedAt": "2023-12-02T08:26:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4835"
+}

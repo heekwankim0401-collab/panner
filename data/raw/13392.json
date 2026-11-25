@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is in C++ and an internal godot class.",
+    "format": "form",
+    "workaround": "This is specifically a private variable of a C++ class that is not exposed to GDScript. This feature would allow future joint configuration issues to be solved with script."
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-22T13:34:32Z",
+  "comments": 2,
+  "createdAt": "2025-10-15T14:16:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": "4.8",
+  "number": 13392,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose internal joint RID for PhysicalBone3D",
+  "up": 0,
+  "updatedAt": "2026-06-22T13:35:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13392"
+}

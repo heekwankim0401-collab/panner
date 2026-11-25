@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would look like reinventing the wheel, because the copy/paste nodes functionality already exists, but not exposed.",
+    "format": "markdown",
+    "workaround": "You could use `Merge From Scene`, but this is not so handy."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-17T23:58:14Z",
+  "comments": 2,
+  "createdAt": "2021-02-17T22:58:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2305,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Copy selected nodes between scenes with `Ctrl+C` `Ctrl+V`",
+  "up": 1,
+  "updatedAt": "2021-02-18T00:00:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2305"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I honestly think it would be really challenging to implement something like this. Having the insights from the core developers would probably be helpful when doing this.",
+    "format": "legacy",
+    "workaround": "Well kind of yes to be honest, probably the closest to this is inheritance. However, especially as multiple inheritance is not allowed, one is kind of limited in godot. Having a superclass you want many nodes to inherit, it could happen, that it already is an inheriting node. Also, when combining it with groups it could be really helpful with reducing scripts and other overhead."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-13T21:48:06Z",
+  "comments": 29,
+  "createdAt": "2020-04-27T20:00:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 758,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a trait/mixin system and combine it with groups",
+  "up": 34,
+  "updatedAt": "2025-07-24T14:13:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/758"
+}

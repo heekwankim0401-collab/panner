@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it's very useful for Html5 devs",
+    "format": "form",
+    "workaround": "I think anyone who export to HTML will be using this choice over \"Open in new tab\""
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-11-20T04:02:39Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 5817,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement hot reloading of HTML5 exports when using one-click deploy",
+  "up": 0,
+  "updatedAt": "2022-11-20T11:12:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5817"
+}

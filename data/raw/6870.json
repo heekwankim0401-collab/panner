@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about the improving shader language's usability.",
+    "format": "form",
+    "workaround": "Yes, but for a color comparison, you need this much code:\n\n```glsl\nif (\n    curr_color.r >= oldColor.r - 0.001 && curr_color.r <= oldColor.r + 0.001 &&\n    curr_color.g >= oldColor.g - 0.001 && curr_color.g <= oldColor.g + 0.001 &&\n    curr_color.b >= oldColor.b - 0.001 && curr_color.b <= oldColor.b + 0.001 && \n    curr_color.a >= oldColor.a - 0.001 && curr_color.a <= oldColor.a + 0.001\n) {\n    // Colors are approximately equal.\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-11T21:45:41Z",
+  "comments": 14,
+  "createdAt": "2023-05-12T00:40:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6870,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `is_equal_approx()` and `is_zero_approx()` functions to the shader language",
+  "up": 8,
+  "updatedAt": "2024-03-11T21:45:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6870"
+}

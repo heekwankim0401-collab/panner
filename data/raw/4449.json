@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "No - this is far too deep in the renderer to be worked on with GDScript, and particle data isn't exposed to GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-15T09:08:48Z",
+  "comments": 7,
+  "createdAt": "2022-04-26T16:18:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 4449,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement particle seeking",
+  "up": 6,
+  "updatedAt": "2023-06-15T17:00:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4449"
+}

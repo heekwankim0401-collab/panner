@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript is core",
+    "format": "form",
+    "workaround": "Will be used often. Can only be worked around with an additional variable."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-31T10:27:24Z",
+  "comments": 1,
+  "createdAt": "2022-06-30T19:53:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 4785,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make export nodes work with custom node types",
+  "up": 31,
+  "updatedAt": "2022-10-31T10:27:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4785"
+}

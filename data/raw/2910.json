@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This may be doable with a script, but it makes sense to have this as a built-in feature given CSG is all about quick iteration times. While rendering performance is not critical when prototyping, many people use CSG in production, especially in simple games that have a low-poly aesthetic."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-06-23T13:19:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 2910,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Take CSG nodes into account for occluder generation (occlusion culling)",
+  "up": 14,
+  "updatedAt": "2024-03-15T18:32:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2910"
+}

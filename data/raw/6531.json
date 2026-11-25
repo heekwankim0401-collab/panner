@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Is this tied to the Vulcan renderer?",
+    "format": "form",
+    "workaround": "It would be finnicky to work around."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-19T02:27:53Z",
+  "comments": 1,
+  "createdAt": "2023-03-19T01:47:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6531,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add toggle to remove blending filter effect on viewport textures in 4.0.",
+  "up": 0,
+  "updatedAt": "2023-03-19T02:28:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6531"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a useful modification of the `rpc()` function and not an isolated feature that would be suitable for an asset library add-on.",
+    "format": "legacy",
+    "workaround": "This enhancement can be worked around with a few modifications, however it necessitates the `remotesync` function be converted to a `remote` function and be called manually alongside the `rpc()` every time the `rpc()` is called.\n```\nextends Node\n\nvar testvar = \"Unset\"\nfunc _ready():\n\tvar peer = NetworkedMultiplayerENet.new()\n\tpeer.create_server(33333, 10)\n\tget_tree().set_network_peer(peer)\n\tprint(\"Pre-Call: \", self.testvar)\n\tself.rpc(\"remote_function\")\n\tvar returnval = remote_function()\n\tprint(\"Post-Call: \", self.testvar)\n\tprint(\"Return Val: \", returnval)\n\nremote func remote_function():\n\tself.testvar = \"Set\"\n\treturn \"Returned Value\"\n\n# Prints\n# ======\n# Pre-Call: Unset\n# Post-Call: Set\n# Return Val: Returned Value\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-02T21:08:57Z",
+  "comments": 9,
+  "createdAt": "2020-05-24T04:24:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 879,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allowing Remotesync RPC Return Values",
+  "up": 0,
+  "updatedAt": "2020-06-07T20:48:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/879"
+}

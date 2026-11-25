@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't believe EditorPlugin can easily modify tooltip functionality",
+    "format": "form",
+    "workaround": "Not to my knowledge"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-08T08:33:11Z",
+  "comments": 1,
+  "createdAt": "2024-06-08T05:09:20Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 9921,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Property tooltips sometimes go off screen - Web Editor",
+  "up": 1,
+  "updatedAt": "2024-06-08T08:34:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9921"
+}

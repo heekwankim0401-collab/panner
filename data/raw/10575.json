@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a change to a core class, `Tween`",
+    "format": "form",
+    "workaround": "Yes, the workaround I've had to resort to is to add a check against the currently running tween within a `func _process(delta)` defined on my animation queue singleton. It's... *fine* but I really shouldn't have to check that every frame, reacting to a signal would be much cleaner."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-30T08:14:43Z",
+  "comments": 5,
+  "createdAt": "2024-08-27T15:16:07Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.4",
+  "number": 10575,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a new `invalidated` signal for tweens",
+  "up": 2,
+  "updatedAt": "2024-08-30T08:14:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10575"
+}

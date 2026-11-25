@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "EditorProgress is core editor functionality – it's behavior can't be changed with an add-on.",
+    "format": "form",
+    "workaround": "No, as EditorProgress is core editor functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-03-09T22:52:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4196,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Don't show a progress bar when saving a scene if it takes less than 1 second",
+  "up": 8,
+  "updatedAt": "2025-05-31T08:16:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4196"
+}

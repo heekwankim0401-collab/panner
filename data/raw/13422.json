@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Sure, it's a deep core feature which should be in the engine.\n\nPR Here: https://github.com/godotengine/godot/pull/111842",
+    "format": "form",
+    "workaround": "There is no workaround currently."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-14T06:09:33Z",
+  "comments": 6,
+  "createdAt": "2025-10-19T19:47:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13422,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose Jolt Joint3D \"get_applied_force\" and \"get_applied_torque\"",
+  "up": 6,
+  "updatedAt": "2026-09-14T22:50:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13422"
+}

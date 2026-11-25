@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "Nope."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-28T23:54:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11258,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make conversions from `char*` to `String` explicit",
+  "up": 1,
+  "updatedAt": "2026-02-13T00:34:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11258"
+}

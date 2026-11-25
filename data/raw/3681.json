@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal is about changing a default project setting.",
+    "format": "form",
+    "workaround": "Yes, since the **Allow Hidpi** project setting already exists. However, the current default provides a bad experience not only for game developers, but also for their players who just want to play fullscreen games in peace :slightly_smiling_face:"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-13T08:33:01Z",
+  "comments": 6,
+  "createdAt": "2021-12-16T23:04:12Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 3681,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable \"Allow Hidpi\" by default to fix window management issues across platforms on hiDPI monitors",
+  "up": 11,
+  "updatedAt": "2022-04-16T09:27:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3681"
+}

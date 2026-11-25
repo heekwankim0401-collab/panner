@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is for making plugins easier, so this should be core",
+    "format": "form",
+    "workaround": "See `the problem` section above - you can get the bottom panel controls but the way is ugly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-08-31T11:26:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 5297,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an easy way to get controls of  the bottom panel",
+  "up": 6,
+  "updatedAt": "2022-09-02T16:57:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5297"
+}

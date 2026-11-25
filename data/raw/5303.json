@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a feature added to the existing AnimationTree node, changing existing method behavior. So adding it through a plugin would require recreating core functionality.",
+    "format": "form",
+    "workaround": "No, this cannot be easily worked around with scripting. It would require a lot of wrapping around animation playback and might not work in all edge cases."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-09-01T07:12:32Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 5303,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 2D root motion in AnimationTree",
+  "up": 26,
+  "updatedAt": "2024-08-21T13:07:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5303"
+}

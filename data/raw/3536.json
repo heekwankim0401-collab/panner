@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This can well be implemented as an add-on, but the premise of the proposal is not as much workflow improvement (1 click instead of 2), but mostly to give users who may not be aware of inherited scene limitations access to working default import.",
+    "format": "form",
+    "workaround": "It would be used whenever one imports a 3D scene."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-12T10:20:46Z",
+  "comments": 2,
+  "createdAt": "2021-11-11T21:27:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3536,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to make a copy while importing external 3D scenes",
+  "up": 0,
+  "updatedAt": "2021-11-12T10:31:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3536"
+}

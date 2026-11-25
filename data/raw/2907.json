@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It doesn't add significant bulk to the core object for a feature that will likely see a lot of use.",
+    "format": "form",
+    "workaround": "It will be used often, but... using VBoxContainers inside a HBoxContainer is the obvious workaround and requires only one extra loop to break between vertical fills.  If number of rows changes dynamically, however, it gets a bit more messy."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-30T16:03:32Z",
+  "comments": 3,
+  "createdAt": "2021-06-23T01:39:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2907,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `vertical` property to GridContainer",
+  "up": 12,
+  "updatedAt": "2024-10-30T16:03:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2907"
+}

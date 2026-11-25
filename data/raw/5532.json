@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Changing the functionality of a built-in node.",
+    "format": "form",
+    "workaround": "I can see it being possible to make with a script with pre-4.0 behavior, not so much with 4.0."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-10T20:35:51Z",
+  "comments": 1,
+  "createdAt": "2022-10-03T00:12:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5532,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make Camera2D Scale affect the screen size, and a rework of the zoom.",
+  "up": 4,
+  "updatedAt": "2024-11-20T23:47:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5532"
+}

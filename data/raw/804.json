@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Just that an user would expect this option to be in a Box Container when he would realize there is no \"z\" property for control items and he would need to keep the order of the items on screen\n\n*Production edit (keywords for easier searching): reverse, revert, invert*",
+    "format": "legacy",
+    "workaround": "Probably with 2 lines of code and flipping the resource images but since there is no \"z\" for control items it seems more natural to have this option in a Box Container"
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-26T13:55:24Z",
+  "comments": 7,
+  "createdAt": "2020-05-07T21:45:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.8",
+  "number": 804,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an \"Inverse Sort\" property to BoxContainer",
+  "up": 12,
+  "updatedAt": "2026-06-26T13:56:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/804"
+}

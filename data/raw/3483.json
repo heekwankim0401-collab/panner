@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't see how this would be practical to implement via add-on in the asset library.",
+    "format": "form",
+    "workaround": "This should require no workaround at all; New copies of Godot should ship with this new setting set to the app's present behavior.  Users who prefer the blur filter shouldn't even notice it's there.  But it gives users who prefer to not have the blur filter the ability to streamline the workflow of creating a new project."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2021-10-30T03:17:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3483,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to choose the default import texture preset on all projects",
+  "up": 3,
+  "updatedAt": "2021-12-19T01:44:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3483"
+}

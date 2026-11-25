@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "see above",
+    "format": "legacy",
+    "workaround": "idk if it would be used alot but its cannot really be worked around with a script since godot may not even have a framerate cap and in this case godot would have to implement a really high one"
+  },
+  "assignees": 0,
+  "closedAt": "2020-01-13T10:44:53Z",
+  "comments": 6,
+  "createdAt": "2020-01-13T05:08:55Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 379,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "get_tree().get_fps()",
+  "up": 0,
+  "updatedAt": "2020-01-13T16:39:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/379"
+}

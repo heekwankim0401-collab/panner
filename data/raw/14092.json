@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires changing Engine's rendering logic.",
+    "format": "form",
+    "workaround": "No, as we currently don't have Compositor support for 2D."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-01-28T19:17:23Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14092,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement hooks to customize 2D rendering (similar to RenderingCompositor in 3D)",
+  "up": 4,
+  "updatedAt": "2026-09-12T01:16:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14092"
+}

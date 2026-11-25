@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "super easy to do and helps GDScript users be less intimidated by C#, a good \"first user experience\", as novice C# users won't know how these \"fancy\" features",
+    "format": "legacy",
+    "workaround": "just don't use it, or delete the ```using static``` lines from the ```.cs``` file"
+  },
+  "assignees": 0,
+  "closedAt": "2020-01-04T15:29:01Z",
+  "comments": 3,
+  "createdAt": "2020-01-04T00:33:01Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 350,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "C# template: add \"using static Godot.GD\" to top, for improved GDScript similarity",
+  "up": 0,
+  "updatedAt": "2026-02-25T14:21:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/350"
+}

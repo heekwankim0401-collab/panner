@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "file path protocol of godot needs to be extended to make this work.",
+    "format": "form",
+    "workaround": "Not without creating a temporary file to act as a proxy."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-04-03T09:19:41Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4336,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add pseudo-file paths to load/save resources from/to PackedByteArrays instead of files",
+  "up": 3,
+  "updatedAt": "2025-02-03T14:49:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4336"
+}

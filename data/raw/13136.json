@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a basic quality of life feature for the Viewport panel.",
+    "format": "form",
+    "workaround": "It can be worked around with mouse. It cannot be worked around easily by just keyboarding."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-09-06T22:18:23Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13136,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Frame Selection center and frame the viewport if nothing is selected",
+  "up": 0,
+  "updatedAt": "2025-09-08T13:31:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13136"
+}

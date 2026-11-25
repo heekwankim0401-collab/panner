@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "My reasoning is explained in previous answer.",
+    "format": "legacy",
+    "workaround": "I really don't want to see networking games in Godot to have this insecurity, which forces to write code in a manner of constant checks for player being properly registered on the server."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-02T17:57:50Z",
+  "comments": 20,
+  "createdAt": "2020-03-03T14:46:21Z",
+  "down": 1,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.0",
+  "number": 548,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to send authentication information in before accepting RPC calls",
+  "up": 11,
+  "updatedAt": "2022-11-02T18:00:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/548"
+}

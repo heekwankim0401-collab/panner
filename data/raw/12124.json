@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It improves usability of an already implemented feature",
+    "format": "form",
+    "workaround": "This can be worked around with an inspector plugin that adds custom buttons to inspector, but user won't be able to use annotations for that. Creating plugin for annotation is not possible (afaik)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-03-31T18:37:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12124,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to choose custom icon for ```@export_tool_button```",
+  "up": 3,
+  "updatedAt": "2026-08-17T00:18:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12124"
+}

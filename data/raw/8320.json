@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It affects lighting and will greatly benefit other mobile game developers that also want to increase performance at the cost of lower graphics without going completely static.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-31T21:55:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8320,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement interval (dynamic with a .5-3 second response time) lighting",
+  "up": 0,
+  "updatedAt": "2023-11-02T19:33:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8320"
+}

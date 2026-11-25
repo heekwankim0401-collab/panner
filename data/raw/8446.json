@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The functionality already exists for other Controls, and is a very common behavior in most user interface systems. (Again, HTML is a prime example.) Adding this will help RichTextLabel customization match what is already available to other Controls that a player can interact with.",
+    "format": "form",
+    "workaround": "Technically yes, it could be worked around using `mouse_entered()` and `mouse_exited()` signals. However, any other user interaction events could also be handled strictly in code like this—Button hover events, for example—and most of those already have in-editor properties for making customization faster and easier, and reducing the amount of glue code required for basic and frequently used UI actions."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-16T17:35:58Z",
+  "comments": 5,
+  "createdAt": "2023-11-16T16:35:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8446,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "RichTextLabel - Add `Font Hover Color` to Theme options",
+  "up": 0,
+  "updatedAt": "2023-11-16T17:36:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8446"
+}

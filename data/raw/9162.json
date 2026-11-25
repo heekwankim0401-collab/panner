@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a small enhancement to the existing `GodotPhysicsDirectSpaceState2D::intersect_ray` functionality that shouldn't be terribly difficult to implement given an understanding of how to work with that code.",
+    "format": "form",
+    "workaround": "One work-around would be to iteratively check collision points further away until you exit the shape, then cast a ray from the point you found back toward the start point.  However, this wouldn't be nearly as efficient as just casting a ray, and it could be error-prone too if you end up skipping over small gaps in your search."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-23T22:50:03Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9162,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Let `PhysicsDirectSpaceState2D.intersect_ray()` find the edge of the collision shape it's inside of",
+  "up": 4,
+  "updatedAt": "2024-02-24T16:07:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9162"
+}

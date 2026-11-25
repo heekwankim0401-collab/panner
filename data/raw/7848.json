@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it is fairly common to focus on a specific debug tool for several sessions in a row, so it will get plenty of use.",
+    "format": "form",
+    "workaround": "At first I didn't think so, after having read the EditorPlugin(+ inherited) docs and googling. It was only after implementing this proposal that I found a workaround that makes it seem feasible(see \"Better API\" above) in GDScript. It is a bit hacky though.\n\n> example of workaround to get the paths I would want if it were a EditorPlugin\n\n![Godot_v4 1 1-stable_win64_y28QbkbcGo](https://github.com/godotengine/godot-proposals/assets/104049283/27478e47-6ed7-448a-bcdf-08f0e712b594)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-09-25T01:49:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7848,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to auto open a specific Debugger tab on project run",
+  "up": 17,
+  "updatedAt": "2023-10-12T07:48:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7848"
+}

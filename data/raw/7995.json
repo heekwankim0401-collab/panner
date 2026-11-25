@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be core because the regex class is core and the regex class knows best how to escape for the regular expressions it  supports.",
+    "format": "form",
+    "workaround": "It can be worked around with a few lines of script. Whether it will be used often depends on the use case, but it's really a standard function of every programming language offering regular expressions so it would be nice to have in GDScript as well."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-05T18:53:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7995,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide a static `escape` function for `RegEx` class",
+  "up": 17,
+  "updatedAt": "2023-10-05T20:19:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7995"
+}

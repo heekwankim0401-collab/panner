@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not implementable without engine changes.",
+    "format": "form",
+    "workaround": "I don't think so, I don't believe the raw particle data is available at all in script besides the aabb method."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-03-09T07:27:49Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 11950,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow getting individual positions of GPUParticles",
+  "up": 1,
+  "updatedAt": "2025-03-23T03:43:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11950"
+}

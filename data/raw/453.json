@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-31T03:02:08Z",
+  "comments": 6,
+  "createdAt": "2020-02-08T02:03:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 453,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "A way to make `yield(x)` return a value alongside the `GDScriptFunctionState`",
+  "up": 1,
+  "updatedAt": "2021-01-31T03:02:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/453"
+}

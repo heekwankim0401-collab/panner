@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is deeply connected with the GDScript language. I don't think a plugin can achieve this.",
+    "format": "form",
+    "workaround": "The current GDScrit is already providing the support. This is an enhancement to aiming for readability."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-20T12:32:35Z",
+  "comments": 1,
+  "createdAt": "2023-09-20T12:13:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7760,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Group annotation with tab",
+  "up": 1,
+  "updatedAt": "2023-09-20T12:32:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7760"
+}

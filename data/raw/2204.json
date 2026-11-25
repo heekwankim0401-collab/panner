@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because this function is in the core.",
+    "format": "markdown",
+    "workaround": "Yes, but only for emit. We can create a function and call emit inside, but it doesn't work with connecting. So these such problems are still"
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-30T16:59:10Z",
+  "comments": 1,
+  "createdAt": "2021-01-30T16:56:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 2204,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Connect signal by string and omission of parameters when necessary make problems to debug",
+  "up": 0,
+  "updatedAt": "2021-01-30T16:59:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2204"
+}

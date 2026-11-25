@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's core already",
+    "format": "form",
+    "workaround": "It has to be worked around for every multi-select item list."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-24T14:10:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12656,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `multi_selection_completed` signal to `ItemList` to allow intuitive handling of Shift-selection",
+  "up": 0,
+  "updatedAt": "2025-06-24T15:15:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12656"
+}

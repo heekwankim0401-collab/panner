@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is more userfriendly giving the possobilty to choose between a amount of textcoding. Futhermore it is necessairly if you try to keep files (e.g savegames) small, espcially when working with non western chracters.",
+    "format": "legacy",
+    "workaround": "It is probably possible but not in a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2020-03-02T21:12:42Z",
+  "comments": 3,
+  "createdAt": "2020-02-06T21:19:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 448,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Using additional textformats like utf16",
+  "up": 0,
+  "updatedAt": "2020-03-02T21:13:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/448"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its not possible without extensive modifications of the engine.\nOther engines allow inspecting the current scene tree while pausing or even in realtime.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-03T19:10:22Z",
+  "comments": 1,
+  "createdAt": "2025-12-11T14:58:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13835,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow 2D/3D Navigation of Remote Scene",
+  "up": 0,
+  "updatedAt": "2026-03-03T19:45:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13835"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Not sure if this can be done with a plugin.\nBut even if so, I still believe this should be in core not as a plugin.",
+    "format": "form",
+    "workaround": "Currently it can't"
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-18T18:19:17Z",
+  "comments": 11,
+  "createdAt": "2021-12-18T17:47:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3692,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Turn off `loop` for audio in Import",
+  "up": 4,
+  "updatedAt": "2021-12-18T22:44:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3692"
+}

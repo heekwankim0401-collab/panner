@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This needs to be in the core loop of the engine in order to do per-frame updates in the physics.",
+    "format": "form",
+    "workaround": "It's possible an autoload could handle this in _process(), but I'm not sure if that is the appropriate place to do things like move enemies around, and ideally this would happen before the animations play so there's not a delay in feedback.  Could be possible, though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2024-06-23T01:34:57Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10015,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow locking the physics step to the rendered frame rate",
+  "up": 4,
+  "updatedAt": "2026-02-04T12:44:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10015"
+}

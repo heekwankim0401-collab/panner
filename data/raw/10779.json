@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be a core feature as it may greatly enhance the safety of cross-script access. Meanwhile, an addon is hard to implement the similar function.",
+    "format": "form",
+    "workaround": "An addon may achieve the similar function, however, this would be very tricky as the core components of GDScript language seems not to be exposed to GDScript, C# or GDExtension Cpp."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-18T15:49:19Z",
+  "comments": 1,
+  "createdAt": "2024-09-18T15:47:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10779,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Access-control keywords/annotations `private` and `protected` for GDScript to avoid unexpected and/or unnecessary external access to current script",
+  "up": 0,
+  "updatedAt": "2024-09-18T15:49:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10779"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDScript is supposed to be language with dynamic typing, this is a critical feature of language like this.",
+    "format": "legacy",
+    "workaround": "Yes, workarounds can be made, of course, but if you're doing dynamic typing you will use this often."
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-10T14:46:44Z",
+  "comments": 2,
+  "createdAt": "2019-12-15T10:48:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 308,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript operators should support variant types",
+  "up": 0,
+  "updatedAt": "2020-08-10T14:46:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/308"
+}

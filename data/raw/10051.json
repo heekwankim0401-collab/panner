@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "**Edit:** It might be reasonable to first implement this as an add-on in the asset library and consider integrating it into the core editor at a later time after it has been refined through real-world usage.\n\n~~This functionality would be used often by projects that are ported to new platform, so it may make sense to have this as a core feature.~~",
+    "format": "form",
+    "workaround": "**Edit:** As mentioned in the comments, this can be done through scripting by creating an `EditorExportPlugin`. [This revision](https://github.com/allenwp/godot-resource-remaps/blob/e94d14c4ab31e42ac602669be95bdac1a41908d8/addons/resource_remaps/resource_remaps_export.gd) of my work-in-progress add-on demonstrates it is possible with Godot 4.3 beta 3.\n\n~~Currently, this sort of functionality could be implemented with scripting, but this process can be very intrusive to an established project, such as a game that has already shipped with a single initial export. This makes the scripting method prone to introducing bugs during the porting process~~"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-04T16:14:53Z",
+  "comments": 8,
+  "createdAt": "2024-06-27T02:51:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 10051,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for resource remaps based on feature tags",
+  "up": 11,
+  "updatedAt": "2025-12-04T20:09:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10051"
+}

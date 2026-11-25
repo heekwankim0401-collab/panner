@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I suppose it could be an addon if Godot provides a way to implement this kind of monkey-patch, though Firefox's history with its legacy extension API suggests that it's a bad idea.",
+    "format": "form",
+    "workaround": "No. It's an editor usability improvement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-05-22T09:54:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4575,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Evaluate Expression (Ctrl+Shift+E) to expand/create a selection for better keyboard ergonomics in the script editor",
+  "up": 2,
+  "updatedAt": "2022-05-22T10:07:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4575"
+}

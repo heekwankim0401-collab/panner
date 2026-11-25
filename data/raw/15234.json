@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2026-07-22T16:10:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15234,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement \"Node stashing\" via `InstancePlaceholder`, and add preload support to it",
+  "up": 9,
+  "updatedAt": "2026-09-30T08:45:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15234"
+}

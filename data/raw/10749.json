@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is part of GDScript",
+    "format": "form",
+    "workaround": "This is an enhancement to the current way of doing things rather than a brand new feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2024-09-15T13:22:15Z",
+  "down": 2,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10749,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a C#-style casting shorthand to GDScript",
+  "up": 11,
+  "updatedAt": "2025-09-02T17:08:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10749"
+}

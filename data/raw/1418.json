@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It modifies the inspector, and makes curves usable for more complex and precise tasks. The fact that it is not already built into the engine is very odd.",
+    "format": "legacy",
+    "workaround": "It can be worked around at runtime using the set_point_position(), set_point_in(), and set_point_out() methods, but cannot be worked around in the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-26T23:56:36Z",
+  "comments": 2,
+  "createdAt": "2020-08-26T23:26:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1418,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Specify exact values for Curve Control Points in the Inspector",
+  "up": 0,
+  "updatedAt": "2020-08-27T00:23:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1418"
+}

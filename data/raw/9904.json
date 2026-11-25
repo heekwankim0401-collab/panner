@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I'm not sure add-on can add this feature.",
+    "format": "form",
+    "workaround": "It can be easily worked around using the `seek` method, but the point of the proposal is to \"enhance\" the `seek` method."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-06T11:37:40Z",
+  "comments": 2,
+  "createdAt": "2024-06-06T10:09:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9904,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Animation player seek using a key",
+  "up": 1,
+  "updatedAt": "2024-06-06T11:41:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9904"
+}

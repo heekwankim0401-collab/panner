@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This change happens directly at the core on how the game export and referencing operates, it cannot be added as an asset library.",
+    "format": "form",
+    "workaround": "With specifically developed third party tools ([example](https://github.com/donte5405/GODOG)), it certainly is possible to have source tree completely diminished. However, the duplicate `uid://` and `res://` will both exist."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-25T13:20:56Z",
+  "comments": 3,
+  "createdAt": "2025-03-25T09:42:37Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12066,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an option to disable `res://` protocol and enforce the `uid://` completely",
+  "up": 0,
+  "updatedAt": "2025-03-26T12:01:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12066"
+}

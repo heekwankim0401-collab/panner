@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is the engine's core exporting.",
+    "format": "form",
+    "workaround": "You can, of course, just unset the splash image, export the PCK, and then enable it again, but this is annoying and you can easily forget to do this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-02-17T12:16:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.x",
+  "number": 9115,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Don't export project's custom boot splash image in a PCK file or make its export optional",
+  "up": 1,
+  "updatedAt": "2024-07-26T15:14:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9115"
+}

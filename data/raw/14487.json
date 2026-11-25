@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-26T15:13:22Z",
+  "comments": 4,
+  "createdAt": "2026-03-18T00:18:55Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.8",
+  "number": 14487,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Do not suggest creating a new instance of an abstract class in autocompletion",
+  "up": 3,
+  "updatedAt": "2026-09-26T15:13:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14487"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As I understand it, the Godot Engine automatically detects and processes collisions between objects on every physics frame. It already emits signals for when an object's collision area enters or leaves another object's collision area, thus I believe adding these signals that emit every physics frame during the overlap would be a simple matter.",
+    "format": "form",
+    "workaround": "1. Using two different Collision2Ds. Cons: It would obviously double the processing cost, as well as present the problem for people who want only one result per collision.\n2. Looping through Area2D.get_overlapping_areas() is the workaround I'll be using for now, though it does have one slight issue. To quote the official Godot Engine 4.3 Documentation: `For performance reasons (collisions are all processed at the same time) this list is modified once during the physics step, not immediately after objects are moved. Consider using signals instead.` This means having this loop at the very beginning of the physics frame, *after* the position update (which I handle manually in my project) **and** the draw event, rather than the ideal of **between** the position update and the draw event"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-03T19:57:59Z",
+  "comments": 2,
+  "createdAt": "2025-01-03T14:55:47Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11480,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `area_is_inside`, `body_is_inside` and `body_shape_is_inside` signals",
+  "up": 0,
+  "updatedAt": "2025-01-04T02:02:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11480"
+}

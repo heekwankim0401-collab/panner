@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it's elegant and *pythonic*.",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 1,
+  "closedAt": "2020-09-07T04:31:27Z",
+  "comments": 91,
+  "createdAt": "2019-11-06T12:13:43Z",
+  "down": 6,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 209,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Replace `class_name` with `MyClass extends Node` with implicit icon path",
+  "up": 16,
+  "updatedAt": "2022-09-18T21:29:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/209"
+}

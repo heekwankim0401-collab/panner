@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I believe that this improvement should be the default experience on phones as it is crucial to enabling accessibility for Godot Editor users on a certain device type, namely phones.",
+    "format": "form",
+    "workaround": "Currently, the only way to work around this problem is to simply not use the Godot Editor on a phone, which would lose us access to this, in my opinion, valuable workflow. I personally just write down my ideas in a versioned Obsidian vault, but it's not as productive or efficient as just directly implementing my ideas on the go. Besides, some people might not even have that option as they may be in a financially or otherwise more difficult situation than me and I imagine the bulk of current Godot users, and not have access to alternatives because they (can) only have a phone."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T08:22:22Z",
+  "comments": 4,
+  "createdAt": "2023-10-27T08:33:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8270,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Implement a more accessible mobile Godot Editor layout",
+  "up": 10,
+  "updatedAt": "2026-01-28T17:18:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8270"
+}

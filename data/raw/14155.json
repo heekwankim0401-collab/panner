@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes That Should Be In the Engine Core:\n\nWhy this should be core:\nImplementing these features natively provides a consistent, out-of-the-box workflow for camera setup. It ensures that visual gizmos and framing tools are integrated directly into the standard Camera nodes, providing a more intuitive experience for new and existing users without requiring external dependencies for basic project polish.\n\n**[At The End]**\nI'm just a Normal Godot Developer who want's More People Join The Godot Community And I'm not saying Godot\nis a bad engine Absolutely NO Godot Is A free open Source Engine Which is Already Perfect What I'm really saying\nGodot Is Absolutely a Great And Worth To try Engine\n\nWrite With Love From A Creator",
+    "format": "form",
+    "workaround": "Short Answer: **Yes, but with significant drawbacks.**\n\nWhile a basic shake can be scripted in a few lines, a high-quality, professional shake (using noise-based randomness,\ntrauma-squared smoothing, and time-based decay) is a complex system. Most developers end up copy-pasting 50+ lines of \"boilerplate\" code from old projects or tutorials every time they start a new game.\n\n\n**The limitations of a script-only workaround are:**\n1 Requiring every developer to reinvent the same logic for every project creates unnecessary friction. Instead of focusing on unique game mechanics, developers are forced to spend time on repetitive boilerplate for features that are now industry standards\n\n2 Performance: Running noise-sampling math in _process via GDScript is less efficient than a native C++ \nimplementation, especially when managing multiple cameras or complex scenes.\n\n3 Barriers to Entry: New developers often struggle to implement \"game juice\" correctly. Making it a core feature with presets allows them to achieve a professional feel immediately\n\nShort Answer: **Yes it can But There's a significant drawback**"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-05T19:38:10Z",
+  "comments": 9,
+  "createdAt": "2026-02-05T13:24:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "spam",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14155,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add native Camera Shake and Noise properties to Camera2D and Camera3D",
+  "up": 0,
+  "updatedAt": "2026-02-05T19:57:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14155"
+}

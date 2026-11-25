@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would benefit anyone using Lightmaps. I also don't know how it would be possible to implement this as an asset even with GDExtension",
+    "format": "form",
+    "workaround": "No. This reaches deep into how the internal shaders handle sampling the lightmap, as well as how it is generated."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-05-19T19:53:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12464,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement global lightmap UV packing",
+  "up": 8,
+  "updatedAt": "2026-02-22T17:55:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12464"
+}

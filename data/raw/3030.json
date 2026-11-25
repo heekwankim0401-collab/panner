@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It concerns GUI functionality, which is core.",
+    "format": "form",
+    "workaround": "I've tried and it's difficult/hacky to do. Currently the best method I've found is making one out of touchscreen buttons. But the problem with this is I lose the automatic scaling and all the other benefits of control nodes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-07-22T15:19:14Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3030,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement pass-by pressing in BaseButton",
+  "up": 6,
+  "updatedAt": "2026-08-05T23:07:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3030"
+}

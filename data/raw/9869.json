@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "To improve static typing / type hinting further and make GDScript more friendly to newcomers.",
+    "format": "form",
+    "workaround": "Workaround shown on #632 like:\n\nhttps://github.com/godotengine/godot-proposals/issues/632#issuecomment-869000807\n> > This will give you the code hinting at least, and it makes sure it's of that type:\n> > ```gdscript\n> > for button in buttons:\n> >     if button is Button:\n> >         button.align = ALIGN_CENTER\n> > ```\n> \n> This fails silently at run-time if the type doesn't match, so beware. A safer alternative for debug builds is:\n> \n> ```gdscript\n> for button in buttons:\n>     assert(button is Button)\n>     button.align = ALIGN_CENTER\n> ```\n\nDo work and is clear. (indeed `assert()` is absolutely needed)\n\n![image](https://github.com/godotengine/godot-proposals/assets/26041217/60463698-151d-48f7-9c44-ea2f1c5be74a)\n\n\nBut then, whole idea of #632 is lost in vein as we aren't using the static typing. \n\n<br>\n\n---"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-02T15:02:04Z",
+  "comments": 5,
+  "createdAt": "2024-06-02T10:36:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9869,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Change error line indicator position of Static typed for loop",
+  "up": 0,
+  "updatedAt": "2024-06-02T15:02:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9869"
+}

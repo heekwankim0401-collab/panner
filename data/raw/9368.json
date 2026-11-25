@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Arrays & Dictionaries support it already, so why not single variables?",
+    "format": "form",
+    "workaround": "I think it could be used pretty often to create reusable systems like my own. The current workaround is a bit more than a few lines of code, but the main problem is that it's just very clunky in the editor, taking away from the beauty of Godot's simplistic properties inspector."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-28T15:09:45Z",
+  "comments": 3,
+  "createdAt": "2024-03-24T01:08:32Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.5",
+  "number": 9368,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Dynamic/Inexplicit Type Exports",
+  "up": 3,
+  "updatedAt": "2025-04-28T15:11:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9368"
+}

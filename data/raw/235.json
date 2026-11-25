@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's impossible to extend base types with plugins.",
+    "format": "legacy",
+    "workaround": "10 lines is more than \"few\". Maybe."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-29T17:00:29Z",
+  "comments": 17,
+  "createdAt": "2019-11-15T15:53:03Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 235,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a method to rotate around a point",
+  "up": 33,
+  "updatedAt": "2023-10-05T20:34:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/235"
+}

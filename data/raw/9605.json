@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes Honestly, Godot needs a UI overhaul",
+    "format": "form",
+    "workaround": "NO There are indeed such scripts at present, but I still prefer to make this a core, because this method is still not convenient enough."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-04-26T19:17:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9605,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support TabBar drag and drop",
+  "up": 2,
+  "updatedAt": "2024-05-02T16:20:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9605"
+}

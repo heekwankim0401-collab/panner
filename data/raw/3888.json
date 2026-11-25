@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's how the engine treats `Camera2D`'s `zoom` property.",
+    "format": "form",
+    "workaround": "Yes, but this is what I want to avoid."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-14T07:31:59Z",
+  "comments": 10,
+  "createdAt": "2022-01-29T07:57:23Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": "4.0",
+  "number": 3888,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Invert Camera2D zoom values to make it intuitive",
+  "up": 7,
+  "updatedAt": "2022-03-14T07:32:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3888"
+}

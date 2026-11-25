@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, would make things a bit easier, also for new users, and maybe this way, instead of using three boxes, to get, or set a singleton, one could just have a ' composite ' node or, box, like with set, get a normal variable <3 . . . Thx . . <3 It'd be a massive help, for new users, and one could even re-name singletons, to ' Global Variables ', maybe only in visual script canvas . . :OO or, write 'Global Variables (Singletons) + . . <3 . . .\n\nIt may be a bad idea, to ' call ' them Global variables, since new users won't know, what difference between a normal variable, and global variable is, from sort of, looking <3 . . .\n\nps. the singleton list might be some-what large, so if one could collapse it, and the same for normal variables :O . . .",
+    "format": "markdown",
+    "workaround": "I'm not sure, one can always manually create a new script, as a resource, and add it to auto-load, and then double-click it, to add a new singleton, but it's a bit 'weird', that such a useful feature, isn't easier, to access, or so . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T16:18:02Z",
+  "comments": 1,
+  "createdAt": "2021-04-06T06:09:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 2558,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Improve user-friendliness of defining and set/get singletons, in visual script . .",
+  "up": 2,
+  "updatedAt": "2022-08-24T16:21:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2558"
+}

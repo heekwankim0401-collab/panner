@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I know abandoning Tree class in favor of clean custom implementation is tempting, but the core one should be fixed.",
+    "format": "form",
+    "workaround": "If you divide the number of lines by 1000 then yes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2022-05-23T13:42:00Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": "5.0",
+  "number": 4579,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Clean up the Tree API and usage",
+  "up": 36,
+  "updatedAt": "2025-12-08T09:59:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4579"
+}

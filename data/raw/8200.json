@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "1. As the code provided above, it is clear that a dedicated Dictionary was used for every Node (root panel node), which requires memory allocation.\n2. In addition, enumerating every child of a node by script does have an extra performance penalty (compared to implemented in core).\n3. Another downside is the inflexible nature of the methods, which requires that \"the focus mode for the node (root panel node) or any affected child should not be tampered with after calling this method\". Tracking the changes may be possible, but currently, I don't have any idea on to implement it without causing severe performance degradation.\n4. Finally, this method also does not support the \"Ignore parent\" feature, which requires an additional value to be stored in every affected control, a dedicated user script as a \"marker\" for checking may be possible, but that forces the developer to attach the marker script to the control, which is inconvenient when additional function is required for that control as well.\n\nI have currently not looked into the source code of the engine of this section, however, I believe it is far easier to implement this feature at the core level. By adding these properties at the core level, all of these behaviors can be evaluated when processing the scene tree.",
+    "format": "form",
+    "workaround": "Here I am providing my current implementation to somehow achieve this requirement, and I will explain why this implementation is bad and does not achieve all the requirements in the next section.\n\n```csharp\n/// <summary>\n/// Enable or Disables the focus mode for <paramref name=\"root\"/> and its recursive children, <paramref name=\"cachedNodeFocusMode\"/> and the focus mode for the node or any affected child should not be tampered with after calling this method with <paramref name=\"enable\"/> set to false. \n/// </summary>\n/// <param name=\"root\">Root node of the enumeration</param>\n/// <param name=\"enable\">When set to false, the method sets the focus mode for <paramref name=\"root\"/> and its recursive children to None, and writes their original values into <paramref name=\"cachedNodeFocusMode\"/>, when set to true, the method restore the focus mode for <paramref name=\"root\"/> and its recursive children to the values stored inside <paramref name=\"cachedNodeFocusMode\"/> and clears it.</param>\n/// <param name=\"includeInternal\">If includeInternal is false, the recursive enumeration excludes nodes' internal children (see <c>internal</c> parameter in <see cref=\"M:Godot.Node.AddChild(Godot.Node,System.Boolean,Godot.Node.InternalMode)\" />)</param>\nprivate static void ToggleFocusModeRecursive(Node root, bool enable, Dictionary<Control, Control.FocusModeEnum> cachedNodeFocusMode, bool includeInternal = false)\n{\n    if (!enable)\n    {\n        cachedNodeFocusMode.Clear();\n        DisableFocusModeRecursive(root, cachedNodeFocusMode, includeInternal);\n    }\n    else\n    {\n        EnableFocusModeRecursive(root, cachedNodeFocusMode, includeInternal);\n        cachedNodeFocusMode.Clear();\n    }\n}\n\n/// <summary>\n/// Restore the focus mode for <paramref name=\"root\"/> and its recursive children to the values stored inside <paramref name=\"cachedNodeFocusMode\"/>\n/// </summary>\nprivate static void EnableFocusModeRecursive(Node root, Dictionary<Control, Control.FocusModeEnum> cachedNodeFocusMode, bo"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-19T11:37:59Z",
+  "comments": 5,
+  "createdAt": "2023-10-19T16:46:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 8200,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to disable focus on a control (and its children) with out modify the Control.SetFocusMode property",
+  "up": 14,
+  "updatedAt": "2025-03-19T11:37:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8200"
+}

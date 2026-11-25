@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No way to do it outside",
+    "format": "markdown",
+    "workaround": "Nope"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-11T14:28:15Z",
+  "comments": 25,
+  "createdAt": "2020-12-25T19:03:27Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 2022,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide a way to pass variables from fragment to light shader function",
+  "up": 3,
+  "updatedAt": "2021-02-11T14:28:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2022"
+}

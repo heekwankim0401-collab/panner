@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An add-on cannot modify the script editor, and the script editor is core.",
+    "format": "form",
+    "workaround": "The script editor cannot be modified by a script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 47,
+  "createdAt": "2021-11-17T00:25:57Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3557,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use class icons for script and documentation page buttons in script editor",
+  "up": 57,
+  "updatedAt": "2024-09-17T14:08:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3557"
+}

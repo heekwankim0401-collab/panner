@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "One of the main issues is discoverability and access to the Q&A system that Godot uses. Implementing these features as a third-party addon which, again, users would have to discover and access defeats the entire purpose.",
+    "format": "legacy",
+    "workaround": "It would be used extremely often by tens of thousands of developers, and it would involve far more than a few lines of script to implement. Not to mention the need for backend revisions that are unrelated to the engine source code as well."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-01T18:24:14Z",
+  "comments": 7,
+  "createdAt": "2020-03-18T14:48:13Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 598,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Integrate Q&A functionality to the Godot editor",
+  "up": 2,
+  "updatedAt": "2021-09-01T18:24:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/598"
+}

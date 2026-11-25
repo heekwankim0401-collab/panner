@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This improves an already existing feature.",
+    "format": "form",
+    "workaround": "It is possible to use a custom ShaderMaterial but this is tedious."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-08-27T11:34:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3211,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove BaseMaterial3D's `FLAG_BILLBOARD_KEEP_SCALE` and fully support model rotation and scale for billboard modes",
+  "up": 2,
+  "updatedAt": "2021-08-27T12:12:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3211"
+}

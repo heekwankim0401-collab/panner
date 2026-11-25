@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "That mostly depends on how useful the community would find this. It could definitely be an add-on in the asset library (and then with tons of customization options to cater to all use cases under the sun :)).",
+    "format": "legacy",
+    "workaround": "I'm not sure how often this would be used, hence this proposal to get some community feedback.\n\nIt's fairly easy to implement for your own game if it was not implemented, as showing a watermark on Debug builds is as easy as doing:\n```\nif OS.is_debug_build():\n\t$DebugWatermark.show()\nelse:\n\t$DebugWatermark.hide()\n```\nYet this needs to be done in all scenes/via a singleton, so it may be a bit bothersome."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-19T11:16:32Z",
+  "comments": 11,
+  "createdAt": "2020-06-16T13:45:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1073,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add (optional) visual marker to Debug builds to make them easy to identify",
+  "up": 9,
+  "updatedAt": "2020-06-19T12:16:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1073"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it is a plain and simple lack that makes many simple things either very difficult or impossible.",
+    "format": "form",
+    "workaround": "it can not be worked around as far as i know."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-22T17:38:21Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 10808,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to separate multiple copies of a GPUParticles3D node each with an accompanying GPUParticlesAttractor3D or GPUParticlesCollider3D",
+  "up": 0,
+  "updatedAt": "2024-10-13T15:03:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10808"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Changes to a built in class.",
+    "format": "form",
+    "workaround": "Interestingly enough, there doesn't seem to be a way to work around this.\n```py\n\tgpu_particles.one_shot = true\n\tgpu_particles.emitting = false\n\tawait gpu_particles.finished\n\tprint(\"finished!\")\n\n\tgpu_particles.emitting = false\n\tgpu_particles.one_shot = true\n\tawait gpu_particles.finished\n\tprint(\"finished!\")\n\n\tgpu_particles.one_shot = true\n\tawait gpu_particles.finished\n\tprint(\"finished!\")\n```\nNone of these emit the signal, bug?\nSo the only option is to do something like\n```py\n\tgpu_particles.emitting = false\n\tawait get_tree().create_timer(gpu_particles.lifetime, false).timeout\n\tprint(\"finished!\")\n```\nIt's a simple enough command to remember, like with me it might be something you may learn very late into a project, and it also makes it impossible to simply connect the `finished()` signal to `queue_free()`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-02-11T18:34:17Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 9073,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Emit `finished()` in `GPUParticles`, without `one_shot` being true after `emitting` is set to false and the last particle is killed",
+  "up": 6,
+  "updatedAt": "2024-02-11T23:32:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9073"
+}

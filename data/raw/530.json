@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is already core.",
+    "format": "legacy",
+    "workaround": "It is literely a change in one line of code."
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-28T01:40:00Z",
+  "comments": 2,
+  "createdAt": "2020-02-27T19:25:49Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 530,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "vector3.inverse()",
+  "up": 0,
+  "updatedAt": "2020-02-28T17:06:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/530"
+}

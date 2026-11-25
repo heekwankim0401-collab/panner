@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There is a reason, everything is the same as with the `is_inf` and `is_nan` methods. After all, they can be replaced with entries `value != INF and value != -INF` and `value != NAN`",
+    "format": "form",
+    "workaround": "If this is not used often, then it can be implemented in a few lines of script. But checking this exception may be required anywhere in any project."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-11T07:33:12Z",
+  "comments": 3,
+  "createdAt": "2022-01-12T05:48:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 3790,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a new 'is_finite' method for checking built-in types",
+  "up": 4,
+  "updatedAt": "2022-10-11T07:33:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3790"
+}

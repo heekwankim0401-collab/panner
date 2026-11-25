@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is improving the functionality of existing nodes.",
+    "format": "form",
+    "workaround": "Calculating the existing angle could be done in GDscript, but setting the angle is not."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-04-11T15:31:28Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 4385,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose HingeJoint3D angle as a property",
+  "up": 13,
+  "updatedAt": "2024-06-21T08:55:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4385"
+}

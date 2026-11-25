@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is for addons/plugins being able to create Nodes with equal integration as built-in native nodes.",
+    "format": "form",
+    "workaround": "Nope. (The bug above shows full NodePath instead of just Type)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-02-18T23:41:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4006,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow EditorFeatureProfileManager.get_current_profile().set_disable_class(\"MyNode\", true)",
+  "up": 0,
+  "updatedAt": "2022-02-21T01:51:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4006"
+}

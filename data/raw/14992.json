@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-19T20:16:56Z",
+  "comments": 0,
+  "createdAt": "2026-06-10T16:06:51Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.8",
+  "number": 14992,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for named `[url]` tags to `print_rich()`'s ANSI escape code conversion",
+  "up": 2,
+  "updatedAt": "2026-06-19T20:16:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14992"
+}

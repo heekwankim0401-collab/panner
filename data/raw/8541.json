@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "not possible as far as I know",
+    "format": "form",
+    "workaround": "yeah it can be workarounded if you copy the enum from Transition singleton to the portal class!"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-18T18:09:59Z",
+  "comments": 4,
+  "createdAt": "2023-11-29T11:29:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8541,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow `static enum` type",
+  "up": 3,
+  "updatedAt": "2024-02-18T18:10:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8541"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "RDShaderSPIRV is a core type (correct?), and it's difficult and redundant to link another C++ extension or library as an intermediary to \"query\" about a SPIRV shader representation.\n\nIt's important that core should NOT include the interpretation and validations of this data. User projects and needs are too diverse for a one-size-fits-all approach in core, but having just the reflection data available for engine users is empowering us to build shader-first workflows instead of building RD-script-first, then shader, then back to script, then back to editing the shader workflows, dozens of times over.",
+    "format": "form",
+    "workaround": "There's no workaround because there is no way of inspecting what is in a RDShaderSPIRV."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-09-14T18:03:07Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10740,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose SPIRV-Cross Reflection Data in RDShaderSPIRV",
+  "up": 7,
+  "updatedAt": "2025-09-10T15:49:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10740"
+}

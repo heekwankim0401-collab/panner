@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think plugins can do that, but I alse think that at least having an opion to automatically close scripts when they are deleted would be useful at the core level.",
+    "format": "legacy",
+    "workaround": "using plugins - maybe, not sure about \"a few lines\" tho"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2020-09-22T15:40:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1550,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Better handling of deleted open scene/scripts",
+  "up": 6,
+  "updatedAt": "2024-12-31T20:48:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1550"
+}

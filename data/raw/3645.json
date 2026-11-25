@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think there are no such kind of plugin interface.",
+    "format": "form",
+    "workaround": "No idea.\n\nAs an alternate approach, modifying & saving an HTML template for reuse is OK, but requires users to know basic HTML/CSS/JavaScript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-12-08T09:57:48Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3645,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow easy customization of the default HTML5 export page's background color",
+  "up": 6,
+  "updatedAt": "2023-04-09T19:40:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3645"
+}

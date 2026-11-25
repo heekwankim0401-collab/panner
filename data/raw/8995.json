@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Just an idea that more people might want to have need for it, just like people need clamp sometimes. It's specific but pretty central for GUI or maybe for example something like shooting right border to get bullets appear on right border. Stuff like that.",
+    "format": "form",
+    "workaround": "```\n func rclamp(a, min, max):\n if (a < min):\n     a = max\n elif (a > max):\n     a = min\n return a\n\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-01-30T16:36:24Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8995,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a reverse clamp method",
+  "up": 1,
+  "updatedAt": "2024-02-02T01:15:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8995"
+}

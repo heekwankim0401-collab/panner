@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Requires changing the Godot Editor source code.",
+    "format": "form",
+    "workaround": "It will be a change in editor behaviour and will be used as often as people want to configure the snap. Cannot be done with a script."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-18T09:16:02Z",
+  "comments": 1,
+  "createdAt": "2025-10-13T10:53:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 13375,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Upgrade \"Set Snap Transform\" Dialog to use SpinBoxes instead of LineEdits",
+  "up": 1,
+  "updatedAt": "2026-09-18T09:16:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13375"
+}

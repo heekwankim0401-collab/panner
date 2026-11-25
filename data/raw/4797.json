@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This improvement actively would make it easier and faster to get actual games done in C++ rather than only addons",
+    "format": "form",
+    "workaround": "It currently can be done without, but it makes the process pretty convoluted when it comes to making full games in C++"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-07-02T14:41:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 4797,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add macros to register GDNative/GDExtension methods/properties",
+  "up": 5,
+  "updatedAt": "2026-05-01T17:46:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4797"
+}

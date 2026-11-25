@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Part of RenderingDevice API and needs driver-level call.",
+    "format": "form",
+    "workaround": "Can be achieved with custom downsampling shader, but it kills the purpose. If performance is critical, hardware-native mipmap generation must be the choice."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-01-31T19:43:27Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14122,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add automatic mipmap generation option for textures created with RenderingDevice",
+  "up": 1,
+  "updatedAt": "2026-02-05T12:50:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14122"
+}

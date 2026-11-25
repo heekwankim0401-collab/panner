@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This could very easily be done in scripts or addons that get run either via the command line or as part of a one-off scene.  However maintaining a set of high quality and accurate scripts, as well as deciding what range of values to use to get the most out of Godot may be better managed by the project as whole, where things like PRs and reviews could ensure the highest quality.",
+    "format": "form",
+    "workaround": "See next answer..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-08-03T16:14:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5068,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an in-editor auditing tool for performance and correctness for Godot projects (similar to Lighthouse)",
+  "up": 16,
+  "updatedAt": "2022-09-09T23:23:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5068"
+}

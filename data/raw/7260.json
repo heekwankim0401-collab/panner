@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be built in the rendering engine.",
+    "format": "form",
+    "workaround": "no. there is a tricky way to do it which involves a lot of UV trickery to use a bigger area or small area of the screen for different sections of the multistage post processing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-07-11T09:40:57Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7260,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow BackBufferCopy to act as ViewportTexture source.",
+  "up": 0,
+  "updatedAt": "2023-07-11T16:04:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7260"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Other dynamically typed languages allow this.",
+    "format": "form",
+    "workaround": "Not really we have static typing but it poorly supported right now and requires a script to be attached to the node."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-18T00:29:18Z",
+  "comments": 20,
+  "createdAt": "2021-09-14T00:41:34Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3296,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add better dynamic typing support for gdscript",
+  "up": 0,
+  "updatedAt": "2021-09-18T15:31:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3296"
+}

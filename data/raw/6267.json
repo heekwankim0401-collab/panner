@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It adds another compiled option to Godot which makes Godot compile as a library",
+    "format": "form",
+    "workaround": "It might not be used that often if people have to compile themselves but if the LibGodotSharp binding was set up on NuGet I can see a lot of C# developers of software using Godot as a UI library"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-02-11T03:40:42Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6267,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a build-time option to compile Godot as a shared library (for use in other languages)",
+  "up": 50,
+  "updatedAt": "2023-09-15T18:35:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6267"
+}

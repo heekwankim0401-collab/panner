@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above. It's part of behavior that is core to the editor, so it would be difficult if not impossible to implement as an addon, as far as I know.",
+    "format": "form",
+    "workaround": "I don't believe it can? It may be possible to hack through the editor node tree to get something like this to work, but it seems like it'd take a lot of work, and even if it was successful, the user would have to install this additional code to get behavior that should generally just make the user experience better."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-07-02T05:11:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12714,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Convert Theme Overrides into Theme Type Variation",
+  "up": 34,
+  "updatedAt": "2025-10-28T20:04:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12714"
+}

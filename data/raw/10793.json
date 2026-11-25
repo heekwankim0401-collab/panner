@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core, since it changes an official visual shader node.",
+    "format": "form",
+    "workaround": "You can work around it by using a Texture2DParameter with a Texture2D. Personally, that's what I usually do. But setting the texture directly on the Texture2D is a good feature to work more efficiently, and it should have feature parity in this case."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-20T21:23:44Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10793,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "VisualShader: Add Filter and Repeat options to Texture2D node",
+  "up": 3,
+  "updatedAt": "2024-09-21T10:04:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10793"
+}

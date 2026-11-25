@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2020-02-15T18:49:59Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 483,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add multi-threaded options to 3D physics",
+  "up": 42,
+  "updatedAt": "2024-12-03T19:05:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/483"
+}

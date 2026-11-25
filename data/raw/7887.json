@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I can't imagine being the only person who tries to construct nodes on-the-fly from a set of resources. Using nodes directly is *viable*, but if you want to support modding, it's somewhat easier for a random nobody to understand and edit a resource than a packed scene.",
+    "format": "form",
+    "workaround": "I can think of a multitude of workarounds, but none I would consider trivial:\n\n- Writing a custom (de)serialization protocol for resources of this type. I think I've seen enough parsers in my lifetime, and I've hacked a unit type loader in Starflare to achieve the results I'm hoping to see here (and better!), so I'm reasonably confident I could write one in GDScript... but it's still a decent bit of work. What's more, I'm considerably *less* confident that the editor would support my hackery without needing a plugin, which is a whole other rabbit hole.\n- My current workaround uses accessor trickery on the consuming objects to fake overrides. For instance:\n\n  ```GDScript\n  @export var maxHP: int: \n        get: return maxHP if maxHP else baseType.maxHP\n  ```\n- Using a bunch of instanced nodes (or subclasses of UnitType) to define defaults. I'm actually sort-of doing the former already, because at one point I end up needing to hold a reference to a Unit *or* a UnitType, so I instantiate an unmodified Unit for every UnitType. It's not quite as bad, though, because I'm not making a new scene for every UnitType... \n- It now occurs to me I could try making a factory, though this will be painful in light of the fact that nested classes cannot be used as resources. Depending on how I go about it, I might need to make 20 new script files just to support that factory. 😬"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-27T15:38:00Z",
+  "comments": 1,
+  "createdAt": "2023-09-27T10:12:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7887,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Resource Inheritance & Partial Resources",
+  "up": 0,
+  "updatedAt": "2023-09-27T15:38:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7887"
+}

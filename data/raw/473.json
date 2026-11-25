@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having this as a plugin greatly diminishes the usefulness of it simply because it's something most people don't consider. Having it in editor and easily discoverable will make it much, much more likely that devs will use the tool and develop for the colorblind.",
+    "format": "legacy",
+    "workaround": "I expect it'll be used fairly often, especially as awareness of the issue grows."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-02-14T07:34:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 473,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Have in editor options to simulate common forms of color vision deficiency (color blindness) ",
+  "up": 8,
+  "updatedAt": "2024-10-24T21:02:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/473"
+}

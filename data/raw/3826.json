@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I couldn't find a way to implement this in gdscript.",
+    "format": "form",
+    "workaround": "Modifying the order of the importers cannot be done in gdscript as far as I know."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-05T18:50:37Z",
+  "comments": 0,
+  "createdAt": "2022-01-19T12:11:53Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 3826,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make add_importer and add_post_importer_plugin overriding existing importers",
+  "up": 0,
+  "updatedAt": "2022-02-05T18:50:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3826"
+}

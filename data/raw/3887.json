@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "yes, because it will allow us to switch between the bottom panel tabs and the main screen tabs without the need of remembering their shortcuts, it will work with their order. it also can be up to 10 numbers starting from `1` to open the first main screen or the first bottom panel window and ends with `0` to open the 10th one, up to 10 visible tabs in each panel ! who will need to have more than 10 visible tabs in main screens or bottom panel?",
+    "format": "form",
+    "workaround": "it will surely be used by all of us, since we will no longer need to remember the shortcuts and we just need to remember the combination of `ctrl+number` and `ctrl+alt+number` only, also you can allow us to define the combinations of the modifiers that will do this process, for example i can change the shortcut for main screens to be `ctrl+shift+number` instead of `ctrl+number`, just in case it will have a conflict with the OS shortcuts or to be easier for me to change them to whatever modifiers i want."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-29T16:17:30Z",
+  "comments": 3,
+  "createdAt": "2022-01-29T06:48:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3887,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Shortcuts in the editor to switch between the bottom panel windows",
+  "up": 0,
+  "updatedAt": "2022-01-29T16:17:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3887"
+}

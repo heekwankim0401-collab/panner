@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "such an editor script would be more resource intensive and less intuitive. However, that assessment comes a priori of having written any plugins.",
+    "format": "form",
+    "workaround": "and editor script could likely be written to convert materials from spatial to shader, and inject/remove the code for the effect, but it would have to access editor features, as at the time this material feature was developed there was no way I had found to convert materials using gdscript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-04-21T19:45:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4423,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a clipping plane property to SpatialMaterial",
+  "up": 3,
+  "updatedAt": "2025-04-04T21:31:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4423"
+}

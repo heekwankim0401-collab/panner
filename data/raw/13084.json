@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's not an enhancement, it's a change to default core editor behavior and it aims to solve a problem due to default behavior. Also, it's likely trivial to solve if you realise what the problem is but it can be very hard to diagnose the problem due to the default behavior.",
+    "format": "form",
+    "workaround": "It _can_ be worked around but how much scripting it takes is debatable and would depend heavily on the use case. For some users, it would be as simple as just changing a setting away from its default in the one `SubViewport` they use. For others, it would require keeping track of all `SubViewport`s in their scene and enforcing individual sets of settings for each of them, just to avoid having them change in case the user changes graphics settings or something. It can be anywhere from trivial to solve to extremely complicated, compounded by the surprising nature of the default behavior."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-30T13:44:34Z",
+  "comments": 3,
+  "createdAt": "2025-08-27T18:33:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13084,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow SubViewports to ignore project settings by default",
+  "up": 0,
+  "updatedAt": "2025-08-30T21:32:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13084"
+}

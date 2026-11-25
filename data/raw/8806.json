@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "open_scene_from_path exists so it makes sense to also have a close_scene",
+    "format": "form",
+    "workaround": "not in a way that I know of"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-02T23:59:39Z",
+  "comments": 25,
+  "createdAt": "2024-01-05T13:54:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 8806,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "open_scene_from_path but no close_scene or close_scene_from_path ",
+  "up": 8,
+  "updatedAt": "2025-06-03T00:05:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8806"
+}

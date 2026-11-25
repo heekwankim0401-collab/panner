@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its a small but helpful feature, would make the overall engine experience better",
+    "format": "form",
+    "workaround": "idk how often others will use it, but i would use this feature fairly often\ni also dont know if there is a way to implement this with my own scripting"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-08-08T21:39:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12970,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@export_readonly` annotation as a shorthand to export read-only properties in the inspector",
+  "up": 22,
+  "updatedAt": "2026-02-23T22:51:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12970"
+}

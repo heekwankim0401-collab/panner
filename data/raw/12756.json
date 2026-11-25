@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Godot can already do all these things individually in core, it just needs a small change to do them all seamlessly.",
+    "format": "form",
+    "workaround": "This is very niche, but it's also very low impact.\n\nThe alternatives are either rewriting the websocketpeer in gdscript (performance concerns, redundant effort), or providing two endpoints - one for http and one for websockets. Two endpoints is annoying for users, especially when you factor in offering endpoints through firewalls or routers. Offering a single unified endpoint is the whole reason websockets are upgraded from http connections."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-09T13:49:27Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 12756,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow StreamPeerTCP to be ugpraded to a WebSocketPeer after headers are examined",
+  "up": 2,
+  "updatedAt": "2025-07-09T16:06:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12756"
+}

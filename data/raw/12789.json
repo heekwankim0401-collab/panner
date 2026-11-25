@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes. Lighting is a core part of Godot’s rendering pipeline. Many modern engines (Unreal, Unity HDRP) support light temperature natively. Having it in core ensures performance, integration with visual tools, and better UX for artists.",
+    "format": "form",
+    "workaround": "Yes, it can be worked around with a script or shader function that converts Kelvin to RGB, but it's not user-friendly and isn't practical for designers/artists without programming experience."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-16T01:59:23Z",
+  "comments": 4,
+  "createdAt": "2025-07-15T15:54:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12789,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `Temperature` Property to Light Nodes",
+  "up": 0,
+  "updatedAt": "2025-07-28T17:09:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12789"
+}

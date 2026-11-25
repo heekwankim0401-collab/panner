@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a simple workflow improvement that would be overkill for an asset.",
+    "format": "form",
+    "workaround": "In some applications you could directly reference nodes in the scene with the $ operator and manually add them into an array in _onready but that is clunky and less flexible. I believe this will improve workflow for any scene that needs a lot of node `@export`, especially ones that need arrays."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-06T11:09:09Z",
+  "comments": 4,
+  "createdAt": "2023-10-19T08:46:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 8193,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve workflow when adding elements to an @export array",
+  "up": 12,
+  "updatedAt": "2024-04-06T11:09:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8193"
+}

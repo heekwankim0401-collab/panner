@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because there are many projects that have high-speed gameplay and uses particles with global coords (a racing game where has tires smokes in drifting, for example), so it would be nice to be a main feature",
+    "format": "legacy",
+    "workaround": "I think that it can't be made with gdscript or C# for performance reasons, as the only way is to instantiate new particles systems"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-05-02T01:03:16Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 780,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Particle system: Add emission by distance travelled between emits (instead of time)",
+  "up": 19,
+  "updatedAt": "2026-04-30T09:09:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/780"
+}

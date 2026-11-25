@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a problem of `InputMap` as far as I can see.",
+    "format": "markdown",
+    "workaround": "Unfortunately not so easily, I'd like to be able to configure these keys at runtime."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-30T09:27:11Z",
+  "comments": 4,
+  "createdAt": "2021-03-15T19:49:14Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 2464,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "InputMap does not take conflicts into account",
+  "up": 3,
+  "updatedAt": "2021-07-30T09:27:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2464"
+}

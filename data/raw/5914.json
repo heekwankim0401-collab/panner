@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be a core feature.",
+    "format": "form",
+    "workaround": "Actually, it would be a bit complex as it involves doing computations with `Transform2D`s."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-12-08T11:35:01Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5914,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `get_scrollable_rect` method for `Camera2D`",
+  "up": 3,
+  "updatedAt": "2022-12-08T12:49:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5914"
+}

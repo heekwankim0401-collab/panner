@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a very common animation functionality in games (for walking, actions, blinking eyes, moving mouths, etc. etc.)",
+    "format": "form",
+    "workaround": "It can, but having to add the script to manage every possible animation with a simple state machine, or even duplicate the number of frames... but it would be a hassle and it's better if it's an animation property that can be enabled/disabled programmatically."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-07T23:25:54Z",
+  "comments": 9,
+  "createdAt": "2025-02-04T11:56:14Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": "4.7",
+  "number": 11698,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Ping-Pong loop mode for AnimatedSprite2D",
+  "up": 6,
+  "updatedAt": "2026-04-07T23:27:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11698"
+}

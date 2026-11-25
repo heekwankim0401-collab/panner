@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Bec., it would take Godot from basic 3D environments, to REALLY nice environments, and just be over-all awesome, I hope it might support 4 different textures, and 4 different decal layers, one can blend, or so . . Optimally, blending of 8 textures, or some other cool method, of terrain texture PAINTING, not sculpting . . .\n\nThanks . .\n\nps. I know one can use vertex painting, to get some of this effect, maybe there's a way to use that stuff, to also blend textures, on a surface, it's probably pretty fast, if done that way . . Combining vertex painting, and texture layering, or blending, would be an amazing thing, since we won't get the FULL terrain editor yet, to tie us over, and make Godot 4 such, a well - rounded, epic release, thanks . . .\n\n![2020-10-11 1110](https://user-images.githubusercontent.com/61069740/95674718-631f1e00-0bb2-11eb-8c79-733caf23e9d0.gif)\n\nSomething close to this, in quality, would be amazing, or so . . <3",
+    "format": "legacy",
+    "workaround": "I can't do this stuff, atm . . I think it is called splat-maps, or some sort of, blending shader, I don't know how to make this, in an optimized way, maybe there's a ' best ' solution, one can use, maybe GPU shader, or so . . It would hopefully allow for HQ-blending, ie. not be so simple, one can't make impressive terrain, but also fast, efficient . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-23T15:53:26Z",
+  "comments": 19,
+  "createdAt": "2020-10-11T09:10:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1648,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a terrain TEXTURE or mesh painter for making nicer terrains . .",
+  "up": 0,
+  "updatedAt": "2022-10-23T15:53:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1648"
+}

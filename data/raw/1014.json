@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same as above.",
+    "format": "legacy",
+    "workaround": "I don't think so, this is functionality that has to be provided by the engine."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-29T20:19:07Z",
+  "comments": 2,
+  "createdAt": "2020-06-05T12:50:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1014,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve readability and data exploring capabilities of monitors and profiler",
+  "up": 7,
+  "updatedAt": "2020-06-29T20:19:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1014"
+}

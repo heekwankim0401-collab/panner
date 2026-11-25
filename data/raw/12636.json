@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about core gridmap functionality.",
+    "format": "form",
+    "workaround": "I am unaware of a workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-06-19T22:41:45Z",
+  "down": 1,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 12636,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability in GridMap to get cell position of collision shape hit by raycast",
+  "up": 0,
+  "updatedAt": "2025-06-21T17:42:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12636"
+}

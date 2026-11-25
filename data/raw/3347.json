@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think add-ons can make a node process from a service thread. Even then, that would be hacky.",
+    "format": "form",
+    "workaround": "Definitely not with GDScript. it might be possible with a custom build module but that probably still couldn't let special nodes process such as `AudioStreamPlayer`s."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2021-09-25T01:28:51Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3347,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement background services on mobile (Android/iOS)",
+  "up": 28,
+  "updatedAt": "2025-08-25T00:46:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3347"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the Animation editing behaviour out of the box",
+    "format": "form",
+    "workaround": "This would be used often"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-03T20:47:07Z",
+  "comments": 0,
+  "createdAt": "2024-07-19T13:27:40Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 10250,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add options to auto balance new bezier keys in animations",
+  "up": 5,
+  "updatedAt": "2025-06-04T08:54:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10250"
+}

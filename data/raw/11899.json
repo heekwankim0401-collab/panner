@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the `SceneTree`",
+    "format": "form",
+    "workaround": "Right now it requires creating a custom central component that manages pause and emits a signal, for example an Autoload. This works, but carries a risk of accidentally accessing the `get_tree().paused` directly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-03-03T19:01:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11899,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Emit signal on SceneTree.paused change",
+  "up": 1,
+  "updatedAt": "2025-03-05T10:51:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11899"
+}

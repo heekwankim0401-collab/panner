@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Importing 3D model files is a core part of the engine.",
+    "format": "form",
+    "workaround": "It's unclear how often this will be used. I expect it will not be used very often, but some users prefer the workflow of importing meshes. Those users are currently using OBJ files, but that's not ideal.\n\nIt could likely be worked around with GLTF in GDScript with a lot of custom import code. Godot's import system is quite extensible so I think I can confidently say this even though I have not tried it.\n\nIt can be worked around with GLTF with no lines of script if you have a scene with a MeshInstance, then copy it and make it unique. However this work-around would result in the mesh data being copied into the Godot scene, so it would not automatically update with the GLTF's contents if the GLTF file was updated."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2023-08-14T09:56:25Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7494,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow importing a 3D model file as a mesh resource (or material/etc) instead of a scene",
+  "up": 70,
+  "updatedAt": "2025-06-27T21:50:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7494"
+}

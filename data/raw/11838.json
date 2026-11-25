@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The best solution is to add a notification that directly tells the script that it is going to be changed.",
+    "format": "form",
+    "workaround": "A plugin that listens to the editor's attempt to change the script might work? But it's a far worse solution than just adding a notification that tells the script the change."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-02-24T12:01:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11838,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `script_changing` notification or signal to help tool scripts",
+  "up": 3,
+  "updatedAt": "2025-02-24T17:26:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11838"
+}

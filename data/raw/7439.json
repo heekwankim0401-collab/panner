@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It relates to binds in core",
+    "format": "form",
+    "workaround": "It can, but it is error prone\n\n```gdscript\nVector2(min(a.x, b.x), min(a.y, b.y))\nVector3(min(a.x, b.x), min(a.y, b.y), min(a.z, b.z))\nVector4(min(a.x, b.x), min(a.y, b.y), min(a.z, b.z), min(a.w, b.z))\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-02T12:04:59Z",
+  "comments": 3,
+  "createdAt": "2023-08-03T14:18:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "4.3",
+  "number": 7439,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `Vector*` component-wise `min/max` to scripting",
+  "up": 9,
+  "updatedAt": "2024-05-02T12:05:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7439"
+}

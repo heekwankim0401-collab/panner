@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think a library could do this.",
+    "format": "form",
+    "workaround": "No, this is a request for the Godot IDE itself."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-18T15:53:32Z",
+  "comments": 1,
+  "createdAt": "2024-08-18T01:00:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10480,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to drag a tab into a new window.",
+  "up": 1,
+  "updatedAt": "2024-08-18T15:53:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10480"
+}

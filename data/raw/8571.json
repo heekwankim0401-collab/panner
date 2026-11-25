@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a fundamental change to the editor's core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-02T18:32:39Z",
+  "comments": 10,
+  "createdAt": "2023-12-02T16:39:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8571,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow more Editor UI elements to be hidden. ",
+  "up": 1,
+  "updatedAt": "2023-12-02T20:04:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8571"
+}

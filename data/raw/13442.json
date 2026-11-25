@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an easy thing you can add to to the Timer Node.",
+    "format": "form",
+    "workaround": "Yes, but its a really common thing. So doing this without code would nice."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-01T16:14:43Z",
+  "comments": 1,
+  "createdAt": "2025-10-22T13:59:17Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13442,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a `tick` signal to Timer for countdowns",
+  "up": 0,
+  "updatedAt": "2025-11-01T16:49:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13442"
+}

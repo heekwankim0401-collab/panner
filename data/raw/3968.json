@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This proposal is about reworking the default functionality for better usability.",
+    "format": "form",
+    "workaround": "The additional functionality proposed here can already be implemented with custom shaders. However, this proposal also involves compatibility-breaking changes in the interest of greater flexibility."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-21T14:22:48Z",
+  "comments": 3,
+  "createdAt": "2022-02-14T15:43:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3968,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rework BaseMaterial3D billboard modes for greater flexibility",
+  "up": 13,
+  "updatedAt": "2023-11-21T14:22:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3968"
+}

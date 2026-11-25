@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This proposal is not specific to any subset of Godot projects. I believe developers working in any genre, on any scale, will see the value of this feature in project management.",
+    "format": "legacy",
+    "workaround": "The need for a deeper project sorting interface seems not only common, but unavoidable for any user who plans to stay with Godot for a long time, as more and more projects are created and developers move on to newer engine releases, some of which will not be backwards-compatible."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-05T10:40:06Z",
+  "comments": 2,
+  "createdAt": "2020-07-05T02:07:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1163,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Custom folders / categories in project list",
+  "up": 3,
+  "updatedAt": "2023-03-16T22:17:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1163"
+}

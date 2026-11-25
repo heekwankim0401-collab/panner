@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think this approach has many advantages and would be a powerful workflow to implement within the engine itself.",
+    "format": "form",
+    "workaround": "A plugin can do all of this, but implementing it into the engine would be better. :) plus I still need to learn C++."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-03-10T20:31:40Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 11960,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more modularity to scene inheritance",
+  "up": 0,
+  "updatedAt": "2025-03-22T14:53:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11960"
+}

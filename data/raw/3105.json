@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This can be implemented using an add-on. However, I expect this feature to be used relatively often in complex games where physics interactions can get dodgy when you're developing large character controllers and whatnot."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-08-07T22:29:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3105,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add a keyboard shortcut to pause and perform frame-by-frame stepping when running a project from the editor ",
+  "up": 40,
+  "updatedAt": "2025-06-05T00:16:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3105"
+}

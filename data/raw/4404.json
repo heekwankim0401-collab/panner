@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the headless/CI export experience.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-02T21:38:10Z",
+  "comments": 0,
+  "createdAt": "2022-04-15T13:25:25Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.0",
+  "number": 4404,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename the `--export` command line argument to `--export-release` to be more explicit",
+  "up": 8,
+  "updatedAt": "2022-11-02T21:38:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4404"
+}

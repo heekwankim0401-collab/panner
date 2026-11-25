@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Fixes a gap in existing core functionality.",
+    "format": "markdown",
+    "workaround": "You could work around this by implementing polling yourself. It's reasonably trivial, but this very much feels like functionality that should already be there. We already have methods for plugins to get and set the settings."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-09T13:05:13Z",
+  "comments": 4,
+  "createdAt": "2021-01-20T01:50:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "3.x",
+  "number": 2155,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Emit a signal when a setting is changed in the Project Settings",
+  "up": 6,
+  "updatedAt": "2022-02-09T13:05:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2155"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would fix the blurriness of text, so it should be core.",
+    "format": "form",
+    "workaround": "This may be used often for GUI and text-based games."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-30T09:54:54Z",
+  "comments": 2,
+  "createdAt": "2024-11-30T03:24:20Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 11268,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Blurry Text changing window scale",
+  "up": 0,
+  "updatedAt": "2024-11-30T15:04:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11268"
+}

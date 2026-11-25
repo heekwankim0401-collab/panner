@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think it is unnecessary that every professional game developer writes this boilerplate code for themselves and takes it to every project they start. Making the signals part of core means nobody has to worry about their implementation of this code. It's not much code, but hey, every bit of convenience helps.",
+    "format": "form",
+    "workaround": "See the code example above."
+  },
+  "assignees": 1,
+  "closedAt": "2026-01-27T21:28:27Z",
+  "comments": 0,
+  "createdAt": "2025-11-01T09:01:04Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": "4.7",
+  "number": 13530,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a signal or a notification for device orientation changes",
+  "up": 16,
+  "updatedAt": "2026-01-27T21:28:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13530"
+}

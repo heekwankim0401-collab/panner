@@ -1,0 +1,28 @@
+{
+  "answers": {
+    "core": "Mobile games are popular, and touch controls are essential. Including this in the core ensures better support, reliability, and easier integration without relying on third-party assets.",
+    "format": "form",
+    "workaround": "Custom joysticks can be scripted but lack the polish and flexibility of a built-in solution. This proposal saves effort and improves usability."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-02T19:11:13Z",
+  "comments": 2,
+  "createdAt": "2024-12-26T06:32:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "platform:ios",
+    "topic:gui",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11422,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Godot Android Editor Joystick as a Node",
+  "up": 2,
+  "updatedAt": "2025-01-02T19:11:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11422"
+}

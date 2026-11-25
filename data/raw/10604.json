@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is future usage here for the game developers if they want to create a crash handler for their game to allow saving it.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-08-30T09:06:15Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10604,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a native yes/no dialog.",
+  "up": 0,
+  "updatedAt": "2024-08-31T13:22:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10604"
+}

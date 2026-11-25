@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It should be part of Project Settings as it directly enhance usability of Input Action Map editor.",
+    "format": "form",
+    "workaround": "Yes, it's possible, but using a script to update the Project Settings file may lead to issues when upgrading between different versions of Godot. There's a crucial step in Project Settings to upgrade from an old config_version, and skipping it can cause problems."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-14T18:26:51Z",
+  "comments": 1,
+  "createdAt": "2023-11-14T17:50:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 8433,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Input Action Map - Import & Export feature for user defined actions.",
+  "up": 0,
+  "updatedAt": "2023-11-14T18:27:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8433"
+}

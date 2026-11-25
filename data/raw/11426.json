@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it relies on core physics code.",
+    "format": "form",
+    "workaround": "It would be very useful for any intensive physics scan."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-12-27T02:00:21Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11426,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow physics function calls to be made safely outside of the physics thread",
+  "up": 0,
+  "updatedAt": "2025-01-02T18:42:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11426"
+}

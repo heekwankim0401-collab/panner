@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-04-26T14:10:05Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12322,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve `GraphEdit` signals",
+  "up": 4,
+  "updatedAt": "2025-04-29T09:24:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12322"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is part of the Resource class, and would give more opportunities in general.",
+    "format": "form",
+    "workaround": "You could have a variable that is checked by every object that will load the resource and decide if it should call its function. But that's not exactly \"a few lines of script\" if the Resource will be used by various Nodes. And the idea is that the Nodes don't have to worry about it at all."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-18T05:28:08Z",
+  "comments": 1,
+  "createdAt": "2025-08-17T16:27:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13013,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Raise some event after a Resource has finished setting all of its @export properties",
+  "up": 0,
+  "updatedAt": "2025-08-18T05:28:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13013"
+}

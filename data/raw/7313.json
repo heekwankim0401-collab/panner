@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A feature like this wouldn't be project-specific. I'm also unsure if new node types can be added with addons.",
+    "format": "form",
+    "workaround": "The workaround is to have a documentation file somewhere in your project folder."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-18T05:44:45Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7313,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an AnimationTreeCommentNode",
+  "up": 1,
+  "updatedAt": "2023-07-18T07:15:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7313"
+}

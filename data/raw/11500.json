@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would lead to a better experience from a players perspective by default.",
+    "format": "form",
+    "workaround": "Yes it can be worked around by using guard clauses, but it leads to more code that does the same thing and takes usefulness away from default values.\n```\n    func _init(thing, vars=null, calls=null):\n        if vars == null:\n            self.vars = {} # setting default value here\n        if calls == null:\n            self.calls = {} # setting default value here\n\n        # setup ...\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-26T15:08:45Z",
+  "comments": 3,
+  "createdAt": "2025-01-05T20:19:55Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11500,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Stop <null> from replacing default function parameters",
+  "up": 0,
+  "updatedAt": "2025-01-26T15:31:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11500"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about changing a default property's value.",
+    "format": "form",
+    "workaround": "No, as this is about changing a default property's value."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-02-05T21:20:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3919,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Increase the default depth tolerance for screen-space reflections to reduce artifacts",
+  "up": 3,
+  "updatedAt": "2023-02-24T05:05:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3919"
+}

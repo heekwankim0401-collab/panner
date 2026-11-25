@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Again, I'm not sure if an add-on is capable of that. It changes how saving behaves, so it probably should be implemented in the engine itself.",
+    "format": "form",
+    "workaround": "Definitely not a few. It may be possible to write an editor plugin that does this, though I'm not sure. I don't know if add-ons can hook into the scene saving process and change how it behaves.\n\nAlternatively you can set the animation to RESET each time you save, but that's very annoying."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-23T11:50:23Z",
+  "comments": 8,
+  "createdAt": "2025-09-23T07:10:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13245,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't save animated property values to scene files",
+  "up": 1,
+  "updatedAt": "2025-09-23T12:34:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13245"
+}

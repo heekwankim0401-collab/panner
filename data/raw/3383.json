@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "same reason local signals/groups made it in.",
+    "format": "form",
+    "workaround": "I think it would be used as often as the signals/groups in local and it can be worked around as much as we would have to if the inspector for signals and groups for local didn't exist."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-10-04T18:54:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3383,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "View signals and groups in the Node dock when using the remote scene tree dock",
+  "up": 5,
+  "updatedAt": "2021-10-09T00:35:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3383"
+}

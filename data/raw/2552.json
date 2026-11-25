@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Everyone is a beginner when they use Godot, templates let them try other's projects. premade scene instances help them build their game at the scene level.",
+    "format": "markdown",
+    "workaround": "I think this feature could add a lot of value, the problem with templates is they make mixing and matching a pain. I want the enemy of this demo, not the whole project."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-05T13:05:43Z",
+  "comments": 1,
+  "createdAt": "2021-04-05T12:51:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:assetlib",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2552,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Feature: Preset scenes(+script) that can be instanced in your game like the many node functionalities you have",
+  "up": 0,
+  "updatedAt": "2021-04-05T13:08:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2552"
+}

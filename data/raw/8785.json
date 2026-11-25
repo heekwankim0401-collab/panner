@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would have to be implemented in the core renderer.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2024-01-03T16:42:25Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8785,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Optimizing 3D mesh into list of triangle strips/fans to save VRAM",
+  "up": 0,
+  "updatedAt": "2024-01-04T15:12:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8785"
+}

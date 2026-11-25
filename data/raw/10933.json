@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This can be an addon, unless there is some limitation to the custom shader node API that prevents it. It's not worth installing an addon *just* for this node, but it could be part of a common visual shader node library.",
+    "format": "form",
+    "workaround": "Yes. This is a non-essential node which improves convenience."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-08T05:17:18Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10933,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Visual Shader: Add a Swizzle node (VectorDecompose and VectorCompose combined)",
+  "up": 9,
+  "updatedAt": "2024-10-08T11:05:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10933"
+}

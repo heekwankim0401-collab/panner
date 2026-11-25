@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it should be part of the core because it is very useful for basic of stealth games.",
+    "format": "markdown",
+    "workaround": "I wish I could workaround but description of bakedlightmap isn't don't yet, so I didn't find a way to do the feature with current state.\nhttps://docs.godotengine.org/en/stable/classes/class_bakedlightmapdata.html#class-bakedlightmapdata"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-01-28T16:38:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2198,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose the lightmap shadow value to scripting using a raycast",
+  "up": 0,
+  "updatedAt": "2022-05-02T23:41:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2198"
+}

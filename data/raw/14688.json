@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-04-17T09:17:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14688,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Select on mouse up instead of mouse down to fix parent drag when covered by child",
+  "up": 3,
+  "updatedAt": "2026-04-17T13:10:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14688"
+}

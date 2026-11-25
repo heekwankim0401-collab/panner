@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Ease of use, plus it might not be possible to do this without adding an extra viewport which adds extra perf cost.",
+    "format": "form",
+    "workaround": "Possibly, if the viewport container is accessible."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-04T00:27:34Z",
+  "comments": 1,
+  "createdAt": "2024-10-04T00:26:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10891,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Nearest filtering to Scaling 3D modes",
+  "up": 0,
+  "updatedAt": "2024-10-04T15:09:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10891"
+}

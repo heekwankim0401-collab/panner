@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be core. This is standard in After Effects, Cinema 4D and many other leading animation solutions.",
+    "format": "form",
+    "workaround": "Unfortunately, no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-12-02T18:51:51Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3627,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an animation keyframe to multiple objects at once (MultiNodeEdit)",
+  "up": 4,
+  "updatedAt": "2021-12-02T21:19:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3627"
+}

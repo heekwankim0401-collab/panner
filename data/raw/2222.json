@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, I'm a complete noob, and need a nice interface, to work with <3 . . . maybe, it's possible . . with these settings, one could simulate almost all kinds of jewelry, from light ( feather ) to, medium - heavy ( bone ) to, heavy ( beads, gold, stone ) <3 <3 . . Thx . . .\n\nalso, if one made a sort of ' global ' wind - simulation system, feathers would move naturally, or so :OO <3 . . . Thx . .",
+    "format": "markdown",
+    "workaround": "I have no idea, if one adds a rigidbody to the skeleton, it doesn't move anyway, if it was a setting, or so . . \n\n<img width=\"1252\" alt=\"Skærmbillede (974)\" src=\"https://user-images.githubusercontent.com/61069740/106557565-61db7d80-6522-11eb-8e54-852f31ab6e0b.png\">\n\nSo, there was a setting, ' apply collision ' ( add collisionshape ), apply physics, apply wind, apply world physics . . it could be a list, or drop-down, then set weight and, gravity or, so . . <3"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-02T11:57:43Z",
+  "comments": 2,
+  "createdAt": "2021-02-02T05:48:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2222,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for feathers, bones and, stone ' jewelry ' / stuff . .",
+  "up": 0,
+  "updatedAt": "2021-02-02T11:58:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2222"
+}

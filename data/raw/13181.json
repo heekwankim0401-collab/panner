@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal is regarding the math and logic inside of `tonemap.glsl` and `post.glsl`.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-15T04:29:45Z",
+  "comments": 2,
+  "createdAt": "2025-09-15T19:20:29Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.6",
+  "number": 13181,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Blend glow before tonemapping and change default to screen.",
+  "up": 1,
+  "updatedAt": "2025-10-15T16:36:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13181"
+}

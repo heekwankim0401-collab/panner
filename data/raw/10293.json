@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Generally - no. But being core feature it will be a lot more readable and reliable. Also custom `SceneTree` doen't support code autocompletion. Another reason is that scene files may contain 'neccesary' arguments which will be checked if this scene used in `change_scene_to_*`. And this will avoid using autoloads just to throw data to the next scene, removing unnecessary in other scenes nodes.",
+    "format": "form",
+    "workaround": "Yes, it can be done using custom `SceneTree` like below:\n```gdscript\nextends SceneTree\n\nclass_name MySceneTree\n\nvar _params : Dictionary = {}\nvar _new_scene_with_params : bool = false\n\n\nfunc _initialize() -> void:\n\tnode_added.connect(_on_node_added)\n\n\nfunc change_scene_to_file_parameterized(file:String, parameters:Dictionary={}) -> Error:\n\t_new_scene_with_params = true\n\t_params = parameters\n\treturn change_scene_to_file(file)\n\n\nfunc get_scene_parameters() -> Dictionary:\n\treturn _params\n\n\nfunc _on_node_added(node:Node) -> void:\n\tif node == current_scene:\n\t\tcurrent_scene.tree_exited.connect(_on_scene_deleted)\n\n\nfunc _on_scene_deleted() -> void:\n        # if we uses default change_scene_to_* one think there is no arguments, so it should be automatically cleared\n\tif not _new_scene_with_params:\n\t\t_params = {}\n\telse:\n\t\t_new_scene_with_params = false\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-07-27T21:14:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10293,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add arguments to `get_tree().change_scene_to_*()`",
+  "up": 0,
+  "updatedAt": "2024-07-28T10:49:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10293"
+}

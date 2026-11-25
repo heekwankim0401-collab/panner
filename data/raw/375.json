@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because alignment already is, its just not very useful right now.",
+    "format": "legacy",
+    "workaround": "this feature would be used often and idk if it can be done with scripts.\nits kinda one of those things that should already be added since every other gui framework has it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T19:51:46Z",
+  "comments": 4,
+  "createdAt": "2020-01-11T21:31:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 375,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Button nodes should have both valign and halign properties for icons and text",
+  "up": 2,
+  "updatedAt": "2024-01-01T16:18:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/375"
+}

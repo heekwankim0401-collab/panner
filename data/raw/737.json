@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is part of GDScript which is core.",
+    "format": "legacy",
+    "workaround": "The workaround is to not specifiy types and thus lose type safety."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 53,
+  "createdAt": "2018-08-08T08:46:12Z",
+  "down": 5,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 737,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add union types to Typed GDScript",
+  "up": 418,
+  "updatedAt": "2026-09-29T12:58:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/737"
+}

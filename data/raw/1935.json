@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The changes themselves require changes to backend Editor systems (file caching, SceneDock tools, CreateDialog rendering) as well as each language implementation. Therefore, it cannot be accomplished with scripting alone.",
+    "format": "markdown",
+    "workaround": "There are many users who just prefer this structure and would use it for all of their scripts, especially because it more closely matches other popular tools (e.g. Unreal Blueprints). It simplifies the project structure and improves usability without sacrificing the ability to use third-party text editors or have dedicated files for script content.\n\nNo. While there are ways to create scene instances from a script automatically, none of them are satisfactory.\n\n1. Requires boilerplate code for every class with scene-binding. No inheritance or trait system would assist here as it would require parameterization of the information.\n1. Every workaround either replaces the script with a scene or creates a child that is an instance of the scene. The former means that you have a different script (and, in essence, you have a crap script that purely exists to connect a script with a scene which is an egregious code smell). The latter makes it so you have a different node hierarchy than intended (an intermediate node is inserted to handle the connecting of typename with scene).\n1. None of the workarounds easily or safely ensure that static typing with the scene type is *possible*.\n1. None of the workarounds address the issue of synchronizing divergent script/scene inheritance hierarchies.\n1. None of the workarounds address the issue of script instantiation without scene dependencies (i.e. it's still *possible* to create the script without the scene). This should be 100% prevented at the language implementation level."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 44,
+  "createdAt": "2020-12-03T16:57:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1935,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add scene binding for optional tight-coupling between Node-extending Scripts and PackedScene resources",
+  "up": 59,
+  "updatedAt": "2025-02-16T04:30:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1935"
+}

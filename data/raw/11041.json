@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "because it seems relatively easy",
+    "format": "form",
+    "workaround": "yes, but this is to reduce redundancy and improve usability."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-10-28T18:04:41Z",
+  "down": 3,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11041,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change behavior of `look_at()` and `look_at_from_position()`",
+  "up": 1,
+  "updatedAt": "2025-05-09T08:21:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11041"
+}

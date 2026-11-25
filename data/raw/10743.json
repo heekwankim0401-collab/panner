@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Its useful for texture variants",
+    "format": "form",
+    "workaround": "This may not be possible in a way that encapsulates the random chosen texture\nIf Texture2D can't be extended then it forces script end users to use something like ImageTexture which ultimately exposes a way to mutate the random chosen image.\n\nAlso users might want to ensure textures are the same size, which I have no idea on how to enforce."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-15T00:50:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10743,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "RandomTexture2D and RandomTexture3D",
+  "up": 0,
+  "updatedAt": "2024-09-16T11:01:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10743"
+}

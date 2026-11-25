@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Hiding and showing gizmos is core, and should stay core. It just needs an enhancement.",
+    "format": "form",
+    "workaround": "The only way to hide gizmos is to manually show and hide each displayed gizmo in the View > Gizmos menu in the 3D Viewport. This is tedious, particularly since each gizmo has to be toggled on and off with 3 clicks. And this has to be done each time I zoom in and out, which quickly kills all joy of working."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-10-21T19:48:56Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8220,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to hide 3D gizmos part of instanced scenes",
+  "up": 15,
+  "updatedAt": "2023-10-22T09:29:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8220"
+}

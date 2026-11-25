@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Very hard to do in an addon, needs to be core.",
+    "format": "form",
+    "workaround": "A workaround for a person extending the physics server would be to offer such a function to get active bodies and a function to get the body state(eg. transform, velocity, etc). and then have them update the nodes manually. This is tricky as right now there is no way to disable node updates from outside afaik.\n\nEg. in 2d to do:\n```cpp\nset_block_transform_notify(true);\nset_global_transform(p_state->get_transform());\nset_block_transform_notify(false);\n```\n\nBasically update the rigidbody or other such nodes properties without also propagating a physics update event. Another workaround woudl be to disable the physics server and put it in some mode for these updates, but all of this would be complicated for a workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2024-08-07T15:10:31Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10389,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve performance of Godot Physics Server 2D/3D active callback events",
+  "up": 11,
+  "updatedAt": "2025-11-02T18:52:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10389"
+}

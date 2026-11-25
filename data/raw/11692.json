@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Transforming patterns in this way is already a feature of the editor interface. It's confusing to have a feature be significantly less useful when accessed in code, and gives a bad impression of the engine overall, especially for the pattern system which already has its fair share of pain points.",
+    "format": "form",
+    "workaround": "I've been mapping out a system to iterate through the patterns at runtime and create new, transformed copies of them as needed. It will work, but it's going to be _way_ more than a few lines, and doing all of this in GDScript seems inefficient, especially since I'm targeting HTML.\n\nDiscussing this issue on the Discord, I immediately ran into another user who ran into the same issue. They ended up making a series of duplicate rotated/flipped patterns, then manually plugging the index of every single one into a series of arrays, which needs to be manually adjusted any time a pattern gets removed. This limitation causes a lot of headache for people trying to make use of the Pattern system, and it drives them to absurd workarounds if they don't have the programming skills to build a proper workaround, which doesn't make sense for an engine that prioritizes accessibility."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-02-03T04:42:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 11692,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose TileMapPattern flip/transpose functionality (as seen in the editor) to TileMapLayer.set_pattern()",
+  "up": 0,
+  "updatedAt": "2025-09-21T23:26:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11692"
+}

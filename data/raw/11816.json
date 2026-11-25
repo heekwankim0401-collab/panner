@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about renaming a Godot file extension to avoid ambiguity and conflicts with other programs.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-25T16:15:07Z",
+  "comments": 0,
+  "createdAt": "2025-02-21T00:56:56Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem",
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 11816,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change `.build` extension for engine build profiles to `.gdbuild`",
+  "up": 8,
+  "updatedAt": "2025-03-25T21:01:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11816"
+}

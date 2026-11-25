@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would increase the performance in a majority of in-game tasks, as the water update example.",
+    "format": "legacy",
+    "workaround": "I don't think so, as the current shader API's uniforms dont works with arrays and dont write then."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-28T15:13:47Z",
+  "comments": 11,
+  "createdAt": "2020-06-09T14:45:18Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 1027,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add compute shader for OpenGL and Vulkan renderer",
+  "up": 15,
+  "updatedAt": "2026-11-04T22:13:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1027"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Function overloading is a fundamental feature in many programming languages that support OO principles. Implementing it as a core feature would significantly improve GDScript's flexibility and expressiveness, benefiting a wide range of developers. It would also ensure consistent behavior and integration with the language's existing features, which is essential for maintaining a cohesive and robust development experience.",
+    "format": "form",
+    "workaround": "Currently, the workaround involves creating functions with different names or using optional parameters and type checks within the function body. However, these methods are not ideal as they can lead to more complex and harder-to-maintain code. Function overloading would provide a cleaner and more efficient solution."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-04T17:53:58Z",
+  "comments": 1,
+  "createdAt": "2024-07-04T17:46:40Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10116,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Enhancement Request: Support for Function Overloading in GDScript",
+  "up": 8,
+  "updatedAt": "2024-07-04T17:54:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10116"
+}

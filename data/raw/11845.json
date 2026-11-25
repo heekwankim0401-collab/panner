@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires changing how AnimationPlayer and its editor works.",
+    "format": "form",
+    "workaround": "You could do something similar by calling a method from your animation which would in turn call your  signal, but it would be more useful to be able to call your signal directly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-02-25T08:17:35Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 11845,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Signal track type to AnimationPlayer",
+  "up": 4,
+  "updatedAt": "2026-10-06T01:34:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11845"
+}

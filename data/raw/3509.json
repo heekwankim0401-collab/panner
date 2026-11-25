@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I actually did try to make [an add-on that did this](https://gitlab.com/Jayman2000/ini_reuse_commenter). It would look at its own config file and then based on the rules in that config file, it would add comments to files every time they were saved. There’s a couple of problems with the solution:\n\n1. Sometimes, Godot strips comments from INI-style files that you open, sometimes it doesn’t this meant that I had to try (and fail) to write code that would remove the comments for me.\n2. If someone copies a file into their project and they don’t have my add-on and an appropriate config file, then Godot will automatically get rid of the comments that my add-on added.",
+    "format": "form",
+    "workaround": "I’m not sure if this enhancement would be used often. I’ll definitely use it often, but I’m not sure if others would. That being said, I can think of a couple of workarounds, but none of them are a few lines of a script.\n\n#### REUSE\n##### `.license` files\n[REUSE](https://reuse.software/) allows you to include copyright and licensing information in `.license` files. For every INI-style file in my project, I could include a `.license` file. There’s a few problems with this idea:\n\n1. It would be a violation of [the REUSE Spec](https://reuse.software/spec/). The Spec says [“To implement this method, each plain text file that can contain comments MUST contain comments at the top of the file (comment header) that declare that file’s Copyright and Licensing Information.”](https://reuse.software/spec/#comment-headers)\n2. It would result in a lot of extra `.license` files in my project folder.\n3. They could easily get lost if files are copied from my project to somewhere else.\n4. I’m not a lawyer, but I’m skeptical about whether or not a `.license` file is sufficient for applying a license. An `SPDX-License-Identifier` in an adjacent file is a far cry from your typical license header. In fact, [the SPDX Spec recommends that you still include standard license headers in source files when using `SPDX-License-Identifiers`.](https://spdx.github.io/spdx-spec/using-SPDX-short-identifiers-in-source-files/#e1-introduction)\n\n##### DEP5 files\nREUSE  also allows you to include copyright and licensing information in a DEP5 file. This would have all of the same problems that I listed above, except for number 2.\n\n\n#### Include a file that says the copyright holder and license for each INI-style file\n\nThis seems like a lot of work, and it seems error prone. Also, there’s a reasonable chance that if one of my INI-style files gets copied, then that copying information won’t come with it.\n\n\n#### An add-on\n\nDefinitely not a few lines of code. See below."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-16T17:24:24Z",
+  "comments": 4,
+  "createdAt": "2021-11-06T03:00:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3509,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don’t delete comments from the tops of INI-style files ",
+  "up": 4,
+  "updatedAt": "2024-02-26T15:16:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3509"
+}

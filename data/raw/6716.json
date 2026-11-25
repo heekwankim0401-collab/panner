@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this is a pretty fundamental feature for using tilesets.",
+    "format": "form",
+    "workaround": "I don't think there's another way to get this data directly."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-25T12:51:22Z",
+  "comments": 3,
+  "createdAt": "2023-04-18T04:29:18Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "4.1",
+  "number": 6716,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to return the TileMap layer a given RID is on, as well as the X/Y coordinates",
+  "up": 1,
+  "updatedAt": "2023-04-25T12:52:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6716"
+}

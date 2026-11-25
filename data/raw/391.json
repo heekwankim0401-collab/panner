@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is part of gdscript syntax",
+    "format": "legacy",
+    "workaround": "The current “script” solution is to use the following expression to get the static class\nload(“res://path_to_script_file.gd”)\nWhich is a hacky way, creates a dependency on the scripts path and looks bad\nFurthermore, this is not documented and very hard for new users to find."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2020-01-18T21:33:07Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 391,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript: Add keyword to access the current class",
+  "up": 29,
+  "updatedAt": "2026-02-20T19:20:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/391"
+}

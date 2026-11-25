@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's such a small thing that people would just use the old method instead.",
+    "format": "form",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-09T17:58:54Z",
+  "comments": 5,
+  "createdAt": "2024-06-09T12:13:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9929,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a getter to `EditorInterface` to obtain the editor root node",
+  "up": 0,
+  "updatedAt": "2024-06-10T08:22:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9929"
+}

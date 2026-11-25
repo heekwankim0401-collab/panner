@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core functionality that can not be edited externally. It also is a common feature of other IDEs.",
+    "format": "form",
+    "workaround": "No, this is core functionality that can not be edited externally."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-26T13:22:27Z",
+  "comments": 1,
+  "createdAt": "2022-07-26T17:39:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 4989,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Push jumps to script editor history",
+  "up": 3,
+  "updatedAt": "2024-04-26T13:22:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4989"
+}

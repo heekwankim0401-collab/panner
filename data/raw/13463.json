@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There is a plugin that does this! https://github.com/Herbherth/GDScript-Quality-of-Life#auto-correct-indentation-when-pasting-blocks-of-code\n\nBut this is functionality is such good UX that is should absolutely be part of the script editor by default.",
+    "format": "form",
+    "workaround": "Not that I know if."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-26T14:29:35Z",
+  "comments": 2,
+  "createdAt": "2025-10-24T14:28:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13463,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Correct indentations inside pasted GDScript",
+  "up": 5,
+  "updatedAt": "2025-10-26T14:29:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13463"
+}

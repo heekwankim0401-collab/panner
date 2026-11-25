@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's regarding a core  godot type, (well technically 2 but TypedArray is an extension of Array)",
+    "format": "form",
+    "workaround": "it can't be worked around in a few lines. As it stands right now, you need to bind the setter and getter functions, then you need to add a property of Variant::ARRAY then set it's hint type to PROPERTY_HINT_ARRAY_TYPE then you need to set it's hint parameter to \n```c++\nvformat(\"%s/%s:%s\",/*variant type*/,/*hint type*/,/*hint parameter*/)\n```\n this took a ton of time for me to figure this out."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-08-14T06:47:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 12995,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "TypedArray in GDExtension when exposed as a property should use the type it has assigned",
+  "up": 0,
+  "updatedAt": "2025-08-20T15:08:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12995"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "can't",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-13T13:01:44Z",
+  "comments": 1,
+  "createdAt": "2022-07-13T12:22:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4866,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow setting custom unit-hints for exported variables",
+  "up": 1,
+  "updatedAt": "2022-07-13T13:09:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4866"
+}

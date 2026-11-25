@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as the lightmapper is part of the engine and its behavior can't be overridden from a script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-01-25T23:59:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3867,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to limit the maximum GPU usage ratio for lightmap baking",
+  "up": 13,
+  "updatedAt": "2024-04-26T01:45:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3867"
+}

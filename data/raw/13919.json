@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This may require modifications to the current rendering system.",
+    "format": "form",
+    "workaround": "I was able to workaround by passing the cloud depth texture as a global shader texture for transparent material to read and fade out when its vertex position is behind cloud depth. However, this would not work for scenes with subviewports and multiple cameras, as there is only shared depth texture used by many viewports from different angles.\n\nHowever this could be potentially be solved if this proposal is solved: https://github.com/godotengine/godot-proposals/issues/7916\nThe custom cloud depth texture could be passed as a custom opaque pass that is read by a transparent material."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-17T01:19:46Z",
+  "comments": 1,
+  "createdAt": "2025-12-26T10:54:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13919,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a custom depth buffer for control over transparency sorting",
+  "up": 5,
+  "updatedAt": "2026-07-17T08:09:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13919"
+}

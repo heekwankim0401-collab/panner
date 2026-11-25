@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the built-in inspector.",
+    "format": "form",
+    "workaround": "I actually have no idea if there is a way to code this, but the current engine implementation could be better."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-10-14T16:45:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10970,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to copy the actual property path in the inspector right-click menu",
+  "up": 8,
+  "updatedAt": "2025-09-17T17:50:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10970"
+}

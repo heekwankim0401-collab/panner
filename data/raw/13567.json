@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The  animation editor is a  core feature.",
+    "format": "form",
+    "workaround": "This is a core animation  editor QOL feature  so needing a plugin to do that wouldn't be convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-03T04:53:03Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13567,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to select all  keyframes from a specific frame in the animation editor",
+  "up": 5,
+  "updatedAt": "2025-11-03T22:08:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13567"
+}

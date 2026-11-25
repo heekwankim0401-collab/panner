@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This deals with the very fundamental way users use the Godot editor to move, scale, and rotate 2D objects. Since the same Blender-inspired approach works built-in in Godot's 3D editor, it wouldn't make sense to have this work in the 2D editor via a separate add-on.",
+    "format": "form",
+    "workaround": "This is a core usability and is expected to be used very often by the people that already use this approach https://github.com/godotengine/godot-proposals/issues/1215 in the 3D editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-09-19T09:42:56Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7742,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Blender-inspired transform tools in the 2D editor ",
+  "up": 21,
+  "updatedAt": "2024-11-04T16:45:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7742"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a shortcut key for the editor, should be the core.",
+    "format": "form",
+    "workaround": "It may not be used as frequently, i'm not sure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-01T13:52:39Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12534,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable `+/=` shortcut key for add button in the TileSet editor",
+  "up": 0,
+  "updatedAt": "2025-06-01T15:46:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12534"
+}

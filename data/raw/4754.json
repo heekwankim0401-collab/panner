@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Same as above.",
+    "format": "form",
+    "workaround": "Impossible. The rendering code in the engine has to provide this feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-17T08:12:53Z",
+  "comments": 12,
+  "createdAt": "2022-06-26T09:43:58Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4754,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add shader recycling to have zero cost runtime shader compilation",
+  "up": 35,
+  "updatedAt": "2024-05-18T18:40:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4754"
+}

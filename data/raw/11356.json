@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core problem to working with 3D assets right now.",
+    "format": "form",
+    "workaround": "Unfortunately, this can't be solved via a script to my knowledge."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2024-12-15T11:17:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 11356,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "glTF - Replace modified scene tree parts with placeholders on re-import",
+  "up": 32,
+  "updatedAt": "2025-04-21T21:15:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11356"
+}

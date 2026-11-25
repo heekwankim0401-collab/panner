@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving collecting system info for video games, apps and Godot itself (at least giving Godot the potential to copy&paste system data in github issues - which should be approached in a separate proposal).",
+    "format": "form",
+    "workaround": "Cannot be worked around with a few lines. Would require system calls which are OS-specific."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-16T11:19:47Z",
+  "comments": 4,
+  "createdAt": "2022-07-30T16:32:01Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 5022,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "class OS: Implement funcs for fetching distribution name and version",
+  "up": 0,
+  "updatedAt": "2022-09-16T11:19:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5022"
+}

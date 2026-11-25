@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Parsing of RichTextLabel happens in a private method... It could be made as an own thing, but that would, I guess, require to copy the whole RichTextLabel into an addon/module.",
+    "format": "form",
+    "workaround": "I'm not aware of a workaround other than to use many images."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-11T12:15:52Z",
+  "comments": 15,
+  "createdAt": "2021-10-17T07:58:56Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3441,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Spritesheet support to RichTextLabel BBCode",
+  "up": 1,
+  "updatedAt": "2022-10-11T12:15:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3441"
+}

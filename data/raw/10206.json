@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "`LightOccluder2D` doesn't have any usable API to create Addon.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-16T16:19:20Z",
+  "comments": 2,
+  "createdAt": "2024-07-14T05:51:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10206,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "LightOccluder2D: add `height` property",
+  "up": 0,
+  "updatedAt": "2026-02-16T16:23:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10206"
+}

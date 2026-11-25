@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This requires changes to the built-in autocomplete functionality.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-04-11T08:11:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2586,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make autocomplete convert dictionary dot-syntax into bracket-syntax for keys containing spaces",
+  "up": 4,
+  "updatedAt": "2021-04-11T11:16:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2586"
+}

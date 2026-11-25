@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core functionality.",
+    "format": "form",
+    "workaround": "This cannot be worked around, I tried and none of the solutions worked smoothly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-03-22T22:48:54Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12054,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to opt out of window rect restoration after fullscreen",
+  "up": 0,
+  "updatedAt": "2025-03-23T00:36:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12054"
+}

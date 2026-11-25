@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be the core.",
+    "format": "form",
+    "workaround": "It's often used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-01-12T13:23:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13996,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display custom class name for custom Resource in resource preview panel",
+  "up": 0,
+  "updatedAt": "2026-02-02T11:51:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13996"
+}

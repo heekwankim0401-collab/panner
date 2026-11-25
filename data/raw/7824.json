@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I doubt that Godot is quite that extensible - that an add-on can modify the context menu entries.",
+    "format": "form",
+    "workaround": "Not that I know of. A user would need to modify the source code of the engine and (re)compile it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-23T18:55:29Z",
+  "comments": 1,
+  "createdAt": "2023-09-23T17:52:41Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7824,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Editor Settings cannot be accessed without creating a project first.",
+  "up": 1,
+  "updatedAt": "2025-10-10T13:23:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7824"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-02-17T16:45:53Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 14259,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose AudioServer methods which allow playing sounds to GDScript",
+  "up": 10,
+  "updatedAt": "2026-03-22T18:40:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14259"
+}

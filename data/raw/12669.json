@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "While this could be implemented as a plugin, it should ideally be part of the core engine. Accessing external `.txt`, `.json`, or other non-media files is a common need for many Android apps and games.\n\nAdding SAF support directly in core would significantly improve Android file access, especially that use of MANAGE_EXTERNAL_STORAGE is discouraged by Google.",
+    "format": "form",
+    "workaround": "No, this can't be easily worked around. SAF requires platform-specific handling that are not accessible from GDScript alone without writing a custom Android plugin."
+  },
+  "assignees": 1,
+  "closedAt": "2025-12-02T13:28:39Z",
+  "comments": 2,
+  "createdAt": "2025-06-26T14:00:58Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:core",
+    "topic:platforms"
+  ],
+  "milestone": "4.6",
+  "number": 12669,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Android: Implement full Storage Access Framework (SAF) support",
+  "up": 11,
+  "updatedAt": "2025-12-02T13:29:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12669"
+}

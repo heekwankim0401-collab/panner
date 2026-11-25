@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes and no. Yes, it could be on asset library in case people want to use the old system. No because it becomes more available to users and when converting a project, it can just use the old system instead, so the user doesn't need to fix all the errors.",
+    "format": "form",
+    "workaround": "It can be recreated but the way the WindowDialog node works makes resizing, moving, and customizing the window much, much easier. Especially in my case"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-15T10:15:06Z",
+  "comments": 4,
+  "createdAt": "2023-02-15T04:52:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6290,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Old WindowDialog nodes in Godot 4",
+  "up": 0,
+  "updatedAt": "2023-02-15T15:33:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6290"
+}

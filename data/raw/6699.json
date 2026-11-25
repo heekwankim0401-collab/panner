@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is arguable whether Godot should have built-in voice chat compatibility, but WebRTC seems like one of Godot's primary networking features. In the docs - https://docs.godotengine.org/en/stable/tutorials/networking/webrtc.html - it even seems to imply that this is a feature that should be available cross-platform. If Godot has built-in support for WebRTC on HTML5, it should have it on every other platform as well, if possible.",
+    "format": "form",
+    "workaround": "It can be worked around by just installing the extension."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-04-15T01:24:31Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 6699,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Merge webrtc-native as the default WebRTC extension for desktop platforms",
+  "up": 1,
+  "updatedAt": "2023-12-18T21:43:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6699"
+}

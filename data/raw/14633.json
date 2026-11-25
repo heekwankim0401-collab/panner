@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-25T13:37:20Z",
+  "comments": 4,
+  "createdAt": "2026-04-10T09:56:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.8",
+  "number": 14633,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript LSP: Support [color] BBCode via HTML <span> for capable clients",
+  "up": 0,
+  "updatedAt": "2026-06-25T13:40:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14633"
+}

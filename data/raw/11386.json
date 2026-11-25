@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "its a very small QoL feature that makes no sense as an addon.",
+    "format": "form",
+    "workaround": "maybe an addon could do this, but it seems like it should be core."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-13T19:29:00Z",
+  "comments": 5,
+  "createdAt": "2024-12-19T15:31:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.4",
+  "number": 11386,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the node scene-unique if its name begins with `%` when renaming it in the Scene tree dock",
+  "up": 9,
+  "updatedAt": "2025-01-13T19:29:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11386"
+}

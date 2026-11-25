@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Every multiplayer game will eventually use the feature.",
+    "format": "form",
+    "workaround": "No, it requires some code to set up a synced timer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-01-15T03:05:57Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 6104,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a MultiplayerClock/Timer node that can sync time along peers in a network",
+  "up": 16,
+  "updatedAt": "2023-06-11T21:58:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6104"
+}

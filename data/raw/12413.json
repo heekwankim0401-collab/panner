@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This improves a core engine system.",
+    "format": "form",
+    "workaround": "I don't believe there is a way with Tool script to get/set the currently used Terrain/Tile for painting."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-07T21:26:49Z",
+  "comments": 2,
+  "createdAt": "2025-05-11T23:49:22Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 12413,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remember the last used terrain/tile when reselecting a TileMap node in the editor",
+  "up": 1,
+  "updatedAt": "2026-09-07T21:26:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12413"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "No, this would be a native editor feature"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-04-10T19:35:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9496,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show the code under the cursor in a popup when hovering over the CodeEdit minimap",
+  "up": 3,
+  "updatedAt": "2024-04-10T20:03:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9496"
+}

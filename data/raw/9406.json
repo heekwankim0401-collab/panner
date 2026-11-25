@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems like a very small addition to the current multiplayerSynchronizer functionality that allows for complete control of syncing logic.",
+    "format": "form",
+    "workaround": "Possibly by toggling the current visibility state but it's not clear if that would cause an immediate sync before it's toggled off again.\n\nWe could use an Rpc call to set the property and broadcast and handle the update from there but as we already have the property added to the multiplayerSynchronizer for the reason of syncing it across the network I think it should be possible from there."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2024-03-29T14:37:19Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 9406,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add manual property syncing to MultiplayerSynchronizer",
+  "up": 6,
+  "updatedAt": "2025-08-16T13:53:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9406"
+}

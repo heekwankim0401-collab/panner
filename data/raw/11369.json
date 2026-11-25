@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature should be core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-17T23:02:41Z",
+  "comments": 0,
+  "createdAt": "2024-12-17T10:59:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 11369,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add shader complexity preview in viewport and visual profiler",
+  "up": 2,
+  "updatedAt": "2024-12-17T23:34:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11369"
+}

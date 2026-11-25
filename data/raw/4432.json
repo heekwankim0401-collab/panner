@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`MultiplayerSpawner` is already part of core.",
+    "format": "form",
+    "workaround": "I don't think it can be fully worked around as it seems to be a race condition. When the delay is replaced with `await`-ing two `process_frame`s, the code only works sometimes."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-05T15:03:41Z",
+  "comments": 2,
+  "createdAt": "2022-04-23T17:14:01Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.0",
+  "number": 4432,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "`MultiplayerSpawner` - add/remove order should be preserved",
+  "up": 0,
+  "updatedAt": "2022-05-05T17:00:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4432"
+}

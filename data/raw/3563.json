@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't see why the engine that already detects shape intersection internally wouldn't be able to expose this functionality.",
+    "format": "form",
+    "workaround": "No, this is a prohibitively long solution due to all of the different types of shapes that can interact. A simplified, inefficient solution such as converting all shapes to a common format first (like PoolVector2Array of segments), then detecting intersections based on segments may be sufficient for many games where Shape2D::collide_and_get_intersections() is only used once on a contact frame, but even this simplified solution couldn't support Line2D without some sort of hack like just making the segment extremely long.\n\nA limited example:\n\n```\nstatic func convert_shape_to_segment_array(shape: Shape2D):\n\tvar segments = []\n\tif shape is ConcavePolygonShape2D:\n\t\tsegments = shape.segments\n\telif shape is ConvexPolygonShape2D:\n\t\tfor i in shape.points.size():\n\t\t\tif i == 0:\n\t\t\t\tsegments.push_back(shape.points[shape.points.size() - 1])\n\t\t\t\tsegments.push_back(shape.points[i])\n\t\t\telse:\n\t\t\t\tsegments.push_back(shape.points[i - 1])\n\t\t\t\tsegments.push_back(shape.points[i])\n\telif shape is RectangleShape2D:\n\t\tsegments = [\n\t\t\tVector2(-shape.extents.x, -shape.extents.y),\n\t\t\tVector2(shape.extents.x, -shape.extents.y),\n\t\t\tVector2(shape.extents.x, -shape.extents.y),\n\t\t\tVector2(shape.extents.x, shape.extents.y),\n\t\t\tVector2(shape.extents.x, shape.extents.y),\n\t\t\tVector2(-shape.extents.x, shape.extents.y),\n\t\t\tVector2(-shape.extents.x, shape.extents.y),\n\t\t\tVector2(-shape.extents.x, -shape.extents.y)\n\t\t]\n\telif shape is SegmentShape2D:\n\t\tsegments = [\n\t\t\tshape.a,\n\t\t\tshape.b\n\t\t]\n\treturn PoolVector2Array(segments)\n\nstatic func collide_and_get_intersections(shape1: Shape2D, shape1_transform: Transform2D, shape2: Shape2D, shape2_transform: Transform2D):\n\tvar intersections = []\n\tvar shape1_segments = shape1_transform.xform(convert_shape_to_segment_array(shape1))\n\tvar shape2_segments = shape2_transform.xform(convert_shape_to_segment_array(shape2))\n\tfor i in range(0, shape1_segments.size(), 2):\n\t\tvar segment1_from = shape1_segments[i]\n\t\tvar segment1_to = shape1_segments[i + 1]\n\n\t\tfor j in range(0, shape"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-11-17T17:37:21Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3563,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Shape2D::collide_and_get_intersections()`",
+  "up": 3,
+  "updatedAt": "2024-08-10T23:51:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3563"
+}

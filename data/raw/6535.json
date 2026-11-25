@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a nice small QoL improvement that should be part of the core 2d engine",
+    "format": "form",
+    "workaround": "N\\A \n\nReason: Too new to Godot to know better"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-03-19T12:29:04Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6535,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add an option to display frame index / number when importing frames to SpriteFrames",
+  "up": 1,
+  "updatedAt": "2023-03-30T11:38:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6535"
+}

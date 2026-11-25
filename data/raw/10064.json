@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think state machine needs more accessibility and ease of use for bigger state machines; this should help in this regard.",
+    "format": "form",
+    "workaround": "I'm not sure sometimes somethings in state machine can't be accessed from outside afair."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-29T21:45:14Z",
+  "comments": 6,
+  "createdAt": "2024-06-28T19:02:03Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10064,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a selection panel for AnimationTree state machine node transitions",
+  "up": 0,
+  "updatedAt": "2024-06-29T21:45:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10064"
+}

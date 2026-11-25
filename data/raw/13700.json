@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This functionality should be performant (and not scripted) and is essentially already functionality in the codebase.",
+    "format": "form",
+    "workaround": "Working around this seemingly requires utilizing Nodes and not creating physics bodies directly. When a great deal of code has been created down this path, it’s not easy to work around (unless there’s a way to get StaticBody2D to report collisions without enforcing a collision)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-11-25T08:14:58Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13700,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow physics bodies with shapes created in PhysicsServer2D to utilize Area2D for body entering/exiting monitoring",
+  "up": 1,
+  "updatedAt": "2025-11-25T10:35:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13700"
+}

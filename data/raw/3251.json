@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about editor filesystem dock usability.",
+    "format": "form",
+    "workaround": "Not really."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-13T20:22:10Z",
+  "comments": 4,
+  "createdAt": "2021-09-03T22:56:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.1",
+  "number": 3251,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Select the file after opening system file explorer",
+  "up": 6,
+  "updatedAt": "2024-08-13T20:22:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3251"
+}

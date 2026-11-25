@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I guess not, but I'd like it to be transparent to the end user (me) so it at least would seem that Godot supports GLSL preprocessor.",
+    "format": "legacy",
+    "workaround": "I don't know - I'm not a programmer and I have no experience in Godot. But I would like this to be transparent to me."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-27T11:06:57Z",
+  "comments": 1,
+  "createdAt": "2020-10-27T10:50:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 1736,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Shader interoperability - add GLSL preprocessor (or subset of such or some other GLSL compliant way to do conditional compiling)",
+  "up": 0,
+  "updatedAt": "2020-10-27T11:07:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1736"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems to be a core feature as it needs to interact with the underlying mechanisms of the net_socket.",
+    "format": "legacy",
+    "workaround": "My understanding is that this will be used often and it cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-13T10:49:43Z",
+  "comments": 2,
+  "createdAt": "2020-10-29T04:25:31Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 1744,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow local port control on net_socket connections",
+  "up": 0,
+  "updatedAt": "2021-07-13T10:49:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1744"
+}

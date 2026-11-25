@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feels like choosing the correct target platform for godotengine as I am not sure the `server` platform is a good fit.",
+    "format": "form",
+    "workaround": "Not sure as I am too new to godot engine at this time. When building godot engine, I need choose the right platform."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2023-02-27T09:46:00Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6364,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add display driver to support Linux DRM/KMS environment",
+  "up": 26,
+  "updatedAt": "2024-10-15T21:12:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6364"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It relates entirely to the engine's handling of the import suffixes, a plugin or addon would be possible and could be done as a tool etc, but again this feels like some Quality Of Life improvements that most anybody working in 3D would appreciate.",
+    "format": "form",
+    "workaround": "It could be worked around in an import script, which is my current plan to work on next, but these feel like universal headaches to anybody using the -colonly suffixes with the intention of parenting to their corresponding meshes. Since adding a static child is already the standard handling for -col suffixes, my suggestion only makes it the expectation consistent for the -colonly suffixes.\n\nFor those who don't want it reparented, simply don't name your -colonly objects the same as an object that already exists."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-23T21:07:46Z",
+  "comments": 1,
+  "createdAt": "2024-12-23T16:23:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 11414,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Match \"-colonly\" object names, and reparent StaticBodies to Matching MeshInstance parents",
+  "up": 0,
+  "updatedAt": "2025-01-02T19:30:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11414"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's related to the `@export` variables, and I don't think writing a plugin for it is possible.",
+    "format": "form",
+    "workaround": "Yeah, but it's kinda a pain in the ass, I can use only the _init() function for this. and I need to get the hint_text from the get_property_list() convert it to the proper type, and save it into a variable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-14T18:53:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8117,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose additional properties of `@export`",
+  "up": 2,
+  "updatedAt": "2023-10-15T13:11:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8117"
+}

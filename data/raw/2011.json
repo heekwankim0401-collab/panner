@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Godot's theming system is severally limited and devs don't seem to think so.",
+    "format": "markdown",
+    "workaround": "It would be used end of story and no"
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-28T00:29:15Z",
+  "comments": 8,
+  "createdAt": "2020-12-23T00:50:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.6",
+  "number": 2011,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow displaying a Control's focus stylebox only on keyboard/gamepad focus, not mouse focus",
+  "up": 6,
+  "updatedAt": "2025-12-15T17:14:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2011"
+}

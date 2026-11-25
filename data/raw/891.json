@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I wouldn't mind if this was possible actually.",
+    "format": "legacy",
+    "workaround": "Maaaybe it's possible with a light shader, but I never found any solution."
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-01T19:12:16Z",
+  "comments": 5,
+  "createdAt": "2020-05-25T17:27:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 891,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add clamped additive mode for 2D lights",
+  "up": 4,
+  "updatedAt": "2026-02-23T11:49:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/891"
+}

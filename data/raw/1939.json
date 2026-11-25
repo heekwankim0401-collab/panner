@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "its core",
+    "format": "markdown",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-14T14:31:32Z",
+  "comments": 45,
+  "createdAt": "2020-12-04T21:34:54Z",
+  "down": 3,
+  "labels": [
+    "breaks compat",
+    "topic:network"
+  ],
+  "milestone": "4.0",
+  "number": 1939,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Networking API changes for 4.0",
+  "up": 41,
+  "updatedAt": "2022-07-14T16:10:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1939"
+}

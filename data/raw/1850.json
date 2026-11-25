@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "UX improvement on a Core Feature.",
+    "format": "legacy",
+    "workaround": "Not really. It's something you'd have to keep in mind during your workflow, to first double check the function name before connecting, but I expect everyone will forget to do that sometimes."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-17T08:56:22Z",
+  "comments": 1,
+  "createdAt": "2020-11-17T08:21:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1850,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Autocomplete/Suggest Methods while connecting Signal",
+  "up": 0,
+  "updatedAt": "2020-11-17T08:56:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1850"
+}

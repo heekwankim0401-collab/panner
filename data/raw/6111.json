@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot prides itself on its ease of use. A feature like this makes life easier for developers with no added friction to the game development process.",
+    "format": "form",
+    "workaround": "The developer can fire off a bunch of print() statements in to figure out what's going on in the state machine and keep a close eye on the Output tab in the editor or create a UI in the game that outputs the current executing node to the in-game screen. Neither of these options are ideal or intuitive."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-01-17T02:16:20Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6111,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display currently executing AnimationTree path in debug mode",
+  "up": 19,
+  "updatedAt": "2025-07-14T18:02:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6111"
+}

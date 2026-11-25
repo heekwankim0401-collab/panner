@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I feel It's a pretty essential feature for any kind of skeletal animation.",
+    "format": "form",
+    "workaround": "As far as I'm aware, there isnt any kind of workaround for this. I've asked a friend more knowledgable on shaders and he came to the conclusion that there isn't a workaround for the outlines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-10-28T08:47:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11038,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make CanvasGroup render all children on the same layer, similar to the Unity SortingGroup",
+  "up": 6,
+  "updatedAt": "2024-10-28T12:38:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11038"
+}

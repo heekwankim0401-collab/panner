@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "For the same reasons why we have the particles material: some built-in options to make nice particle systems for people that don't want to write shaders.",
+    "format": "markdown",
+    "workaround": "It can be worked around by making a custom particle shader"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-22T17:07:09Z",
+  "comments": 0,
+  "createdAt": "2021-03-05T11:00:19Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2404,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to control individual components in scale over life (and other particle properties)",
+  "up": 9,
+  "updatedAt": "2021-08-22T17:07:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2404"
+}

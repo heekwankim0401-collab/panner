@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "**I'd suggest prototyping this with an add-on first**, so that you can get an idea for possible shortcomings that may come along with development.\n\nOnce this is done (and the add-on proves popular enough in real world usage), we can consider rewriting it in core for better performance and engine integration.",
+    "format": "form",
+    "workaround": "No, especially in 3D where `_draw()` can't be used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 37,
+  "createdAt": "2022-08-18T14:02:24Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5196,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add singletons for 2D and 3D debug drawing",
+  "up": 151,
+  "updatedAt": "2026-03-17T17:06:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5196"
+}

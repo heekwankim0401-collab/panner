@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe it's a good usability feature, that can't be implemented as an add-on.",
+    "format": "form",
+    "workaround": "Not that I'm aware of."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-23T21:26:47Z",
+  "comments": 2,
+  "createdAt": "2024-02-07T04:27:51Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9037,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Editor grid visibility should be allowed to be toggled per viewport",
+  "up": 0,
+  "updatedAt": "2024-02-23T21:26:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9037"
+}

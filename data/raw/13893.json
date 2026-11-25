@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This behavior is directly related to how `AtlasTexture` is rendered.",
+    "format": "form",
+    "workaround": "It can be partially worked around by rotating the node that displays the texture, but this introduces side effects on layout, offsets, and animation flow.\nFor projects that rely heavily on atlas-based animations, this workaround becomes repetitive and error-prone."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-26T02:37:46Z",
+  "comments": 4,
+  "createdAt": "2025-12-20T22:39:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13893,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for rotated regions in AtlasTexture",
+  "up": 0,
+  "updatedAt": "2026-01-26T22:36:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13893"
+}

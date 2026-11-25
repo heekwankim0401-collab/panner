@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core feature of the engine, I don't think it's even doable as an addon.\nThe language feature (macros) already exists, it only needs to be better used.",
+    "format": "form",
+    "workaround": "Yes, I could detect the platform via GDScript and assign 2 different shaders/materials, but the ideal would be to use `#if` to have all code on the same shader. The whole point of defines after all is simplifying compilation, e.g. with platform dependent compilation. So it only makes sense to have as many built-in defines as possible because you can't just assume they won't be useful. E.g. you never know when a feature won't be supported for an arbitrary reason on some specific Godot version or platform, so just separating by renderers is not enough."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-01-07T19:11:37Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 11511,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add built-in GDShader defines for Godot version and platforms (feature tags)",
+  "up": 2,
+  "updatedAt": "2025-01-08T01:49:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11511"
+}

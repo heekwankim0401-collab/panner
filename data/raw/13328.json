@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can be an addon, but UIDs are crucial part of the engine, so tools that make them easier to use should be built-in.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-10-03T11:01:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13328,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add UID archive in editor",
+  "up": 10,
+  "updatedAt": "2025-10-03T14:49:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13328"
+}

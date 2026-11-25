@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Mouse cursors are a core component of most non-touch UIs",
+    "format": "form",
+    "workaround": "The main workaround is to re-use an existing CursorShape that is not used in your project, but this is limited as described above. \n\nThe other alternative I can see is to use one CursorShape and just change the appearance and info of it by modifying the image and target point when you want to change the cursor, instead of changing CursorShape. This feels quite backwards and also means you can't make use of automated cursor change functionality like assigning what cursor a control should use, since you're then technically never changing cursor, just modifying the same one."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-06-14T10:31:23Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9958,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add/Allow custom CursorShapes to allow additional custom mouse cursors",
+  "up": 6,
+  "updatedAt": "2024-07-25T08:48:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9958"
+}

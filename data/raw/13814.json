@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be a Quality of Life feature that allows you to use abstract classes more conveniently.",
+    "format": "form",
+    "workaround": "I would not know"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-12-08T20:29:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13814,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow selecting abstract class from the \"Create New Node\" window, but create a new extended script by default",
+  "up": 9,
+  "updatedAt": "2026-01-13T04:32:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13814"
+}

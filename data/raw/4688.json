@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's already in the core library it's just a improvement.",
+    "format": "form",
+    "workaround": "it would be used for things like rotations"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-18T08:36:06Z",
+  "comments": 1,
+  "createdAt": "2022-06-18T04:48:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4688,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Please make gui for wrapping properties like rotation in godot 4.0's MultiplayerSyncernizer node",
+  "up": 0,
+  "updatedAt": "2022-06-18T08:36:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4688"
+}

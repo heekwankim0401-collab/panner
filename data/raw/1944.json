@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "C# support is still in its early stages, and this for consistency between GDScript and C#. It can probably be worked around with an editor plugin that registers a custom type, but that has been made obsolete by the superior `class_name` (at least that's what I think. Research has shown contradicting results about custom types in editor plugins being obsolete).",
+    "format": "markdown",
+    "workaround": "No, since it's not code related. However, it can be worked around by creating the base node and adding the script manually, which is tedious because you have to do the additional step of looking up the script in the file system and dragging it onto the new node."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-06T00:13:23Z",
+  "comments": 3,
+  "createdAt": "2020-12-05T21:30:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 1944,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make C# classes show up in the Create New Node dialogue",
+  "up": 0,
+  "updatedAt": "2024-07-25T01:34:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1944"
+}

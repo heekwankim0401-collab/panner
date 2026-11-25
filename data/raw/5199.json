@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "**Position2D** and **Position3D** are core classes.",
+    "format": "form",
+    "workaround": "It cannot. At least, not properly. One can just live with the current name, as is, and rename every **Position** node to to **Marker** on their own."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T06:52:14Z",
+  "comments": 7,
+  "createdAt": "2022-08-18T20:50:22Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:2d",
+    "topic:3d"
+  ],
+  "milestone": "4.0",
+  "number": 5199,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename Position* Nodes to Marker*",
+  "up": 11,
+  "updatedAt": "2022-08-24T06:52:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5199"
+}

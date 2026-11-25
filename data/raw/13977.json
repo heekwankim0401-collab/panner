@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a natural extension of the existing functionality and users that are familiar with bbcode would already expect this to be possible.",
+    "format": "form",
+    "workaround": "It can be worked around by using [RichTextLabel.add_image()](https://docs.godotengine.org/en/stable/classes/class_richtextlabel.html#class-richtextlabel-method-add-image) every time you add an image to a RichTextLabel, but that's not convenient for most cases."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-10T00:16:39Z",
+  "comments": 3,
+  "createdAt": "2026-01-08T16:37:08Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13977,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Let RichTextLabel's bbcode allow alt text for images when using [img] tag",
+  "up": 0,
+  "updatedAt": "2026-01-10T00:16:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13977"
+}

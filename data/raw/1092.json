@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it's very useful.",
+    "format": "legacy",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-26T22:56:01Z",
+  "comments": 6,
+  "createdAt": "2020-06-20T10:30:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1092,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the `or` operator between yields do something",
+  "up": 1,
+  "updatedAt": "2022-02-26T22:56:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1092"
+}

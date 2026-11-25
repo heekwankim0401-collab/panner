@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-20T14:44:34Z",
+  "comments": 5,
+  "createdAt": "2026-09-08T16:12:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.8",
+  "number": 15496,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Docs: Add a note that the return type of `Signal.connect()` can be treated as `Error`",
+  "up": 0,
+  "updatedAt": "2026-10-20T14:44:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15496"
+}

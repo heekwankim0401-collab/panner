@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a change to something that **is** core.",
+    "format": "form",
+    "workaround": "Dictionary is a core datatype, so it is used **very** often, and with changes to its inspector UX it could be used even more for resource/scene property serialization.\n\nAnother requested engine feature is [typed dictionaries](56). If this proposal gets implemented, then from the exported side they can **already** become typed! (*or without some extra work, at least lose the inconveniences of generic ones*)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-11-13T18:41:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 5775,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Streamline editing of Dictionaries in Inspector",
+  "up": 94,
+  "updatedAt": "2023-12-02T19:09:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5775"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "MOD music is a good way to do perfect looping and reduce the file size of music in your game. It would be really good to be able to just... Import it and see it working.",
+    "format": "form",
+    "workaround": "No. The thing is that even though someone managed to make a MOD-player in GDScript as an add-on in AssetLib, you can't make it play every MOD format in existence. You need a library for this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2024-06-30T00:30:25Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 10077,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add tracker music support using libopenmpt",
+  "up": 16,
+  "updatedAt": "2026-01-10T01:52:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10077"
+}

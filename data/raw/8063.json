@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I felt it would be easily to do.\nThat, and it could work well for users who’re making retraux PS1 games just the same.",
+    "format": "form",
+    "workaround": "I don’t think so. I’ve look and asked others."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-10T21:21:17Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8063,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a setting to use nearest-neighbor filtering for ReflectionProbes",
+  "up": 2,
+  "updatedAt": "2023-10-11T08:09:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8063"
+}

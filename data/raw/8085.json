@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is fixing the core feature",
+    "format": "form",
+    "workaround": "Nope"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-12T15:33:19Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.x",
+  "number": 8085,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "For blending non-numeric value/bezier tracks the weights should be store separate from the key values",
+  "up": 1,
+  "updatedAt": "2024-02-22T16:30:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8085"
+}

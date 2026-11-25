@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about an already existing core feature.",
+    "format": "form",
+    "workaround": "The purpose is to create sensible defaults automatically, to make Subparticles more user friendly and intuitive to use. Workarounds or writing extra code does not help for this goal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-11-10T22:07:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 5761,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically set the SubParticle Mode in the ParticleMaterial from \"Disabled\" to \"At End\" when a SubParticle is assigned",
+  "up": 4,
+  "updatedAt": "2025-12-09T15:30:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5761"
+}

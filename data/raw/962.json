@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it's about rendering.",
+    "format": "legacy",
+    "workaround": "No, it can't, it's about rendering."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-29T21:28:07Z",
+  "comments": 10,
+  "createdAt": "2020-05-29T17:07:51Z",
+  "down": 3,
+  "labels": [
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 962,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Drop support for non-WebGL 2 web browsers for 4.0",
+  "up": 18,
+  "updatedAt": "2022-09-18T21:10:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/962"
+}

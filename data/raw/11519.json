@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because if somebody wants to use the NavigationObstacle3D as a static obstacle, then they can feel free to not move it, but if objects are to be moved dynamically and have NPCs navigate around them, this feature seems obvious.\n\nIn addition, it is very odd that an object inheriting Node3D does not use the Transform3D. This is the only 3D node that does not inherit it's parent's transform, and it makes sense to have all 3D nodes behave predictably.",
+    "format": "form",
+    "workaround": "Most users will not use this feature as NavigationObstacle3Ds are typically static, but the workaround is not convenient.\n\nI have been able to manually apply rotation, and it works for rotation on the y-axis, but it quickly falls apart with rotation on any other axis, because then you are just applying a 3D transform to a 2D node. A more advanced algorithm would be bulky and excessive, and not ideal to run in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-01-08T19:30:16Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 11519,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow NavigationObstacle3D to inherit 3D rotation",
+  "up": 2,
+  "updatedAt": "2025-01-09T12:10:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11519"
+}

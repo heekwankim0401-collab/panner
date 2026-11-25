@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I know, this is not possible to achieve with an addon.",
+    "format": "form",
+    "workaround": "I may be able to get a reasonable result by representing my baked extrusion vectors as transforms upon the normal? That's what I'm going to try next. But this is janky and inconvenient, is likely to be affected by floating point error, and at least on my end my problem could be easily solved by having access to this transform that Godot already computes per-vertex, in order to transform vertex positions, normals, and tangents, and currently is just not exposing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-05-13T11:09:55Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9735,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `BONE_TRANSFORM` built-in to vertex shader",
+  "up": 20,
+  "updatedAt": "2025-09-15T09:17:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9735"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It deals with a very early part of the launch of the game binary, so it would increase the complexity to implement as an add-on.  Also, I think it will be broadly useful and of very low complexity to add to core.",
+    "format": "markdown",
+    "workaround": "This feature has an extremely low risk of unintended use or side-effects.  No additional code should ever be needed to avoid it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-02T17:03:47Z",
+  "comments": 6,
+  "createdAt": "2021-05-14T22:14:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2726,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `--gameversion` option which can emit a game-provided version number rather than the engine version",
+  "up": 1,
+  "updatedAt": "2024-03-11T15:42:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2726"
+}

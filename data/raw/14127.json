@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The confirmation dialog itself is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-16T11:12:05Z",
+  "comments": 6,
+  "createdAt": "2026-02-01T22:03:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 14127,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to turn off confirmation dialog when moving files in the FileSystem docker",
+  "up": 6,
+  "updatedAt": "2026-03-16T11:12:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14127"
+}

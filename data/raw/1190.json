@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I honestly think this should be in core because it could benefit not only projects similar to this, but other projects with a sizable Soundtrack to optimize their storage use without sacrificing quality.\nIt's certainly a handy tool to add to core, and a nod to audiophiles, too.",
+    "format": "legacy",
+    "workaround": "I don't know, it depends on the developer, I'd use it on every project.\nAnd yes, it could be solved with GDNative or Modules but I think there are merits to it being in core."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-21T01:12:33Z",
+  "comments": 36,
+  "createdAt": "2020-07-13T05:34:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1190,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for FLAC decoding",
+  "up": 23,
+  "updatedAt": "2026-09-07T12:38:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1190"
+}

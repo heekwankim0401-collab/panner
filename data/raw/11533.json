@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think it's possible to change the file system within godot.",
+    "format": "form",
+    "workaround": "A work around that I found is baking the whole model all at once. but this can be a painfull process, and quality is allways worse since most computers can barley handel baking a 16k texture just to get a very bad result."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-10T18:54:07Z",
+  "comments": 1,
+  "createdAt": "2025-01-10T17:01:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11533,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "A more powerful file management system.",
+  "up": 0,
+  "updatedAt": "2025-01-10T18:58:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11533"
+}

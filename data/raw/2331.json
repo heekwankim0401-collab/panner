@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Array is core",
+    "format": "markdown",
+    "workaround": "Yes, one can make a function to do that that would take 6 lines of GDScript code (func, 2 for loops, if, 2 returns)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-22T10:59:22Z",
+  "comments": 1,
+  "createdAt": "2021-02-22T09:36:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2331,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Shared Method to Arrays",
+  "up": 1,
+  "updatedAt": "2021-02-22T13:01:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2331"
+}

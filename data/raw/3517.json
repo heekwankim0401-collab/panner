@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The problem is in the Core.",
+    "format": "form",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-08T17:46:28Z",
+  "comments": 4,
+  "createdAt": "2021-11-08T17:24:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3517,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Avoid negative properties and method names.",
+  "up": 5,
+  "updatedAt": "2021-11-08T18:52:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3517"
+}

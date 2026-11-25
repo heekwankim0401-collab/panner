@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "Nope."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-06-20T21:18:58Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension",
+    "topic:gdscript",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12642,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend GDExtension compatibility system to GDScript (+ plugins)",
+  "up": 8,
+  "updatedAt": "2026-05-26T08:36:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12642"
+}

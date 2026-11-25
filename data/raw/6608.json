@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about editor usability.",
+    "format": "form",
+    "workaround": "No, this is a basic editor UI enhancement."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-02T16:30:16Z",
+  "comments": 2,
+  "createdAt": "2023-04-02T00:00:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6608,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make node-specific menus/buttons more obvious",
+  "up": 1,
+  "updatedAt": "2023-04-02T16:30:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6608"
+}

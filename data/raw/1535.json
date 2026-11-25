@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe that it is possible to write an addon (for example gdscript plugin) that can do everything that the current `Find in files` can do and even more, including the proposal feature.\n\nhowever, I believe that this is a matter of a couple of dozen lines for core feature versus hundreds of lines for an addon.\nThat is, creating an addon just for this feature would be like reinventing the wheel imo\nSo I am in favor of a \"native\" solution",
+    "format": "legacy",
+    "workaround": "very likely it can't"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-09-18T19:52:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1535,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "TextEditor: add option to Find in files outside the res folder",
+  "up": 0,
+  "updatedAt": "2020-09-18T20:00:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1535"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There shouldn't be secret behavior of functions used in gdscript.",
+    "format": "form",
+    "workaround": "Yes but it is so little programmer work to implement."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-19T11:56:46Z",
+  "comments": 1,
+  "createdAt": "2021-11-19T11:52:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3572,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "The secret behaviour of buttons ",
+  "up": 0,
+  "updatedAt": "2021-11-19T12:00:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3572"
+}

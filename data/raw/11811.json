@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Honestly this would be a cool addon, i dont think this is that important to add to core.",
+    "format": "form",
+    "workaround": "I was thinking of setting a system up with collision shapes and automatically detecting the location of each point, but that sounds really difficult and confusing."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-20T17:38:46Z",
+  "comments": 1,
+  "createdAt": "2025-02-20T09:58:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11811,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Camera2D Limit Gizmo",
+  "up": 0,
+  "updatedAt": "2025-02-20T17:38:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11811"
+}

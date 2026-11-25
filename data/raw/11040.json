@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is an addition of a core node (`Control`)",
+    "format": "form",
+    "workaround": "By hooking signals for each updated property. For example, `resized` but [that signal is bugged](https://github.com/godotengine/godot/issues/92849) so the implementation is quite a hack.\n\nIn my project's use-case, I had to split the write-to-disk logic in 2 parts, and bloat the code by awaiting for each card's signal long after every other operation is done on the card, then on that signal save to disk (twice because of the above bug)\n\nI dont care much about the aforementioned [double-resized-trigger bug](https://github.com/godotengine/godot/issues/92849), but I do care about the part I must split my code in half even when I do any arbitrary text appending. Or I would have to add a timer which I wish it was just 1 `process` tick like MRP\n[mrp.zip](https://github.com/user-attachments/files/17546312/mrp.zip)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-28T18:48:47Z",
+  "comments": 2,
+  "createdAt": "2024-10-28T17:03:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11040,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add new function to Control nodes: force_properties_update",
+  "up": 0,
+  "updatedAt": "2024-10-28T18:48:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11040"
+}

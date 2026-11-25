@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is expected UI behavior on most operating systems and its absence is noticeable (and annoying).",
+    "format": "legacy",
+    "workaround": "Possibly.  Here is the workaround I use in my current project:\n```gdscript\nfunc _on_Presets_pressed():\n\tvar popup = $Presets.get_popup()\n\tvar amt = max($Presets.selected * 16, -popup.rect_size.y + owner.rect_size.y)\n\tpopup.rect_position.y -= amt\n```\n\nThis makes an assumption on the height of a menu item (that they're all the same height) and isn't perfect but gets the job done for one of my use cases.  The specific list I use this code on is also always a constant size.  The offset isn't perfect and the position of the selected item is in a different position depending on its index, hinting that more work would need to be done for this code to work correctly in all instances."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-05-27T23:58:14Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 929,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "OptionButton's popup should offset when showing so the selection is visible",
+  "up": 0,
+  "updatedAt": "2020-05-28T07:59:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/929"
+}

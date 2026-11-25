@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since this ideally would happen in every project when creating new projects, it would be best to do in core. Of course, it can be worked around easily for each individual project, but some users will forget to do this.",
+    "format": "legacy",
+    "workaround": "This can be easily worked around by copying the appropriate files into your project."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-23T14:21:32Z",
+  "comments": 11,
+  "createdAt": "2020-11-12T03:48:05Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1813,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow creating `.gitignore` and `.gitattributes` files when creating a new project",
+  "up": 5,
+  "updatedAt": "2021-11-23T15:44:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1813"
+}

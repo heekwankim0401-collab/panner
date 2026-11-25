@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Spinbox and scroll container's don't seem to work to create this type of control.\nSince the whole thing is treated as one focus and most controls don't seem to automaticly accept focus from other controls it makes it hard to impliment.\n\nAlso spinbox already exists but while it might be able to modified to allow us to tell it where to place the previus and next buttons, it would need a whole new control for other forms of data like strings, scenes or colors.\n\nAlso I haven't tested it but I don't know if spinboxes have the ability to work without mouse either or specifying each focus nabour.",
+    "format": "form",
+    "workaround": "This would be used for a more traditional options menu.\nI have tried to recreate this control with what we have available but it's not so easy.\nThe whole thing acts like a glorifyed spinbox except it can contain more then just ints or floats."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-06T23:18:22Z",
+  "comments": 2,
+  "createdAt": "2023-12-06T22:12:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8599,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Horizontal spinbox/optionbox",
+  "up": 0,
+  "updatedAt": "2023-12-07T00:09:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8599"
+}

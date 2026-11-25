@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Add-ons work inside the editor, not before the project starts",
+    "format": "form",
+    "workaround": "yes\nI need to open my old project (or create a new one) folder with compatibility render, open the `project.godot` in Notepad, and copy the line:\n```ini\n[rendering]\n\nrenderer/rendering_method=\"gl_compatibility\"\nrenderer/rendering_method.mobile=\"gl_compatibility\"\n```\nAnd open my non-compatibility `project.godot` file, and replace the `[rendering]` section"
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-20T07:51:06Z",
+  "comments": 3,
+  "createdAt": "2025-04-25T07:49:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12314,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to open/edit a project with different render modes (e.g., forward+ to compatibility)",
+  "up": 2,
+  "updatedAt": "2026-03-19T17:04:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12314"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "float=64 is a core feature.",
+    "format": "form",
+    "workaround": "Emulating double support is not a small script change. It is massively invasive and changes function signatures."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 36,
+  "createdAt": "2022-10-18T12:23:15Z",
+  "down": 5,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5610,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Default float=64 to be on (double precision emulation)",
+  "up": 25,
+  "updatedAt": "2026-10-18T12:39:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5610"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Unavailable to addons",
+    "format": "form",
+    "workaround": "`EditorInterface.get_script_editor().get_current_editor().get_base_editor().syntax_highlighter` but it relies on some script being opened in the script editor. I thought about opening some dummy script but as far as I can tell there's no way to do it when using external editor. Even if it was possible it's way too hacky"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-20T08:06:09Z",
+  "comments": 0,
+  "createdAt": "2024-08-06T08:54:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "topic:plugin"
+  ],
+  "milestone": "4.4",
+  "number": 10374,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose GDScript syntax highlighter to editor plugins",
+  "up": 10,
+  "updatedAt": "2024-08-20T08:06:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10374"
+}

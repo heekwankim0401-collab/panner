@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core drawing function",
+    "format": "form",
+    "workaround": "Can use Line2D instead of _draw()"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-27T20:08:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12512,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "draw_line and draw_polyline: specify begin cap and end cap mode",
+  "up": 2,
+  "updatedAt": "2025-05-27T21:11:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12512"
+}

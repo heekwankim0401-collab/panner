@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I feel it is a fairly simple issue that causes some machines to be able to not open projects as a whole, killing work flow. Adding this would be a fix and help with older machines or people who did not know a renderer was not supported on their machine.",
+    "format": "form",
+    "workaround": "One solution I found was to copy a projects files and then create a new project with the right renderer and paste the other project's files into that one. This however is annoying and does not save project settings, singletons, and input actions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-01-11T19:50:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6084,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for the switching of renderers in the project list",
+  "up": 1,
+  "updatedAt": "2023-01-12T00:46:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6084"
+}

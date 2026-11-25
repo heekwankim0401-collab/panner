@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`Array` is a `Variant`",
+    "format": "form",
+    "workaround": "Yes, but it's tedious"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-19T07:47:36Z",
+  "comments": 1,
+  "createdAt": "2023-05-19T07:46:02Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6912,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to initialize array with same values",
+  "up": 0,
+  "updatedAt": "2023-05-22T02:34:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6912"
+}

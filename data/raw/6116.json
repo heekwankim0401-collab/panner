@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It is an error of the existing plugin system.",
+    "format": "form",
+    "workaround": "This can only be worked around with hard-coded control schemes, or custom editor settings panels."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-26T18:33:33Z",
+  "comments": 4,
+  "createdAt": "2023-01-18T10:08:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:input",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 6116,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement the ability to add plugin related actions/events to the InputMap",
+  "up": 0,
+  "updatedAt": "2023-07-26T18:33:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6116"
+}

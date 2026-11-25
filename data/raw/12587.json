@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Annotations can't be added via addons, nor can the behavior of the GDScript compiler/interpreter/language server/etc be modified.",
+    "format": "form",
+    "workaround": "It can be worked around with more scripting:\n```gdscript\nclass_name Shaker\nextends Node\n\nfunc shake():\n    if get_parent() is Node2D:\n        var parent: Node2D = get_parent()\n        for i in 10:\n            parent.position.x += randf_range(-3, 3)\n            parent.position.y += randf_range(-3, 3)\n            await get_tree().process_frame\n    elif get_parent() is Control:\n        var parent: Control = get_parent()\n        for i in 10:\n            parent.position.x += randf_range(-3, 3)\n            parent.position.y += randf_range(-3, 3)\n            await get_tree().process_frame\n```\nHowever, as you can see this requires a lot of code duplication. Furthermore, the IDE code completion and documentation suggestions will not reflect how this node is meant to be used - `get_parent()` would show up as returning `Node`, even though for all practical purposes, the user wants it to only specifically return `Node2D` and/or `Control` since the central purpose of this node is to act on properties specific to those subclasses."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-06-11T17:48:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12587,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@child_of` class annotation to enforce a node having a particular parent type",
+  "up": 1,
+  "updatedAt": "2025-06-12T11:35:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12587"
+}

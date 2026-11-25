@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the editor UI",
+    "format": "form",
+    "workaround": "The close editor dialog is one of many, I think in general it would improve the overall UX to have consistent spacing on all dialogs, probably would be good to improve the close editor dialog to show unsaved changes or similar but that sounds like a different proposal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-09-09T17:10:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.x",
+  "number": 3271,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve confirmation dialogs' presentation",
+  "up": 3,
+  "updatedAt": "2023-02-24T06:10:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3271"
+}

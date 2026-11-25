@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The StyleBox system is tied up to the core and not easily extendable using a plug-in. StyleBox-derived class type checks are hardcoded in multiple places, for instance.\nThe proposed additions keep in mind that we do not want to bloat the engine. I have tested on StyleBoxFlat that we can have some nice improvements without impacting performance.\n\nIn addition, theme creators would benefit from the additions and those would be usable directly inside the editor!",
+    "format": "form",
+    "workaround": "Creating graphics for the purpose and importing them as 9-patch can be a solution. Another possibility is to code specific controls for the purpose by layering the necessary nodes. But it lacks reusability and requires a round-trip to the graphics software just to try out different color schemes.\n\nHooking into the StyleBox system offers the new design possibilities to all Control nodes that use style boxes for their elements. This includes the highlight frame for the currently selected list item, for example."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-05-04T22:09:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6812,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "StyleBox improvements to enlarge creative possiblities",
+  "up": 27,
+  "updatedAt": "2023-05-18T20:25:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6812"
+}

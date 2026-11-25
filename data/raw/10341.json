@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "gdscript modifcation",
+    "format": "form",
+    "workaround": "```gdscript\nvar foo:int = (func init(): _set_foo(3); return 3).call():\n  set = _set_foo\n\nvar bar:Array = (func init():\n    var _bar := []\n    _bar.resize(100)\n    _bar[-1] = 9\n    return _bar\n    ).call()\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-02T02:54:20Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10341,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add init alongside set/get for script variables",
+  "up": 2,
+  "updatedAt": "2024-08-02T14:27:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10341"
+}

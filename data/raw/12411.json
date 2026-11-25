@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because the code editor is already a core engine feature.",
+    "format": "form",
+    "workaround": "No. Since idle parsing is a core engine feature, this needs a modification of the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-05-11T13:32:03Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12411,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to disable script error checking on idle",
+  "up": 7,
+  "updatedAt": "2025-05-12T18:51:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12411"
+}

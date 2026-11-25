@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The change needs to be done to an existing editor plugin",
+    "format": "form",
+    "workaround": "No script needed. The workaround is to toggle \"Editable Children\" in the instanced child scene.\nWhile the workaround is simple enough, it might require several nested \"Editable Children\" to be toggled in a more complex setup (i.e. a level scene that contains a \"player start area scene\" that contains a \"player scene\" that contains a \"camera rig\" that contains a Camera3D node)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-05-10T10:02:43Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6852,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow previewing Camera3D from instanced child scenes",
+  "up": 7,
+  "updatedAt": "2024-03-14T08:16:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6852"
+}

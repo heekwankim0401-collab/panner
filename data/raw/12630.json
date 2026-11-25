@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This modification must be done inside the Engine",
+    "format": "form",
+    "workaround": "No, it would require changing and compiling the GodotEngine."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-18T19:40:20Z",
+  "comments": 9,
+  "createdAt": "2025-06-18T17:53:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12630,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Android: Choose between surfaceView and TextureView",
+  "up": 0,
+  "updatedAt": "2025-08-03T17:09:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12630"
+}

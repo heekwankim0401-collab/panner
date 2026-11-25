@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an extension to the core vector classes.",
+    "format": "form",
+    "workaround": "It can be, but it's a very minor change that seems reasonable to implement for API consistency."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-02T06:53:36Z",
+  "comments": 6,
+  "createdAt": "2022-01-03T19:58:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3746,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `is_zero_approx` method to `Vector2` and `Vector3`",
+  "up": 6,
+  "updatedAt": "2022-09-02T06:53:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3746"
+}

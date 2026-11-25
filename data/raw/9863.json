@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it's an editor enhancement that is a net positive for everyone. There is no reason for it to not be in the core engine.",
+    "format": "form",
+    "workaround": "I'm not sure how this applies to this since it's an editor change. \nThis would not affect most people who are used to the current behavior, as there is currently no reason to collapse the root of the Scene Tree, and the \"Open new Scenes collapsed\" option could be off by default."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-06-01T11:13:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9863,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change the behavior of collapsing root nodes to make navigating a long Scene Tree easier",
+  "up": 0,
+  "updatedAt": "2024-06-01T11:16:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9863"
+}

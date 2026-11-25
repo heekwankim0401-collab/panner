@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems an important core feature that should be enabled by default since it would be useful to any C# project that is using signals.",
+    "format": "form",
+    "workaround": "Code analysers can be disabled [easily](https://learn.microsoft.com/en-us/visualstudio/code-quality/in-source-suppression-overview?view=vs-2022&tabs=csharp) with a SuppressMessageAttribute or with more broadly with EditorConfig files but I'm not sure why somebody would want to suppress this particular one"
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-16T15:12:05Z",
+  "comments": 3,
+  "createdAt": "2023-09-27T14:34:47Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.4",
+  "number": 7891,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add compile-time checks for arguments when emitting signals (C#)",
+  "up": 6,
+  "updatedAt": "2026-05-16T15:12:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7891"
+}

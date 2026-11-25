@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not possible in an asset library I think (too much work/constraint for this feature at least)",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-26T20:34:17Z",
+  "comments": 1,
+  "createdAt": "2024-03-26T19:08:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9386,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to set item label in an exported array",
+  "up": 0,
+  "updatedAt": "2024-03-26T23:10:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9386"
+}

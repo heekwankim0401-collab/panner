@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Core Godot Inspector/FileSystem behaviour",
+    "format": "form",
+    "workaround": "It will be used a lot. Technically it can be worked around, but giving everything a script with a hardcoded preload reference to the Resource that it needs to set on _ready(), just to avoid having to drag it, seems like to wrong way to handle this :D"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-27T22:04:17Z",
+  "comments": 1,
+  "createdAt": "2023-07-27T15:49:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7394,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Inspector Property Headers to be opened while dragging a Resource",
+  "up": 1,
+  "updatedAt": "2023-07-27T22:04:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7394"
+}

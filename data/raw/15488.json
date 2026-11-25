@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-09-06T19:35:17Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15488,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `fallback` capability to `ProjectSettings.get_setting_with_override()` (or function that supports fallbacks)",
+  "up": 4,
+  "updatedAt": "2026-09-07T16:36:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15488"
+}

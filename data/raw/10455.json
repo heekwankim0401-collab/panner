@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not sure. I am not familiar with the capabilities of addons.",
+    "format": "form",
+    "workaround": "I would have to manually move the window to another workspace. Or I have to manually write game title of each project into my i3wm config file.\n\nNow:\n\n```\nassign [class=\"Godot\"] 5\nassign [class=\"Godot_Engine\"] 5\n```\n\nPossibly later:\n\n```\nassign [class=\"My Godot Game 1\"] 6\nassign [class=\"My Godot Game 2\"] 6\nassign [class=\"My Godot Game 3\"] 6\nassign [class=\"My Godot Game 4\"] 6\nassign [class=\"My Godot Game 5\"] 6\nassign [class=\"My Godot Game 6\"] 6\nassign [class=\"My Godot Game 7\"] 6\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-16T11:22:58Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10455,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Godot_Debug\" to WM_CLASS list when running game from editor (F5/F6) for better interoperability with window managers",
+  "up": 0,
+  "updatedAt": "2024-08-17T20:47:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10455"
+}

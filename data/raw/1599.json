@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is core editor.",
+    "format": "legacy",
+    "workaround": "No, this is core editor."
+  },
+  "assignees": 1,
+  "closedAt": "2021-02-22T20:13:01Z",
+  "comments": 18,
+  "createdAt": "2020-10-02T15:11:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 1599,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Preview Sun and Preview Sky options to 3D editor",
+  "up": 33,
+  "updatedAt": "2022-09-10T20:27:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1599"
+}

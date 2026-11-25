@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "This is about improving the mobile development experience with Godot. This would also benefit the [official demo projects](https://github.com/godotengine/godot-demo-projects) which would gain better support for touch controls, without having to import several copies of an add-on into the repository.",
+    "format": "form",
+    "workaround": "A large portion of mobile games need a virtual joystick or two, which can't be implemented with a few lines of script (especially if good usability is desired)."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-29T18:16:22Z",
+  "comments": 4,
+  "createdAt": "2024-11-19T17:00:00Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:gui",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": "4.7",
+  "number": 11192,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a virtual joystick node to complement TouchScreenButton",
+  "up": 9,
+  "updatedAt": "2026-01-29T18:16:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11192"
+}

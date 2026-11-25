@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Not possible",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-01-06T02:26:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8811,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an EditorScenePostImportPlugin method to set an existing option's value",
+  "up": 3,
+  "updatedAt": "2025-08-26T06:31:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8811"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Both are in Core, and the needed stuff to implement as an addon isn't exposed.",
+    "format": "form",
+    "workaround": "No (Occlusion Culling is not exposed to the user)"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-01T09:22:28Z",
+  "comments": 5,
+  "createdAt": "2022-04-23T06:43:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4430,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Option to not render Directional Shadows for Occlusion Culled meshes",
+  "up": 2,
+  "updatedAt": "2023-09-01T09:30:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4430"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core feature.",
+    "format": "form",
+    "workaround": "Yes, the current solution is to type cast a Vector type from one to another, for example:\n\n>var a : Vector2i = Vector2i(1, 1)\n\n> var b : Vector2 = Vector2(1, 1) * Vector2(a)\n\n> var c : Vector2 = Vector2(1, 1) * Vector2(Vector2i(1 ,1))\n\nBut I feel this \"dirties\" the code base, after all you wouldn't cast a integer every time you want to multiply it with an floating point."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-28T22:20:56Z",
+  "comments": 3,
+  "createdAt": "2022-11-20T07:35:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5818,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow for math operations between floating point and integer coordinate Vectors",
+  "up": 17,
+  "updatedAt": "2023-08-28T22:21:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5818"
+}

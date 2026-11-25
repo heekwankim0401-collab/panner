@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This proposal is about features that can be added without changing the core functioning of Godot engine.\nHowever, I don't think this can be implemented as an add-on.\nAlso, I think that these features could greatly improve the workflows of game devs.\n\n\n## PS:\nSorry if I'm not going into details for now. I may comment further details later, just tell me if you're interested. Also -i know it'll sound cheesy but- please contact me if you're interested in what I presented and if you can help me understand the godot repo's infrastructure and implement those features.\nThank you if you read my mess and tolerated my poor english btw !",
+    "format": "legacy",
+    "workaround": "It will not be easy to implement, but at least I hope it can be implemented without breaking anything."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-22T22:16:04Z",
+  "comments": 11,
+  "createdAt": "2020-05-03T01:23:24Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 791,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[SCENE TAB] Scene-Tree Meta Elements",
+  "up": 9,
+  "updatedAt": "2024-03-26T23:12:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/791"
+}

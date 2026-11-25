@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This kind of functionality isn't made for the asset library.",
+    "format": "form",
+    "workaround": "This PR is in part essentially the command line equivalent of using the project manager to create a project."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-03-15T21:42:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9306,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add scaffolding functionality to the Godot binary",
+  "up": 2,
+  "updatedAt": "2024-11-14T12:32:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9306"
+}

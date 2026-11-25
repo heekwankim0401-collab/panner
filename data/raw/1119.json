@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't believe this is a feature that can be implemented through an add-on.",
+    "format": "legacy",
+    "workaround": "Not really. It can be, for the most part, worked around, except for things like Light2D (due to no normals buffer)."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-28T18:28:54Z",
+  "comments": 4,
+  "createdAt": "2020-06-25T20:20:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1119,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support for 3D meshes for depth testing purposes in 2D engine",
+  "up": 0,
+  "updatedAt": "2022-04-09T21:22:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1119"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This behavior seems much more intuitive to what people use the \"Reparent to New Node\" feature for than creating a seemingly unrelated node. And as stated before, each time someone would run into this issue, it would probably only cost about a minute or two to solve, but level designers would run into this situation quite a few times throughout the creation of a game.",
+    "format": "form",
+    "workaround": "This can be worked around with a plugin, but the time lost trying to fix it each time is so small that I don't believe most users would go out of their way to find a plugin to solve this."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-14T13:08:32Z",
+  "comments": 0,
+  "createdAt": "2023-11-16T23:10:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 8449,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "New node created from \"Reparent to New Node\" positioned relative to the child nodes, not the origin",
+  "up": 0,
+  "updatedAt": "2024-02-14T13:16:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8449"
+}

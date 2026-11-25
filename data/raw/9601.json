@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "this is a required element then using FBX files",
+    "format": "form",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-26T15:52:40Z",
+  "comments": 1,
+  "createdAt": "2024-04-26T04:29:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9601,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "when importing an FBX file, the normalmap value is 0",
+  "up": 0,
+  "updatedAt": "2024-04-26T22:30:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9601"
+}

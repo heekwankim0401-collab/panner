@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "VoxelGI is core.",
+    "format": "form",
+    "workaround": "I don't think there's a workaround possible at all especially with move towards threads with groups and such."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-07T08:18:08Z",
+  "comments": 4,
+  "createdAt": "2023-08-06T10:39:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7458,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `bake_finished` signal to VoxelGI.",
+  "up": 0,
+  "updatedAt": "2025-10-20T23:15:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7458"
+}

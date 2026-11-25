@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Label has it but button's doesn't\nmost controls can be made out of the 5 basic controls of..\n- hbox\n- vbox\n- panel container\n- label\n- button\n\nbut button doesn't have support for shadows and coding separate label's per button state is kinda hard right now.",
+    "format": "form",
+    "workaround": "It would be used in very low resolution pixel art games"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-15T16:23:52Z",
+  "comments": 3,
+  "createdAt": "2024-05-15T01:03:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9745,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Temperary shadow settings for button just until 5.0?",
+  "up": 0,
+  "updatedAt": "2024-05-16T01:38:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9745"
+}

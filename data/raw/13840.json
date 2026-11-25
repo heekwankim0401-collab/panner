@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature should be part of the Godot core rather than an add-on because it relies on engine-level timing APIs (Time.get_ticks_msec() and Time.get_ticks_usec()) for accurate measurement.\n\nA script-based add-on cannot provide the same level of precision reliably across all platforms, especially on mobile and low-end devices where frame rate can vary.\n\nIntegrating the HighPrecisionTimer node into the core ensures:\n\nAccurate, frame-independent timing for all projects\n\nConsistency and reliability across devices and platforms\n\nDevelopers do not have to reimplement the same functionality in scripts\n\nStandardized API for a common need in games (reaction tests, rhythm games, benchmarking, physics, etc.)\n\n\nBecause of these reasons, this feature is best implemented as a core engine node, not as a plugin.",
+    "format": "form",
+    "workaround": "It is possible to work around this limitation using a few lines of GDScript, for example:\n\nvar start_time := Time.get_ticks_msec()\n\n# later\nvar elapsed := Time.get_ticks_msec() - start_time\nprint(\"Elapsed time: \", elapsed, \" ms\")\n\nOr using Time.get_ticks_usec() for microsecond precision.\n\nHowever, this approach has several limitations:\n\nEvery developer must reimplement the same logic in their projects\n\nIt cannot be easily reused as a node\n\nIt does not provide a built-in signal for ticks\n\nDevelopers may make mistakes or inconsistencies across projects\n\n\nBy providing a dedicated HighPrecisionTimer node, the functionality becomes standardized, reusable, and easy to integrate across all Godot projects. This reduces repetitive scripting and ensures consistency."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-01T16:08:01Z",
+  "comments": 5,
+  "createdAt": "2025-12-11T18:46:47Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13840,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a HighPrecisionTimer node for accurate millisecond/microsecond timing",
+  "up": 0,
+  "updatedAt": "2026-02-01T16:08:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13840"
+}

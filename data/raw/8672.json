@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires integration into the rendering pipeline.",
+    "format": "form",
+    "workaround": "No, this requires integration with Vulkan."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-17T00:58:27Z",
+  "comments": 1,
+  "createdAt": "2023-12-17T00:31:03Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8672,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Need a way to create a mesh from a GLSL buffer object",
+  "up": 0,
+  "updatedAt": "2023-12-17T00:58:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8672"
+}

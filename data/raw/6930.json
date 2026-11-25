@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Again, this was already core before.",
+    "format": "form",
+    "workaround": "This feature was useful for any game that implemented the option for the player to change which inputs to use in a joypad. And while it _could_ be workaround, it's the sort of thing that makes your life a lot easier if it's already implemented and already tied up which the corresponding indexes in the enum."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-05-22T12:24:56Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 6930,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Bring back `get_joy_axis/button_string()` methods to `Input`",
+  "up": 8,
+  "updatedAt": "2025-01-06T15:17:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6930"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "as its a core part of the editor, and it will probably have more uses than just this probably better baked into the editor?",
+    "format": "markdown",
+    "workaround": "you can manually look at the position and input each component of a vec3 - but this is more time consuming and error prone"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-19T13:27:45Z",
+  "comments": 3,
+  "createdAt": "2021-02-19T02:22:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2314,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable pasting of Vec3 (or other values) into exported vars",
+  "up": 1,
+  "updatedAt": "2021-02-19T13:36:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2314"
+}

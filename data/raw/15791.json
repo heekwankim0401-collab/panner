@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-11-22T15:12:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 15791,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Option for the GDScript debugger to break also on C++ errors within a script call",
+  "up": 4,
+  "updatedAt": "2026-11-23T12:21:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15791"
+}

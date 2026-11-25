@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This affects core engine functionality, I am not sure if it would be possible to achieve this with an add-on.",
+    "format": "form",
+    "workaround": "It can at times be worked around by changing intermediary nodes to inherit from Node3D, but this is only possible if they are a base Node."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-02-18T10:58:02Z",
+  "down": 6,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 9122,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Propagate transform changes from Node3D through to all children, even non-Node3D nodes",
+  "up": 0,
+  "updatedAt": "2025-08-15T08:30:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9122"
+}

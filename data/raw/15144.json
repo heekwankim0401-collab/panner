@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-24T14:25:36Z",
+  "comments": 8,
+  "createdAt": "2026-07-07T15:20:47Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gdscript"
+  ],
+  "milestone": "4.8",
+  "number": 15144,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript: Forbid scripts from inheriting their own inner classes",
+  "up": 9,
+  "updatedAt": "2026-07-24T14:28:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15144"
+}

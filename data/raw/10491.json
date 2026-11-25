@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This enhancement should be integrated into the core engine because checkboxes are a fundamental UI element used in various projects. Having a consistent and reliable visual representation of checkboxes is crucial for user interfaces, and this feature would benefit a wide range of developers who rely on asset store resources or require a similar visual effect. Making this a core feature would streamline development and improve the overall usability of the Godot Engine.",
+    "format": "form",
+    "workaround": "A workaround could involve manually drawing both the \"off\" and \"on\" icons using custom drawing logic in the checkbox control, but this approach would be cumbersome for users who are not comfortable with scripting. Additionally, it would require redundant code across multiple checkboxes, making the process inefficient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-19T03:20:44Z",
+  "down": 2,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10491,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Consistent Display of Checkbox Outer Box for Both Checked and Unchecked States",
+  "up": 3,
+  "updatedAt": "2024-08-19T08:54:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10491"
+}

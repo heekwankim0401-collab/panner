@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this functionality can be added using an Addon.",
+    "format": "markdown",
+    "workaround": "No, because if any change to the project while in the middle or later stages of development will\nrequire lots of script editing and going bug hunting which can waste lots of time."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-03T06:49:18Z",
+  "comments": 29,
+  "createdAt": "2021-06-02T10:11:18Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2812,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to register nodes globally with a unique identifier",
+  "up": 5,
+  "updatedAt": "2025-12-24T10:22:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2812"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-22T19:09:53Z",
+  "comments": 1,
+  "createdAt": "2026-08-25T00:20:32Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.8",
+  "number": 15430,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove unnecessary managed allocations of CastMotion function and allow it to populate a reusable result object",
+  "up": 0,
+  "updatedAt": "2026-09-22T19:09:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15430"
+}

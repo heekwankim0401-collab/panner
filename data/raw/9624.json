@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "You'd have to copy the whole shaders inherited."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-28T22:00:00Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9624,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement `#overlay \"path\"`",
+  "up": 0,
+  "updatedAt": "2024-04-29T15:05:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9624"
+}

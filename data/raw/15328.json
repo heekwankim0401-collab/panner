@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-08-05T16:28:12Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15328,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a debug draw mode to display specular lighting only (reflections)",
+  "up": 4,
+  "updatedAt": "2026-08-06T08:26:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15328"
+}

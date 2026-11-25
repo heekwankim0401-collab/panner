@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "If this conversion was done in the engine the same code for both shaders and scripts could be used for all renderers and getting the game to work in the Compatibility renderer would be much less of a hassle.",
+    "format": "form",
+    "workaround": "It can be worked around, but it requires a lot of work. Basically you need to set up a separate \"Compatibility\"-version of each shader where the instance uniforms are replaced with regular uniforms. And for each object you then need to detect if the game is in compatibility mode and then assign the correct shader, make sure it's instanced for each object and use the correct shader uniform type get/set methods. \n\nThis is also extra tricky since there's no direct exposed as far as I know of detecting if the game is running in compatibility mode or if the current renderer supports instance uniforms (see https://github.com/godotengine/godot-proposals/issues/6207)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-07T19:41:49Z",
+  "comments": 4,
+  "createdAt": "2023-05-18T14:58:46Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.4",
+  "number": 6909,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add instance shader uniforms support/fallback in Compatibility renderer",
+  "up": 21,
+  "updatedAt": "2024-10-07T19:41:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6909"
+}

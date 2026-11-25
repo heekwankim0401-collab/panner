@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Feels like a clean / simple enough feature to be included? \nI dont think any gigantic changes are needed on source level, but i am not the right person to answer that question.\n\nJust a little idea. \n\nTake care & stay safe.",
+    "format": "markdown",
+    "workaround": "Sure thing, but i dont think handling alot of random mixable colors is really optimal. Atleast not for Ui."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-12-09T12:54:46Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1962,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add properties to fold/hide away the Sliders and CheckButtons on ColorPicker",
+  "up": 1,
+  "updatedAt": "2021-03-18T06:19:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1962"
+}

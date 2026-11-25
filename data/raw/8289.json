@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Exporting is part of the core editor features",
+    "format": "form",
+    "workaround": "You can just export to an xcode project and then manually modify the info.plist file. This however requires you to know about this capability key, know how to modify it in XCode and remember to do it again on every export from Godot. Exposing and setting it in the Godot export settings would make this much easier."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-05T11:51:48Z",
+  "comments": 6,
+  "createdAt": "2023-10-29T11:57:11Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:export"
+  ],
+  "milestone": "4.3",
+  "number": 8289,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add minimum performance a12 capabilities option to iOS exports",
+  "up": 1,
+  "updatedAt": "2024-01-05T11:51:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8289"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Exposing these functions to the shading language requires adding to the internals of the engine.",
+    "format": "form",
+    "workaround": "Sorta? [But it is not obvious for some users](https://github.com/godotengine/godot-proposals/issues/2094), unless they have knowledge of low-level programming, bit manipulation, how the API and GPU handles data, how it is compiled, etc. Still, manual data packing relies on casting, which results in ALU instructions on the GPU. These built-in functions are intrinsic vector operations which become a single instruction on the GPU (much like fma)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-08-22T23:36:55Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "3.x",
+  "number": 3187,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add built-in data (un)packing functions to the shader language",
+  "up": 0,
+  "updatedAt": "2021-12-14T21:08:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3187"
+}

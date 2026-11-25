@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it was already in but was removed for unknown reasons\nhttps://github.com/godotengine/godot/pull/27876",
+    "format": "markdown",
+    "workaround": "it would be used for custom nodes when people don't want it to have a dependency on a script"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-02-18T03:05:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2307,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Allow built in scripts to use class_name",
+  "up": 5,
+  "updatedAt": "2024-05-03T08:33:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2307"
+}

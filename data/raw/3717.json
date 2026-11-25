@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be part of the core.",
+    "format": "form",
+    "workaround": "This is used every time a line is selected in the Errors panel."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-22T15:34:27Z",
+  "comments": 3,
+  "createdAt": "2021-12-25T16:24:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3717,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve contrast rate of selected Tree items by removing the doubled highlight",
+  "up": 2,
+  "updatedAt": "2022-11-22T16:24:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3717"
+}

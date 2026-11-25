@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It belongs in the same place as the other functions, like Input.get_gravity()",
+    "format": "form",
+    "workaround": "Device orientation can in theory be computed from the gyros and accelerometer readings we currently have, but it does not work in practice because it is much better numerically integrated at a high frequency close to or on the sensor chip (as is the case with the BNO085 device)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-04T12:26:35Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10113,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add device orientation support (for Android)",
+  "up": 10,
+  "updatedAt": "2024-07-04T12:50:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10113"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Actually not. But we have GI out of the box for 3D, why not 2d?",
+    "format": "form",
+    "workaround": "Of course it is possible to leave it to the users to implement their own GI, but considering the complexity, It would be too optimistic that a typical user could."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-16T18:51:43Z",
+  "comments": 0,
+  "createdAt": "2024-06-16T16:57:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9977,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add dynamic 2D global illumination system",
+  "up": 0,
+  "updatedAt": "2024-06-17T08:54:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9977"
+}

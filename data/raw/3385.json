@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think anyone can do it by himself  without an API that would give him access to Godot's assets, but I think it would be better if it was supported by Godot itself as core inside the editor, especially if Godot's internal terminal was programmed.",
+    "format": "form",
+    "workaround": "."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-04T23:55:00Z",
+  "comments": 1,
+  "createdAt": "2021-10-04T23:44:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:assetlib",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3385,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Something like npm system for Godot assets and library packages",
+  "up": 1,
+  "updatedAt": "2021-10-04T23:55:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3385"
+}

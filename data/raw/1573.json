@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is an editor enhancement.",
+    "format": "legacy",
+    "workaround": "No. The only alternative is to use the external editor, however the suggestion is about making the experience using the internal editor better."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-26T15:29:21Z",
+  "comments": 1,
+  "createdAt": "2020-09-26T09:21:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1573,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display quick documentation with code completion hints in the script editor",
+  "up": 0,
+  "updatedAt": "2020-09-26T15:29:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1573"
+}

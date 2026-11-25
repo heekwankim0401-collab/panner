@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's in \"essential but missing feature\" territory.\n\nAlso, sorry for opening a proposal for a feature that's practically halfway in the engine already; I figured it could help bring more attention to it, and give some insight as to the struggle developers are facing without it, or why you might need it sooner or later.",
+    "format": "legacy",
+    "workaround": "Apparently it's possible to create your own plugin which uses the `PCKPacker` API to do something similar to what the aforementioned tool would do.  From my experiences with creating plugins, I can say it definitely can't be worked around with a few lines of script, but it is probably doable with a lot of lines of script.  Regardless, it's definitely something a lot of Godot developers could use, especially those who are creating medium to large games, or any game where modability stems from using Godot as the mod editor."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-26T10:46:48Z",
+  "comments": 12,
+  "createdAt": "2019-10-11T08:56:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 146,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a patch system to generate PCK files with only the required data",
+  "up": 81,
+  "updatedAt": "2024-09-26T10:49:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/146"
+}

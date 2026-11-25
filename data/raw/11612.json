@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature would be good for plugin development and would significantly enhance the efficiency of iterating on plugins within the Godot Editor. Having it as part of the core editor would provide a native solution for all plugin developers. Additionally, integrating this feature directly into the editor would ensure that it works consistently across all plugins and would likely benefit a large portion of the Godot development community.",
+    "format": "form",
+    "workaround": "Currently, there is no reliable workaround using scripts to reload plugins in Godot, as the method of manually toggling plugins via code (such as set_plugin_enabled) does not work as expected in some cases. This makes it impractical for developers to implement their own solution for hot-reloading plugins. A dedicated hot-reload feature would provide a seamless workflow and avoid the need for these workarounds, ensuring changes to plugins are applied instantly without requiring manual intervention or restarting the editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-01-19T20:57:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 11612,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add plugin hot-reload and reload shortcut support",
+  "up": 7,
+  "updatedAt": "2025-01-20T18:50:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11612"
+}

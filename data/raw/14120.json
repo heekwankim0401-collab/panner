@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There are several addons but some are sketchy. Another thing is that various game engines provide this property built in, no need for self-compiling or stuff like that.",
+    "format": "form",
+    "workaround": "Well, yes. You could take a look at this https://docs.godotengine.org/en/4.4/contributing/development/compiling/compiling_with_script_encryption_key.html\nbut the functionality should be within the editor, like other game engines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2026-01-31T02:37:49Z",
+  "down": 0,
+  "labels": [
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 14120,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Better encryption for games (provided within the editor)",
+  "up": 6,
+  "updatedAt": "2026-07-14T17:11:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14120"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If it is able to implement this with addons, please teach me the way.\n\n(This proposal is just same as https://github.com/godotengine/godot/issues/4222)",
+    "format": "form",
+    "workaround": "Currently probably there's no option to give different name to export var."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-10-15T01:53:26Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10973,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "@export var with different name instead of variable name",
+  "up": 21,
+  "updatedAt": "2025-08-02T19:52:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10973"
+}

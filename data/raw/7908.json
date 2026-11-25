@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is proposal is a new gdscript language feature and is IMHO better served being in core.",
+    "format": "form",
+    "workaround": "No, but a similar behavior could be implemented in a linter."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-02T21:52:48Z",
+  "comments": 4,
+  "createdAt": "2023-09-29T00:16:07Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7908,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow disabling dynamic typing in gdscript on a per file basis",
+  "up": 0,
+  "updatedAt": "2023-10-03T02:21:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7908"
+}

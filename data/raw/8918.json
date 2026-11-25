@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The `PopupMenu` API lacks these functions.",
+    "format": "form",
+    "workaround": "No, it's core API change."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-24T13:14:53Z",
+  "comments": 0,
+  "createdAt": "2024-01-20T10:34:48Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 8918,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Be able to access the PopupMenu item's state and get and set the item's max_state",
+  "up": 0,
+  "updatedAt": "2024-01-24T13:21:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8918"
+}

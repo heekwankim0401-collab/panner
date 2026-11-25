@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Editor.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-07-02T12:54:57Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7185,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Do not reset scroll on atlas region editor",
+  "up": 2,
+  "updatedAt": "2023-07-03T11:29:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7185"
+}

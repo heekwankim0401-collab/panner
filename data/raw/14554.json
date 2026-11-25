@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-27T09:16:04Z",
+  "comments": 1,
+  "createdAt": "2026-03-27T02:09:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14554,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add String.is_alpha to check if a word only contains upper or lower case letters",
+  "up": 0,
+  "updatedAt": "2026-03-27T09:16:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14554"
+}

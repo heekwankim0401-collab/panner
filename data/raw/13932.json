@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's nessary for Composite Pattern of nodes. Users can easily change all nodes that inherit from template by edit the template only,and specially edit some of them by delete or replace some nodes inherit from template.",
+    "format": "form",
+    "workaround": "No,I just tried, but it seems closely related to engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-12-30T16:35:50Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13932,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow deleting nodes that are inherited from another scene",
+  "up": 0,
+  "updatedAt": "2026-01-06T07:08:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13932"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a proposed improvement to how Godot handles lighting as a whole and touches parameters that from what I can tell are hardcoded. From what research I have done this would make it difficult, hacky or both to achieve via an add-on, and would be handled in a more elegant and maintainable manner via engine code.\n\nThis all of course comes with a caveat that code is not my strong suit, and there may be simpler solutions that I have not considered.",
+    "format": "form",
+    "workaround": "If my guesswork is correct, this would ease a lot of lighting headaches for open-world 3D environments, so could potentially be used widely. It also affects a lot of what seem to be hardcoded parameters, so likely could not be scripted around."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-16T16:38:45Z",
+  "comments": 4,
+  "createdAt": "2022-02-16T12:55:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3981,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow DirectionalLight3D to inherit modified values from sky_material",
+  "up": 1,
+  "updatedAt": "2022-02-16T19:20:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3981"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is Core, and cannot be moved out at this time.",
+    "format": "form",
+    "workaround": "No, it's Hardcoded, and would only be possible with manual changing of the shader code, possibly via shader templates which still aren't here."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-03T01:54:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12720,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more properties to control directional shadow rendering",
+  "up": 0,
+  "updatedAt": "2026-02-03T15:35:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12720"
+}

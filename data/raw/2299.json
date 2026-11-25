@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The audio system is currently very difficult or impossible to extend without changes in core.",
+    "format": "markdown",
+    "workaround": "Issue 1 mentioned above could be mitigated with script, but issue 2 can't be solved without taking a serious performance hit."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-27T20:07:42Z",
+  "comments": 4,
+  "createdAt": "2021-02-16T20:57:40Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.0",
+  "number": 2299,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move audio mixing out of AudioStreamPlayer nodes",
+  "up": 11,
+  "updatedAt": "2021-08-27T20:21:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2299"
+}

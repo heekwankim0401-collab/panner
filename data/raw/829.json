@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this could be a very useful feature in all kinds of 2D games. Being able to animate 2D sprites and have the animations mimic physical changes allows all kinds of new interactions in a game. Imagine a spaceship that can animate opening its wings. It would be great if while the animation is playing the extent of the object is correct in the physics engine. Almost any kind of game that animates 2D sprites will benefit from having the correct CollisionPolygon2D.",
+    "format": "legacy",
+    "workaround": "This is a very difficult feature to implement without changing the Godot Engine. First you would need an external program to generate the polygon data from a Spritesheet. Then, you would have to save all this data into code, embed this code into your program, and write code to change the CollisionPolygon2D data with each frame. You could no longer use the AnimationPlayer, but would have to animate everything yourself from code. I'm unsure how the physics Engine would react to changing the CollisionPolygon2D data, so other changes to the engine *may* be necessary."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2020-05-12T20:08:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 829,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Animate CollisionPolygon2D (Generate CollisionPolygon2D array from Spritesheet)",
+  "up": 7,
+  "updatedAt": "2021-04-27T11:20:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/829"
+}

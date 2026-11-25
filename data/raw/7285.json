@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The feature should be in the core to replace each `String` that the \"user can modify and is auto-translated\" with `LocalizedString`, as the **editor's** feature to preview locales will work along with `LocalizedStrings`.",
+    "format": "form",
+    "workaround": "Part of it can be implemented by scripting, but the full solution requires built-in types like `Label` and `Button` to also use `LocalizedStrings`."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-26T15:42:20Z",
+  "comments": 2,
+  "createdAt": "2023-07-14T21:20:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7285,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `LocalizedString` type for in-editor locale preview",
+  "up": 0,
+  "updatedAt": "2023-07-26T15:56:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7285"
+}

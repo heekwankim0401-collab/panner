@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This functionality should be considered a core feature rather than an asset library add-on for the following reasons:\n\nDeep Integration with Built-in Features:\nThe ExportAttribute is a core part of Godot’s functionality that allows properties to appear in the Inspector for editing. Making it inheritable enables users to extend the native experience seamlessly without rewriting Inspector logic or relying on complex plugins.\n\nConsistency and Standardization:\nSolving this problem via add-ons can lead to inconsistencies between user-defined property displays and Godot’s native Inspector style, which degrades the user experience. By making it a core feature, we ensure a unified look and feel while reducing maintenance overhead.\n\nHigh Reusability and Low Maintenance:\nAllowing ExportAttribute to be inheritable is a lightweight enhancement that solves many extensibility scenarios, making it ideal for industrial simulation editors, game editors, and other applications. As a core feature, it directly benefits from engine updates without requiring users to maintain additional plugins or compatibility fixes.\n\nReduces Redundancy and Duplication:\nIf developers are forced to implement similar functionality via add-ons, they often end up writing redundant code to handle different property types, display styles, and sorting logic. Native support as a core feature eliminates this duplication, enabling developers to focus on their business logic.\n\nEnhancing Engine Extensibility:\nMaking ExportAttribute inheritable improves the flexibility and extensibility of the Godot engine. This enhancement not only satisfies current needs but also paves the way for future use cases involving customized property display and editing.",
+    "format": "form",
+    "workaround": "Thank you for your reply! Regarding the question, “If this enhancement is not frequently used, can it be resolved with a script?”, I have tried to achieve similar functionality using EditorInspectorPlugin, but I encountered several challenges:\n\nInconsistent Style: Custom property panels implemented through EditorInspectorPlugin are difficult to match with the native Godot Inspector’s style and appearance.\nDisplay Position Issues: The custom property editors may not appear in the desired position within the Inspector, making it hard to integrate seamlessly with other properties.\nComplex Maintenance: To support different property types (e.g., int, float, string, Node, etc.), I would need to manually write and maintain multiple custom property editors. This results in a significant amount of code and increases the potential for errors.\nIn reality, my requirement is quite simple: I want to use Godot’s native Inspector style and behavior while extending the ExportAttribute to achieve my goal. Allowing ExportAttribute to be inheritable would greatly simplify the implementation while perfectly preserving consistency with Godot’s internal Inspector."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-18T04:41:04Z",
+  "comments": 1,
+  "createdAt": "2024-12-17T04:04:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 11367,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Allow ExportAttribute to be Inheritable for Custom Attribute Extension",
+  "up": 1,
+  "updatedAt": "2024-12-18T04:41:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11367"
+}

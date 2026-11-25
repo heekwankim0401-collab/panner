@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Enabling/disabling items is a fairly common thing, but once you start having complex nodes, it becomes pretty much impossible.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-16T23:10:04Z",
+  "comments": 6,
+  "createdAt": "2020-11-16T22:31:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1847,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Method to disable all children on a parent node",
+  "up": 0,
+  "updatedAt": "2020-11-17T08:26:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1847"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Godot says it let users write their own shaders.  \nThis is currently not true without these features. So yes, it should be implemented in the core besides Vector3 and Transform.  \nActually this is more a \"limitation removal request\" than a \"feature request\".",
+    "format": "legacy",
+    "workaround": "I believe these features will be used mainly by game engineers who will eventually contribute to the improvement of the core Godot engine.  \nBut more importantly the lack of these feature is almost a no go for me. So it may be a definite no go for others who would."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-23T16:35:05Z",
+  "comments": 16,
+  "createdAt": "2019-11-27T12:01:58Z",
+  "down": 0,
+  "labels": [
+    "requires core feedback",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 258,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow passing Matrix and Vector4 to shaders",
+  "up": 13,
+  "updatedAt": "2022-08-23T16:35:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/258"
+}

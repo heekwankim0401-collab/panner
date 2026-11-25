@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "While using SS is technically not gramatically incorrect, using the capital eszett is the more modern and a little *more* correct thing to do.",
+    "format": "form",
+    "workaround": "All ß in the string can be replaced by ẞ before converting."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-15T06:24:42Z",
+  "comments": 2,
+  "createdAt": "2024-09-28T20:29:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 10848,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make GDScript's `to_upper()` method convert eszett to capital eszett instead of SS",
+  "up": 0,
+  "updatedAt": "2025-07-15T15:34:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10848"
+}

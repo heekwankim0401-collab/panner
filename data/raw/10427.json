@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can be done in a hacky way, but it's complicated. This should be in editor theme code.",
+    "format": "form",
+    "workaround": "No, this is written in editor theme in Godot source code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-13T11:31:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10427,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve round corners in editor StyleBox",
+  "up": 0,
+  "updatedAt": "2024-08-19T06:08:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10427"
+}

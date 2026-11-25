@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's useful for web game-like dynamic download and load PCKs. This easy to build your own hot update/ Incremental update system.",
+    "format": "form",
+    "workaround": "The EditorExportPlugin does not hook the _save_pack_file  process, not hook the _export_find_dependencies. It can't skip files to add in PCK by Skip().  I only can control the export_file to skip whole PCK file export."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-04T14:10:20Z",
+  "comments": 2,
+  "createdAt": "2024-01-04T12:52:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 8796,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `Export selected resource (without dependencies)` filter for export preset.",
+  "up": 0,
+  "updatedAt": "2025-09-19T07:53:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8796"
+}

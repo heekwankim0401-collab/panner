@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it fog doesn't add anything of value in orthogonal view, as everything (in theory) is infinitely far away from the camera.",
+    "format": "form",
+    "workaround": "Workaround is to add a script to the WorldEnvironment which enables fog only runtime, leaving editor entirely without fog."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-05-01T07:42:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9643,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Disable non-volumetric fog in editor orthogonal view",
+  "up": 2,
+  "updatedAt": "2024-05-01T16:17:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9643"
+}

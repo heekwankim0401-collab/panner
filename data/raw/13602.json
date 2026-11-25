@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature would require changes to how textures are handled in the engine at the core to provide improvement, but it will majorly help in optimizing 3D games in the engine.",
+    "format": "form",
+    "workaround": "The user can set the texture quality to the full resolution value (which should be the default) to preserve the original look, requiring no code or other workarounds."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-11T00:08:45Z",
+  "comments": 1,
+  "createdAt": "2025-11-09T15:51:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13602,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add global texture resolution quality setting",
+  "up": 1,
+  "updatedAt": "2025-11-11T00:08:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13602"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's practically a broken feature. Why allow a Navigation node be able to have multiple Navigation Mesh instances if they're basically isolated islands? Just force users to use one Navigation Mesh for each Navigation node and merge all the geometry inside it.\n\nThis should be core because currently multiple navmeshes cannot be used together for most cases, except for gridmaps, which is less used than Height Maps or other polygon meshes.",
+    "format": "legacy",
+    "workaround": "The only way it *might* be worked around is if, instead of using several pre-calculated Navigation Mesh data, it is computed at real-time in the game by adding and removing Mesh Instances, which is not feasible for large terrain meshes (and **that is why there is the option to bake Navigation Mesh data in the editor in the first place**)."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-27T12:03:02Z",
+  "comments": 9,
+  "createdAt": "2019-10-28T10:00:24Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.0",
+  "number": 187,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Navigation to work with adjacent/connected/overlapping navigation meshes.",
+  "up": 8,
+  "updatedAt": "2020-11-01T13:25:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/187"
+}

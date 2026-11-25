@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This effect must be added in core due to performance reasons and to limit the audio latency between input and output.",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2020-10-25T09:49:56Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 1721,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Convolution Reverb audio effect that takes a WAV Impulse Response file as input",
+  "up": 21,
+  "updatedAt": "2026-09-08T09:01:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1721"
+}

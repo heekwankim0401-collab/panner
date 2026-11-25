@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its already in core this is just a improvement of it.",
+    "format": "form",
+    "workaround": "I have been trying to but it seems due to the order and unreliability of how peers connects its impossible"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-19T23:06:23Z",
+  "comments": 7,
+  "createdAt": "2022-06-16T04:20:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4677,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Network IDs should be consecutive",
+  "up": 0,
+  "updatedAt": "2022-06-22T20:13:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4677"
+}

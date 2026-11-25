@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Due to its speed, versatility and long-term viability for Godot Engine itself, it can be used as a massive improvement for Godot Engine's interface, improving the user experience immensely by providing unparalleled customizability.",
+    "format": "legacy",
+    "workaround": "No. This feature is not feasible to implement on a user level without extensive knowledge of Godot Engine's interface capabilities, and would require more than a few lines of code to achieve."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-06-09T20:13:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1030,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GoldenLayout-style Layout widget for the Engine and as a Control node",
+  "up": 4,
+  "updatedAt": "2020-06-10T12:31:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1030"
+}

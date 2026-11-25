@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems like a borderline bug to me. I'm not sure if it is, which is why I am creating a proposal instead. This effects a core node and should not be an add-on.",
+    "format": "form",
+    "workaround": "I'm sure I could create a custom remote transform node that *might* work, however I don't see why developers should constantly have to reorganize and hand place graphics. \n\n~~I can currently work around this by creating the remote transform as a child of the remote path that it will be assigned to. I can then assign the remote path. Then I can finally move the remote transform to where it is supposed to be.~~ Edit: This turns out to be error prone and difficult to pull off as well.\n\n\n\nAnother option is to use a full blown skeletal rig; I wanted to try this because it was supposed to be a bit simpler."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-21T23:49:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3843,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make RemoteTransform respect its Remote Path's initial transform",
+  "up": 2,
+  "updatedAt": "2025-03-10T21:30:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3843"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This will improve the Camera2D nodes capability out of the box.",
+    "format": "form",
+    "workaround": "It can be, but that means I can't use the built in smoothing functionality at all and have to implement everything related to smoothing myself. This defeats the purpose of having a smoothing funcitonality in the first place."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-17T01:10:13Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 10468,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to control position smoothing speed for the X and Y axis individually in the Camera2D Node",
+  "up": 3,
+  "updatedAt": "2024-08-17T22:51:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10468"
+}

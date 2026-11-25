@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this would be added in the core because currently the gui system can be bit infuriating to work with",
+    "format": "legacy",
+    "workaround": "this enhancement would be use alot more then the current system. while it allows for bypassing a bunch of nested container controls it they would also still be useful for alignment.\n\nI don't think this can be worked around due to how containers position their controls but if it can be it would require quire a bit of knowledge about the godot engine and some people just want to make a gui."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-14T10:58:18Z",
+  "comments": 90,
+  "createdAt": "2020-05-08T23:59:18Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 812,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add margins and padding to Control nodes",
+  "up": 34,
+  "updatedAt": "2025-02-03T19:35:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/812"
+}

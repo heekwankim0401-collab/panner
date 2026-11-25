@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This belongs in core. Many other Godot signals already have a virtual method counterpart, so I don’t see a good reason to offload this into an add‑on.",
+    "format": "form",
+    "workaround": "Yes, you can just connect the signal through editor or connect it through scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2025-07-16T16:55:49Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12795,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add virtual callbacks for Area3D/Area2D signals",
+  "up": 4,
+  "updatedAt": "2025-07-22T09:01:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12795"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think, it is easier to implement as a part of engine because it is gamepad input.",
+    "format": "form",
+    "workaround": "I'll be fine with any option. I just want to implement modern FPS controls like in Overwatch on Nintendo Switch"
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-23T11:14:18Z",
+  "comments": 1,
+  "createdAt": "2021-06-23T10:06:18Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 2908,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support of gyroscope and accelerometer input from gamepads",
+  "up": 2,
+  "updatedAt": "2021-06-23T11:16:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2908"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Sharing Engine Plugins is hard.",
+    "format": "legacy",
+    "workaround": "I think you could get around it using an Engine Plugin?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-05-22T03:40:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 868,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Allow direct pixel access in Image",
+  "up": 17,
+  "updatedAt": "2022-09-12T21:56:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/868"
+}

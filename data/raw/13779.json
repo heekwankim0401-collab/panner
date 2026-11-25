@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Visibility range is in core.",
+    "format": "form",
+    "workaround": "Yes, it's possible to control visibility manually from a script. For this many chunks however, it's fairly performance-intensive to do it in GDScript.\n\nFor cases where computing distance to the origin is acceptable, a workaround is to use `visibility_parent` or setting custom AABBs so they're all the same."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-12-03T09:19:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13779,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to compute visibility range to origin or closest point on AABB",
+  "up": 10,
+  "updatedAt": "2026-03-23T09:40:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13779"
+}

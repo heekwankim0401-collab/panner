@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Without writing your own custom UDP server in another language, this can't be worked around with an add-on",
+    "format": "form",
+    "workaround": "Not with out causing the same issue this proposal aims to resolve"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-05T05:28:10Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 12733,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `UDPServer::get_packet()` method for stateless UDP packet reception",
+  "up": 0,
+  "updatedAt": "2025-10-31T12:10:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12733"
+}

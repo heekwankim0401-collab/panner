@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is currently not easy to implement a object that both has collision response and collision testing.\nCharacterBody's have test_move but that doesn't tell us when it enters or exits\n\nIt is also not possible to have a base class with collision due to the splitting hierarchy of areas and physicalBodies",
+    "format": "form",
+    "workaround": "Scenes are requires to do such a thing it is not possible as far as I know to implement such a feature purely based on scripts or class_name."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-19T03:45:40Z",
+  "comments": 1,
+  "createdAt": "2023-08-12T00:41:29Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7484,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Simplify Collisions",
+  "up": 0,
+  "updatedAt": "2023-08-19T14:50:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7484"
+}

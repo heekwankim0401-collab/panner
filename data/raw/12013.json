@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Yes, this must be part of Godot’s core engine because:\n\n1. The Android editor is built as a native application, and enabling C# support requires changing how the editor itself is compiled. An asset library add-on cannot modify the engine’s build process.\n\n\n2. AOT compilation must be handled at the engine level, as it affects how C# is compiled and executed on Android. This cannot be achieved through a plugin.\n\n\n3. Godot already provides official .NET builds for other platforms, so it makes sense to include an official \"Godot .NET (AOT) for Android\" version rather than relying on third-party solutions.\n\n\n\nSince this change affects how the editor itself is built and distributed, it must be implemented at the core level rather than as an add-on.\n\nThis proposal took so long to write...",
+    "format": "form",
+    "workaround": "No, this cannot be worked around with a simple script.\n\nThe lack of C# support in the Android editor is caused by Android’s restriction on JIT compilation, which is a fundamental system-level limitation. Without AOT, C# simply does not work in the Android editor.\n\nCurrently, the only workaround is to avoid using the Android editor entirely for C# projects, which is not an acceptable solution. This proposal directly addresses the problem by making C# fully functional on Android, allowing mobile developers to use the editor as intended."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T15:51:13Z",
+  "comments": 37,
+  "createdAt": "2025-03-18T08:08:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12013,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use AOT compilation to enable C# support in the Android editor",
+  "up": 2,
+  "updatedAt": "2026-01-28T17:42:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12013"
+}

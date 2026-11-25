@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This extends the node management and gdscript which touches core code.",
+    "format": "form",
+    "workaround": "This can be worked around with a runtime script that scans all group objects and frees them. However, there is runtime overhead in doing this, and the data still makes it into the exported project - using up the end user's disk and memory."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-10-16T14:01:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:export",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8148,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement support for removing editor-only nodes from an exported project",
+  "up": 30,
+  "updatedAt": "2024-11-09T21:22:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8148"
+}

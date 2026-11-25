@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It wouldn't hurt and would give the user more options.",
+    "format": "form",
+    "workaround": "It can, but it's not pretty. In the custom spawn function you need to connect the `tree_exiting` signal on the spawned node to do your cleanup."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-08-22T01:05:38Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 10519,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add optional custom despawn function to the MultiplayerSpawner to run code on peers before the node is automatically despawned",
+  "up": 4,
+  "updatedAt": "2024-10-07T07:39:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10519"
+}

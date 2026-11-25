@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a script editor feature.\nI believe the ScriptEditor code completion can use this feature  itself",
+    "format": "form",
+    "workaround": "It can't"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-16T00:53:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6891,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `option_owner` to `CodeEdit.get_code_completion_option()` for Script Editor",
+  "up": 0,
+  "updatedAt": "2023-05-17T14:30:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6891"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Search and replace in files are basic IDE functionality.",
+    "format": "form",
+    "workaround": "Not sure if it is worth to workaround this with a plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-23T20:37:14Z",
+  "comments": 0,
+  "createdAt": "2025-07-25T06:24:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12860,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to replace individual matches in `Search Results`",
+  "up": 2,
+  "updatedAt": "2025-10-23T20:38:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12860"
+}

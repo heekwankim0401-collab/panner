@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I am not familiar with Godot, so I can not put a reason here other than it would be nice to have for devs willing to enable it for Linux ports.",
+    "format": "form",
+    "workaround": "It may be used often in apps that would allow for packaging as a flatpak on Linux, or want tighter host integration on Linux."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-25T00:14:23Z",
+  "comments": 4,
+  "createdAt": "2022-07-24T23:58:07Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 4970,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "(Linux) Allow using xdg-desktop-portal for various features on Linux, such as file choosing",
+  "up": 1,
+  "updatedAt": "2025-01-02T19:30:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4970"
+}

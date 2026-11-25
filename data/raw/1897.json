@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would make the Expression class more useful and more complete. In any case, the way that it currently silently fails is weird and should probably be changed.",
+    "format": "markdown",
+    "workaround": "There are a few hacky workarounds, such as `lerp(10, 20, int(small))`. However, as far as I know, there is no way to do this with arbitrary output values such as strings."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-11-27T02:51:00Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1897,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support ternary operators in Expression",
+  "up": 6,
+  "updatedAt": "2024-04-23T01:16:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1897"
+}

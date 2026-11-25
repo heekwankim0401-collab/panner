@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a relatively small change and tightly integrated into the engine.",
+    "format": "form",
+    "workaround": "`SpriteFrames` and its editor is built into the engine. It can't be modified with GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-26T20:52:05Z",
+  "comments": 2,
+  "createdAt": "2024-08-11T15:09:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 10415,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the Sprite Frames Editor automatically \"guess\" the amount of rows and columns in a Sprite Sheet when loading it instead of defaulting to 4x4",
+  "up": 9,
+  "updatedAt": "2024-08-26T20:52:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10415"
+}

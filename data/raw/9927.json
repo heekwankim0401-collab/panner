@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Would massively improve the entire import pipeline, at least for 3D.\n\nIm honestly not sure of the overall importance of a proposal like this, but its something was an actual major roadblock at the beginning of my project and something Ive had to invest a fair amount of time into solving for my project, so I think its worth mentioning. \nAlso not sure if its the kind of thing that should be mentioned on the godot proposals page given its bordering on external tool.",
+    "format": "form",
+    "workaround": "Its all technically doable without any godot-given scripts, but replicating godot scene/resource data can be difficult and documentation can be sparse. I know I struggled with arraymesh generation, with stuff like face normals being weirdly compressed and general attributes being underexplained, to the degree that Ive given up on it for now.\n\nThe one single problem I see here would be scripts like these being unable to test or register UIDs from your project, but that seems like a very minor thing that Im not even sure needs solving in a context like this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-06-09T00:45:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 9927,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create some basic standalone tools or scripts for asset/scene conversion",
+  "up": 3,
+  "updatedAt": "2024-06-10T18:21:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9927"
+}

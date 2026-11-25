@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about GDScript.",
+    "format": "legacy",
+    "workaround": "It will be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-08T21:13:33Z",
+  "comments": 5,
+  "createdAt": "2020-02-24T00:44:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 517,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Differentiate Image's `get_data()` and Texture's `get_data()`",
+  "up": 2,
+  "updatedAt": "2021-12-08T21:29:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/517"
+}

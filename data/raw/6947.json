@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This isn't something that can really be solved by a script or plugin as far as I'm aware. It's something best to be added to the engine.",
+    "format": "form",
+    "workaround": "There are some ways to work around this, but they aren't pretty. One way is by placing a semi-transparent object above it, the other solution is creating 30 tiles where each tile is a different tile for every tile in my game. This is not efficient, but it's an alternative."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-26T00:58:33Z",
+  "comments": 1,
+  "createdAt": "2023-05-25T23:58:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6947,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Ability to modulate a single tile within a tilemap",
+  "up": 0,
+  "updatedAt": "2023-05-26T00:58:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6947"
+}

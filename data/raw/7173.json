@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be a core feature rather than an add-on in the asset library. Our aim is to make developers' lives easier and ensure consistency across the board.",
+    "format": "form",
+    "workaround": "This enhancement cannot be worked around with a few lines of script because a new script needs to be written for each type of import."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-06-28T18:31:31Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7173,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Creating modified scene copies during import can clutter the filesystem",
+  "up": 3,
+  "updatedAt": "2023-09-25T14:21:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7173"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "With the editor Android port, it's important to improve touchscreen usability of Godot's GUI system.",
+    "format": "form",
+    "workaround": "This can be faked with a thick border for buttons on a solid color background (with the border color matching the background color). However, this is not a viable solution for buttons on transparent or mixed-color backgrounds."
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-30T13:50:28Z",
+  "comments": 4,
+  "createdAt": "2022-04-03T17:59:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 4338,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a \"hit margin\" theme constant to BaseButton",
+  "up": 9,
+  "updatedAt": "2026-06-30T13:52:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4338"
+}

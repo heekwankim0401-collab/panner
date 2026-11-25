@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-04-11T04:27:34Z",
+  "down": 9,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 14639,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a global scope `sleep()` function",
+  "up": 1,
+  "updatedAt": "2026-04-13T23:39:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14639"
+}

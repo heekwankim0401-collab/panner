@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It relates to the behavior of a core node.",
+    "format": "form",
+    "workaround": "It would be used often and solve a UX issue related to a core component."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-02-03T13:16:27Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3911,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move the AnimationPlayer node's autoplay setting to the Inspector",
+  "up": 7,
+  "updatedAt": "2022-05-04T08:44:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3911"
+}

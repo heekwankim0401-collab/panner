@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "These changes affect the Label rendering logic in `Label.cpp`, so this should be core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-16T10:01:31Z",
+  "comments": 3,
+  "createdAt": "2024-08-06T23:56:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10383,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add to Label new rendering settings in theme and LabelSettings",
+  "up": 2,
+  "updatedAt": "2025-05-17T16:08:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10383"
+}

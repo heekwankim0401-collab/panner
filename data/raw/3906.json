@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "n/a",
+    "format": "form",
+    "workaround": "n/a"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-14T12:21:01Z",
+  "comments": 71,
+  "createdAt": "2022-02-01T20:23:44Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 3906,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Rename `@export` annotation to be less confusing",
+  "up": 32,
+  "updatedAt": "2022-12-27T03:08:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3906"
+}

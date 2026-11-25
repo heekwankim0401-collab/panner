@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is something that needs to be solved in all games.",
+    "format": "markdown",
+    "workaround": "No, needs changes in rendering server."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-13T02:20:18Z",
+  "comments": 25,
+  "createdAt": "2020-12-03T18:28:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1936,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Fixing physics timestep vs refresh rate problems (jitter)",
+  "up": 48,
+  "updatedAt": "2022-09-18T21:00:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1936"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Tweens become part of a scene so should use parent bindings/pause mode.",
+    "format": "form",
+    "workaround": "Yes, but as above, it's counter-intuitive"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-07T23:16:45Z",
+  "comments": 2,
+  "createdAt": "2023-01-07T21:13:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6061,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide bind constructor parameter for create_tween to make it function equivalently to Tween node/support inherit pause",
+  "up": 0,
+  "updatedAt": "2023-01-07T23:20:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6061"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not possible without lag using GDScript. Extends existing cursor logic rather than adding a new feature.",
+    "format": "form",
+    "workaround": "This can be worked around by generating different cursors at all resolutions and then picking a proper one based on the resolution. This is extremely cumbersome to do, and is not future proof."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-12-06T03:43:46Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11296,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting to automatically scale custom mouse cursors according to the viewport scale factor",
+  "up": 6,
+  "updatedAt": "2024-12-11T08:37:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11296"
+}

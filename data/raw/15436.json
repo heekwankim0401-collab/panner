@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-08-26T16:18:08Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 15436,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide functions for teleporting VFX (particles and trails) to support floating-origin worlds",
+  "up": 16,
+  "updatedAt": "2026-11-03T02:18:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15436"
+}

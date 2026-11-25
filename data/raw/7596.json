@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There is no way to create an add-on for this.",
+    "format": "form",
+    "workaround": "It's possible, although the ambiguity and the lack of consistency will continue to create issues."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-09-01T18:30:16Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7596,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change `Curve2D::_get_data()[\"points\"]` pattern",
+  "up": 3,
+  "updatedAt": "2023-09-28T01:23:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7596"
+}

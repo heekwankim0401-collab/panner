@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "i dont knwo about that thats why i have opened both issues https://github.com/godotengine/webrtc-native/issues/145 https://github.com/godotengine/godot/issues/84645",
+    "format": "form",
+    "workaround": "not sure about that at all"
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-25T18:59:29Z",
+  "comments": 0,
+  "createdAt": "2024-04-21T14:31:43Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 9570,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a possibility to catch webrtc ice connection process errors and more",
+  "up": 0,
+  "updatedAt": "2024-04-25T18:59:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9570"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It could work as an addon, but it's difficult to implement.",
+    "format": "form",
+    "workaround": "No, text shaping is complex."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-19T19:37:09Z",
+  "comments": 8,
+  "createdAt": "2023-10-30T11:16:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 8299,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Label method to get position of a character",
+  "up": 8,
+  "updatedAt": "2025-05-19T15:09:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8299"
+}

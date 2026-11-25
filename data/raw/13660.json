@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should work out of the box, at least in 4.6, because since version 4.3 it only allows you to view .ktx2 textures like .png, but nothing more.",
+    "format": "form",
+    "workaround": "This limitation cannot be bypassed by any means. You will always hit Image, which breaks .ktx2."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-19T00:33:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13660,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add full support for KTX2 textures",
+  "up": 5,
+  "updatedAt": "2026-04-16T18:06:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13660"
+}

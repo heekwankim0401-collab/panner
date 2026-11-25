@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-08T08:11:31Z",
+  "comments": 2,
+  "createdAt": "2026-05-03T14:34:57Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.5",
+  "number": 14777,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make AnimationNodeStateMachineTransition emit signals for state transitions",
+  "up": 1,
+  "updatedAt": "2026-06-11T03:59:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14777"
+}

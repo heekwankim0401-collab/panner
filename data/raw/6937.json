@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Editor feature.",
+    "format": "form",
+    "workaround": "This problem can be worked around by copying and pasting nodes individually into a new scene."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-23T17:56:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6937,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Preserve \"Editable children\" changes when saving node as a scene",
+  "up": 1,
+  "updatedAt": "2023-05-23T21:47:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6937"
+}

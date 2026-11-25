@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "No - this is very deep in the render pipeline"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-09-04T20:44:39Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7606,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement particle-based lighting",
+  "up": 29,
+  "updatedAt": "2025-12-11T13:50:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7606"
+}

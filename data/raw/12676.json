@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "UX improvement.",
+    "format": "form",
+    "workaround": "It will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-06-27T09:32:59Z",
+  "down": 1,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12676,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change roughness behavior when using textures in StandardMaterial3D",
+  "up": 0,
+  "updatedAt": "2025-06-27T21:36:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12676"
+}

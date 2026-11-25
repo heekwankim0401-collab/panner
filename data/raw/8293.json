@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think it's possible to expose this from an add-on.",
+    "format": "form",
+    "workaround": "I don't know of another way to register the callback for add_move_array_element_function without these changes.\nMaybe someone more familiar with the project could suggest an alternative."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-29T17:50:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdextension",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8293,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow registering `add_move_array_element_function()` callback from a GDExtension",
+  "up": 2,
+  "updatedAt": "2024-02-19T15:02:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8293"
+}

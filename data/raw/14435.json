@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. `LibGodot` is a core feature, and a first-class embedding API must include surface injection. Without it, every team attempting to use Godot as an embedded rendering engine — inside React Native, Flutter, SwiftUI, Qt, or a custom game engine — will independently arrive at the same fragile workarounds described above.\n\nStandardising this in `libgodot.h` is the minimal, backward-compatible change that makes Godot genuinely viable as a composable rendering layer alongside other UI frameworks — a significant expansion of the Godot ecosystem's reach.",
+    "format": "form",
+    "workaround": "No. This requires a one-time C-API addition and a small guard in each platform's `DisplayServer::initialize()`. The workarounds currently required (JNI bridges, undocumented `get_proc_address` hacks) mean every framework embedding LibGodot must independently re-solve the same platform-specific bootstrapping problem. There is no GDScript or GDExtension equivalent."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-03-12T01:50:45Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 14435,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add libgodot_set_native_window to C-API to support embedding LibGodot into existing native UI hierarchies",
+  "up": 6,
+  "updatedAt": "2026-07-09T19:50:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14435"
+}

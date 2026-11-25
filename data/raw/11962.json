@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's too simple to be an addon.",
+    "format": "form",
+    "workaround": "Yes, however I think it fits in with the existing methods."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-03-11T01:27:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11962,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `Node.get_siblings()` method",
+  "up": 2,
+  "updatedAt": "2026-02-22T16:19:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11962"
+}

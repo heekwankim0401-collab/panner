@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The idea of data being mapped to individual tabs is so fundamental, it makes sense for it be core.",
+    "format": "form",
+    "workaround": "Not necessarily a few lines, but the solution is as simple as having an array that mirrors the tabs in a TabBar / TabContainer, and reading & writing data accordingly in response to the tab changed, repositioned, and closed signals."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-22T11:22:34Z",
+  "comments": 1,
+  "createdAt": "2023-04-08T19:28:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.1",
+  "number": 6664,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add tab metadata to TabBar & TabContainer",
+  "up": 5,
+  "updatedAt": "2023-06-07T12:40:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6664"
+}

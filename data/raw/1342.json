@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about making official builds.\n\n___\n\nSee also #1341.",
+    "format": "markdown",
+    "workaround": "No, as this is related to official build distribution."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2020-08-09T20:52:50Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 1342,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Distribute official builds with full debugging symbols",
+  "up": 42,
+  "updatedAt": "2026-08-17T22:51:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1342"
+}

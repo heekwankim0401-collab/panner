@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Convenience and compatibility with GPUParticles.",
+    "format": "form",
+    "workaround": "It's used in many VFX. currently VFX (in all engine) kind of either have to deal with this limitation and have long lingering particles, or implement custom shader/script solutions to do this.\n\nThis can be achieved by adding a line to the particles material - but this won't work for CPU particles because they cant be scripted (plus all the annoyances of using a particle process shader rather than the base material"
+  },
+  "assignees": 1,
+  "closedAt": "2023-10-10T22:46:04Z",
+  "comments": 1,
+  "createdAt": "2023-03-26T20:35:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 6573,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a force_stop function on particles",
+  "up": 3,
+  "updatedAt": "2023-10-10T22:46:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6573"
+}

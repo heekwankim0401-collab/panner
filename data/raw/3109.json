@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The recommended solution is about two of the most used methods in multiplayer games. Just not used with this option often since not many user level computers are connected to multiple ethernet networks at the same time.",
+    "format": "form",
+    "workaround": "I couldn't find a workaround without modifying the C++ code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-08-09T06:53:55Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 3109,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Being able to select the network card while sending UDP messages",
+  "up": 0,
+  "updatedAt": "2026-04-28T21:04:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3109"
+}

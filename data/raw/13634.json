@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same as the previous reason. Also, I don’t think this feature would require complex work or a large redesign. Trying to handle it externally would actually take more effort.",
+    "format": "form",
+    "workaround": "I don't think so, since it is about when will engine gain focus, exclusively for text input."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-14T17:03:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13634,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting that prevent script editor gain auto-focus",
+  "up": 16,
+  "updatedAt": "2025-11-15T11:44:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13634"
+}

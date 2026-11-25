@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core feature of the `SceneMultiplayer`  built in.",
+    "format": "form",
+    "workaround": "No. In fact, I don't know how to get the channel info from `send_bytes` *at all*, so I'm going to need to need to add a payload envelope. Not the end of the world, but certainly annoying when i know the info has been included in the send operation! :-)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-07-31T04:17:01Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 12907,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "`SceneMultiplayer.send_bytes()` has a channel param, but there is no obvious way to get the channel when *receiving* the packet",
+  "up": 1,
+  "updatedAt": "2026-03-19T12:23:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12907"
+}

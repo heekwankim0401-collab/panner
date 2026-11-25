@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a ui display for the info screen of the 3d scene. It can not be changed by script.",
+    "format": "form",
+    "workaround": "The code is a few lines of C++ code that cannot be changed by script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-08-30T06:09:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7582,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Update the info 3d scene display in Godot Engine to avoid confusion.",
+  "up": 0,
+  "updatedAt": "2024-06-22T15:55:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7582"
+}

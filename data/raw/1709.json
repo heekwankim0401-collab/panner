@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is fundamentally a new feature that needs to be in core.",
+    "format": "legacy",
+    "workaround": "Not really."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-10-23T03:24:06Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1709,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an abstract type system for GDScript to gain access to compile-time code execution",
+  "up": 6,
+  "updatedAt": "2021-06-01T16:22:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1709"
+}

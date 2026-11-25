@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript is core",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-21T09:43:15Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.x",
+  "number": 6924,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Discourage, deprecate, and disallow multiple if-statements on single line/after statement",
+  "up": 20,
+  "updatedAt": "2023-11-14T13:53:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6924"
+}

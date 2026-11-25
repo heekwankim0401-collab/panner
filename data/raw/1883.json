@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It supports static typing",
+    "format": "legacy",
+    "workaround": "it allows checking to a type name and no"
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-24T00:03:37Z",
+  "comments": 1,
+  "createdAt": "2020-11-23T23:37:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1883,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "typeof should work on built in types",
+  "up": 0,
+  "updatedAt": "2020-11-24T10:50:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1883"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yeah, this should be core. Since there are lots of tools that can be made using GraphEdit that would help other devs.",
+    "format": "form",
+    "workaround": "It can't with the current implementation."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-29T23:50:35Z",
+  "comments": 0,
+  "createdAt": "2025-12-29T01:40:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13925,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the way GraphNodes handle slots",
+  "up": 0,
+  "updatedAt": "2025-12-31T17:58:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13925"
+}

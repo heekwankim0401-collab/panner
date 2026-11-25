@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "# Enhancement template\n~~**Describe the project you are working on**~~\n**Describe enhancement of the existing feature** (https://github.com/godotengine/godot-proposals/issues/39#issuecomment-528819736)\n* most people refer to this as \"irrelevant\" when filling out blanks #37, #35.\n* some just learn stuff #28.\n\n~~**Describe how this feature / enhancement will help your project:**~~",
+    "format": "legacy",
+    "workaround": "~~**Is there a reason why this should be core and not an add-on in the asset library?:**~~\n* the feature is already there in the core #37, #36\n\n---\n\nA few other questions could be added for each."
+  },
+  "assignees": 0,
+  "closedAt": "2019-09-08T11:50:50Z",
+  "comments": 25,
+  "createdAt": "2019-09-06T09:13:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "meta"
+  ],
+  "milestone": null,
+  "number": 39,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Features and Enhancements should be treated separately or questions be rephrased",
+  "up": 8,
+  "updatedAt": "2021-02-10T12:51:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/39"
+}

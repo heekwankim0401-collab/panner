@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core input event code.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-25T15:21:59Z",
+  "comments": 4,
+  "createdAt": "2022-01-14T08:21:30Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3796,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Remove the misleading velocity property from InputEventMouseMotion",
+  "up": 5,
+  "updatedAt": "2025-04-18T05:30:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3796"
+}

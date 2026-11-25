@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Changing the functionality of a built in node.",
+    "format": "form",
+    "workaround": "This script creates a new property that controls zoom, and it's functionally identical to how `zoom` worked pre-4.0. Note that changing `zoom` directly will not update `size` to be equivalent, so you should avoid that.\n```py\n@tool\nextends Camera2D\n\n@export_custom(PROPERTY_HINT_LINK, \"size\") var size: Vector2 = Vector2.ONE:\n\tset(incoming):\n\t\tsize = incoming\n\t\tif incoming.is_zero_approx(): # can omit this if you can make sure size is never zero\n\t\t\tincoming += Vector2(0.00001, 0.00001)\n\t\tzoom = Vector2.ONE / incoming\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-10T20:46:09Z",
+  "comments": 13,
+  "createdAt": "2022-10-01T21:02:40Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5525,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Invert Camera2D zoom back to Godot 3 behavior",
+  "up": 5,
+  "updatedAt": "2024-11-10T20:56:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5525"
+}

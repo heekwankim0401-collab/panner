@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes",
+    "format": "markdown",
+    "workaround": "I think not, i tryed by code is the same alpha can't by removed\n`VisualServer.set_default_clear_color(Color(255,0,0,0))` i get red background"
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-29T17:34:45Z",
+  "comments": 2,
+  "createdAt": "2021-04-29T17:07:36Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 2667,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow define Default Clear Color to zero",
+  "up": 0,
+  "updatedAt": "2021-04-29T19:19:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2667"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This can be implemented by a plugin, but considering it's an accessibility feature that can benefit anyone (not just people with low vision), it's worth implementing directly in the editor.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-04-17T22:06:01Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12266,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to enable audio cues for certain editor events",
+  "up": 8,
+  "updatedAt": "2025-05-14T14:00:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12266"
+}

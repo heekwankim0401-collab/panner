@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's importer feature proposal and suggests huge improvement in workflow creating scenes with many moving parts in 3d editors that are compatible with Godot.",
+    "format": "form",
+    "workaround": "This could be worked around in two inconvenient ways:\n\n- Adding AnimationTree and using AnimationNodeBlendTree with Add, Seek, TimeScale AnimationNodes to mix several animations in different states. Works normally but quickly grows into very complex node tree, and current AnimationNode features lacks of ability to get things like animation length, current position etc.\n- Exporting all animations as separate files and manually creating AnimationPlayers for them. Works as expected but creates complex and difficult workflow when number of animation in model increases"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-04-12T02:16:01Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6682,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Group animations into separate AnimationPlayers while importing model with multiple unrelated moving parts",
+  "up": 2,
+  "updatedAt": "2023-04-19T17:25:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6682"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not sure how many people have similar problem, but I can't be the only one (_;\\_;_). And it's a probably small QoL thing using already existing functionality in a way impossible for custom plugins.",
+    "format": "legacy",
+    "workaround": "It _might_ be possible to replicate the node selection dialog and add a CanvasEditor plugin to do that, but I imagine it would be really cumbersome. Although if the quick open dialog was exposed to plugins... Still, that's more than few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2020-02-03T17:43:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 435,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a scene instance at cursor position when right-clicking in the 3D editor (already implemented in the 2D editor)",
+  "up": 19,
+  "updatedAt": "2023-08-09T00:24:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/435"
+}

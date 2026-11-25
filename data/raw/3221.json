@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I know, this cannot be an add-on because it deals with the low-level parsing of the scenes.",
+    "format": "form",
+    "workaround": "This, as far as I know, can not be worked around with in-editor script. It would require a needlessly sophisticated script. It would be easier just to implement it in Godot, because Godot can already parse scenes and knows what is wrong with them."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-18T19:48:15Z",
+  "comments": 7,
+  "createdAt": "2021-08-29T02:33:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3221,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add scene recovery for \"invalid/corrupt\" scenes",
+  "up": 0,
+  "updatedAt": "2023-10-18T19:48:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3221"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a defect of the plugin API.",
+    "format": "form",
+    "workaround": "It can be hacked by simulating a focus-in event:\n\n```gdscript\nEditorInterface.get_script_editor().notification(Node.NOTIFICATION_APPLICATION_FOCUS_IN)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-02T20:29:29Z",
+  "comments": 14,
+  "createdAt": "2025-11-28T04:48:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 13741,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to update the script editor for external changes",
+  "up": 0,
+  "updatedAt": "2026-10-02T20:29:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13741"
+}

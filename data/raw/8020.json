@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't understand why 2D nodes are being rendered without a 2D camera contrarily to what happens with 3D nodes. There is sure a good design reason for it that I cannot understand but I could not find it or a workaround that works for what I'm trying to do. Thank you in advance.",
+    "format": "form",
+    "workaround": "I have not found any workaround besides just disabling the visibility of the 2D nodes as some people suggested in the forum. But I plan to make this game multiplayer and that would be incompatible with having one player in the 2D world and the other in the 3D one at the same time.\nEdit: The camera can be moved where it has nothing to render as @Calinou pointed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-10-07T12:21:35Z",
+  "down": 7,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 8020,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Do not render 2D nodes when there is no 2D camera present",
+  "up": 0,
+  "updatedAt": "2023-10-28T16:57:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8020"
+}

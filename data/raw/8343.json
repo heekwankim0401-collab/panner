@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It requires changes to gdscript",
+    "format": "form",
+    "workaround": "A possible workaround would be to mark scripts with `@tool` and check for the properties in `_get_configuration_warnings`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2023-11-03T16:24:35Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8343,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@required` annotation for exported properties",
+  "up": 78,
+  "updatedAt": "2025-08-11T12:36:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8343"
+}

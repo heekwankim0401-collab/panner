@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the regular animation editing workflow and potentially adds up a lot of possibilities",
+    "format": "markdown",
+    "workaround": "It is probably not a few lines of script as it likely involves the way the GraphEdit itself works."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-03-02T08:04:32Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 2386,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "AnimationTree - Allow reusing existing nodes / multiple connections",
+  "up": 38,
+  "updatedAt": "2025-10-19T19:56:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2386"
+}

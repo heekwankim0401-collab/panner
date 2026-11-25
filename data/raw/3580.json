@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "TextEdit node is for building custom edit environments and more customizable for different situations will be more useful.",
+    "format": "form",
+    "workaround": "I didn't find any other way to do this at this moment."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-11-21T14:17:43Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3580,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `get_word_at_pos()` function support symbols (@$# ....)",
+  "up": 0,
+  "updatedAt": "2021-11-21T16:25:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3580"
+}

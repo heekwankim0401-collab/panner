@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires internal changes to SceneTreeDock class in editor source code.",
+    "format": "legacy",
+    "workaround": "I'm honestly not sure how often people use this utility, as I don't really use Godot all that much (yet), but it definitely threw me for a loop the first time I tried it, and I'll bet I'm not the only one. You *can* just move the node after-the-fact, but it still *feels* like a bug. In fact, I almost opened this as a bug report, but I think it's still *technically* an enhancement since everything is functioning as it should in a literal sense."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-06T08:14:19Z",
+  "comments": 0,
+  "createdAt": "2020-10-12T06:16:03Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 1652,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "\"Reparent to New Node\" moves node unexpectedly in single-branch case.",
+  "up": 1,
+  "updatedAt": "2024-09-06T08:14:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1652"
+}

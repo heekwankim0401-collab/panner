@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "At the moment, it's not possible to create a joypad ability centered menu that won't cause confusion. Or preventing to select a mapping profile that's incompatible with a joypad. The necessary, and already existing feature, is not exposed by Godot",
+    "format": "form",
+    "workaround": "No it can't, the two joypad ability centered menus cannot be implemented reliably w/o [this](https://github.com/godotengine/godot/pull/100791) (or an equivalent).\n\nCurrently, I see two undesirable options:\n\noption 1:  \nIt's possible to do the street fighter menu by simply listing all `JoyButton`/`JoyAxis` that Godot supports,  \nbut then the player might try to bind `JOY_BUTTON_MISC1`, which their joypad doesn't have, or any `JOY_BUTTON_PADDLE*`, or mix up `JOY_BUTTON_GUIDE` with `JOY_BUTTON_BACK`.  \nIt's improper to expect every player to fully understand joypads, especially when some joypads have their own little gimmick buttons that are not sent to the computer (or engine).  \nIf an option is listed, it should be available…\n\noption 2:  \nOne can attempt to implement joypad ability centered menus by relying on joypad names, like this [PR](https://github.com/godotengine/godot/pull/89193).  \nSadly, the names vary depending on platform, driver and even version.  \nThe PR mentioned above would fall flat for the `JOY_BUTTON_PADDLE*` buttons. As well as any joypad not created by a major brand."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-07T11:23:56Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 12564,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow reading joypad abilities for better mapping menus and joypad profile handling",
+  "up": 0,
+  "updatedAt": "2025-06-07T11:51:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12564"
+}

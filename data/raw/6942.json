@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, this enhancement addresses a core functionality issue that affects the overall usability and versatility of V-Sekai. It is important for the development team to address this issue to ensure a smooth and efficient workflow for users.",
+    "format": "form",
+    "workaround": "No, this enhancement addresses a core functionality issue and cannot be easily worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-25T00:05:45Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6942,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Surface tool apis should match ImporterMesh3D functionality to what Mesh has",
+  "up": 2,
+  "updatedAt": "2023-05-25T06:29:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6942"
+}

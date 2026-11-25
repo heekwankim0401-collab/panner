@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because godotengine/godot#77333 needs to use the result of this detection to be able to run code or not. If it's not in core, this issue could hypothetically never be solved.",
+    "format": "form",
+    "workaround": "Yes, it could be manually parsed by the user using GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-29T20:33:25Z",
+  "comments": 9,
+  "createdAt": "2023-07-29T19:57:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 7410,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `OS::get_compositing_window_manager()` method",
+  "up": 1,
+  "updatedAt": "2023-07-29T20:56:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7410"
+}

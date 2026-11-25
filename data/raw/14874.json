@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-05-19T20:39:20Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 14874,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve TileSet custom data layer validation by exposing PropertyHint to scripting",
+  "up": 1,
+  "updatedAt": "2026-06-09T03:56:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14874"
+}

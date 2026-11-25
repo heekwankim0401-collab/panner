@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Polygon2Ds just need this built-in.",
+    "format": "legacy",
+    "workaround": "Well, you can move all the points using a script, but you can't do that using CanvasItem editor without a plugin, which is more complex to do."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2019-11-29T13:27:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 266,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow moving all polygon points or center them at the node's origin in polygon editors",
+  "up": 19,
+  "updatedAt": "2023-05-19T16:49:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/266"
+}

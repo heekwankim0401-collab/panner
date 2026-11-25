@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It cannot be done as part of an addon.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-24T13:11:03Z",
+  "comments": 1,
+  "createdAt": "2023-11-24T05:55:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8509,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Caster Mask\" to Light3D shadow properties.",
+  "up": 3,
+  "updatedAt": "2023-11-24T13:11:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8509"
+}

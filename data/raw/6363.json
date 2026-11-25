@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Modifying the godot blender importer is outside the range of the target audience.",
+    "format": "form",
+    "workaround": "The previous workaround was a series of error prone ui actions in Blender."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-03T08:58:08Z",
+  "comments": 2,
+  "createdAt": "2023-02-26T20:12:23Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.3",
+  "number": 6363,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Blend import: Ability to import only the active collection",
+  "up": 3,
+  "updatedAt": "2025-06-04T22:08:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6363"
+}

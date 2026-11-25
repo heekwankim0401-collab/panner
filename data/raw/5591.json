@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a common usecase and would improve usability.",
+    "format": "form",
+    "workaround": "Need to re-implement by hand every time."
+  },
+  "assignees": 1,
+  "closedAt": "2026-09-04T07:07:16Z",
+  "comments": 3,
+  "createdAt": "2022-10-14T17:09:24Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5591,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Preserve Orientation billboard property",
+  "up": 5,
+  "updatedAt": "2026-09-04T07:07:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5591"
+}

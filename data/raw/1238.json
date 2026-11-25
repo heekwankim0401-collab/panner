@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "^",
+    "format": "legacy",
+    "workaround": "I  could write an autohotkey script to do this. But there is no means of doing so within the Editor itself via the plugin system or similar."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-07-22T06:27:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1238,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a script editor feature for generating setter and getter functions.",
+  "up": 4,
+  "updatedAt": "2021-02-17T15:17:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1238"
+}

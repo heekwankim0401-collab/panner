@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's about modifying core methods.",
+    "format": "form",
+    "workaround": "Well, kind of? Instead of using a static method, we could just use regular File -> new -> open, but it's sooo meh."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2022-05-03T21:54:47Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4490,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to get the last occurred error",
+  "up": 7,
+  "updatedAt": "2022-06-17T22:38:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4490"
+}

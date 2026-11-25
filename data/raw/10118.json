@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The ability to pass parameters to the _init constructor of scenes directly during instantiation is a fundamental feature that aligns with best practices in object-oriented programming. Implementing it as a core feature in Godot would improve developer productivity, maintainability, and code clarity across projects. It would also ensure consistent behavior and integration with the existing scene management system within the Godot engine.",
+    "format": "form",
+    "workaround": "Currently, developers can work around this limitation by manually setting properties after instantiation or by using separate initialization methods. However, these workarounds can lead to less efficient code and introduce unnecessary complexity, especially in projects with complex object hierarchies."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-04T20:01:53Z",
+  "comments": 2,
+  "createdAt": "2024-07-04T18:19:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10118,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow Parameters in instanciate Method of PackedScene in Godot",
+  "up": 0,
+  "updatedAt": "2024-07-05T15:05:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10118"
+}

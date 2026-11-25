@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Doing it as a plugin causes it to be slow in terms of performance. As a plugin, it may cause the engine to crash due to structure incompatibility.",
+    "format": "form",
+    "workaround": "I don't know."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-05T01:24:07Z",
+  "comments": 4,
+  "createdAt": "2024-08-30T23:13:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10614,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for saving multiple selected nodes to their own scene file in the Scene tree dock context menu",
+  "up": 1,
+  "updatedAt": "2024-09-05T01:24:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10614"
+}

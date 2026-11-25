@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It feels like it needs a little too much involvement in the backend to be able to be tacked on, though I suppose I could be wrong",
+    "format": "form",
+    "workaround": "Gods and spirits I wish. Not without bypassing the InputMap outright and doing it the old fashioned way, which I feel would be a shame"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-01-14T01:56:57Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 11553,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Option to allow InputMap.get_actions() to filter out default actions",
+  "up": 0,
+  "updatedAt": "2025-01-16T16:47:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11553"
+}

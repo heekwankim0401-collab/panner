@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I see this feature as universally necessary for practically all types of 3D games. First, not all 3D games actually use lighting, in which case the normal computation is a waste both in terms of editor processing time and GPU upload time. Even 3D games which do use lighting don't always need normals for every model. Finally, I'd feel remiss if I did not mention that Blender, which heavily inspires Godot, also has this on its export options.",
+    "format": "legacy",
+    "workaround": "This problem can not easily be worked around, no. It would be a total waste to write a script that dumps the normals and reloads the model for no reason. It's also not always sensible to write your own obj reader."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2019-11-11T04:56:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 220,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add normal generation options to the OBJ mesh importer",
+  "up": 1,
+  "updatedAt": "2021-03-04T03:46:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/220"
+}

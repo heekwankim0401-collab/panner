@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Considering many programming languages provides the method/functionality in their standard libraries and Godot has the `get_environment()` method, this proposal brings a solution to the problem without any workarounds.",
+    "format": "legacy",
+    "workaround": "```gdscript\nOS.execute(<\"export\" for UNIX, \"set\" for Windows>, [\"FOO=bar\"])\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-14T22:14:27Z",
+  "comments": 1,
+  "createdAt": "2020-11-16T15:09:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "3.x",
+  "number": 1846,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `set_environment()` method in `OS`",
+  "up": 8,
+  "updatedAt": "2021-03-14T22:14:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1846"
+}

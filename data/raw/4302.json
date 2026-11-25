@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Having a direct shader documentation in the editor with the above mentioned look-up feature needs core/engine integration",
+    "format": "form",
+    "workaround": "To an extend it would be possible to have a new entry next to the AssetLib for this or next to the shader editor but then again, you would be switching a lot. The looking-up functionality by clicking on the keyword can’t be implemented by an addon."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-28T12:43:56Z",
+  "comments": 1,
+  "createdAt": "2022-03-28T12:41:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:docs",
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 4302,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add built-in shader documentation to the editor",
+  "up": 1,
+  "updatedAt": "2022-03-28T12:44:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4302"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Shader language improvements must be core.\n</details>",
+    "format": "markdown",
+    "workaround": "This enhancement will affect anyone who has more than a passing interest in shaders."
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-07T20:26:06Z",
+  "comments": 1,
+  "createdAt": "2021-01-24T18:41:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2175,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add dynamic matrix indexing support to the Godot shader language",
+  "up": 0,
+  "updatedAt": "2026-11-09T12:53:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2175"
+}

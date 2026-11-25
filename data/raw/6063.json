@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "\"This is about improving the usability of the code editor out of the box.\"",
+    "format": "form",
+    "workaround": "The problem can be worked around with a few lines... per variable (arguably though it's not even a workaround, it's just implementing a setget). The issue arises when there are many variables, and the cost is human lifetime and energy."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-07T23:16:25Z",
+  "comments": 1,
+  "createdAt": "2023-01-07T22:16:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6063,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a shortcut to automatically generate a setter and getter for a property",
+  "up": 0,
+  "updatedAt": "2023-01-07T23:16:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6063"
+}

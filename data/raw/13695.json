@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it is related to FileAccess, being an inner class.",
+    "format": "form",
+    "workaround": "No. I tried to find something related to the FileAccess cache, but from what I saw, FileAccess contains its own cache; there's no way to simply delete the saved cache."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-24T15:21:09Z",
+  "comments": 9,
+  "createdAt": "2025-11-24T14:40:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13695,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add uncached read mode to `FileAccess.get_file_as_string()`",
+  "up": 0,
+  "updatedAt": "2025-11-24T15:21:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13695"
+}

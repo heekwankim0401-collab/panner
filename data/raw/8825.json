@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature is common for many game engines & media editors.",
+    "format": "form",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-01-07T17:38:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8825,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make drag-and-dropping into an empty space in the Scene tree dock reparent to the scene's root node",
+  "up": 10,
+  "updatedAt": "2024-11-03T14:18:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8825"
+}

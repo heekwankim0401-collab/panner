@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this should be core worthy since it's one of the first things I implement as a Label or enable the printing",
+    "format": "form",
+    "workaround": "```GDScript\n# updates fps counter every 2 seconds\nfunc _process(delta: float):\n    if OS.is_debug_build():\n        if OS.get_system_time_secs() % 2 == 0:\n            OS.set_window_title(\"my title (Debug - FPS %s)\" % str(Engine.get_frames_per_second()))\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-30T15:45:03Z",
+  "comments": 5,
+  "createdAt": "2022-01-30T03:56:11Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 3896,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add FPS to window title",
+  "up": 0,
+  "updatedAt": "2022-01-31T12:00:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3896"
+}

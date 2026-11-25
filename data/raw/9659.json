@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "To support this, a change is required in the godot-cpp headers.",
+    "format": "form",
+    "workaround": "I'm not sure how often this will be used, but I think it does work around an annoying limitation in the binding between C++ and GDScript. It can be worked around with some script, but supporting it doesn't seem too complex or add much overhead."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-02T20:11:04Z",
+  "comments": 3,
+  "createdAt": "2024-05-02T19:11:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 9659,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Binding Methods from godot-cpp with Enum Arguments",
+  "up": 1,
+  "updatedAt": "2024-05-02T20:53:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9659"
+}

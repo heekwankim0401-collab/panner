@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-22T19:09:53Z",
+  "comments": 3,
+  "createdAt": "2026-07-19T03:07:07Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:physics"
+  ],
+  "milestone": "4.8",
+  "number": 15215,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add non-allocating versions of `PhysicsDirectSpaceState[2D|3D]` query methods",
+  "up": 2,
+  "updatedAt": "2026-09-22T19:09:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15215"
+}

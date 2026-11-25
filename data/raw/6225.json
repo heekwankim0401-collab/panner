@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I assume it is a matter of adding a singe symbol in the code where it handles the node names and replaces illegal symbols with empty character, but I don't know where it is to adjust it myself.",
+    "format": "form",
+    "workaround": "Otherwise it should be done manually."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-07T16:20:30Z",
+  "comments": 2,
+  "createdAt": "2023-02-03T10:02:56Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.1",
+  "number": 6225,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace invalid node name symbols with an underscore instead of nothing",
+  "up": 2,
+  "updatedAt": "2023-04-07T16:20:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6225"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "it only makes sense to spawn physics objects in the desired location",
+    "format": "form",
+    "workaround": "I can ignore the error messages but cannot toterate them."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-14T13:21:34Z",
+  "comments": 3,
+  "createdAt": "2023-11-14T10:07:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8425,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Physics Object spawn issues",
+  "up": 0,
+  "updatedAt": "2023-11-14T13:34:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8425"
+}

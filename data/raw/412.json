@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its a trivial change (in fact i would be willing to send a PR for this), doesn't break anything and most of all: makes sense.\nI think the current behavior is not sensible for the normal use cases (why would i ever enlarge my multimesh at runtime if that means loosing all the data ?), but i realize changing this might break existing code, thus. my non breaking proposition.",
+    "format": "legacy",
+    "workaround": "Except limiting myself to an arbitrary amount of instance the only way i can think of is to save all data  additionally in a script and use `set_as_bulk_array`.\nBut since that function doesn't accept a offset parameter one would then need to also pad the extra array to `instance_count`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-01-28T23:40:40Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 412,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Don't clean the data in MultiMesh when changing `instance_count`",
+  "up": 3,
+  "updatedAt": "2021-04-30T04:51:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/412"
+}

@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "can manually unzip it, but would be nice to have an editor default to save time"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-06T21:50:35Z",
+  "comments": 2,
+  "createdAt": "2024-09-06T18:03:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:macos",
+    "platform:windows",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 10674,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Re-add option to export macOS builds as an uncompressed .app bundle",
+  "up": 0,
+  "updatedAt": "2024-09-06T21:50:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10674"
+}

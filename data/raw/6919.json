@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "From the editor's point of view, it's just a checkbox that I think it will be intuitive to use and it will let the engine do more for the user. Also, the feature request is generic enough to fit more than one type of game.",
+    "format": "form",
+    "workaround": "It can be worked out in the current state, only it is inconvenient and from a design point of view, it allows incorrect variable configurations (i.e. if mistakes are made, you can have both \"is_moving\" and \"idle\" with the same value)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-05-20T14:50:41Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6919,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow AnimationNodeStateMachineTransition>Advance>Condition to be negated",
+  "up": 2,
+  "updatedAt": "2023-05-22T02:45:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6919"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a function with the keyframe button in Animation workflow, should be the core.",
+    "format": "form",
+    "workaround": "It's often used when creating animations through AnimationPlayer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-15T19:06:21Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 13394,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow applying property default value not current value to auto-created RESET track when creating new property track via the keyframe button",
+  "up": 1,
+  "updatedAt": "2025-10-15T21:21:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13394"
+}

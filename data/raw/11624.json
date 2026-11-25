@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it would be a somewhat simple added property to a core Node of Godot UI system (`TextureButton`).",
+    "format": "form",
+    "workaround": "Yes. You can set the texture size to the very specific size you need and avoid resizing the image altogether, i.e. set `ignore_texture_size` to `FALSE` or set the Button's `minimum_size` to whichever size is needed.\n\nHowever, this eliminates automatic-resizing, meaning I have to tweak either the texture or the Buttons min_size every time the UI changes size, which could be somewhat often when making test layouts or iterating on the UI."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-01-23T11:47:09Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11624,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add expand_mode (see TextureRect) to TextureButton",
+  "up": 7,
+  "updatedAt": "2025-01-28T17:44:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11624"
+}

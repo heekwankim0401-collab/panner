@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is literally a proposal for modifying core collection types.",
+    "format": "legacy",
+    "workaround": "Multiple calls of `insert`, or `append` - `append_all` only works for other types of Godot containers.\nNone of these work outside a function.\nOne could use `std::vector` or other containers but these are not trivially convertible to Godot containers."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-19T22:46:37Z",
+  "comments": 7,
+  "createdAt": "2020-08-13T06:52:53Z",
+  "down": 0,
+  "labels": [
+    "topic:codestyle",
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 1357,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement `std::initializer_list<T>` assignment for Vector<T> and other container types",
+  "up": 11,
+  "updatedAt": "2025-03-19T22:46:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1357"
+}

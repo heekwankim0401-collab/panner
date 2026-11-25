@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Enables and simplifies the creation of modern and professional looking products that heavily rely on UI elements.",
+    "format": "form",
+    "workaround": "It's the bread and butter of application UI, one can create a custom solution however it's finicky to set up and should it be needed in multiple areas of their project it could grow bug ridden. Prone to errors due to moving nodes about and coding UI is rarely ever clean."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-07T16:22:59Z",
+  "comments": 8,
+  "createdAt": "2021-12-04T15:18:56Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3635,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Modernize the V/H SplitContainer to allow for zero-border resizing",
+  "up": 26,
+  "updatedAt": "2022-09-07T16:40:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3635"
+}

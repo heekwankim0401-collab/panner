@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving an existing engine annotation",
+    "format": "form",
+    "workaround": "This can be worked around, albeit cumbersomely, by having an export variable for any parameters you want, and remembering to set them to the proper values before clicking the tool button - but this is prone to accidents such as forgetting to change a parameter (which, depending on the script, _could_ have destructive consequences), which this addition would safeguard against by prompting each time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-31T02:41:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13517,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "`@export_tool_button` for callables with parameters",
+  "up": 0,
+  "updatedAt": "2025-10-31T09:18:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13517"
+}

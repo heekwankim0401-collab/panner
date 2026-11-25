@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its core",
+    "format": "form",
+    "workaround": "no. more than few."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-15T10:28:00Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12787,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to check if a MeshInstance has a per-instance shader parameter",
+  "up": 3,
+  "updatedAt": "2025-07-18T03:43:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12787"
+}

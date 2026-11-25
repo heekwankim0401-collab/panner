@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Minor change in code (just a name change)",
+    "format": "legacy",
+    "workaround": "I think the \"SpinBox\" Control is very practical, but its weird name make it too hard to be found, and it may lead developer to lose time looking for a way to create their own numerical input Control because they didn't find it in Godot because of its name, when it fact it already existed."
+  },
+  "assignees": 0,
+  "closedAt": "2020-01-12T22:31:23Z",
+  "comments": 6,
+  "createdAt": "2019-11-06T17:54:20Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 210,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename 'SpinBox' to 'NumberInput'",
+  "up": 0,
+  "updatedAt": "2020-01-12T22:31:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/210"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The Color type itself is core",
+    "format": "form",
+    "workaround": "Yeah, it's not too big of a deal, actually. Just not as readable in some contexts.\nAt the end of the day transparent black is just a fully empty Colour.\n\n```\nconst TRANSPARENT_BLACK := Color(0)\n\n# Pseudocode\ntween.interpolate_property(sprite, \"modulate\", Color.black, TRANSPARENT_BLACK, 2)\ntween.start()\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-08T23:56:58Z",
+  "comments": 4,
+  "createdAt": "2022-02-04T12:04:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3913,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Color.transparent_black constant",
+  "up": 0,
+  "updatedAt": "2022-02-08T23:58:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3913"
+}

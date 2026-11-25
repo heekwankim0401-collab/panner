@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-06-03T15:01:10Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 14962,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `AudioServer.restart()` to use when audio system has failed or settings have changed",
+  "up": 1,
+  "updatedAt": "2026-06-16T16:23:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14962"
+}

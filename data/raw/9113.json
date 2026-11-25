@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It cannot be done without modifying engine code.",
+    "format": "form",
+    "workaround": "No, the user doesn't have this kind of fine tuned control over the reflection contribution in shaders."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-17T09:40:16Z",
+  "comments": 2,
+  "createdAt": "2024-02-17T04:34:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9113,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Support for Correcting the Projection of Cube Map Reflections Based on Camera Position",
+  "up": 0,
+  "updatedAt": "2024-02-17T09:40:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9113"
+}

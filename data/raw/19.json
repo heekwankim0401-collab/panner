@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I developed the concept as a C++ module. On my situation, it works but has the flaws listed above.\nEspecially, I have not found yet how to inject custom events into the input event processing pipeline instead of using signals. This would be much more efficient.\n\nImplementing the feature as an add-on would make sense, maybe. But, is it technically feasible today?",
+    "format": "legacy",
+    "workaround": "No, since it is the integration of a C++ library that adds new input capabilities."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2019-09-04T23:56:41Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 19,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "API for custom input event injection, to support additional input devices (multiple mice, spinners, trackballs, VR controllers, pen digitizers...)",
+  "up": 10,
+  "updatedAt": "2026-03-10T01:05:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/19"
+}

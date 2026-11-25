@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This will greatly improve the rotation tool and can be a real time saver, instead of doing all axes one by one. If it were an add-on, most people wouldn't even know the time they could've saved.",
+    "format": "form",
+    "workaround": "It could be an add-on or option in a menu, but that would hide it from people who really need it, searching through all those menus."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-27T21:28:29Z",
+  "comments": 3,
+  "createdAt": "2023-09-19T22:27:05Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 7753,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add trackball-style rotation for 3D gizmo (like in Blender)",
+  "up": 12,
+  "updatedAt": "2026-01-27T21:29:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7753"
+}

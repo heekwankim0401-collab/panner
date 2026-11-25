@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "maybe the GDScript compiler should make small functions inline automatically, but I don't know.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-07T05:31:19Z",
+  "comments": 7,
+  "createdAt": "2022-01-05T10:59:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3760,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add inline functions to GDScript",
+  "up": 17,
+  "updatedAt": "2022-01-09T15:36:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3760"
+}

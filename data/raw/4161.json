@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires modification to core class NetworkedMultiplayerPeer (or PacketPeer).",
+    "format": "form",
+    "workaround": "There is no work around for WebRTCMultiplayer or MultiplayerGDNative."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-03-05T14:37:28Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4161,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide a common and consistent way to get IP address of a connected peer.",
+  "up": 8,
+  "updatedAt": "2023-06-11T22:01:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4161"
+}

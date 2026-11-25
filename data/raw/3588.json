@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think especially first time users shouldn't be required to download a add-on to have a good experience.\nOf course it could be made into an add-on: Something like a Particle Editor - but again, I think the experience in the Engine should be a good one by default.",
+    "format": "form",
+    "workaround": "It's changing the way Particles are setup and worked with. So it can't be worked around with a few lines of code and is often used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-11-23T11:40:20Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:editor"
+  ],
+  "milestone": "5.0",
+  "number": 3588,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rework ParticlesMaterial properties  and layout for better usability",
+  "up": 21,
+  "updatedAt": "2024-11-19T05:37:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3588"
+}

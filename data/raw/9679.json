@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core editor functionality. It also appears other parts of the editor already have case insensitive searches (for example `Connect a Signal to a Method`) (compare below screenshot to one above)\n\n![image](https://github.com/godotengine/godot-proposals/assets/5893112/8aaba944-0e05-4fa5-b113-4dcd73ca9e0a)",
+    "format": "form",
+    "workaround": "I don't believe this can be fixed with a script/addon"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-06T13:19:54Z",
+  "comments": 0,
+  "createdAt": "2024-05-05T15:27:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9679,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Select Method search box case insensitive",
+  "up": 0,
+  "updatedAt": "2024-05-06T13:19:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9679"
+}

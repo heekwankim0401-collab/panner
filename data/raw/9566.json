@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Depending on how the collision system in godot works, this could either be a simple asset called \"Advanced Raycast\" or something, or this would need a complete rework of the current collision system.",
+    "format": "form",
+    "workaround": "Colliders on rigidbodies where they are the only collider and be referenced with get_collider().get_child(\"name\") (again, pseudocode)\n\nHaving multiple colliders on one rigidbody and having each separately referencable in runtime is basically the only real way for sandbox vehicle builder games to not get too laggy and/or hard to develop.\n\n\nEDIT: another workaround was suggested by Xireael07: catalouge every instance of CollisionShape, get the shape ID with RayCast.get_collider_shape(), and find the corresponding CollisionShape that way (still, not ideal)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-20T16:25:27Z",
+  "comments": 15,
+  "createdAt": "2024-04-20T11:09:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9566,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method for RayCast2D that returns the actual CollisionShape2D or CollisionPolygon2D hit instead of the rigidbody",
+  "up": 0,
+  "updatedAt": "2025-02-06T00:57:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9566"
+}

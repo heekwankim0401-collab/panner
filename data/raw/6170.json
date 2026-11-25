@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it's on CharacterBody2D and some of the implementations would even override move_and_collide. Also, they need to be able to set `on_floor` which is not accessible in GD script.",
+    "format": "form",
+    "workaround": "I already described a workaround in my step 3.\n\nAnother workaround is to track your own is_on_floor variable, still using the custom raycast/last move_and_collide call. But then you're basically writing your custom character collider, reducing the advantage of CharacterBody2D (except you have a bonus method move_and_slide)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-26T14:47:48Z",
+  "comments": 1,
+  "createdAt": "2023-01-25T19:56:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6170,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "CharacterBody2D: add a method to move and snap (not slide), but still update is_on_floor() result",
+  "up": 0,
+  "updatedAt": "2024-06-26T14:49:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6170"
+}

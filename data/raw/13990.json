@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Texture2DRD is a built in type, as are all of the RD rendering objects. To me, if it is possible for this to be done it should be a core feature.",
+    "format": "form",
+    "workaround": "Working around this currently requires holding a copy of the texture data, and either writing to it from the compute shaders, or using a texture copy. It also requires conversion on each end so that the bits are treated correctly as uint data."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-01-11T11:37:50Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13990,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Texture2DRD to accept 32-bit UINT types",
+  "up": 4,
+  "updatedAt": "2026-02-20T17:01:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13990"
+}

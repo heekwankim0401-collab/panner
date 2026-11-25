@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "From what I can tell there is no functionality in the engine (at the moment) that allows for users to add custom entries to built in context menus. If I am wrong though this whole proposal is completely redundant.",
+    "format": "form",
+    "workaround": "Yes! If the user could extend the context menus in various parts of the engine from GDScript this could easily be made into a editor tool script someone could use from the asset library if they wanted to."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-11-23T17:42:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5833,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an \"import files\" dialog to the filesystem dock",
+  "up": 7,
+  "updatedAt": "2022-11-23T17:44:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5833"
+}

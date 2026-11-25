@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It affects an existing core feature, and possibly allows to remove dependencies from it.",
+    "format": "form",
+    "workaround": "Workarounds I've used so far require more than a few lines of code to expose an option in the editor to create a proxy mesh, which is an extra step for users each time they need to update a scene-wide navmesh."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-19T14:30:00Z",
+  "comments": 1,
+  "createdAt": "2022-08-10T19:45:53Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.3",
+  "number": 5138,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose an API for the Navigation mesh generator to register custom geometry providers and reduce its dependencies",
+  "up": 19,
+  "updatedAt": "2024-04-19T14:30:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5138"
+}

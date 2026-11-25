@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-07-24T08:44:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15244,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add drop indicator for array/dictionary reordering in the Inspector to improve UX/UI",
+  "up": 9,
+  "updatedAt": "2026-07-24T15:34:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15244"
+}

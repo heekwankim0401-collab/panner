@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "From https://github.com/godotengine/godot-proposals/issues/13308: if making plugins involves having another plugin to reload the plugin, then something is wrong.",
+    "format": "form",
+    "workaround": "@KoBeWi shared a script in his proposal with a workaround: https://github.com/godotengine/godot-proposals/issues/13308"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-10-29T13:05:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 13503,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Reload plugin with RMB on plugin.cfg or the plugin folder",
+  "up": 0,
+  "updatedAt": "2025-11-01T13:35:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13503"
+}

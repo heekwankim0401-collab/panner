@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "[_An addon would be impossible to make for this without the same limitations of the project that i'm working on, which is the problem with getting the actual number of nodes in the current VS implementation._]\n\nEdit: you can ignore anything i put in brackets and italic now, In 3.2.2 that is no longer an issue",
+    "format": "legacy",
+    "workaround": "[_only partly, as there is no way to get the number of nodes in a Visual Script, it's impossible to be sure if all the nodes have been collected because in order to get them you have to put an iterator to get nodes and save just what returns true because for some reason node lists can be sorted like \"0,1,5,6,18,19...\" and if you tried to use while it'd end after trying to see if node 2 exists which it doesn't but there are nodes past it_], as far as the data collection goes it can be for the most part built from the current VS it's just a very complicated process"
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-29T08:12:14Z",
+  "comments": 3,
+  "createdAt": "2020-06-27T11:44:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 1128,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Extra Visual Script Commands",
+  "up": 1,
+  "updatedAt": "2020-06-30T07:49:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1128"
+}

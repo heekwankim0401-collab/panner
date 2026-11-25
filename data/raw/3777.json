@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "the audio pitches are bugged and make the sound sound way worse (https://github.com/godotengine/godot/issues/56647)\nand it will have a quality loss anyway (with or without the bug) because the audio has to be pitched twice (which causes latency and worse audio quality)\n\nso this would solve my quality-loss-latency issue",
+    "format": "form",
+    "workaround": "^\n\nis possible"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-09T16:23:48Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3777,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to disable pitch shifting from `AudioServer.playback_speed_scale()`",
+  "up": 2,
+  "updatedAt": "2022-01-10T17:02:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3777"
+}

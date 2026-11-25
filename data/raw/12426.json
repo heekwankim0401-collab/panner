@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This affects the core rendering pipeline at a very low level.",
+    "format": "form",
+    "workaround": "The problem can be worked around using multiple viewports, but it adds significant complexity and performance impact."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-14T13:42:49Z",
+  "comments": 1,
+  "createdAt": "2025-05-14T00:21:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12426,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Render Layers",
+  "up": 3,
+  "updatedAt": "2025-05-14T13:44:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12426"
+}

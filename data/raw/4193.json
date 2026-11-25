@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since games with a lowpoly/stylized aesthetic are often developed with Godot (and I don't see that changing soon), I think it makes sense to provide this as a built-in option. In any case, debanding would still be disabled by default to avoid making screenshots larger when it's not needed.",
+    "format": "form",
+    "workaround": "This can be worked around with a custom shader already: https://github.com/fractilegames/godot-gles2-debanding-material"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-03-09T17:07:08Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.6",
+  "number": 4193,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add material-based debanding as an alternative (or replacement) to screen-space debanding",
+  "up": 1,
+  "updatedAt": "2025-10-15T15:57:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4193"
+}

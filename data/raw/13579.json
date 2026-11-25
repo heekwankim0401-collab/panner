@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "How window behaves is controlled by core code.",
+    "format": "form",
+    "workaround": "Nope. It must be done in godot core c++."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-05T14:19:15Z",
+  "comments": 0,
+  "createdAt": "2025-11-05T14:18:40Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13579,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "UI look and feel improve: removing title bar of editor in windows.",
+  "up": 0,
+  "updatedAt": "2025-11-05T14:20:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13579"
+}

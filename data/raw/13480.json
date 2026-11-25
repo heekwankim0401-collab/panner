@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it changes the rendering on how shaders are implemented, so it's an infrastructural change",
+    "format": "form",
+    "workaround": "yes I proposed the workaround already, but this is more of a seemless experience in my opinion"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-27T03:54:03Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13480,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "next_pass allow to read from the VERTEX from previously rendered material",
+  "up": 0,
+  "updatedAt": "2025-10-27T16:21:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13480"
+}

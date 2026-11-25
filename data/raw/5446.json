@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "C# is used, according to a recent official Godot poll, by over 13% of Godot users. Such a change would impact them very positively in their day-to-day game making.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-09-18T11:18:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5446,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use PascalCase naming when creating signal functions in C# scripts",
+  "up": 0,
+  "updatedAt": "2022-09-24T14:32:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5446"
+}

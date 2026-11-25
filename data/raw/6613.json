@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Bringing the engine more in line with other software.",
+    "format": "form",
+    "workaround": "I imagine this could be implemented through a custom shader and a few resources, but it seems like a large project to do."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-04-02T17:16:11Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6613,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expand adjustments into more proper color grading",
+  "up": 3,
+  "updatedAt": "2025-02-26T14:59:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6613"
+}

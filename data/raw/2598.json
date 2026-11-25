@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There's no way to access `SceneTree::xform_change_list` from GDScript.",
+    "format": "markdown",
+    "workaround": "It's possible to create a \"helper Spatial\". The following code would work:\n\ndirty_flush_helper.gd\n```gdscript\nextends Spatial\n\nsignal flush\n\nfunc _init() -> void:\n\tset_notify_transform(true)\n\nfunc _notification(what: int) -> void:\n\tif what == NOTIFICATION_TRANSFORM_CHANGED:\n\t\temit_signal(\"flush\")\n```\n\n```gdscript\nvar flush_helper : Spatial\nvar flush_queued : bool = false\n\nfunc _init() -> void:\n\tflush_helper = preload(\"dirty_flush_helper.gd\").new()\n\tflush_helper.connect(\"flush\", self, \"_flush\")\n\tadd_child(flush_helper)\n\nfunc _flush() -> void:\n\tif flush_queued:\n\t\tflush_queued = false\n\t\tnotify(NOTIFICATION_FLUSH)\n\nfunc set_dirty() -> void:\n\tflush_queued = true\n\tflush_helper.transform = Transform.IDENTITY\n```\n\nNeedless to say, this is ugly af."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-04-13T03:55:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2598,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add generic dirty-flush mechanism for nodes",
+  "up": 0,
+  "updatedAt": "2022-05-03T00:27:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2598"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core",
+    "format": "form",
+    "workaround": "It will be used each time a scene is exported to a MeshLibrary"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-01-18T04:41:09Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3821,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "More flexible `MeshLibrary` generation from scene",
+  "up": 4,
+  "updatedAt": "2022-01-18T16:08:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3821"
+}

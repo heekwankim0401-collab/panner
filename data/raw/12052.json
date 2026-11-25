@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "but placing a tool script into every project is not the right way to do it.",
+    "format": "form",
+    "workaround": "It could (and will be tricky)..."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-17T17:03:49Z",
+  "comments": 0,
+  "createdAt": "2025-03-22T19:36:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 12052,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Distraction Free Mode\" button to `EditorBottomPanel` when bottom panel is expanded",
+  "up": 6,
+  "updatedAt": "2025-11-17T17:04:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12052"
+}

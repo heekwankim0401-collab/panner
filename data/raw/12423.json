@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Losing user data shouldn't ever be a thing. Exported variables are already a key feature of Godot but this issue really makes them fragile to work with.\n\nP.S. apologies if there's any poor terminology usage. I'm new to this.",
+    "format": "form",
+    "workaround": "I've previously tried using an editor script to move old variables to new variable names, but it wasn't successful in my case. The inspiration for this recent issue happened because I moved a variable to an inherited custom resource from it's base custom resource. Even though it's the exact same variable name, the value is gone. Probably because removing it from the base class removes the value from the inspector before it can be read from the inherited resource."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-13T15:17:52Z",
+  "comments": 1,
+  "createdAt": "2025-05-13T15:15:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12423,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Cache renamed/deleted exported variables",
+  "up": 0,
+  "updatedAt": "2025-05-13T15:17:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12423"
+}

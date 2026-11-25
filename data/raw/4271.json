@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a also a bug in core Godot Engine.",
+    "format": "form",
+    "workaround": "This can be worked around with a page of code, but it is also a bug in Godot Engine."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-27T10:37:26Z",
+  "comments": 15,
+  "createdAt": "2022-03-24T08:59:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 4271,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Compress textures when importing a GLTF2 that has built-in textures as BasisU",
+  "up": 2,
+  "updatedAt": "2023-01-27T10:37:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4271"
+}

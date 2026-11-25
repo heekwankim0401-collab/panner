@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-11-05T19:57:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15741,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to drag and drop a texture into the Text window of a RichTextLabel node",
+  "up": 1,
+  "updatedAt": "2026-11-09T01:50:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15741"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be really nice to have as part of the Godot `RandomNumberGenerator` module. There is C++ source code in the above blog post, although I'm not sure of the licensing thereof.",
+    "format": "form",
+    "workaround": "It could not, but perhaps it could be a module or addon"
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-07T20:27:07Z",
+  "comments": 4,
+  "createdAt": "2024-01-15T07:26:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8884,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add more random number generation options",
+  "up": 0,
+  "updatedAt": "2026-11-09T12:54:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8884"
+}

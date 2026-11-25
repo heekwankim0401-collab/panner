@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "`move_and_slide` is a core function in the engine and the current behaviour may (and in my case *did*) lead to bugs.",
+    "format": "form",
+    "workaround": "Changing scale to flip nodes and calling `move_and_slide` is a common use case in 2D games."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-24T03:56:29Z",
+  "comments": 3,
+  "createdAt": "2022-03-18T16:58:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 4235,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "`move_and_slide` should not alter scale",
+  "up": 5,
+  "updatedAt": "2023-02-24T03:56:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4235"
+}

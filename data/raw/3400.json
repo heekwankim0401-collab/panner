@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This cannot be done with an add-on.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-25T17:14:43Z",
+  "comments": 11,
+  "createdAt": "2021-10-07T20:23:47Z",
+  "down": 0,
+  "labels": [
+    "topic:codestyle",
+    "topic:docs",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 3400,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove `@desc` tag in documentation comments",
+  "up": 0,
+  "updatedAt": "2022-05-25T17:14:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3400"
+}

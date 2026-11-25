@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Having it as part of the Gotdot core means it can be built from the made engine source, either locally or for automated build systems.",
+    "format": "form",
+    "workaround": "All depends on how much you want to tweak it. You could write a script to be platform based. so Raspberry Pi M3, generic ARM64 etc."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-25T20:24:22Z",
+  "comments": 4,
+  "createdAt": "2024-05-25T20:06:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 9822,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot should  support ARM64.",
+  "up": 4,
+  "updatedAt": "2024-05-28T12:04:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9822"
+}

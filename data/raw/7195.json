@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`ResourceUID` must be modified, which cannot be done with an addon.",
+    "format": "form",
+    "workaround": "No, this is part of the core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 25,
+  "createdAt": "2023-07-03T18:17:17Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7195,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add project setting to disable UIDs and UID caching",
+  "up": 47,
+  "updatedAt": "2026-06-30T16:20:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7195"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Having by default access to a list of common basic shaders to modify will make the visual shader editor a lot more useful.",
+    "format": "legacy",
+    "workaround": "Not sure ready, is more a basic improvement that will help a lot of devs."
+  },
+  "assignees": 0,
+  "closedAt": "2020-04-14T07:30:19Z",
+  "comments": 13,
+  "createdAt": "2020-01-04T15:52:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 354,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add common shaders as presets to the shader editor",
+  "up": 0,
+  "updatedAt": "2020-04-14T07:31:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/354"
+}

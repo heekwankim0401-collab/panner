@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A feature similar to this already exists when looping audio files, and it gives the user more flexibility when creating animations inside of the engine.",
+    "format": "markdown",
+    "workaround": "I already work around this by making another animation and having the AnimationPlayer automatically transition to that loop animation when the start-up animation ends."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-01T15:36:58Z",
+  "comments": 6,
+  "createdAt": "2021-01-21T01:52:41Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.4",
+  "number": 2159,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to loop one section of an animation in AnimationPlayer",
+  "up": 16,
+  "updatedAt": "2024-10-01T15:37:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2159"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is the default behaviour for any other application on mac or windows.",
+    "format": "form",
+    "workaround": "This should be native behaviour and not require a plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-26T21:34:51Z",
+  "comments": 10,
+  "createdAt": "2023-11-06T11:42:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.4",
+  "number": 8358,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Restore editor window size and position between sessions",
+  "up": 26,
+  "updatedAt": "2024-12-10T17:34:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8358"
+}

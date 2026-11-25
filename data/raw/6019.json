@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I am unsure how mipmaps are loaded, though if we can load the mipmap levels respecting the trim setting, there is no downside to implementing this feature to core.  I am not sure if an add-on would have access to these lower level mipmaps without loading the higher resolution images, costing memory and storage bandwidth.",
+    "format": "form",
+    "workaround": "This would only impact textures with mipmaps and only if it is changed from default.  As such, sprites and UI elements should be safe.  Additionally, if the setting remains to the default of 0, there would be no impact to anyone who does not use the setting.  Lastly, if the feature is used, these feature could be worked around by one of two ways:\n1) Disable mipmaps on the affected texture.\n2) Add a final import setting for a local minimal trim resolution."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-30T00:07:02Z",
+  "comments": 1,
+  "createdAt": "2022-12-29T23:40:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6019,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a project setting to set a lower resolution mip map as the top level texture.",
+  "up": 0,
+  "updatedAt": "2022-12-30T00:30:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6019"
+}

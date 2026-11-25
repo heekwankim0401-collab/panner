@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is not a part of the Core",
+    "format": "form",
+    "workaround": "No, engine users have to clone the GodotEngine repo and perform a mono build every time for testing."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-15T16:19:14Z",
+  "comments": 3,
+  "createdAt": "2024-03-15T16:00:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 9302,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide Nightly builds on the main branch.",
+  "up": 0,
+  "updatedAt": "2024-03-15T16:19:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9302"
+}

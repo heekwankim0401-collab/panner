@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a pretty simple change to the `bool` class probably not deserving of a whole add-on\n\n\n**(edit: just noticed boolean has no method, if there is a reason for this it could also be a utility function like lerp() or round())**",
+    "format": "form",
+    "workaround": "It is easy to work around with this:\n`value = value != true`\nor this:\n```\nif value:\n   value = false\nelse:\n   value = true\n```\nbut neither of these are particularly readable"
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-28T13:23:50Z",
+  "comments": 5,
+  "createdAt": "2025-07-27T22:33:57Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12882,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add .toggle() to Boolean Class",
+  "up": 0,
+  "updatedAt": "2025-07-28T13:36:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12882"
+}

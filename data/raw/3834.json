@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This is a meta enhancement, which would only affect engine development, not engine usage."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-08T15:11:56Z",
+  "comments": 6,
+  "createdAt": "2022-01-20T02:30:58Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 3834,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ignore formatting revisions in `git blame`",
+  "up": 2,
+  "updatedAt": "2022-09-08T15:11:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3834"
+}

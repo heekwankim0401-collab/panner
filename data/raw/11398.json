@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Its essential feature if the user wants to create UI in a vertical script.\nWhile some languages like Chinese or Japanese can be written and read horizontally, others like Mongolian Script cannot. And if its implemented for one language type, why not allow for others.",
+    "format": "form",
+    "workaround": "For Vertical left to right:\nrotate the transform of the rich text label by -90 or -PI/2\nset scale of the transform of the rich text label as (-1,1)\nUsing RichTextEffect\n```gdscript\nfunc _process_custom_fx(char_fx: CharFXTransform) -> bool:\n\tchar_fx.transform=char_fx.transform.scaled_local(Vector2(1,-1))\n\treturn true\n```\nResult: almost working except the line spacing is off due to flipping the text horizontally by the scale, and the spacing is either too narrow or too wide.\n\nFor Vertical right-to-left:\nrotate the transform of the rich text label by -90 or -PI/2\nResult: working\n\nFor Vertical left-to-right upright:\nrotate the transform of the rich text label by -90 or -PI/2\nset scale of the transform of the rich text label as (-1,1)\nUsing RichTextEffect\n```gdscript\nfunc _process_custom_fx(char_fx: CharFXTransform) -> bool:\n\tchar_fx.transform=char_fx.transform.scaled_local(Vector2(1,-1))\n\tchar_fx.transform=char_fx.transform.rotated_local(-PI/2)\n\t#to offset the font size\n\tchar_fx.offset.y+= 100\n\treturn true\n```\nResult: Top row isn't visible unless the x offset is set to the font size\n\nFor Vertical right-to-left upright:\nrotate the transform of the rich text label by -90 or -PI/2\nUsing RichTextEffect\n```gdscript\nfunc _process_custom_fx(char_fx: CharFXTransform) -> bool:\n\tchar_fx.transform=char_fx.transform.rotated_local(-PI/2)\n\t#to offset the font size\n\tchar_fx.offset.y+= 100\n\treturn true\n```\n\nResult: Top row isn't visible unless the x offset is set to the font size"
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-12-20T21:37:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11398,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "More text direction options for vertical left to right and right to left",
+  "up": 2,
+  "updatedAt": "2026-05-12T01:16:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11398"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "legacy",
+    "workaround": "Yes but maybe more than a few lines. You could define a variable for your own default."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-22T15:39:54Z",
+  "comments": 2,
+  "createdAt": "2020-06-07T18:57:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1024,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add own default for every property on every node",
+  "up": 0,
+  "updatedAt": "2020-11-22T15:39:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1024"
+}

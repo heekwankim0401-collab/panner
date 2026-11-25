@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": ".",
+    "format": "form",
+    "workaround": "In current GD script you would just define a new function that calls the original one, it will uses one extra stack call. If the function has argouments you would have to copy all of them as well.\n```gdscript\nfunc append () -> void:\n    add()\n\nfunc send (item: String, amount: int) -> void:\n    give(item, amount)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T13:38:58Z",
+  "comments": 6,
+  "createdAt": "2024-05-17T18:21:47Z",
+  "down": 14,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9768,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add \"alias\" keyword for functions in GDscript",
+  "up": 0,
+  "updatedAt": "2026-07-28T13:39:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9768"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-03T15:02:41Z",
+  "comments": 1,
+  "createdAt": "2026-06-30T14:28:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 15106,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Home and End keyboard shortcuts to the SceneTree and FileSystem docks",
+  "up": 8,
+  "updatedAt": "2026-07-03T21:22:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15106"
+}

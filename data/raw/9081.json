@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The feature affected is part of the core.",
+    "format": "form",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-12T13:17:32Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9081,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose PhysicalBone3D joint constraints",
+  "up": 1,
+  "updatedAt": "2024-02-12T19:03:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9081"
+}

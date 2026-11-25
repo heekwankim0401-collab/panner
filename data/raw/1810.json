@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Handling the mouse cursor is a core feature. Hiding is already a core feature, and confining is already a core feature, so it would make sense to allow doing both of these things at the same time.",
+    "format": "legacy",
+    "workaround": "You could try using confined with a transparent cursor, but [this isn't working right now](https://github.com/godotengine/godot/issues/21745). You can try to work around it by setting the mouse cursor texture to a 1 pixel image or something, but this is still visible so it's not ideal."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-03T20:00:15Z",
+  "comments": 1,
+  "createdAt": "2020-11-12T02:47:21Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 1810,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow the mouse to be both confined and hidden by changing the MouseMode enum to be bitwise",
+  "up": 10,
+  "updatedAt": "2021-06-04T17:34:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1810"
+}

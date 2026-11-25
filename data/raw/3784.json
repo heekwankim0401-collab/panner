@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This change behavior of the engine directly, and needs rewrite certain parts of the engine.",
+    "format": "form",
+    "workaround": "This can get around very easily with common directory-style to store all node scripts. Still, this is unfavorable for many people who only write only few lines of script for nodes.\n\n```\n- level\n  - level_1.src\n    - super_easy_trapdoor.gd\n    - i_just_wanna_say_hello.gd\n  - level_1.tscn\n  - level_1.gd\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-01-11T09:45:40Z",
+  "down": 6,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3784,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rework how Godot handles built-in scripts",
+  "up": 2,
+  "updatedAt": "2022-01-12T17:21:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3784"
+}

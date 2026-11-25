@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the automation experience for people setting up CI platforms.",
+    "format": "form",
+    "workaround": "This can be worked around by specifying an absolute path instead, but a lot of people won't think about doing this naturally (even though it's good practice to do so in CI scripts)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-07-22T19:48:01Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "5.0",
+  "number": 4951,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the `--export` output path relative to the current working directory instead of the project root",
+  "up": 6,
+  "updatedAt": "2023-02-24T04:04:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4951"
+}

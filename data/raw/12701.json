@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not leaking excluded content is probably what developers expect",
+    "format": "form",
+    "workaround": "You can only delete files and restart the editor to get them out of those caches"
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-16T16:42:23Z",
+  "comments": 1,
+  "createdAt": "2025-07-01T13:02:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.7",
+  "number": 12701,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't export metadata of excluded files in game builds",
+  "up": 16,
+  "updatedAt": "2026-03-16T16:44:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12701"
+}

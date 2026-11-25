@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving editor usability out of the box :)",
+    "format": "form",
+    "workaround": "Cannot be worked around with a script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-08T16:06:49Z",
+  "comments": 1,
+  "createdAt": "2025-08-08T15:55:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12968,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change how exported arrays of resources are displayed in the Inspector",
+  "up": 0,
+  "updatedAt": "2025-08-08T16:06:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12968"
+}

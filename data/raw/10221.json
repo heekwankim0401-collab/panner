@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Part of the FocusMode enum directly in the Control node",
+    "format": "form",
+    "workaround": "Working around this with script would be rather difficult as focus events are hard to grab when objects lose focus."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-07-15T23:53:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10221,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Control focus mode for non-mouse inputs only",
+  "up": 9,
+  "updatedAt": "2025-08-07T01:12:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10221"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's just basic function in `Image` operation.",
+    "format": "markdown",
+    "workaround": "There is no work around to make a picture rotated in `ItemList`."
+  },
+  "assignees": 1,
+  "closedAt": "2022-07-19T13:21:17Z",
+  "comments": 5,
+  "createdAt": "2021-03-08T12:47:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2428,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Rotate to Image",
+  "up": 4,
+  "updatedAt": "2022-07-19T13:21:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2428"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Multimesh generation is already in place, it just needs improvement.",
+    "format": "form",
+    "workaround": "I'd say so. at least 3 of my 5 projects use terrain and foliage. so anyone else would find this usefull"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-12-09T18:59:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5920,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Y min and max range limiter as well as exceptions via node groups or collisions to Populate MultiMesh",
+  "up": 2,
+  "updatedAt": "2022-12-09T21:02:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5920"
+}

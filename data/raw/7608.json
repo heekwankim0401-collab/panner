@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Too close to core editor code.",
+    "format": "form",
+    "workaround": "No, it's core editor stuff. The best workaround is to manually add `&\"` (if you just type `&` unfortunately, it will stop prompting for auto-complete, which is another issue; so you need to type `\"` afterward)."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-05T19:32:46Z",
+  "comments": 1,
+  "createdAt": "2023-09-05T16:04:08Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7608,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add ampersand `&` in front of StringName added via auto-completion",
+  "up": 1,
+  "updatedAt": "2023-09-05T19:32:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7608"
+}

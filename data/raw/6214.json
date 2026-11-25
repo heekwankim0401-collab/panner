@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core.\nAlso I'm pretty sure a similar proposal has existed for a long time, as this behavior has existed since the day one debugger existed. But I just can't find it.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2023-01-31T12:42:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6214,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way for Objects to show a custom string representation in the Inspector dock",
+  "up": 19,
+  "updatedAt": "2026-02-15T17:18:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6214"
+}

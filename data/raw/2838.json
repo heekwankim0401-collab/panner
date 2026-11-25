@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a logical extension of the Godot's current Tilemap functionality, and this is a common feature to TileMaps in other game libraries. As it would replace the current Y Sort functionality it does not seem like feature bloat, but more like replacing a specialized feature with a more generic one.",
+    "format": "form",
+    "workaround": "When working with tiles at the same Y coordinate, TileMaps currently break ties by rendering the oldest tiles first. With this limitation, the only way I can think of to work around this limitation is to erase all objects in the TileMap and reinsert them from left to right, something like this.\n\n```\nfunc xsort() -> void:\n    var new_used_cells = get_used_cells().duplicate()\n    new_used_cells.sort_custom(self, \"_compare_by_x\")\n    \n    var prev_used_cell_x: int\n    if new_used_cells:\n        prev_used_cell_x = new_used_cells[0].x\n    for used_cell in new_used_cells:\n        var tile: int = get_cell(used_cell.x, used_cell.y)\n        var flip_x: bool = is_cell_x_flipped(used_cell.x, used_cell.y)\n        var flip_y: bool = is_cell_y_flipped(used_cell.x, used_cell.y)\n        var transpose: bool = is_cell_transposed(used_cell.x, used_cell.y)\n        var autotile_coord: Vector2 = get_cell_autotile_coord(used_cell.x, used_cell.y)\n        \n        set_cell(used_cell.x, used_cell.y, -1)\n        if used_cell.x != prev_used_cell_x:\n            prev_used_cell_x = used_cell.x\n            yield(get_tree(), \"idle_frame\")\n        set_cell(used_cell.x, used_cell.y, tile, flip_x, flip_y, transpose, autotile_coord)\n```\n\nThis code must be executed every time the scene is initialized and every time the TileMap changes. It takes a little while to run and results in a strange visible effect during its duration. It is possible there is a more efficient workaround that I have not thought of."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-06-06T17:58:21Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2838,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow TileMaps to sort by X coordinate for isometric games",
+  "up": 6,
+  "updatedAt": "2021-06-30T16:46:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2838"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is trying to move Collada import to an asset library style.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-01T05:50:24Z",
+  "comments": 2,
+  "createdAt": "2022-07-16T12:07:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 4885,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use COLLADA2GLTF instead of our own collada importer",
+  "up": 9,
+  "updatedAt": "2022-08-01T05:50:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4885"
+}

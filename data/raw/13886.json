@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Since you can set the order of items within PopupMenu's `items` property in the editor, it feels very unintuitive that you cannot also set them within a script",
+    "format": "form",
+    "workaround": "You'd have to ignore the PopupMenu's `items` property in the editor, and write your own script to add all the items. This is a lot of extra effort for just changing the position of a submenu item"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-29T00:03:48Z",
+  "comments": 0,
+  "createdAt": "2025-12-18T17:44:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.7",
+  "number": 13886,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to change the order of `PopupMenu` items",
+  "up": 6,
+  "updatedAt": "2026-01-29T00:05:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13886"
+}

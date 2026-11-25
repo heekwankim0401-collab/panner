@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The reason is simple: Considering that the animation tree is in core of the engine, a simple and yet key function, should the be added to the core engine.\n```[tasklist]",
+    "format": "form",
+    "workaround": "I think that it should be too dificult to make it, but it's not convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-10-25T18:51:13Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 8256,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add in the transition to another State Machine the required condition bool value to be activated in the AnimationTree.",
+  "up": 1,
+  "updatedAt": "2023-10-26T14:48:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8256"
+}

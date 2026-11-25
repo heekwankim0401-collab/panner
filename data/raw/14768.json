@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-02T08:24:34Z",
+  "comments": 1,
+  "createdAt": "2026-05-02T00:55:38Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 14768,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve FSR3 Integration in Godot Renderer (Motion Vectors, Stability & Frame Generation Support)",
+  "up": 1,
+  "updatedAt": "2026-05-02T08:33:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14768"
+}

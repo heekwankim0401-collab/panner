@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Just google how many `godot get_node returns null` topics and you will see that its not just me.",
+    "format": "markdown",
+    "workaround": "It can be worked around but its not trivial for new users and people coming from other game engines.\nThis would fix that issue"
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-16T00:19:55Z",
+  "comments": 10,
+  "createdAt": "2021-04-15T05:03:18Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2606,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Obsoleate _enter_tree _exiting_tree and _exited_tree in favor for onready only scripts",
+  "up": 0,
+  "updatedAt": "2021-04-16T00:23:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2606"
+}

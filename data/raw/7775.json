@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Unscaled time has tons of uses - from UIs, debugging, efects, animations, and gameplay. Rather than have devs jump through hoops to estimate this value, it should simply be available.  It already has that value calculated at some point, as it's used to calculate the scaled time. It just seems to be a matter of exposing it in the API.",
+    "format": "form",
+    "workaround": "Yes.\n- If we add a static method like `Engine.GetUnscaledDeltaTime()` users can use it, but it does not force its use.\n- If we offer unique methods in Node like `_UnscaledProcess()` they do not have to extend them.\n- If we offer unique overloads to lifecycle functions, they do not have to extend them."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-09-21T03:31:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7775,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add improved support for unscaled time",
+  "up": 28,
+  "updatedAt": "2024-04-22T01:26:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7775"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving how we manage which nodes are running which game loop functions and giving us a bit more flexibility, making process mode more powerful.",
+    "format": "form",
+    "workaround": "I think it would be used often, particularly in games with a lot of cutscenes, animations, or presentation polish. \n\nIt would probably just be a copy paste of an existing process mode file with a couple of adjustments to block the inputs.  So I don't think it is a ton of work compared to how useful it would be.\n\nYes, you can work around it with recursion to get children and set input handled, but that's what process mode is already supposed to do, is set how the node's children should handle game loop events.  So I think it makes sense to bake this in rather than having to code extra things specifically for when you need rendering and not input."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-11T07:47:33Z",
+  "comments": 7,
+  "createdAt": "2024-12-07T06:32:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 11307,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Process Mode or inherited property to block input but allow physics/animation for cutscenes and transitions",
+  "up": 0,
+  "updatedAt": "2024-12-11T07:52:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11307"
+}

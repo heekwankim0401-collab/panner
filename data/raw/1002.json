@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Changes to export process seems core to me. It's not essential but would be a decent quality of life change in the Android workflow.",
+    "format": "legacy",
+    "workaround": "No. To my knowledge you can't script the export process, you need to manually go in and change options each time. You could build 4 separate export templates for each arch, and build a shell script invoking Godot with the `--export` option instead, but this has the drawback of now needing to keep 4 export configs in sync, (i.e. the only desired difference is the arch)."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-14T12:41:18Z",
+  "comments": 5,
+  "createdAt": "2020-06-03T14:11:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1002,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support exporting multiple architecture specific Android APKs in a single export",
+  "up": 0,
+  "updatedAt": "2020-06-14T12:41:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1002"
+}

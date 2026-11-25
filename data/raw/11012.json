@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think an add-on _could_ do it but it would be overkill for a native action shortcut.",
+    "format": "form",
+    "workaround": "No, it's native action binding."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-19T16:24:59Z",
+  "comments": 4,
+  "createdAt": "2024-10-22T14:30:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 11012,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add customizable keyboard shortcut to toggle node visibility",
+  "up": 6,
+  "updatedAt": "2026-02-19T16:24:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11012"
+}

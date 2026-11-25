@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, I was thinking it might be faster, than adding a next-pass material . . .\n\nor, call it a ' static decal ', or something like, ' mesh decal ', so people instantly know, what it is <3 Local decal . . ? <3",
+    "format": "markdown",
+    "workaround": "Well, one can just add a next-pass material, but was thinking, it might be faster to simply make more details, like when one opens it, one can set, ' number of details ', an integer, 1, 2, 3, up to 4 . . also, maybe rename ' detail ' to ' decal ' or, ' UV decal ', since I had no idea that it was basically a decal, that works like an ' extra ' texture, on the same UV's . . <3"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-20T14:47:49Z",
+  "comments": 3,
+  "createdAt": "2021-01-16T08:35:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2132,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make so that a StandardMaterial supports more than one detail ( decal ) . .",
+  "up": 0,
+  "updatedAt": "2021-10-20T14:47:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2132"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-17T12:39:17Z",
+  "comments": 1,
+  "createdAt": "2021-03-22T18:40:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 2494,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement DAP-compliant middleware to interact with Editor Debugger",
+  "up": 17,
+  "updatedAt": "2022-02-17T12:39:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2494"
+}

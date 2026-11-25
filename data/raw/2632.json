@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would affect core classes.",
+    "format": "markdown",
+    "workaround": "Well kindof, you can use a 3rd party c++ library, like I used [libnyquist](https://github.com/ddiakopoulos/libnyquist), it just seems a little bit wasteful to have 2 decoders for all the formats. I'm alright with it though, I need gdnative for an [fft library](https://github.com/mborgerding/kissfft) anyway (the built-in spectrum analyzer is wayyy too imprecise for my niche use-case, and it's realtime too so the user would need to listen to the whole thing before anything else).\nI don't know though if anyone needed this who doesn't use gdnative, I just thought I'd share my use case. It's fine to close this too if there's no way any other people found this useful :D."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-27T15:40:25Z",
+  "comments": 4,
+  "createdAt": "2021-04-22T14:57:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 2632,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add a method to get raw audio sample data",
+  "up": 17,
+  "updatedAt": "2025-11-27T15:40:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2632"
+}

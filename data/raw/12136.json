@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Noise generation is commonly used in games.",
+    "format": "form",
+    "workaround": "Nope."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-04-01T14:04:12Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12136,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Integrate FastNoise2 as a faster replacement to FastNoiseLite",
+  "up": 13,
+  "updatedAt": "2026-11-03T11:33:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12136"
+}

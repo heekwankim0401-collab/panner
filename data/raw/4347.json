@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Rendering is Core.",
+    "format": "form",
+    "workaround": "Yes, by adding a directional light to only be light, and one only for the sky, and changing the light color of the light, but that is not an easy task."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-01T17:11:41Z",
+  "comments": 3,
+  "createdAt": "2022-04-05T11:52:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4347,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement Physical Directional Light Color",
+  "up": 1,
+  "updatedAt": "2022-09-01T17:12:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4347"
+}

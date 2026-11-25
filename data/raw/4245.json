@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's already exposed in navigation server API and regions actually make use of layers. Only agent nodes not so whole system is quite useless because there is no use of this right now.\nAlso, I've already made a PR for this: https://github.com/godotengine/godot/pull/59331",
+    "format": "form",
+    "workaround": "It can't be simply worked around, if even possible at all."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-06T16:39:30Z",
+  "comments": 3,
+  "createdAt": "2022-03-20T00:08:38Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.0",
+  "number": 4245,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose navigable layers for NavigationAgent2D/3D",
+  "up": 8,
+  "updatedAt": "2022-05-06T16:39:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4245"
+}

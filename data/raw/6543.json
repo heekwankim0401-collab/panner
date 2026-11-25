@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can't be implemented in an add-on as `main.cpp` must be modified. This means custom MovieWriters can't implement this efficiently on their own, as `get_data()` would still be called on the Viewport every frame, leading to performance degradation (especially at high resolutions).",
+    "format": "form",
+    "workaround": "This can be worked around by [rendering all frames then discarding some of them with FFmpeg](https://docs.godotengine.org/en/latest/tutorials/animation/creating_movies.html#generating-accumulation-motion-blur-with-ffmpeg), but this is much slower than not saving those frames in the first place."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-03-20T16:57:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6543,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add subframe rendering to Movie Maker mode to improve rendering quality",
+  "up": 6,
+  "updatedAt": "2024-01-04T14:15:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6543"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because Y sorting has no ability to be finely controlled and is probably being used in a lot of 2D projects using top-down perspective",
+    "format": "form",
+    "workaround": "Any existing code which is already assuming things would sort only by their y position will work fine because y sort offset defaults to 0 which has no effect. This sort of code would only need to be updated if y_sort_offset was used in that project, and the changes needed should be minor.\n\nIf necessary, a helper function of CanvasItem which gets the \"effective y position\" when rendering by returning global_position.y + y_sort_offset could be added."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-15T17:40:46Z",
+  "comments": 1,
+  "createdAt": "2025-03-14T23:40:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 11995,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "y_sort_offset for CanvasItem",
+  "up": 0,
+  "updatedAt": "2025-03-15T17:40:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11995"
+}

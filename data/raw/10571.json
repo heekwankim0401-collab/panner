@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Usability",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-08-27T12:09:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10571,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Suggest missing identifiers in autocompletion",
+  "up": 6,
+  "updatedAt": "2024-09-22T21:08:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10571"
+}

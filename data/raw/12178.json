@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would fit with other methods in `Color` (including the constructor that allows you to convert _from_ a named colour) and it would ensure the standard colour names used match the ones already present in Godot.",
+    "format": "form",
+    "workaround": "The `Colors` static class already contains the standardized colour names as properties.\nHere is an implementation in C# using reflection:\n\n```cs\npublic static class ColorExtensions {\n    public static FrozenDictionary<string, Color> NamedColors { get; } = typeof(Colors).GetProperties()\n        .Where(NamedColorProperty => NamedColorProperty.PropertyType == typeof(Color))\n        .ToFrozenDictionary(NamedColorProperty => NamedColorProperty.Name, NamedColorProperty => (Color)NamedColorProperty.GetValue(null)!);\n\n    public static KeyValuePair<string, Color> ToNamedColor(this Color Color) {\n        return NamedColors.MinBy(NamedColor => NamedColor.Value.DistanceTo(Color));\n    }\n    public static float DistanceTo(this Color Color, Color OtherColor) {\n        Vector4 ColorVector = new(Color.R, Color.G, Color.B, Color.A);\n        Vector4 OtherColorVector = new(OtherColor.R, OtherColor.G, OtherColor.B, OtherColor.A);\n        return ColorVector.DistanceTo(OtherColorVector);\n    }\n}\n```\n\nThis returns the colour name in PascalCase (e.g. AliceBlue)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2025-04-06T18:54:55Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12178,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Get closest standardised colour name from `Color`",
+  "up": 1,
+  "updatedAt": "2025-05-03T09:57:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12178"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No, its Editor core.\nIts expected from the official editor to have good international support.",
+    "format": "form",
+    "workaround": "For any Spanish user its relevant. No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-15T21:10:04Z",
+  "comments": 6,
+  "createdAt": "2022-08-16T19:27:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 5185,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Physical Keys for different keyboard layouts (in-Editor hotkeys)",
+  "up": 0,
+  "updatedAt": "2022-09-15T21:10:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5185"
+}

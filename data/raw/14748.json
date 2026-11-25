@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-04-27T18:45:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14748,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support `changed` signal in all built-in Resources types",
+  "up": 3,
+  "updatedAt": "2026-04-29T11:52:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14748"
+}

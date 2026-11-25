@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, I don't know, it might be used in most projects, when people find how it sort-of works, etc . . .",
+    "format": "form",
+    "workaround": "I don't know, last, don't know if this saves resources, or, is even more efficient, not sure if the feature could be optimized, say make a ' super - texture ', to reduce draw - calls, sigh or what's possible . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-03T17:44:37Z",
+  "comments": 2,
+  "createdAt": "2022-03-03T12:15:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4152,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Suggestion to have two more UV channels . . .",
+  "up": 1,
+  "updatedAt": "2022-03-03T17:44:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4152"
+}

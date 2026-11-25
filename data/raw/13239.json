@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It has to be in the core because add-ons cannot access the platform implementations directly.",
+    "format": "form",
+    "workaround": "No, as there are no low level access to drag and dropping in the engine AFAIK."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-09-22T09:52:23Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 13239,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement system-level drag and drop",
+  "up": 9,
+  "updatedAt": "2026-02-12T12:11:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13239"
+}

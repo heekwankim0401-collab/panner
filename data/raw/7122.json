@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core",
+    "format": "form",
+    "workaround": "It's core"
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-07T19:27:37Z",
+  "comments": 19,
+  "createdAt": "2023-06-20T09:20:05Z",
+  "down": 2,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": "4.3",
+  "number": 7122,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move TileMap layers to their own node",
+  "up": 26,
+  "updatedAt": "2024-08-23T06:40:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7122"
+}

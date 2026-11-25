@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, this system requires quite deep knowledge on how environments are rendered, and the code required to blend between them is quite complex. \nPlus, having such a node built-in allows the ability for one to move the viewport camera into an `EnvironmentVolume` area and examine its effects in the editor, whereas if such a tool was scripted, post processing areas could only be examined at runtime, by changing `WorldEnvironment`s dynamically through code.\n\nAnd something that can't be easily achieved through GDScript or even GDExtension is having a proper fade between areas, so as not to have a sharp \"pop\" between different visual effects."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 23,
+  "createdAt": "2022-04-29T14:12:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4466,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a bounding-box/volume-based approach for local environments and post-processing",
+  "up": 34,
+  "updatedAt": "2026-03-25T18:19:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4466"
+}

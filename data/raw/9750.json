@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't know if annotations or callable export behavior can be modified by add-on.",
+    "format": "form",
+    "workaround": "I don't know of any way to export a callable, lambda, or custom logic to the editor other than modification to the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-05-16T03:16:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9750,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Export Lambda Annotation",
+  "up": 3,
+  "updatedAt": "2024-05-16T13:49:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9750"
+}

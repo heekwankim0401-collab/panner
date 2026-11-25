@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Both animation and rendering are part of core.\nScripts are too slow for this with more complex meshes.\nPlenty of common gameplay and visual effects require to bake skinned and animated meshes at runtime.",
+    "format": "form",
+    "workaround": "No, and baking meshes like this is also performance heavy so scripts are not the right place."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-04T17:02:49Z",
+  "comments": 2,
+  "createdAt": "2023-10-14T21:13:01Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:animation",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 8120,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to bake skinned Meshes with their current animated pose",
+  "up": 20,
+  "updatedAt": "2024-09-04T17:02:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8120"
+}

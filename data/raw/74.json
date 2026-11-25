@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The change is related to more lower-level stuff making it impossible to implement as an addon.",
+    "format": "legacy",
+    "workaround": "This will require recreating a cursor management system to check for and change the cursor depending on the input type as well as checking the node's `mouse_default_cursor_shape` property in order to show the appropriate AnimatedTexture. Well, that or change everything in the project that ever used `mouse_default_cursor_shape` and apply specific changes to them directly. (Would be quite troublesome especially in larger projects) That doesn't even include things such as horizontal, vertical, or diagonal resizing cursors as I have no idea how one would go about detecting those at runtime."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2019-09-16T03:34:24Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 74,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use AnimatedTexture as cursor shape resource / allow custom animated cursors",
+  "up": 15,
+  "updatedAt": "2022-09-22T07:32:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/74"
+}

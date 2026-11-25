@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This presumably a somewhat common issue for all games that have voice acting in more than one language but not all languages for which text translations exist.\nIn addition, the complexity of a workaround or an add-on is reasonably large, while the additional functionality needed in the TranslationServer and the Editor is presumably manageable.",
+    "format": "form",
+    "workaround": "This proposal could be worked around by implementing a custom translation server in addition to loading files from a custom file remapper as opposed to from Godot natively."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-02-09T12:07:05Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 6254,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow different locales for different translation contexts",
+  "up": 10,
+  "updatedAt": "2025-06-04T18:02:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6254"
+}

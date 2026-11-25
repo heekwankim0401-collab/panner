@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Engine core.",
+    "format": "form",
+    "workaround": "I do not believe so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-19T22:10:39Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7335,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose BaseMaterial3D to ShaderMaterial conversion in the inspector toolbox",
+  "up": 1,
+  "updatedAt": "2023-07-19T22:34:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7335"
+}

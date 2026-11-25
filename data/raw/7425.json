@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The behavior of Control nodes is core.",
+    "format": "form",
+    "workaround": "Yes, see option 1 above. However, part of the reason I am writing this proposal is to see how much interest there would be in a feature like this. The behavior of a RemoteTransform node can also be emulated with a small script, but evidentially there is enough demand for it that it exists in core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-07-31T17:30:23Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7425,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow controls to size and/or transform remotely",
+  "up": 2,
+  "updatedAt": "2023-09-28T08:12:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7425"
+}

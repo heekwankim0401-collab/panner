@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Variants are core.",
+    "format": "form",
+    "workaround": "It could be wrapped around using an custom object class, but the inspector interaction may get ugly."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-31T18:00:15Z",
+  "comments": 2,
+  "createdAt": "2024-08-17T18:31:29Z",
+  "down": 7,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10478,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a changed signal to Array and Dictionary Variants",
+  "up": 3,
+  "updatedAt": "2024-09-01T08:22:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10478"
+}

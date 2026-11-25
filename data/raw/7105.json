@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's a simple change in a class where it feels natural to find it.",
+    "format": "form",
+    "workaround": "It could be done in gdscript , but I don't think it will be performant especially as we need to do operation \"live\" , especially on mobile"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-06-17T23:34:00Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 7105,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement \"mono\"  AudioEffectRecord to ease integration with speech recognition 3rd party library",
+  "up": 0,
+  "updatedAt": "2026-04-02T21:34:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7105"
+}

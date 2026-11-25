@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "None besides the usefullness of the feature, wich I admit I'm merely supposing. I think that the editor_description of a node is a great thing, but I suppose it is something few people use due to usability issues. If there where things to help using it, like the icon proposed here, the feature would be more used.",
+    "format": "form",
+    "workaround": "I suppose it can. I'm really not familiar with using addons to hack parts of the editor UI that are not meant to be changed, but I have a hunch it could be done with an addon."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-06-12T13:38:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9950,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show an icon in the scene tree view for each node that has a non empty editor_description",
+  "up": 0,
+  "updatedAt": "2025-10-12T09:06:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9950"
+}

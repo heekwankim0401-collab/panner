@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "From what I understand so far about Godot, these features need to work with the parser and compiler, which I don't think add-ons can modify because they all require deeper integration with the engine. Generally useful features that would benefit a large percentage of Godot projects by catching common bugs early, making them appropriate for core inclusion.",
+    "format": "form",
+    "workaround": "These issues cannot be effectively worked around in script:\n\n1. For `@override`, I don't think there's any way to check if a function really overrides a function in parent classes. Only a visual tip in the lines which shows it's overriden.\n\n2. For `@nodepath`, one can add runtime checks, but this is both boilerplate code and still only catches errors during runtime:\n```gdscript\nfunc _ready():\n    if not has_node(player_sprite_path):\n        push_error(\"Invalid path: \" + str(player_sprite_path))\n```\n\n3. For `@not_null`, one could add assertions, but these still only fire at runtime:\n```gdscript\nfunc _ready():\n    assert(weapon != null, \"Weapon must be initialized!\")\n```\n\nThe main benefit of these annotations is catching errors earlier in the development process (parse/load time rather than runtime), which no script workaround can provide."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-04-24T12:12:44Z",
+  "down": 6,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12310,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@override`, `@nodepath`, and `@not_null` annotations for early error detection",
+  "up": 10,
+  "updatedAt": "2025-05-17T18:35:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12310"
+}

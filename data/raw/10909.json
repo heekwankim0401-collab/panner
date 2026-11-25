@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript is core",
+    "format": "form",
+    "workaround": "Used often, and the workaround is many lines of repeated code"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2024-10-05T19:45:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10909,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `onset(...)` GDScript function to observe changes in script variables",
+  "up": 13,
+  "updatedAt": "2024-10-22T20:37:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10909"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would make it more straight-forward for users to use the `FastNoiseLite` system for procedurally generating things.",
+    "format": "form",
+    "workaround": "Yes, here's an example in GDScript, but it is quite hard to use it when the editor preview doesnt show exactly whats gonna come after this.\n```gdscript\nvar v := noise.get_noise_2dv(pos)\nif v > dot_constant:\n    return mapf(v,dot_constant,1.0,0.0,1.0)\nreturn 0\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-05-06T19:56:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9690,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement an algorithm for procedurally generating dots to `FastNoiseLite`",
+  "up": 0,
+  "updatedAt": "2024-05-09T17:53:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9690"
+}

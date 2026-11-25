@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core: Addition to functionality of ScrollContainers",
+    "format": "markdown",
+    "workaround": "The only way I know this can be worked around, is by giving the ScrollContainer a Theme, and giving the VScrollBar a material, which has an transparent border on the left. That will make it seem like it has spacing."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-14T15:03:54Z",
+  "comments": 3,
+  "createdAt": "2021-01-14T14:46:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2123,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `h_separation`& `v_separation` variables to ScrollContainer",
+  "up": 0,
+  "updatedAt": "2021-01-14T15:07:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2123"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "n/a",
+    "format": "form",
+    "workaround": "Yes it can be worked around (the video i linked to shows how) but I invite anyone who thinks this is easy and straight forward for a beginner, to watch one try and implement this. If anything goes wrong… prepare to sit there for quite some time.\n\nI also like the idea of having one file less (the shader) in the project tree."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-30T15:32:55Z",
+  "comments": 6,
+  "createdAt": "2025-01-30T14:38:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11668,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Modulate mode",
+  "up": 0,
+  "updatedAt": "2025-02-01T20:19:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11668"
+}

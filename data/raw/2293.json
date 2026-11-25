@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Significantly improves Workflow when attempting to get Rigid bodies to interact with one another, as you can just set rigid body Density, and have the mass determined by the volume and density, and allows for Splitting meshes to turn into multiple rigid bodies and getting them to interact right out of the box, has several other applications it opens up, and as a Heavily math based problem it would have better performance as Core/GDNative, and could potentially be used for other features down the line",
+    "format": "markdown",
+    "workaround": "Yes, the formula isn't very complicated to apply."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-23T09:55:07Z",
+  "comments": 6,
+  "createdAt": "2021-02-15T10:47:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2293,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Volume Calculations to Meshes",
+  "up": 4,
+  "updatedAt": "2024-03-11T15:39:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2293"
+}

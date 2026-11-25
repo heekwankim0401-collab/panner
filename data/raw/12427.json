@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Depends on the implementation, this should be core if it requires APIs that aren't exposed to editor plugins. Though if an addon with good implementation could replicate the effect (without performance penalty when the game is running) that would be fine.",
+    "format": "form",
+    "workaround": "I'll be happy if there's an addon version of this, but i don't know how that would work without too many workaround (like for example showing/hiding a subviewport node with addon)"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-14T13:24:59Z",
+  "comments": 3,
+  "createdAt": "2025-05-14T06:36:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12427,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow the 2D workspace to display 3D camera",
+  "up": 0,
+  "updatedAt": "2025-05-14T13:30:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12427"
+}

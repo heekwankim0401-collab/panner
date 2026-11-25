@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I see 2 reasons:\n1. This is an issue with the in-editor help\n2. The possible name conflicts cannot be resolved automatically",
+    "format": "form",
+    "workaround": "It cannot be worked around, as this is an issue with the in-editor documentation. For my own tool though, a possible workaround would be to search for the enum in the current class, then constants in other classes, but that wouldn't solve the possible naming conflict."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-28T06:57:07Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12513,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add doc comment tag for enum values",
+  "up": 3,
+  "updatedAt": "2025-05-28T17:04:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12513"
+}

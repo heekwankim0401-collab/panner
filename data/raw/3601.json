@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core because it changes basic functionalities of core nodes.",
+    "format": "form",
+    "workaround": "The harmonization between 2D and 3D has to take place in the core engine.\n\nSome parts of the API could be worked around by script, but they would involve some knowledge in general physics properties, so a more complete API is needed for extended usability."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-11T00:16:31Z",
+  "comments": 17,
+  "createdAt": "2021-11-26T15:49:34Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 3601,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve and harmonize API for forces in RigidDynamicBody2D and RigidDynamicBody3D",
+  "up": 14,
+  "updatedAt": "2021-12-11T00:16:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3601"
+}

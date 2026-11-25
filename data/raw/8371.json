@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Type inference is deeply integrated into the language's core, affecting the parser, compiler, and possibly the IDE tools. It's not feasible as an add-on because it changes the fundamental way the language is written and understood by the engine.",
+    "format": "form",
+    "workaround": "Well, yes, if the user types the return type it could be workaround, this is more of a life quality feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-06T17:36:02Z",
+  "comments": 19,
+  "createdAt": "2023-11-08T13:25:38Z",
+  "down": 13,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8371,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Extend Type Inference to Function Return Types in GDScript using ->:",
+  "up": 0,
+  "updatedAt": "2024-05-06T17:36:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8371"
+}

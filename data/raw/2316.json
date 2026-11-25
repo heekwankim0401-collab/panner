@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "markdown",
+    "workaround": "This can be achieved through external programs (ImageMagick can do this in an automated way), but it's not particularly convenient, especially for people not familiar with the command line.\n\nThe following ImageMagick command can be used to combine an ambient occlusion, roughness and metallic map into a single ORM map:\n\n```bash\nconvert ao.png roughness.png metallic.png -combine orm.png\n```\n\nTo separate them back to separate maps:\n\n```\nconvert orm.png -channel R -separate ao.png && convert orm.png -channel G -separate roughness.png && convert orm.png -channel B -separate metallic.png\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2021-02-19T15:41:54Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2316,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to combine PBR maps into an ORM texture for use in ORMMaterial3D",
+  "up": 10,
+  "updatedAt": "2025-06-26T10:49:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2316"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-06-30T17:35:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 15107,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a new `create_boneattachment_skeleton` option like `create_physical_skeleton` in Skeleton3D for better performance and ease of usability",
+  "up": 0,
+  "updatedAt": "2026-07-01T14:53:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15107"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it cannot be done with a add-on",
+    "format": "form",
+    "workaround": "gdscript is core."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-18T00:20:58Z",
+  "comments": 3,
+  "createdAt": "2021-11-18T00:17:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3567,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change CanvasItem's `update()` to `_update()` for consistency",
+  "up": 0,
+  "updatedAt": "2021-11-27T00:40:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3567"
+}

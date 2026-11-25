@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "**AnimatedSprite** is a core class.",
+    "format": "form",
+    "workaround": "It's not a few, but here's an example of what Script could be appended to an **AnimatedSprite** to replicate a similar behaviour:\n```GDScript\nsignal frame_refreshed\n\nfunc _set(property: String, value):\n\tif property == \"flip_h\":\n\t\tif flip_h == value:\n\t\t\treturn\n\t\temit_signal(\"frame_refreshed\")\n\n\nfunc play(anim := \"\"):\n\tvar previous_animation = animation\n\tvar previous_frame = frame\n\t.play(anim)\n\t\n\tif animation != previous_animation:\n\t\tif frame == previous_frame:\n\t\t\temit_signal(\"frame_refreshed\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-27T10:08:50Z",
+  "comments": 4,
+  "createdAt": "2022-08-11T10:25:10Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 5146,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `AnimatedSprite3D.frame_refreshed` signal",
+  "up": 0,
+  "updatedAt": "2023-01-27T10:13:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5146"
+}

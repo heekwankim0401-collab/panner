@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core editor feature.",
+    "format": "legacy",
+    "workaround": "Will be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-09-13T23:38:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 1506,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve dragging float number fields in the inspector",
+  "up": 12,
+  "updatedAt": "2026-03-02T00:36:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1506"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is for improving the engine developer workflow.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-16T11:20:48Z",
+  "comments": 0,
+  "createdAt": "2024-04-03T16:43:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 9444,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a `gdscript` target for streamlining development of GDScript",
+  "up": 4,
+  "updatedAt": "2026-06-16T11:22:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9444"
+}

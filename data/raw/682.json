@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Decisions on what functions shouldn't ever return a value that needs to be processed need to be made carefully so as to avoid each project reporting different errors, confusing developers.",
+    "format": "legacy",
+    "workaround": "Yes, you could add an ignore warning comment for every single function like `connect` that shouldn't return an erroneous value that must be processed programmatically, however, this is prone to error when you have a lot of warnings built up in a project ( you may ignore the actual errors ) and slows down development time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-04-08T21:08:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 682,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add capability to \"filter\" certain functions out of the warning linter that don't return a value that needs to be processed",
+  "up": 6,
+  "updatedAt": "2022-11-14T21:11:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/682"
+}

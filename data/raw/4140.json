@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I know, this cannot be done with add-on.",
+    "format": "form",
+    "workaround": "It can be worked around with a script. it's mostly about convenience and readability."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-01T16:14:10Z",
+  "comments": 1,
+  "createdAt": "2022-03-01T13:30:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4140,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make defining meta properties more convenient",
+  "up": 0,
+  "updatedAt": "2022-03-01T16:27:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4140"
+}

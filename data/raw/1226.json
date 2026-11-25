@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, the Godot 4.0 name changes are a POSITIVE step, in the right direction, it's far more user-friendly, but it creates an UNKNOWN problem, ie it makes the scene dock more unreadable . . I suggest instead of writing MeshInstance3D, the add node panel says MeshInstance ( 3D ), so it's clear when adding nodes, but doesn't change the name, or add +3D, in the scene dock, that would be very nice . . .\n\nIt would help, also consider changing MeshInstance, to 3DMeshNode, or MeshObject, Mesh3D, or PolygonMesh . . MeshObject, as a new user, I don't want to create an instance, of a prefab, just a 3DMesh, or a 3DObject . . Just saying, Godot 4.0 is better, than 3.2 in terms of names, by far, but the many +3D in the scene dock, makes all the nodes look the same, and I have to read the name twice, to see which one it is, a consequence of the new name-changes, that are VERY good, all the same . .\n\nThank you . .",
+    "format": "legacy",
+    "workaround": "I can't do this, as a new user, I don't know how . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-01T22:23:39Z",
+  "comments": 3,
+  "createdAt": "2020-07-20T05:41:12Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1226,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Change the name of nodes so they're less cluttered",
+  "up": 0,
+  "updatedAt": "2022-10-01T22:23:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1226"
+}

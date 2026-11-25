@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a part of our built-in editor.",
+    "format": "form",
+    "workaround": "No. This is a state machine editor feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-18T13:34:10Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7728,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add transition rerouting feature to state machine editor",
+  "up": 19,
+  "updatedAt": "2024-02-04T07:49:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7728"
+}

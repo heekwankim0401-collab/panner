@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Cannot be done with add-on.",
+    "format": "form",
+    "workaround": "Removing nodes is frequent task in Godot. I don't think there is easy way to going about it."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-06T13:41:57Z",
+  "comments": 15,
+  "createdAt": "2022-03-10T21:08:41Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4207,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `Node.remove_child()` to `Node.detach_child()`",
+  "up": 11,
+  "updatedAt": "2022-09-06T13:42:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4207"
+}

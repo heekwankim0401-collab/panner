@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a fairly fundamental problem in software engineering. It also seems some of this kind of functionality is already intended to be a part of the core, like NOTIFICATION_WM_QUIT_REQUEST.",
+    "format": "legacy",
+    "workaround": "There is no way that I know of. On any SIGINT, SIGHUP, SIGTERM signals the game closes with no way to execute code.\nMainLoop._finalize() doesn't run.\nObject._notification() doesn't run."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-08-13T15:17:57Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1361,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to handle system signals (SIGINT, SIGHUP, …) from a script",
+  "up": 27,
+  "updatedAt": "2025-07-02T13:28:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1361"
+}

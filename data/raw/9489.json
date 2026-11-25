@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a quick fix that is not worth creating a new add-on for.",
+    "format": "form",
+    "workaround": "This can probably be solved with a few lines of code, but I haven't seen any fixes yet."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-10T08:27:30Z",
+  "comments": 1,
+  "createdAt": "2024-04-10T03:09:27Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 9489,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Bottom Window Stays Open, but is Empty",
+  "up": 0,
+  "updatedAt": "2024-04-10T08:27:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9489"
+}

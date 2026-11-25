@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "All necessary information should already be available and exposing the device name should be quiet simple (i would guess).",
+    "format": "form",
+    "workaround": "I haven't found any workaroung except integrating an external MIDI library like portmidi or rtmidi as GDExtension"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-19T16:08:25Z",
+  "comments": 1,
+  "createdAt": "2023-09-18T20:08:19Z",
+  "down": 0,
+  "labels": [
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 7733,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide MIDI device property in InputEventMIDI class",
+  "up": 2,
+  "updatedAt": "2024-10-27T14:53:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7733"
+}

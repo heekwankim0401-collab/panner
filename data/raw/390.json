@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think most users would expect that calling add_child() would be all that they would have to do to build the SceneTree with code.\n\nBy not having add_child() automatically call set_owner(), loaded game files would be missing all of the nodes that were created in code, because the user didn't know that they had to call set_owner() manually.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 24,
+  "createdAt": "2020-01-18T04:10:03Z",
+  "down": 5,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 390,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Set owner by default when calling `add_child()`",
+  "up": 26,
+  "updatedAt": "2024-05-28T21:22:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/390"
+}

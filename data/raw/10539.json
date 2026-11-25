@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It isn't possible to implement this functionality in a way that can scale right now.",
+    "format": "form",
+    "workaround": "It depends on the complexity of what needs to be synced from the scene. In my case, it's everything so the overhead is immense. This could also, potentially, dramatically optimize Godot's high level multiplayer functionality since it currently iterates over all the configured nodes every tick and could watch the tree for changes and respond only when something changes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-08-23T07:32:01Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10539,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add better scene state tracking with signals for node property changes",
+  "up": 0,
+  "updatedAt": "2024-08-24T12:57:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10539"
+}

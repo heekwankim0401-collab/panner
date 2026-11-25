@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think there's a particular reason for using [] for formatting references, so using <> or () would fix this issue.",
+    "format": "form",
+    "workaround": "You can write your own formatting/printing functions."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-31T15:37:10Z",
+  "comments": 5,
+  "createdAt": "2022-07-21T17:43:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4944,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Changing `[Reference]` to `<Reference>` or `(Reference)` for printing ",
+  "up": 12,
+  "updatedAt": "2022-08-31T15:37:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4944"
+}

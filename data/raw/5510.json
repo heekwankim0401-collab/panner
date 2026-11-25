@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about extending GDscript's asynchronous capabilities",
+    "format": "form",
+    "workaround": "Currently, I have something that resembles that of a Promise type\nextends RefCounted\n```gdscript\nclass_name Promise\nsignal fired();\nvar has_fired : bool = false;\nvar object_listener : Object;\n# obj is the object emitting a signal that signifies it is \"done\"\nfunc _init(obj : Object, signal_name : String):\n\tobject_listener = obj;\n\tobject_listener.connect(signal_name, self._fire);\n\n# padding with empty object parameters so signals don't throw an error\nfunc _fire(a1 = {}, a2 = {}, a3 = {}, a4 = {}, a5 = {}, a6 = {}) -> void:\n\thas_fired = true;\n\temit_signal(\"fired\");\n\n# to evaluate the Promise, await this function call. It will yield until the object has emitted it's signal\n# or will immediately continue if it has already emitted.\nfunc evaluate() -> Object:\n\tif has_fired:\n\t\treturn object_listener;\n\tawait fired;\n\treturn object_listener;\n```\nThis is obviously not very clean, but an extension to the `await` keyword and creation of a `Promise` type would be more desirable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2022-09-29T00:38:35Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5510,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Promise<T> type for asynchronous GDScript",
+  "up": 22,
+  "updatedAt": "2026-06-13T12:31:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5510"
+}

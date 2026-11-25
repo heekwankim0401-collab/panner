@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an improvement to canvas editor plugin.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-11T08:21:11Z",
+  "comments": 1,
+  "createdAt": "2019-11-22T00:39:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 249,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to move CanvasItems with arrows while in move mode",
+  "up": 4,
+  "updatedAt": "2020-04-29T22:48:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/249"
+}

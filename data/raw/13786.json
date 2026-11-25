@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The presence sensor of XR devices (often headsets) is a very foundational and common feature; but, if others feel this should not be in core, I would accept this being an addon if someone can point me in the direction of how I can add an OpenXR extension via a custom addon.\n\nEDIT:  \nThe supported runtimes for this extension can be found [here](https://github.khronos.org/OpenXR-Inventory/extension_support.html#XR_EXT_user_presence)  \nAnd although not yet listed on Khronos' page, SteamVR added support for this extension [earlier this year](https://store.steampowered.com/news/app/250820/view/534338514199774696)",
+    "format": "form",
+    "workaround": "I'm not sure if OpenXR extensions can be added via scripting.  If it can, I would love to receive resources on how I can go about doing this for my projects!"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-06T00:23:41Z",
+  "comments": 2,
+  "createdAt": "2025-12-04T15:29:07Z",
+  "down": 0,
+  "labels": [
+    "topic:xr"
+  ],
+  "milestone": "4.7",
+  "number": 13786,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `XR_EXT_user_presence` OpenXR extension",
+  "up": 3,
+  "updatedAt": "2026-02-06T00:23:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13786"
+}

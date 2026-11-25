@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "It's a systematic issue."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-02-11T11:45:03Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11738,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Annotate `Error` with `[[nodiscard]]` in Core to force callers to handle errors explicitly",
+  "up": 0,
+  "updatedAt": "2025-06-17T09:46:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11738"
+}

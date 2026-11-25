@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "no",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-20T13:17:15Z",
+  "comments": 2,
+  "createdAt": "2026-01-20T13:13:24Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 14039,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ConfigFile.store_to_string() method.",
+  "up": 0,
+  "updatedAt": "2026-01-20T13:17:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14039"
+}

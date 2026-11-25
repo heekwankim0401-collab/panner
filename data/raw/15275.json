@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-30T15:56:51Z",
+  "comments": 20,
+  "createdAt": "2026-07-27T13:31:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 15275,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a check for the GDScript analyser regarding the \"Code performance warning\"",
+  "up": 0,
+  "updatedAt": "2026-07-30T17:43:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15275"
+}

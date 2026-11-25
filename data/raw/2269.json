@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "If possible, an add-on is fine. If it's useful, I guess core would make more sense.",
+    "format": "markdown",
+    "workaround": "If this is an edge case. One work around could be to split the animation on the frame that you want to do your signal on and then call your other methods there and then also play the rest of that split animation."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-10T20:59:16Z",
+  "comments": 3,
+  "createdAt": "2021-02-10T20:42:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 2269,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Animation Frame Signal",
+  "up": 0,
+  "updatedAt": "2021-02-10T21:08:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2269"
+}

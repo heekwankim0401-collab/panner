@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core code is large and I do not want to duplicate it. This moves the gltf2 importer into a doument and two plugins (import and export). If I make the gltf2 exporter a GDNative plugin which is possible, I can't do this without duplication. glTF runtime import is also a requested feature from the community and also export.\n\n**Older Proposal**\n<details><summary>Click for the old proposal.</summary>\n<p>\n\n@reduz I require a Scene Exporter api exposed to gdnative. Importing scenes has a large dialog of options, so would exporting scenes.\n\n```\n<iFire> reduz: is roundtrip from godot to gltf2 part of the roadmap? \n<reduz> iFire: not really\n<Calinou> why would you want to export glTF from a game engine?\n<Calinou> unless we get a level editor…\n<iFire> Calinou: why not?\n<Calinou> then it would start making *some* sense\n<Calinou> (and not that much)\n<iFire> Calinou: well it just feels more proper to import any format and then export as gltf2. A) I can then put it in sketchfab B) Save a copy of the scene in gltf format because it's changed now\n<iFire> C) move the scene to another game engine ;)\n<Calinou> again, it's not relevant until we get a level editor\n<iFire> I thought the scene editor is a level editor\n<Calinou> once we have that, it has one main use: making renders in Blender or similar. Only really high-end games can afford this, so it is probably not a priority at all\n<Calinou> it is not quite one. it doesn't let you create actual geometry using a GUI (CSG or similar)\n<iFire> I don't care about, that's a workflow thing\n<Calinou> also, remember that Godot and Blender materials are not fully compatible anyway\n<iFire> some people use csg others use models\n<Calinou> Eevee should be mostly similar, but you're going to have to wait 5 years until most people use it :/\n<iFire> Calinou: but gltf is a workable process for standardizing the import\n<iFire> there are blender import pipelines for gltf2\n<Calinou> how good are the importers, too?\n<iFire> https://github.com/ksons/gltf-bl",
+    "format": "legacy",
+    "workaround": "Have to port 3000 lines of core module code to gdnative because it includes the importer code too."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-23T08:31:03Z",
+  "comments": 19,
+  "createdAt": "2017-12-16T20:16:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 885,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a glTF2 scene exporter",
+  "up": 14,
+  "updatedAt": "2021-11-17T19:01:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/885"
+}

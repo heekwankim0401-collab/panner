@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "Same as above, it involves modification of core code.",
+    "format": "legacy",
+    "workaround": "This involves modification of the core code, so no it can't"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-23T23:35:25Z",
+  "comments": 13,
+  "createdAt": "2020-04-23T15:50:20Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "platform:android",
+    "topic:platforms",
+    "topic:rendering",
+    "topic:xr"
+  ],
+  "milestone": "4.0",
+  "number": 744,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reduceable render resolution for mobile VR",
+  "up": 2,
+  "updatedAt": "2024-06-23T23:35:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/744"
+}

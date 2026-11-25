@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Animated window transitions are an overwhelmingly common use case in many desktop environments and applications. A way to overcome this would bring the Window feature closer to parity with modern standards. \n\nHowever, it's possible I might be completely misunderstanding the purpose or intended use case of Godot's built in Window system as this only makes sense in the context of embedded windows (as opposed to native, OS windows that Godot can also create). A feature like this may be completely out of scope and better suited for interfaces built with CanvasItems. If that's the case, I can close/remove this issue.",
+    "format": "form",
+    "workaround": "No, as far as I can tell, there are no exposed properties of ConfirmationDialog, AcceptDialog, Window, or Viewport that allow for opening & closing transitions or any type of animation. Modulating opacity might be already possible since transparent viewports are supported, but I couldn't figure out that either. The only real workaround is to just forgo the Window class altogether by manually creating a dialogue box system yourself via Control nodes, which may actually be the best practice here- the docs weren't quite clear on this. However, it's a shame to forego the built-in window system over such a small feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-23T21:45:40Z",
+  "comments": 2,
+  "createdAt": "2023-12-27T07:05:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8731,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a method of animating embedded windows",
+  "up": 0,
+  "updatedAt": "2024-05-24T13:48:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8731"
+}

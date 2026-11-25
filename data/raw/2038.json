@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it would be a GDScript feature.",
+    "format": "markdown",
+    "workaround": "No, it is not possible to do this with GDScript currently."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-28T15:49:24Z",
+  "comments": 1,
+  "createdAt": "2020-12-28T15:41:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2038,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a 'TileSet.add_texture(Texture)' method to allow for adding a texture programmatically",
+  "up": 1,
+  "updatedAt": "2020-12-28T15:49:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2038"
+}

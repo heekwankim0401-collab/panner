@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Addons can't modify the behavior of built-in editor windows, and even if they could, Godot's UX is important, and improving it probably shouldn't be delegated to external tools.",
+    "format": "form",
+    "workaround": "The workaround would be to simply be more careful, but this is less a workaround and more just ignoring the issue."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-19T00:36:51Z",
+  "comments": 4,
+  "createdAt": "2021-10-28T16:42:54Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 3475,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disable cut/copy/paste shortcuts when selecting keys in an animation track",
+  "up": 3,
+  "updatedAt": "2024-02-19T00:36:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3475"
+}

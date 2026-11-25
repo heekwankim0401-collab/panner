@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It keeps code shorter and easier to read, I believe this is too simple and \"core\" to keep it as an asset library. It is used often and a couple extra methods won't bloat the Vector3 class. An interesting fact is that LLMs already recommend these methods when generating code for Godot even though they don't even exist, that's how standard they are.",
+    "format": "form",
+    "workaround": "It can be worked around, but like I said it is unnecessarily cumbersome and other game engines already have these methods, which can be confusing and annoying for new developers moving to Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-07T23:23:13Z",
+  "comments": 1,
+  "createdAt": "2024-11-07T23:21:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11112,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add shortcut properties to Vector3",
+  "up": 0,
+  "updatedAt": "2024-11-07T23:26:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11112"
+}

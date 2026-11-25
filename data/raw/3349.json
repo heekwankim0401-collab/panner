@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GPU Particles are core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-09-25T03:53:54Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3349,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make CPUParticles3D emit a signal with the particle position when a particle finishes its lifetime",
+  "up": 4,
+  "updatedAt": "2022-01-25T14:40:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3349"
+}

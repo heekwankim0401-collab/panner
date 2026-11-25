@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Checking what collision shape you have hit with a raycast is one of the first things you would expect you could do in any game engine, however in Godot it is unnecessarily complex. So this proposal is to make that much easier and not misguide people into thinking they need separate bodies for each child shape node.",
+    "format": "form",
+    "workaround": "Yes it can be, with the method showed above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-17T16:38:41Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8168,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to get collision shape node from a Raycast3D in an easier way",
+  "up": 23,
+  "updatedAt": "2023-10-17T16:49:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8168"
+}

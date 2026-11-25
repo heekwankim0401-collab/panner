@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Basically the example text: This is about improving the 3D editor usability out of the box.",
+    "format": "form",
+    "workaround": "Will be used often for 3D Pixelart games"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-25T23:20:22Z",
+  "comments": 3,
+  "createdAt": "2023-04-25T08:23:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6756,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Texture Filter Inherit to Elements of GridMap and Sprite3D",
+  "up": 0,
+  "updatedAt": "2023-04-30T18:03:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6756"
+}

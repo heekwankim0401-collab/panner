@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It seems to me this is a core issue, but i would also be happy with an add-on or other solutions.",
+    "format": "markdown",
+    "workaround": "I'm actually using static Sprite3D so in my case a simple workaround is to use 2 sprites, one for the shaded albedo and one unshaded with the emission texture used as albedo, but it's not a good solution especially because i'll probably add small animations to the sprites, and definitively it's not good at all for meshes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-12-26T19:00:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2030,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the emission visible outside of the albedo visible area",
+  "up": 1,
+  "updatedAt": "2021-10-25T20:17:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2030"
+}

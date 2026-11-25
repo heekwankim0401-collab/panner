@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-09T22:48:13Z",
+  "comments": 4,
+  "createdAt": "2024-09-13T22:32:20Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem",
+    "topic:shaders"
+  ],
+  "milestone": "4.7",
+  "number": 10738,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Convert `VisualShader` into a module",
+  "up": 14,
+  "updatedAt": "2026-04-09T22:48:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10738"
+}

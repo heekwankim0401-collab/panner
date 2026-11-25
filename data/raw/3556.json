@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This solution would comply with the GDScript standards. Users would not think of it as out of place or as non-intuitive, since the proposal would follow the same syntax as if-statements and function definitions.\n\nThis solution only renders the already complicated task of writing multi-threaded applications clearer for all users, it is needed, and is not a simple syntax preference.\n\nThis solution fits GDScript's philosophy of being a python-like language that doesn't get in the way of the developers and let them focus on making games, unlike the method that's currently implemented.",
+    "format": "form",
+    "workaround": "Perhaps a GDScript macro addon could solve this issue, but such addons I've found only _generated_ proper GDScript code, similar to YASnippet. It did not fundamentally change how GDScript is written, unlike C or Lisp macros.\n\nAlso, mutexes are almost mandatory and certainly plentiful when writing multi-threaded applications, it is one of the first things that is taught in the [official Godot Docs](https://docs.godotengine.org/en/stable/tutorials/threads/using_multiple_threads.html#mutexes)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-11-16T23:42:04Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3556,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `mutex` statement for clearer and more efficient Mutex encompassment",
+  "up": 0,
+  "updatedAt": "2026-03-16T16:51:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3556"
+}

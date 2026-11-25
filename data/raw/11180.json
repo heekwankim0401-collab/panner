@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The internal buffer object in `AudioStreamGeneratorPlayback` is private (as it should be), and therefore there's no way to implement this feature outside of directly adding such a method in the engine's core code.",
+    "format": "form",
+    "workaround": "Calling `AudioStreamGeneratorPlayback.get_frames_available()` with the buffer empty does technically return the size of the buffer, but it is not always possible to know when the buffered will be completely empty (or even if the buffer is actually empty).\n\nIf you know how the `AudioStreamGenerator` object that generated the `AudioStreamGeneratorPlayback` object allocates the buffer (by mutiplying the buffer seconds length by the sample rate and finding the next power of two), you can replicate the math in order to find out the total buffer length. However this requires internal engine logic knowledge to figure out and would be subject to change without warning."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-18T02:36:26Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 11180,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an `AudioStreamGeneratorPlayback.get_frames_buffered()` method ",
+  "up": 1,
+  "updatedAt": "2024-11-21T22:30:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11180"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe saving all animations of an AnimationPlayer node is much more needed, and has much broader usecase, than the currently in core existing \"save\" that only allows to save a single Animation.",
+    "format": "legacy",
+    "workaround": "I would have no idea how."
+  },
+  "assignees": 0,
+  "closedAt": "2020-03-14T22:17:04Z",
+  "comments": 2,
+  "createdAt": "2020-03-14T16:09:22Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 585,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "AnimationPlayer: \"Save all animations\"",
+  "up": 0,
+  "updatedAt": "2020-03-14T22:20:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/585"
+}

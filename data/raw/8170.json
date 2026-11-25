@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Localization is already a critical component of the engine that is supported out of the box. I believe that it needs a few rounds of QoL to make it easier to use before it becomes second nature to add localization in one's game.",
+    "format": "form",
+    "workaround": "Right now, I have a tool that takes in a csv and outputs a code file with all the keys as an enum, so it can be sidestepped easily. However, that tool requires clicking a button whenever you want to refresh the keys, which is the downside."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-17T17:01:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 8170,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically generate class constants to access localization keys without using strings in code",
+  "up": 0,
+  "updatedAt": "2025-02-11T14:37:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8170"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a simple feature addition for the animation editor which would improve workflow in complex animations immensely",
+    "format": "form",
+    "workaround": "As far as I know, the only current workaround for this issue is to remake animations, recreating each track in the correct order"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-11-25T12:43:03Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 5848,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to Rearrange Track Groups in AnimationPlayer Animation Editor",
+  "up": 11,
+  "updatedAt": "2023-03-24T21:12:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5848"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this could be useful for implementing any customizable input event system that allows using \"mouse shortcuts\" with modifiers",
+    "format": "markdown",
+    "workaround": "As a workaround I think a function could be created like \n```gdscript\nfunc as_text(InputEventMouseButton)->String:\n\t...\n```\nI see 2 tasks here:\n1. getting mouse button as text (BUTTON_LEFTT, BUTTON_RIGHT etc).\nThis could be done like:\n```gdscript\nfunc get_mouse_button_as_text(event:InputEventMouseButton)->String:\n\treturn event.as_text().split(\"button_index=\")[1].split(',')[0]\n```\nand\n2. getting modifiers as text, something like:\n```gdscript\nfunc get_modifiers_as_text(event:InputEventMouseButton)->String:\n\tvar text = \"\"\n\t\n\tif event.control:\n\t\ttext+=\"Control+\"\n\tif event.command:\n\t\ttext+=\"Command+\"\n\tif event.meta:\n\t\ttext+=\"Meta+\"\n\tif event.shift:\n\t\ttext+=\"Shift+\"\n\tif event.alt:\n\t\ttext+=\"Alt+\"\n\t\n\treturn text.trim_suffix(\"+\")\n```\nbut I just ran into some challenges like:\n- when I press Control key, `event.command` is also true (Linux);\nnot sure how to correctly solve this\n- not sure that I won't have other surprises related to the peculiarities of different OS/keyboards"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-02-02T03:47:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 2221,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `InputEventMouseButton.as_text()` work similar to `InputEventKey.as_text()`",
+  "up": 3,
+  "updatedAt": "2021-02-03T17:25:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2221"
+}

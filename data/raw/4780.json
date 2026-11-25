@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Every game needs objects like characters or enemies or items.\nThis will basically be a feature used by every project, specially beneficial to begginers who can easily now create a few characters and make it walk around the screen, in a few minutes, no coding skill needed.\nAlso, it will be a HUGE productivity improvement to godot workflow, in terms of hours of work saved in every project.",
+    "format": "form",
+    "workaround": "No, this is a core new editor for godot."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-29T17:53:51Z",
+  "comments": 6,
+  "createdAt": "2022-06-29T17:37:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4780,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "A character/enemy/object editor inspired by Pixel game maker.",
+  "up": 0,
+  "updatedAt": "2022-06-30T07:08:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4780"
+}

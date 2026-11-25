@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-23T18:14:53Z",
+  "comments": 13,
+  "createdAt": "2020-11-06T10:20:30Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 1782,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `HTTPRequest.request()` return the response instead of emitting a signal",
+  "up": 3,
+  "updatedAt": "2023-10-25T04:36:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1782"
+}

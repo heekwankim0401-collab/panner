@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be changed with an add-on.\n\n[1]: https://github.com/godotengine/godot/blob/7e009a167110e79caa102c5b88363fd32b75293c/main/main.cpp#L2378-L2382",
+    "format": "markdown",
+    "workaround": "Yes (keep it at the default value)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-15T16:18:25Z",
+  "comments": 6,
+  "createdAt": "2020-11-26T02:18:33Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 1893,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a setting to control the value of `max_physics_steps` per idle frame",
+  "up": 4,
+  "updatedAt": "2022-11-15T16:18:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1893"
+}

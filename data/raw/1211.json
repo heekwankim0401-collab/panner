@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-05T09:06:05Z",
+  "comments": 15,
+  "createdAt": "2020-07-17T14:00:43Z",
+  "down": 2,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 1211,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "The \"Attach Node Script\" dialog should suggest snake_case file names, consistent with the documentation",
+  "up": 45,
+  "updatedAt": "2024-04-16T02:04:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1211"
+}

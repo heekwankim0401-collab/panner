@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it is associated with development of almost all multiplayer games and its a useful testing instrument which can save a lot of time",
+    "format": "form",
+    "workaround": "You can use .bat script to run 2 instances of built exe file and maybe pass different cli args to them for them to know which one is server and which one is client"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-21T14:37:57Z",
+  "comments": 2,
+  "createdAt": "2023-04-20T21:46:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 6729,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Better debugging for multiplayer games",
+  "up": 0,
+  "updatedAt": "2023-04-21T17:45:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6729"
+}

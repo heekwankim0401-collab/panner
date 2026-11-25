@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Science isn't about why. It's about why not!",
+    "format": "form",
+    "workaround": "Yes, but it's weird and tedious."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-26T01:01:22Z",
+  "comments": 6,
+  "createdAt": "2021-07-16T17:28:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3001,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `add_child()` function return the name of the Node it creates",
+  "up": 0,
+  "updatedAt": "2021-07-26T09:26:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3001"
+}

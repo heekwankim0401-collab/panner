@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core part of Godot.",
+    "format": "form",
+    "workaround": "I had worked around this but I had to \n1. Create a scene that just contains an AnimationTree\n2. Pre-create a BlendTree as root\n3. Add a BlendSpace1D into it\n4. Connect that BlendSpace1D to the output of the BlendTree in the GUI\n5. Go into my script that needed an animation tree a preload that scene\n6. Create an instance of that scene when I configured my animationTree\n7. Configure the AnimationTree\n\nMy problems with this is\n1. The scene I created is not really that flexible. If I need a BlendSpace2D variant I will have to create a brand new scene\n2. I have to do the preload -> instance dance to get it into memory, this adds more variables on my class, not sure if it makes things less performant or anything but it makes things a bit more complicated."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-20T21:35:51Z",
+  "comments": 2,
+  "createdAt": "2023-05-02T17:27:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6793,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow for connecting BlendTree Inputs to output?",
+  "up": 0,
+  "updatedAt": "2023-05-20T21:35:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6793"
+}

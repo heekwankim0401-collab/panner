@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think the default experience is subpar and shouldn't have to be patched with a plugin.",
+    "format": "form",
+    "workaround": "It will probably not be used often for people who are not using tiles. But if you are using tiles, even if the feature exists, it is a bit hidden."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-02T15:59:42Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13545,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename \"Reset to default tile shape\" option in TileSet Physics dropdown",
+  "up": 3,
+  "updatedAt": "2025-11-03T11:31:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13545"
+}

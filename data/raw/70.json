@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The changes involve extensive editor source code changes. Cannot be accomplished by an addon, in any sufficient capacity.",
+    "format": "legacy",
+    "workaround": "There are a wide variety of plugin contexts in which this set of changes could be applied, all of which would require extensive changes to the editor codebase in order to accommodate their ideal workflow/features."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2019-09-14T21:05:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 70,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a script-configurable, centralized editor API for tracking and executing editor operations",
+  "up": 35,
+  "updatedAt": "2024-10-21T14:13:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/70"
+}

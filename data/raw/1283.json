@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Implementing adaptive V-Sync requires changes to the core rendering code.",
+    "format": "legacy",
+    "workaround": "No, as implementing adaptive V-Sync requires changes to the core rendering code. The user may be able to force adaptive V-Sync in their graphics driver control panel, but this relies on OS- and hardware-specific features not always available on macOS or Linux."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-09T23:02:24Z",
+  "comments": 6,
+  "createdAt": "2020-07-31T12:38:01Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 1283,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for adaptive V-Sync",
+  "up": 5,
+  "updatedAt": "2021-07-09T23:03:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1283"
+}

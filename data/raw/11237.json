@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core",
+    "format": "form",
+    "workaround": "It cannot, as some things that can be overridden with feature tags cannot be changed at runtime"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-27T02:52:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 11237,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to add feature tags through the command line in --export",
+  "up": 6,
+  "updatedAt": "2024-11-27T10:49:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11237"
+}

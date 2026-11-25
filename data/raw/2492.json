@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "markdown",
+    "workaround": "No, as default feature tags are hardcoded."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-07T19:30:51Z",
+  "comments": 4,
+  "createdAt": "2021-03-22T13:01:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2492,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make all feature tag names lowercase",
+  "up": 5,
+  "updatedAt": "2022-03-04T23:44:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2492"
+}

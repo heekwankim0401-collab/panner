@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "- it is required for sandboxed macOS apps, so core requirement is the only real solution",
+    "format": "legacy",
+    "workaround": "Sadly not, core provides no mechanism for accessing native file pickers.\n\nSee https://github.com/godotengine/godot/issues/13177 for more history\n\nThe ongoing effort of creating a better file picker https://github.com/godotengine/godot/pull/36053 will still not help this issue."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 34,
+  "createdAt": "2020-06-26T15:21:13Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "platform:web",
+    "topic:gui",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1123,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow use of native system file picker dialog on iOS and web",
+  "up": 110,
+  "updatedAt": "2025-08-10T09:14:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1123"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This method can be created as an addon, but in that case the addon will have to be updated manually every time Godot gets a new release, which might be cubersome, and an optional addon will not solve the problem of making every developer aware that they have to comply with the licenses (see the warning suggestion above).",
+    "format": "form",
+    "workaround": "The code I mentioned above, the one I'm using in my Godot project \"Godotzilla\", can (probably?) be used to comply with the licenses."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-31T17:34:23Z",
+  "comments": 2,
+  "createdAt": "2025-07-23T19:40:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12850,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `Engine.get_copyright_text()` as a convenient method to comply with open source licenses",
+  "up": 2,
+  "updatedAt": "2025-07-31T17:52:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12850"
+}

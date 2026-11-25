@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Should be core, otherwise it couldn't solve many problems listed above.",
+    "format": "markdown",
+    "workaround": "No it can't"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-03-03T03:49:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2390,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for custom drag-n-drop of Editor controls",
+  "up": 4,
+  "updatedAt": "2021-08-30T08:44:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2390"
+}

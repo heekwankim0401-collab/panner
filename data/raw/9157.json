@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think addons can modify this.",
+    "format": "form",
+    "workaround": "No, this would require modifying the shadow rendering."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-23T15:51:21Z",
+  "comments": 1,
+  "createdAt": "2024-02-23T07:11:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9157,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Option to offset spotlight cone start",
+  "up": 0,
+  "updatedAt": "2024-02-23T15:51:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9157"
+}

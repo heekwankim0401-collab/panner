@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As of current .NET there is no way to implement conversion operators between types outside the implementations of either type.",
+    "format": "form",
+    "workaround": "Yes, but annoyingly. The effort to implement this is very small, would be good for a first contribution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-08-15T03:32:43Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 7503,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement implicit conversion operators between System.Numerics and Godot math types",
+  "up": 9,
+  "updatedAt": "2025-08-28T18:02:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7503"
+}

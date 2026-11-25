@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's about improving core",
+    "format": "form",
+    "workaround": "it can be worked around with `draw_arc`, but it's more verbose and harder to find. It also has a `point_count`, so no true circles."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-02T10:47:52Z",
+  "comments": 2,
+  "createdAt": "2023-09-20T13:09:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 7761,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `filled` and `width` parameters to `draw_circle`",
+  "up": 2,
+  "updatedAt": "2024-05-02T10:48:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7761"
+}

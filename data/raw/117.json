@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is related to the build system, already part of the core.",
+    "format": "legacy",
+    "workaround": "This is related to the build system. It can be worked around by not doing anything as all the modules are being compiled by default."
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-07T23:57:58Z",
+  "comments": 1,
+  "createdAt": "2019-10-01T09:50:08Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": "4.0",
+  "number": 117,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Refactor the way C++ engine module dependencies are handled",
+  "up": 5,
+  "updatedAt": "2020-04-29T22:35:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/117"
+}

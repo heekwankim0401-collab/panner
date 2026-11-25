@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think you can have shaders addons",
+    "format": "form",
+    "workaround": "No, there isn't a performance workaround. You could simple put the array inside the fragment or vertex, but the array will be create once per iteration (I belive). This is why global const are usefull, they are only created once."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-18T10:54:03Z",
+  "comments": 1,
+  "createdAt": "2021-09-18T03:31:01Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "3.x",
+  "number": 3314,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support global const arrays in the shader language",
+  "up": 0,
+  "updatedAt": "2021-09-18T10:55:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3314"
+}

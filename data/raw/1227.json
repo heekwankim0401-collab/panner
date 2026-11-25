@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's just an idea, to make Godot even better for beginners, while having all the options hard-core users want, so no one loses . . . It seems a bit confusing, that the Alpha settings are separate, from the Albedo texture setting . . I think Transparency and, cull mode should be under Albedo, since they're the things one most often wants to change, after adding the albedo . . The last settings I would like under Albedo, are emission settings, so one has those three options, under the albedo, is it transparent, should it be rendered with front, back, or both sides, ( cull mode ) of faces and, is it an emissive texture . . By clicking ' Enabled ', there could be an expanded list, like when ' Enabling ' Normal maps, or Roughness . . Since emission takes info, from the albedo, like a neon sign, it makes sense it is there, ie a green albedo will cause green emission, a blue will make blue emission color, I think it makes sense to put that under albedo, as that primarily controls those things . .\n\n![2020-07-20 0851](https://user-images.githubusercontent.com/61069740/87908212-53d27d80-ca66-11ea-863c-b9d8131aa1ac.jpg)\n\nMaybe change cull mode, to ' face cull mode ' <3 . . Or ' Face Draw Mode ', with options, front, back, both . . Overall, I hope you will change the names, of the settings, so they're more user-friendly, and make sense, to both new and, also older users, immediately . . Anyway, as a beginner, I struggled to find these things, because the names made little sense, that's all . . . And, advanced users won't mind, idea is, to make Godot more, ' when I click something ', it makes sense, based on the words, more WYSIWYG inter-face . . <3 I guess if Cull Mode was called, Face Cull Mode, it would be easier . . :O <3 . .\n\nIt's a hard job, making it sound both pro, to advanced users, and first-time user friendly, at same time . . . .",
+    "format": "legacy",
+    "workaround": "It's beyond me, atm . ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-07-20T06:41:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1227,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move transparency, cull mode and emission to the albedo settings",
+  "up": 0,
+  "updatedAt": "2020-07-22T23:25:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1227"
+}

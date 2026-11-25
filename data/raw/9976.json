@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a simple confirmation dialog box on close, so it doesnt make sense for it to be a library",
+    "format": "form",
+    "workaround": "I am guessing we can create a tool script to add this in"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-16T14:30:04Z",
+  "comments": 1,
+  "createdAt": "2024-06-16T14:28:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9976,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ask for confirmation before closing Godot",
+  "up": 1,
+  "updatedAt": "2024-06-16T14:30:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9976"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "For completeness.",
+    "format": "form",
+    "workaround": "I don't know."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-08-05T09:56:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 7449,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `TextEdit.virtual_keyboard_type` like `LineEdit.virtual_keyboard_type`",
+  "up": 2,
+  "updatedAt": "2025-03-16T04:54:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7449"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It will be deeply ingrained in the import process",
+    "format": "form",
+    "workaround": "It can't be worked around in script as Godot discards the CPU representation of a mesh as soon as it is loaded"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-24T04:24:51Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 9588,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a DynamicMesh resource for frequent partial Mesh updates",
+  "up": 7,
+  "updatedAt": "2024-04-24T19:54:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9588"
+}

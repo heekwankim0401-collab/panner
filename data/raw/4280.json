@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Unlike FSR 1.0 this feature must be enabled on rendering pipeline, so Vector Data and Previous Frames will be available for the algorithm. Only with this data small and thin details can be saved on the output.",
+    "format": "form",
+    "workaround": "Nope, not even close. Unlike FSR 1.0 this feature must be enabled on rendering pipeline, so Vector Data and Previous Frames will be available for the algorithm."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-25T15:19:24Z",
+  "comments": 38,
+  "createdAt": "2022-03-25T10:05:14Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.2",
+  "number": 4280,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Integrate AMD FSR 2 in the Vulkan renderer (currently, FSR 1.0 is supported)",
+  "up": 87,
+  "updatedAt": "2023-09-25T15:23:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4280"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The reason this should be basic is simple, avoid wasted time reconfiguring and get a better workflow.\nIt is not possible in a library (I think)",
+    "format": "markdown",
+    "workaround": "Do not"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-02-23T10:20:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2335,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remember zoom and snap settings across sessions in the animation editor",
+  "up": 0,
+  "updatedAt": "2021-02-23T14:27:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2335"
+}

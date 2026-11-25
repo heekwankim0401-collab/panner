@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since this issue also exists inside the godot editor scene tree (and other editor trees) this should be fixed in core.",
+    "format": "form",
+    "workaround": "Unfortunately there is no real workaround for the visual indicator of the tree. In addition the scene tree in the editor (and any other tree like FileSystem tree) also has the same problems which you can't easily work around. Most people who worked with godot for a while has encountered the problem of dragging a node below a node with children when the node with children is the last node in the tree. It is impossible and you have to drag the node with children up above your node."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-26T15:10:39Z",
+  "comments": 2,
+  "createdAt": "2021-08-25T07:29:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.7",
+  "number": 3201,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve drag and drop for Tree (including scene tree in editor)",
+  "up": 3,
+  "updatedAt": "2026-03-26T15:10:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3201"
+}

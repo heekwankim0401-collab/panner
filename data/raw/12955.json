@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Rendering is core.",
+    "format": "form",
+    "workaround": "No 3D renderer can use 8 bit render target but if only using a couple 3D models then `MeshInstance2D` might be suitable.\n\nIf RD features are needed and color accuracy isn't that important - just correct blending - it is possible to use `CompositorEffect` with `EFFECT_CALLBACK_TYPE_POST_TRANSPARENT` as the `effect_callback_type` that transforms the linear screen color from sRGB space to linear space - i.e. essentially treat the screen color as if it were sRGB value. This will require to be careful when setting the mesh colors as they might need to also be transformed.\n\nTo get a little more precision out of the Compatibility renderer it is possible to multiple every color value by 2 and compensate with 0.5 `tonemap_exposure`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-08-06T19:36:00Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12955,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Viewport option to render 3D content in 8 bit sRGB",
+  "up": 2,
+  "updatedAt": "2025-09-15T19:50:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12955"
+}

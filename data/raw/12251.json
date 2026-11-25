@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because mobile-only developers can’t install and build custom modules easily. Making AdMob support core (or at least mobile-editor-friendly) would make Godot more accessible for mobile game devs around the world.",
+    "format": "form",
+    "workaround": "Not really. Setting up AdMob currently needs plugin installations, build templates, and access to a computer."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-15T18:05:56Z",
+  "comments": 7,
+  "createdAt": "2025-04-15T17:57:34Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12251,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add official AdMob support in the Godot mobile editor",
+  "up": 0,
+  "updatedAt": "2025-04-16T16:29:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12251"
+}

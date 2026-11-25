@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "No, should be core behaviour as it tackles common use cases.",
+    "format": "form",
+    "workaround": "No, this tackes a common usability problem that should be addressed at core."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-04T12:45:52Z",
+  "comments": 0,
+  "createdAt": "2024-01-15T20:02:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 8890,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `Select Tilt Points` mode for `Path3D` editor",
+  "up": 1,
+  "updatedAt": "2024-04-04T12:45:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8890"
+}

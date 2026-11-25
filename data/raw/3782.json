@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This relates to how the engine manages addons.",
+    "format": "form",
+    "workaround": "Well you can choose to mix up everything inside a single `EditorPlugin`, but if it's a big one it will follow you during the whole development of your addon, eventually becoming a mess. And the uniqueness of some `EditorPlugin` features still cannot be solved. See also above a script attempt at encapsulating it."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-22T09:24:33Z",
+  "comments": 2,
+  "createdAt": "2022-01-10T20:11:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3782,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow addons to contain more than one EditorPlugin",
+  "up": 23,
+  "updatedAt": "2024-11-23T16:45:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3782"
+}

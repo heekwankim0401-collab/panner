@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the out of the box experience for developing 3D games in Godot, especially games with a pixel art aesthetic.\n\nNewcomers to the engine sometimes don't even know why their textures look worse in Godot, so this provides an automatic solution that is still efficient.[^1] Also, this would benefit anyone using `icon.png` in their 3D projects as it wouldn't be reimported with VRAM compression enabled as soon as you use it in 3D.\n\n[^1]: If there are concerns about it feeling too \"magic\", note that https://github.com/godotengine/godot/pull/62023 prints a special message when a small texture is detected as used in 3D. This way, the user is aware that such textures are treated differently from others.",
+    "format": "form",
+    "workaround": "Automatic VRAM compression can be disabled in the Project Settings' Import defaults by setting **Detect 3D > Compress To** to **Disabled**. However, this applies to all textures regardless of their size, so it's not always optimal."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-17T19:07:04Z",
+  "comments": 5,
+  "createdAt": "2022-06-14T18:35:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4669,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disable VRAM compression by default for small textures in Detect 3D",
+  "up": 9,
+  "updatedAt": "2022-07-01T19:00:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4669"
+}

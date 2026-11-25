@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-03-05T12:45:00Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 14386,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Emit the `Input.mouse_mode_changed` signal when releasing mouse capture on the Web platform",
+  "up": 9,
+  "updatedAt": "2026-03-06T22:04:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14386"
+}

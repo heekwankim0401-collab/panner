@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I feels like a system that you would expect to be there already, and I do not see any downsides to adding this as a feature.",
+    "format": "form",
+    "workaround": "This is all still 100% doable with the current set up, as previously shown, but it will just be a lot more confusing and longer, in my opinion."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-08-15T22:05:28Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 5180,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Replace key index/value methods in Animation with a Key class",
+  "up": 0,
+  "updatedAt": "2022-08-16T10:29:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5180"
+}

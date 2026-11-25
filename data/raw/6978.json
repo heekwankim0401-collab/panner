@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The proposal is about the default look of the editor",
+    "format": "form",
+    "workaround": "This can be worked around per project/scene - just set the ground color you like and then use that WorldEnvironment.\nBut the proposal is about the default look"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2023-05-29T17:40:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6978,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change ground default color",
+  "up": 2,
+  "updatedAt": "2025-10-21T15:24:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6978"
+}

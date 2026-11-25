@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improving the editor usability out of the box.",
+    "format": "form",
+    "workaround": "You could probably make a script that clamps the last point to the first, to make it easier to edit, but this proposal is about changing the node behavior to make it work like this out of the box."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2023-03-02T12:32:25Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6396,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add a `cyclic` property to Curve2D (already implemented in Curve3D)",
+  "up": 9,
+  "updatedAt": "2025-04-22T02:37:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6396"
+}

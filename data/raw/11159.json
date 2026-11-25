@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-15T18:02:16Z",
+  "comments": 3,
+  "createdAt": "2024-11-14T18:06:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:buildsystem",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 11159,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve godot-cpp build times by adding a way to exclude certain cpp files from compilation",
+  "up": 0,
+  "updatedAt": "2024-11-15T18:46:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11159"
+}

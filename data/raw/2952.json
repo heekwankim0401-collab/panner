@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Previous projects should be known by the editor, and the user should not be forced to manually scan or import it just to get access to a list of projects.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-07-06T08:12:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2952,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an automatic \"Recent\" projects tab in the project manager",
+  "up": 1,
+  "updatedAt": "2024-11-17T18:49:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2952"
+}

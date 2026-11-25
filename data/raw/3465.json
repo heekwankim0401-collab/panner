@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core property of Godot's shaders I assume.",
+    "format": "form",
+    "workaround": "Not always, mainly depending on how many custom vertex attributes are needed. \n\nIn some cases it is possible to use a hack and abuse some of the standard attributes for a different purpose. This is not only suboptimal in terms of readability, it can also mean that the data passed to the shader can be \"too much\" due to the granularity of these additional attributes. For instance, if a shader needs 1 additional float attribute (say marker size) and one uses the first float of `UV` for that, the second float is passed unnecessarily. Similarly when one wants to pass an int/id or only individual bits for enum like attributes.\n\nHowever if the number of required vertex attributes exceeds what is possible with the hack, there doesn't seem a way to implement the equivalent of a raw GLSL shader. In this case, perhaps the only work-around is to resort to multiple draw calls, i.e., use a `uniform`  instead of a vertex attributes. This can mean that instead of 1 draw call, one has to perform thousands of draw calls, which could become a showstopper in terms of performance."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-16T07:39:04Z",
+  "comments": 2,
+  "createdAt": "2021-10-24T11:11:57Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 3465,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Backport support for custom vertex shader attributes to 3.x",
+  "up": 0,
+  "updatedAt": "2023-04-16T14:17:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3465"
+}

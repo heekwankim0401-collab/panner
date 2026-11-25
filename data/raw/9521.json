@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "You cannot create addon for core Notifications",
+    "format": "form",
+    "workaround": "For android devices it seems necessary at this moment. The issue was raised long back and it is doubtful it is going to be fixed soon, although 3 versions were released after that (12L, 13 and 14)\nFor iOS and desktop platforms, I am not sure."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-02T09:14:53Z",
+  "comments": 1,
+  "createdAt": "2024-04-15T01:01:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 9521,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Emit a notification when the OS kills your app",
+  "up": 0,
+  "updatedAt": "2024-10-02T09:50:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9521"
+}

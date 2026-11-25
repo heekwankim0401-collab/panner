@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Normal tcp socket is write in this way,on windows is iocp,on linux is epoll",
+    "format": "legacy",
+    "workaround": "This is a main function to use in all online games\nlibevent/libev/libuv all these library are based on this"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-20T08:27:51Z",
+  "comments": 6,
+  "createdAt": "2020-08-26T09:04:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 1415,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose the `poll()` function in StreamPeerTCP",
+  "up": 0,
+  "updatedAt": "2024-12-21T17:12:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1415"
+}

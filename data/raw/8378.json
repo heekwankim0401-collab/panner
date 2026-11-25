@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Solution is small, needs to be close to source, workaround demands an entire script dedicated to solving a UI/UX issue",
+    "format": "form",
+    "workaround": "A workaround script was proposed here https://github.com/godotengine/godot/issues/82524#issuecomment-1741260115 but it assumes no other top-level nodes would like this input\n\nAlso, I believe this functionality was so old no one paid it much thought, and it's just common sense to make it optional once re-discovered."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-11-09T08:20:20Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8378,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Introduce a flag to turn on/off the resetting of SpinBox to min/max value when right clicking",
+  "up": 3,
+  "updatedAt": "2023-11-10T09:40:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8378"
+}

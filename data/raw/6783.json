@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature is already present in the blender ESCN exporter, having it integrated to the blend import doesn't feel out of place with godot other import option.",
+    "format": "form",
+    "workaround": "It probably can be done with an import script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-05-01T00:14:08Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6783,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically using existing Godot materials based on resource name when importing a 3D scene",
+  "up": 5,
+  "updatedAt": "2025-02-02T18:30:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6783"
+}

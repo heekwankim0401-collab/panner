@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is used before downloading add-ons and improves this feature, so it should be core, and also it's propably pretty easy to implement",
+    "format": "form",
+    "workaround": "don't think so"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-25T00:37:14Z",
+  "comments": 1,
+  "createdAt": "2025-11-23T11:00:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:assetlib",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13686,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "After installing a plugin from AssetLib, show dialog asking to activate it",
+  "up": 3,
+  "updatedAt": "2025-11-25T00:37:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13686"
+}

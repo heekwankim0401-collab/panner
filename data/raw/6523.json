@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it must be part of the editor core.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-03-17T09:12:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6523,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow disabling Ctrl + mouse wheel zooming in the script editor entirely",
+  "up": 4,
+  "updatedAt": "2023-03-24T21:13:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6523"
+}

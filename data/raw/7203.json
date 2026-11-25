@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "~~It should be in core because it can't be worked-around in script. If it's not in core, it will have to be done in a fork.~~\n\nAlso, StyleBox and its derivatives are core, so it makes sense to have a type that allows combining them in core.",
+    "format": "form",
+    "workaround": "~~No, it can't be worked around in script. In order to implement a StyleBox that draws other StyleBoxes, you need to be able to call the engine's internal `draw` function from script, which is currently not possible.~~"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-16T00:46:18Z",
+  "comments": 6,
+  "createdAt": "2023-07-05T02:16:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7203,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a new type of StyleBox that draws other StyleBoxes",
+  "up": 1,
+  "updatedAt": "2023-12-09T17:13:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7203"
+}

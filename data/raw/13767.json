@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I suppose just emitting changed signal when the collection is modified, but array and dictionary are already part of core.",
+    "format": "form",
+    "workaround": "It would be used the same amount due to being a direct replacement, but it would also be more thread safe."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-12-02T03:24:17Z",
+  "down": 2,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13767,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make collections immutable or emit change signal on mutation",
+  "up": 1,
+  "updatedAt": "2025-12-02T19:30:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13767"
+}

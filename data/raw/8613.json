@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AssetLib add-ons can't be added to the project manager",
+    "format": "form",
+    "workaround": "the project manager can't be easily scripted\nwithout modifying Godot itself or making a standalone project manager"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-17T19:51:38Z",
+  "comments": 6,
+  "createdAt": "2023-12-08T07:54:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 8613,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Copy Path\" button to the project manager",
+  "up": 3,
+  "updatedAt": "2025-11-17T19:51:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8613"
+}

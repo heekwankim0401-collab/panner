@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be part of `Line2D`",
+    "format": "markdown",
+    "workaround": "I believe this should be part of the `Line2D`\nYou can [create this using code](https://github.com/juddrgledhill/godot-dashed-line) but it's not very performant."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-16T19:34:55Z",
+  "comments": 2,
+  "createdAt": "2021-04-16T19:33:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 2617,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Dashed or Dotted Line2D",
+  "up": 0,
+  "updatedAt": "2025-02-07T18:33:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2617"
+}

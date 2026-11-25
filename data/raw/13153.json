@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It will require a full rewrite of the slider class which is way too hard.",
+    "format": "form",
+    "workaround": "No, it's a core feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-09-11T07:52:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13153,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add symmetric fill to sliders",
+  "up": 11,
+  "updatedAt": "2025-09-14T18:22:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13153"
+}

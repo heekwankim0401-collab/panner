@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this should be core because it is a very basic feature that would help making the Position nodes more useful for everyone.",
+    "format": "legacy",
+    "workaround": "I don't think this could be done easily in script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2020-06-04T11:14:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1009,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve Marker2D and Marker3D identification",
+  "up": 14,
+  "updatedAt": "2026-02-02T16:03:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1009"
+}

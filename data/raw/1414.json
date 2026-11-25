@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Tilemaps play a large part in 2D games and currently it's pretty hard to do a lot of things, making collisions better would be a start...",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-12T16:20:17Z",
+  "comments": 4,
+  "createdAt": "2020-08-25T23:27:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1414,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Means of accessing a tile from a tilemap collision and other related items",
+  "up": 12,
+  "updatedAt": "2024-04-12T16:20:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1414"
+}

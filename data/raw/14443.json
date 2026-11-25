@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-03-13T10:06:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14443,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"Smart Delete\" shortcut (Shift+Delete) to delete script files and detach them from nodes simultaneously",
+  "up": 4,
+  "updatedAt": "2026-03-13T11:42:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14443"
+}

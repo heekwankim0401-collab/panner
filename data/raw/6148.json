@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it touches the core shader compiler.",
+    "format": "form",
+    "workaround": "No, there's no way to access decoupled instance color and vertex color. It's possible to work around it by passing the color over life as a parameter of the display material of the particle, but that's just very clunky to use and really not scalable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-01-23T09:54:38Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6148,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Decouple input color from MultiMesh and Particles from Color vertex data",
+  "up": 4,
+  "updatedAt": "2023-01-23T09:58:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6148"
+}

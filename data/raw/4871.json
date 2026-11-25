@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Only the core of the engine has full access to the graphics library (as far as I'm aware), so this currently cannot be solved with either GDScript or GDNative.",
+    "format": "form",
+    "workaround": "Currently, you can check to see how much video memory is being taken up by textures and vertices, but without knowing how much total memory the system has, there is no way of knowing if you are about to run out of video memory."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-07-14T12:16:39Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4871,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to get the amount of video memory available on the system",
+  "up": 7,
+  "updatedAt": "2022-07-14T13:45:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4871"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it's GDScript.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-24T12:10:20Z",
+  "comments": 5,
+  "createdAt": "2021-02-23T20:56:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2338,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to retrieve the name of the root node of a PackedScene from an instance",
+  "up": 0,
+  "updatedAt": "2021-02-24T12:11:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2338"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the debugging process of games. If running multiple instances is out of the box, then this should be a feature that improves the usability of multiple instances.",
+    "format": "form",
+    "workaround": "Above I mentioned two limitations. The first problem can be solved with the classical `print()` function inside a script. But it is time consuming.\nFor the second limitation I don't know an alternative. Eventually also with scripts?"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-23T22:31:23Z",
+  "comments": 6,
+  "createdAt": "2023-02-09T21:46:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 6257,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add multiple root to Scene Dock when running multiple instances",
+  "up": 13,
+  "updatedAt": "2025-01-23T22:31:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6257"
+}

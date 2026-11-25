@@ -1,0 +1,28 @@
+{
+  "answers": {
+    "core": "Adding it as a plugin wouldn't solve the problem, since few people actually use/search for plugins on Godot. What I developed solves a real problem for mobile games; simply adding it as a plugin wouldn't change anything, as it would remain hidden from the community.",
+    "format": "form",
+    "workaround": "Not in the way I developed it, because it would have to simulate an input and wouldn't support gestures or touchpad in the same way I did it."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-04T23:23:44Z",
+  "comments": 4,
+  "createdAt": "2026-01-02T13:02:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "platform:ios",
+    "topic:gui",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 13943,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Virtual Input Device System (On-Screen Controls)",
+  "up": 0,
+  "updatedAt": "2026-01-09T01:44:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13943"
+}

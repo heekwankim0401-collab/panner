@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feels like an intrinsic part of the front end for navigation meshes, and likely doesn't warrant an extension.",
+    "format": "form",
+    "workaround": "Unfortunately, the best workaround I've got (other than eye strain) is turning off the background environment, and changing materials temporarily for greater contrast. If there's another way to do this, I would love to hear about it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-19T16:31:25Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 8199,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add color of NavigationRegion3D to Editor 3D Gizmo Colors, so it can be changed",
+  "up": 3,
+  "updatedAt": "2023-10-20T10:21:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8199"
+}

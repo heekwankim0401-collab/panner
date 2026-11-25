@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same as above. It's hardcoded. There's no API to toggle it.",
+    "format": "form",
+    "workaround": "No. Joypad support is in C++."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-11-10T11:23:54Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 8391,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to disable joypad support",
+  "up": 7,
+  "updatedAt": "2025-04-30T12:56:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8391"
+}

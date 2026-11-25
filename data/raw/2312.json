@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, I think that it's quite useful.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-02-18T19:36:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2312,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `get_class()` also able to be called from non-instance (Make the function static)",
+  "up": 2,
+  "updatedAt": "2024-11-26T13:36:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2312"
+}

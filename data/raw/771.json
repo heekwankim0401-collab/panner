@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As far as I can tell, this would be difficult to build as an add-on in a generalized fashion. It seems like  it would be useful in many cases, and would be intuitive.",
+    "format": "legacy",
+    "workaround": "It could possibly be handled with `_forward_subtile_selection`, but I have no experience with this function, so I'm not sure. One issue with this is that it would introduce a dependency on the TileMap from the TileSet (the TileSet would need to know if the specific cell is flipped/transposed which is defined in the TileMap, it would also need to know about adjacent cells)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-04-30T15:45:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 771,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "AutoTile: Allow transpose/flip bitmask with transposed/flipped tiles",
+  "up": 0,
+  "updatedAt": "2020-05-25T21:04:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/771"
+}

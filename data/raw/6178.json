@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Cannot modify how gdscript is parsed and executed form an addon AFAIK",
+    "format": "form",
+    "workaround": "Not possible AFAIK"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-02T02:06:17Z",
+  "comments": 5,
+  "createdAt": "2023-01-26T18:47:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6178,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an option to ignore type annotations when debugging projects",
+  "up": 0,
+  "updatedAt": "2023-02-02T12:12:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6178"
+}

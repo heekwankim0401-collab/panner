@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core feature being modified.",
+    "format": "legacy",
+    "workaround": "It will be used often in any platform game with slopes. It can be easily worked around by manually setting floor_max_angle to 46 degrees but it's a pain and 99% of a time it's what user wants anyway."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-16T10:44:08Z",
+  "comments": 2,
+  "createdAt": "2020-01-22T17:48:21Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 402,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make move_and_slide_with_snap() floor_max_angle 46 degrees instead of 45 degrees. ",
+  "up": 9,
+  "updatedAt": "2020-08-05T07:48:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/402"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's so small, and makes the product more cohesive.",
+    "format": "form",
+    "workaround": "Could be implemented with a plugin, but I think it makes sense for the actual Editor to have it"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-20T18:47:30Z",
+  "comments": 4,
+  "createdAt": "2025-05-12T14:41:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12416,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Close All Scenes editor shortcut",
+  "up": 2,
+  "updatedAt": "2025-09-20T18:49:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12416"
+}

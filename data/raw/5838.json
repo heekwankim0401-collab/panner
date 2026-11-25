@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The specific blend modes are core.",
+    "format": "form",
+    "workaround": "Yes but that would defeat the purpose of having the blend modes in core in the first place. This is relatively small change to the shader code with a lot of usability advantage."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-11-24T12:34:03Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5838,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add opacity input to core blend modes in Visual Shader nodes",
+  "up": 0,
+  "updatedAt": "2022-11-24T15:02:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5838"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's native binding to a native window",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-04-13T19:58:07Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9514,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Animation: Bezier curve editor: Vertical zoom with no-modifier Scroll (or Shift or Alt)",
+  "up": 6,
+  "updatedAt": "2024-04-14T09:01:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9514"
+}

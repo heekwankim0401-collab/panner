@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's a fundamental feature (couldn't be achieved with an addon), it could be best realised by using a system like .gitignore whereby you could set certain patterns to be ignored.... however just allowing changing the default setting for CSV would solve my issue (it seems you can set a default for textures)\n\nmaybe just adding an empty import profile for csv.... where you have \"import as\" you only have one option \"CSV Translation\" .... add a \"Raw CSV\" (make it do nothing)?",
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-04T20:34:57Z",
+  "comments": 5,
+  "createdAt": "2021-05-04T20:30:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2687,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Please allow some sort of filter system for imports, in particular stopping CSV files importing automatically",
+  "up": 0,
+  "updatedAt": "2021-05-04T20:41:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2687"
+}

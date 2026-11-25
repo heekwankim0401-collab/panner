@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature requires changes to the C# code generator, an add-on cannot change how the C# code interacts with the engine like this.",
+    "format": "form",
+    "workaround": "This enhancement is a more advanced feature, so it likely wouldn't see much use in most games. You can, after all, simply use ToArray() to turn a Span into an array. This does unfortunately defeat the purpose of a span."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-10T23:24:23Z",
+  "comments": 6,
+  "createdAt": "2024-06-21T22:31:24Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.4",
+  "number": 10012,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Span<> overloads to Godot methods which accept arrays",
+  "up": 11,
+  "updatedAt": "2024-10-11T02:28:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10012"
+}

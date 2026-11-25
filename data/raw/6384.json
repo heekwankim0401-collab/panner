@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The import windows are core. I'm sure there's an audio visualizer in the code somewhere, I just can't find it.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-01T22:23:04Z",
+  "comments": 0,
+  "createdAt": "2023-03-01T21:00:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 6384,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Give me access to the oggvorbis import window's audio visualizer",
+  "up": 0,
+  "updatedAt": "2025-07-13T09:45:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6384"
+}

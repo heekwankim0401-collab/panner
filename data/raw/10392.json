@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This Could be in the separate gdextension class. But I think this function being inside astar_grid_2d makes sense as it will be very easy to setup grid, disable points, and immediately get filled point from it. Could be in the separate class and take an array of points as an arguments or property too if made in gdextension class.",
+    "format": "form",
+    "workaround": "It can be, but I think this is common in grid based game enough to be in the astar_grid_2d class. (Or be in separate class.)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-08-07T19:05:49Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10392,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a flood fill algorithm",
+  "up": 6,
+  "updatedAt": "2024-11-01T22:50:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10392"
+}

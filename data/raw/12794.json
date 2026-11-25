@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because is a internal warning, cannot be changed unless the source code is changed",
+    "format": "form",
+    "workaround": "Yes, but a drop in game performance.\n\nOne solution I found was this:\n\n```gdscript\nfunc _can_start_anim() -> bool:\n\treturn not paused and not finished and node_is_processing(node_to_animate)\n\nfunc node_is_processing(node: Node) -> bool:\n\twhile node:\n\t\tmatch node.process_mode:\n\t\t\tNode.PROCESS_MODE_DISABLED:\n\t\t\t\treturn false\n\t\t\tNode.PROCESS_MODE_ALWAYS, Node.PROCESS_MODE_PAUSABLE:\n\t\t\t\treturn true\n\t\t\tNode.PROCESS_MODE_INHERIT:\n\t\t\t\tnode = node.get_parent()\n\treturn false\n```\n\nBut make this to every Node can consume performance because there may be several of them"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-16T15:38:35Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12794,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove warnings from `Node.can_process()` method",
+  "up": 0,
+  "updatedAt": "2025-07-17T17:55:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12794"
+}

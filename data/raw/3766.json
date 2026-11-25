@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I have proposed the possibility of 'localisation packs' as a more scalable solution to addressing the problem than simply embedding more fonts into the binary, but currently, the editor lacks the infrastructure required to support localisation packs as a feature.",
+    "format": "form",
+    "workaround": "While it is perfectly possible for users to install their own editor fonts to work around this issue, this proposal is an attempt to address the out of the box experience of starting the editor with these languages chosen. A user may not be aware of the intracies of this problem to install an alternative editor font."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-01-06T13:33:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "topic:i18n"
+  ],
+  "milestone": "4.x",
+  "number": 3766,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Address Han Unification for CJK languages in Editor",
+  "up": 7,
+  "updatedAt": "2025-06-14T12:04:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3766"
+}

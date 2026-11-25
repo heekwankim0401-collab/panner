@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Only the Tween class knows about it",
+    "format": "form",
+    "workaround": "There is no way to access this information otherwise"
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-01T22:31:41Z",
+  "comments": 3,
+  "createdAt": "2022-03-21T14:17:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4251,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add way of telling elapsed time to Tween",
+  "up": 4,
+  "updatedAt": "2022-04-01T22:31:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4251"
+}

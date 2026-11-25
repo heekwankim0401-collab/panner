@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not sure if this could be done with an addon, but if so I assume it would be very difficult.\nPerhaps you could run a script at export, but it would also have to work when running the project from the editor. And depending on how it works, the code editor might complain of syntax errors because of the preprocessor statements.",
+    "format": "form",
+    "workaround": "For `ifdef` statements, you can use something like `OS.has_feature`, but the code is still there for dataminers to see. You could instead have multiple versions of the script and only include them in certain exports, but this is not simple to do.\nYou could also use C++ or C# which support this already, but that's not a few lines of script, it's rewriting your entire project."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-07-25T22:15:18Z",
+  "down": 0,
+  "labels": [
+    "topic:export",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7375,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add conditional compilation directives to GDScript",
+  "up": 38,
+  "updatedAt": "2024-09-10T07:53:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7375"
+}

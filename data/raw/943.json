@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "We support turning off anti-aliasing for the dynamic font, so it makes sense that a feature like this should be included in the core project.",
+    "format": "legacy",
+    "workaround": "It's typical to not use aliasing when working with small pixel art i've noticed, the solution to this problem currently (that i've been using) is to duplicate the font 4 times, and offset each duplicate by 1 pixel in each direction, although I anticipate there are other solutions with shaders for example, this is a bit painful though, as each text field needs to be updated simultaneously, resulting in some pretty ugly code."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-03T10:59:16Z",
+  "comments": 2,
+  "createdAt": "2020-05-28T17:21:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 943,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow font outline anti-aliasing to be disabled",
+  "up": 3,
+  "updatedAt": "2020-06-07T20:47:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/943"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "form",
+    "workaround": "Introducing the `SHADOW_ATTENUATION` built-in has many other applications than just creating custom light shaders: users are able to know if a fragment is in shadow (0.0 is completely shadowed, 1.0 is completely lit, values in-between tell you that the fragment is only partially shadowed), or creating artistically-controlled colored shadows, for example."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-06-22T22:03:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2905,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Decouple shadows from `ATTENUATION` into its own `SHADOW_ATTENUATION` built-in in `spatial` shaders",
+  "up": 18,
+  "updatedAt": "2023-12-12T00:09:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2905"
+}

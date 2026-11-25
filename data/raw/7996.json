@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript is a core module.\n\n**NOTE** I believe that this would be fairly easy to implement, but I want to know if this approach has downsides that I haven't thought of, and I want to know if this feature would have enough support.",
+    "format": "form",
+    "workaround": "Since this is a new class, N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-05T20:01:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7996,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a `ManagedGDScript` class",
+  "up": 16,
+  "updatedAt": "2025-06-27T16:18:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7996"
+}

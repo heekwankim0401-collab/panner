@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Help users not cause accidental mess-ups.",
+    "format": "form",
+    "workaround": "I don't think it can."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-05T01:54:12Z",
+  "comments": 4,
+  "createdAt": "2023-09-25T18:47:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 7862,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a confirmation dialog for moving folders in the FileSystem dock",
+  "up": 22,
+  "updatedAt": "2026-01-29T11:25:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7862"
+}

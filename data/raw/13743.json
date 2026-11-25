@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No one wants to fill in a matrix by hand",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-09T20:30:11Z",
+  "comments": 3,
+  "createdAt": "2025-11-28T07:56:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13743,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow exporting Transforms as position/rotation/scale properties in the inspector",
+  "up": 5,
+  "updatedAt": "2026-02-10T00:20:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13743"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems to be very core, and I can't see how it could be done in a simple way with scripts.",
+    "format": "form",
+    "workaround": "It will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-03-22T16:50:40Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12050,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to transcode lossy images to ASTC textures automatically on load",
+  "up": 0,
+  "updatedAt": "2025-03-23T11:47:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12050"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Cannot be done with an asset.",
+    "format": "form",
+    "workaround": "Writing `INF` or `NAN` in the inspector has no precedence… Since it didn't work. *Now it is bound to happen, and if anything you can point people here.*\n\nHowever, honestly, it probably isn't a common use case, since a lot of things won't work with those values. For example RayCasts don't work https://github.com/godotengine/godot-proposals/issues/3389.\n\nAnd yes, we have a workaround. We can use `INF` and `NAN`."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-11T00:22:53Z",
+  "comments": 5,
+  "createdAt": "2021-10-05T18:26:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3390,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Recognize inf, nan, and inf_neg constants (note: lower case)",
+  "up": 0,
+  "updatedAt": "2022-05-11T00:22:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3390"
+}

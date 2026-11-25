@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Would be more convenient and also would permit to have signal autocompletion inside the editor more easily if it's handled in core.",
+    "format": "form",
+    "workaround": "For now I am using the user_signal API, but it's heavy and need a base class for all my ressources. Look something like this:\n\n```gdscript\nclass_name Data\nextends Resource\n\n\nfunc _init():\n\tvar all_properties = get_property_list()\n\tall_properties = all_properties.filter(func(property): return property[\"usage\"] & PROPERTY_USAGE_SCRIPT_VARIABLE and !(property[\"usage\"] & PROPERTY_USAGE_READ_ONLY) )\n\tfor property in all_properties:\n\t\tadd_user_signal(property[\"name\"]+\"_changed\",[])\n\t\t\n```\n\n```gdscript\nclass_name TestData\nextends Data\n\n@export var test: String = \"\":\n\tset(value): \n\t\ttest = value\n\t\temit_signal(\"value_type_changed\")\n\n```\n\n```gdscript\nextends Node\n\n@export var ressource: TestData\n\nfunc _ready():\n\tressource.connect( \"test_changed,\" self._on_test_changed)\n\nfunc _on_test_changed():\n\t$UILabel.text = ressource.test\n\n```\n\nWe can see to write it\"s heavier than the proposed solution, and we have the risk to forget to implement signal emit in setter."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-17T11:44:17Z",
+  "comments": 2,
+  "createdAt": "2024-03-17T11:08:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9316,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add and emit <property>_changed signal on GDScript custom ressource properties",
+  "up": 0,
+  "updatedAt": "2024-03-17T11:44:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9316"
+}

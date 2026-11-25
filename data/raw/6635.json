@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "core",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-05T09:13:29Z",
+  "comments": 0,
+  "createdAt": "2023-04-05T05:23:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6635,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Should Show a hint in script-editor for missing call super counterpart callback function (if really existed)",
+  "up": 0,
+  "updatedAt": "2025-07-13T09:46:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6635"
+}

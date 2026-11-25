@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "TranslationServer is core, and CSV is the most common way for indie games to do translations.",
+    "format": "form",
+    "workaround": "This is a fundamental QOL thing for people working on translations. Additionally, it cannot be worked around without completely rewriting the CSV Translation importer."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-20T10:13:42Z",
+  "comments": 1,
+  "createdAt": "2023-10-18T17:38:32Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:import"
+  ],
+  "milestone": "4.3",
+  "number": 8183,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ignorable columns to translation CSVs",
+  "up": 4,
+  "updatedAt": "2024-02-20T10:13:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8183"
+}

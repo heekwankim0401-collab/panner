@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "While this could potentially be developed as an addon, we are currently tracking the proposal in godot-proposals for better visibility and collaboration. More information can be found at [godot-riscv](https://github.com/fwsGonzo/godot-riscv).",
+    "format": "form",
+    "workaround": "The alternative to using compiled code is slower gdscript or utilizing the godot orchestrator. However, these options may not provide the same level of efficiency and flexibility that our proposed solution offers."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-22T22:52:47Z",
+  "comments": 15,
+  "createdAt": "2024-06-29T02:35:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10071,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Build a tiny RISC virtual machine which can interpret and execute native scripts",
+  "up": 4,
+  "updatedAt": "2024-09-23T15:13:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10071"
+}

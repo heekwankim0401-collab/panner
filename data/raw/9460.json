@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is Godot internal.",
+    "format": "form",
+    "workaround": "It will be helpful."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-24T11:05:39Z",
+  "comments": 4,
+  "createdAt": "2024-04-06T09:52:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.4",
+  "number": 9460,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose the right-click context menu in `FileSystemDock` for the plugin",
+  "up": 4,
+  "updatedAt": "2025-05-24T11:05:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9460"
+}

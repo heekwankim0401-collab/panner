@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "They should be core properties to complement `Node2D.global_position` and `Node2D.global_rotation` but for 3D",
+    "format": "form",
+    "workaround": "getting global position: `global_transform.origin`\nsetting global position: `global_transform.origin = new_pos`\ngetting global rotation: `global_transform.basis.get_euler()`\nsetting global rotation:\n`rotation = (get_parent().global_transform.basis.inverse() * Basis(new_rot)).get_euler()`\n(probably simpler way to do it)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-01T19:50:42Z",
+  "comments": 3,
+  "createdAt": "2021-07-22T21:14:43Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3033,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `global_position` and `global_rotation` properties to Node3D",
+  "up": 15,
+  "updatedAt": "2024-07-27T05:56:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3033"
+}

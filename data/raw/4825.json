@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It modifies the renderer.",
+    "format": "form",
+    "workaround": "Not a few lines of script. It is possible to reimplement a special \"shader material\" that will actually auto assign a second pass. The problem is that rendering order of draw passes flickers (see https://github.com/godotengine/godot-proposals/issues/4777) and culling flags are part of the shader code (see https://github.com/godotengine/godot-proposals/issues/933)\nThese issues coupled together create an incredibly cumbersome pipeline to work with double sided transparent materials.\nOverlay material could be a way to fix this issue, but won't work for multi surface meshes. I have no need for multi surface meshes, but maybe someone else does."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-07-06T13:26:47Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.x",
+  "number": 4825,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use two-pass rendering for double sided transparent objects",
+  "up": 15,
+  "updatedAt": "2023-05-01T19:16:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4825"
+}

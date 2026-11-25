@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a small change on an existing feature.",
+    "format": "form",
+    "workaround": "Nope, it is hard coded."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-17T09:15:47Z",
+  "comments": 3,
+  "createdAt": "2024-05-05T16:33:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9682,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make \"add as sibling\" the default when drag-and-dropping an asset into 3D View",
+  "up": 4,
+  "updatedAt": "2024-05-17T09:16:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9682"
+}

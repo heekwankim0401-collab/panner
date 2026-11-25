@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is already a vehicle body 3d node which is core and can be back ported for 2d",
+    "format": "legacy",
+    "workaround": "I tried that asked a lot of questions from pros they seem not to have an answer, So no it cant be worked around with a few lines of code"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-05-24T10:17:23Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 880,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a VehicleBody2D node",
+  "up": 2,
+  "updatedAt": "2020-06-14T09:39:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/880"
+}

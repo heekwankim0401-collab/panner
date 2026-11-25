@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's too simple to not add to core.",
+    "format": "form",
+    "workaround": "It's a very simple addition to the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-01-18T03:02:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8906,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to perform quaternion swing-twist decomposition",
+  "up": 7,
+  "updatedAt": "2024-07-09T04:26:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8906"
+}

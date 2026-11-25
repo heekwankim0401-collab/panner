@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-18T01:06:54Z",
+  "comments": 1,
+  "createdAt": "2026-03-15T13:08:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14461,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add skip build option expilictly in dotnet settings",
+  "up": 2,
+  "updatedAt": "2026-03-18T01:06:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14461"
+}

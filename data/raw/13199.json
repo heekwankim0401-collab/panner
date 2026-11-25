@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's related to the core GDScript language.",
+    "format": "form",
+    "workaround": "I do think it could be used frequently in the right scenarios. Many high level languages have this behavior and I used this future always. Both for only setting one parameter while others stay at default, or for better readability to know what each parameter is."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-17T17:34:07Z",
+  "comments": 0,
+  "createdAt": "2025-09-17T17:27:42Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13199,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Named parameters for GDScript",
+  "up": 0,
+  "updatedAt": "2025-09-18T09:03:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13199"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Comparing arrays and being able to do elementary set operations is a feature that would benefit a lot of projects in my opinion as it gets rid of GDscript  for-loops which is always a nice things.",
+    "format": "legacy",
+    "workaround": "It can be by usage of for-loops, but I imagine that having large arrays will start to hog the system when running these loops."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-19T12:17:38Z",
+  "comments": 7,
+  "createdAt": "2020-05-11T13:04:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 821,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add elementary set operators for Arrays and Dictionaries",
+  "up": 11,
+  "updatedAt": "2020-09-19T12:17:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/821"
+}

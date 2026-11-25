@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It addresses engine usability concerns.",
+    "format": "form",
+    "workaround": "It will be used very often."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-02T14:54:19Z",
+  "comments": 1,
+  "createdAt": "2024-10-15T13:26:55Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.4",
+  "number": 10976,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "When selecting an AnimationNodeStateMachine node, reduce opacity of every node it doesn't have transitions with",
+  "up": 5,
+  "updatedAt": "2024-12-02T14:59:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10976"
+}

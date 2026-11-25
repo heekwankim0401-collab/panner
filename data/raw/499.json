@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "i left unity and unity have this feature in core",
+    "format": "markdown",
+    "workaround": "no, it should be always"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-02-21T12:08:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 499,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Synchronize inspector folding state when selecting multiple nodes (MultiNodeEdit)",
+  "up": 8,
+  "updatedAt": "2021-06-02T16:24:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/499"
+}

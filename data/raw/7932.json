@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it should be core as its is included in the editor",
+    "format": "form",
+    "workaround": "implement the same pin option in Animation Editor tab to Theme editor tab"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2023-09-30T16:12:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7932,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add Pin Option in Theme Editor Tab",
+  "up": 3,
+  "updatedAt": "2024-10-05T17:32:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7932"
+}

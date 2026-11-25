@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It looks not possible or very hard to get access to Windows Registry from add-on via reading binary files and parse it.",
+    "format": "legacy",
+    "workaround": "I think, that my case (check and read Registry keys) is not the only one. `RegistryKey` class is needed if you want to recreate old game engine, that uses Registry to save some values or configs.\nSo looks like this class will be used often enough."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-18T13:47:03Z",
+  "comments": 3,
+  "createdAt": "2020-01-30T03:44:54Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 418,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add class to work with Windows Registry",
+  "up": 2,
+  "updatedAt": "2020-09-18T13:47:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/418"
+}

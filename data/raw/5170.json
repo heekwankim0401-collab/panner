@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "RayCast 2D is often used in enemy AI and while Area2D is useful, RayCast allows for greater precision when directed towards a player. Improving exception handling and allowing groups to be excepted from the editor (rather than in static code) will make the RayCast2D a more flexible tool overall and signals will allow more streamlined execution of detection.",
+    "format": "form",
+    "workaround": "The workarounds I have found involve larger amounts of scripts and large amounts of if/else logic that can get cumbersome and more importantly, messy to work with."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-08-14T21:24:29Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5170,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Signals for \"is_colliding\" and exclusions editing (nodes/groups) from Inspector for RayCast 2d",
+  "up": 3,
+  "updatedAt": "2024-02-04T03:42:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5170"
+}

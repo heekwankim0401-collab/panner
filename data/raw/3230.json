@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Well, not sure, it's a suggestion, that's all . . . .",
+    "format": "form",
+    "workaround": "Well, I can't do this, was thinking the path-finding algorhitm might be easier, and so faster and, it looks like it could give almost same result, as current NavMesh, esp. if one could add extra detail, or remove it, to optimize it or, so . . . ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-08-30T13:29:01Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 3230,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an alternative model for NavMesh . .",
+  "up": 0,
+  "updatedAt": "2021-08-31T11:52:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3230"
+}

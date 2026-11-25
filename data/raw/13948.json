@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Even if I knew how to do that (assuming it's even possible to alter something like that in an add-on), I would prefer not to bundle my add-on with something that alters such low-level functionality.\n\nAnd if it's not in the project's interest to implement a way to get around the safety guard, I'd appreciate it if the restriction was at least mentioned within the documentation.",
+    "format": "form",
+    "workaround": "It can be worked around by simply manually typing in the code. It looks a bit more cluttered though, and I'd prefer it if I could simply reuse the number incrementing logic as a simple **ShaderInclude** when needed.\n\n```glsl\n#if PAPER_USE_CUSTOM_TEXTURE_SLOTS\n\t#define SLOT_CUR 0\n\t\n\t#if PAPER_FEATURE_METALNESS\n\t\t#define SLOT_METAL CUSTOM_TEX(SLOT_CUR)\n\t\t#undef SLOT_CUR\n\t\t#define SLOT_CUR 1\n\t#endif\n\t#if PAPER_FEATURE_ROUGHNESS\n\t\t#define SLOT_ROUGH CUSTOM_TEX(SLOT_CUR)\n\t\t#if SLOT_CUR == 0\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 1\n\t\t#else\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 2\n\t\t#endif\n\t#endif\n\t#if PAPER_FEATURE_SPECULAR\n\t\t#define SLOT_SPEC CUSTOM_TEX(SLOT_CUR)\n\t\t#if SLOT_CUR == 0\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 1\n\t\t#elif SLOT_CUR == 1\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 2\n\t\t#else\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 3\n\t\t#endif\n\t#endif\n\t#if PAPER_FEATURE_AO\n\t\t#define SLOT_AO CUSTOM_TEX(SLOT_CUR)\n\t\t#if SLOT_CUR == 0\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 1\n\t\t#elif SLOT_CUR == 1\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 2\n\t\t#elif SLOT_CUR == 2\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 3\n\t\t#else\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 4\n\t\t#endif\n\t#endif\n\t#if PAPER_FEATURE_EMISSIVE\n\t\t#define SLOT_EMISSIVE CUSTOM_TEX(SLOT_CUR)\n\t\t#if SLOT_CUR == 0\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 1\n\t\t#elif SLOT_CUR == 1\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 2\n\t\t#elif SLOT_CUR == 2\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 3\n\t\t#elif SLOT_CUR == 3\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 4\n\t\t#else\n\t\t\t#undef SLOT_CUR\n\t\t\t#define SLOT_CUR 5\n\t\t#endif\n\t#endif\n\t#if PAPER_FEATURE_NORMAL\n\t\t#define SLOT_NORMAL CUSTOM_TEX(SLOT_CUR)\n\t#endif\n#endif\n```\n\n**EDIT**: Actually, this doesn't work either. The `SLOT_CUR` that I pass into the `CUSTOM_TEX` macro is the one that's last defined, meaning that the **ShaderInclude** method I wanted to do wouldn't work even if something like `#hardinclude` existed. This doesn't mean that the previous **ShaderInclude** issue I've described and its lack of documenta"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-01-04T02:05:18Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 13948,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow the same ShaderInclude file to be added to the same file more than once",
+  "up": 2,
+  "updatedAt": "2026-01-04T23:27:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13948"
+}

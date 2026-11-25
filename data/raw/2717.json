@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I do not know if it is possible to do it with an addon.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-01T18:16:18Z",
+  "comments": 36,
+  "createdAt": "2021-05-13T14:28:41Z",
+  "down": 17,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2717,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a \"virtual\" Folder node for editor-only scene tree organization",
+  "up": 5,
+  "updatedAt": "2026-05-01T09:15:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2717"
+}

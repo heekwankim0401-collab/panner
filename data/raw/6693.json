@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be core because there is almost no reason to not use it once it is there and people understand what it does, it also super small and “simple”, meaning it won’t bloat the core or file.  It is much more efficient in core and people can more easily use it, essentially it would be something you would want on in almost any game even if you don’t think about it, adding it in a module might make it much more difficult and in the result bloat things.\nEssentially it is like why the setting for limiting or targeting a fps should be added in core, or that the core should be able to have something like cameras and automatically render, it is just basic functionality, that almost any game would and should use, for example how many games made in godot don’t render something(so how many games made in godot run purely in a os native terminal or such, and don’t use any of godot’s rendering functionalities, there might be one or some, but most will render something.\n\nAlso don’t forget, it is small, easy to enable or disable, even to disable it if you manually told in code to use it, and it allows insane energy savings, as well as great performance improvements.\n\nOne mayor reason someone might not want to use it, is because it is new and they don’t know what it is and does and why they should enable it. Or if someone makes a game where IAFR(automated one setting afr) doesn’t work optimally well and where they don’t yet get why they should use EAFR or normal AFR which tend to work well in basically any game, even things like fps-esport-MMO’s(as in all those in one since that is where IAFR tends to be at it’s weakest, EAFR and normal AFR still work very well there however) and such.",
+    "format": "form",
+    "workaround": "Yes, the IAFR approach can be enabled or disabled using a setting or parameter, for General AFR or \nEAFR and many of the more custom less automatic AFR implementations(IAFR is mostly automatic) have to be used by the coder of the game, it has to be called to start, IAFR is automatic but can and probably should be a setting, IAFR is just a very simple AFR implementation that automatically implements AFR well enough for most games. But the other more custom implementation require the coder to speciffically call them.\n\nEAFR it could also easily be disabled from code by adding a bool like EnableAFR, which will also disable IAFR. A bool like EnableAFR is just there so if people used AFR methods in their code that\nthey don’t need to add a statement to check if afr is enabled or not, so they can easily add a setting in the game for people to disable all AFR."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-17T16:58:42Z",
+  "comments": 1,
+  "createdAt": "2023-04-14T00:03:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6693,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add AFR(see details) support to greatly reduce power usage and increase performance.",
+  "up": 0,
+  "updatedAt": "2023-05-17T16:58:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6693"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The functionality of converting a texture from sRGB to Linear is already in the engine, this is just a rename of that.",
+    "format": "markdown",
+    "workaround": "The default behavior will still be no conversion."
+  },
+  "assignees": 1,
+  "closedAt": "2022-05-24T06:15:34Z",
+  "comments": 15,
+  "createdAt": "2021-02-20T16:53:40Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 2323,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename hint_albedo for sRGB -> Linear color conversion in shaders",
+  "up": 12,
+  "updatedAt": "2022-10-04T23:52:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2323"
+}

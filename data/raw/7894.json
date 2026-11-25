@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Printing floats is a core feature.",
+    "format": "form",
+    "workaround": "This will be used extremely often. Every Godot dev ever will use this feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-01T01:29:22Z",
+  "comments": 1,
+  "createdAt": "2023-09-27T17:07:28Z",
+  "down": 4,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.4",
+  "number": 7894,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Always print floats as float literals (ex: trailing decimal)",
+  "up": 29,
+  "updatedAt": "2024-11-01T12:03:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7894"
+}

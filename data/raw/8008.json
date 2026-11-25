@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core functionality already present in the engine that just needs to be exposed somewhere else, as far as I can tell.",
+    "format": "form",
+    "workaround": "You can approximate apply_force by using apply_impulce (force * delta), but some of the other missing properties are much harder to work around. The missing signals, especially, do not have a clean workaround as far as I can tell."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-10-06T16:23:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8008,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods, properties and signals that are present in RigidBody3D to PhysicalBone3D",
+  "up": 12,
+  "updatedAt": "2025-12-15T18:48:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8008"
+}

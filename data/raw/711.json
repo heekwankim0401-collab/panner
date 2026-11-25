@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "People should not get confused between ray casting and ray shapes used for physics separation and should be advertised by the engine devs instead.",
+    "format": "legacy",
+    "workaround": "Possible to create a script wrapper over the existing class."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-27T15:49:53Z",
+  "comments": 6,
+  "createdAt": "2020-04-15T00:50:34Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 711,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `RayShape` to `SeparationRayShape`",
+  "up": 3,
+  "updatedAt": "2021-09-14T08:40:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/711"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement is an c++ architectural change for core.\n\n\nNote: happy to do this myself",
+    "format": "markdown",
+    "workaround": "This enhancement is an c++ architectural change, which wouldn't be implementable in script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-12-31T18:25:40Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2053,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a templated singleton class which singletons (e.g. EditorFileSystem) would inherit from",
+  "up": 0,
+  "updatedAt": "2021-09-27T00:01:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2053"
+}

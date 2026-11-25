@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "These changes should be in core as the `ERR_PRINT` and `WARN_PRINT` macros may need to be changed to something else and the `GDScriptLanguage` singleton initialization moved so that stack trace information is also available when running scripts with `godot -s`.\n\nAlso, given the proposals to have a built-in logging system such as  #919, and #1378, it may be worth moving the stack traces to such logging system.",
+    "format": "legacy",
+    "workaround": "This will be used often by anyone that's logging / debugging code.\n\nYes, it can be worked around when using the Editor, since stack trace information can be added easily with `print_stack()`, for example:\n\n```gdscript\nextends Node\n\nfunc _init():\n        push_error(\"test\")\n        print_stack()\n```\n\nThis, however, does not work when using `godot -s` as previously stated."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-09T20:18:30Z",
+  "comments": 1,
+  "createdAt": "2020-10-04T02:25:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1605,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add stack trace information to push_error and push_warning on terminal output",
+  "up": 3,
+  "updatedAt": "2020-10-09T20:18:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1605"
+}

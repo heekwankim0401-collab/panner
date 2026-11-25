@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think the feature is perfectly fit to be in OS class, and too small to occupy a whole addon.",
+    "format": "form",
+    "workaround": "I don't think it can be worked around by a few lines of script. Our current C# solution is about couple of hundreds lines of code (besides adding Mono dependency itself)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2022-05-09T14:25:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 4518,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add shared memory functions to API",
+  "up": 3,
+  "updatedAt": "2026-02-21T08:49:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4518"
+}

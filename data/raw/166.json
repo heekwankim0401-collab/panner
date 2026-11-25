@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Knowing the playspace and gaurdian bounds is pretty base level things needed for a VR game, it will have many other uses, and I don't know if it could be implemented as an add on.",
+    "format": "legacy",
+    "workaround": "Not that I can see since it needs to come from the VR server"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2019-10-19T09:11:47Z",
+  "down": 0,
+  "labels": [
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 166,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Need VR playspace and guardian bounds",
+  "up": 3,
+  "updatedAt": "2021-02-11T09:59:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/166"
+}

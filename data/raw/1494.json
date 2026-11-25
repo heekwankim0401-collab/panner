@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core feature.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2020-09-12T03:30:21Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1494,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Print error/warning when using `Object.set()` on nonexistent property",
+  "up": 4,
+  "updatedAt": "2023-07-01T09:24:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1494"
+}

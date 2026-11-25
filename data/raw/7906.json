@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Uhhh, I don't know. No real idea how to answer that, cuz I don't know how myself I would code it cuz I never coded an add-ons, even more on Godot, but the real question would be... can an add-on (really) modify the preload() function ?",
+    "format": "form",
+    "workaround": "Actually no.\n\nLike I've seen a post where this happened, and the guy asked how he could improve it, but his objective being different than mine a got differents answers. Like naming each scripts classes, which would be the more easier solution for me (easier don't mean easy here), while the others was Autoload, which means adding thoses possibly hundreds of thousands of scrips each time in the autoload..."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-28T22:24:01Z",
+  "comments": 6,
+  "createdAt": "2023-09-28T21:35:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7906,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "preload() issue, \"Preloaded path must be a constant path\"",
+  "up": 0,
+  "updatedAt": "2025-05-10T03:28:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7906"
+}

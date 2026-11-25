@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Window title bars are controlled by `display_server_windows.cpp` and cannot be changed by an addon.",
+    "format": "form",
+    "workaround": "No, it cannot be worked around without modifying the Godot source code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-09-02T20:50:33Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 5312,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow customizing the dark/light mode of window title bars on Windows",
+  "up": 9,
+  "updatedAt": "2026-10-15T18:13:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5312"
+}

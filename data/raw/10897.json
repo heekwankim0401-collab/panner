@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Having a full \"BBCode text editor\" addon would be ideal, so that all these tools are available in a specialized text editor, rather than tuning Godot itself into implementing all of these shortcuts.\n\nHowever, I think Godot itself integrating the \"big 3\" (B/I/U) would be an upgrade, specially given that there's no Godot generic hotkeys occupying these keys, and almost any software where you can write RichText accommodates them.",
+    "format": "form",
+    "workaround": "It can be bypassed easily by manually writing the BBCode snippets, the problem is the time it takes to do so when it is done very frequently."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-10-04T11:56:20Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10897,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add BBCode Hotkeys for common typographic emphasis in RichText",
+  "up": 2,
+  "updatedAt": "2024-10-04T15:04:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10897"
+}

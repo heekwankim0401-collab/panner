@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Many developers use Socket.IO, and I have seen some inquiries in the Discord Community, so I believe it would be interesting for Godot to implement this enhancement and promote it, as surely many have encountered this limitation.",
+    "format": "form",
+    "workaround": "Without this enhancement, those who use Socket.IO in their servers are limited in their usage of Godot, as it is not possible to use GDScript directly to get around this."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-08T02:41:11Z",
+  "comments": 11,
+  "createdAt": "2023-07-07T00:41:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 7224,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a socket.io client",
+  "up": 2,
+  "updatedAt": "2023-07-09T13:22:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7224"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "yes, it's related to the compilation stage\n\n___\nI find the naming convention to be extremelly confusing. I've seen a ton of cases, of other users who have also been confused because of this - we can assume that this happens all the time, most people just don't report this problem, as they don't even realize, that it's a problem\n\nthis is a very subtle issue, and it should be fixed\n\n**Rename \"Release_Debug\" to \"Release\"**\n- these are builds of godot, which are shared around\n- official godot builds use this\n- the _debug is really confusing, usually it's standard to use \"debug\" or \"release\", not both\n- seriously you have no idea how much that extra \"_debug\" throws you off, just call it debug\n\n**Rename \"Release\" to \"ExportTemplate\"**\n- has nothing to do with the editor itself\n- actually removes the tools\n- is only used to export games, that's it\n- has an immediate clarity now\n- confuses new users, who have no idea what this is actually supposed to do\n- users assume that release_debug is heavier, so they do a release, which is plain wrong\n- users are confused, when godot throws up some random message\n- users get confused, they assume this is inconsistent behaviour\n- users assume that there's something wrong with godot\n\ni think that this is a very obvious change and it woud improve the overall clarity and the usability as a whole\n\nhttps://github.com/godotengine/godot/issues/28849\n___\n**edit 2:** after some more thought\nRename **Debug** to **DevelopmentBuild**\nRename **Release_Debug** to **OptimizedBuild**\nRename **Release** to **ExportTemplate**\n\n___\n**edit 3:** after some more thought\nRename **Debug** to **DevelopmentBuild**\nRename **Release_Debug** to **OptimizedBuild**\n\nseparate ExportTemplate into two\n**ExportTemplate_Release\nExportTemplate_Debug**",
+    "format": "legacy",
+    "workaround": "no, or at least, i don't know, it's just some text change"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-11T22:38:02Z",
+  "comments": 10,
+  "createdAt": "2019-12-07T16:26:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 288,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Compilation - Separate the Editor and the Export Templates, Into Their Own Rules",
+  "up": 1,
+  "updatedAt": "2021-08-11T22:38:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/288"
+}

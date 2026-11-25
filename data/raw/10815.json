@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This function would allow for easier and better interactions with the physics engine, since there are quite a few cases where the information before and after physics interactions is needed on the same frame.",
+    "format": "form",
+    "workaround": "From my research, there isn't a work around or at least a very known one which can be passed around easily."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-23T14:48:13Z",
+  "comments": 1,
+  "createdAt": "2024-09-23T12:19:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10815,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a _late_physics_process function.",
+  "up": 1,
+  "updatedAt": "2024-09-23T14:48:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10815"
+}

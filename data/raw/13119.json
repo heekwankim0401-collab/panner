@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "> Currently, the only way to create a folder ignored by the editor is to manually create a file named `.gdignore` and place it inside the folder."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-09-03T08:13:05Z",
+  "down": 2,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13119,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to create an ignored folder from `File System`",
+  "up": 1,
+  "updatedAt": "2026-09-11T11:40:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13119"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This project requires renderer changes that happens within Vulkan driver.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-29T19:34:41Z",
+  "comments": 7,
+  "createdAt": "2021-02-25T19:35:51Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 2351,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Integrating Frame Pacing Library to Vulkan Renderer for Android",
+  "up": 6,
+  "updatedAt": "2024-10-29T21:30:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2351"
+}

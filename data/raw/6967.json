@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See the title",
+    "format": "form",
+    "workaround": "See the title"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-28T17:10:41Z",
+  "comments": 0,
+  "createdAt": "2023-05-28T17:06:33Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6967,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use InputEventKey instead of InputEvent in _unhandled_key_input function",
+  "up": 0,
+  "updatedAt": "2023-05-28T21:13:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6967"
+}

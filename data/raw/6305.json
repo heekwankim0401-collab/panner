@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would be as usual as breathing when user is using C# to build the game. It's such a convinent function that few C# users can reject, especially those who has been working on Unity, which has already implenmented this function.",
+    "format": "form",
+    "workaround": "No idea about that as i'm not familiar with the engine code. Sorry! : |"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-17T17:59:29Z",
+  "comments": 1,
+  "createdAt": "2023-02-17T15:46:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6305,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Automaticly build solution when C# script is changed, instead of notifying the change",
+  "up": 0,
+  "updatedAt": "2023-02-17T18:00:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6305"
+}

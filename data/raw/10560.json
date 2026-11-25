@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "IDK",
+    "format": "form",
+    "workaround": "IDK"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-26T10:02:24Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10560,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `_resource_path_changed` to GDExtension",
+  "up": 2,
+  "updatedAt": "2025-06-06T21:14:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10560"
+}

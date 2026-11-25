@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "The information about the snapping state is simply not reasonably available to custom plugins."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-19T18:09:44Z",
+  "comments": 3,
+  "createdAt": "2024-09-09T16:55:02Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.6",
+  "number": 10704,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose 3D editor snapping state to custom gizmos",
+  "up": 4,
+  "updatedAt": "2025-09-19T18:10:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10704"
+}

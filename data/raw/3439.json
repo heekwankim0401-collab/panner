@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "**Workaround**\nTo easily navigate a big script, immediately before any class just do:\n```\nstatic func TClassName():pass\nclass TClassName:\n\tvar etc.\n```\nso you can navigate to the given class by the window on the bottom left of the script editor.\nThere will be no name conflicts for some reason."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-10-16T18:14:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3439,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Script editor's scripts panel should list classes with no methods too",
+  "up": 1,
+  "updatedAt": "2021-10-16T18:45:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3439"
+}

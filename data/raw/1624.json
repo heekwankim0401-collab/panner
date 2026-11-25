@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Alerts like this are in the interest of users. They improve the UI, and this one is an extremely lightweight addition.",
+    "format": "legacy",
+    "workaround": "This is a minor fix to increase godot's intuitiveness by giving the user accurate feedback. Users won't know it's a problem until after they've wasted time on it, and there's very little that can be done afterwards."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-31T12:23:28Z",
+  "comments": 3,
+  "createdAt": "2020-10-08T00:15:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1624,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Alerts when In-AnimationTree loads fail",
+  "up": 2,
+  "updatedAt": "2022-10-31T12:23:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1624"
+}

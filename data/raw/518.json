@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It touches core functionality.",
+    "format": "legacy",
+    "workaround": "This problem can be worked around, if one is aware of it, by carefully renaming node paths in base .tscn files and inheriting .tscn files using a global find and replace in a text editor, instead in the Godot's scene tree."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-03T15:22:51Z",
+  "comments": 8,
+  "createdAt": "2020-02-24T13:25:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 518,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ghost Nodes - Fallback nodes added in modified inherited scenes",
+  "up": 18,
+  "updatedAt": "2022-09-03T17:09:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/518"
+}

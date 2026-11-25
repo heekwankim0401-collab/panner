@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because the reverse is already implemented there already is an clip_polyline_with_polygon_2d function so just for the symetry",
+    "format": "markdown",
+    "workaround": "you can offset_polyline2d to make a polygon from the polyline and then clip both polygons but it isnt as elegant and has its limitations if you have a polyline that is shaped like the outline of a closed circle and its being offset instead of making the polygon the outline it will fill the outline and create a big shape and will just cut a hole into the other"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-04-07T19:30:09Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2567,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `clip_polygon_2d_with_polyline()` method",
+  "up": 1,
+  "updatedAt": "2026-05-22T06:59:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2567"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "By definition, this would be a core change.",
+    "format": "form",
+    "workaround": "It can be worked around with the \"child_entered_tree\" signal, but as mentioned above, that has a few shortcomings. For my particular case, I could add specific methods to save transforms of the children until they enter the scene tree, but that's inconvenient and confusing if anyone else wants to use my plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-10T22:18:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12766,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose Node's add_child() and remove_child() as virtual methods",
+  "up": 0,
+  "updatedAt": "2025-07-11T07:59:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12766"
+}

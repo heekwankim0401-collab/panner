@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Camera3D is core.",
+    "format": "form",
+    "workaround": "I don't know of any way to work around this as it seems to be hard-coded into the core implementation of Camera3D."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-25T08:53:53Z",
+  "comments": 2,
+  "createdAt": "2022-11-07T02:06:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 5736,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove hardcoded Camera3D size limitations",
+  "up": 2,
+  "updatedAt": "2023-01-25T08:53:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5736"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it's something many games use, not all, but quite a few, and a good implementation could make the feature more accessible . . I don't know if other people have asked for it before, but it's so universal to games, that it needs to be a feature, of engine :) <3",
+    "format": "legacy",
+    "workaround": "Not really, making a big braching dialogue tree in code, is sort of hard to overview, and make changes to, as game grows . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-06T11:58:44Z",
+  "comments": 5,
+  "createdAt": "2020-03-04T04:11:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 551,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Making an in-engine system for making complex dialogue trees . .",
+  "up": 1,
+  "updatedAt": "2020-07-06T11:59:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/551"
+}

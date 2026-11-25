@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a slight tweak to the core of the Visual Shader editor that will make Visual Shaders more in parity with text based shaders.",
+    "format": "form",
+    "workaround": "As mentioned earlier, the only current workaround has some glaring problems with clipping issues."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-10-01T02:20:52Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10868,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Vertex Position as an output option in the Visual Shader Editor for Spatial shaders",
+  "up": 6,
+  "updatedAt": "2024-10-04T22:23:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10868"
+}

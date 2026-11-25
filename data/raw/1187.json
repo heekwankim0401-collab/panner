@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's a modification of the core animation system",
+    "format": "legacy",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-06T21:32:33Z",
+  "comments": 1,
+  "createdAt": "2020-07-12T18:33:40Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 1187,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a track filtering node to AnimationTree",
+  "up": 2,
+  "updatedAt": "2023-05-06T21:32:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1187"
+}

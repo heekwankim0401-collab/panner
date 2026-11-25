@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would help make seamless transitions between different auto-tiles and for me it could help make slope tiles.",
+    "format": "legacy",
+    "workaround": "I'm not sure if it's possible to adjust auto-tiles through GDscript."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-28T20:09:55Z",
+  "comments": 4,
+  "createdAt": "2019-09-20T09:49:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 88,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow auto-tiles to connect with each other if specified",
+  "up": 3,
+  "updatedAt": "2022-05-28T20:10:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/88"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be possible to achieve this with module or GDScript project, but probably better to have testing related stuff in the core for cleaner CI configs and to avoid duplicate code in multiple test projects.",
+    "format": "legacy",
+    "workaround": "It can be used as part CI to detect rendering, physics and GUI regressions, and can be used to quickly test specific hardware or driver versions for rendering issues (the same context should be usable with normal `DisplayServer`s as well)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-11-02T10:08:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 1760,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unit/integration testing: Testing graphical and UI code.",
+  "up": 22,
+  "updatedAt": "2025-09-19T15:09:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1760"
+}

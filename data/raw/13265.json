@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's our own CI.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-09-25T13:32:12Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem",
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 13265,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add regular CI to test compileability with different combinations of disabled features",
+  "up": 13,
+  "updatedAt": "2025-10-12T15:07:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13265"
+}

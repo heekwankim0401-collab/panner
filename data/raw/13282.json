@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Lightmaps seem to be a core system feature.",
+    "format": "form",
+    "workaround": "A custom shader maybe that is derived from a standard material."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-26T21:00:36Z",
+  "comments": 1,
+  "createdAt": "2025-09-26T18:36:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13282,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add externally baked lightmap input for MeshInstance or StandardMaterial.",
+  "up": 0,
+  "updatedAt": "2025-09-26T21:00:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13282"
+}

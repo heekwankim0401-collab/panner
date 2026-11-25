@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this should be added because who would want to assign a script to something it doesn't derive from?.",
+    "format": "legacy",
+    "workaround": "this would be used whenever assigning scripts to nodes so very often and I don't know if this can be worked around using a script"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-03-21T20:59:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 615,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Disallow script that inherit from a type be assigned to something else",
+  "up": 0,
+  "updatedAt": "2025-09-12T23:25:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/615"
+}

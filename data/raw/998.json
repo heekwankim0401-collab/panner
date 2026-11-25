@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "legacy",
+    "workaround": "I think it would be hard to implemment a `GridMap` from scratch just to add collisions for its cells."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-06-02T19:51:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 998,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow getting the KinematicCollision `collider` when colliding with GridMap cells",
+  "up": 0,
+  "updatedAt": "2020-11-22T15:25:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/998"
+}

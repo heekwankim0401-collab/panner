@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Editor UX.",
+    "format": "form",
+    "workaround": "No such API."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-12-01T12:25:40Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13764,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Audio Bus editor:  Use an alternative volume control instead of scrolling vertically",
+  "up": 7,
+  "updatedAt": "2025-12-01T23:50:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13764"
+}

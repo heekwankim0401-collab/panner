@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-07T23:10:55Z",
+  "comments": 3,
+  "createdAt": "2023-05-07T21:02:46Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6827,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Window not to grab all input",
+  "up": 1,
+  "updatedAt": "2023-05-07T23:22:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6827"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "HTTPRequest is already a core Node so adding a functionality like this to it should also be in the core.",
+    "format": "form",
+    "workaround": "The main problem can be worked around like explained [here](https://github.com/godotengine/godot/issues/17711#issuecomment-420872549) for all other things I suggested more code is required but everything should be achievable, tho having these things automatically handled by the HTTPRequest node with a few attributes that you could set in the inspector and some additional dedicated methods and signals would be much easier and efficient to use especially for new users that might not be too familiar with HTTP APIs."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-03-22T14:06:19Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 6556,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Cookie Handling Functionality to HTTPRequest",
+  "up": 11,
+  "updatedAt": "2026-01-16T11:13:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6556"
+}

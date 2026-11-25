@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While trying to solve a seemingly simple problem<details><summary>(again)</summary>the character needs to approach the building no matter from which side, but at the same time everyone else should avoid it if they do not need it</details>I felt like I was thinking about how I could write my own navigation, but I didn't want to spend time on it and didn't want anyone to have to.",
+    "format": "form",
+    "workaround": "I tried - I didn't succeed. Probably a few lines are not enough."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-20T12:54:35Z",
+  "comments": 1,
+  "createdAt": "2022-01-17T01:56:41Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.0",
+  "number": 3813,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability for the navigation agent to set the desired distance to the target (not to the next waypoint)",
+  "up": 3,
+  "updatedAt": "2022-06-20T12:54:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3813"
+}

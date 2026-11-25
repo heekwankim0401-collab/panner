@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "must be core",
+    "format": "form",
+    "workaround": "Not that I know of. The file path must be exposed somehow to GDScript"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-30T12:26:42Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10861,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `get_source_file()` to `EditorScenePostImportPlugin`",
+  "up": 3,
+  "updatedAt": "2026-03-04T17:03:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10861"
+}

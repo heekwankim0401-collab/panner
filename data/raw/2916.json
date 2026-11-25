@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As it changes the behavior of a(some) core GUI control(s) this should be core. It could be useful in various parts of the editor as well as in projects (would help to improve UX) and provides functionality already present in most UI frameworks.",
+    "format": "form",
+    "workaround": "No, it needs to be quite fast and calculating at which position the text should be clipped (word/character) needs probably some additions to TextServer in order to do it properly (non-hacky)."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-13T11:25:41Z",
+  "comments": 11,
+  "createdAt": "2021-06-24T13:32:04Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2916,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add text trimming for overrunning text in Label (with ellipsis, different modes)",
+  "up": 6,
+  "updatedAt": "2021-11-28T01:40:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2916"
+}

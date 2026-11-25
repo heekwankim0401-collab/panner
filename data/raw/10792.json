@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is standard procedure for reliable software. I'm not sure _why_ there even is a difference between the two (only use-case I can think of is to soft-crash on errors in the release version, but hard-crash on errors in the debug version? But I'm not sure if that's behavior i would want as a game author).",
+    "format": "form",
+    "workaround": "I do this myself: I link both the debug, as well as the release link of my `.gdextension` to the same binary."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-29T22:51:50Z",
+  "comments": 5,
+  "createdAt": "2024-09-20T21:00:33Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10792,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Un-separate .gdextension debug and release binaries",
+  "up": 0,
+  "updatedAt": "2025-03-31T15:22:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10792"
+}

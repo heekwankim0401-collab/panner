@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-14T12:16:35Z",
+  "comments": 0,
+  "createdAt": "2026-04-04T16:54:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.7",
+  "number": 14609,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Increase shader subgroup nesting depth",
+  "up": 0,
+  "updatedAt": "2026-04-14T12:17:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14609"
+}

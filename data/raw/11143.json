@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Add-ons can't access the remote debug button as far as I can tell",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-16T18:17:04Z",
+  "comments": 2,
+  "createdAt": "2024-11-12T20:38:40Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 11143,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow adding a shortcut for remote debug (one-click deploy)",
+  "up": 2,
+  "updatedAt": "2024-12-16T22:31:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11143"
+}

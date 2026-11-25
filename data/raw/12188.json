@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "SQLite is lightweight, portable, and widely used in embedded applications and game engines.\n\nMakes Godot more appealing for data-heavy genres and tool developers.\n\nCurrently, there is no official or maintained SQLite integration provided by the Godot engine itself, and having native support would go a long way toward streamlining data persistence and management.",
+    "format": "form",
+    "workaround": "If this enhancement will not be used often, can it be worked around with a few lines of script?\nFor small or simple data, yes — developers can use JSON files or the ConfigFile class. However, when managing large, complex, and interconnected data structures, these workarounds become unreliable and hard to maintain. SQLite would offer a robust and battle-tested solution that doesn’t require the user to reinvent storage logic."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-08T13:26:28Z",
+  "comments": 1,
+  "createdAt": "2025-04-08T03:09:22Z",
+  "down": 3,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12188,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Adding embedded sqlite datastore",
+  "up": 0,
+  "updatedAt": "2025-04-08T15:40:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12188"
+}

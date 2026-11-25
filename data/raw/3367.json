@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature allows the creation of add-ons.",
+    "format": "form",
+    "workaround": "This is core functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 23,
+  "createdAt": "2021-09-29T14:00:47Z",
+  "down": 1,
+  "labels": [
+    "topic:editor",
+    "topic:gdextension",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3367,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ExtensionDevelopmentPlugin for in-editor native extension development",
+  "up": 77,
+  "updatedAt": "2026-11-23T11:59:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3367"
+}

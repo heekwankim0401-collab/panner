@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Helps performance.",
+    "format": "form",
+    "workaround": "This can be worked around with multiple calls to `documentText/hover`, but this may impact performance in large `GDScript` files."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T12:42:46Z",
+  "comments": 1,
+  "createdAt": "2024-02-11T19:38:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9075,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "LSP - Hierarchical Document Symbols",
+  "up": 0,
+  "updatedAt": "2026-07-28T12:42:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9075"
+}

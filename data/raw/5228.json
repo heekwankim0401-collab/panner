@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about [restoring 3D import workflow usability to the level of Godot 3.x](https://github.com/godotengine/godot/issues/63513).",
+    "format": "form",
+    "workaround": "In some cases, yes, by assigning this script to a MeshInstance3D node. Example for forcing nearest-neighbor filtering with anisotropic filtering enabled on all materials:\n\n```gdscript\n@tool\nextends MeshInstance3D\n\n\nfunc _ready() -> void:\n\tfor index in mesh.get_surface_count():\n\t\tvar material := mesh.surface_get_material(index)\n\t\tmaterial.texture_filter = BaseMaterial3D.TEXTURE_FILTER_NEAREST_WITH_MIPMAPS_ANISOTROPIC\n```\n\nHowever, considering how often this will be used, a script shouldn't be required for this. Also, a different workaround is needed for 3D *scenes* (such as glTF files), as it should work recursively on all MeshInstance3D nodes within the scene."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 26,
+  "createdAt": "2022-08-22T20:19:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5228,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Default Texture Filter project setting for BaseMaterial3D, SpriteBase3D and Label3D",
+  "up": 44,
+  "updatedAt": "2026-01-22T21:44:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5228"
+}

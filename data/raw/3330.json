@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its better on the eyes.",
+    "format": "form",
+    "workaround": "Idk its just nice to not have to export enums with..\n```\nexport(MyEnum) var enum\n```\nor for 4.0\n```\n@export_enum var enum\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-22T11:47:40Z",
+  "comments": 1,
+  "createdAt": "2021-09-22T01:57:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3330,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow exporting typed enums",
+  "up": 0,
+  "updatedAt": "2021-09-22T13:26:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3330"
+}

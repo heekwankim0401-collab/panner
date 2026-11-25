@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Blank space after the end I think is pretty common in modern text editors and seems pretty easy to add. Seems like a very small but nice upgrade is all. A very low hanging fruit, if you will.",
+    "format": "form",
+    "workaround": "This can be worked around by adding a bunch of new lines to the end of the file. However, this bloats the file line count and is a bit messy. Almost all my GDScript code on github has a bunch of extra new lines a the end if I forget to delete it after."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-29T23:30:48Z",
+  "comments": 1,
+  "createdAt": "2021-10-29T23:05:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3482,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Blank space after end of code in text editor",
+  "up": 1,
+  "updatedAt": "2021-10-29T23:38:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3482"
+}

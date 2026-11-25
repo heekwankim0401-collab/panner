@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this will improve the usability of the editor and temporarily solve the problem I mentioned earlier. So, this should be available to all users, even when they don't have any plugins installed.",
+    "format": "form",
+    "workaround": "I guess users can't solve it using script but it can be solved as I mentioned before, it's not user friendly though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-12-04T08:54:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3633,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show generated code snippet after the signal connection dialog",
+  "up": 6,
+  "updatedAt": "2024-03-04T16:20:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3633"
+}

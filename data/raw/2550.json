@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "markdown",
+    "workaround": "If this is not part of the official GDNative API, bindings would need to manually annotate all methods, and it would be hard to find a solution that benefits different bindings (C++, Rust, C#, ...) at the same time.\n\nMaintaining annotations externally to Godot comes with the additional problem of bit rot -- changes in the API will likely not be reflected in the annotations, and it's difficult to keep versions synchronized."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-04-05T10:28:06Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 2550,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDNative annotation metadata for extra type information in bindings",
+  "up": 11,
+  "updatedAt": "2023-12-12T11:55:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2550"
+}

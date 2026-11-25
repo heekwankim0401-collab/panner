@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature is directly tied to the core usability of the Godot editor, so it makes sense for it to be included in the core rather than as an add-on in the asset library. The integrated search functionality can significantly improve the development workflow and should be available to all users by default. Additionally, this will help maintain consistency with other popular softwares.\n\nFurthermore, if the search functionality allows for the addition of custom search prefixes, it would greatly enhance the extensibility and adaptability of the feature. This would enable users and developers to tailor the search capabilities to their specific needs and workflows, making it an even more powerful tool within the Godot editor.\n\nBy including this feature in the core, Godot can ensure that all users have access to this essential functionality and can benefit from its improved efficiency and usability. It also allows for better integration and compatibility with future updates and enhancements to the editor.\n\n---\n\n> - *This is my first posting proposal, may have mistakes some requirements.*\n> - *This proposal contains machine-translation.*\n> - *May related to #5586*",
+    "format": "form",
+    "workaround": "This feature is expected to be frequently used. Quickly searching for and executing commands, scenes, scripts, assets, etc., is a very common task during the development process. Therefore, it is not something that can be easily solved with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-03-30T05:31:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9414,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify Command Palette, Quick Open, and Quick Open Scene/Script with Prefixes",
+  "up": 9,
+  "updatedAt": "2024-03-30T06:20:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9414"
+}

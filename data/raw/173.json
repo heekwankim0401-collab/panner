@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should have access to Script Editor itself (or some kind of background checker/code linter) - and as long as script_text_editor is a plugin itself - it could be also considered as a addon.",
+    "format": "legacy",
+    "workaround": "Only, if team/developers agree to have one appointed way of writing scripts"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-12T06:56:22Z",
+  "comments": 34,
+  "createdAt": "2019-10-21T13:14:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 173,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow users to choose if scripts should be forced to be statically typed (or not)",
+  "up": 58,
+  "updatedAt": "2023-09-12T06:56:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/173"
+}

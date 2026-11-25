@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. There are several reasons why this functionality fits better in core rather than as an add-on.\n\n1) Tight engine integration\nThis feature needs reliable, low-level integration with Skeleton3D, animation evaluation order, and transform updates to guarantee continuity and avoid snapping. Add-ons cannot easily control the internal update pipeline or ensure correct timing relative to AnimationPlayer/AnimationTree and SkeletonModifier3D evaluation.\n\n2) Fundamental 3D animation workflow\nSmoothly attaching objects to bones (and blending between free transforms and bone-driven transforms) is a very common requirement in 3D games. It is not a niche feature, but a basic workflow similar to constraints/rigging tools in other engines.\n\n3) Editor usability and consistency\nA core implementation can be exposed cleanly in the editor (properties, animation tracks, inspector UI), and will behave consistently across projects and platforms. Add-ons often differ in quality, maintenance, and compatibility across Godot versions.\n\n4) Reliability and long-term maintenance\nHaving this in core ensures the feature is maintained, tested, and updated together with the animation and skeleton systems. A third-party add-on may break on engine updates and would require project-specific maintenance.\n\nWhile a scripting workaround is possible, a robust and editor-friendly solution requires engine-level support, which makes it more suitable for the core engine rather than an external add-on.",
+    "format": "form",
+    "workaround": "Yes, the problem can be partially worked around using a small amount of custom script.\n\nFor example, developers can manually interpolate the object transform toward the bone transform over time, or temporarily reparent the object to a proxy node that follows the bone. Another option is to write a custom SkeletonModifier3D to implement blending behavior.\n\nHowever, these approaches have significant drawbacks:\n- They require custom code for a very common animation workflow.\n- They duplicate logic that ideally should be handled by the engine.\n- They increase project complexity, especially for small teams or solo developers.\n- They are error-prone and need careful synchronization with animation playback.\n- They reduce editor usability, as the workflow can no longer be handled purely through AnimationPlayer or AnimationTree.\n\nWhile scripting can technically solve the issue, it turns a simple editor-level task (smoothly attaching an object to a bone) into a custom-engineering problem.\n\nA built-in, editor-supported solution would provide a more robust, reusable, and beginner-friendly workflow without requiring per-project custom code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-02-09T10:21:42Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 14184,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "ModifierBoneTarget3D: no smooth transition when enabled during animation",
+  "up": 0,
+  "updatedAt": "2026-02-12T11:09:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14184"
+}

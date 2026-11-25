@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No idea, I guess because everyone should have access to that easily, but maybe this isn't worth it to have in the core ? You should be the one to tell me that if that case I guess...",
+    "format": "form",
+    "workaround": "It probably can, but now with just a \"few\", more like a lot of code, just to detect if that overrun, and that still be trashy code cuz the only way to detect that for now is to compare how much characters the label contain, and compare with his size, while counting how much each char has which size.\nAnd it's should be available to everyone easily I think."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-09-30T19:02:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7937,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Text overrun, (for label and text based nodes others) signal and methods",
+  "up": 8,
+  "updatedAt": "2025-09-23T10:34:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7937"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it would improve core usability of themes. Maybe even help to prototype UI.",
+    "format": "markdown",
+    "workaround": "Yes, but I feel that when prototyping GUI I want to have easy access to how it will look like in editor itself. Without using script. Beside that control nodes are often used by non programmers and now it is kinda confusing to use in editor. You can add multiple styles, but you can't use them."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-06T04:43:23Z",
+  "comments": 5,
+  "createdAt": "2021-04-30T13:23:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2677,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Multiple styles for the same Control type in a single theme from GUI",
+  "up": 0,
+  "updatedAt": "2026-09-07T15:42:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2677"
+}

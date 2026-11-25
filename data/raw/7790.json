@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This speeds up the workflow while making VFX and triggering them in-game. Less clutter in animation player also makes it easier to combine with other elements if necessary.",
+    "format": "form",
+    "workaround": "This can be solved with a script or a plugin, but it's often expected behaviour"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-21T17:48:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7790,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to play child particles from parent particle system",
+  "up": 17,
+  "updatedAt": "2026-07-03T19:00:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7790"
+}

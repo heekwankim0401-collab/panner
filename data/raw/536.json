@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It needs to be core because the only way you could solve it is with an engine module, and I am not entirely sure if it could even  be done without changing the engine's code.",
+    "format": "legacy",
+    "workaround": "You could continuously read the log files, but I am not sure how well that would work."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-23T14:46:42Z",
+  "comments": 14,
+  "createdAt": "2020-02-29T08:15:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 536,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to access stdout and stderr's contents from the engine",
+  "up": 10,
+  "updatedAt": "2025-07-11T00:59:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/536"
+}

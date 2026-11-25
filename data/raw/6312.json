@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think this can be implemented as an add-on.",
+    "format": "form",
+    "workaround": "No, this cannot be worked around with a script."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-24T15:30:14Z",
+  "comments": 18,
+  "createdAt": "2023-02-18T02:03:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6312,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "LSP - Customize parentheses and quotes completion behavior",
+  "up": 7,
+  "updatedAt": "2026-08-24T15:31:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6312"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I suppose this should be core",
+    "format": "form",
+    "workaround": "Perhaps you could access the debug panel by iterating through `EditorInterface.get_base_control().get_children()` and modifying it, but I'm not sure"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-04-18T06:10:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12268,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow editing expressions in the debugger's Evaluator panel",
+  "up": 11,
+  "updatedAt": "2025-07-30T23:24:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12268"
+}

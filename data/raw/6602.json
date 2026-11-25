@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because it's reimplementing previously working features.",
+    "format": "form",
+    "workaround": "nope, or please tell me!"
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-31T14:56:29Z",
+  "comments": 3,
+  "createdAt": "2023-03-31T14:37:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6602,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "[Font] Implement font_get_glyph_index_from_char function",
+  "up": 1,
+  "updatedAt": "2023-03-31T15:43:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6602"
+}

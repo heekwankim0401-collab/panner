@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Exposing the `CanvasItem::_edit_xxx()` methods to GDExtension requires to change them to use `GDVIRTUAL` in order for them to be overrideable by a GDExtension.\n\nMany \"base types\" in Godot, like `Sprite2D` implement the `CanvasItem::_edit_xxx()` methods. When using `GDVIRTUAL` in `CanvasItem`, these classes also need to be adjusted accordingly.",
+    "format": "form",
+    "workaround": "There is no work around, as `CanvasItemEditor` relies on the `CanvasItem::_edit_xxx()` methods to perform its task. The only alternative would be for every GDExtension to basically duplicate what `CanvasItemEditor` does with its own editor plugin. It's unclear how that would work in combination with an active `CanvasItemEditor`. Ideally, there shouldn't be a need to re-implement `CanvasItemEditor` in every GDExtension that wants 2D gizmos for its own `CanvasItem` subclasses."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-10-17T09:00:51Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10985,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `CanvasItem::_edit_xxx()` methods to GDExtensions",
+  "up": 34,
+  "updatedAt": "2025-11-20T17:50:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10985"
+}

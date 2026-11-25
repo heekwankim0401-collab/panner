@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "legacy",
+    "workaround": "I don't think a script can hook into the TranslationServer this way. Ideally, it should work with all `tr()` calls in addition to the automatic localization performed in Control nodes."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-12T21:53:36Z",
+  "comments": 8,
+  "createdAt": "2020-11-15T21:08:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1844,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add pseudo-localization to better spot untranslated strings and unexpected layout changes caused by long strings",
+  "up": 6,
+  "updatedAt": "2022-03-04T23:45:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1844"
+}

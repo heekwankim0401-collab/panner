@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript API",
+    "format": "form",
+    "workaround": "Y"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-28T08:00:08Z",
+  "comments": 2,
+  "createdAt": "2023-08-13T16:49:04Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 7491,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `horizontal_alignment` property for RichTextLabel",
+  "up": 5,
+  "updatedAt": "2025-01-01T20:31:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7491"
+}

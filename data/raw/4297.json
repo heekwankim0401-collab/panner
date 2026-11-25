@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think it can be an add-on. \n\nP.S. I have a background in pro game dev and can create a PR if this feature is accepted.",
+    "format": "form",
+    "workaround": "I don't know any workarounds that don't change one side or the other's expectations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-03-27T18:40:51Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 4297,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow C# SignalAttribute to take a name argument",
+  "up": 6,
+  "updatedAt": "2022-04-03T21:19:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4297"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T13:46:08Z",
+  "comments": 6,
+  "createdAt": "2026-02-17T22:30:14Z",
+  "down": 7,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 14268,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use single quotes for StringName",
+  "up": 0,
+  "updatedAt": "2026-07-28T13:46:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14268"
+}

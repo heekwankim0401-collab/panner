@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The tooling for creating the settings window already exists in the editor, but it simply cannot be exposed in game yet. Of course it is possible to create a parody of the settings panel trough an AddOn, but I feel like this would overall be wasting time.",
+    "format": "form",
+    "workaround": "As described, this is highly complex to code around."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-23T19:05:12Z",
+  "comments": 6,
+  "createdAt": "2024-09-23T12:42:55Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10816,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enhanced Utilities for in-game settings / Expose Project Settings Component as Control Node",
+  "up": 0,
+  "updatedAt": "2024-09-24T14:44:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10816"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Would be easier for everyone and it might not be doable in the assets library, also it seems like something anyone should have imediately.",
+    "format": "form",
+    "workaround": "It could be worked around by making a Data.json.trs and putting the JSON data in there, as well as using this code to interpret it:\n\nfunc load_json_file(path):\n\tvar file = File.new()\n\tfile.open(path, file.READ)\n\tvar text = file.get_as_text()\n\tvar result_json = JSON.parse(text)\n\tif result_json.error != OK:\n\t\tprint(\"[load_json_file] Error loading JSON file '\" + str(path) + \"'.\")\n\t\tprint(\"\\tError: \", result_json.error)\n\t\tprint(\"\\tError Line: \", result_json.error_line)\n\t\tprint(\"\\tError String: \", result_json.error_string)\n\t\treturn null\n\tvar obj = result_json.result\n\treturn obj\n(code by DriNeo)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-16T08:58:20Z",
+  "comments": 5,
+  "createdAt": "2021-11-28T17:06:02Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 3608,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Import JSON files as resources",
+  "up": 0,
+  "updatedAt": "2022-09-16T08:58:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3608"
+}

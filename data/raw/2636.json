@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think the code in question is in core.",
+    "format": "markdown",
+    "workaround": "An error can be returned and the console will just be spammed each time out leave and re-focus the editor. Not ideal, but things do keep working."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-04-23T00:21:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2636,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `EditorImportPlugin` to skip files in `import()`",
+  "up": 5,
+  "updatedAt": "2021-04-23T01:23:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2636"
+}

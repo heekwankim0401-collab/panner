@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This addresses limitations with the current setup- there's no reason why it shouldn't be more robust",
+    "format": "form",
+    "workaround": "It would be used often enough"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-12-10T19:41:37Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 11329,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "3D Particles, Animated Directional Velocity: Min<>Max Per Axis",
+  "up": 0,
+  "updatedAt": "2025-01-14T10:14:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11329"
+}

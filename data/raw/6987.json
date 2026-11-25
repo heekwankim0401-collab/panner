@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No it would need a plugin rebuilding the full editor which would be a huge work and with poorer performance",
+    "format": "form",
+    "workaround": "it will be used often and can't be worked around ith a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-03T10:26:04Z",
+  "comments": 3,
+  "createdAt": "2023-05-31T01:57:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 6987,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add colored margin in Inspector for arrays and dictionaries",
+  "up": 7,
+  "updatedAt": "2024-05-03T10:26:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6987"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can't be done in any other way.",
+    "format": "form",
+    "workaround": "Yes it can be worked around, it just impacts usability, especially for new users."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-04T12:45:48Z",
+  "comments": 2,
+  "createdAt": "2022-11-02T20:27:56Z",
+  "down": 0,
+  "labels": [
+    "topic:input",
+    "topic:physics"
+  ],
+  "milestone": "4.3",
+  "number": 5715,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the \"position\" parameter in CollisionObject3D::input_event signal to avoid shadowing Node3D::position",
+  "up": 5,
+  "updatedAt": "2024-04-04T12:45:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5715"
+}

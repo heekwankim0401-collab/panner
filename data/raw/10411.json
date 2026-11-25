@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would likely be used by literally everyone making a 3D mobile game, and potentially desktop too depeneding on performance benchmarks once deployed, and MIT licensing removes any licensing issues.",
+    "format": "form",
+    "workaround": "No, not that I know of."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-10T00:10:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10411,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement Arm Accuracy Super Resolution (Mobile Friendly FSR)",
+  "up": 3,
+  "updatedAt": "2026-05-30T09:45:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10411"
+}

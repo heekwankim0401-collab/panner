@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It relates to the core editor functionality.",
+    "format": "markdown",
+    "workaround": "No, external tools could possibly be used (I'm not aware of any at the moment), but this feature would be a huge gain in convenience compared to using external tools."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-01-09T22:50:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 2096,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a debugging button for toggling network connection in the Editor",
+  "up": 8,
+  "updatedAt": "2022-01-31T07:46:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2096"
+}

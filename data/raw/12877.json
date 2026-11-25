@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-16T16:24:32Z",
+  "comments": 1,
+  "createdAt": "2025-07-27T08:09:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12877,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `is_on_*` virtual method to `CharacterBody2D/3D`",
+  "up": 0,
+  "updatedAt": "2026-02-16T16:24:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12877"
+}

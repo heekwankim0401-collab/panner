@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe most of the developers want to use native godot classes when they need maximum control in the game..",
+    "format": "legacy",
+    "workaround": "As far as i know no.. You can not draw these elements natively with some rounded corners"
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-22T22:48:50Z",
+  "comments": 2,
+  "createdAt": "2020-07-18T15:10:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1214,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Adding Corner Radius on StyleBoxTexture and StyleBoxFlat",
+  "up": 2,
+  "updatedAt": "2020-07-23T07:23:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1214"
+}

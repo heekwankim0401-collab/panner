@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There is no API that would make it possible to implement this via an add-on. The workaround is not good enough to be relied upon.",
+    "format": "form",
+    "workaround": "It theoretically is possible to create a custom Import Script, which...\n\n- In case of non-.glTF files: finds the corresponding generated .gltf file in `.godot/imported`\n- Parses the GLTFDocument and redundantly generates a scene from it (otherwise the `_import_node` method is not called)\n- Discards the scene (as it does not have the correct import settings) and copies the relevant information from the extension to the scene that was passed into the import script\n\nBut this affects import performance negatively (due to parsing the file twice), depends on the structure of the .godot folder, and needs many lines of code which are not intuitive to come up with."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-22T20:12:22Z",
+  "comments": 2,
+  "createdAt": "2022-07-24T19:27:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4968,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow accessing glTF extras/extension data in asset import",
+  "up": 11,
+  "updatedAt": "2022-11-23T00:59:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4968"
+}

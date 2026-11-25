@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "can't",
+    "format": "form",
+    "workaround": "used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-07-21T13:54:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4940,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor warning when the variable's value is not modified in a setter",
+  "up": 4,
+  "updatedAt": "2022-07-24T20:18:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4940"
+}

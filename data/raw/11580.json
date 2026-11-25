@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This improves editor functionality for everyone using uids.\n\n_Bugsquad edit: Keywords for easier search: code folding, inline preview_",
+    "format": "form",
+    "workaround": "I don't know if it is possible with an editor plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-01-16T08:41:53Z",
+  "down": 2,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11580,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show res:// path instead of uid:// in ScriptEditor",
+  "up": 4,
+  "updatedAt": "2025-01-17T11:19:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11580"
+}

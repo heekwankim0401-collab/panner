@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This improves base usability and is expected behaviour.",
+    "format": "form",
+    "workaround": "I can type the group name out manually, but it's kind of annoying when it's right there already written out."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-21T09:22:12Z",
+  "comments": 1,
+  "createdAt": "2021-09-28T00:28:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3360,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to copy group names in the editor",
+  "up": 3,
+  "updatedAt": "2021-10-21T09:22:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3360"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is an improvement on an already core part of the system.",
+    "format": "markdown",
+    "workaround": "One can get the same behavior by ignoring events or more carefully naming events so game code only reacts to the events intended for them. But as a game grows this can get messier. Solving it at the source prevents issues around this."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-25T01:16:10Z",
+  "comments": 7,
+  "createdAt": "2021-02-11T10:25:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 2273,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Action Sets to the Input Map",
+  "up": 10,
+  "updatedAt": "2022-07-25T12:40:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2273"
+}

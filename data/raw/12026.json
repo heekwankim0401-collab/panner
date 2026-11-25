@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think these options should be universal for all plugins.",
+    "format": "form",
+    "workaround": "Only by editing the version control plugin"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-19T22:09:47Z",
+  "comments": 1,
+  "createdAt": "2025-03-19T20:41:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12026,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Version Control: Add option to set action when creating empty commits",
+  "up": 0,
+  "updatedAt": "2025-03-19T22:09:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12026"
+}

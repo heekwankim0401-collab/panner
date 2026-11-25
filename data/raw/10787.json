@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "n/a, editor improvement for issue triage purposes",
+    "format": "form",
+    "workaround": "Could be, but it would defeat the purpose of having better bug reports from the get go, and I think the current \"Wayland\" / \"X11\" mention of the OS session type is misleading at best."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-21T09:55:19Z",
+  "comments": 1,
+  "createdAt": "2024-09-20T11:22:13Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 10787,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Clarify in \"Copy System Info\" whether the Godot client is running the X11 or Wayland DisplayServer",
+  "up": 4,
+  "updatedAt": "2024-09-21T09:55:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10787"
+}

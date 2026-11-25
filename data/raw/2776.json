@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Would probably save resources by not copying shaders.",
+    "format": "markdown",
+    "workaround": "I think it certainly will be used more often than whatever making shaders local to scene is doing right now. There is kind of one work around that I have been using. (which I have included in the example project) Where you use the mesh instance material override such that each instance has a copy of the shader and uses that copy to pass in parameters. This is a problem for a couple reasons. 1. I switched from mesh instance to multimesh instance where multimesh instance doesn't have a surface material override yet so it simply isnt available. 2. Making a copy of the whole shader seems a bit extra when all that has changed between instances are the parameters. There has got to be a more effecient solution. 3. If I am applying this material to every instance then it defeats the purpose of using the mesh instance over ride which should only be used if the material being used is the exception rather than the norm.\n[local_to_scene_bug.zip](https://github.com/godotengine/godot-proposals/files/6544191/local_to_scene_bug.zip)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-26T11:01:21Z",
+  "comments": 20,
+  "createdAt": "2021-05-26T06:13:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2776,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "making shader local to scene doesn't make it local to scene",
+  "up": 0,
+  "updatedAt": "2021-05-28T01:38:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2776"
+}

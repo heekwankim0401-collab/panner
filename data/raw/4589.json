@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This will make it easier for developers to upgrade and use Godot mono version.",
+    "format": "form",
+    "workaround": "Developers can choose to download the Godot mono version from the Godot website or Scoop, but it is very inconvenient to update Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-24T15:28:29Z",
+  "comments": 1,
+  "createdAt": "2022-05-25T12:03:50Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 4589,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Can add mono version branch to \"Properties→Betas\" for Godot on Steam?",
+  "up": 28,
+  "updatedAt": "2023-08-24T15:28:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4589"
+}

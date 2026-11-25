@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It feels like an oversight that this is not included in the list of the other available SystemDir directories like Document, Downloads etc.",
+    "format": "form",
+    "workaround": "No, basically you can guess at what the paths are usually for different platforms, like` /Applications/` for macOS, but this might vary based on locale (maybe?) or configurations, and it is likely something available via the native systems services to get correct."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-03-27T10:22:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12084,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add system Applications/Programs directory to OS.get_system_dir()",
+  "up": 0,
+  "updatedAt": "2025-03-27T15:46:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12084"
+}

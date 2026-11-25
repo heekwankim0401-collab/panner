@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it seems like a bug in the core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-24T12:47:04Z",
+  "comments": 3,
+  "createdAt": "2024-10-23T11:21:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 11015,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Button node registers press when disabled",
+  "up": 0,
+  "updatedAt": "2024-10-24T12:47:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11015"
+}

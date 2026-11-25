@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it presumably effects other people with the same problem\n\n\n[Gater.zip](https://github.com/godotengine/godot-proposals/files/4127968/Gater.zip)\n\nIf you click on any scene with assets in it, and view it in the 3d editor it will do the bug (or at least on my computer)",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-01-29T13:20:13Z",
+  "comments": 2,
+  "createdAt": "2020-01-29T12:35:18Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 415,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Glitchy visuals in 3d editing window",
+  "up": 0,
+  "updatedAt": "2020-01-29T16:05:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/415"
+}

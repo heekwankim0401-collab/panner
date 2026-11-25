@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Same reason the visibility toggle isn't. It's very convenient and probably won't bloat the engine, considering it's just a simple button that changes a value.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-12-28T07:39:21Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2037,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a 'mute' button beside audio nodes on the scene tree",
+  "up": 16,
+  "updatedAt": "2021-10-26T19:48:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2037"
+}

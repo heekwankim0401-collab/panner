@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "gdscript is central to the engine, and debugging is an essential part of development - \n\nits currently quite limiting.",
+    "format": "form",
+    "workaround": "no it can't."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-10T17:32:23Z",
+  "comments": 1,
+  "createdAt": "2021-10-10T17:20:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3410,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "gdscript debugging enhancements re: visibility of variable values (watch window and improved locals  view)",
+  "up": 0,
+  "updatedAt": "2021-10-10T17:32:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3410"
+}

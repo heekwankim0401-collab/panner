@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Blur is an extremely common, modern effect in apps and operating systems and the code to implement it would probably be very small while enabling users to create more modern UIs out-of-the-box in Godot. Making it a core part of StyleBoxFlat would also work well with the current theming system.",
+    "format": "form",
+    "workaround": "It can be worked around with a simple shader, such as this one:\n\n```\nshader_type canvas_item;\n\nuniform float blur_amount : hint_range(-2.0, 10.0);\nuniform float mix_amount : hint_range(0.0, 1.0);\nuniform vec4 color_over : hint_color;\n\nvoid fragment() {\n\tvec4 blurred = textureLod(SCREEN_TEXTURE, SCREEN_UV, blur_amount);\n\tvec4 fin = mix(blurred, color_over, mix_amount);\n\tCOLOR = fin;\n}\n```\n[Source](https://godotshaders.com/shader/simple-blur-mixed-with-a-color/)\n\nHowever, as common as blur is nowadays it would make sense to include it out-of-the-box in Godot. Using the above shader works fine but you lose the benefits of the theming system (all items with blur changing at the same time, by the same amounts, etc.) when using it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-10-30T18:28:48Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3485,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a background blur property to StyleBoxFlat",
+  "up": 2,
+  "updatedAt": "2023-03-11T15:54:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3485"
+}

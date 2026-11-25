@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's reordering the existing functionality to make it more usable.",
+    "format": "form",
+    "workaround": "This is about editor UI"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-09-07T08:29:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7616,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Separate TextEdit syntax highlighting settings from TextEdit theme settings",
+  "up": 1,
+  "updatedAt": "2023-09-09T14:15:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7616"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because of its simplicity, and since the problem it would solve is not uncommon in med/big projects it would be beneficial to a large number of users",
+    "format": "form",
+    "workaround": "Yes of course, there are addons that allow you to use instancing, and with nice GUI too, some of them more advanced than others.\nBut what I'm proposing is merely a simplified version or a quality of life improvement that comes out of the box"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-31T11:16:18Z",
+  "comments": 5,
+  "createdAt": "2022-08-31T12:39:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5298,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for instance child scene grouping",
+  "up": 1,
+  "updatedAt": "2024-01-31T11:41:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5298"
+}

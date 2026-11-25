@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It doesn't feel custom enough to warrant an add-on. It's more quality-of -life improvement, making it easier to run code based off info that is already present.",
+    "format": "form",
+    "workaround": "I imagine it'd be handy for others, anybody with a lot of complex nesting of state machine logic they're tracking and would rather use event triggers rather than process polling or making their own signaling for that same info."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-06T15:47:40Z",
+  "comments": 4,
+  "createdAt": "2024-07-20T02:25:46Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.5",
+  "number": 10253,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `node_started` and `node_finished` signals to AnimationTree",
+  "up": 9,
+  "updatedAt": "2025-06-06T15:47:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10253"
+}

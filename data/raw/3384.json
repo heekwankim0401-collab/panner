@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be AudioStreamPlayer3D code.",
+    "format": "form",
+    "workaround": "It would be AudioStreamPlayer3D code."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-17T16:36:58Z",
+  "comments": 17,
+  "createdAt": "2021-10-04T22:04:11Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.0",
+  "number": 3384,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a property to adjust spatial stereo panning on AudioStreamPlayer2D and AudioStreamPlayer3D",
+  "up": 9,
+  "updatedAt": "2022-06-18T19:43:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3384"
+}

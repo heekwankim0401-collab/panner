@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an accessability/discoverability/consistency issue.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-27T09:51:49Z",
+  "comments": 1,
+  "createdAt": "2022-03-19T08:10:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 4239,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move GLTF export under scene menu",
+  "up": 4,
+  "updatedAt": "2022-04-27T09:51:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4239"
+}

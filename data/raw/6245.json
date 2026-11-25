@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is related to the editor, there is no point to have as a separate add-on, if that's even possible.",
+    "format": "form",
+    "workaround": "This a QoL improvement on the editor.\nIt could be possible to manually change the shortcuts in the Editor preferences, but some people, including myself, would rather have an out of the box coherent experience"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-06T17:44:37Z",
+  "comments": 3,
+  "createdAt": "2023-02-06T17:29:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 6245,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use physical key for shortcuts inside the Editor",
+  "up": 0,
+  "updatedAt": "2023-02-21T15:56:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6245"
+}

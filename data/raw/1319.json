@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a simple quality of life improvement that is pretty straightforward to implement and helps with the workload a lot.",
+    "format": "legacy",
+    "workaround": "The keywords themselves should be used quite oftenly, but yes its easy to have a work around."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-07T10:10:21Z",
+  "comments": 10,
+  "createdAt": "2020-08-06T18:19:43Z",
+  "down": 3,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.3",
+  "number": 1319,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow usage of `is not` in GDScript",
+  "up": 40,
+  "updatedAt": "2024-02-07T10:10:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1319"
+}

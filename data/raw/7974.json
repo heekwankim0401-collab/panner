@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Setting aside that this would line up with user expectations based on the behavior of other tools (and, I believe, how Viewports already worked in 3.x), this would drastically improve the functionality and flexibility of 2D games with complicated game-view layouts, with little added complexity and no *new features* to develop, as it already exists for the root viewport (configurable via Project Settings). It would be a major usability upgrade for people making pixel art games that is currently impossible or very difficult to implement by scripting while appearing to be a simple change on the engine side.",
+    "format": "form",
+    "workaround": "No. It would require many hacks and a lot of friction to use ViewportTexture as if it were a SubViewport in a SubViewportContainer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-10-03T17:22:53Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7974,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow stretch mode setting for SubViewport.",
+  "up": 18,
+  "updatedAt": "2025-09-20T10:56:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7974"
+}

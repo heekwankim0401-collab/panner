@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It can't be, it's part of the 3D editor.",
+    "format": "markdown",
+    "workaround": "No, it's part of the 3D editor."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-13T18:18:24Z",
+  "comments": 10,
+  "createdAt": "2021-04-30T02:32:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 2673,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Show the 3D transform gizmo when otherwise offscreen",
+  "up": 5,
+  "updatedAt": "2025-02-13T18:18:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2673"
+}

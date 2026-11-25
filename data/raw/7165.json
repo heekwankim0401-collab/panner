@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Many users prefer representing aspects of their code via code instead of UI.\n\nSignals come to mind here - you have the option to connect them up in the editor or in code via [SignalName].connect(func(): do_something()).",
+    "format": "form",
+    "workaround": "It can be worked around by using the autoload menu in Project Settings.\n\nThe signposting complaint can be worked around with a comment (`# autoload [ClassName]`)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-06-26T19:37:12Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7165,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add autoload annotation to GDScript",
+  "up": 2,
+  "updatedAt": "2023-06-30T07:25:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7165"
+}

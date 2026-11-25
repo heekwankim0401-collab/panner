@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "- It helps with static typing a bit and improves code.\n- Its currently not possible to separate class name's from whether they show up in the creation dialogs.\n- Its currently not possible to register a whole scene as a type without creating and setting up the children node's through script.",
+    "format": "form",
+    "workaround": "- The scene keyword would be used to register a whole scene as a type.\n    - It basically would be a way to link the scene and scripts together in a type,\n    - It would still have to be attached to a scene and saved before it's registered\n\n- The class keyword would reduce the amount of keywords in GDScript\n\n- The optional export keyword would be used either at the end of a class, scene, property or field\n    - It reduces needs for checks in GDScript parser\n    - It allows separation of named scenes / classes and the exporting them to the creation dialogs"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-24T18:19:27Z",
+  "comments": 10,
+  "createdAt": "2021-09-22T01:32:42Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3329,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "modify and seperate class_name into two functionalties ",
+  "up": 0,
+  "updatedAt": "2021-09-24T18:21:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3329"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the core.",
+    "format": "legacy",
+    "workaround": "No \"workaround\"."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2020-06-04T06:12:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1008,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Process settings should take effect when called during _init() or _enter_tree()",
+  "up": 1,
+  "updatedAt": "2023-07-29T21:35:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1008"
+}

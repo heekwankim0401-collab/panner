@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is my amateur opinion that this enhancement should be the default mode of operation for this feature.\n\nJudging by discussion on the Godot Discord, this is a common issue for anyone using the WebRTC networking features, and they have, like me, had to implement ugly and error prone workarounds to the same end.\n\n**Edit:** I'm currently implementing this for myself since it's a relatively minor effort and currently a blocker on my project, so I'm happy to make the pull request once I'm done if this is deemed an appropriate enhancement.",
+    "format": "legacy",
+    "workaround": "I expect this enhancement to be used 100% of the time WebRTCPeerConnection is used."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-23T15:17:40Z",
+  "comments": 10,
+  "createdAt": "2020-07-31T21:26:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 1286,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an ICE buffer to WebRTCPeerConnection",
+  "up": 1,
+  "updatedAt": "2020-11-23T15:45:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1286"
+}

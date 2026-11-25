@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Tileset and Tilemap are already part of core.\nThis compliments them.",
+    "format": "form",
+    "workaround": "It would be used in tile based games that try to emulate old school graphics, and I'm sure you could use a tilemap as a viewport and then get the texture, but that requires a lot of setup just for a single sprite.\nThis would make working with this wort of thing easier."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-02-11T19:01:21Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 11745,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a TileMapTexture resource to procedurally generate a texture from a tilemap",
+  "up": 0,
+  "updatedAt": "2025-02-12T20:28:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11745"
+}

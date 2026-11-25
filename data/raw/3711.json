@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Hover documentation is a common feature in nearly every code editor, and massively increases the ease of programming by reducing context switching and making symbols and functions far more discoverable.",
+    "format": "form",
+    "workaround": "It's probably possible to write an editor plugin that does this, but I lack the technical know-how to do so myself.  Ctrl+click provides a partial workaround, but is significantly less ergonomic."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-22T19:53:06Z",
+  "comments": 1,
+  "createdAt": "2021-12-22T19:13:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3711,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Hover tooltips in code editor",
+  "up": 1,
+  "updatedAt": "2021-12-22T19:53:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3711"
+}

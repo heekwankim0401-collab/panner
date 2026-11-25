@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot be done with an add-on.",
+    "format": "form",
+    "workaround": "It's about the editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2022-08-04T13:55:36Z",
+  "down": 7,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5071,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move Shader Editor from Bottom Panel to Script Editor",
+  "up": 10,
+  "updatedAt": "2026-01-17T21:33:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5071"
+}

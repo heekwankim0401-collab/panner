@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be built-in.",
+    "format": "form",
+    "workaround": "Yes this can be worked around with a tool script but it should be core as groups are core functionality. Groups are generally used for multiple nodes and so multi-editing is a given."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-27T14:50:08Z",
+  "comments": 1,
+  "createdAt": "2025-03-27T01:38:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12082,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow the ability to select multiple nodes in the scene tree and modify groups for all",
+  "up": 0,
+  "updatedAt": "2025-03-27T14:50:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12082"
+}

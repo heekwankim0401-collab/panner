@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the Android editor UX and making Godot integrate better with the system.",
+    "format": "form",
+    "workaround": "Users can create the `.nomedia` file themselves, but Android does not provide any built-in way to do that, so they must use a third-party app instead. These apps often don't provide a great user experience due to containing ads or requiring users to jump through hoops to achieve what ought to be an easy task."
+  },
+  "assignees": 1,
+  "closedAt": "2025-04-03T21:56:23Z",
+  "comments": 4,
+  "createdAt": "2024-08-04T21:32:56Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": "4.5",
+  "number": 10364,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Prevent project images/video/audio from showing up in the media library by writing `.nomedia` in the Android editor",
+  "up": 7,
+  "updatedAt": "2025-04-04T09:44:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10364"
+}

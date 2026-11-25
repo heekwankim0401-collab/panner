@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because this is often times used in the real world for mobile devices (like Habitica and probably your messages app (at least for iMessage)",
+    "format": "form",
+    "workaround": "I don't believe this can be worked around in a script with a few lines and with how common this feels in the real world, it feels like something that should be implemented as a core feature"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-10-11T16:55:09Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8075,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Modernizing ScrollContainer with new Scroll Modes for mobile devices and add fading to ScrollBars to further enhance use",
+  "up": 1,
+  "updatedAt": "2023-10-17T00:49:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8075"
+}

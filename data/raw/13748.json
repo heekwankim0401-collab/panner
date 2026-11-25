@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Yes via ShaderMaterial, but not everyone is accustomed to writing custom shaders."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-11-28T18:36:56Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13748,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add additional blending modes for the sun in ProceduralSkyMaterial",
+  "up": 2,
+  "updatedAt": "2026-02-09T16:06:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13748"
+}

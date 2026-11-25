@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is way familiar way of coding for the web developers and such making the development itself feeling more at home for those developers if it were to be added as a core feature. On top of it being a way better way of doing this.",
+    "format": "form",
+    "workaround": "It don't know a good \"workaround\", the current way i've been doing this is by calling a function via rpc from client and the server calling a rpc function back to the client with the data passed as arguements."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-09T13:12:52Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 7250,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "make rpc calls return promise like classes for easier networking.",
+  "up": 1,
+  "updatedAt": "2023-07-09T13:18:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7250"
+}

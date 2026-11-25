@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Information associated with a tile in the TileMap would best be accessed through and associated with the TileMap. Additionally, this is a relatively simple addition, but one with a very generic implementation that adds a great amount of flexibility to the TileMap system.\nAdding any of this information with an add-on would require accessing the information from somewhere other than just the TileMap, and add-ons are better suited to specific tasks. It would make more sense for an add-on to use this system to analyse a map and tag it for the pathfinding I described above, as part of a specialised pathfinding solution, rather than an expansion of the TileMap's capabilities.",
+    "format": "form",
+    "workaround": "It is likely to be used often, as people currently work around it, and additional uses are likely to be found with the feature readily available.\nThe issue can currently be worked around by keeping a Dictionary of tiles and their custom data, but it does require an amount of code to maintain and access the data that may be more than \"a few lines\". Further, storing this data alongside a saved scene/map requires a lot more work on both design and implementation. Hand-assigning this data via the editor would require much more work to write an editor extension."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2023-04-01T03:04:54Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6606,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow custom data for individual tiles in a TileMap",
+  "up": 54,
+  "updatedAt": "2026-01-05T01:47:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6606"
+}

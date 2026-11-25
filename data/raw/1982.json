@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because there is no workaround for this problem.",
+    "format": "markdown",
+    "workaround": "No. If you try to use an instantiate child and change the loop option it will change the loop option in the parent too what will change from the other children as well."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-21T20:32:52Z",
+  "comments": 6,
+  "createdAt": "2020-12-14T04:34:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1982,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the loop option a property of the AnimationPlayer and not of the animations",
+  "up": 1,
+  "updatedAt": "2020-12-21T21:58:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1982"
+}

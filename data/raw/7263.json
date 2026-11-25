@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "You can see my existing findings with trying to use the existing TonyMcMapface 3D LUT as a color correction effect in https://github.com/h3r2tic/tony-mc-mapface/issues/4.\n\nUnfortuntaely, it doesn't work as expected as color correction in Godot is performed *after* tonemapping. This is generally desired behavior, but not when you're trying to use color correction as a tonemapper :slightly_smiling_face: \n\nIf there was a way to change the existing **Tonemapping → Color correction → Adjustments** order, then this could be implemented by an add-on with no script or shader code needed. While this approach is the easiest to implement, it would also prevent using color correction at the same time as a custom tonemapper. This can be limiting when trying to achieve a certain scene mood, as TonyMcMapface itself does not provide any adjustments by design.",
+    "format": "form",
+    "workaround": "No, as this can't be implemented by a script or shader code without modifying the engine. See below."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-07-11T16:01:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7263,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add TonyMcMapface as a tonemapping mode (or allow using custom LUTs for tonemapping)",
+  "up": 41,
+  "updatedAt": "2024-09-16T23:12:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7263"
+}

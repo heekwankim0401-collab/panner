@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a feature better added as a core one as it can give more control to Autoloads and plugin creators.",
+    "format": "legacy",
+    "workaround": "Maybe, but they would require more boilerplate and more strict setups."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2019-10-18T16:04:57Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 165,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Autoloads to be instanced below the user-run scene",
+  "up": 1,
+  "updatedAt": "2020-09-12T21:31:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/165"
+}

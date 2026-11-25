@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it is an elemental feature you can use in nearly every game. In addition to that you can include it into the node/scene-system what effect, that you can put overlays on overlays, animate/tween them or get the input  the overlays received.",
+    "format": "legacy",
+    "workaround": "I saw a lot of Indiegames using sprite overlays. But depending on the engine they are used more often because there is a feature like this. It would help a lot of people to develop their games. I \n already asked for a sloution on reddit(https://www.reddit.com/r/godot/comments/flshso/is_there_a_way_to_create_sprite_overlays_in_godot/) but only received a way to do that with shaders. And when you do it in that way you are not able to animate the sprite overlay."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-29T16:30:53Z",
+  "comments": 4,
+  "createdAt": "2020-03-20T14:38:02Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 608,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Sprite Overlays",
+  "up": 3,
+  "updatedAt": "2021-09-29T16:30:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/608"
+}

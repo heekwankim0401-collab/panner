@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Breaking the current attached debugger via code is a common debugging practice",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-07T10:34:27Z",
+  "comments": 4,
+  "createdAt": "2025-12-12T21:48:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13848,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a global scope function to break the debugger",
+  "up": 0,
+  "updatedAt": "2026-06-07T10:55:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13848"
+}

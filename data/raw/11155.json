@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it is part of meshinstance3D",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-19T21:25:18Z",
+  "comments": 4,
+  "createdAt": "2024-11-13T21:06:14Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 11155,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show blend shape IDs and sort by ID instead of alphabetically",
+  "up": 0,
+  "updatedAt": "2024-11-20T10:33:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11155"
+}

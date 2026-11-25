@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "RichTextLabel is core.",
+    "format": "form",
+    "workaround": "Parsing BBCode is not a matter of a few lines of code. The custom solution would also need to handle the different `visible_characters_behavior` values (e.g. for languages that combine multiple characters into larger glyphs).\n\nOtherwise, a custom alternate syntax that gets handled using string find-and-replace is possible."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-02-14T15:18:06Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6286,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using BBCode for events in RichTextLabel",
+  "up": 0,
+  "updatedAt": "2023-02-14T17:15:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6286"
+}

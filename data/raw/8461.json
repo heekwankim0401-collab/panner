@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this would be an addition to CanvasItem",
+    "format": "form",
+    "workaround": "you can work around this by using a Curve2Dand then drawing a polyline or polygon but these methods are cumbersome to code, and would take more resources in both memory and cpu time"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-23T17:13:56Z",
+  "comments": 2,
+  "createdAt": "2023-11-17T19:24:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": "4.6",
+  "number": 8461,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a draw_ellipse and draw_ellipse_arc function",
+  "up": 12,
+  "updatedAt": "2025-09-23T17:17:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8461"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core class",
+    "format": "form",
+    "workaround": "Not a few"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2025-11-09T13:37:58Z",
+  "down": 2,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 13601,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Split AnimationPlayer into AnimationPlayer2D/3D nodes",
+  "up": 0,
+  "updatedAt": "2025-11-18T06:50:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13601"
+}

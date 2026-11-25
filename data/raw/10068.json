@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about changing some core behavior in the editor and is less of a \"new feature\" than a \"fix.\"",
+    "format": "form",
+    "workaround": "If a specific floating point value is needed that cannot be entered in the inspector (e.g. NaN, 0.12345, pi, 0), it is possible to edit the scene in an external editor and write the exact value in there; however, if the field is touched in the inspector (e.g. by selecting it and pressing Enter) it'll often be rounded again. Exact values can also be set in scripts or as the default export value, but these are kind of inflexible and cumbersome."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-06-28T23:19:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 10068,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make floating-point values in the inspector more permissive",
+  "up": 5,
+  "updatedAt": "2025-06-21T03:43:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10068"
+}

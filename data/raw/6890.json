@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Seems out of place to have every other parameter available and not lods",
+    "format": "form",
+    "workaround": "For getting the lods from an ArrayMesh, I can't find a workaround. For my specific use case, serializing resources between clients, I can use var_to_bytes_with_objects, but as mentioned everywhere it's vulnerable to ACE."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-05-16T00:13:26Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6890,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add missing `surface_get_lods()` method to Mesh/ArrayMesh",
+  "up": 6,
+  "updatedAt": "2026-06-28T02:02:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6890"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core: Setting for a Core feature's UI",
+    "format": "markdown",
+    "workaround": "Can be worked around by using the Page-system. I think most developers would like to see more than 10 entries per page, if not all entries, by default."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-19T18:53:35Z",
+  "comments": 4,
+  "createdAt": "2021-01-01T00:50:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2058,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Editor Setting to disable large Arrays/Dictionaries being split into Pages",
+  "up": 0,
+  "updatedAt": "2021-02-19T18:53:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2058"
+}

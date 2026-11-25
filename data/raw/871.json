@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This tests the core too.",
+    "format": "legacy",
+    "workaround": "I don't believe so."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-22T12:45:08Z",
+  "comments": 4,
+  "createdAt": "2020-05-22T09:19:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 871,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Have a unit testing process / library for the engine",
+  "up": 1,
+  "updatedAt": "2020-05-24T21:52:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/871"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It applies to every single project. Nobody wants to lose data.",
+    "format": "form",
+    "workaround": "This is related to the core of the Godot Editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 23,
+  "createdAt": "2024-09-08T21:01:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10694,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Prevent loss of user-entered data in the Godot Editor",
+  "up": 6,
+  "updatedAt": "2026-10-11T12:53:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10694"
+}

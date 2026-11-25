@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature's main goal is to make the engine more flexible and intuitive, while it should not change drastically the core underlying mechanics it does at least change the way we interact with these variables from the editor but also from scripts in a very systematic manner.",
+    "format": "markdown",
+    "workaround": "Making these variables relative to each other and react in such a way in the editor would require both a plugin for the inspector and a plugin for each nodes just to make something more flexible and more intuitive.\n\nEdit: That being said the way I usually handle these problems is by rotating my containers then rotating the elements they contain and fixing issues as I go from there. I am affraid there are no clean and scallable way yet to deal with these issues hence the present suggestion. :-)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-01-29T01:14:56Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 413,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add relative transformations to the UI system",
+  "up": 2,
+  "updatedAt": "2021-01-31T02:54:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/413"
+}

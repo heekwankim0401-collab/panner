@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-02-11T18:09:32Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 14209,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "It should be possible to assign a typed array in one line when using `get_children()`",
+  "up": 5,
+  "updatedAt": "2026-06-01T08:55:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14209"
+}

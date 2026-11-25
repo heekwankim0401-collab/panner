@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It does not add new functionality, but slightly modifies the functionality of an existing feature.\nThere are many 3D games made in Godot that make use of pixelated textures as a stylistic choice. The ease of making materials for these games can be significantly improved with a feature to allow multiple texture filtering options on the same material.",
+    "format": "form",
+    "workaround": "It's not possible to work around this while keeping the functionality of StandardMaterial3D. After converting to shader code, iteration on the material is tens to hundreds of times slower."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-01-27T04:06:39Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14076,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add second configurable sampling properties to UV2 in StandardMaterial3D and ORMMaterial3D",
+  "up": 0,
+  "updatedAt": "2026-07-04T21:49:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14076"
+}

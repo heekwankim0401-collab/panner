@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's a part of core functionality of editor",
+    "format": "legacy",
+    "workaround": "By everyone every time they use maths in editor"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-01-09T14:24:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 369,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "When Using maths inside inspector apply it to each selected node individually",
+  "up": 2,
+  "updatedAt": "2022-06-29T17:38:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/369"
+}

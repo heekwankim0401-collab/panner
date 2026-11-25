@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Integrating with git in a clean way seems like an important feature.",
+    "format": "form",
+    "workaround": "I would use it every time I pull from git"
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-10T05:29:07Z",
+  "comments": 5,
+  "createdAt": "2023-07-31T02:44:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 7417,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to disable/clear resource cache (`.godot` folder)",
+  "up": 0,
+  "updatedAt": "2026-08-10T20:11:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7417"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "1. Core relevance: MeshLibrary is an integral part of Godot’s 3D workflow, particularly for GridMap usage. Improving its usability aligns with Godot’s philosophy of providing powerful, intuitive tools natively.\n2. Ease of use: A built-in solution ensures that all users benefit from these enhancements without needing to install or maintain external add-ons.\n3. Standardization: Making this part of the core ensures a consistent experience for all users and avoids potential compatibility issues that might arise with third-party add-ons.",
+    "format": "form",
+    "workaround": "Can it be worked around with a few lines of script?\nYes, the issues outlined can be partially addressed with custom scripts or add-ons. For example:\n\n- Automating preview generation can be achieved with a small script that renders meshes in a Viewport to produce textures.\n- Adding or removing items programmatically can be done with basic scripting.\n\nHowever, these solutions require extra work from users for what should ideally be built-in functionality. Integrating these features into the core would provide a unified, consistent, and out-of-the-box experience."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-01-05T00:44:25Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11493,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add automatic preview generation, item removal/reordering and automatic mesh scaling to the MeshLibrary editor",
+  "up": 3,
+  "updatedAt": "2025-01-17T23:43:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11493"
+}

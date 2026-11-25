@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "More people would be able to know of its existence having it officially implemented and documented, more people could benefit from it.",
+    "format": "form",
+    "workaround": "This could be added with a GDNative or GDExtension or whatever it was called, but I'd like to see it added to Godot officially."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2024-08-16T12:40:14Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10458,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to access external process information (pid list, ppid, child pids, environ, cmdline, comm, exe, cwd, pid existence, signals)",
+  "up": 0,
+  "updatedAt": "2024-08-21T12:30:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10458"
+}

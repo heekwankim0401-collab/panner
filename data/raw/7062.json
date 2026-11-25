@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An add-on needs to be installed for every project, and it would be nice if the most ubiquitous video format just worked out of the box in every Godot project. This would also not be a large change to the engine, as all the heavy lifting is done by FFMPEG, and this would just be a wrapper.",
+    "format": "form",
+    "workaround": "It could be worked around with an editor plugin, either one implementing MP4 playback directly, or one performing this \"conversion import\"."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2023-06-10T23:30:40Z",
+  "down": 3,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7062,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add MP4/WebM/AV1 import through an FFMPEG conversion wrapper",
+  "up": 30,
+  "updatedAt": "2025-07-04T20:52:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7062"
+}

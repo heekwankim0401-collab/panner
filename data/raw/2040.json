@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it is useful for every sort of project.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-12-28T19:52:15Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2040,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `get_buttons()` method to AcceptDialog",
+  "up": 0,
+  "updatedAt": "2021-03-07T07:45:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2040"
+}

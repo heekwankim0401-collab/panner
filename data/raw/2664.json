@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems like a feature that should be standard and everyone would use.",
+    "format": "markdown",
+    "workaround": "it could be done by hand but isn't as clean of a solution as it would be required for every ping-pong animations."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-09T23:44:10Z",
+  "comments": 5,
+  "createdAt": "2021-04-29T00:29:36Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 2664,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add to support ping-pong loop in AnimationPlayer and playing backwards and ping-pong loop in NodeAnimation of AnimationTree",
+  "up": 5,
+  "updatedAt": "2021-11-09T23:44:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2664"
+}

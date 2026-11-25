@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving Godot's VCS-friendliness.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-07-25T13:37:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4979,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use file compression when saving VoxelGIData",
+  "up": 3,
+  "updatedAt": "2025-02-26T17:38:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4979"
+}

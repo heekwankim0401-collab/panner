@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't see it useful in the add-on library",
+    "format": "form",
+    "workaround": "In my example I couldn't find a way to use the workaround.\nFor other uses it could be done with `draw_set_transform` or `draw_set_transform_matrix`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2021-07-24T15:59:56Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3038,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a transform parameter to `CanvasItem.draw_texture()`",
+  "up": 0,
+  "updatedAt": "2021-07-26T01:09:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3038"
+}

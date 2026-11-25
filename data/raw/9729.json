@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a direct feature addition that may be added as part of the navigation agents that still don't offer any of the virtual methods for GDScript-based pathfinding algorithms yet.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-05-12T07:25:47Z",
+  "down": 2,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 9729,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a \"dumb\" navigation mode for navigation agents as an alternative option",
+  "up": 4,
+  "updatedAt": "2024-05-14T07:10:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9729"
+}

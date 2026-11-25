@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "markdown",
+    "workaround": "I guess, at least it would be used often in the editor. Can be workarounded but it's not easy to do."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-02-05T16:44:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2250,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow TabContainers to position some child nodes in the tabs bar",
+  "up": 12,
+  "updatedAt": "2025-12-23T22:57:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2250"
+}

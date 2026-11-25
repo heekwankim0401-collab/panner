@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can improve the 2D assets workflow.",
+    "format": "form",
+    "workaround": "`ResourceImporterTextureAtlas` is a existed importor which code in godot sourcecode."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-09-29T13:01:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5514,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Let atlas file track changes to the AltasTexture they belong to and automatically reimport them",
+  "up": 0,
+  "updatedAt": "2022-09-30T03:21:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5514"
+}

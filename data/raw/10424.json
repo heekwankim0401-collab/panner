@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a small change that makes a lot more sense than the current implementation and would improve developer experience out of the box.",
+    "format": "form",
+    "workaround": "This enhancement will be used often. Trust."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-13T12:20:19Z",
+  "comments": 1,
+  "createdAt": "2024-08-12T23:00:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10424,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make all bones automatically selected in the filter menu of animation nodes",
+  "up": 0,
+  "updatedAt": "2024-08-13T12:24:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10424"
+}

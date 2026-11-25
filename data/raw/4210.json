@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "There is no reason for not being core feature.",
+    "format": "form",
+    "workaround": "It can not be natively."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-11T17:32:12Z",
+  "comments": 5,
+  "createdAt": "2022-03-11T09:00:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 4210,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[IDE] Improve coding UX on small (eg 11-14 inch) touch devices by adding scroll by drag support for the code editor & the docs reader",
+  "up": 0,
+  "updatedAt": "2022-03-12T18:18:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4210"
+}

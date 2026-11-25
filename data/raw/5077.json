@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "My concern is slightly improving out-of-the-box tools available. A trivial function that's used constantly, being reimplemented hundreds of times across many different projects can add up in terms of inefficiency and duplication of effort. It also leads to inconsistencies in convention. Does the Godot community call this function `map`, `remap`, or `rescale`? Does the input value go in the beginning or end of the argument list? Does it use scalar floats or range objects?\n\nGoing from one project to another can get that little bit more difficult if the rules change -- whereas, if the toolset already provides a solution, it provides a convenient focal point for the community, as well as a piece of common terminology around which we can organize technical documentation and explanations.",
+    "format": "form",
+    "workaround": "My guess is that it will be used very often. There is probably at least one use case for it in every project. It can be worked around with a couple lines of code... or implementing the function yourself... or worse yet, combining `lerp` and `inverse_lerp` without the context of the purpose, thus significantly degrading the readability of your function to those who aren't familiar with the use case."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-05T16:55:03Z",
+  "comments": 5,
+  "createdAt": "2022-08-05T01:15:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5077,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a map/remap function to simplify remapping/rescaling values",
+  "up": 2,
+  "updatedAt": "2022-08-06T07:14:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5077"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a low level change.",
+    "format": "legacy",
+    "workaround": "It's a low level change."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-10-02T07:27:03Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1592,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to override the Godot main so to customize the process loop deeply",
+  "up": 59,
+  "updatedAt": "2023-02-24T03:19:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1592"
+}

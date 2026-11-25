@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I haven't really experimented with the add-on API, but I don't think it's possible to make one.",
+    "format": "form",
+    "workaround": "It'd be a complicated shader as you would need to write the projection from scratch. It just seems like something that should be handled by the engine."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-10T01:52:11Z",
+  "comments": 0,
+  "createdAt": "2023-05-10T01:40:20Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6848,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement spherical prjection for cameras",
+  "up": 0,
+  "updatedAt": "2023-05-12T19:32:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6848"
+}

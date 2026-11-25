@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "if you knew to download the add-on you wouldn´t need the warning.",
+    "format": "form",
+    "workaround": "If you knew to write a few lines of scripts for the warning you wouldn't need the warning."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-09T21:27:54Z",
+  "comments": 5,
+  "createdAt": "2021-11-08T20:05:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3519,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a warning when assigning to a read-only variable",
+  "up": 0,
+  "updatedAt": "2021-11-09T21:27:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3519"
+}

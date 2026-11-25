@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "As mentioned, while there are alternative solutions that are powered by script code, they do not fully satisfy the needs of the feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-08-30T17:10:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3232,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support reactive logic to Resource operations (save/load/reimport) in both editor and game contexts",
+  "up": 2,
+  "updatedAt": "2021-09-04T16:18:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3232"
+}

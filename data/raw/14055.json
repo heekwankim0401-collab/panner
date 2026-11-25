@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is an enhancement of the core engine UI. I do not even know if add-ons are even able of overriding the UI in this way.",
+    "format": "form",
+    "workaround": "I understand that maybe not everyone would appreciate this change like I would, but I believe it could fairly easily be made a setting under \"Inspector\" in Godot's main setting menu."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-26T06:26:17Z",
+  "comments": 3,
+  "createdAt": "2026-01-23T22:32:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 14055,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make better use wasted space in Godot inspector tab by changing weights",
+  "up": 3,
+  "updatedAt": "2026-06-20T06:14:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14055"
+}

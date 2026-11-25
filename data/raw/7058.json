@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an extension to the high-level shader language, to my knowledge you can't modify this through a GDExtension.",
+    "format": "form",
+    "workaround": "`RenderingDevice` seems to contain *something* related to this, but I don't think anyone is excited to reimplement rendering in their game just to make things blend the way they want."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-06-10T16:47:59Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7058,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Custom Blend Mode declarations to the shader language",
+  "up": 7,
+  "updatedAt": "2026-08-04T04:38:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7058"
+}

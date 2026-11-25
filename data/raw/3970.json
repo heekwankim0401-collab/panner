@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "If my assumption is correct, and the change required is only a single if and not much more. This should be a small, yet helpful addition to already existing system present in the core.\nMaking it an add-on or an asset wouldn't therefore make sense.",
+    "format": "form",
+    "workaround": "Yes, the same effect can be achieved with the work around of having nodes set like so:\n\n```py\nWorld (ysort enabled)\n    Player\n        PlayerSorter (ysort enabled)  # This is an empty 2D node\n            Body\n            Shield\n    Map (ysort enabled)\n        Rock1\n        Rock2\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-02-14T20:11:26Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3970,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Option to break the chain of YSorting",
+  "up": 0,
+  "updatedAt": "2022-02-14T21:04:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3970"
+}

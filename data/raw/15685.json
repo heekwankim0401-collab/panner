@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-10-22T13:27:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15685,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Editor: When hovering an EditorResourcePicker, highlight other EditorResourcePicker(s) sharing the same resource",
+  "up": 2,
+  "updatedAt": "2026-10-23T16:41:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15685"
+}

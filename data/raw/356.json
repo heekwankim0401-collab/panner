@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Increases usability of existing feature and reduces pointless clicking.",
+    "format": "legacy",
+    "workaround": "Used often because it saves time, improves usability and reduces pointless clicking."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-01-04T22:04:39Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 356,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "AnimationPlayer Timeline: add unique zoom level for each animation, scroll to zoom, rightclick to reset",
+  "up": 2,
+  "updatedAt": "2021-08-20T13:14:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/356"
+}

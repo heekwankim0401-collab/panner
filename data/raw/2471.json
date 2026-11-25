@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is an add-on available in the [asset library](https://godotengine.org/asset-library/asset/892), but several folks on [Reddit](https://www.reddit.com/r/godot/comments/m5cpjv/viewportspy_an_inspector_tool_that_lets_you_spy/?utm_source=share&utm_medium=web2x&context=3) and [Github](https://github.com/awkwardpolygons/viewport-spy/issues/1) requested I submit this proposal so that everyone can have access to this simple feature by default.",
+    "format": "markdown",
+    "workaround": "A few lines of script? No. A relatively simple plugin? Yes."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-15T06:53:43Z",
+  "comments": 0,
+  "createdAt": "2021-03-16T15:11:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2471,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add inspector UI that lets you spy on what a viewport is rendering (ViewportSpy)",
+  "up": 19,
+  "updatedAt": "2021-07-15T06:53:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2471"
+}

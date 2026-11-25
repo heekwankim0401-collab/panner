@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know if an add-on can handle this, because it modifies current behaviour of the editor. If it's possible to do, I'm proposing it anyway because it's QoL, and it's not practical to have it outside the core editor.",
+    "format": "form",
+    "workaround": "This will be used often, it's a quality of life improvement for the basic contextual editing loop of scenes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-20T14:55:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7762,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Respect the last mode a scene is opened in",
+  "up": 0,
+  "updatedAt": "2023-09-22T12:49:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7762"
+}

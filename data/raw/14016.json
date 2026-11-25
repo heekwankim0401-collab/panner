@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Gizmos are core. This proposal is to specifically rework them to make them more user friendly.",
+    "format": "form",
+    "workaround": "To be able to create a single gizmo you already HAVE to make a plugin, code to register them, and several other things, this proposal aims to make gizmos not need to"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-01-15T18:24:41Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 14016,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rework 3D gizmos to be drawable without an EditorPlugin",
+  "up": 10,
+  "updatedAt": "2026-01-16T20:03:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14016"
+}

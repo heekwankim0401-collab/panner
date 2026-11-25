@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript exports",
+    "format": "form",
+    "workaround": "It would be used quite frequently as exporting variables is a pretty common thing to do."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-05T01:46:13Z",
+  "comments": 1,
+  "createdAt": "2021-11-05T01:41:37Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 3500,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve exported variable organization",
+  "up": 0,
+  "updatedAt": "2021-11-05T01:46:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3500"
+}

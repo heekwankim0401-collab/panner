@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't believe there's any way for an add-on to directly do this.",
+    "format": "form",
+    "workaround": "Surely. One way to mitigate the performance issues would be to assign the Feature status to a property as soon as possible. \n\n```GDScript\nvar in_debug := OS.has_feature(\"debug\")\nvar in_mobile := OS.has_feature(\"mobile\")\n...\n```\n\nBut it is odd, to say the least. Feature Tags are, in a sense, constant values on their own, for aforementioned reasons above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2022-03-18T16:37:02Z",
+  "down": 0,
+  "labels": [
+    "topic:export",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4234,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Preprocess scripts on export to take constant feature tags into account",
+  "up": 38,
+  "updatedAt": "2025-10-24T14:35:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4234"
+}

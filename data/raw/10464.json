@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would affect the core Window implementation and therefore couldn't be a download from the asset library.",
+    "format": "form",
+    "workaround": "The only way I can think of to work around this is to disable the `exclusive` flag and re-implement its functionality yourself, which would certainly be more than a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-16T20:50:07Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10464,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `NOTIFICATION_WM_QUIT_REQUEST` to pass through to parent window when using exclusive embedded subwindow",
+  "up": 1,
+  "updatedAt": "2025-07-07T16:02:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10464"
+}

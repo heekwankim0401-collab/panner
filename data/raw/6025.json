@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I put this in proposals but it may be considered an issue and relevant to the engine's core.",
+    "format": "form",
+    "workaround": "No, the only way to bypass this issue right now would require using a viewport used as a buffer with the whole scene copied, which would be very detrimental to performance."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-01T14:19:49Z",
+  "comments": 4,
+  "createdAt": "2022-12-30T11:47:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6025,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow using nearest-neighbor filtering when sampling `DEPTH_TEXTURE`",
+  "up": 2,
+  "updatedAt": "2023-01-01T17:17:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6025"
+}

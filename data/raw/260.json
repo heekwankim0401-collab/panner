@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Child addition almost always follows scene instantiation in most use cases, which justifies the existence for such a method to be part of the core.\n\nQuote from some documentation request godotengine/godot-docs#3338:\n\n> This is really something very basic and a incredibly common operation even a beginner would want to do.\n\nThe addition is quite small, the burden of having to go to the asset library in hopes that you find such utility function (by chance) outweighs the potential shortcomings of having to maintain this in the core.\n\nSome community usages to justify this more objectively:\n- [spawn_instance](https://github.com/Oranjoose/GoGodot/blob/master/go.gd#L118-L133). The implementation is quite reminiscent to godotengine/godot#33974.",
+    "format": "markdown",
+    "workaround": "Yes, but I really don't want to reinvent the wheel across several projects. This could alleviate some of the prototyping hurdles."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-06T16:36:42Z",
+  "comments": 28,
+  "createdAt": "2019-11-27T16:33:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 260,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method for instancing of nodes to be immediately added to the scene tree",
+  "up": 7,
+  "updatedAt": "2022-01-06T17:58:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/260"
+}

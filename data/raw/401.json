@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this behavior is the expected behavior from the user's point of view. When changing the transparency of a node, we expect the whole node to become transparent, not its children.\n\nFor instance, open GIMP and do the following:\n- Create an image\n- Fill the background layer with black\n- Create two layers with alpha channel turned on\n- Draw two objects of different color, one per layer, and make sure they overlap\n- Create a layer group\n- Put the two layers with the drawings in the group\n- Select the group\n- Change transparency\n\nThis is the expected behavior.\n\n\nOpacity 100% on all layers:\n![image](https://user-images.githubusercontent.com/6437521/72885299-edafac80-3d07-11ea-81fc-74bf13011011.png)\n\nOpacity 50% on Layer Group, expected behavior:\n![image](https://user-images.githubusercontent.com/6437521/72885346-0750f400-3d08-11ea-8467-c1a79cae5732.png)\n\nEmulating Godot modulate.a behavior:\n![image](https://user-images.githubusercontent.com/6437521/72885441-35363880-3d08-11ea-9e55-238aee69baad.png)",
+    "format": "legacy",
+    "workaround": "Workarounds require the use of viewports, and it's not possible to work around the problem with shaders. You can find a discussion regarding this problem here: https://www.reddit.com/r/godot/comments/ertdgm/2d_transparency_of_overlapping_nodes_how_to/"
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-31T02:54:59Z",
+  "comments": 1,
+  "createdAt": "2020-01-22T10:16:38Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 401,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Changing transparency of a whole Node2D with overlapping textured children",
+  "up": 3,
+  "updatedAt": "2021-01-31T02:55:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/401"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Animation, AnimationPlayer, AnimationTree, Skeleton3D are all core. The entire animation system and all animation editors are core (plugins) in Godot. Some core classes may need some additions for both performance reasons and runtime retargeting.\n\n(I am now paraphrasing the points raised in the discussions)\n\nAnimation Retargeting is a feature standard for many years in other game engines to avoid the time consuming animation creation process in DCC software for different character variants and the slow reimport through the asset pipeline. Professional game developers expect Animation Retargeting in a game engine. It was a core complaint and discussion point over the past months when talking with professionals about Godot's potential 3D game capabilities (interestingly enough barely anyone cared about raw render performance). If Godot wants to be used by more professional companies Animation Retargeting is a must-have core feature. Animations are one of the most expensive parts of 3D game development that require a rock-solid pipeline. Addons are seen as unreliable as a replacement for core features for professional 3D game projects that can take multiple years of development. Every time a decision has to be made for a new 3D project all game engines that have bad animation retargeting support or animation support in general are just ignored for budget reasons and to minimize risk of project failure due to breaking pipelines.",
+    "format": "markdown",
+    "workaround": "No, not possible in a few lines of code. Beginners have no chance to achieve animation retargeting on their own and even more advanced developers constantly struggle with it. A script implementation is only a theoretical option that I already tried but the script performance is to atrocious to be used at runtime."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-02T21:41:24Z",
+  "comments": 8,
+  "createdAt": "2021-04-16T22:50:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 2619,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add animation retargeting for skeletons (baked and runtime)",
+  "up": 23,
+  "updatedAt": "2022-09-18T21:15:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2619"
+}

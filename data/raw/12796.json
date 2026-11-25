@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is something that should already be in the engine as cover is already available for the sky, just not the ground. And this also would improve the experience of making custom stylized environments much easier.",
+    "format": "form",
+    "workaround": "It can be worked around by using panorama sky and making my own in a different program, but this is inconvenient for prototyping what i want to environment to be like."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-16T18:33:24Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12796,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add sun and ground customization in ProceduralSkyMaterial",
+  "up": 0,
+  "updatedAt": "2025-07-17T09:52:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12796"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2026-07-24T02:05:11Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 15243,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide a complete `gdshader` equivalent of the internal `light()` function",
+  "up": 1,
+  "updatedAt": "2026-07-24T22:00:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15243"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "For 2D games it's essential. I looked through many posts with same problem (inconsistent order of events) and quirky workaround solutions.",
+    "format": "form",
+    "workaround": "Yes, script solve the problem, but more thoughtful defaults or accessible configuration is much better."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-04-19T18:09:49Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6721,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable physics_object_picking_sort for main viewport by default",
+  "up": 0,
+  "updatedAt": "2023-04-19T21:16:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6721"
+}

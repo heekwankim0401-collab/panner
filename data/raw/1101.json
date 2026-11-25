@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because core API would benefit from it, as it's a common thing to do.",
+    "format": "legacy",
+    "workaround": "Well, literally one line, but it's about convenience. It is used often. Very often."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-14T16:56:31Z",
+  "comments": 6,
+  "createdAt": "2020-06-21T18:10:14Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1101,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make some methods in File and Directory class static",
+  "up": 21,
+  "updatedAt": "2022-10-14T16:56:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1101"
+}

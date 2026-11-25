@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While this could be an add-on, games often require a mature and maintained solution for this. Given the popularity of tools such as Wise and FMOD, it sounds like it should be better this is core.",
+    "format": "form",
+    "workaround": "Audio is low level."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 26,
+  "createdAt": "2021-10-06T19:14:28Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.x",
+  "number": 3394,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add procedural and parametrizable audio support",
+  "up": 147,
+  "updatedAt": "2025-01-21T02:13:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3394"
+}

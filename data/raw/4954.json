@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it's a very common need to have a Goap system, but it's extremely hard to learn for novice programmers. Having a core goap system, that is well documented, would be a plus to all godot developers, in my opinion. I'm actually already working on a c++ module implementation for Godot 4. All I need is feedback to see if the community wants this.",
+    "format": "form",
+    "workaround": "It's often the case where complex AI is needed, but implementation in GDscript can be cumbersome. So an integrated solution would be better."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2022-07-23T16:31:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4954,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add Goal Oriented Action Planning (Goap)",
+  "up": 13,
+  "updatedAt": "2023-03-07T03:52:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4954"
+}

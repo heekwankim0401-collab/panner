@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't be added as an add-on because I don't think add-ons can add shader hints.",
+    "format": "form",
+    "workaround": "No. Currently there is no way to do this without writing to screen texture, potentially losing custom information. You can work around this using viewports, however this is not an option for per material shaders that run using next pass."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-03-28T04:27:38Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12092,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `sampler2D hint_vertex_color_texture` to spatial shaders",
+  "up": 0,
+  "updatedAt": "2025-03-29T13:09:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12092"
+}

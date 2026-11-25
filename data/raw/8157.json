@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's about improving an already present editor feature",
+    "format": "form",
+    "workaround": "It would be used often I think."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-16T23:36:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8157,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the \"show toasts\" button dismiss all editor toasts",
+  "up": 1,
+  "updatedAt": "2023-10-16T23:56:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8157"
+}

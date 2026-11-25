@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Export is core.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-07-24T06:56:29Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 1248,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add missing export options for iOS app icons",
+  "up": 1,
+  "updatedAt": "2021-06-06T13:52:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1248"
+}

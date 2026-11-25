@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is one of the core UI building blocks, it is too small to be distributed as a plugin and it greatly complements the existing Container nodes.\n\nI have already implemented the feature on my own fork: https://github.com/UgisBrekis/godot/tree/AspectRatioContainer",
+    "format": "legacy",
+    "workaround": "This is not a highly complex feature, so it can be worked around with a few lines of code, however the aim for it is to complement existing set of Control nodes in order to remove the necessity to write any code."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-26T11:20:16Z",
+  "comments": 21,
+  "createdAt": "2019-09-14T20:57:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 69,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "New container type: Aspect Ratio Container",
+  "up": 30,
+  "updatedAt": "2020-11-26T11:44:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/69"
+}

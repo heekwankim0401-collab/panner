@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it just impoves functionality at virtually no cost.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-14T11:39:00Z",
+  "comments": 7,
+  "createdAt": "2025-10-04T12:27:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13335,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose number of points in Jolt Physics SoftBody3D (get_point_count())",
+  "up": 0,
+  "updatedAt": "2025-10-14T15:32:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13335"
+}

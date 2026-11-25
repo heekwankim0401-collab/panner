@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This requires a (small) addition to GDScript itself.",
+    "format": "form",
+    "workaround": "It is relatively simple to do the lazy loading via script, but it is the repetitiveness of implementing this workaround that leads me to make this proposal.\nThis enhancement is specifically intended to avoid large sections of boiler plate code and to promote good coding habits, by not scattering NodePaths around your game logic code.\n\nMost scripts separating NodePaths from game logic already use the `@onready` method of assigning nodes to variables, which can be done in a single line of code, but the even better (and for tool scripts necessary) way of doing this, by lazy loading, requires 5 lines (strictly speaking 4) for each variable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-06-09T17:39:10Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9935,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make lazy loading of nodes easier with a dedicated function or real callables as getters",
+  "up": 1,
+  "updatedAt": "2024-06-11T07:24:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9935"
+}

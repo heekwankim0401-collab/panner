@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Basic 3D editor functionality",
+    "format": "form",
+    "workaround": "The alternatives are to either click the viewport navigation widget on top right, or press the numpad keys. Neither of those are as fast. At the very least this would be a nice QOL addition since right now holding ALT doesn't do anything when you orbit"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-16T17:54:09Z",
+  "comments": 3,
+  "createdAt": "2023-11-23T08:02:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 8503,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add viewport orbit snapping to orthographic views while holding ALT",
+  "up": 48,
+  "updatedAt": "2025-10-16T17:54:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8503"
+}

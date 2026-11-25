@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core editor feature.",
+    "format": "legacy",
+    "workaround": "Will be used Often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 32,
+  "createdAt": "2020-09-14T00:05:31Z",
+  "down": 3,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1508,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify the editor panel docking system and make it more flexible",
+  "up": 59,
+  "updatedAt": "2025-05-06T14:46:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1508"
+}

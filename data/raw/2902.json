@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "The built-in curve editor cannot be changed otherwise"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-17T18:00:59Z",
+  "comments": 5,
+  "createdAt": "2021-06-22T20:21:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2902,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add more information for points in the 2D curve editor",
+  "up": 8,
+  "updatedAt": "2022-05-18T17:34:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2902"
+}

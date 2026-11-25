@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As above, it's a really small quality-of-life improvement and likely no one would care if it's in asset lib.",
+    "format": "form",
+    "workaround": "An editor plugin could be written to achieve the functionality, but it's too small a feature to worth people's time downloading it. A straight-forward implementation might be simply parsing gdscript and checking setter's lvalue."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-03T17:23:20Z",
+  "comments": 2,
+  "createdAt": "2025-10-03T14:27:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13330,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a warning when a setter doesn't set value to attached variable",
+  "up": 1,
+  "updatedAt": "2025-10-03T17:23:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13330"
+}

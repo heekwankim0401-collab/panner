@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is the basic functionality. The workaround implementation described above will be awkward whether you implement it yourself or find it in AssetLib.",
+    "format": "form",
+    "workaround": "You can ignore the `display/window` settings, display the background and `SubViewportContainer` in the root `Window` and implement the desired scaling logic. All content must be added to this `SubViewport` and not to the root of the scene tree. However, this is much less convenient, does not work well with autoloads and with the functionality of the editor (Run Current Scene (F6))."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-10-14T13:21:27Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5590,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to customize `Viewport` background",
+  "up": 15,
+  "updatedAt": "2026-04-04T05:04:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5590"
+}

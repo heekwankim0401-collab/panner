@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This increases the possibilities with the particles node and removes the limitation and work of having to create a unique shader for a single particle.",
+    "format": "form",
+    "workaround": "This can be done using shaders, but require extra work, knowledge about shading and has some limitations.\nI came across this [reddit post](https://www.reddit.com/r/godot/comments/m7ghar/make_2d_particles_use_local_rotation_but_not/) while looking for a solution that describes exactly the issue and the limitations it have."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-04-12T08:36:25Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4391,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Local Rotation property to Particles",
+  "up": 11,
+  "updatedAt": "2024-03-05T03:08:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4391"
+}

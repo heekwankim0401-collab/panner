@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "The problems I mentioned are flaws of the main 3D scene importer itself. I believe that these issues should be fixed directly, rather than via external add-ons.",
+    "format": "markdown",
+    "workaround": "Some individual usecases can be worked around with editor scripts, however these usually end up being the same across projects and really just indicate a flaw of the existing system."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-20T00:19:29Z",
+  "comments": 4,
+  "createdAt": "2021-02-05T12:48:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2246,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add new external 3D scene import hints to allow for better collision shape generation",
+  "up": 6,
+  "updatedAt": "2025-10-21T14:53:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2246"
+}

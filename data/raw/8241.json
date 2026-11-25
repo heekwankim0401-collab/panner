@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be useful to improve editor usability as it would allow inspector interfaces to show that parameters have different values or that they are the same in multiple selected nodes.",
+    "format": "form",
+    "workaround": "Yes, you can make your own checkbox wrapper node quite easily."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-10-23T20:45:40Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8241,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add mixed state to Checkbox (and perhaps other controls)",
+  "up": 13,
+  "updatedAt": "2026-06-29T16:21:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8241"
+}

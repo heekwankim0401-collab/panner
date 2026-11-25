@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-28T10:49:13Z",
+  "comments": 4,
+  "createdAt": "2026-06-25T13:43:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 15080,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a virtual method for translation to `Resource` and make it selectable by default for POT generation.",
+  "up": 0,
+  "updatedAt": "2026-06-28T11:02:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15080"
+}

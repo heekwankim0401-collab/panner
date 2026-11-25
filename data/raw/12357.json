@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It really improves usability of the editor",
+    "format": "form",
+    "workaround": "Probably it is possible with EditorPlugin, but I'm not sure if a plugin can modify **all** editor popups"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-03T11:45:25Z",
+  "comments": 6,
+  "createdAt": "2025-05-03T08:59:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12357,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add property for swapping Ok/Cancel sides of confirmation dialog to `EditorSettings`",
+  "up": 0,
+  "updatedAt": "2025-05-03T13:02:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12357"
+}

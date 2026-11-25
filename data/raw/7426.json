@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving InputEvent.as_text(), a core feature.",
+    "format": "form",
+    "workaround": "As this is a translation proposal that involves modifying features, third-party solutions and project-specific workarounds are invalid."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-31T21:44:24Z",
+  "comments": 5,
+  "createdAt": "2023-07-31T20:07:32Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7426,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "InputEvent.as_text() only provides the event text in English. Let's provide a means of obtaining translated text.",
+  "up": 1,
+  "updatedAt": "2023-07-31T21:56:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7426"
+}

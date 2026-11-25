@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I feel like this can be a very common and useful pattern, so implementing it in the core will encourage people to write better segmented code in the long run",
+    "format": "form",
+    "workaround": "This could theoretically be done with an editor plugin, but the signal inspector has to be reworked to display these special signals because they can only be connected to one target, unlike regular signals."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-21T23:53:25Z",
+  "comments": 2,
+  "createdAt": "2022-09-04T05:11:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5322,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Introduce External Method Calls",
+  "up": 0,
+  "updatedAt": "2022-09-22T00:36:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5322"
+}

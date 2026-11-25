@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "its core of the lighting system",
+    "format": "form",
+    "workaround": "i dont think so, if theres a way of doing this within a GDScript then i would like to know"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-17T15:00:18Z",
+  "comments": 0,
+  "createdAt": "2024-06-17T11:35:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9987,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Perhaps Reflective Shadow Maps (RMS) could be a good way of implementing Global Illumination in real-time? ",
+  "up": 0,
+  "updatedAt": "2024-06-17T15:01:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9987"
+}

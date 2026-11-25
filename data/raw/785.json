@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I 2 figuring out why doesn't it work before I found out Godot can't read normal maps as it should.\n\nHere I linked how the normal map looks when rendered in blender. Godot reads it upside down.\n\n![Normal](https://user-images.githubusercontent.com/33268307/80864569-d9bf0380-8c83-11ea-933c-9305055bb228.png)",
+    "format": "legacy",
+    "workaround": "Not to my knowledge. I had to flip green channel in image editor."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-05T11:35:39Z",
+  "comments": 3,
+  "createdAt": "2020-05-02T12:50:17Z",
+  "down": 0,
+  "labels": [
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 785,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an import option to make Godot read a normal map with inverted Y axis",
+  "up": 4,
+  "updatedAt": "2021-06-05T11:36:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/785"
+}

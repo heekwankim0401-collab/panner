@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a universal QoL improvement to one of the core features of the Godot engine and IDE.",
+    "format": "legacy",
+    "workaround": "It can easily be worked around if the developer knows upfront that they will need to extend the scene with new logic, but often that requirement reveals itself later after many script variables have already been tweaked and perfected, at which point it is painful to change."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-03-15T00:01:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 586,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Retain exported variable values when extending the script on an existing node",
+  "up": 8,
+  "updatedAt": "2021-03-08T18:47:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/586"
+}

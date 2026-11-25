@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "A LOD system is a core part of a stable and feature-packed engine, it enables to work on a major variaty of game compared to now.",
+    "format": "form",
+    "workaround": "As said before it could be accomplish with MeshInstance and a script, but the result is extremely inefficent."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-22T14:28:59Z",
+  "comments": 4,
+  "createdAt": "2023-12-22T00:48:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8712,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add LOD for Godot 3.x branch",
+  "up": 1,
+  "updatedAt": "2023-12-22T15:34:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8712"
+}

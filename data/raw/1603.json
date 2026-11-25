@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It makes sense for it to be in the scripting languages as a core feature.",
+    "format": "legacy",
+    "workaround": "it can be worked around in 2 lines of code, however for people debugging arrays and dictionaries it'd be just as useful as print tree pretty is for debugging the scene tree."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-03T09:34:25Z",
+  "comments": 1,
+  "createdAt": "2020-10-03T09:10:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1603,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "List Printing",
+  "up": 0,
+  "updatedAt": "2020-10-03T09:34:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1603"
+}

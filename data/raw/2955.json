@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "It might be doable with an import plugin, but this is about improving usability and performance."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-07-07T13:42:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.x",
+  "number": 2955,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use ORMMaterial3D when relevant in the glTF importer",
+  "up": 5,
+  "updatedAt": "2023-09-28T12:25:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2955"
+}

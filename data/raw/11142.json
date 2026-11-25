@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires modification of the source code.\n\n\n> [!NOTE]\n> This proposal has been created after feedback from the Rendering Development Meeting on 12th November.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-11-12T20:35:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11142,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Replacing Rendering components from GDExtension",
+  "up": 16,
+  "updatedAt": "2024-11-26T12:14:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11142"
+}

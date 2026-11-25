@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because `$` is in the core.",
+    "format": "form",
+    "workaround": "Use `get_node()` instead."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-10T14:20:38Z",
+  "comments": 9,
+  "createdAt": "2021-10-28T17:21:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 3476,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow using `$/root` node paths without having to quote them in GDScript",
+  "up": 1,
+  "updatedAt": "2021-11-10T14:20:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3476"
+}

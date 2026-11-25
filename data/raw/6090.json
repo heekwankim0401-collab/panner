@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improves version control for games made with the engine.",
+    "format": "form",
+    "workaround": "It *could* be a module or editor plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-13T20:04:28Z",
+  "comments": 2,
+  "createdAt": "2023-01-13T19:19:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6090,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add commit/engine version to project.godot",
+  "up": 0,
+  "updatedAt": "2023-01-13T20:22:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6090"
+}

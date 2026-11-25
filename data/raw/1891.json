@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it doesn't seem to be possible to do right now",
+    "format": "legacy",
+    "workaround": "I am not sure what it could be used for other then networking but it doesn't seem to be possible to do right now."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T19:36:33Z",
+  "comments": 9,
+  "createdAt": "2020-11-25T00:18:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1891,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to detect editor changes in plugins",
+  "up": 0,
+  "updatedAt": "2024-01-01T16:18:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1891"
+}

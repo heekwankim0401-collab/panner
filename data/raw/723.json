@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The conversion from lux/luminance to Godot units could be done in an editor-plugin, however, the falloff curve is embedded deep inside the scene shaders. In order to support both properly, we need to edit the engine itself. \n\n##### User questions\n1. Would it be preferable to only use physcial light units and remove Godot units altogether?\n2. Do users prefer a ProjectSetting, or a setting on a per-light basis?",
+    "format": "legacy",
+    "workaround": "It can't be worked around in script."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-24T21:41:45Z",
+  "comments": 20,
+  "createdAt": "2020-04-17T20:20:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 723,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement support for physical light quantity (lumens/lux)",
+  "up": 44,
+  "updatedAt": "2022-09-19T02:27:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/723"
+}

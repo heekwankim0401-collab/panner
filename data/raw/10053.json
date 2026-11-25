@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be part of the Vector3 and Vector2 functions.",
+    "format": "form",
+    "workaround": "Absolutely, but this would be convenient."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-27T10:15:10Z",
+  "comments": 2,
+  "createdAt": "2024-06-27T10:11:16Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10053,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Simple function to convert a float into a Vector2 or Vector3",
+  "up": 0,
+  "updatedAt": "2024-06-27T10:20:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10053"
+}

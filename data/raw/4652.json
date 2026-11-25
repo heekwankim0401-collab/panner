@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Importing models and materials is core to creating a 3D game. It may be possible to use an add-on, but is more accessible if this is just an optional setting built into the Godot importer. I think that workflow benefits like this have the ability to affect any 3D game since material sharing can be used in a variety of ways: i.e. materials used as color palettes, shared materials in low poly games, trim sheet materials in higher res games, etc.",
+    "format": "form",
+    "workaround": "I think this might be possible using a custom script when importing, but I have not learned enough about that yet."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-06-10T13:57:24Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4652,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow importing materials from a glTF scene to a specific folder",
+  "up": 12,
+  "updatedAt": "2022-11-06T01:24:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4652"
+}

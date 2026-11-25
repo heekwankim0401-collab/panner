@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core type of tile-creating used for top-down 2D games.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-02-13T14:20:53Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2283,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Wang Corner-Tiles support for Autotile",
+  "up": 6,
+  "updatedAt": "2022-06-10T09:55:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2283"
+}

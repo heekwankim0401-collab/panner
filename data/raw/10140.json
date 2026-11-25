@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Godot's mobile editor is (From what I can tell) just the PC editor, ported to android. This makes it a slog to use on a phone. These changes should, in theory, make creating games with a phone MUCH easier out of the box. Also, I'm not entirely sure how an addon could change godot's UI so drastically.",
+    "format": "form",
+    "workaround": "Maybe. Depending on how it is implemented, it could be a toggle in editor settings."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T08:21:53Z",
+  "comments": 2,
+  "createdAt": "2024-07-07T11:51:52Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10140,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Overhaul the editor UI on mobile to be more touch-friendly",
+  "up": 7,
+  "updatedAt": "2026-01-28T17:18:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10140"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It already exists in the 3D editor, this just makes sense for parity.",
+    "format": "form",
+    "workaround": "This would be used often, at least by people who prefer the Blender-style controls."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-04T16:40:50Z",
+  "comments": 1,
+  "createdAt": "2024-11-04T16:15:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11090,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Extend Blender-style transformation controls to 2D editor",
+  "up": 1,
+  "updatedAt": "2024-11-04T16:40:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11090"
+}

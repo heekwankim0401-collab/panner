@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-10-28T15:10:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15710,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow directories to be visible in the FileSystem Dock without importing their contents",
+  "up": 1,
+  "updatedAt": "2026-10-29T15:43:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15710"
+}

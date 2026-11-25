@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this is a quality-of-life feature that is very useful for intermediate computer users,\nthat i expected to already be in Godot because [this text in Godot docs](https://docs.godotengine.org/en/stable/tutorials/scripting/filesystem.html#project-godot) implies it's there:\n\n> Even an empty ``project.godot`` can function as a basic definition of a blank project.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-06-21T10:16:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7131,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show the project creation dialog when opening an empty `project.godot` file",
+  "up": 0,
+  "updatedAt": "2024-11-17T18:48:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7131"
+}

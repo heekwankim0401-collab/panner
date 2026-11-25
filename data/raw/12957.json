@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AudioStreamPlaybackInteractive is a core component.",
+    "format": "form",
+    "workaround": "No, not to my knowledge."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-08-06T23:27:39Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 12957,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make AudioStreamInteractive clips switchable when nested inside other AudioStreams",
+  "up": 2,
+  "updatedAt": "2025-08-24T13:47:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12957"
+}

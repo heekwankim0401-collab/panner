@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`MultiplayerSynchronizer` is already core",
+    "format": "form",
+    "workaround": "```gdscript\n@export var player: Node\n\nvar player_path: NodePath:\n\tset(value):\n\t\tplayer = get_node_or_null(value)\n\tget:\n\t\treturn player.get_path() if player != null else NodePath()\n```\n\nIssues with this workaround though:\n\n1) Requires another ~5 messy lines of code.\n2) For compatibility with https://github.com/godotengine/godot-proposals/issues/4429, the workaround will either:\n    - Not work at all because `player_path`'s value never actually changes.\n    - Work, but be non-optimal because the getter for `player_path` has a logical branch and calls `get_path` every time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-06-30T20:34:13Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4787,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "`MultiplayerSynchronizer` - Add ability to sync node references",
+  "up": 13,
+  "updatedAt": "2022-06-30T21:03:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4787"
+}

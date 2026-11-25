@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature improves the core user experience for Android export, which is a major use case for Godot users. Having it built into the editor ensures a smoother setup for all users, especially newcomers, and reduces support overhead. It aligns with Godot’s goal of making game development accessible and easy out of the box.",
+    "format": "form",
+    "workaround": "It is technically possible to write a plugin that automates Android setup, but it would still require manual downloads and path configurations. This is not ideal for beginners, and the process remains confusing and error-prone without deeper knowledge."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-24T23:15:24Z",
+  "comments": 2,
+  "createdAt": "2025-07-22T05:31:12Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.8",
+  "number": 12830,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a One-Click Installer for Android Export Requirements in the Editor",
+  "up": 4,
+  "updatedAt": "2026-08-24T23:16:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12830"
+}

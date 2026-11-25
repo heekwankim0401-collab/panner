@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is to speed up a workflow and I'm not sure how to implement it as an add-on.",
+    "format": "form",
+    "workaround": "I tried searching but I didn't find a way for a plugin to add entries to Filesystem's right-click menu"
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-07T13:03:02Z",
+  "comments": 0,
+  "createdAt": "2023-02-19T17:10:20Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.2",
+  "number": 6320,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose 'Reimport' on right-click context menu in the FileSystem panel",
+  "up": 5,
+  "updatedAt": "2023-08-07T13:03:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6320"
+}

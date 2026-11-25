@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is similar to the nil issue and solved in some way that is always beneficial and never technically disadvantageous.",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-10-26T08:43:54Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1729,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `Node.get_node()` pause editor execution if it can't find the node",
+  "up": 1,
+  "updatedAt": "2021-07-28T10:13:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1729"
+}

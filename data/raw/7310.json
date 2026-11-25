@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a miniscule quality of life feature.",
+    "format": "form",
+    "workaround": "Even if it is small paper cut, It would save hours when using custom drawing functions.\nIt can be worked around with few letters, not even lines."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-18T11:02:07Z",
+  "comments": 2,
+  "createdAt": "2023-07-17T22:17:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7310,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make Color(1,1,1,1) default value of color arguments of custom drawing functions whenever applicable.",
+  "up": 9,
+  "updatedAt": "2026-07-19T07:54:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7310"
+}

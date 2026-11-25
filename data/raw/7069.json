@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's already core, it's just about changing the default.",
+    "format": "form",
+    "workaround": "Basically everyone must change the setting in the input map."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-02T13:27:49Z",
+  "comments": 11,
+  "createdAt": "2023-06-12T11:58:06Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.4",
+  "number": 7069,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Decrease the default deadzone value for actions to better match real world use cases",
+  "up": 11,
+  "updatedAt": "2025-03-01T12:24:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7069"
+}

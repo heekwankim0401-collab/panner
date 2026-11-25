@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This could not be a small system. I have trying to made it myself right now. But I wish godot would accept this into official engine. So I don't need to reinvent the wheel or using the most efficient route godot could provide internally, instead of me trying to hack things around inefficiently",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-25T23:27:27Z",
+  "comments": 4,
+  "createdAt": "2020-10-25T14:06:59Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": "3.x",
+  "number": 1723,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve interoperability with JavaScript",
+  "up": 0,
+  "updatedAt": "2021-12-25T23:27:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1723"
+}

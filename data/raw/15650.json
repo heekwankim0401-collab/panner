@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-10-15T07:58:38Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 15650,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Input.get_action_strength()` support for VirtualJoystick",
+  "up": 2,
+  "updatedAt": "2026-11-13T14:53:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15650"
+}

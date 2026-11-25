@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core change to the `Timer` node.",
+    "format": "markdown",
+    "workaround": "No.\nHowever, if the user does not have Vsync enabled, then they probably won't even discover this limitation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-05-17T14:01:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2734,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `subframe_timeout_enabled` property to `Timer` node",
+  "up": 0,
+  "updatedAt": "2021-05-17T17:24:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2734"
+}

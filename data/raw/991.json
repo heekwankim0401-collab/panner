@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about platform code, which is core.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-01T15:08:42Z",
+  "comments": 8,
+  "createdAt": "2020-06-02T09:34:16Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 991,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add headless / server mode support to all platforms as a DisplayServer",
+  "up": 27,
+  "updatedAt": "2021-06-01T15:08:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/991"
+}

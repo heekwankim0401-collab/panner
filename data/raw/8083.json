@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a reworking of the core feature",
+    "format": "form",
+    "workaround": "NEVER"
+  },
+  "assignees": 1,
+  "closedAt": "2024-03-24T00:29:01Z",
+  "comments": 1,
+  "createdAt": "2023-10-12T15:18:19Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.3",
+  "number": 8083,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make each AnimationNode have time information to retrieve time semantically and make it can be passed bidirectional",
+  "up": 0,
+  "updatedAt": "2024-03-24T00:29:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8083"
+}

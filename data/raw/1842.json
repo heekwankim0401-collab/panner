@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "related to GDScript syntax",
+    "format": "legacy",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-04T15:29:24Z",
+  "comments": 38,
+  "createdAt": "2020-11-15T19:36:24Z",
+  "down": 12,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 1842,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove the `class_name` keyword and use only `class`",
+  "up": 13,
+  "updatedAt": "2023-11-11T12:32:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1842"
+}

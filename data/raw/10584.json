@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It shoud be core.\n\n\nTest Project: [IkTest.zip](https://github.com/user-attachments/files/16794975/IkTest.zip)",
+    "format": "form",
+    "workaround": "no, i can't a way to impliment this."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-31T03:25:12Z",
+  "comments": 7,
+  "createdAt": "2024-08-29T03:11:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 10584,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a option for SkeletonIK3D can calculate IK after set_bone_pose",
+  "up": 0,
+  "updatedAt": "2024-09-06T00:15:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10584"
+}

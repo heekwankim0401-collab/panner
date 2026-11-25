@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This must be part of the core because it is directly related to the editor.",
+    "format": "legacy",
+    "workaround": "This must be integrated into the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-26T22:18:59Z",
+  "comments": 2,
+  "createdAt": "2020-05-28T21:22:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 951,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Output and Debugger visible when using script editor in distraction-free mode",
+  "up": 1,
+  "updatedAt": "2020-08-05T07:50:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/951"
+}

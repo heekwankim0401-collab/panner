@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is currently a major usability issue in Godot, un-adressed hole in the user experience and something likely even simple projects face.",
+    "format": "form",
+    "workaround": "No this proposal requires to add new selection tool, possibly extend Sprite2D to hide when the game is Run.\nThat is already non-trivial amount of code, especially if you realize it's boilerplate you have to do each project.\nIt would require custom editor plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-18T11:01:36Z",
+  "comments": 7,
+  "createdAt": "2024-11-06T18:23:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11105,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement LogicNode",
+  "up": 1,
+  "updatedAt": "2026-07-19T07:54:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11105"
+}

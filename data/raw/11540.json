@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "1. this issue pertains to rendering.\n2. as its a single checkbox from the user's perspective, it wouldn't cause any confusion, and could be easily ignored by anyone who doesn't need it (the same way most people ignore \"Negative\" lights until they need them).",
+    "format": "form",
+    "workaround": "as previously mentioned, a user-side ShaderMaterial based approach is insufficient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-01-11T16:10:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11540,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an \"Invert Shadow Attenuation\" option to Light3D nodes",
+  "up": 1,
+  "updatedAt": "2026-09-02T17:02:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11540"
+}

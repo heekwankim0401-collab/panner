@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Editor functionality.",
+    "format": "form",
+    "workaround": "Only by loading the resource and checking for type, or reading the first line of a **non-binary** resource and manually checking for the `script_class` text."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-22T17:08:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 11216,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `EditorFileSystemDirectory.get_file_resource_script_class()` to scripting",
+  "up": 3,
+  "updatedAt": "2024-11-22T23:02:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11216"
+}

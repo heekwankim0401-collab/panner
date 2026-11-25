@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "If the unofficial flatpak breaks, bug reports are likely to come to godot directly even if they are within the flatpak. Rather than redirecting to the flatpak we should make the current limitations clear and attempt to fix them upstream where more people might be able to help.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-03-19T16:14:32Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12024,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the Godot Flatpak an official Godot distribution",
+  "up": 1,
+  "updatedAt": "2026-09-13T21:37:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12024"
+}

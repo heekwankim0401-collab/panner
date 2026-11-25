@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it's possible to make a plugin that calculates the current match index and adds it to the label with number of all results, but I don't think it will work well in all cases",
+    "format": "legacy",
+    "workaround": "no, it can't"
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-24T19:01:40Z",
+  "comments": 1,
+  "createdAt": "2020-09-24T18:52:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1563,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show current match index in Search-Find results",
+  "up": 0,
+  "updatedAt": "2020-09-25T11:42:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1563"
+}

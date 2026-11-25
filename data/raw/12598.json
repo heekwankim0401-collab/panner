@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because this feature requires changes from the core to work (Display multiple scenes in the viewport and able to select one to edit, and write to the tscn file directly)",
+    "format": "form",
+    "workaround": "This should be used often in larger projects. No it can't be worked around easily."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-06-13T08:49:31Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12598,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement scene layers",
+  "up": 0,
+  "updatedAt": "2025-09-25T11:59:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12598"
+}

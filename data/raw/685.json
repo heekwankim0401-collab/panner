@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature will help a lot of beginners (and maybe even advanced users) to achieve the desired functionality without having to make really complicated code as a work around.",
+    "format": "legacy",
+    "workaround": "It can be worked around with complicated code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2020-04-09T10:59:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 685,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Send signal when Camera2D reaches Limit (left, top, right, bottom)",
+  "up": 5,
+  "updatedAt": "2025-02-09T03:36:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/685"
+}

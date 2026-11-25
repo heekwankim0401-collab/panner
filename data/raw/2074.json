@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Importing an add-on for this would be comparable to the amount of work required to do it in the first place. This aims to solve a papercut, like [#42976 ](https://github.com/godotengine/godot/pull/42976)did.\n\n*Bugsquad edit, search terms: move_towards_angle*",
+    "format": "markdown",
+    "workaround": "It wouldn't be hard to write around with scripts, but it would be easy to get subtly wrong, and would potentially have to be repeated in many file throughout a project.,"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-02T11:20:59Z",
+  "comments": 6,
+  "createdAt": "2021-01-04T23:51:51Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.2",
+  "number": 2074,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add angular analogs of `move_toward()`",
+  "up": 19,
+  "updatedAt": "2023-10-02T11:20:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2074"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. This belongs in core because it fixes a limitation of an existing built in node.",
+    "format": "form",
+    "workaround": "Yes, it can be worked around, but the workaround is not a proper solution.\nIt can be made using two blend2 nodes ( filters turned on ) with rearranging"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-22T12:10:56Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 13683,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add bone filter support to AnimationTree Blend3 node",
+  "up": 0,
+  "updatedAt": "2025-11-23T13:42:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13683"
+}

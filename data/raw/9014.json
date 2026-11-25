@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think there is a way to programmatically create Input Map entries, but if that is possible then it could be a plugin.",
+    "format": "form",
+    "workaround": "It can be worked around by copy/pasting the Input Map section of the project.godot file."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-02T20:19:17Z",
+  "comments": 1,
+  "createdAt": "2024-02-02T20:15:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 9014,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add ability to save/load Inputmap profiles",
+  "up": 0,
+  "updatedAt": "2024-02-02T20:20:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9014"
+}

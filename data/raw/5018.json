@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Drastically Improves Core Rendering.",
+    "format": "form",
+    "workaround": "Yes, but you have to create a shader for each material."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-17T16:10:42Z",
+  "comments": 11,
+  "createdAt": "2022-07-30T11:40:32Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5018,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Improve Ambient Light Rendering",
+  "up": 2,
+  "updatedAt": "2023-01-17T18:08:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5018"
+}

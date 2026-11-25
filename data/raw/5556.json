@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is to do with gdscript itself.",
+    "format": "form",
+    "workaround": "I just thought it would be convenient to have this functionality, and the \"few lines of code\" starts to add up if this basic functionality is needed for multiple functions."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-08T09:59:15Z",
+  "comments": 3,
+  "createdAt": "2022-10-08T00:00:10Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5556,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for yielding upon a `call_deferred()` call. ",
+  "up": 0,
+  "updatedAt": "2022-10-08T16:33:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5556"
+}

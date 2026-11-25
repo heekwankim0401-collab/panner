@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a modification to have 3rd party scripting language as add-on",
+    "format": "form",
+    "workaround": "This is a core change"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-27T17:01:14Z",
+  "comments": 12,
+  "createdAt": "2022-02-06T21:46:56Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": "4.0",
+  "number": 3927,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Script language support GDExtension ",
+  "up": 25,
+  "updatedAt": "2022-03-28T12:30:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3927"
+}

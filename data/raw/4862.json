@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Documentation is part of the editor",
+    "format": "form",
+    "workaround": "Cannot be worked around in script"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-07-12T13:25:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4862,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "\"Open Documentation\" should open the script documentation if applicable",
+  "up": 9,
+  "updatedAt": "2026-10-11T20:51:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4862"
+}

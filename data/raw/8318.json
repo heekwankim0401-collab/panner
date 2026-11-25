@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since this touches on a limitation in core functionality, it should also be considered for core.",
+    "format": "form",
+    "workaround": "I can think of a few workarounds (shrinking the collision shape slightly, using a script to offset the sprites, offsetting the camera by a half pixel), though these can be awkward to deal with, and I feel like this issue would be prevalent enough that having to constantly apply workarounds would be obnoxious."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-09T19:20:00Z",
+  "comments": 5,
+  "createdAt": "2023-10-31T20:15:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 8318,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to snap 2D transforms to rounded pixel (instead of using floor)",
+  "up": 0,
+  "updatedAt": "2025-11-11T00:11:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8318"
+}

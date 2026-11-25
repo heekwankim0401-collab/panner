@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The engine doesn't expose the necessary classes and methods to implement this feature on the user side.",
+    "format": "form",
+    "workaround": "Not to my knowledge, at least when it comes to save additional data on any kind of imported resource. The overall goal I want to achieve (the attribution system) can be implemented in lots of ways that don't need this particular feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-19T08:45:12Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9555,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support persistent metadata on imported resources",
+  "up": 8,
+  "updatedAt": "2025-10-05T14:23:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9555"
+}

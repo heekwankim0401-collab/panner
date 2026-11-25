@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be an easy fix, and a logical addition. The current system is flawed for not having this.",
+    "format": "legacy",
+    "workaround": "It will most definitely be used often because it is essential and absolutely logical to have"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-07-07T18:25:36Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1170,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to un-center offset (origin) on collision shape rectangle",
+  "up": 25,
+  "updatedAt": "2026-03-05T17:25:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1170"
+}

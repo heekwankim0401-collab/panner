@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "1.  **Core Feature Reusability:** The difficult part of this feature (the Gizmo interaction logic) is already in Core. An addon cannot easily \"borrow\" the internal C++ gizmo logic of `CollisionShape3D`. It would have to reimplement the math and drawing code for handle interactions from scratch.\n2.  **Fundamental Use Case:** Defining abstract spatial volumes is a fundamental requirement for 3D game development (Triggers, Spawners, AI), just as fundamental as defining collision. It shouldn't require a hacky workaround involving physics nodes.",
+    "format": "form",
+    "workaround": "It **can** be worked around, but the experience is poor.\nWriting a script to hold a `Shape3D` is easy. However, **replicating the interactive editor gizmos** (the drag handles) requires writing a complex `EditorNode3DGizmoPlugin` in C++.\n\nReimplementing the drag-handle logic for every shape type (Box, Sphere, Capsule, Cylinder) in a user script or plugin is a massive duplication of effort, considering this logic already exists in the engine core for `CollisionShape3D`."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-16T20:14:53Z",
+  "comments": 7,
+  "createdAt": "2025-12-13T08:39:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 13852,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow standalone usage of Shape3D definition nodes with full editor gizmo support",
+  "up": 6,
+  "updatedAt": "2026-11-24T17:35:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13852"
+}

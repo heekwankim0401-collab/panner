@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-07T11:36:04Z",
+  "comments": 9,
+  "createdAt": "2026-07-06T17:13:28Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 15139,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow narrowing type overrides when extending classes",
+  "up": 0,
+  "updatedAt": "2026-07-07T13:29:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15139"
+}

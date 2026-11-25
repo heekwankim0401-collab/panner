@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Debugging is very common for users so it's worth making it show a more detailed info like class name. I wish I can make a plugin, but need the bug to be fixed during which the new feature of the proposal may be added too thus we don't need to develop an extra plugin.",
+    "format": "form",
+    "workaround": "Maybe, I'm trying to make a plugin but there is a bug in the :\nhttps://github.com/godotengine/godot/blob/61598c5c88d95b96811d386cb20d714c35f4c6d7/editor/debugger/editor_debugger_inspector.cpp#L71\nand\nhttps://github.com/godotengine/godot/blob/61598c5c88d95b96811d386cb20d714c35f4c6d7/editor/debugger/editor_debugger_inspector.h#L51\nSo I can't get the inspected object."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-16T11:57:46Z",
+  "comments": 1,
+  "createdAt": "2024-08-31T11:19:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10616,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add class name of the debugged Object in the inspector",
+  "up": 1,
+  "updatedAt": "2026-03-16T11:57:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10616"
+}

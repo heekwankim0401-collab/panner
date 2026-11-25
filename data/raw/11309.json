@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This enhancement needs to be part of the core because It directly interfaces with Godot's Android runtime and export templates. Android developers will benefit from this feature, especially for UI and input-heavy games. Core support ensures optimal performance and usability, which an add-on might not achieve.",
+    "format": "form",
+    "workaround": "No, this feature requires core changes to the Android runtime, including the creation of a separate pop-up environment with customizable dimensions. While scripts can implement some debugging tools, they cannot replicate the behavior of an actual Android pop-up window."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-11T15:16:49Z",
+  "comments": 3,
+  "createdAt": "2024-12-07T10:47:36Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 11309,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an editor setting to automatically make the game window floating when running a project on Android",
+  "up": 1,
+  "updatedAt": "2025-02-11T15:17:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11309"
+}

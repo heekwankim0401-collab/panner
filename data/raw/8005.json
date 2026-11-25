@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It involves the GDScript parser and other engine parts that can't easily be modified with an add-on.",
+    "format": "form",
+    "workaround": "I work around this by using _get_property_list() and related properties and emulating an array by actually defining multiple properties as prefix_i where i is the index of the array. It's not... pretty, and it's definitely convoluted, so official support for this would definitely be appreciated."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-06T08:51:42Z",
+  "comments": 3,
+  "createdAt": "2023-10-06T12:41:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.3",
+  "number": 8005,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow @exported Arrays to set property hints for its elements",
+  "up": 14,
+  "updatedAt": "2024-03-06T08:58:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8005"
+}

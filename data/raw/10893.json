@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Game&nbsp;Jolt and especially itch being popular platforms for beginner&nbsp;developers to self&#x2011;publish their games, the error of these websites not accepting the web&nbsp;export becuse the HTML&nbsp;file at the root is not named index.html is encountered by every beginner.\nto make their experience as smooth as possible, this error should be prevented by default.",
+    "format": "form",
+    "workaround": "this is commonly worked around by renaming the HTML file manually or with a shell script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-10-04T06:04:15Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 10893,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Web export: Rename the HTML file to index.html on export",
+  "up": 11,
+  "updatedAt": "2026-04-29T12:26:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10893"
+}

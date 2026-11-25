@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this is possible with an add-on.",
+    "format": "legacy",
+    "workaround": "I don't think this is possible with script."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-04T13:09:59Z",
+  "comments": 4,
+  "createdAt": "2020-05-03T20:36:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 796,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow drag-and-drop of Script files onto exported Script variables",
+  "up": 2,
+  "updatedAt": "2020-05-04T14:46:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/796"
+}

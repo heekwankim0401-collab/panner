@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This improves the usability of NavigationMeshes out of the box for a common problem.",
+    "format": "form",
+    "workaround": "This can't be worked around in a few lines of script, but there are work arounds.\n\nFor my scenario, I'll probably resort to spawning doors in an open state without the door mesh visible or having a collision shape. Then generate the navmesh, and then eventually close the doors.\n\nFolks can also probably use \"Source Geometry Mode: Group Explicit\" and add groups with more fine tuned control, but this gets very time consuming and tedious with complex scenes."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-18T20:56:09Z",
+  "comments": 3,
+  "createdAt": "2024-03-20T21:45:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 9347,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add NavigationMesh source geometry group excluding",
+  "up": 1,
+  "updatedAt": "2025-03-19T15:46:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9347"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-11T01:53:17Z",
+  "comments": 0,
+  "createdAt": "2024-06-30T11:12:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10081,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose RenderingDevice::get_context_driver()",
+  "up": 0,
+  "updatedAt": "2024-09-23T21:25:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10081"
+}

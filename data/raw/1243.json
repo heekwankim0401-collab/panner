@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The implementation is in core.",
+    "format": "legacy",
+    "workaround": "The physics engine simulation time scale can not be changed except for changing Engine.time_scale, which also effects everything else."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2020-07-23T10:21:13Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1243,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add a way to set a separate time scale for the physics simulation",
+  "up": 6,
+  "updatedAt": "2026-10-01T07:40:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1243"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improves terrain painting workflow in almost all instances.",
+    "format": "form",
+    "workaround": "The user can select \"No terrain\" in the drop down menum make the changes they want and then reselect the terrain they were previously using."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-30T15:51:08Z",
+  "comments": 2,
+  "createdAt": "2022-01-26T20:49:52Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3873,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make right click clear terrain paint in the new TileSet editor",
+  "up": 7,
+  "updatedAt": "2022-09-30T15:51:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3873"
+}

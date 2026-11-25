@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure how common of a problem it is, but it's gotten me more than once.\nIf `class_name` didn't automatically add the class to the `Add Child Node` dialog, this would be less of an issue.\nIf that were the case, an `@in_editor` annotation could be added before `class_name` to make it appear under `Add Child Node`.\n\nRelated: https://github.com/godotengine/godot-proposals/issues/1047",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-12T13:56:16Z",
+  "comments": 6,
+  "createdAt": "2021-08-07T16:21:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3101,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show popup message when selecting custom class with `Add Child Node`",
+  "up": 0,
+  "updatedAt": "2021-08-12T16:15:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3101"
+}

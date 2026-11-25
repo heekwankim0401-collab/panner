@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a pretty useful feature in a lot of games with path finding. Plus the information is already there/implemented in Godot, it just needs to be returned.",
+    "format": "form",
+    "workaround": "It's extremely slow to do it in gdscript, but yes you can theoretically reimplement the API that already exists to pull it off."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-01-15T19:57:48Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 11573,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add AStar2D/AStar3D methods to get the nearest segment point IDs and normal",
+  "up": 4,
+  "updatedAt": "2026-06-04T04:16:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11573"
+}

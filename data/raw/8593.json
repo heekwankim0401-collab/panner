@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "I don't see how this can be workarounded within the current design"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-06T12:16:40Z",
+  "comments": 2,
+  "createdAt": "2023-12-06T07:54:50Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8593,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Using LSP for GDScript with 2 different projects at once is impossible",
+  "up": 2,
+  "updatedAt": "2023-12-08T15:00:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8593"
+}

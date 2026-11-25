@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving editor usability, but also the usability of projects using drag-and-drop functionality (mainly non-game applications made with Godot).",
+    "format": "form",
+    "workaround": "This is probably already feasible with a script, but it won't affect the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-11T15:50:01Z",
+  "comments": 0,
+  "createdAt": "2022-06-16T16:52:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 4679,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Cancel the current drag-and-drop operation when pressing Escape while dragging something",
+  "up": 14,
+  "updatedAt": "2022-11-11T15:50:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4679"
+}

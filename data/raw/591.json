@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems impossible to load the `.notdef` glyph through GDScript.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-16T05:27:32Z",
+  "comments": 2,
+  "createdAt": "2020-03-17T03:11:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 591,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display placeholder for missing glyphs",
+  "up": 2,
+  "updatedAt": "2021-05-16T05:27:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/591"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should be part of the core.\nBecause it's unlikely that someone will look for such a common functionality from an add-on.",
+    "format": "form",
+    "workaround": "It will probably be used whenever someone is navigating up/down in the Input Map,\nand want to rename an action.\n\nI don't know how many lines it will take to work around or fix it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-12-20T11:50:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 3700,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add F2 to rename a user action in the Input Map",
+  "up": 0,
+  "updatedAt": "2025-11-17T19:29:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3700"
+}

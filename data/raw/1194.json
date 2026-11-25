@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having it as an addon would make it less accessible, and integrating it into Godot would probably allow it to run better.",
+    "format": "legacy",
+    "workaround": "No, it is rather complicated as it requires knowing which tile is which, and which tile to do it what case of what tile to use, and would be inefficient to run every frame."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-07-14T17:50:16Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1194,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a new type of autotiling to TileSet/TileMap",
+  "up": 0,
+  "updatedAt": "2020-07-15T08:02:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1194"
+}

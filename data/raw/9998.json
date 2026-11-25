@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not sure if possible through addon, also it kinda just exposes an existing feature to more use cases.",
+    "format": "form",
+    "workaround": "No, not efficiently"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-06-18T20:19:19Z",
+  "down": 0,
+  "labels": [
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9998,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Allow importing textures with gaussian blurred mipmaps",
+  "up": 8,
+  "updatedAt": "2025-12-22T14:39:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9998"
+}

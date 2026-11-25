@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems like a functionality that complements SceneTree's `call_group()` - using groups as an abstraction layer towards interacting with individual nodes.",
+    "format": "form",
+    "workaround": "Workarounds are feasible, but inelegant:\n* Implement listener-dependent code in nodes that emit the signals (against best practices)\n* Pass around references to the listener to every entity that might instantiate an emitter\n* React to SceneTree's `node_added`, check whether the node is part of a group, if yes connect it. This does not work if the node is added to the group after its creation (see #627, #1259).\n* Continuously check for nodes within a group and connect them as soon as they show up (terrible for performance)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-09-21T13:27:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5466,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `group_connect()` method to monitor signals from any nodes within a group",
+  "up": 19,
+  "updatedAt": "2024-07-01T02:08:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5466"
+}

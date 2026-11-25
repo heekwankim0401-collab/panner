@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is inconvenient to have the level editor run as a separate application, especially when it is someone else's work that could be based in one of many different types of coordinate systems and have to translate it to your own project. I haven't tried it yet since I would be more comfortable with creating a separate application alltogether, but I also don't believe it to be possible to be created as a plugin with the same functionality as gridmaps from what I've seen of custom plugins. Though I could be wrong as I am not very experienced in making them.",
+    "format": "legacy",
+    "workaround": "It cannot be worked around without editing the gridmap module and compiling a custom version of godot since I don't believe plugins to have the level of functionality required for this type of modification. A level editor could be made from scratch that you'd have to run as an application, but in that case it cannot be used within the editor. \nMany games use hexagonal tiling as there are [reasons](https://www.realms-beyond.com/combat-system-hex-square/) for hexes to be used over squares and cubes so I believe it could potentially be relevant to any project with a grid."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-29T13:46:01Z",
+  "comments": 18,
+  "createdAt": "2020-02-14T00:08:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 472,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for hexagonal GridMaps",
+  "up": 46,
+  "updatedAt": "2024-01-29T13:46:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/472"
+}

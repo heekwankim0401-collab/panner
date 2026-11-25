@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an improvement/replacement to existing core functionality.",
+    "format": "legacy",
+    "workaround": "No, calculations for audio falloff would need to be reimplemented according to what is already in the engine and for a new node type that does nearly the same functionality.  This amounts to unneeded redundancy and a worse developer experience."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-09T22:19:10Z",
+  "comments": 22,
+  "createdAt": "2019-09-08T22:18:11Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.0",
+  "number": 49,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Listener2D node for positional audio relative to character (Listener3D already implemented)",
+  "up": 27,
+  "updatedAt": "2021-09-09T23:55:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/49"
+}

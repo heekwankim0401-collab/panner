@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's not possible for an addon to add autocompletion results.",
+    "format": "form",
+    "workaround": "It cannot. As a workaround, constant strings may be used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-04-29T12:52:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4463,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add autocompletion for `AnimatedSprite.play()` and `animation`",
+  "up": 4,
+  "updatedAt": "2022-04-29T14:07:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4463"
+}

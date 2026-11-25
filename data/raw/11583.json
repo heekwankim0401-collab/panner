@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See explanation above.",
+    "format": "form",
+    "workaround": "It can easily be worked around by setting the dropdown to Wayland manually.  However, by defaulting to Wayland, we will have more video games created by Godot devs that out of the box support Wayland and X11 resulting in a cohesive and natural experience for end users!\n\nIt will also have the side effect of pretty much resolving all XWayland issue as we will no longer need to worry about XWayland! :)  See here: https://github.com/godotengine/godot/issues/78581"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-01-16T20:02:16Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11583,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Default to Wayland display server on Linux",
+  "up": 0,
+  "updatedAt": "2026-02-21T02:18:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11583"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is an addition to the Image class so needs to be added to core.",
+    "format": "form",
+    "workaround": "n/a will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-17T17:39:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12805,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an `Image.is_in_bounds()` helper function",
+  "up": 2,
+  "updatedAt": "2025-07-18T10:16:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12805"
+}

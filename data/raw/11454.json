@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Enhances the functionality of an existing Node",
+    "format": "form",
+    "workaround": "It doesn't seem like it can. Working with individual Bones doesn't seem very intuitive or robust, unfortunately."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-21T21:21:45Z",
+  "comments": 6,
+  "createdAt": "2024-12-30T21:31:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11454,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Bone Attachment, Override Pose: Add the option to only affect Rotation or Position",
+  "up": 6,
+  "updatedAt": "2025-07-07T17:39:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11454"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "RichTextLabel is pretty core -- I don't think a simple addon could work around this.",
+    "format": "form",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-26T08:47:06Z",
+  "comments": 2,
+  "createdAt": "2023-04-26T08:29:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6759,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for animated sprites in rich text bbcode.",
+  "up": 0,
+  "updatedAt": "2023-04-30T18:03:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6759"
+}

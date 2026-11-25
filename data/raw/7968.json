@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "These days this is something that is integrated in at least macOS and Windows and as such I think it's expected that it should work \"out of the box\" in Godot projects.",
+    "format": "form",
+    "workaround": "It can be worked around as described above, but requires a bit of code in many places and it's hard to get right as you."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-10-03T08:19:36Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7968,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add automatic hiDPI UI scaling project setting",
+  "up": 29,
+  "updatedAt": "2024-12-03T21:57:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7968"
+}

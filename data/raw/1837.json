@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It doesn't sound like an add-on but I am not sure exactly how plugins work.",
+    "format": "legacy",
+    "workaround": "The programmer could assign all attributes in the code but I suspect that you can assign attributes to nodes in the inspector because this is useful to game designers."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-15T07:40:39Z",
+  "comments": 3,
+  "createdAt": "2020-11-14T16:15:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1837,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Search in scenes' fields (the ones in the inspector) instead of just in the GD script files",
+  "up": 3,
+  "updatedAt": "2020-11-15T09:50:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1837"
+}

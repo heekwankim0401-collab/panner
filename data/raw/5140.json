@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Mainly because it feels in line with the way existing input sampler2Ds are handled in Godot, and normals are a pretty important (in my eye) information to have.",
+    "format": "form",
+    "workaround": "I have currently found two workarounds, both with their limitations:\n\n- reconstructing the normals from depth in a quadmesh post-processing shader - which is slow, not necessarily accurate and unable to discern smooth edges from sharp ones\n- using `NORMAL` as `ALBEDO` in a material's first pass, and reading `SCREEN_TEXTURE` in the next one - which is cumbersome and finicky (since it deals with reading `SCREEN_TEXTURE` in a multiple passes material)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-10T22:17:11Z",
+  "comments": 2,
+  "createdAt": "2022-08-10T20:36:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5140,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose the world normals to the fragment shader in spatial materials",
+  "up": 0,
+  "updatedAt": "2022-08-11T03:08:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5140"
+}

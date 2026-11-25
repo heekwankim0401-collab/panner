@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should be core because, in the export to HTML menu, there is already a toggle built into the editor for turning on VK LineEdit support. It would be a shame to waste this almost 100% working version because of autozoom.",
+    "format": "form",
+    "workaround": "This could be worked around by adding the meta into the game when it loads, which I will do, but enough people are in this boat where this would be a greatly appreciated (and hopefully not too hard) fix."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-04-27T04:58:14Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 9610,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Prevent autozoom when opening virtual keyboard on iOS web exports",
+  "up": 1,
+  "updatedAt": "2024-04-30T21:03:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9610"
+}

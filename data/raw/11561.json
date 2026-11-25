@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Once this PR goes through: https://github.com/godotengine/godot/pull/101399, we could leave this as \"plugin\" only if we would like.  However, I believe it is simple enough and useful enough that most users will appreciate this feature being in Godot.  Especially when one takes into consideration how valuable it is to keep mobile games under 100 MB.  Some mobile phones / data carries don't allow downloading over mobile data if the download is over 100 MB and instead require a wifi connection.  Here is an example of the file size differences in my fork:\n\n![Image](https://github.com/user-attachments/assets/5239bc9a-1acc-48ec-ba9e-9bfcb85c7d21)\n\nYes we are comparing differences in KB.  But when we are trying to squeeze every MB into that 100 MB, and especially for projects with many different visual shaders, this becomes exceptionally useful.",
+    "format": "form",
+    "workaround": "I expect this enhancement will be used often.  So much so that when this issue here is resolved: https://github.com/godotengine/godot/issues/101375, we should consider making the default value for this boolean ``true`` so that all VisualShaders are converted to Shaders by default."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-01-14T18:39:18Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:export",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 11561,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to convert VisualShader to Shader at export time",
+  "up": 3,
+  "updatedAt": "2025-08-22T00:16:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11561"
+}

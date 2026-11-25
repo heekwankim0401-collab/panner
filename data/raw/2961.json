@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Animations are a core feature of Godot Engine.",
+    "format": "form",
+    "workaround": "This is a confusing problem and hard to explain. So the code to solve it is non-obvious to propose and non-trivial to discover."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-31T22:37:49Z",
+  "comments": 1,
+  "createdAt": "2021-07-08T03:18:41Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 2961,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Baking matching RESET pose to allow transfer animations between corresponding rigs",
+  "up": 0,
+  "updatedAt": "2021-07-31T23:23:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2961"
+}

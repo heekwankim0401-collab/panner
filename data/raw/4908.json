@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't be done in an addon.",
+    "format": "form",
+    "workaround": "It can be done locally but the point here is shaving `get_tree().` from *several* scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2022-07-18T17:01:25Z",
+  "down": 4,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4908,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `Node.create_timer` method",
+  "up": 39,
+  "updatedAt": "2026-04-25T13:28:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4908"
+}

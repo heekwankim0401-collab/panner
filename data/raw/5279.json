@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "No, it is a core feature required to built into the engine itself.",
+    "format": "form",
+    "workaround": "No, it is a core feature required to built into the engine itself."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-12T10:19:42Z",
+  "comments": 3,
+  "createdAt": "2022-08-28T06:56:54Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:docs",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 5279,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"experimental\" and \"deprecated\" flags for classes, methods, properties, and signals",
+  "up": 22,
+  "updatedAt": "2022-09-12T10:19:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5279"
+}

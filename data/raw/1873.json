@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be default as it improves working with subresources for anyone using them.",
+    "format": "legacy",
+    "workaround": "Every sub-resource can be created as its own root-resource, but that unecessarily clutters the project with files that are mostly only being used in one place anyway. \nBut maybe it can be fixed with a few lines of script instead."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-02T17:08:14Z",
+  "comments": 6,
+  "createdAt": "2020-11-23T10:40:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1873,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve sub-resource inspector (use same as at root-level)",
+  "up": 3,
+  "updatedAt": "2020-12-02T17:08:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1873"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its an extremely common problem for almost all topdown 2d games, and is commonplace in other engines that aim to support top down / 2d games. Implementations written by hand also require for this to override z-index's of nodes, which places a maximum limit on the number of nodes that could be ysorted, (4096 if i remember the z-index cap correctly) and limits developer freedom a good deal, along with extra lag, by having to deep search every node in the game almost every frame, and do comparisons almost every frame.",
+    "format": "legacy",
+    "workaround": "No. It can't. Whether this enhancement is \"not going to be used often\" is a matter of opinion, but considering that almost all topdown games will be using functionality similar to this, or have encountered a problem similar to this, I'm not sure its reasonable to claim its \"not going to be used often\". The best workarounds that I've seen so far either require every sprite, tilemap, etc, that you want to be ysorted be a *direct child* of the ysort node, which is horrible for game design purposes etc, or for you to rewrite and reimplement your own ysort node using z-index as a hacky workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-07-22T05:51:15Z",
+  "down": 1,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1237,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement deep/recursive YSort",
+  "up": 7,
+  "updatedAt": "2022-05-19T19:08:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1237"
+}

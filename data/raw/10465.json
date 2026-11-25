@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This will allow shaders to be used as post processing effects out of the box.",
+    "format": "form",
+    "workaround": "It is possible to create compositors that use shaders, but it requires some additional steps and some boilerplate shader code. See https://docs.godotengine.org/en/stable/tutorials/rendering/compositor.html"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-08-16T20:50:23Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10465,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a shader type for compositor effects",
+  "up": 13,
+  "updatedAt": "2024-08-17T08:03:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10465"
+}

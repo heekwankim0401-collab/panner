@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think anyone can use this in any project that compares floats to see if they are approximately equal.",
+    "format": "form",
+    "workaround": "I can't see how you would use a plugin to work around this. I'm suggesting a change to the GDScript itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-08-28T21:43:29Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7574,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add an approximation comparison operator for floating point types (~=) to GDScript",
+  "up": 9,
+  "updatedAt": "2024-05-23T03:17:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7574"
+}

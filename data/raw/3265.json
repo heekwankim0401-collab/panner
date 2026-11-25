@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "You can do this with plugins, you can do this by writing a script and running the game. But none of them will be as fast and useful as the built-in support of the game engine in this regard.\n\nSaid request may be very simple under the hood yes, but it will make an incredible difference. Godot will be able to export options the animation features it already has and users will be able to use this for the launch of their games and for different purposes. \n\nIn other words, Godot will have crowned the extensive features it has with AnimationPlayer with a simple image export option.",
+    "format": "form",
+    "workaround": "I think this feature will be used frequently. But even if we assume that it will not be used;\n\nIt cannot be said to be practical, but of course it can be solved with a script. Of course, in this scenario, a developer is sitting at the head of godot to do this job. We want teams to use Godot, what if someone on the creative side of the team wants to quickly export these animations? Generally, these requests are discussed in user scenarios as \"a software developer's use of godot\". But an artist, not a software developer, can take over this job."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-27T12:02:26Z",
+  "comments": 9,
+  "createdAt": "2021-09-08T03:35:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3265,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement exporting an image sequence from the AnimationPlayer editor",
+  "up": 0,
+  "updatedAt": "2023-11-27T14:04:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3265"
+}

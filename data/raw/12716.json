@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's a small setting for imho a central 2D godot feature the spriteframes and its animations",
+    "format": "form",
+    "workaround": "Yes it can be worked around"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-02T08:57:45Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12716,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to change the default FPS of a new SpriteFrames animation",
+  "up": 5,
+  "updatedAt": "2025-07-21T15:05:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12716"
+}

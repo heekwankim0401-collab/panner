@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Now this can't be worked around with plugins because there is no API for `ScriptEditor` autocompletion.\nAnd it would be useful to have this in core because this could make scripting faster and more convenient.",
+    "format": "markdown",
+    "workaround": "It cannot, see below"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-02-03T03:44:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2232,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to use autocompletion in commented out lines",
+  "up": 1,
+  "updatedAt": "2021-02-03T05:53:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2232"
+}

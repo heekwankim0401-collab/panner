@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Complements existing core functionality.",
+    "format": "legacy",
+    "workaround": "It's pretty fast to work around with `add` then `move`, but tree mutations seem like common enough operations to be worth adding. If we think `add_sibling` was a common enough use-case, then this seems pretty reasonable too."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-07-01T15:24:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1152,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `Node.add_child_at()` method to add a node at a specific index",
+  "up": 84,
+  "updatedAt": "2025-04-16T05:59:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1152"
+}

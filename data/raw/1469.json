@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because if this is on core, this can be easier to manipulate the collision without changing a lot of parameters and can be really useful to game developers create a game where can have a infinite sized world with proper collision, without worring with resolution, size, etc.\n\nObs: When I say infinite sized world, this is pratically not possible, as in very high positions, the collision and rendering behaves strangely.",
+    "format": "legacy",
+    "workaround": "I don't think so, because this would need to rewrite the entire collision detection to be able to handle this kind of collision, as there isn't any way to manually write a custom collision solver with the current given Godot tools."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-09-07T01:35:45Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1469,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "A CollisionHeight collision node proposal (not HeightMapShape)",
+  "up": 1,
+  "updatedAt": "2022-01-26T19:10:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1469"
+}

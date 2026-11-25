@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While writing my project I was really convinced of the usefulness of such a function inside Godot, it is especially useful for those who like to dig deep into the strings.",
+    "format": "form",
+    "workaround": "To implement this, you will have to perform many other functions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-05-11T09:21:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12408,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `String.split_string`",
+  "up": 0,
+  "updatedAt": "2025-05-12T03:12:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12408"
+}

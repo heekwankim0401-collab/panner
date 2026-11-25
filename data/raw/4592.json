@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Multiplayer is already core",
+    "format": "form",
+    "workaround": "- Use a node where the server is authority, then `@rpc(authority)`.\n- It can be worked around with `@rpc(any_peer)` with a custom filter using `MultiplayerAPI.get_remote_sender_id()`, but that also needs boilerplate and is prone to security bugs.\n\nWorkaround:\n```gdscript\n@rpc(any_peer) func my_rpc():\n    if MultiplayerAPI.get_remote_sender_id() != 1:\n        return # Access denied\n    print(\"Server sent RPC\")\n```\n\nMy proposal:\n```gdscript\n@rpc(server) func my_rpc():\n    print(\"Server sent RPC\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-05-25T19:48:45Z",
+  "down": 1,
+  "labels": [
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4592,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `server` RPC mode",
+  "up": 25,
+  "updatedAt": "2024-04-03T02:42:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4592"
+}

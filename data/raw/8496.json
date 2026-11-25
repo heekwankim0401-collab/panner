@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is already an internal implementation of the Engine",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-03T09:55:01Z",
+  "comments": 2,
+  "createdAt": "2023-11-22T18:29:45Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:navigation"
+  ],
+  "milestone": "4.4",
+  "number": 8496,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Optimize AStar in NavAgents by using Heap for efficient min node selection",
+  "up": 6,
+  "updatedAt": "2024-09-03T09:56:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8496"
+}

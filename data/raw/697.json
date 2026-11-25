@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Unless it is possible to get the error without modifying the core, it should be in the core.",
+    "format": "legacy",
+    "workaround": "I'm pretty sure it will not be used often, but I don't think it can be worked around. If there is a way of getting that error message, I'd happily use it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-04-11T09:38:18Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 697,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to get the error message obtained when setting incorrect shader code",
+  "up": 16,
+  "updatedAt": "2026-07-06T15:42:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/697"
+}

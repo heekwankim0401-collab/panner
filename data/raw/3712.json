@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this small feature should be in a plugin while it could be directly in godot",
+    "format": "form",
+    "workaround": "I believe it will be used a lot but\nthere is workaround though it isn't good :\nlike reducing the strength (but I want the head to look at the target not just tilt his head a little,"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-11T10:38:36Z",
+  "comments": 7,
+  "createdAt": "2021-12-23T10:34:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 3712,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "The ability to Limit(constraints) IK ",
+  "up": 8,
+  "updatedAt": "2022-09-18T21:37:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3712"
+}

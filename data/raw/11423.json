@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't see how this could be created as an add-on. If it can, though, I would love to know.",
+    "format": "form",
+    "workaround": "For smaller projects, there can simply be a \"database\" resource, but when there are potentially hundreds of resources like this, such as lots of NPCs or worlds, this can become unwieldy and a point of failure."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-28T08:19:47Z",
+  "comments": 1,
+  "createdAt": "2024-12-26T07:36:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11423,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add tags/groups for resources saved on disk",
+  "up": 2,
+  "updatedAt": "2025-01-02T19:24:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11423"
+}

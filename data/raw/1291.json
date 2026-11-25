@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": ".po files are not a complete replacement for CSV (see above). Therefore, CSV should support plurals as well as .po files.\n\n---\n\n@akien-mga:\n\n> For CSV plurals, I would suggest opening a proposal indeed and doing research on how plurals are handled by other projects that support CSV translations.\n> \n> From what I found, there are many different CSV translation workflows and the few that support plurals have it hacked in in a way as suggested e.g. here, but there's no common standard. It's a simple system so we can indeed design our own plurals logic, but if there was a somewhat \"popular\" way of doing plurals with CSV used e.g. in other game engines, it would be best for us to follow that.",
+    "format": "markdown",
+    "workaround": "This is a commonly used feature. In addition, there is currently no way to globally redefine the `tr_n` function."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-27T15:06:24Z",
+  "comments": 3,
+  "createdAt": "2020-08-01T14:30:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.6",
+  "number": 1291,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add plurals support for CSV translation files",
+  "up": 2,
+  "updatedAt": "2025-10-27T15:08:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1291"
+}

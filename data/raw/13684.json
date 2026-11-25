@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, this should be in the core. It’s a small UI button that would help many users who run into the same situation. They wouldn’t need to search the internet or install a plugin just to access this basic workflow improvement, the button would already be there, built into the editor.",
+    "format": "form",
+    "workaround": "Yes, and I’ve even made a plugin for it already, but it has some limitations. For example, the title of the selected item still changes even when the Inspector is locked. A native solution would likely be the ideal approach."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-11-22T17:10:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13684,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"lock\" button to lock the Inspector onto a specific item.",
+  "up": 59,
+  "updatedAt": "2025-12-06T13:43:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13684"
+}

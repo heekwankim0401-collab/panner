@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-06-01T13:19:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2806,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Method Image.crop() has to input 4 values, not 2",
+  "up": 0,
+  "updatedAt": "2021-06-01T15:24:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2806"
+}

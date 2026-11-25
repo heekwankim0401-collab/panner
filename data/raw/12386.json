@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The plugin works, but the feature is indeed lightweight and helpful. The necessary functions are already available in the engine. The feature would objectively make coding easier, specially for game development where the script may get overwhelmingly large.",
+    "format": "form",
+    "workaround": "It can but it's not convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-07T21:11:20Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12386,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add shortcuts to fold/unfold all foldable sections in the current file",
+  "up": 1,
+  "updatedAt": "2025-05-13T04:19:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12386"
+}

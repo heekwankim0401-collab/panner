@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "there is currently no built-in API in Godot to directly achieve the desired behavior of making custom classes read-only with the specified features. Implementing these features would require modifications to the Godot engine's core code.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-16T16:18:35Z",
+  "comments": 4,
+  "createdAt": "2024-07-11T10:07:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10174,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript: add `@read_only` annotation for custom node",
+  "up": 0,
+  "updatedAt": "2026-02-16T16:23:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10174"
+}

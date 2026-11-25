@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It will be use a lot and helpful.",
+    "format": "markdown",
+    "workaround": "I saw a solution by using grep, but this method is unfriendly and I also don't familiar with Linux\nhttps://www.reddit.com/r/godot/comments/8c03tz/is_there_a_signal_map_that_shows_you_all_your/"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-12T12:44:20Z",
+  "comments": 4,
+  "createdAt": "2021-02-25T15:41:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2347,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add project-wide signal/group managment",
+  "up": 0,
+  "updatedAt": "2022-01-12T12:44:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2347"
+}

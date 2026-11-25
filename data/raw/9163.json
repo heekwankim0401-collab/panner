@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is only an issue if you're look to replace objects when importing, which on my own experience and mindset would only happen when using external editors as map editors, instead of doing the level design inside Godot, currently I've been trying to use Blender as a map editor, along with its Asset Library, which means I wouldn't really have to bother exporting every prop, wall, variation, etc. Is this bad practice? Maybe, its a very specific situation so I don't think it would be a core feature, although it would make it possible to create whole maps inside of 3D modelling softwares, which until now wasn't really viable, but I do find it more convenient",
+    "format": "form",
+    "workaround": "Im guessing it can be a plugin or just a simple import script, although having an option for that would be great"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-24T01:21:25Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9163,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Load from File option to the Advanced Import Settings dialog",
+  "up": 1,
+  "updatedAt": "2024-02-24T16:05:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9163"
+}

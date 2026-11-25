@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDScript is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-12T13:08:16Z",
+  "comments": 23,
+  "createdAt": "2021-06-14T22:37:54Z",
+  "down": 9,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2865,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `class_name` to `class` and `class` to `inner class`",
+  "up": 5,
+  "updatedAt": "2021-10-12T13:08:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2865"
+}

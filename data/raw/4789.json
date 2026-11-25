@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an essential quality of life niceness that other editors do have, and it is quite annoying as you regularly need to open a folder to open some scene or script to edit them.\n\nUnless I'm stupid and blind, I can't seem to find the settings for the editor to make this happen if there's one, if Godot actually has this feature already, feel free to close this issue and please guide me on how to enable this, and if it indeed exists and an opt-in feature, please consider making it the default behaviour, if it's already the default and it works as intended for other, I... don't know, maybe I need to re-install my Godot installation.",
+    "format": "form",
+    "workaround": "As I'm not familiar with Editor scripting I'm not sure, but my guess is not, especially if you need to write those \"few lines of script\" into the main editor source code for this to happen."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-11T09:49:13Z",
+  "comments": 2,
+  "createdAt": "2022-07-01T07:23:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.1",
+  "number": 4789,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remember directory folding state across restarts in the FileSystem dock",
+  "up": 6,
+  "updatedAt": "2023-05-11T09:50:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4789"
+}

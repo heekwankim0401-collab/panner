@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be part of the core.",
+    "format": "form",
+    "workaround": "It will be helpful whenever one want to see which action name is selected.\n\nI don't know how many lines it would take to workaround/fix this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-12-20T12:05:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3701,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Fix Input Map action name highlight",
+  "up": 2,
+  "updatedAt": "2021-12-20T15:03:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3701"
+}

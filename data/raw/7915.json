@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This whole idea is about how plugins should work in engine.",
+    "format": "form",
+    "workaround": "It cannot, the only way today is to download and register plugins every time in every new project."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-29T14:51:58Z",
+  "comments": 1,
+  "createdAt": "2023-09-29T14:25:57Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7915,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Split plugins on project and engine sides",
+  "up": 1,
+  "updatedAt": "2023-09-29T14:52:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7915"
+}

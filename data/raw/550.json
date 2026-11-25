@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This relates to how the core editor works.",
+    "format": "legacy",
+    "workaround": "I don't believe it can be worked around, but maybe I'm missing something."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2020-03-04T03:47:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.x",
+  "number": 550,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "An export variable hint which shows a warning icon if the value has not been set in the inspector",
+  "up": 20,
+  "updatedAt": "2024-03-10T04:03:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/550"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is part of game engine.",
+    "format": "form",
+    "workaround": "Probably not (with clean, scalable and \"not hack\" method)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-16T20:29:42Z",
+  "comments": 1,
+  "createdAt": "2022-05-15T20:06:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4545,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement support for multiple rooms in the high-level multiplayer API",
+  "up": 0,
+  "updatedAt": "2024-02-16T20:34:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4545"
+}

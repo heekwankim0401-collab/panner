@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This affects core API usage. While any developer may implement their own wrapper around the Tween functions. I do not believe 'hiding' it is an effective solution overall. It does not improve tutorials, understanding, or ease of use.",
+    "format": "form",
+    "workaround": "Affects Godot API."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-07-04T11:39:57Z",
+  "down": 1,
+  "labels": [
+    "topic:animation",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7201,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve SceneTreeTween API",
+  "up": 0,
+  "updatedAt": "2023-07-04T12:33:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7201"
+}

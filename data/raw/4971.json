@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Format specifier are a core feature. It's just an enhancement of existing logic.",
+    "format": "form",
+    "workaround": "To support both int values as well as float wells you need more than a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-07-25T05:52:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4971,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a thousands separator option \"_\" when printing numbers with percent formatting",
+  "up": 8,
+  "updatedAt": "2025-08-22T15:16:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4971"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a scripting enchancement, it cannot be made using add-ons",
+    "format": "form",
+    "workaround": "By either creating separate script file for each subclass, possibly cluttering project files, or by accessing inner class via main class like this:\n```gdscript\n#script B\nvar b = Class.InnerClass.new()\n```\nwhich is, too, not ideal for this case."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-09-03T17:47:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5315,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to push inner classes into global scope",
+  "up": 6,
+  "updatedAt": "2022-09-03T20:09:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5315"
+}

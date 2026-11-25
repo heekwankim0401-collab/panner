@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The `AnimationPlayer` and its behavior is core to the engine.",
+    "format": "form",
+    "workaround": "I think this will be used commonly by anyone using the `AnimationPlayer`"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-30T22:23:21Z",
+  "comments": 2,
+  "createdAt": "2024-05-05T19:09:52Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 9686,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Update AnimationPlayer in real-time when keyframe properties change",
+  "up": 13,
+  "updatedAt": "2024-08-30T22:23:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9686"
+}

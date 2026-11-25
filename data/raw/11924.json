@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I find it helpful to improve the debugging of moving windows, and is a simple but effective little feature",
+    "format": "form",
+    "workaround": "I'm afraid this is a bit cumbersome, and it may require the user to implement a debug UI to implement this functionality in it"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-03-06T06:50:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11924,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an \"always on top\" toggle to the floating game window",
+  "up": 11,
+  "updatedAt": "2025-03-06T14:31:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11924"
+}

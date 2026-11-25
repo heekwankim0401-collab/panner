@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is the Script editor.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-07T23:32:16Z",
+  "comments": 1,
+  "createdAt": "2020-11-07T21:49:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1790,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Sort autocomplete functions based on Inheritance order",
+  "up": 0,
+  "updatedAt": "2020-11-07T23:32:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1790"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Again, because this would benefit most people, either new to the engine, or long time users, and most people shouldn't have to download an asset to get this functionality.",
+    "format": "markdown",
+    "workaround": "Possibly, but that's not the point, this would benefit most people using the program."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-03-21T10:33:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2486,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically open Debugger->Errors when a runtime error occurs (toggle-able editor setting)",
+  "up": 5,
+  "updatedAt": "2021-03-21T10:34:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2486"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It requires an access to Control class code",
+    "format": "form",
+    "workaround": "I'm sure it will be used often, and in the other case it's very long and inconvenient to recreate UI elements"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-19T15:34:34Z",
+  "comments": 12,
+  "createdAt": "2023-05-13T09:41:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6874,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a Cursor node",
+  "up": 3,
+  "updatedAt": "2024-08-17T17:22:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6874"
+}

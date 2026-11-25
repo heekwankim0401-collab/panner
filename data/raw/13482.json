@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Honestly I wasn't sure whether to post this on proposals or issues. I couldn't find any post anywhere talking about it, but I figure it's probably some technical limitation that I hope could be changed?",
+    "format": "form",
+    "workaround": "Only work around I can figure out is making sure the loaded resource is never on the same level hierarchy. For example if I put them both into their own blend tree I can name them however I want.\n\nThe issue is this creates long-winded hierarchies inside my tree, where its `tree_root -> left_arm -> left_arm_tree -> transition` instead of just `tree_root -> left_arm -> transition`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-27T10:32:45Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13482,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow assigning unique names to AnimationNode resources that are loaded from file into the blend tree",
+  "up": 0,
+  "updatedAt": "2025-10-27T17:05:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13482"
+}

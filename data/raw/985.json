@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think being able to control the game's resolution as wanted should be a core feature.\n\n**Additional note**\nHonestly I think TextureRect has useful attributes (stretch mode, flip) that are lacking on ViewportContainer and should definitely be added.",
+    "format": "legacy",
+    "workaround": "To make this work with a script, you have to replicate the behaviour of a ViewportContainer with a TextureRect."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-12T17:13:45Z",
+  "comments": 2,
+  "createdAt": "2020-06-01T11:57:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 985,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display viewport in UI with custom resolution and input support",
+  "up": 0,
+  "updatedAt": "2021-08-12T17:17:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/985"
+}

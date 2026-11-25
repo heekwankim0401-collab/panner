@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Search & Replace should feel good out of the box",
+    "format": "form",
+    "workaround": "N/A, this is more of an enhancement"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-09-07T00:44:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5361,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a small delay before Find and Replace starts searching for patterns",
+  "up": 4,
+  "updatedAt": "2022-09-09T17:49:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5361"
+}

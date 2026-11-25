@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know if C# is considered part of core of godo, maby for the core of godo C#.",
+    "format": "form",
+    "workaround": "This can be ignored if we place foreach loops and enumerate, because it is not possible to read the values ​​of Arrays, dictionaries and others in debug mode. Really it's not clean for debugging."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-08T09:25:07Z",
+  "comments": 0,
+  "createdAt": "2023-05-28T17:56:45Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.3",
+  "number": 6969,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "C# Debugger display and type proxy ",
+  "up": 2,
+  "updatedAt": "2024-04-08T09:26:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6969"
+}

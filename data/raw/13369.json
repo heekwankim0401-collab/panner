@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is part of the rendering code of the Reflection Probes.",
+    "format": "form",
+    "workaround": "No, it need rendering and shading code changes."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-13T14:01:40Z",
+  "comments": 1,
+  "createdAt": "2025-10-12T12:33:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13369,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Alpha support for Reflection Probes to fallback to other Reflection Probes or Sky",
+  "up": 0,
+  "updatedAt": "2025-10-13T14:01:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13369"
+}

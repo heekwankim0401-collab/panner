@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This has to be core",
+    "format": "form",
+    "workaround": "Yes, by creating an empty scene and setting it as the main scene"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-12T20:49:35Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11144,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow not setting a main scene if there are autoloads present",
+  "up": 0,
+  "updatedAt": "2024-11-12T21:30:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11144"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core functionality.",
+    "format": "form",
+    "workaround": "Might be possible as an addon, but nothing I would install an addon for."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-09-09T18:20:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10705,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow changing the external program used for .tres and .tscn",
+  "up": 0,
+  "updatedAt": "2024-09-12T07:05:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10705"
+}

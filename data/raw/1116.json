@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This belongs to the core lifecycle management of an app.",
+    "format": "legacy",
+    "workaround": "No obvious workaround, except for the server to regularly poll the clients to check they are still alive."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-06-24T11:16:30Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1116,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Emit a signal when the user is closing the window/tab (JavaScript `beforeunload` event)",
+  "up": 12,
+  "updatedAt": "2024-02-29T19:03:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1116"
+}

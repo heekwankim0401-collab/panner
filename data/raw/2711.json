@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, it's just crazy difficult to use, esp. for new users, a simple feature, that's very easy, at least in written code . . :OO . . .\n\nOr, maybe if one ' moved ' it in, it created a ' few ' boxes, to sort of, set it up . . imo, it SHOULD be as easy to get, set singletons, as any other variable, in any script . . .\n\nAlternatively, one could add a new method, to a Preload script, that is also a singleton, ie. if I move in a .vs, and make preload, when I move out ' port ', there's a method called Get Singleton, Set Singleton <3\n\n![2021-05-11 1438](https://user-images.githubusercontent.com/83387915/117816349-b7809e00-b266-11eb-8f30-b0a836a1aa6f.gif)\n\nWell, maybe there's a better way, something fast . . <3 <3",
+    "format": "markdown",
+    "workaround": "Well, there is a way, to do it, it just takes a long time, and it makes it bit ' difficult ', to work on Singletons <3 . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T16:17:12Z",
+  "comments": 2,
+  "createdAt": "2021-05-11T12:33:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 2711,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add option to drag GET/SET singleton from the project settings >> autoload page . . .",
+  "up": 0,
+  "updatedAt": "2022-08-24T16:17:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2711"
+}

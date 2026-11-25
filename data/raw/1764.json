@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its wouldn't be in core since it would be a nuget package",
+    "format": "legacy",
+    "workaround": "I don't know for other people but I would use it to make a my own dedicated game engine"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-23T16:18:47Z",
+  "comments": 4,
+  "createdAt": "2020-11-03T01:22:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 1764,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow compiling godot scripts and scenes to C# library",
+  "up": 0,
+  "updatedAt": "2022-03-23T16:20:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1764"
+}

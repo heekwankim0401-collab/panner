@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it's simple and small enough that it deserves to appear as another handy checkbox in settings.",
+    "format": "markdown",
+    "workaround": "I do not know how to edit behavior of completion tool. Otherwise I would propose ready solution.\n\nIf it uses regex than perhaps it looks for [searched string]+[any legth string]. After turning this option it would first list those items, but below it would list [string of at least 1 character]*+[searched string]+[any length string]\n\n*(at least 1 char - to avoid duplicating items that are already on top)"
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-02T21:57:19Z",
+  "comments": 3,
+  "createdAt": "2020-12-02T21:05:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1928,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to General->Text Editor->Completion to include searches from middle of keywords",
+  "up": 0,
+  "updatedAt": "2020-12-03T19:11:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1928"
+}

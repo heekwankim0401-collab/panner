@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Cannot be done via addons nor GDExtension.",
+    "format": "form",
+    "workaround": "It can't since this is a GDScript core language feature that cannot be worked around easily."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-28T18:09:33Z",
+  "comments": 10,
+  "createdAt": "2023-08-05T14:15:35Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 7450,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support covariant return types for overriding functions",
+  "up": 23,
+  "updatedAt": "2025-07-07T03:53:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7450"
+}

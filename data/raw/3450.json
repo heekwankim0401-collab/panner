@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Changing the font using custom text effects feels like a basic feature, processing the content would be a nice addition.",
+    "format": "form",
+    "workaround": "It can be worked around by writing your own BBCode parser and generating a new BBCode for the RichTextLabel."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-10-20T11:56:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3450,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Let RichTextEffect change the font and content",
+  "up": 0,
+  "updatedAt": "2024-09-10T21:53:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3450"
+}

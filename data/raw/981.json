@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-13T23:52:27Z",
+  "comments": 3,
+  "createdAt": "2020-05-31T18:23:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 981,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show a linter warning when accessing a getter/setter _without_ `self`",
+  "up": 0,
+  "updatedAt": "2020-09-13T23:52:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/981"
+}

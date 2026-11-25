@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Its internal editor stuff",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 1,
+  "closedAt": "2021-05-18T18:29:42Z",
+  "comments": 2,
+  "createdAt": "2021-03-23T09:16:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2496,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Increase maximum TileSet's snap step (or remove limitation)",
+  "up": 3,
+  "updatedAt": "2021-05-19T08:13:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2496"
+}

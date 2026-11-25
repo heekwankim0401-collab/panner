@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is a system feature.",
+    "format": "legacy",
+    "workaround": "This is a core feature."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-22T19:24:54Z",
+  "comments": 4,
+  "createdAt": "2020-07-26T20:07:18Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:audio",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1264,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add signals for device volume changes and output routing changes",
+  "up": 0,
+  "updatedAt": "2020-10-22T19:24:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1264"
+}

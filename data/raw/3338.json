@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's the inspector.",
+    "format": "form",
+    "workaround": "Core."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-13T23:21:08Z",
+  "comments": 1,
+  "createdAt": "2021-09-23T12:04:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3338,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to open a scene that is stored in an export(PackedScene) field from the inspector",
+  "up": 9,
+  "updatedAt": "2022-12-13T23:22:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3338"
+}

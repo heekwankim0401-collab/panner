@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an IDE change",
+    "format": "form",
+    "workaround": "It can't"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-08-24T19:53:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3196,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Highlight with colors and allow folding properties of parent classes in the remote Inspector",
+  "up": 3,
+  "updatedAt": "2021-08-25T15:18:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3196"
+}

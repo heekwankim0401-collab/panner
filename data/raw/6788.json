@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Modding is more and more important to the success and longevity of games.\n\nThe Godot engine is tantalisingly close to being able to provide excellent modding facilities, but it is not there because of the rudimentary nature of PCK support.\n\nThis proposal would also make it much easier for game authors to make DLC, and to use a \"layered\" approach to adding new content to a game (initially create the content as a PCK, then when happy with it, de-PCKify it and merge it into the project).\n\nBeing able to advertise Godot as a game engine which can also be used as a Creation Kit-like mod creation tool for all created games, would provide it with a significant point of difference vs Unity and Unreal.\n\nI think the broad array of benefits is compelling enough that this should be a core feature.",
+    "format": "form",
+    "workaround": "No, this would be significant new editor and engine functionality ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-05-01T21:59:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6788,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"PCK mode\" to the editor for user-friendly mod creation, DLC creation, layered game development",
+  "up": 23,
+  "updatedAt": "2025-11-06T20:23:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6788"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It targets a part of the rendering engine.\n\n--------\nNB: this is an area I only started experimenting, so maybe Godot actually supports this and I got something wrong somewhere. If that's the case this proposal could be closed, but at the moment it's not certain yet ;)",
+    "format": "markdown",
+    "workaround": "No. Unless you re-implement a shadow mapping system on top of the `VisualServer` API using viewports, it's going to be terribly inefficient, hard to maintain and share as a plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-25T15:50:20Z",
+  "comments": 8,
+  "createdAt": "2020-12-05T20:20:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.3",
+  "number": 1942,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow depth-writing shaders to work with shadow maps",
+  "up": 4,
+  "updatedAt": "2024-04-25T15:50:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1942"
+}

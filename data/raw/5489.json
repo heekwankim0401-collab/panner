@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having a universal standard for people to craft portable inspector plugins that people can throw into any project and use is very valuable.",
+    "format": "form",
+    "workaround": "As already stated, the closest work around is awkward to work with as it forces particular naming conventions to get specific inspectors (it also doesn't give you a way to pass arguments along to the custom inspector)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-09-25T03:35:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5489,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow exporting with custom inspectors",
+  "up": 11,
+  "updatedAt": "2022-10-02T13:32:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5489"
+}

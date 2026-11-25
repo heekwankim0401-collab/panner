@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is built-in class Transform3D implementation, it should be changed on the engine level.",
+    "format": "form",
+    "workaround": "I think a lot of devs will face this problem, and actually it can be implemented in few lines"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-13T18:15:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10203,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `Transform3D.looking_at()` behavior more predictable",
+  "up": 2,
+  "updatedAt": "2024-07-13T21:24:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10203"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Seems like very basic functionality that should be provided out of the box by this node.",
+    "format": "form",
+    "workaround": "Kind of. You can defer the relevant logic by a frame, or move it to `_process(delta)` but it's a real pain in the ass, because doing so means any logic dependent on the thing you're deferring needs to ALSO be deferred.\n\nIt's technically feasible but it leads to much worse code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2025-03-23T18:07:14Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12058,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose API to force container layout recomputation",
+  "up": 22,
+  "updatedAt": "2026-01-07T09:41:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12058"
+}

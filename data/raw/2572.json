@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`Expression` is core.\n\nAnother solution would be to completely replace the 2000 lines long Expression parser with the GDScript parser, but that would require much larger changes.",
+    "format": "markdown",
+    "workaround": "You can use `set(\"a\", 2)`, but because the plugin is made for designers, that's not really an option."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-04-08T21:24:33Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2572,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow setting members in Expressions",
+  "up": 0,
+  "updatedAt": "2021-04-09T05:52:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2572"
+}

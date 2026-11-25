@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't believe this would be possible to implement as an addon.",
+    "format": "form",
+    "workaround": "Frequently, yes. For my example above, I think the same thing could be accomplished with multiple `is` checks:\n```gdscript\nif some_node is Node2D or some_node is Control:\n    some_node.position += Vector2(3, 6)\n```\nThis exact approach might fall apart for more complex operations, and if the user wants to ensure static typing, since `some_node`'s type can't be defined as a union of either `Node2D` or `Control`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-06-11T17:08:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12586,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add relevant traits to existing native classes (once traits are implemented)",
+  "up": 14,
+  "updatedAt": "2025-06-18T02:43:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12586"
+}

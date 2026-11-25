@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's an addition tied closely to a core feature. It doesn't make sense to have this as an optional add-on.",
+    "format": "form",
+    "workaround": "Object transform is used often as soon as the user is in the 3D view in Godot."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-09T15:52:24Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10703,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add backspace as input to numeric blender-style transforms",
+  "up": 5,
+  "updatedAt": "2024-09-18T15:32:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10703"
+}

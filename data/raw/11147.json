@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can't be a plugin",
+    "format": "form",
+    "workaround": "Yes, but it's annoying to"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-13T06:15:45Z",
+  "comments": 3,
+  "createdAt": "2024-11-13T04:28:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11147,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow `@export_tool_button` to be applied to methods directly",
+  "up": 0,
+  "updatedAt": "2024-11-13T06:43:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11147"
+}

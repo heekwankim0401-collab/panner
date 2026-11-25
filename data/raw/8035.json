@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "preload() is a core language feature that kicks in at parse time, so I believe it has to be core.",
+    "format": "form",
+    "workaround": "I am not aware that a workaround exists, but I'm very new to godot and would love to be proven wrong!"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-08T22:30:07Z",
+  "comments": 3,
+  "createdAt": "2023-10-08T13:25:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8035,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Accept uid://* paths in preload()",
+  "up": 0,
+  "updatedAt": "2023-10-08T22:30:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8035"
+}

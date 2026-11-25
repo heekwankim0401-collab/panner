@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The usability of this dialog could be better.",
+    "format": "form",
+    "workaround": "It requires editor modifications."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-06T22:56:40Z",
+  "comments": 4,
+  "createdAt": "2022-07-10T18:43:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 4848,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add filter and quick navigation options to the signal connection dialog",
+  "up": 6,
+  "updatedAt": "2023-02-06T22:57:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4848"
+}

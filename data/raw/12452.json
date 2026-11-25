@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improves functionality of the built-in web debugger",
+    "format": "form",
+    "workaround": "Not sure -- probably possible with some HTML but I haven't investigated it yet."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-21T22:36:09Z",
+  "comments": 2,
+  "createdAt": "2025-05-17T21:35:26Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 12452,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Web debugger: launch at project settings resolution",
+  "up": 0,
+  "updatedAt": "2025-05-21T22:36:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12452"
+}

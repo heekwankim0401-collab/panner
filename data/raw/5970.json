@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Developers can hack around this problem, but I don't think it'd be possible to make a truly good experience from an addon.",
+    "format": "form",
+    "workaround": "There's no good, not-hacky workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-23T21:21:03Z",
+  "comments": 0,
+  "createdAt": "2022-12-20T22:26:59Z",
+  "down": 0,
+  "labels": [
+    "topic:export"
+  ],
+  "milestone": "4.0",
+  "number": 5970,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement dedicated server export mode that strips unneeded visual resources and forces `--headless`",
+  "up": 7,
+  "updatedAt": "2023-01-23T21:23:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5970"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would require changes to how functions work",
+    "format": "form",
+    "workaround": "Right now It can't easily worked. It can be sort of worked around by using dictionaries or variables."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-07T16:28:31Z",
+  "comments": 2,
+  "createdAt": "2022-11-07T15:19:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5739,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a parameters propert only available in functions which collects all the passed parameters",
+  "up": 0,
+  "updatedAt": "2022-11-07T16:51:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5739"
+}

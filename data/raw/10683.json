@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "The current workaround is to rewrite the function in the target runtime language. For example:\n```C#\nfloat screenScale = 1;\n// Use Godot's dpi screen scale handling in EditorSettings::get_auto_display_scale() for ref (https://github.com/godotengine/godot/blob/5675c76461e197d3929a1142cfb84ab1a76ac9dd/editor/editor_settings.cpp#L1575)\nif (OS.GetName() == \"Linux\" && DisplayServer.GetName() == \"Wayland\")\n{\n    float mainWindowScale = DisplayServer.ScreenGetScale();\n    if (DisplayServer.GetScreenCount() == 1 || mainWindowScale % 1 != 0)\n    {\n        screenScale = mainWindowScale;\n    }\n    else\n    {\n        screenScale = DisplayServer.ScreenGetMaxScale();\n    }\n}\nelse if (OS.GetName() == \"macOS\" || OS.GetName() == \"Android\")\n{\n    screenScale = DisplayServer.ScreenGetMaxScale();\n}\nelse\n{\n    int screen = DisplayServer.WindowGetCurrentScreen();\n    if (DisplayServer.ScreenGetSize(screen) == Vector2.Zero)\n    {\n        screenScale = 1;\n    }\n    else\n    {\n        int smallestDimension = Mathf.Min(DisplayServer.ScreenGetSize(screen).X, DisplayServer.ScreenGetSize(screen).Y);\n        if (DisplayServer.ScreenGetDpi(screen) >= 192 && smallestDimension >= 1400)\n        {\n            screenScale = 2;\n        }\n        else if (smallestDimension >= 1700)\n        {\n            screenScale = 1.5f;\n        }\n        else if (smallestDimension <= 800)\n        {\n            screenScale = 0.75f;\n        }\n    }\n}\n\nGD.Print($\"Screen DPI: {DisplayServer.ScreenGetDpi()}, using target scale: {screenScale}\");\n\n// Scale your UI accordingly, using the screenScale factor.\n// ...\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-18T13:38:02Z",
+  "comments": 2,
+  "createdAt": "2024-09-07T17:32:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10683,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `EditorSettings::get_auto_display_scale()`",
+  "up": 7,
+  "updatedAt": "2024-09-18T14:41:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10683"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Have to modify `.github/workflows/*.yml` files.",
+    "format": "legacy",
+    "workaround": "Sure, just use an icon you like in your projects, but I'd rather prefer to have a good enough default de-facto icon so that it's easy to identify Windows builds in other projects, and Godot Engine is the only entity with decent influence which is able to show a good example for people to follow. 🙂\n\nThis is especially important if Godot ever wants to provide general-purpose GitHub actions: #1413."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-25T15:04:06Z",
+  "comments": 11,
+  "createdAt": "2020-10-17T13:18:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 1678,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GitHub Actions: change the \"Windows Builds\" emoji icon to improve visual grepping",
+  "up": 0,
+  "updatedAt": "2020-12-05T16:07:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1678"
+}

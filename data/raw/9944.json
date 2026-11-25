@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about the overall complexity that the base engine entails. It isn't worth it to make it an add-on if it fundamentally changes how meshes work.",
+    "format": "form",
+    "workaround": "You can fake a third UV by blending a texture with another and having the two be tied to separate coordinates."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-06-11T16:08:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9944,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Additional UVs on a mesh.",
+  "up": 0,
+  "updatedAt": "2025-10-24T15:11:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9944"
+}

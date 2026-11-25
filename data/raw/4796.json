@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of the engine, and good practice, I think that's why it should be built into the engine.",
+    "format": "form",
+    "workaround": "No. I think this function will be important and convenient for everyone."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-02T11:37:04Z",
+  "comments": 1,
+  "createdAt": "2022-07-02T10:44:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4796,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Ability to run the game (debug) inside the editor.",
+  "up": 0,
+  "updatedAt": "2022-07-02T11:37:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4796"
+}

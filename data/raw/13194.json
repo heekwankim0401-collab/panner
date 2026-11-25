@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a modification to an existing `Node`, which is not doable even with a GDExtension without workarounds like using methods to set the properties.",
+    "format": "form",
+    "workaround": "Any built-in `Control` Node can use a single script that simulates this behavior (although it would slightly change the approach from simply setting the position to calling a method that handles the interpolation), but when a `Node` that inherits `Control` is desired with custom behavior, either the animation or `Node` behavior has to be rewritten. It's not necessarily difficult, but repetitive and cumbersome."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-17T15:58:47Z",
+  "comments": 8,
+  "createdAt": "2025-09-17T11:02:21Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13194,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Animated Control Nodes for advanced UIs",
+  "up": 2,
+  "updatedAt": "2025-09-17T15:58:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13194"
+}

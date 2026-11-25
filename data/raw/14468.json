@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-03-16T05:58:36Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14468,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Animation Play/Pause toggle the same shortcut and give Stop a separate shortcut",
+  "up": 8,
+  "updatedAt": "2026-04-16T09:00:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14468"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. but I love it can be core.",
+    "format": "form",
+    "workaround": "Yes, it can be implement in GDS, but i think it be core was a good idea just like `Array.filter` method."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-20T09:16:18Z",
+  "comments": 1,
+  "createdAt": "2024-04-20T06:07:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9565,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a `Array.filter_one` method",
+  "up": 0,
+  "updatedAt": "2024-04-24T23:20:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9565"
+}

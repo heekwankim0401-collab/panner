@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as debug draw modes are handled by the renderer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-06-23T14:50:54Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 2911,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the occlusion culling debug draw mode display a translucent overlay instead of replacing the viewport",
+  "up": 12,
+  "updatedAt": "2024-06-07T23:37:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2911"
+}

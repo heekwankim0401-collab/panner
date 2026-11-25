@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "not related",
+    "format": "form",
+    "workaround": "not related"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-24T03:50:34Z",
+  "comments": 3,
+  "createdAt": "2022-06-22T18:35:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4727,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Rename `Object.get_indexed()` to `Object.get_by_path()`",
+  "up": 3,
+  "updatedAt": "2023-02-24T03:50:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4727"
+}

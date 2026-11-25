@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the editor's usability out of the box for new and returning users. Allowing them to search their assets without ever needing to learn about quick open.\n```[tasklist]",
+    "format": "form",
+    "workaround": "N/A This is a UI change"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-18T10:24:26Z",
+  "comments": 12,
+  "createdAt": "2024-02-16T22:13:56Z",
+  "down": 4,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 9112,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename 'Quick Load' to 'Search'",
+  "up": 1,
+  "updatedAt": "2024-04-22T01:15:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9112"
+}

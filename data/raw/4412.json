@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Floor and Wall layers for moving platforms are already supported, so Ceiling layers make sense to be supported in Core, too.",
+    "format": "form",
+    "workaround": "It can be somewhat worked around by changing up_direction to act as if the ceiling is a floor. The workarounds get way harder if the ceiling layers are different from the player's ones.\n\nThe worst part of these workarounds is not the lines of script, it's that you'd have the movement platform logic spread over the properties and the script, which could lead to inconsistencies."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-21T14:45:58Z",
+  "comments": 5,
+  "createdAt": "2022-04-17T06:39:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 4412,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ceiling moving platforms for CollisionObject2D",
+  "up": 0,
+  "updatedAt": "2022-05-22T02:59:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4412"
+}

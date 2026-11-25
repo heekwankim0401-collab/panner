@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Pixel art games are extremely popular and scaling / rotation / panning sprites causes distortion as is.  If you can import higher quality versions of them and scale down it solves all those problems.  Look at the game I was attempting to port to godot as a reference to how well this works:\nhttps://www.youtube.com/watch?v=HIARx0kW7XM",
+    "format": "legacy",
+    "workaround": "Not really.  I've seen very complicated solutions involving adding a shader to each sprite that still aren't very effective.  Other people recommending very complicated viewport math.  This feature will be used often because people want to scale pixel art without distortion."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-01-26T05:15:16Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 407,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow high resolution art to be downscaled example: @2x = 0.5 scale.  Useful for pixel art.",
+  "up": 9,
+  "updatedAt": "2026-11-05T16:53:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/407"
+}

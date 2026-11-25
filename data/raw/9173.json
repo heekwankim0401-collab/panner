@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This seems to require some fundamental changes on how the C# bridge works.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-24T17:04:53Z",
+  "comments": 3,
+  "createdAt": "2024-02-25T09:32:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 9173,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for reflection-free mode in C# NativeAOT",
+  "up": 0,
+  "updatedAt": "2026-08-24T17:47:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9173"
+}

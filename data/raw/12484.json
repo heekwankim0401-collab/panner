@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "It is possible to use the scroll bar\nupdate:\n```gdscript\n@tool\nextends EditorPlugin\n\nvar inspector: EditorInspector\nvar v_scroll_bar: VScrollBar\nvar current_scroll_value: float\nvar scroll_duration: int\nvar scroll_factor: float = 0.025\n\nfunc _enter_tree() -> void:\n\tinspector = EditorInterface.get_inspector()\n\tv_scroll_bar = inspector.get_v_scroll_bar()\n\tinspector.gui_input.connect(_on_inspector_gui_input)\n\nfunc _exit_tree() -> void:\n\tinspector.gui_input.disconnect(_on_inspector_gui_input)\n\tv_scroll_bar = null\n\tinspector = null\n\nfunc _on_inspector_gui_input(event: InputEvent) -> void:\n\tif not event is InputEventMouse:\n\t\treturn\n\t\n\tvar input_event_mouse: InputEventMouse = event\n\tif input_event_mouse.button_mask != MOUSE_BUTTON_MASK_MIDDLE:\n\t\treturn\n\t\n\tvar viewport_size = inspector.get_viewport_rect().size\n\tvar screen_width = viewport_size.x\n\tvar screen_height = viewport_size.y\n\tvar mouse_position = inspector.get_global_mouse_position()\n\tvar new_mouse_position = mouse_position\n\n\tif mouse_position.x < 0:\n\t\tnew_mouse_position.x = screen_width\n\telif mouse_position.x >= screen_width:\n\t\tnew_mouse_position.x = 0\n\n\tif mouse_position.y < 0:\n\t\tnew_mouse_position.y = screen_height\n\telif mouse_position.y >= screen_height:\n\t\tnew_mouse_position.y = 0\n\n\tif new_mouse_position != mouse_position:\n\t\tInput.warp_mouse(new_mouse_position)\n\t\n\tif current_scroll_value < input_event_mouse.global_position.y:\n\t\tcurrent_scroll_value = input_event_mouse.global_position.y\n\t\tscroll_duration = -1\n\telif current_scroll_value > input_event_mouse.global_position.y:\n\t\tcurrent_scroll_value = input_event_mouse.global_position.y\n\t\tscroll_duration = 1\n\t\n\tinspector.scroll_vertical += scroll_duration * (current_scroll_value * scroll_factor)\n\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-16T16:22:16Z",
+  "comments": 8,
+  "createdAt": "2025-05-23T07:31:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12484,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add scroll to docks with the middle mouse",
+  "up": 5,
+  "updatedAt": "2026-02-16T16:23:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12484"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "feels impossible to make it an asset.",
+    "format": "form",
+    "workaround": "It's possible to access the node but its very tricky as you have to find it, but there are no built in methods or signals to make plugins with. (Unless I missed them)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-05-21T08:02:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 9798,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "EditorPlugin: expose class for SceneDock",
+  "up": 4,
+  "updatedAt": "2025-07-09T13:58:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9798"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As far as I know, there are no good reasons for _any_ game developer to continuously switch between rendering methods. So if this applies to every game developer, then perhaps core should be adjusted.",
+    "format": "form",
+    "workaround": "I could add an editor plugin to every project I create and hide the selector myself."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-07T11:47:34Z",
+  "comments": 8,
+  "createdAt": "2025-02-19T09:39:37Z",
+  "down": 2,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 11806,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove rendering method selector from main editor interface",
+  "up": 15,
+  "updatedAt": "2026-04-07T11:47:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11806"
+}

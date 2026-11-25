@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It streamlines the workflow for animation through QOL fixes. I'd argue this addresses what is often a core flaw in any animation software. They're usually full of very powerful features, but using them can be an absolute slog. I wouldn't be surprised if people will save hours of work with a highlighting system since you're not always scrolling around the place looking at track labels.",
+    "format": "form",
+    "workaround": "I doubt it would be very invasive and I can't imagine anyone not finding it useful when you're scrolling through all this similar looking info. But I think adding a toggle setting for it would be easy enough."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-14T10:01:11Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12997,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Highlight the relevant track(s) when selecting something to animate",
+  "up": 2,
+  "updatedAt": "2025-08-14T14:29:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12997"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a very basic vector function that belongs at the core.",
+    "format": "legacy",
+    "workaround": "It will be used often, by most developers that use polygons a lot"
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-02T12:28:50Z",
+  "comments": 7,
+  "createdAt": "2020-05-01T11:52:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 777,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "create/fix offset_polygon_2d(), an offsetting function for PoolVector2Array by a single vector",
+  "up": 0,
+  "updatedAt": "2020-08-05T07:45:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/777"
+}

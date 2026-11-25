@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The default values to change are in core, so the change needs to happen in core.\n\n(It is already easy to change the defaults if a developer is aware that the defaults are not ideal for them, without add-ons or assets.)",
+    "format": "form",
+    "workaround": "This enhancement affects default values for new projects, so it would be used in every single OpenXR project until a developer invests time in adapting the action map to the individual game's needs. Given the nature of default values, it can be worked around by changing the configuration in every single project.\n\nThe current defaults are a bad example not following the OpenXR guidelines and causing trouble for developers that are not familiar with OpenXR. We should thus change the defaults to make Godot more accessible."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-12-17T16:28:03Z",
+  "down": 0,
+  "labels": [
+    "topic:input",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 5951,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the default OpenXR action map more semantic",
+  "up": 3,
+  "updatedAt": "2022-12-29T16:42:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5951"
+}

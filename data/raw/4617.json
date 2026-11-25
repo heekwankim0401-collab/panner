@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Both containers are part of the core widgets.",
+    "format": "form",
+    "workaround": "It depends: on projects that do not rely much on class and scene inheritance (like many use just ducktyping), it would be enough to just create a new scene with the desired layout. On the other side instead, it is not possible because to workaround this problem is required to rewrite a lot of code that it is really the same, but with a different container. So it would require to keep the \"two branches\" synchronized, that is very error prone and time wasting."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-02T20:16:25Z",
+  "comments": 4,
+  "createdAt": "2022-06-02T20:05:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4617,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Unify VBoxContainer and HBoxContainer",
+  "up": 0,
+  "updatedAt": "2022-06-02T21:34:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4617"
+}

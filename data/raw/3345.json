@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this would improve the workflow of working with `Area`s (and just `Shape`s in general) for everyone.",
+    "format": "form",
+    "workaround": "I don't think it can be worked around with script because you need to be able to grab and drag the faces of the `Shape`."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-24T18:07:19Z",
+  "comments": 1,
+  "createdAt": "2021-09-24T16:59:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3345,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Drag Shape faces into place individually, without the opposite face also moving",
+  "up": 1,
+  "updatedAt": "2021-09-24T18:07:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3345"
+}

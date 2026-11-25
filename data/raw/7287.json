@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AFAIK Assets can't do this",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-15T08:16:08Z",
+  "comments": 1,
+  "createdAt": "2023-07-15T07:45:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7287,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "3.x: Backport hiding default UI controls",
+  "up": 0,
+  "updatedAt": "2023-07-15T08:16:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7287"
+}

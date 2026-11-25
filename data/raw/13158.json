@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's already core and used by Godot controls, it should just be exposed properly to be available to users too.",
+    "format": "form",
+    "workaround": "With separate nodes, which is pretty cursed."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-16T22:49:41Z",
+  "comments": 2,
+  "createdAt": "2025-09-12T12:11:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.7",
+  "number": 13158,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `_get_cursor_shape()` virtual method to Control",
+  "up": 11,
+  "updatedAt": "2026-03-16T22:49:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13158"
+}

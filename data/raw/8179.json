@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think the benefits of having it would outweigh the added code, given its a relatively simple feature all things considered.",
+    "format": "form",
+    "workaround": "Glowy text is not rare in the slightest. granted in scenarios where the text need not be dynamic this can simply be done in an external program"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-18T09:25:44Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8179,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add support for soft shadows in DynamicFont rendering",
+  "up": 18,
+  "updatedAt": "2026-05-03T17:26:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8179"
+}

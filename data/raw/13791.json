@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because this is a small internal engine function that directly operates on the node’s children array, so it fits naturally as part of the core API.",
+    "format": "form",
+    "workaround": "Yes, it can be worked around with a few lines:\n```gdscript\nfor i in get_children(): i.queue_free()\n```\n\nBut the point is that this pattern appears a lot in real projects, and a built-in function would reduce repetition and avoid manually writing the same loop in multiple scripts."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-09T22:02:52Z",
+  "comments": 3,
+  "createdAt": "2025-12-05T14:53:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13791,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `queue_free_children()` method to `Node`",
+  "up": 0,
+  "updatedAt": "2025-12-09T22:02:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13791"
+}

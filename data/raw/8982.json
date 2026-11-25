@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Feels like a basic editor feature, akin to the syntax errors that do get highlighted as-is. The fact that methods show a little connection icon next to them suggests on the other hand that they should inform if they aren't if they are intended for that purpose (an especially good argument for the `@connect` annotation). And for programmatically connected ones, it already gives an error when the Callable provided doesn't exist.",
+    "format": "form",
+    "workaround": "Would probably be quite challenging to, but perhaps some kind of unit test-ish plugin could loop through and verify?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2024-01-28T22:13:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8982,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Warning/error if a receiver method doesn't exist",
+  "up": 13,
+  "updatedAt": "2026-05-08T21:56:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8982"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Visual shader is a core feature.",
+    "format": "legacy",
+    "workaround": "Enhancing ux is not a workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-26T08:07:22Z",
+  "comments": 2,
+  "createdAt": "2019-05-13T19:45:10Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 884,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Visual shaders: Modify Texture and Colour nodes so there are explicit r, g, b channels",
+  "up": 0,
+  "updatedAt": "2021-05-26T14:18:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/884"
+}

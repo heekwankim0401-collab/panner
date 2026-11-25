@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think it can be done outside of a core change.",
+    "format": "markdown",
+    "workaround": "I suspect this will be used often. If I'm wrong about that, then yes, it can be worked around with a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-28T14:52:31Z",
+  "comments": 3,
+  "createdAt": "2021-01-25T04:13:11Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2181,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to init an array of specified size, pre-filled with a specified init value",
+  "up": 22,
+  "updatedAt": "2021-04-28T14:52:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2181"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be a simple change to the WorldEnvironment node that would help a lot of games generate more pleasing fog effects. Seems like it would benefit a lot of people and not a ton of effort to maintain.",
+    "format": "form",
+    "workaround": "Should be able to be accomplished manually with screen reading shaders, at least to some extent.\n\nhttps://docs.godotengine.org/en/stable/tutorials/shaders/screen-reading_shaders.html"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-12-29T14:56:11Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8743,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to configure the fog falloff as a gradient instead of a flat color",
+  "up": 6,
+  "updatedAt": "2026-04-03T23:26:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8743"
+}

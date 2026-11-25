@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving GDExtensions.",
+    "format": "form",
+    "workaround": "Calling `super()` in GDscript doesn't work.\n\nI can bypass this issue by using:\n\n1. Other virtual functions, like `_enter_tree()`, however, this function also can be overridden in GDscript\n2. Signals, however, I have to expose a function that I want to connect to signal to GDscript, sometimes I don't want to do it. In Addition, it messes up execution order."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-09-23T14:37:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 7821,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Perform GDExtension C++ virtual functions calls before GDscript",
+  "up": 8,
+  "updatedAt": "2024-02-19T19:12:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7821"
+}

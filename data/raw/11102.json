@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think addons can modify the project launch window either.",
+    "format": "form",
+    "workaround": "I don't think so. I don't think scripts can modify the launch project window"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-11-05T21:03:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11102,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Generate random color for Project Tags",
+  "up": 1,
+  "updatedAt": "2024-11-06T13:57:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11102"
+}

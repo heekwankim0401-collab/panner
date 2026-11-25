@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "All games need a basic AI, an AI editor would be something I don't think other engines has by default.",
+    "format": "legacy",
+    "workaround": "It would optimize the creation of AI, using common behaviours like pathfinding or RTS flocking behaviours."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2020-01-24T18:51:43Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 405,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an FSM visual editor for AI flowcharts",
+  "up": 17,
+  "updatedAt": "2022-08-24T20:40:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/405"
+}

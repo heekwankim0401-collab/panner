@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Again, an optimization for a core part of the engine. Not practical as an add-on.\n```[tasklist]",
+    "format": "form",
+    "workaround": "Not to my knowledge. This is an optimization for a major part of the engine - the only direct work around would be to roll my own navigation module, or use an altered version of the engine to implement the feature myself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2024-03-25T18:55:56Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 9381,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Bounds checking to Navigation Regions when creating connections between them.",
+  "up": 3,
+  "updatedAt": "2024-03-28T20:43:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9381"
+}

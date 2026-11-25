@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think you can make this work reliably as an addon. It is a basic functionality of any editing software.",
+    "format": "form",
+    "workaround": "It unfortunately can't."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-22T00:42:37Z",
+  "comments": 3,
+  "createdAt": "2024-06-24T11:47:45Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 10030,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a visual way to edit the AnimationPlayer's ⏰ Animation Length",
+  "up": 31,
+  "updatedAt": "2025-11-22T00:43:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10030"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It involves the core renderer.",
+    "format": "form",
+    "workaround": "There's workarounds with the current render pipeline but the new pipeline appears to have the potential to simplify a lot of that work.  For example, implementing terrain involves splitting it into chunks for culling, LODing, etc...  Splitting everything into meshlets makes terrain just another object and simplifies a lot.  The roadmap for 4.1 is also to do a lot of 3D optimizations, this is a potential optimization."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2023-05-07T08:36:44Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6822,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement mesh shading in RenderingDevice",
+  "up": 43,
+  "updatedAt": "2025-01-25T11:31:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6822"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There's only two ways to add new ARVRInterfaces, in core or via GDNative. However, this will only be used in the HTML5 export, and, unfortunately, the HTML5 export can't use GDNative. So, it has to be part of Godot core.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-04T23:20:19Z",
+  "comments": 1,
+  "createdAt": "2020-09-29T02:37:02Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms",
+    "topic:xr"
+  ],
+  "milestone": "4.0",
+  "number": 1581,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add WebXR support",
+  "up": 3,
+  "updatedAt": "2021-01-04T23:20:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1581"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It has to be a core modification. Allowing that fps to be 0 by default would allow animations to run naturally.",
+    "format": "form",
+    "workaround": "This cannot be worked around easily. The only work around saving it to a resource adds significant wait time every time you load, run or save a project."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-08T15:25:39Z",
+  "comments": 2,
+  "createdAt": "2022-06-24T20:58:16Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 4742,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "AnimatedTexture should be 0 fps by default so it animates normally based on frame time",
+  "up": 2,
+  "updatedAt": "2022-09-08T15:25:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4742"
+}

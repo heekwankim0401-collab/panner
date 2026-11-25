@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Can such integration of API be done using an add-on? It looks like a core communication principle.",
+    "format": "legacy",
+    "workaround": "There is the polling possibility explained above. But requires overhead and limits input framerate."
+  },
+  "assignees": 1,
+  "closedAt": "2022-09-30T08:13:24Z",
+  "comments": 7,
+  "createdAt": "2019-12-05T14:07:57Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:gdscript",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 286,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to call GDScript code from JavaScript in HTML5 exports",
+  "up": 12,
+  "updatedAt": "2025-11-20T03:16:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/286"
+}

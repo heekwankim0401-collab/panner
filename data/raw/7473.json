@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "As far as I can tell, it's a pretty popular request that many people also want",
+    "format": "form",
+    "workaround": "No. I'm planning on adding several dozens of tilemaps with many tiles of different sizes and colors, consisting of several different collision shapes. I physically cannot make and rotate 3 copies, redraw all the collisions, and adjust center points for EACH tile manually."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-10T11:05:51Z",
+  "comments": 2,
+  "createdAt": "2023-08-10T10:05:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7473,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reimplement ability to rotate/modulate tiles in a TileMap",
+  "up": 2,
+  "updatedAt": "2023-08-11T12:45:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7473"
+}

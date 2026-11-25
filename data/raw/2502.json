@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Since \"Horizontal Vector 2 Editing\" is already a thing, which means there's a possibility that this can also be easily done.\nI don't think it's a bad choice to be included into the engine as a default option, instead of having to make an add-on for very minor thing.",
+    "format": "markdown",
+    "workaround": "If there's a detailed documentation on how to advance-customize the exporting method, specially on the design for the input field, then `exports` properties can be solved. But there's no way to customize default properties. (Button text label, for example)\nAlternatively, is to expand the inspector dock. There's a proposal for a new automated width https://github.com/godotengine/godot/pull/41369 , but that still requires user to expand it initially."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-03-24T15:05:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2502,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to display text field/string input in the inspector below the property name",
+  "up": 0,
+  "updatedAt": "2021-03-25T03:27:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2502"
+}

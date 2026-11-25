@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Right now SoftBody3D has purely decorative utility. This idea would open it to other interactive usage. Add-ons cannot solve this as they have no exposure to the internals of SoftBody3D\n\nThis proposal might be considered together with other restructuring the Physics parts in future versions.",
+    "format": "form",
+    "workaround": "The current prototype workaround with RB is just an idea. Seemingly, the internal mesh is also not directly exposed. If the local transforms of `get_point_transform` are somewhat useful, this might be a possible workaround together with other physics primitives."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2025-05-28T16:40:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12516,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose SoftBody3D collisions as signal(s)",
+  "up": 3,
+  "updatedAt": "2026-01-22T19:41:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12516"
+}

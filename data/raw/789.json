@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it would basicly be a better version of the Tilemap and current Gridmap but not limited to only sprites and meshes.\n\nhttps://github.com/godotengine/godot-proposals/issues/747",
+    "format": "legacy",
+    "workaround": "This would be used quite often and while it could be worked around its not something that should be."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-05-02T23:51:44Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "5.0",
+  "number": 789,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename GridMap to MeshMap or TileMap3D and add actual GridMap node",
+  "up": 25,
+  "updatedAt": "2026-06-28T15:53:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/789"
+}

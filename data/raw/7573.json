@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core feature for an engine, the ability to play an animation across a combined rig, I came from roblox studio and that's how we did it there (although more messily), but to my knowledge unity and unreal work in the same manner\n\nYou can't really make a third-person character equip a gun, and the gun be animated alongside the character without it\n```[tasklist]",
+    "format": "form",
+    "workaround": "It's a node so it's the user's choice to use it or not"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-08-28T20:10:51Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7573,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to combine rigs, so that one animation can play across them",
+  "up": 0,
+  "updatedAt": "2023-10-16T07:10:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7573"
+}

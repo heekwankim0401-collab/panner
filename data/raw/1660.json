@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Most modern games pre-configure their settings based on the player's hardware. This is a fairly common feature, so many developers who are making games would also benefit from these functions, in more ways that what I have explained above.",
+    "format": "legacy",
+    "workaround": "Not really, this would most likely involve either making a C++ module or a NativeLibrary, with bindings to another library that already has this functionality. This would not be trivial for a majority of Godot developers."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-16T08:34:53Z",
+  "comments": 5,
+  "createdAt": "2020-10-13T21:56:43Z",
+  "down": 1,
+  "labels": [
+    "topic:core",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 1660,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add functions to detect the player's CPU hardware",
+  "up": 0,
+  "updatedAt": "2022-02-16T08:35:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1660"
+}

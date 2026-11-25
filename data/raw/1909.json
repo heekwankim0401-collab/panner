@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Technically, you could probably get away with something similar in script code using a mix of PluginScript, some sophisticated resource format loader/saver stuff (maybe with some changes to core?), but PluginScript doesn't have script class support (and #22 actually makes no mention of adding it - not sure how that would be done). And what's more, PluginScript is badly documented with many just not knowing how exactly it works (NativeScript is already complex enough without adding PluginScript on top of that). An add-on is just plagued with all sorts of issues that become far easier to identify, address, and resolve in engine code.\n\nNot to mention, making it a built-in feature would just be a lot more useful to a much wider collection of users, *especially* considering the percentage of users that exclusively use GDScript and VisualScript for their projects (something like, what, 60+%?). And even to people who also use C# and/or GDNative C++, they can always mix and match what kinds of scene files they use for different parts of their project, so again, *still useful to a massive audience of Godot users, especially beginners*.",
+    "format": "markdown",
+    "workaround": "I could easily envision people creating entire projects with nothing but ScriptScenes in place of managing both Scripts and PackedScenes for their project, so long as they only ever planned on using GDScript, VisualScript, etc. for their project. So yes, if the feature existed, it very well could be used *a lot*.\n\nAnd no, there is no existing simple solution in scripting to do this, as evidenced by my rejection of such solutions [here](https://github.com/godotengine/godot-proposals/issues/1906#issuecomment-735436186).\n\nNow, if some select changes were made to the engine, there is a different viable option that makes it easier to implement a *similar* idea in script code (https://github.com/godotengine/godot-proposals/issues/1906#issuecomment-735451623), but I ultimately believe a different, more thorough approach will yield stronger benefits since this version naturally has support for more languages without custom language code and better satisfies the requirements of the problem without requiring boilerplate code for every class that is declared."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2020-11-29T21:10:51Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1909,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a ScriptScene resource which optionally, but tightly binds a root script to a scene for all languages supporting built-in scripts.",
+  "up": 13,
+  "updatedAt": "2022-08-01T05:13:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1909"
+}

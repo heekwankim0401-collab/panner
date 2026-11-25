@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "General editor usability improvement.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-29T18:46:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8294,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use EditorZoomWidget consistently in editor",
+  "up": 8,
+  "updatedAt": "2023-11-03T16:13:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8294"
+}

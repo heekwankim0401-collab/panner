@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can be an Add On like I showed above, but having it baked in could introduce a low-level database to track levels and make accessing them globally where needed a much easer and cleaner task.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-25T18:25:21Z",
+  "comments": 0,
+  "createdAt": "2024-02-25T03:06:25Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9171,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a Level Manager",
+  "up": 0,
+  "updatedAt": "2024-02-25T19:58:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9171"
+}

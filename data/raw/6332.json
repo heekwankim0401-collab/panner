@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I do not believe this is possible in an asset library, but I would be happy to be corrected. As I said before, I believe the precedent is already there in the dropdown.",
+    "format": "form",
+    "workaround": "I would use it frequently, but I'm not sure if other people have the same issue. I tried to figure out how to do it using a custom Import script but it seems quite tricky to move a resource that's already been added to a scene."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-02-21T17:32:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6332,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a save path option to texture extraction in the Advanced Import Settings dialog",
+  "up": 3,
+  "updatedAt": "2024-04-29T21:07:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6332"
+}

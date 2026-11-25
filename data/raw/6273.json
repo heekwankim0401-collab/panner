@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it's the editor",
+    "format": "form",
+    "workaround": "it's the editor"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-13T08:30:03Z",
+  "comments": 2,
+  "createdAt": "2023-02-11T13:37:57Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 6273,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disable long-press rename in the Scene tree dock to avoid conflicts with the node context menu in the Android editor",
+  "up": 2,
+  "updatedAt": "2023-02-13T08:30:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6273"
+}

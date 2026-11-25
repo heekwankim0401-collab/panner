@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's definitely not necessary to have this in core, consider approving #1433 which is easier to maintain and which has a higher chance of being backwards compatible, I just don't see other ways to expose animated image loading methods otherwise.\n\nYou may recall a pull request of mine which aimed at adding indexed image support: godotengine/godot#28013 (which is now part of [Goost](https://github.com/goostengine/goost), by the way), and GIFs could be imported as `ImageIndexed` there, so perhaps it's better if this is maintained outside of Godot core by now. What do you think?",
+    "format": "legacy",
+    "workaround": "It's about extending the existing core `Image` class and various C++ loaders which are/can be implemented in the future, not sure if possible to implement via script and it would just defeat the purpose of this proposal."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-26T22:25:22Z",
+  "comments": 1,
+  "createdAt": "2020-09-02T12:36:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1448,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add animated image data support as a built-in `Image` feature",
+  "up": 1,
+  "updatedAt": "2021-04-26T22:25:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1448"
+}

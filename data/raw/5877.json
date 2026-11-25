@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "those variables are very helpful to users and  they seem like something  that should be included out of the box and  add_on developers would  use themselves  for extending functionality",
+    "format": "form",
+    "workaround": "currently  only the length for bones with children can be obtained by  comparing the child bone location to the parent bone location.    this also only works if you pre define the child bone name as well and if the child bone is attached at the tip of the parent bone and nowhere else.       if the bone has no children or the above conditions are not met  there is no other way to get that information that i know about."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-11-30T16:30:00Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 5877,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the length and tip location of 3D bones for skeletons accesible via a method in script",
+  "up": 4,
+  "updatedAt": "2022-12-07T16:56:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5877"
+}

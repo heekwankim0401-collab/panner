@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-23T17:04:59Z",
+  "comments": 1,
+  "createdAt": "2026-06-23T02:09:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 15066,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add setting to `AnimatedSprite2D` to loop back to a specific frame of animation",
+  "up": 0,
+  "updatedAt": "2026-06-23T17:05:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15066"
+}

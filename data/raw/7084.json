@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`popup_hide` is an obvious counterpart to `about_to_popup`. Either both signals should exist, or both signals should be removed -- it is unusual to be able to add a signal for one, but to require a custom 10-20 line script to implement the other.",
+    "format": "form",
+    "workaround": "Yes, I have written a script which can hang off of any node to provide a `popup_hide` signal. It does this by listening for `visibility_changed` events, performing some boolean logic and then emitting a signal.\n\n```\nextends Node\n\nsignal popup_hide\n\n# Called when the node enters the scene tree for the first time.\nfunc _ready() -> void:\n\tget_parent().visibility_changed.connect(_on_Dialog_visibility_changed)\n\n\nfunc _on_Dialog_visibility_changed() -> void:\n\tif not get_parent().visible:\n\t\temit_signal(\"popup_hide\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-06-14T17:20:00Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7084,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Restore the Godot 3 \"FileDialog.popup_hide\" signal",
+  "up": 3,
+  "updatedAt": "2025-10-31T11:47:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7084"
+}

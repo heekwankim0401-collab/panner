@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is currently Possible to use GetChild(int index) and GetChild(string name). GetChild by index is limiting, as I would need to search for the child anyway and must write boilerplate code, which could land within the engine itself (as my proposal does)\nGetChild by name introduces the issue, that you can't really rename a Node without breaking the code and the name is unnecessary from a coding point of view as a programmer would want a child of a specific type. It is just important that the invocation works.",
+    "format": "form",
+    "workaround": "Yes, that could be done with iterating through all Children with index and check for type, but this introduces Boilerplate. \n\nalso, the Level-order-Search, which I use for to find grandchildren might not be easy to implement for other users of the engine and should be provided by the engine itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-09-29T07:56:03Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 5512,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Adequate implementation of \"GetComponent\" as GetChild in Godot .Net",
+  "up": 1,
+  "updatedAt": "2022-10-25T08:18:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5512"
+}

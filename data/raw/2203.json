@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In my opinion, it's useful enough to be in core.",
+    "format": "markdown",
+    "workaround": "Possibly with a tool, though I'm not exactly sure how."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-10T19:13:40Z",
+  "comments": 3,
+  "createdAt": "2021-01-30T14:09:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 2203,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow duplicating instanced scene's children",
+  "up": 4,
+  "updatedAt": "2025-09-10T22:48:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2203"
+}

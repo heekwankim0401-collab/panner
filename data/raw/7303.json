@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would improve the first time usability of the editor for a lot of users",
+    "format": "form",
+    "workaround": "Non-qwerty users can manually remap all the problematic shortcuts in the IDE but this is not very convenient."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-16T23:27:05Z",
+  "comments": 3,
+  "createdAt": "2023-07-16T12:08:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 7303,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make all editor shortcuts use physical keycodes",
+  "up": 0,
+  "updatedAt": "2023-07-16T23:28:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7303"
+}

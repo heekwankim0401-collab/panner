@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "No idea...",
+    "format": "form",
+    "workaround": "I think it would be used often because necessary for Tilemap based games with larger scene instances."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-24T19:13:31Z",
+  "comments": 1,
+  "createdAt": "2023-04-24T14:40:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6749,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Tilemap's `set_cell` function for scene instances bigger than one tile size",
+  "up": 0,
+  "updatedAt": "2023-04-24T22:52:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6749"
+}

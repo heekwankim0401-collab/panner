@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about asset library",
+    "format": "form",
+    "workaround": "It will be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-05-23T06:26:30Z",
+  "down": 11,
+  "labels": [
+    "topic:assetlib",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6934,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Include nodes from the asset library in the Create New Node dialog",
+  "up": 3,
+  "updatedAt": "2023-10-15T06:14:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6934"
+}

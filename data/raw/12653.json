@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same reason all the other GDScript warnings aren't.",
+    "format": "form",
+    "workaround": "Not that I'm aware of."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-30T23:39:09Z",
+  "comments": 10,
+  "createdAt": "2025-06-23T15:40:07Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.6",
+  "number": 12653,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add opt-in GDScript warning for when calling a coroutine without `await`",
+  "up": 9,
+  "updatedAt": "2026-01-29T18:28:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12653"
+}

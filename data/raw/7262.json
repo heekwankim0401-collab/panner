@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a modification to existing core functionality",
+    "format": "form",
+    "workaround": "This can be imperfectly worked around by creating a property track for `AudioStreamPlayer.playing` (with discrete interpolation).  The waveform will appear in the animation timeline, and the sound will play in the editor.  However, if `playing` is keyframed at the start of the animation, the sound will also play whenever the animation is `stop()`ped!\n\n![Screenshot_20230711_190258](https://github.com/godotengine/godot-proposals/assets/441188/a4a3049a-e076-4165-be0c-dcc2a1263ff0)\n\nAnother workaround mechanism is to use a \"call method track\" on the `play` method of the `AudioStreamPlayer`.  However in this case, the audio is neither previewed nor played back in the editor.\n\n![Screenshot_20230711_143111](https://github.com/godotengine/godot-proposals/assets/441188/651e0566-5c65-4bf6-9428-70dc3062a822)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-07-11T13:19:27Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 7262,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow animations to play `AudioStreamPlayer`'s pre-configured stream",
+  "up": 0,
+  "updatedAt": "2023-07-11T17:03:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7262"
+}

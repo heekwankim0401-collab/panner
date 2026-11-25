@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Addons could possibly add UI based ways to improve this, but this will be a very common issue that will make building detailed scenes in Godot a lot harder for artists, so it makes sense to fix it in core.\n\nI really appreciate all the hard work you guys are doing on improving Godot's workflow! I'm super excited for all these improvements such as Import Settings Window, and Automatic LODs. I think its super important for an engine built for small teams/solo users to have its workflow highly polished, like many aspects of Godot 4.0 will be.",
+    "format": "form",
+    "workaround": "One could work around part of this for meshes with Static Bodies by creating their own scenes for each asset with the mesh as the root node, but this takes more steps, adds extra files to have to manage, and defeats the whole point of all the hard work to make the Advanced Import Settings Window to avoid those problems."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-06-18T19:29:33Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2883,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve the mesh asset workflow in the 3D editor",
+  "up": 0,
+  "updatedAt": "2024-07-30T13:27:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2883"
+}

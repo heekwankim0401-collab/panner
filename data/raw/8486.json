@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Any respectable engine has an LOD system.",
+    "format": "form",
+    "workaround": "Swapping meshes in code. But that means every prop will need to run GDscript logic."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-21T17:08:29Z",
+  "comments": 3,
+  "createdAt": "2023-11-21T15:46:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8486,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Mesh LOD for Godot 3 LTS",
+  "up": 0,
+  "updatedAt": "2023-11-22T16:04:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8486"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature is in every file manager out of the box even in file managers that is not developer-focused (like the windows file manager)\nIt makes sense to add it considering it's an improvement to the editor workflow as a whole",
+    "format": "form",
+    "workaround": "I'm sure it will be used quite often"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-22T16:23:17Z",
+  "comments": 7,
+  "createdAt": "2023-06-01T00:31:51Z",
+  "down": 2,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 6994,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a \"Open Terminal Here\" context menu option to the FileSystem dock",
+  "up": 15,
+  "updatedAt": "2023-12-22T16:26:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6994"
+}

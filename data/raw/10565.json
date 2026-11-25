@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This extends the native Save Branch as Scene.",
+    "format": "form",
+    "workaround": "No, I'd need an editor script to create an Inherited scene and copy all the overridden properties from a given node..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-08-26T19:05:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10565,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Save Branch as Scene on an instantiated scene with local modifications to create an Inherited Scene",
+  "up": 17,
+  "updatedAt": "2025-03-14T12:33:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10565"
+}

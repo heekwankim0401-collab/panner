@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-11T16:26:16Z",
+  "comments": 0,
+  "createdAt": "2026-06-10T17:53:18Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.8",
+  "number": 14994,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add theme constant `icon_max_width` to limit icon size on `SpinBox`",
+  "up": 2,
+  "updatedAt": "2026-09-11T16:26:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14994"
+}

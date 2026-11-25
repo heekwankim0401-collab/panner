@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "Being an add-on in assets library again brings the problem of the addons not being updated as Godot. So we have to wait for the plugin developer to update the add ons before we can update the engine itself.",
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-22T18:07:31Z",
+  "comments": 5,
+  "createdAt": "2021-04-30T12:57:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "platform:ios",
+    "topic:platforms",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2676,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add built-in monetization and authentication plugins for mobile platforms",
+  "up": 1,
+  "updatedAt": "2022-03-07T14:58:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2676"
+}

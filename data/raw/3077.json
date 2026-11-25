@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "For me it would be fine as an add-on if that is possible, but I am not sure if it is.",
+    "format": "form",
+    "workaround": "If this can be solved as an editor plugin, some pointers as to how to make that would be great! Then I could make the add-on and share it. Problem solved.\n\nI found this [https://github.com/samw3/godot-copy-transform](https://github.com/samw3/godot-copy-transform), but it only works between nodes, not resources."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-02T17:00:49Z",
+  "comments": 1,
+  "createdAt": "2021-08-02T16:58:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3077,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "In Editor, copy and paste Vector values",
+  "up": 0,
+  "updatedAt": "2021-08-02T17:00:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3077"
+}

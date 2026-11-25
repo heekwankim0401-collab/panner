@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "GPUParticles3D is core, and I think a lot of games my need to spawn particles that are attached to a skeleton somehow for awesome visuals.",
+    "format": "form",
+    "workaround": "can't be worked around at all, atleast with my current knowledge."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-27T15:32:29Z",
+  "comments": 1,
+  "createdAt": "2023-09-27T11:53:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7888,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GPUParticles3D support Mesh with Skeletons/Animation",
+  "up": 0,
+  "updatedAt": "2023-09-27T15:32:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7888"
+}

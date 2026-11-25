@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Supporting as many file types as possible is key to a good game engine. You never want to force developers to use specific image file-types, specific 3D mesh formats, etc. Since markdown is commonly used in the programmer world (especially open-source projects like Godot), markdown support would likely be used by many developers.",
+    "format": "form",
+    "workaround": "I can see this becoming an editor plugin, though native support would of course be best.\n\nGodot already supports this within its documentation pages. Pulling up GDScript documentation in the editor is basically already there; it just needs to extend this to markdown files in the res:// folder. Since Godot already almost has this feature, it'd be best to just extend this to markdown files, rather than building a whole separate plugin for it."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-08T22:31:14Z",
+  "comments": 1,
+  "createdAt": "2022-11-08T18:00:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5747,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add markdown support in editor",
+  "up": 0,
+  "updatedAt": "2022-11-08T22:31:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5747"
+}

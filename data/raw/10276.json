@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It should be core i think.",
+    "format": "form",
+    "workaround": "No, it can't"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-24T15:34:35Z",
+  "comments": 2,
+  "createdAt": "2024-07-25T09:49:59Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 10276,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement node collapsing in the animation track editor",
+  "up": 11,
+  "updatedAt": "2026-02-24T16:58:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10276"
+}

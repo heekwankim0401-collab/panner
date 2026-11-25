@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is already included in the editor, it would just be removing unnecessary sizes and adding new ones",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-20T14:27:18Z",
+  "comments": 3,
+  "createdAt": "2024-05-21T02:56:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 9794,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add zoom presets of 110% and 120 or 125% in the script editor",
+  "up": 0,
+  "updatedAt": "2024-09-20T14:27:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9794"
+}

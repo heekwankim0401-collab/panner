@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A plugin for plugins to plugin plugins pluginner? Hmmm... But seriously, this boils down to the same shortcomings as described above.",
+    "format": "form",
+    "workaround": "There are quite a few tricks to work around these limitations in plugin scripts, but all of them are verbose, cumbersome, and require to have all the icon states ready beforehand. For scaling, only the predefined scale factors can be reasonably supported too.\n\nHere's an example from @coppolaemilio with his folder full of icons. A reminder that for the editor all these permutations are handled automatically:\n\n![image](https://user-images.githubusercontent.com/11782833/182029515-959302f1-54b0-482b-8cf5-58242a2b05c8.png)"
+  },
+  "assignees": 1,
+  "closedAt": "2022-09-09T14:52:34Z",
+  "comments": 9,
+  "createdAt": "2022-07-31T13:51:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 5034,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow icons to be marked \"for editor use\" during import and automatically handled to match the editor settings",
+  "up": 49,
+  "updatedAt": "2022-09-09T14:52:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5034"
+}

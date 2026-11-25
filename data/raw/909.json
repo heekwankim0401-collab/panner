@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The debugger is a core feature and cannot be modded with scripts.",
+    "format": "legacy",
+    "workaround": "You would have to use `print`, which defeats the point. So not really. It's just more time-consuming."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2020-05-26T18:51:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 909,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add conditional/printing breakpoints",
+  "up": 38,
+  "updatedAt": "2025-01-05T02:09:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/909"
+}

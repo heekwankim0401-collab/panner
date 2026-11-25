@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Cannot be implemented as an add-on.",
+    "format": "form",
+    "workaround": "A similar result can be achieved by introducing a shader uniform to every shader that needs to access this macro, and set it from GDScript/GDExtrension code. However, doing so would introduce a runtime overhead to every vertex/fragment/light calculation that needs to check for this condition."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-07T05:47:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12741,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add IS_IN_EDITOR built-in macro (#define) to shading language/preprocessor",
+  "up": 7,
+  "updatedAt": "2025-07-07T16:01:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12741"
+}

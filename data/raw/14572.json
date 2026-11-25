@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-05T23:14:12Z",
+  "comments": 3,
+  "createdAt": "2026-03-30T00:35:21Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 14572,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename RichTextLabel's `normal_font` to `font`",
+  "up": 2,
+  "updatedAt": "2026-04-06T10:10:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14572"
+}

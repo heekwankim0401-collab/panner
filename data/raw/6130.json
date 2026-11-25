@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AnimationStateMachine is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-24T16:41:47Z",
+  "comments": 2,
+  "createdAt": "2023-01-20T07:35:59Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.1",
+  "number": 6130,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Separate Sub(Nested)StateMachine and StateMachineGroup processes",
+  "up": 3,
+  "updatedAt": "2023-04-24T16:41:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6130"
+}

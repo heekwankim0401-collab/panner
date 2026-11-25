@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Most programs are installed in this directory to test whether they can write, should this function be in the core.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-06T21:49:50Z",
+  "comments": 3,
+  "createdAt": "2021-03-06T21:02:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 2415,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Start/Test if program in administrator mode",
+  "up": 0,
+  "updatedAt": "2021-03-06T22:22:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2415"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Newly introduced features, if not essential to the core of the engine, should generally be optional, as opposed to forcing users to use them. The scaling algorithms implemented may be useful for realistic rendering, but they do not work as well for stylized applications (which are a relatively common choice for indie projects like much of Godot's userbase).",
+    "format": "form",
+    "workaround": "As far as I can tell, the workaround would require recreating the SubViewport code as a custom node, or something similar."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-26T02:53:01Z",
+  "comments": 1,
+  "createdAt": "2023-02-26T01:53:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6358,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow bypassing the new SubViewport Scaling3D system, for sharp pixel edges",
+  "up": 0,
+  "updatedAt": "2023-02-26T02:53:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6358"
+}

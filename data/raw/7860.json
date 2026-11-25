@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Speaking as a tech artist, I think experienced shader editor users will greatly appreciate these improvement, as these features are common among other applications, if not universal. Making them optional via add-on introduces fragmentation unnecessarily.",
+    "format": "form",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-09-25T16:38:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7860,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve Visual Shader Editor by adding standard node-based editor features",
+  "up": 1,
+  "updatedAt": "2023-09-28T08:43:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7860"
+}

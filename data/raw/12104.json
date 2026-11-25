@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "ListView is in the core so this functionality is closely aligned with core.",
+    "format": "form",
+    "workaround": "Yes using the existing code I use above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-03-29T19:42:28Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12104,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ItemsSource property to ListView Control",
+  "up": 0,
+  "updatedAt": "2025-03-31T15:16:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12104"
+}

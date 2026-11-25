@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an addon that interferes directly with how resources are loaded. I took some time to make sense of how resources are loaded in Godot's source and couldn't come up with a good way to create a parser without resulting in a wrapper that also needs another set of procedures to take care of leftover files.",
+    "format": "form",
+    "workaround": "This could work out with some GDScript-based implementations that simply write files into `user://` space and load them that way, but it's not fool-proof since it's still somewhat difficult to make sense of the way to sweep leftover resources without some of software engineering skills, and Godot is supposed to be easy to use for anyone who want to make games easily."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-05-03T19:30:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9670,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide a function that parses text into resource/scene types.",
+  "up": 2,
+  "updatedAt": "2024-05-04T09:09:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9670"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Cannot be implemented outside of core as far as I can tell.",
+    "format": "form",
+    "workaround": "I have not been able to find a workaround.\n\nThe docs indicate that calling `open` on the dock when the `default_slot` is `DOCK_SLOT_NONE` will open the dock as floating.  I tried to hack a method together to make it floating, but I was unsuccessful.  The `await` calls were a shot in the dark.  They didn't help.\n```gdscript\nextends EditorDock\n...\nfunc force_windowed():\n\tclose()\n\tawait get_tree().process_frame\n\tdefault_slot = EditorPlugin.DOCK_SLOT_NONE\n\tawait get_tree().process_frame\n\topen()\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-01-05T17:47:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13960,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to change EditorDock slot/floating via code (at least floating).",
+  "up": 0,
+  "updatedAt": "2026-02-22T16:29:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13960"
+}

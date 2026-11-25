@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A lot of games use light UI themes and especially people interested in building \"Apps\" in Godot. You figure about 50% of games/apps are light themed? therefore this affects about half of all projects and its very cumbersome to deal with.",
+    "format": "form",
+    "workaround": "I haven't found a good true workaround as you can't make a canvas shader easily that doesn't also affect text and icons if you wanted to just modulate only the controls themselves."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-12-29T16:30:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11440,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a light theme preset for the default project theme and allow customizing the accent color",
+  "up": 1,
+  "updatedAt": "2025-01-02T21:33:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11440"
+}

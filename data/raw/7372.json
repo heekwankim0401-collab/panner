@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is core type change request",
+    "format": "form",
+    "workaround": "I am not sure about others, but while creating a simple game I have to use Vector2(2.0, 2.0)  couple of times. \nFairly, I am assuming others will be doing it too."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-25T21:03:02Z",
+  "comments": 1,
+  "createdAt": "2023-07-25T20:25:10Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7372,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Vector2/2i single argument constructor",
+  "up": 0,
+  "updatedAt": "2023-07-25T21:06:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7372"
+}

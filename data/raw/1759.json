@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "UX improvement for existing core functionality.",
+    "format": "legacy",
+    "workaround": "UX improvement for signal rigging. Signal rigging happens a lot.\n\nLet's ballpark for a decently-sized game with many of these connections (my case): 120 levels × 100 uses (not all are permanent, level design is iterative) = 12 000 uses. If the current workflow involves a minute of scrolling to find the right node with the right name in the dialogue window and this proposal cuts it down to a relatively negligible time, that's 12 000 minutes, or 200 hours of annoying gruntwork gone. Per that decently-sized game. Seems **often** enough for this type of game. Will improve UX for all other types of games, just not as dramatically, but still, in a meaningful way.\n\nThis could be worked around by creating your own editor inside the game. That's not a solution, that's a symptom of a lacking Godot editor functionality and another way to spend the 200 hours, (provided one has the skills to take that advanced path)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-11-02T06:21:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 1759,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to connect signals in the editor with drag-and-drop and name search",
+  "up": 6,
+  "updatedAt": "2023-02-24T01:24:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1759"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I am unsure if addons can modify the existing Scene tab to make this possible",
+    "format": "form",
+    "workaround": "i cannot find a workaround currently. mabey once 4.4 comes out I can check if a tool button would be able to fix this issue with a iteration over every child to copy owner to it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-09T02:19:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11121,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Show All Nodes option to the Scene tree dock",
+  "up": 0,
+  "updatedAt": "2024-11-09T18:20:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11121"
+}

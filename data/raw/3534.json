@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, this is really essential for anyone who wants to write their own sky shader. Most other engines also include this as part of their core engine (e.g. Unreal's SkyboxImage node).",
+    "format": "form",
+    "workaround": "Yes, in theory no more than two dozen lines of glsl should be necessary. However, all of my attempts to implement this myself have failed one way or another once I started rotating the light vector (bending, stretching, ...).\n\nGiven how essential this is for anyone who wants to write their own sky shader and how complex some of my attempts have become I think a ready-made solution should be provided."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-11-11T19:40:39Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3534,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a SkyImageUV node to render texture in a sky shader",
+  "up": 8,
+  "updatedAt": "2023-05-05T17:49:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3534"
+}

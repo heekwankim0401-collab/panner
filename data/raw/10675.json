@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Ergonomics / IDE standards",
+    "format": "form",
+    "workaround": "It can be worked around by moving your fingers a few more centimeters lol.\nBut it should be easy to implement. I guess I could do it myself, and I might in the future :))"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-18T15:44:12Z",
+  "comments": 1,
+  "createdAt": "2024-09-06T21:23:28Z",
+  "down": 1,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.4",
+  "number": 10675,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a button to switch between 'Search' and 'Replace' in the code editor",
+  "up": 5,
+  "updatedAt": "2024-09-18T15:45:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10675"
+}

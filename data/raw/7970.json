@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Gridmap core.",
+    "format": "form",
+    "workaround": "It would be a gridmap enhancement. The current workaround is installing Ed's CSG to MeshInstance (https://godotengine.org/asset-library/asset/1425), painstakingly adding each mesh into a CGSMesh, adding those as children of CSGCombiner and destructively combining the meshes into a single mesh.\n\nIf in Blender, merging the meshes before exporting to GLB."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-10-03T12:50:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 7970,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow GridMap to combine child meshes into a single MeshItem",
+  "up": 12,
+  "updatedAt": "2025-03-27T00:43:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7970"
+}

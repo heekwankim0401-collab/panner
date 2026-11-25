@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Currently we have to write a lot of boilerplate for simple stuff.\nI was trying to sync the button and label text color, but since I couldn't just set the button to a hover or focus state and since button has state the label doesn't I couldn't get it to work.\n\nControls are already part of core.\nI would love to see them not be so hard coded and tied to desktop ui.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-21T18:33:03Z",
+  "comments": 3,
+  "createdAt": "2025-11-21T06:30:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13674,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "We need better support for composite controls.",
+  "up": 0,
+  "updatedAt": "2025-11-21T18:38:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13674"
+}

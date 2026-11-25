@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GridMap is part of core, and any add-on using Gridmap would have the issue of not being able to send a single call for updating cells, as it would really just be a whole bunch of set_cell_item calls that are the problem in the first place..",
+    "format": "legacy",
+    "workaround": "Not really, as any way of setting cells has to individually add cells using set_cell_item, which just leads back to the problem.\nOnly alternative is to use something like https://github.com/Zylann/godot_voxel which requires recompiling the engine, and might not be as flexible as desired (for example can't have different types of meshes, which -might- in some cases be desired)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-11-09T09:41:32Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1795,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Optimize setting large amounts of GridMap cells by adding a batching property",
+  "up": 11,
+  "updatedAt": "2022-09-09T23:44:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1795"
+}

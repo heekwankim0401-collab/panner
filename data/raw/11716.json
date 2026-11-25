@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It could be an addon, but I feel this addition is pretty straightforward and could be an upgrade to find files faster, and especially to \"navigate\" certain types of files depending on the work you're doing at the moment.",
+    "format": "form",
+    "workaround": "It's a core FileSystem utility. Users can elect to not use it, but it could be very powerful for users such as Artists, who deal with a great amount of files (Meshes, Materials, Textures, etc.).\n\nIt can be \"worked around\" simply by not having this filter. It just takes longer to find the file you're searching for and creates the need to make files have different names, even if when different types of Resources used for different purposes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-02-07T11:51:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11716,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ClassType filter to FileSystem search function",
+  "up": 6,
+  "updatedAt": "2025-02-07T15:20:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11716"
+}

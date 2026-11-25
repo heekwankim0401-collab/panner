@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not sure there is any workaround in pure GDScript and it is very simple to implement in the engine.\n\nI'm willing to work on this and submit a PR, just wanted to make sure there was no GDScript solution and that this was a good way to go about this.",
+    "format": "legacy",
+    "workaround": "Those who don't need this functionality can continue to use Tree just as they have before. It doesn't break any current projects."
+  },
+  "assignees": 0,
+  "closedAt": "2020-04-15T03:18:54Z",
+  "comments": 6,
+  "createdAt": "2020-04-14T18:19:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 708,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add add_item method to Tree Node",
+  "up": 0,
+  "updatedAt": "2022-09-19T12:43:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/708"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Editor feature, fail-safety.",
+    "format": "form",
+    "workaround": "Otherwise you have to keep in mind or organize files respectively, so as to not to forget that they are used as autoloaded."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-21T12:53:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7345,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Warn on removal of autoloaded script or scene",
+  "up": 1,
+  "updatedAt": "2023-07-21T20:38:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7345"
+}

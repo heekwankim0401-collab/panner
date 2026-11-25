@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about changing how core data types work, so it's already in core.",
+    "format": "legacy",
+    "workaround": "This will be used often, and yes it can be worked around, but this should be in core."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-13T09:58:24Z",
+  "comments": 9,
+  "createdAt": "2020-11-12T06:15:12Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1819,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reformat structure string operators",
+  "up": 0,
+  "updatedAt": "2021-06-13T09:58:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1819"
+}

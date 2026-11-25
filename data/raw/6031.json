@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 262,
+  "createdAt": "2023-01-01T08:45:28Z",
+  "down": 1,
+  "labels": [
+    "performance",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6031,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve the performance of the GDScript VM through offline compilation",
+  "up": 170,
+  "updatedAt": "2026-10-14T23:20:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6031"
+}

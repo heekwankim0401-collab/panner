@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Navigation is core.",
+    "format": "form",
+    "workaround": "Routing on a weighted mesh currently requires a completely external navigation solution."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-18T16:57:43Z",
+  "comments": 8,
+  "createdAt": "2025-06-13T17:52:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 12602,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support per-polygon travel and enter costs on navigation meshes",
+  "up": 0,
+  "updatedAt": "2025-06-18T17:19:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12602"
+}

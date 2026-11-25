@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would have to be built in as the animation resources would need to store additional data. And it's about improving the animation experience out of the box.",
+    "format": "form",
+    "workaround": "This could not be worked around in a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-26T09:34:10Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12501,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow separate handle modes for in and out handles on Bezier animation curves",
+  "up": 2,
+  "updatedAt": "2025-10-04T10:48:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12501"
+}

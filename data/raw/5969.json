@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The variable name can't be changed without accessing core.",
+    "format": "form",
+    "workaround": "It's an aesthetic enhancement"
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-20T18:19:33Z",
+  "comments": 1,
+  "createdAt": "2022-12-20T17:57:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5969,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Naming consistency of value on CollisionShapes",
+  "up": 0,
+  "updatedAt": "2022-12-20T18:19:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5969"
+}

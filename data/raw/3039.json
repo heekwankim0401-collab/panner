@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature could be used very often by a huge range of people. In fact, this is my day one with the Godot engine and I still felt the need for it.",
+    "format": "form",
+    "workaround": "Yes, this can be worked around with an editor plugin, but it is a necessary feature that can be used by a huge range of people."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-27T11:34:11Z",
+  "comments": 4,
+  "createdAt": "2021-07-25T02:18:40Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3039,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a shortcut key to toggle Camera3D preview mode",
+  "up": 4,
+  "updatedAt": "2021-07-27T13:22:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3039"
+}

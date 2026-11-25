@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Implementing this LOD system in C++ would lead to better performance when using large amounts of lights (hundreds or more).",
+    "format": "markdown",
+    "workaround": "Kind of. It's possible to play with shadow color and light energy in a script. (Shadow color is only adjustable in `3.x`, as it was removed in `master` for performance reasons.)\n\nThe [Godot LOD](https://github.com/godot-extended-libraries/godot-lod) add-on I wrote provides such a feature."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-04T11:26:29Z",
+  "comments": 0,
+  "createdAt": "2021-05-19T16:16:00Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 2744,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a level of detail system for OmniLight3D and SpotLight3D",
+  "up": 12,
+  "updatedAt": "2022-05-24T14:12:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2744"
+}

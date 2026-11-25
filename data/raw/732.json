@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Is a very simple and useful improvement. I think it would also be useful to audio files generated at runtime, and get the audio files metadata.",
+    "format": "legacy",
+    "workaround": "I guess, but after many hours trying I still don't know how."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-03T20:47:31Z",
+  "comments": 20,
+  "createdAt": "2020-04-19T11:08:05Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.4",
+  "number": 732,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Easily load external audio (WAV) files at run-time",
+  "up": 36,
+  "updatedAt": "2024-12-03T22:50:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/732"
+}

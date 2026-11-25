@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be a fundamental change to how the Godot editor scans for and finds the export templates.",
+    "format": "markdown",
+    "workaround": "I expect that this would be used very often. Pretty much whenever export templates are used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2021-04-07T17:51:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 2565,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow placing export templates in an application-level directory",
+  "up": 34,
+  "updatedAt": "2026-04-23T16:56:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2565"
+}

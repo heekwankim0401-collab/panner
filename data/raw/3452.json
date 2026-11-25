@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I'd have thought this'd useful enough to include in core. Someone pointed out [on this Reddit post](https://www.reddit.com/r/godot/comments/qbvriw/move_a_node2d_to_the_centre_of_the_editor_screen/) that in the 3D editor, there is an analogue to the functionality I'm describing here.",
+    "format": "form",
+    "workaround": "Almost certainly, though I don't have any experience in adding menu items / keyboard shortcuts to the editor via GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-20T20:56:12Z",
+  "comments": 3,
+  "createdAt": "2021-10-20T16:39:30Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3452,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to move a 2D node to the center of the editor window",
+  "up": 1,
+  "updatedAt": "2021-10-20T20:56:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3452"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think that having this, even aside from my personal main use case, would be that level prototyping would be greatly enhanced. There are many shapes that can't really be made without taking a large shape and using subtraction operations to cut into it. With convex merging, you could create a CSGCombiner node, then place a set of any CSG shapes as children, and then set the CSGCombiner node to \"Convex Merge\" and it would create a composite shape based on the vertices of its children. I just think that this is a much quicker way of building complex shapes than what is currently available, and most of the work is already done in a sense considering the debug mesh that is created from a ConvexPolygonShape3D, but that is an extra layer of abstraction that I think can potentially be skipped and rather implemented as a core feature of CSGShapes.\n\nThank you for reading!",
+    "format": "form",
+    "workaround": "The only way that I've seen that would be at all feasible presently is either by implementing a Convex Hull and triangulation algorithm by hand, using a C++/C# library, or by taking the debug mesh of a ConvexPolygonShape3D and using the lines to attempt to triangulate faces."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-12-19T01:57:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8688,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Convex Merge/Convex Hull for Mesh libraries/CSG (Like TrenchBroom)",
+  "up": 3,
+  "updatedAt": "2023-12-20T16:04:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8688"
+}

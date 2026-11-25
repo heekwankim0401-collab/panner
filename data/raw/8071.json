@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it core functional of Editor",
+    "format": "form",
+    "workaround": "---"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-11T13:15:11Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8071,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show warning window when Godot4 running not on \"physical discrete GPU\" especially when used CPU-translation for Vulkan",
+  "up": 1,
+  "updatedAt": "2023-10-11T16:06:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8071"
+}

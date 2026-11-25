@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "- `CanvasGroup` _can_ technically be used today with `Control` nodes but it feels broken that way: layout positions break, in-editor controls are different. Making a `Control` node with `CanvasGroup` functionality fills a natural gap.\n- Any UI-heavy project that uses Materials for custom effects could benefit (e.g. for group outline/highlight)\n- The feautre was already requested here: https://github.com/godotengine/godot-proposals/discussions/4392",
+    "format": "form",
+    "workaround": "No. In particular, anchor/offset system is too complex to be worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-10-05T16:28:06Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13338,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Control-compatible CanvasGroup node",
+  "up": 10,
+  "updatedAt": "2025-10-07T11:34:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13338"
+}

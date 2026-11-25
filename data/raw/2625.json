@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core API.",
+    "format": "markdown",
+    "workaround": "- One could just use `is_editor_hint()` and not `editor_hint`.\n- Documentation could make it clear that setting `editor_hint` is pointless.\n\nBut this would not completely solve the problem."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-25T20:09:51Z",
+  "comments": 2,
+  "createdAt": "2021-04-20T21:19:17Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2625,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove `Engine.editor_hint` in favor of `Engine.is_editor_hint()`",
+  "up": 7,
+  "updatedAt": "2021-09-25T20:09:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2625"
+}

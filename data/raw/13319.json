@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about replacing the `FileDialog` node.",
+    "format": "form",
+    "workaround": "Users can create a file dialog node dynamically and destroy it when the dialog closes.\n\nBut this is about deprecating the `FileDialog` node and use a dedicated API for such dialog, encouraging a more efficient way to use file dialogs."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-10-02T02:42:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13319,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use file dialog via an API instead of a node",
+  "up": 4,
+  "updatedAt": "2025-10-02T11:00:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13319"
+}

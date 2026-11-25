@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes indeed. Every new developer who wants to create a dialogue system would have to use it as an external tool making it incompatible with updates, tutorials, and documentation that Godot provides for their nodes.\n\nMore than that, this node can be more useful and complex with a visual editor or even custom class export, sadly the visual editor is beyond my programming skills and the custom class export is beyond the engine's capabilities; both problems can be solved by making this part of the engine itself.",
+    "format": "form",
+    "workaround": "The complexity of any dialogue system makes it impossible to replicate in fewer lines of code, mostly because of the impossibility of exporting custom classes and the inability to save data from custom classes without the use of extended Resources."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-21T02:50:40Z",
+  "comments": 2,
+  "createdAt": "2024-08-20T22:33:43Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10511,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement a new node called \"DialogueCore\" that allows to conversate with NPCs or even trigger events.",
+  "up": 0,
+  "updatedAt": "2024-08-21T08:41:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10511"
+}

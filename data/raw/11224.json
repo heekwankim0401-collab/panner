@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "It will be used every time a new project is created (which, for people who are working on and testing bug fixes or features for Godot, will be often). I'm not aware of a way to change the Project Manager's Settings menu with scripts or add-ons.\n\nEven if the functionality could technically be added with an add-on, it feels like a QoL addition that shouldn't require an add-on to achieve. By the time someone's gone to the trouble of finding an add-on to fix this problem, it would've been quicker for them to just open a project in the editor and make the change to their default project path via Editor Settings."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-15T16:14:35Z",
+  "comments": 8,
+  "createdAt": "2024-11-23T19:11:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 11224,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Default Project Path\" to Project Manager Settings",
+  "up": 8,
+  "updatedAt": "2026-07-28T03:40:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11224"
+}

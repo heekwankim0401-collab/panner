@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The text selection color is probably part of the core.",
+    "format": "form",
+    "workaround": "This will be noticed every time the Script editors error panel is opened and text is selected.\nI don't know how many lines it would take to fix this."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-29T20:10:14Z",
+  "comments": 2,
+  "createdAt": "2023-01-06T23:02:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.1",
+  "number": 6055,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "4.0.beta, Script editor error panel, text selection color doesn't match",
+  "up": 0,
+  "updatedAt": "2026-07-29T20:10:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6055"
+}

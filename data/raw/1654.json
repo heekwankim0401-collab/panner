@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I have worked on many games before (solo and with a small team of 50 people), and all of them needed a uuidv4 generator. So, if it is widely used it should be part of the engine itself.",
+    "format": "legacy",
+    "workaround": "https://github.com/binogure-studio/godot-uuid"
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-05T08:07:37Z",
+  "comments": 17,
+  "createdAt": "2020-10-13T13:04:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1654,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a built-in UUIDv4 function",
+  "up": 13,
+  "updatedAt": "2022-03-30T19:28:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1654"
+}

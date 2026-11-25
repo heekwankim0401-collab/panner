@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core already as part of GDScript.",
+    "format": "form",
+    "workaround": "It's a GDScript language feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-06T09:13:56Z",
+  "comments": 3,
+  "createdAt": "2022-08-06T18:39:28Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.4",
+  "number": 5096,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove function argument for custom iterators in GDScript",
+  "up": 6,
+  "updatedAt": "2024-09-06T09:14:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5096"
+}

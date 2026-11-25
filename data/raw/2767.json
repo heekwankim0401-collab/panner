@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Visual Shaders are the easiest and most intuitive way to create visual effects, and anyone using them would benefit from this changes. Some of the changes are already implemented, they simply need to be more accessible to users (ex. exposing `INSTANCE_CUSTOM`).",
+    "format": "markdown",
+    "workaround": "I can't see how. The  exception would be the proposed nodes for UV panning/scaling. Those could be scripted, but custom nodes have some problems and creating them isn't as easy as normal scripts, since their errors are handled in a different way."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-25T21:57:00Z",
+  "comments": 8,
+  "createdAt": "2021-05-24T19:03:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2767,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enhance VisualShader UX/UI",
+  "up": 8,
+  "updatedAt": "2023-09-25T21:57:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2767"
+}

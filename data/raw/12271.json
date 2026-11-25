@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it expands on already existing functionality",
+    "format": "form",
+    "workaround": "there doesn't seem to be a way to bake occluder in code."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-18T20:44:11Z",
+  "comments": 1,
+  "createdAt": "2025-04-18T20:22:00Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12271,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Let us bake OccluderInstance3D in code",
+  "up": 0,
+  "updatedAt": "2025-04-19T10:25:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12271"
+}

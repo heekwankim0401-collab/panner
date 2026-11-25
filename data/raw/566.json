@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is about integral API.",
+    "format": "legacy",
+    "workaround": "Would be used often by anyone working with 8 directional inputs (so not exactly rare usecase)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-01T18:15:18Z",
+  "comments": 23,
+  "createdAt": "2020-03-07T12:34:46Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 566,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add diagonal constants to Vector2() like UP_LEFT",
+  "up": 7,
+  "updatedAt": "2023-02-06T13:32:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/566"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think.",
+    "format": "form",
+    "workaround": "probably."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-31T14:29:46Z",
+  "comments": 1,
+  "createdAt": "2024-12-31T13:38:42Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 11460,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Automatic Fallback to OpenGL if Vulkon is not available.",
+  "up": 0,
+  "updatedAt": "2024-12-31T14:29:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11460"
+}

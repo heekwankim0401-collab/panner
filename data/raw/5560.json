@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a basic mathematical function similar to other built-ins.",
+    "format": "form",
+    "workaround": "Work-arounds like `abs(x) * sign(y)`, inline-if or an utility method are slower and more verbose."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-10-08T17:48:00Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5560,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `copysign(x, y)` method",
+  "up": 4,
+  "updatedAt": "2022-10-09T14:54:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5560"
+}

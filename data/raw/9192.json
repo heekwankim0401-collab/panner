@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Baking is a core godot feature, so there is no other options.",
+    "format": "form",
+    "workaround": "Workaround just generate NavMesh programmatically."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-02-28T00:41:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 9192,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow customizing the up axis when baking a NavigationMesh",
+  "up": 3,
+  "updatedAt": "2024-03-01T14:30:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9192"
+}

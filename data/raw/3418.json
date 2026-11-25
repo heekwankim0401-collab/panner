@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, the current 2D UI nodes, don't meet all use - cases, making it oneself takes time, and it'd allow better 3D UI, for 3D games, and if one could add it to a 2D game, it'd allow a 3D camera, to place 3D objects in front of a 2D game, maintaining pixel ratio, or so . . :OO\n\nAdd: It'd also allow for 2.5D games, where the background, parallax layers are pixel perfect, to a 3D camera, so on . . . .",
+    "format": "form",
+    "workaround": "It'd possible, for stuff like a plane, that fills the FOV 100 %, but for say a plane, with an offset, in pixels, the math gets really complex, so it's not easy to do, a simple 3D UI, or perhaps Control3D editor, would make sense for some 3D titles, maybe, most of them, at least for me, it's about getting real, not 3D-to-2D UI elements, bec. that looks rather nice, also, found in many games, going back 10 years, etc . . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-13T11:02:23Z",
+  "comments": 5,
+  "createdAt": "2021-10-12T21:00:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3418,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Features to help make a 3D only user-interface easier . .",
+  "up": 0,
+  "updatedAt": "2021-10-13T11:02:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3418"
+}

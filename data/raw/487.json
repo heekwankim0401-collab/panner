@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because having it has an add-on would be harder to implement and most developer would like the idea of easily have the possibility to have different impact sound based on impact strength, have damage dealt based on the force of the swinging weapon and thus be allowed to create loads of physic based emergent gameplay",
+    "format": "markdown",
+    "workaround": "It would be used often and can get worked around with a few line of code (keeping in a var the linear_velocity every tick), but it is required to be put on every rigidbody (has you want the force difference on impact for realistic result) and its is not that consistant, has the body might go through the object and then get pulled back"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-02-16T14:12:00Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 487,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to get the impact force when a RigidBody hits another body",
+  "up": 47,
+  "updatedAt": "2025-06-01T03:15:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/487"
+}

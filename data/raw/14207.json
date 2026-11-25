@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-11T18:09:48Z",
+  "comments": 1,
+  "createdAt": "2026-02-11T16:37:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14207,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make CanvasGroup node actually be treated as a Group rather than a fix for transparency.",
+  "up": 0,
+  "updatedAt": "2026-02-11T18:09:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14207"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the `ScrollContainer`/`ScrollBar` usability out of box.",
+    "format": "form",
+    "workaround": "Not easy and requires more complex operations. \n\nI'm sure a lot of people will be happy with the change from internal nodes to external nodes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-07-29T15:20:22Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5012,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `ScrollBar` to watch `ScrollContainer` in tree",
+  "up": 0,
+  "updatedAt": "2022-07-29T17:08:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5012"
+}

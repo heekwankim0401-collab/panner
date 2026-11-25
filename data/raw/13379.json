@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would improve workflows with SubViewports, and it would make the engine more \"consistent\" as we already have similar functionality for the bottom panels.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-10-13T21:14:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13379,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a pin toggle to prevent involuntary editor viewport switching",
+  "up": 5,
+  "updatedAt": "2025-11-08T15:26:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13379"
+}

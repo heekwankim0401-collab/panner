@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AudioStreamPlayer2D feels like a core component",
+    "format": "form",
+    "workaround": "Currently the workaround is just to set a very high max_distance and/or low attenuation value, but that's easy to forget and it would be easier and more consistent to just disable the distance fade all together if you don't want it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-06-18T10:15:38Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 7109,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow AudioStreamPlayer2D to have no distance falloff like AudioStreamPlayer3D with max_distance 0",
+  "up": 7,
+  "updatedAt": "2025-09-11T08:34:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7109"
+}

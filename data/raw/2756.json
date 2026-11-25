@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Users are already using hacks to do this, but its far from easy to use and unoptimal, or require source code tweaking at engine level. This feature needs to be core.\n\n##### Short FAQ:\n\n**Q:** I still need access to the pixels of an image on the server, what do I do here?\n**A:** Remember that in Godot images can be imported as Image rather than Texture, so by default those will not be stripped, as there is not much reason to. In the end you will still be able to mark the asset as \"Keep\" so its not stripped.",
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": "2023-02-14T16:51:43Z",
+  "comments": 22,
+  "createdAt": "2021-05-22T14:08:59Z",
+  "down": 0,
+  "labels": [
+    "topic:export"
+  ],
+  "milestone": "4.0",
+  "number": 2756,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement support for dedicated server export",
+  "up": 79,
+  "updatedAt": "2023-02-14T16:51:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2756"
+}

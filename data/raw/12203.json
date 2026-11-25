@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a useful feature, which improves the UX of the editor.",
+    "format": "form",
+    "workaround": "This could be manually implemented by not adding the `range` hint at all to a property, and instead logging a message when the soft range is exceeded, but obviously that would be terrible UX."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-09T15:31:38Z",
+  "comments": 5,
+  "createdAt": "2025-04-09T14:40:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12203,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add soft limit capability to range-limited number properties",
+  "up": 0,
+  "updatedAt": "2025-04-09T15:31:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12203"
+}

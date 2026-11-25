@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is core dialog changes",
+    "format": "form",
+    "workaround": "This feature will be mostly useful in case of large projects. For small projects where file system is generally flattened It will not have issues that much."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-02T09:26:20Z",
+  "comments": 2,
+  "createdAt": "2024-02-04T15:49:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9024,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Convert List to Tree View for Instance Child Scene Dialog and Quick Open dialog",
+  "up": 5,
+  "updatedAt": "2024-10-02T09:49:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9024"
+}

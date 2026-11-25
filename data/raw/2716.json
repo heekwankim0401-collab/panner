@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This enhancement requires the removal of process and physics_process which is core and not possible as an asset\n\nI look forward to seeing others opinions and am open-minded to any other solutions.",
+    "format": "markdown",
+    "workaround": "This enhancement is generally quite compatibility-breaking and changes the programming workflow."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-13T16:14:11Z",
+  "comments": 5,
+  "createdAt": "2021-05-13T12:19:49Z",
+  "down": 6,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2716,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace _physics_process() and _process() with _tick()",
+  "up": 0,
+  "updatedAt": "2021-05-13T16:35:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2716"
+}

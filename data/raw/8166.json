@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Ease of use.",
+    "format": "form",
+    "workaround": "You can change gravity via code/shaders but it is bit hacky."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-10-17T14:29:09Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 8166,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using curves to modify particle gravity",
+  "up": 2,
+  "updatedAt": "2026-05-14T23:54:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8166"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The requirement to add an environment may not be obvious to everyone, and the removal of a default environment (or failure of default environment migration, if that was the cause) may be off-putting to those who previously had a working game that now no longer works and just displays a black screen.",
+    "format": "form",
+    "workaround": "No, while this enhancement may not be used often, the issue only presents itself when the user doesn't know why the screen is failing to render, and therefore doesn't know to search for a workaround.  Alternatively, adding back the default environment (intuitive, as most people expect to see things in games not specifically designed to emulate blindness) or generating an environment node during migration from previous versions may be helpful in preventing this issue from occurring to others."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-04-22T06:52:26Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6735,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Print a warning when running a 3D scene with no camera or environment",
+  "up": 6,
+  "updatedAt": "2023-06-11T21:44:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6735"
+}

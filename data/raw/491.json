@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't be done using addons (correct me if I'm wrong).",
+    "format": "legacy",
+    "workaround": "Unfortunately NO, the only way is to fight with setting up multi-viewports on top of each other for each scene you have in the stage."
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-17T02:10:50Z",
+  "comments": 10,
+  "createdAt": "2020-02-16T23:52:05Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 491,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Re-implementing \"Texture\" mode for Environment Background",
+  "up": 0,
+  "updatedAt": "2020-02-17T08:32:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/491"
+}

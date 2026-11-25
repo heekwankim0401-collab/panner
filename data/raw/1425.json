@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "tilemaps seem to get no love in Godot despite being the most used, adding more functionality will only make it better :)",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-29T00:01:52Z",
+  "comments": 5,
+  "createdAt": "2020-08-28T16:21:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1425,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "ability to turn off tileset tres animations and particle systems in the godot editor at design time",
+  "up": 0,
+  "updatedAt": "2020-08-29T09:36:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1425"
+}

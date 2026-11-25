@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should be in core because the need to stop on slopes in a 2D(sidescroller) game is certainly not an uncommon thing. Using a Rayshape2D makes going up slopes work perfect, but it messes with going down them and makes one-way collision weird.\nI don't think anyone should have to use hacky workarounds to get their KB2Ds to stop on slopes\nIf a new method is not an option, I'd be happy to discuss a different solution to the problem.\n\nThank you for your time.",
+    "format": "markdown",
+    "workaround": "I think this enhancement will be used whenever someone wants an KB2D to stop on a slope in a 2D game. Although the stopping on slopes issue may be able to be worked around with a few lines of code (I say \"may\" because I couldn't figure out how to do it myself after a considerable amount of time), I think the enhancement would be used often enough to justify its addition."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-02T22:12:11Z",
+  "comments": 1,
+  "createdAt": "2021-03-30T20:16:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2530,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "New function to replace/fix the stop_on_slope param in move_and_slide(+ _with_snap)",
+  "up": 3,
+  "updatedAt": "2021-04-02T22:14:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2530"
+}

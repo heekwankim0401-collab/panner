@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The majority of applications that use Godot have some form of UI, and that usually people do some styling on, and currently overriding Styleboxes but only changing a little bit, is tedious.",
+    "format": "form",
+    "workaround": "Perhaps an editor plugin could do this, but I believe this would be used quite a lot, to the extent that this is could be a core functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-19T20:08:41Z",
+  "comments": 6,
+  "createdAt": "2024-07-18T17:00:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10245,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a \"Duplicate from Theme\" button to Theme Overrides when a theme is used on the control node or a parent",
+  "up": 2,
+  "updatedAt": "2024-07-19T20:08:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10245"
+}

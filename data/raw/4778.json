@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "It's internal rendering code"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-29T14:59:34Z",
+  "comments": 2,
+  "createdAt": "2022-06-29T14:59:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4778,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to draw based on draw pass order and not material priority (avoid flickering)",
+  "up": 0,
+  "updatedAt": "2022-06-29T15:00:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4778"
+}

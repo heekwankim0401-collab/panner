@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a language feature i.e. it is required to be a modification to core",
+    "format": "form",
+    "workaround": "Can be worked around using the `varying` keyword i.e.\n```\nvarying uint camera_visible_layers;\nvoid fragment() {\n\tcamera_visible_layers = CAMERA_VISIBLE_LAYERS;\n....\nvoid light() {\n    // Can use the camera_visible_layers variable here\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-03-04T17:04:51Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9234,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose CAMERA_VISIBLE_LAYERS to the shader light function",
+  "up": 1,
+  "updatedAt": "2024-03-04T18:31:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9234"
+}

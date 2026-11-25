@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Not really, since this is for built-in nodes."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-17T14:55:44Z",
+  "comments": 1,
+  "createdAt": "2024-01-16T14:07:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 8897,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `auto_translate` state inheritable",
+  "up": 4,
+  "updatedAt": "2024-02-17T14:56:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8897"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "While this may not be the case, it seems to me (as a newcomer) Godot certainly aims to to capture and engage with new developers and programmers of all skill levels.\n\nBeyond completeness' sake, as mentioned, I believe it's a much better way to expose this option to users, visually in the editor.",
+    "format": "form",
+    "workaround": "For practical use in code and projects, sure, but providing a useful way to interface with quaternions visually in the editor would probably be a bit more."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-03-31T18:21:17Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9422,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using axis and angle combinations for rotation edit mode",
+  "up": 2,
+  "updatedAt": "2024-03-31T22:05:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9422"
+}

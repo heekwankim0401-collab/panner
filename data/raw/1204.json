@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its already there this way is just better",
+    "format": "legacy",
+    "workaround": "I'm sure this would be used quite often especially for people that don't know the you need to use _integrate_forces like people coming from other game engines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-07-16T00:57:36Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1204,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `_integrate_forces()` obsolete by allowing to modify PhysicsBodies in `_physics_process()`",
+  "up": 0,
+  "updatedAt": "2023-12-31T19:47:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1204"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be core because the glTF importer is the recommended default option, and it is already integrated into the engine. Making this a core feature will also help to bring godot closer to supporting the glTF standard, allowing users to more seamlessly make assumptions about compatibilities between programs (IE \"what you see is what you get\" when importing a glTF file).",
+    "format": "form",
+    "workaround": "No, this is core functionality. Workarounds involve restricting art pipelines and reducing fidelity."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-16T23:09:11Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 8154,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose Color_n attributes from glTF files to shaders",
+  "up": 3,
+  "updatedAt": "2024-03-12T17:24:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8154"
+}

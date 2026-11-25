@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about making the code editor functionality behave \"expectedly.\" The feature already exist in Godot, but with this specific configuration it seems there was an oversight.",
+    "format": "form",
+    "workaround": "As far as I know, this cannot be worked around using an editor plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-02T20:42:57Z",
+  "comments": 1,
+  "createdAt": "2023-03-02T19:04:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6407,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow using an arbitrary external editor for C#",
+  "up": 0,
+  "updatedAt": "2023-03-02T20:43:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6407"
+}

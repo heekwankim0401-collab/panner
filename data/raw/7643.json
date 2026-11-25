@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a very common animation functionality in games (to the point where a lot of RPGs only have 3-frame 'bounce' animations in their spritesheets)",
+    "format": "form",
+    "workaround": "In theory you can unwrap bounce animations into loop animations by basically doubling the amount of frames you use on your tilesheet, but that's more work, creates a bunch of duplicate tiles, and means that godot's animation system isn't compatible with existing tilesets that assume you can bounce your animations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-09-12T04:50:36Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7643,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Tilemap: Add 'bounce' or 'Ping-Pong' animation order to animated tiles",
+  "up": 10,
+  "updatedAt": "2026-03-16T12:08:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7643"
+}

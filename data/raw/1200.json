@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "GDScript is under constant changes and improvements. This kind of tool would work best if updated accordingly to the latest updates. Thus, being part of the core would be desirable.",
+    "format": "legacy",
+    "workaround": "It should be used fairly often by any coders with some experience. There is a third-party solution, however: [Godot GDScript toolkit](https://github.com/Scony/godot-gdscript-toolkit)."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-03T15:57:00Z",
+  "comments": 10,
+  "createdAt": "2020-07-15T12:30:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1200,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a GDScript code formatter in the script editor",
+  "up": 28,
+  "updatedAt": "2022-09-18T21:14:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1200"
+}

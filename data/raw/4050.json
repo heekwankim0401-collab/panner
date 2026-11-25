@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This can only be implemented in the core.",
+    "format": "form",
+    "workaround": "While it is possible to cache parameters at the application/module side, this will result in a lot of boilerplate code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-02-20T18:10:51Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 4050,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Cache shader parameter values in resource object",
+  "up": 5,
+  "updatedAt": "2022-02-20T18:59:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4050"
+}

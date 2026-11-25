@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's my impression that this is basic navigation of the feature set, rather than the content that would be appropriate for an add-on.",
+    "format": "form",
+    "workaround": "I can't see how a script would help me visually identify the tile mesh. I'm not confident enough with code to be able to provide a solution here."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-11-28T17:16:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5866,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display the MeshLibrary item ID in the GridMap editor",
+  "up": 5,
+  "updatedAt": "2025-12-04T13:38:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5866"
+}

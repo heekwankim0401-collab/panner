@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires code changes in engine.",
+    "format": "legacy",
+    "workaround": "Nope, it's not possible to set a clear color for reflections in any way."
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-21T06:15:21Z",
+  "comments": 9,
+  "createdAt": "2019-10-11T14:23:29Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 148,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "World Environment option for reflections to be clear color with sky background",
+  "up": 1,
+  "updatedAt": "2021-09-28T16:01:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/148"
+}

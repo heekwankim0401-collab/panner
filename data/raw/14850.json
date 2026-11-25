@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-16T11:29:01Z",
+  "comments": 2,
+  "createdAt": "2026-05-15T12:58:51Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "spam",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14850,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Proposal: Add a generic StateMachine node for game logic (decoupled from AnimationPlayer)",
+  "up": 0,
+  "updatedAt": "2026-05-16T11:33:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14850"
+}

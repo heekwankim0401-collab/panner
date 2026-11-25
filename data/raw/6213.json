@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Convenience.",
+    "format": "form",
+    "workaround": "A wrapper class can probably work, at the cost of sacrificing typed variables."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-01-31T12:06:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6213,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add annotation for thread safe variables",
+  "up": 0,
+  "updatedAt": "2023-01-31T12:57:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6213"
+}

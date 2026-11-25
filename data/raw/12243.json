@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core limitation.",
+    "format": "form",
+    "workaround": "Core refactoring.\n\n# Proposals\n\n1. Add a new class ```FileScheme``` to handle scheme. Make ```FileAccess``` depends on it. \n  -> Allows module to add new scheme.\n2. Add a new abstract class ```SchemeEditorPlugin``` to handle scheme for EditorPlugin.\n  -> Allows plugin to add a new scheme.\n\n## FileScheme"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-15T14:09:38Z",
+  "comments": 1,
+  "createdAt": "2025-04-15T10:43:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12243,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Allows custom scheme for Godot module and addon",
+  "up": 0,
+  "updatedAt": "2025-04-15T14:09:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12243"
+}

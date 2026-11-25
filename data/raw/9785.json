@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it involves core android build, so it should be core",
+    "format": "form",
+    "workaround": "Unfortunately other option just rewrite `android/build` setup by hands"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T08:14:54Z",
+  "comments": 9,
+  "createdAt": "2024-05-20T04:44:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 9785,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to build Android version with different target sdk",
+  "up": 0,
+  "updatedAt": "2026-01-28T17:17:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9785"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think the ability to fade to an overlayed material would be used very frequently. If my understanding of how materials currently work is correct this seems like a necessary upgrade.",
+    "format": "markdown",
+    "workaround": "You could use a vertex shader for each material in the next pass in the mesh resource. But this has several issues\n1. its very ineffecient its a sign of bad design if you have the same code copied and pasted several places. \n2. if you needed to overlay a shader or vertex shader on just a single mesh then that prevents you from using the next pass in the mesh instance materials. As far as I know trying to use the the next pass from the material over ride in the mesh instance would result in making the original material from the mesh resource unavailable.\n3. If the geometry material override overlayed instead then you wouldn't need 3 seperate shaders in each next pass. You could just retain the materials being used and overlay a vertex shader on top. This could be handy for if there are enemies with multiple surfaces that all fade to red when hit and similar usages. \n\nso long as you have a boolean option to over ride then you retain all advantages of the previous methodology but now with much more flexibility."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-04-12T22:09:48Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2595,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to \"overlay\" different ShaderMaterials on top of each other (e.g. vertex and fragment from different shaders)",
+  "up": 3,
+  "updatedAt": "2021-04-24T23:14:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2595"
+}

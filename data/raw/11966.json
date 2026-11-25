@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can be, but Godot should provide this in the core. Also, it would lag and not be stable because it's an add-on.",
+    "format": "form",
+    "workaround": "This enhancement will be used a lot, and yes, it can be worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-21T20:20:03Z",
+  "comments": 3,
+  "createdAt": "2025-03-11T16:40:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11966,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow using 2D/3D viewport top menu actions with MultiNodeEdit",
+  "up": 0,
+  "updatedAt": "2025-04-21T20:20:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11966"
+}

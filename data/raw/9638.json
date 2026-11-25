@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "It should be useful for any modules with reverse callable options",
+    "format": "form",
+    "workaround": "Hopefully it can"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T08:17:21Z",
+  "comments": 5,
+  "createdAt": "2024-04-30T19:44:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:gdscript",
+    "topic:platforms",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 9638,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for calling GDScript methods from Android plugins",
+  "up": 2,
+  "updatedAt": "2026-01-28T17:18:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9638"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Small non-breaking change that improves usability.",
+    "format": "form",
+    "workaround": "Will be used quite often. Not possible with few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-07T22:27:23Z",
+  "comments": 1,
+  "createdAt": "2024-12-18T13:46:20Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 11380,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show texture preview \"transparent background\" in editor plugin only behind actual texture",
+  "up": 2,
+  "updatedAt": "2025-01-07T22:28:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11380"
+}

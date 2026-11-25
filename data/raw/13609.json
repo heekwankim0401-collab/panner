@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "RichTextLabel is core. Perhaps an addon could be made that incorporates this behavior, but it would likely take a lot of effort. This also seems like such a common use-case for inline images that requiring a separate addon for it would be strange.",
+    "format": "form",
+    "workaround": "I imagine it will be used for many cases where icons are being placed inline with text. It can be worked around by knowing ahead of time what the font size of that text is, and setting the image height appropriately, but that is prone to mistakes."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-10T15:38:33Z",
+  "comments": 0,
+  "createdAt": "2025-11-10T18:04:37Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.7",
+  "number": 13609,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow images in RichTextLabel to be sized relative to font size",
+  "up": 7,
+  "updatedAt": "2026-04-10T15:40:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13609"
+}

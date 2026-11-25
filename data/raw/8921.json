@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "due to the lack of way to get the whole editor window ( editing tool included )",
+    "format": "form",
+    "workaround": "It seem to be more and more game using 2D and 3D, some game engine editor already merge them into one view, I prefer the Godot philosophy about keeping them separate, but an option to bring them next to each other will be the perfection\n\nThere is no simple workaround here since we cannot get access to those window from plugin way, the only way I see is to dig into the C++ code or recreate a whole editor based on get_editor_viewport_2d but it can add lot of editing regression"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-01-20T16:19:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8921,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Be able to reuse the whole 2D and 3D editor part",
+  "up": 0,
+  "updatedAt": "2024-01-24T23:06:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8921"
+}

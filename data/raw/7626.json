@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be better to have a native solution.",
+    "format": "form",
+    "workaround": "The workaround is using static typing but for projects with at lot of subclasses this will still be a problem."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-09-08T03:02:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7626,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move \"Make Unique\" to the top of the resource submenu in the editor",
+  "up": 5,
+  "updatedAt": "2024-01-10T02:09:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7626"
+}

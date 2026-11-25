@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "Not sure if it can. Maybe an extension could do the job.",
+    "format": "form",
+    "workaround": "I think this would be used often in later stages of the game development cycle where optimization is handled. Being able to make use of powerful hardware to compile a heavy project quickly but then test the game on something weaker would be useful."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-11T11:02:51Z",
+  "comments": 3,
+  "createdAt": "2022-07-17T15:15:44Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "platform:macos",
+    "platform:windows",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.0",
+  "number": 4897,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement remote one-click-deploy to desktop platforms",
+  "up": 2,
+  "updatedAt": "2023-12-11T11:02:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4897"
+}

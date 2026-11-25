@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Basic editor usability",
+    "format": "form",
+    "workaround": "I have an editor script to find a LightmapGI node and select it but I can't bake it from script. I know that there's a proposal to allow that but it's still technically won't be just a couple of lines and this is a usability improvement, so it would make more sense in core"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-07-30T11:46:46Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10323,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow baking everything from the top bar without selecting nodes",
+  "up": 32,
+  "updatedAt": "2026-09-01T17:30:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10323"
+}

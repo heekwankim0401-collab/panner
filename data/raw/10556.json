@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Requires interaction with unexposed internals",
+    "format": "form",
+    "workaround": "Will not be used often, but there is no way to work around it (if you know one please tell me 🙏)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-31T14:48:58Z",
+  "comments": 4,
+  "createdAt": "2024-08-25T11:16:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10556,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an `add_editor_plugin` method to `EditorPlugin` to add sub plugins by object",
+  "up": 3,
+  "updatedAt": "2024-09-01T08:22:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10556"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "form",
+    "workaround": "You can kind of work around this issue by doing the aforementioned workaround: pass the light's color, energy and transform as uniforms and do the appropriate calculations to match them with the information you are given in the shaders. However, this is not ideal and is a lot cumbersome having to create scripts just to pass uniforms to shaders. This also scales horribly and becomes a huge nightmare when you have _a lot_ of materials to pass uniforms to. Also, it wastes valuable uniform slots. This information should be given by the shader. If users are expected to modify the `light` function, the `light` function **must** broadcast the light type it is currently processing in the light loop."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-06-22T22:53:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2906,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Introduce an interface for identifying light objects in `light` shaders by their `RID`",
+  "up": 2,
+  "updatedAt": "2021-06-23T23:51:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2906"
+}

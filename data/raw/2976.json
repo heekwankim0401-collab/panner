@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems difficult to change the look of the Script icon in the Scene tree panel with an add-on.\n\nSame thing with the workaround of moving the Inspector's Script section to the top and auto-unfold it.",
+    "format": "form",
+    "workaround": "I guess there could be some editor preference to always unfold the \"script\" section of the Inspector and even put it at the top, so the user can see which script is attached, and if it's different from the template scene node's script thanks to the Revert icon. That would actually be useful for other reasons (if the user doesn't remember which script is attached and doesn't want to hover on the Script icon, which is a bit slower)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-07-10T23:56:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2976,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Clearly show Scene Instance script reference override (add/remove/replace) on node with icon and/or different color",
+  "up": 3,
+  "updatedAt": "2026-02-23T22:44:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2976"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "- It improves readability \n- It's easier to learn since other code blocks use it\n- It's a good time to change it before godot 4.0 is released",
+    "format": "form",
+    "workaround": "It would be used all the time"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2022-03-25T06:57:59Z",
+  "down": 13,
+  "labels": [
+    "breaks compat",
+    "topic:gdscript"
+  ],
+  "milestone": "5.0",
+  "number": 4278,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Use Block syntax for enums (GDScript 2.0)",
+  "up": 26,
+  "updatedAt": "2024-06-28T10:17:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4278"
+}

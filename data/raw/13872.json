@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "> I've only tested in Windows. I'm not sure about whether other OS that work or not\n> ```gdscript\n> static func Killn(pid: int) -> void:\n> \tmatch OS.get_name():\n> \t\t\"Windows\":\n> \t\t\tOS.execute(\"taskkill\", [\"/F\", \"/T\", \"/PID\", str(pid)], [])\n> \t\t\"macOS\":\n> \t\t\tOS.execute(\"kill\", [\"-9\", \"-\" + str(pid)], [])\n> \t\t\"Linux\":\n> \t\t\tOS.execute(\"kill\", [\"--\", str(-pid)], [])\n> ```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-12-15T07:53:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13872,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an `OS.killn()` method that also kills subprocesses of a given PID",
+  "up": 0,
+  "updatedAt": "2025-12-16T05:00:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13872"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- This is a **fundamental physics engine capability**, not an optional add-on.\n- `Area2D` already provides this via `monitorable`; adding a similar property for all physics bodies creates **API consistency** across nodes.\n- Both 2D and 3D developers would benefit from a reliable, simple way to toggle collision participation dynamically, a common use case in many games.",
+    "format": "form",
+    "workaround": "Yes, but the workarounds are suboptimal:\n\n1. Disable every `CollisionShape2D` manually: Boilerplate code for each shape.\n2. Change collision layers: Does not clear existing overlaps, causing logic errors.\n3. Remove and re-add node: Inefficient, breaks references and scene state.\n4. Use `process_mode = DISABLED` with `disabled_mode = REMOVE`: Too broad: halts `_process()`, physics signals, and other scripts unintentionally.\n\nA dedicated property like `collidable` would make this a one-line, explicit, and safe operation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-07-31T10:05:24Z",
+  "down": 1,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12909,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a collidable property to PhysicsBody2D (and PhysicsBody3D) to dynamically toggle detectability",
+  "up": 4,
+  "updatedAt": "2026-07-18T06:53:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12909"
+}

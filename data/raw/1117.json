@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think an add-on can't change/add etc. something to the language.",
+    "format": "legacy",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-02T13:29:08Z",
+  "comments": 21,
+  "createdAt": "2020-06-24T16:05:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1117,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use default value for an argument after `,`",
+  "up": 4,
+  "updatedAt": "2021-03-02T13:29:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1117"
+}

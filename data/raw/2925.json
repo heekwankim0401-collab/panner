@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I can tell, this cannot be done from an add-on. I know GDNative exists, and I think maybe it could be solved with that, but the documentation is sparse and this seems like an oversight on the main engine's side.",
+    "format": "form",
+    "workaround": "This is the way I found to circumvent it in my code:\n```\nvar editor_interface = EditorPlugin.new().get_editor_interface()\nvar group_tree = editor_interface.get_inspector().get_parent().get_parent().get_child(1).get_child(2)\nvar scene_tree_editor = editor_interface.get_base_control().get_child(1).get_child(1).get_child(1).get_child(0).get_child(0).get_child(0).get_child(3)\n\n# then in my handler\ngroup_tree.update_tree()\nscene_tree_editor.update_tree()\n```\nHowever as explained in the first point, this requires users to have the exact same editor distribution I have, so I wouldn't consider it a possible solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-06-27T10:28:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2925,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make GroupsEditor and SceneEditorTree react to changes from an EditorProperty",
+  "up": 0,
+  "updatedAt": "2021-06-27T12:02:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2925"
+}

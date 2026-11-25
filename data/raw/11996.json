@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think an addon could change this behavior.",
+    "format": "form",
+    "workaround": "it wouldn't need to be worked around, there would just be another option for certain nodes, though ideally things like spinbox would default to VirtualKeyboardType: KEYBOARD_TYPE_NUMBER_DECIMAL"
+  },
+  "assignees": 1,
+  "closedAt": "2025-03-15T17:39:21Z",
+  "comments": 2,
+  "createdAt": "2025-03-15T03:38:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11996,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "allow for other types virtual keyboards on more than just line edit",
+  "up": 0,
+  "updatedAt": "2025-03-16T05:01:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11996"
+}

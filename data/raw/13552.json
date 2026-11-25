@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "File System and setting a folder color functionality is core: https://github.com/godotengine/godot/blob/2cb2c1fb5bbeb2afbac7255841f9c66d9611bf55/editor/docks/filesystem_dock.cpp#L4217-L4225",
+    "format": "form",
+    "workaround": "Technically, you can just add more colors by creating new lines in this chunk of code: \nhttps://github.com/godotengine/godot/blob/2cb2c1fb5bbeb2afbac7255841f9c66d9611bf55/editor/docks/filesystem_dock.cpp#L4217-L4225\nand then make a new line like: folder_colors[\"brown\"] = Color(0.552 ,0.188, 0.0); // TTR(\"Brown\")\nBut that would not only require recompiling the engine, it would be tedious to do every time you would add another more colors and it is not accessible in the editor UI itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-11-02T16:34:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13552,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to create and/or customize the folder colors",
+  "up": 5,
+  "updatedAt": "2026-08-26T10:11:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13552"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No, this should work out of the box, and needs to in the Web Editor where there is currently no alternative way of importing settings.",
+    "format": "form",
+    "workaround": "It may be possible to use an editor plugin for this, but this is difficult in the Web Editor; also, a quick and easy setup is important for educators."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-30T00:35:58Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3894,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to export/import settings for Web Editor, enhance for other platforms",
+  "up": 0,
+  "updatedAt": "2022-01-31T03:34:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3894"
+}

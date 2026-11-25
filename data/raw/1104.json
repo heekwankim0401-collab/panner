@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The features would be useful to more people if those come with the editor. Whenever someone desires to loop at least one animation, the faster method should be used.",
+    "format": "legacy",
+    "workaround": "Perhaps not."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-06-22T01:27:17Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1104,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"Loop Multiple Animations\" menu to the AnimationPlayer editor",
+  "up": 0,
+  "updatedAt": "2021-09-27T00:39:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1104"
+}

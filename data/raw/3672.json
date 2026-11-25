@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It change the game engine struct.",
+    "format": "form",
+    "workaround": "Now I need to use a joint to combine `PhysicalBone` and `RigidBody`, and then move the `RigidBody`, and very weird."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-15T12:18:07Z",
+  "comments": 2,
+  "createdAt": "2021-12-15T08:51:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3672,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Will Godot use something like Unity component concept?",
+  "up": 2,
+  "updatedAt": "2021-12-15T16:41:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3672"
+}

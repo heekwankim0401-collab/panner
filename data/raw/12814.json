@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "PackedScene is a built in class and this would help accessibility overall.",
+    "format": "form",
+    "workaround": "At the moment, there is no way to override the thumbnail generation without plugins (which could display the scene name, removing the need to change the nodes used to display the PackedScene). Nor to override what nodes are used for the display, again, without plugins."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-20T18:05:21Z",
+  "comments": 1,
+  "createdAt": "2025-07-19T17:46:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12814,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "PackedScenes in the Inspector are hard to identify.",
+  "up": 1,
+  "updatedAt": "2025-07-20T18:05:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12814"
+}

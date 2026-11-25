@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the user experience for beginners.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-30T09:00:56Z",
+  "comments": 2,
+  "createdAt": "2021-02-01T22:28:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2220,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make DirectionalLight3D point downwards in its default rotation",
+  "up": 4,
+  "updatedAt": "2022-03-04T23:45:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2220"
+}

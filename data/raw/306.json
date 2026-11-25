@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The purpose is to be friendly to newbies, so having this in asset lib and being basically a \"standard plugin to use\" would make it a bit pointless...",
+    "format": "legacy",
+    "workaround": "This will be used by everyone the second this is added, trust me."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-27T11:38:32Z",
+  "comments": 32,
+  "createdAt": "2019-12-14T22:47:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 306,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to load system fonts from within Godot",
+  "up": 29,
+  "updatedAt": "2022-07-27T11:38:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/306"
+}

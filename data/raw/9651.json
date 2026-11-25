@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "For the convenience of the user, and fixing a regression from Godot 3. I have several bitmap fonts, and having to manually reimport them in Godot 4 on every edit, whereas I didn't have to in Godot 3, is undesirable.\n\nEDIT: I'm not used to Github, so I'm unsure if this should have been in the \"issues\" page instead (in fact, it's where I thought I was when I posted this instead of \"proposals\"). I apologize.",
+    "format": "form",
+    "workaround": "Not as far as I know."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-02T04:18:56Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9651,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically reimport Bitmap FontFiles after their textures are updated",
+  "up": 2,
+  "updatedAt": "2024-05-02T16:57:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9651"
+}

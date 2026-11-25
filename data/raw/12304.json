@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This cannot be implemented outside core.",
+    "format": "form",
+    "workaround": "No, this requires platform-specific implementations in DisplayServers"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-04-23T18:04:13Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12304,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to define tags and description on a Window (metadata for the window manager)",
+  "up": 0,
+  "updatedAt": "2025-04-23T21:50:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12304"
+}

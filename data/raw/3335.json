@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "The number of CPU threads used for lightmap baking is currently hardcoded, so no."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-05T17:20:53Z",
+  "comments": 5,
+  "createdAt": "2021-09-22T23:05:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 3335,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an editor setting to configure the number of CPU threads used for lightmap baking",
+  "up": 6,
+  "updatedAt": "2022-03-04T23:42:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3335"
+}

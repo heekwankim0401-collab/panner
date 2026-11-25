@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a common use case that would be faster if implemented in the engine.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-07T12:22:32Z",
+  "comments": 7,
+  "createdAt": "2019-10-13T22:24:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 153,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add reparenting method",
+  "up": 31,
+  "updatedAt": "2023-01-07T12:22:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/153"
+}

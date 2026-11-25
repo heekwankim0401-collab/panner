@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This error is already being produced by the engine, I don't see why it's improvement should be improved by an add-on if it is at all possible.",
+    "format": "form",
+    "workaround": "As far as I'm aware it cannot be worked around as this error is being produced by the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-27T13:19:13Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12879,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "More verbose errors when invalid path to node is detected",
+  "up": 1,
+  "updatedAt": "2025-07-27T17:15:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12879"
+}

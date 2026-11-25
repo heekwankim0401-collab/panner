@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "only make sense built into RayCast and/or PhysicsServer classes",
+    "format": "form",
+    "workaround": "no, as far as I can tell there's currently no GDScript way to make ray casts usable with any space other than the viewport's default"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-07-07T03:21:15Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7225,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow raycasts in user specfied physics space",
+  "up": 0,
+  "updatedAt": "2023-07-08T11:19:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7225"
+}

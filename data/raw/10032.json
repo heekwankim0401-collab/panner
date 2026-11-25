@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's technically already implemented (because you can see the bounding box in the editor when selected). Although the use cases are probably not that high, the bounding box is pretty general.",
+    "format": "form",
+    "workaround": "Well, not that easy, but I found a [Reddit post](https://www.reddit.com/r/godot/comments/18bfn0n/how_to_calculate_node3d_bounding_box/), which also roughly describes the problem. It does contain multiple solutions, but it also has some decent lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-06-24T17:48:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 10032,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to get the bounding box of any 3D Node including its children (like shown in the editor)",
+  "up": 26,
+  "updatedAt": "2026-05-30T09:16:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10032"
+}

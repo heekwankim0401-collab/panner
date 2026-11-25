@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The C# project file is managed in the core of the engine, and I think an add-on in the asset library may be confusing, because that means you manipulate the C# project from multiple places (plus, not everybody will know about it or trust it).\n\nMentioning the methods to have custom defines in the core docs will save users time and trouble because they'll know how to have custom defines (like we have in professional Unity projects) and won't fall into the same traps I've had getting defines set up.\n\nIf this is not something that Godot developers want, I can also offer to document how this can be achieved by editing the `.csproj` file manually, which I think will save users time and headaches.",
+    "format": "form",
+    "workaround": "You can write a plugin that edits the `.csproj` file directly, which I suppose is not too much work.\n\nBut I still think this has value, because not everybody knows about the edition of `.csproj` files, and you have to be careful when doing so because it has potential to ruin your scenes - I lost animations and references to object, which completely corrupted my game because I forgot to add Godot's defines on top of mine.\n\nAlternatively, I can offer to edit the docs to mention that you can edit the C# project files. It's a bit more manual, but it can work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-30T11:26:24Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 10322,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support the addition of custom preprocessor defines in C# project files",
+  "up": 7,
+  "updatedAt": "2024-07-30T11:48:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10322"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Reasonable defaults will save the user time and (for new users) confusion.",
+    "format": "legacy",
+    "workaround": "I don't foresee any harm in this feature being executed every time the first scene of a new project is saved. Once it's set, if the user wants to change the Main Scene to something else, he/she would have to create the scene and then select it in Project Settings. But the way things work now, they have to do this anyway, so I don't think it will inconvenience anyone.\n\nI see it as a way of speeding up development time and it would be especially useful if the user is creating a one-scene project."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-06T14:59:12Z",
+  "comments": 3,
+  "createdAt": "2020-04-17T10:28:15Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 720,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically Set Main Scene",
+  "up": 3,
+  "updatedAt": "2021-07-06T14:59:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/720"
+}

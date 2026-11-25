@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Must be core because it validates the engine, and validates that the code works without introducing errors or regressions for shader-related items. Must run during engine compilation. Would also be nice to integrate with CI/CD.",
+    "format": "form",
+    "workaround": "No. This will be used at every build, and engine shader features are internal only. Needs to happen at the engine level."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-01-18T00:03:28Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem",
+    "topic:shaders",
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 14028,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Perform engine shader compilation validation/testing on CI",
+  "up": 0,
+  "updatedAt": "2026-01-21T19:34:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14028"
+}

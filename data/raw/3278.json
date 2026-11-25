@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "If there is no proper way to create custom AudioStream then you can't make a plugin to fix this either because it would require changes to the engine.",
+    "format": "form",
+    "workaround": "I don't know. If it is actually possible to create custom AudioStream for other file formats, someone please document this."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-20T14:06:20Z",
+  "comments": 2,
+  "createdAt": "2021-09-11T07:36:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:editor",
+    "topic:import",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3278,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way for EditorImportPlugin to create custom AudioStreams",
+  "up": 0,
+  "updatedAt": "2021-09-20T14:16:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3278"
+}

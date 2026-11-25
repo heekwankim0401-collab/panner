@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "n/a",
+    "format": "form",
+    "workaround": "n/a"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 34,
+  "createdAt": "2022-04-29T08:45:52Z",
+  "down": 16,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4461,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Still call the lifecycle functions implicitly unless `super()` is used explicitly",
+  "up": 7,
+  "updatedAt": "2026-04-20T03:41:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4461"
+}

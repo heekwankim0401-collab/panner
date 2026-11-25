@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "You have to rewrite the entire signal editing workflow to have something vaguely similar to this, and you will need to write a lot of repeated script methods (similar vein to the way we could have export categories in scripts for godot 3).",
+    "format": "form",
+    "workaround": "I see it as being used extremely often, especially if more than 1 person is working on the game. This goes towards not having to write dedicated level editors for games that would not need that support otherwise.\n\nThis is not just a replacement for scripts, but also for documentation that no longer needs to be written. (document which methods can be connected to, and which signals are safe to use)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-02-26T11:03:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6359,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to hide methods from the \"connect signal\" window",
+  "up": 0,
+  "updatedAt": "2023-03-02T11:47:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6359"
+}

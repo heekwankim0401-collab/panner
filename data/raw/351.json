@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think this is something that an add-on could do(?)\n\nAlso, many games could use this. It just makes sense with these mobile phones getting even crazier screen ratios these days.",
+    "format": "legacy",
+    "workaround": "I really tried. Haven't got a working solution yet. Don't know if it is even possible currently.\n\nI tried it with my own scaled up Viewport, but this makes other problems. (not sure if this is a godot bug? I will possibly open another issue for this)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-01-04T01:38:20Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 351,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to place touch controls in black bars when scaled / drawn an overlay scene on top of scaled game view",
+  "up": 0,
+  "updatedAt": "2021-07-10T17:54:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/351"
+}

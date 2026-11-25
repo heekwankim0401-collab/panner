@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Addons can't modify the default behaviour of a built-in Godot function AFAIK",
+    "format": "form",
+    "workaround": "No, currently the tts_speak() function doesn't allow routing the audio to a bus, so I'm stuck to the maximum 100 volume."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-20T14:47:23Z",
+  "comments": 4,
+  "createdAt": "2024-09-08T19:06:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10690,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the audio produced by `tts_speak()` routeable to Audio Buses to amplify and/or add effects",
+  "up": 1,
+  "updatedAt": "2024-09-20T14:47:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10690"
+}

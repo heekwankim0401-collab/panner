@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should be base functionality",
+    "format": "form",
+    "workaround": "It is probably possible to do that by snapping the UI element to the correct pixel manually, as long as base and rendering resolutions are at integer scale or automatic snapping is fully disabled. But it would be cumbersome and inefficient"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-02-06T00:43:21Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14160,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to control whether Snap Controls to Pixels is based on the base window size or current rendering resolution",
+  "up": 5,
+  "updatedAt": "2026-02-06T01:39:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14160"
+}

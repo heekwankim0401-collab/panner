@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it's important that GDScript have robust & performant Array capabilities. These functions will make complex Array interactions more approachable, and make it friendlier to users. I myself was fairly surprised that Strings (a nice wrapper around a form of Array) have a subsequence Find while actual Arrays do not.",
+    "format": "form",
+    "workaround": "[Edited for Brevity]\nThe workaround options are:\n- Write a GDScript function to perform the search\n- Perform an Array->String Conversion and use String::Find to find the subsequence\n\nI think neither is satisfactory. Writing a function in GDScript produces dramatically worse performance than a native CPP search. Using a String Conversion can make the code rather confusing, if not extremely difficult to even produce a correct result. And in the intended use-cases, the String::Find is often less performant than a C++ Array:Find_Seq, due to having perform significantly more comparisons per array element."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-02-08T08:08:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11722,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Find_Sequence Function for Arrays, and Array-Like classes",
+  "up": 7,
+  "updatedAt": "2025-02-08T13:02:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11722"
+}

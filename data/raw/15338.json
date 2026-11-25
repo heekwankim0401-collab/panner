@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-28T22:21:10Z",
+  "comments": 2,
+  "createdAt": "2026-08-06T18:49:08Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.8",
+  "number": 15338,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add shader uniform hints for property storage",
+  "up": 3,
+  "updatedAt": "2026-08-28T22:21:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15338"
+}

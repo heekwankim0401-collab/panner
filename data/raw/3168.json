@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "texture arrays which are supposed to be a core feature will be mostly useless. a core feature isn't supposed to be useless without an asset library.\nthere should be a procedure built in to allow the user to make a good use of texture arrays.\nnot to mention this feature would greatly increase the 3D power of the godot engine",
+    "format": "form",
+    "workaround": "currently i have made a basic script to modify my mesh's vertex colors for each surface separately. if the vertex colors are used for color, the alpha value can be used for this purpose.\ni then use the vertex color's alpha value to select my texture in my shader.\nso yea, it can be worked around. but most users don't know how. it could be actually done manually.\ni won't need to change material or shader. single material, single shader, and texture array is indexed properly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-08-20T07:57:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3168,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a floating-point attributes per mesh surface that can be customized",
+  "up": 0,
+  "updatedAt": "2021-10-16T14:35:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3168"
+}

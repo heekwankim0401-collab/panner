@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "this is core",
+    "format": "form",
+    "workaround": "this is core"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-24T08:08:34Z",
+  "comments": 5,
+  "createdAt": "2023-01-24T03:32:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 6163,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Do not include export_presets in exported binary",
+  "up": 0,
+  "updatedAt": "2023-01-24T13:13:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6163"
+}

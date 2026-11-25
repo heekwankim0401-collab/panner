@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Similar search boxes are already found in the base editor offering the same functionality in different interfaces, such as the FileSystem, Scene view, and Inspector view. This would work in the exact same way, just in the SpriteFrames viewer.",
+    "format": "markdown",
+    "workaround": "No, it fundamentally changes the editor layout."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-18T14:19:21Z",
+  "comments": 0,
+  "createdAt": "2021-05-02T06:15:51Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 2681,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a search box for animation names to the SpriteFrames panel",
+  "up": 4,
+  "updatedAt": "2022-07-18T14:19:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2681"
+}

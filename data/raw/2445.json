@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can only be done on the C++ side, while the asset library is limited to GDScript.\n\n*Bugsquad edit (keywords for easier searching): transform, translate, rotate, scale*",
+    "format": "markdown",
+    "workaround": "For some of the information, it's possible to get it directly from the UI. For example:\n```gdscript\n\tvar viewport = get_editor_interface().get_editor_viewport()\n\tvar editor = viewport.get_child(0)\n\tvar snapdialog : Node\n\tfor i in editor.get_children():\n\t\tif i.is_class(\"SnapDialog\"):\n\t\t\tsnapdialog = i\n\t\t\tbreak\n\tvar grid_settings = snapdialog.get_child(3).get_child(0)\n\tsnap_offset = Vector2(grid_settings.get_child(1).value, grid_settings.get_child(2).value)\n\tsnap_step = Vector2(grid_settings.get_child(4).value, grid_settings.get_child(5).value)\n```\nSetting aside how hacky it is, it's also unreliable, since the data in the dialog does not always match the current settings, as hitting \"cancel\" on the dialog will not cause the input values to reset until the dialog is reopened.\n\nAnd this is just for one piece of information of the countless details vailable from get_editor_states()"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-03-10T16:08:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2445,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `EditorData::get_editor_states()` available to scripting via EditorInterface",
+  "up": 3,
+  "updatedAt": "2021-12-21T23:11:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2445"
+}

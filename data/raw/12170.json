@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-04-06T09:18:30Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 12170,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename StreamPeer::get_8() to StreamPeer::get_s8() etc. to match PackedByteArray's API",
+  "up": 1,
+  "updatedAt": "2025-04-06T09:24:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12170"
+}

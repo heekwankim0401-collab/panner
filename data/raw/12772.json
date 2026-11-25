@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The code of the renderer would probably need to be changed which can not be achieved with an addon.",
+    "format": "form",
+    "workaround": "One would either have to attach a script to each meshinstance or have to write a script that goes through every object in the scene and change their values. One option is tedious and the other not really performant."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-11T18:06:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12772,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add global multiplier project settings for GeometryInstance3D visibility range, Light3D distance fade and DirectionalLight3D shadow max distance",
+  "up": 3,
+  "updatedAt": "2025-07-21T23:09:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12772"
+}

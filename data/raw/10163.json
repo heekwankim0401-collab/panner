@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Improving editor usability.",
+    "format": "form",
+    "workaround": "No that I can think of."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-07-10T06:59:54Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10163,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically change the scene tab highlighted when selecting the script of the scene",
+  "up": 1,
+  "updatedAt": "2024-09-21T17:36:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10163"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about fixing an inconsistency in the UI design workflow.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2022-07-18T21:04:32Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4909,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move font shadow settings to FontVariation for consistency with font outlines",
+  "up": 53,
+  "updatedAt": "2026-07-27T01:39:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4909"
+}

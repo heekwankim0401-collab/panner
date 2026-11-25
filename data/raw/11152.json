@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This sort of generic customization is not doable as an addon. There is a Poki addon that provides a shell, but it would be better if you don't need to depend on it, and can keep things simpler.\n\nIt's a very simple change, but very powerful.\nBeing able to inject both head (before) and body (after) allows you to truly fully customize the HTML output without changing the default shell. I gave a practical example with the SDKs, but I'm sure it would be useful for other use cases where you need to control when the loading starts, but don't want to change the entire shell; or where you want to add arbitrary stuff to the HTML that fit in `<body>`, not `<head>`.",
+    "format": "form",
+    "workaround": "You can replicate the default shell, but this means you need to keep track of updates to it.\nThis method makes it much simpler, where you only change the part you need to worry about."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-13T19:24:10Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11152,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve default HTML template for better `async` support by using a `$GODOT_BODY_INCLUDE` and named main function",
+  "up": 5,
+  "updatedAt": "2024-11-22T04:13:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11152"
+}

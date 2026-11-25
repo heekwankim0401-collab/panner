@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as TAA needs to integrate with low-level rendering functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-07T18:53:55Z",
+  "comments": 6,
+  "createdAt": "2021-10-07T20:54:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 3401,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement temporal antialiasing (TAA) in the Vulkan renderer",
+  "up": 19,
+  "updatedAt": "2022-06-07T18:53:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3401"
+}

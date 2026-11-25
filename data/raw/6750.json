@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Better built-in support for forwarding encourage the use of good design principles like Composition over Inheritance, Single Responsibility, and the Façade pattern. \n\nThe Character script in my example respects these principles because it is composed of a Stats object (among other variables), instead of inheriting (from something like CharacterWithoutStats or EntityWithStats) or directly including the members of Stats (which could make Character have multiple responsibilities).",
+    "format": "form",
+    "workaround": "While a single property can be forwarded in 2-3 lines of code using getters/setters, these lines quickly add up over many properties."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 28,
+  "createdAt": "2023-04-24T18:53:33Z",
+  "down": 2,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6750,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automate or reduce the boilerplate when forwarding script properties in GDScript",
+  "up": 16,
+  "updatedAt": "2025-12-14T23:28:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6750"
+}

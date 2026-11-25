@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a very simple function, and very useful in the development of 3D projects, it should become part of the engine",
+    "format": "form",
+    "workaround": "This is often used, of course you can write a plugin, but it’s not for beginners"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-21T19:42:00Z",
+  "comments": 2,
+  "createdAt": "2024-06-21T18:36:22Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10011,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a function to copy the position and rotation of the camera editor",
+  "up": 0,
+  "updatedAt": "2024-06-21T20:06:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10011"
+}

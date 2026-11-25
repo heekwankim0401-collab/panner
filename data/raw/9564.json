@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No, it should be core",
+    "format": "form",
+    "workaround": "In the Editor, it should prints:\n```\n>App Start\n>client connect\n>client req info: aaa\n>info.id = 564564563165\n>info.name = \"asfafdasdfasf\"\n>info.many_info = asdfasfasdf\nsadfdsaf\nsaf\nas\nf\nsafd\n>quit\n```\nFor exported app, it should prints:\n```\n>App Start\n>client connect\n>client req info: aaa\n```\n\nOther a simple example:\n```\nfunc _ready():\n\ttest(true)\n\ttest(false)\n\ttest(true)\n\ttest(false)\n\nfunc test(disable:bool):\n\tProjectSettings.set_setting(\"application/run/disable_stdout\",disable)\n\tif disable:\n\t\tprints(\"Disable, This line can't print\")\n\telse:\n\t\tprints(\"Enable, This line should print\")\n```\nI wish output was:\n```\n>Enable, This line should print\n>Enable, This line should print\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-23T14:31:20Z",
+  "comments": 3,
+  "createdAt": "2024-04-20T04:09:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.4",
+  "number": 9564,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow setting \"application/run/disable_stdout\" at runtime",
+  "up": 1,
+  "updatedAt": "2024-09-23T14:34:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9564"
+}

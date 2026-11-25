@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It already is the core - this is a modification to how the core behaves.",
+    "format": "form",
+    "workaround": "This would open up a world of other possible input event sources, not just this one. For example custom input hardware that doesn't fit into the existing input device structures. For the one specific situation I am working on right now I can work around it with with signals and manual checking of screen locations, but it's clunky, especially when the input system already does everything I want it  to except retain the additional data that is needed, along with the important \"where did this event come from\" factor that is lost when the subclass is stripped away."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-04-15T09:56:16Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 9525,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow the creation and propagation of custom input events",
+  "up": 10,
+  "updatedAt": "2025-07-06T16:37:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9525"
+}

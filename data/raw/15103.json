@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-05T15:47:06Z",
+  "comments": 2,
+  "createdAt": "2026-06-30T05:25:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15103,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide a formatted version of `Engine.get_license_info()` for easier printing",
+  "up": 0,
+  "updatedAt": "2026-10-05T18:28:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15103"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would make the workflow experience, convenience and therefore usability of 2D and 3D much more similar if this would work out of the box.",
+    "format": "form",
+    "workaround": "Workarounds and custom utility are the opposite of helping with convenience and usability for commonly used features such as this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2022-11-17T14:23:34Z",
+  "down": 1,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5801,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ViewPort Camera3D when running a 3D scene without Camera",
+  "up": 13,
+  "updatedAt": "2023-04-27T15:43:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5801"
+}

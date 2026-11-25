@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Is not such a trivial solution, specialy for guys who may be more on the art side than programming side, like me.",
+    "format": "legacy",
+    "workaround": "Sure, but making a good input buffer is not a trivial solution, my code while it works, is buggy and I think having a basic Input buffer supported by the engine would be good for action games, maybe devs who want a cheat code, fighting games, metroidvanias, action rpgs, etc."
+  },
+  "assignees": 0,
+  "closedAt": "2019-10-13T18:52:45Z",
+  "comments": 84,
+  "createdAt": "2019-09-24T23:58:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 100,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a fighting game input buffer.",
+  "up": 5,
+  "updatedAt": "2020-04-29T22:33:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/100"
+}

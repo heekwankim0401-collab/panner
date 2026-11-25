@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "This is a native Android feature that enhances the usability of the official Godot Android Editor.",
+    "format": "form",
+    "workaround": "This feature cannot be easily replicated with a simple script"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T15:55:42Z",
+  "comments": 1,
+  "createdAt": "2025-03-02T02:37:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:editor",
+    "topic:platforms",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11889,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add \"Create New Project\" App Shortcut in Godot Android Editor",
+  "up": 0,
+  "updatedAt": "2026-01-28T17:42:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11889"
+}

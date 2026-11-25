@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Exporting is a core functionality, i dont think that this can be add-on",
+    "format": "form",
+    "workaround": "I dont think so."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-15T19:42:23Z",
+  "comments": 2,
+  "createdAt": "2021-06-08T21:04:57Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "platform:linuxbsd",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 2842,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement exporting Snaps from the editor",
+  "up": 0,
+  "updatedAt": "2022-02-15T19:42:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2842"
+}

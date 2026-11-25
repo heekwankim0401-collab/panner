@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's user experience enhancement so small that making it with script or plugin is actually more complex than just turning it on in the source code.",
+    "format": "form",
+    "workaround": "It will be used often. It will be used by every 2D user even if they don't know it."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-13T19:07:08Z",
+  "comments": 0,
+  "createdAt": "2021-08-26T15:33:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3209,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable Pixel Snap in the 2D scene editor by default",
+  "up": 15,
+  "updatedAt": "2021-09-13T19:07:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3209"
+}

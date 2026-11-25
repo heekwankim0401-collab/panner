@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can only be resolved in core.",
+    "format": "markdown",
+    "workaround": "No, there's no apparent mechanism which could allow to detect those internal callbacks via script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-02-13T23:12:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2285,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Forbid access to internal, private, non-virtual C++ methods and callbacks via script",
+  "up": 24,
+  "updatedAt": "2022-07-12T11:02:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2285"
+}

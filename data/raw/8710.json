@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "FSR2 is in core, and has to be modified in core.",
+    "format": "form",
+    "workaround": "Only by compiling your own fork of Godot with the values changed."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-01T15:42:40Z",
+  "comments": 1,
+  "createdAt": "2023-12-21T21:04:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8710,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Advanced FSR 2 Options",
+  "up": 3,
+  "updatedAt": "2024-01-01T15:58:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8710"
+}

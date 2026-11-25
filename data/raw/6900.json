@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "> This is add-on to create realistic human skin and hairs (revised based on feedback)\n\nOne of the [main feedback Juan received](https://godotengine.org/article/godot-at-gdc-2023/) from his presence at [Game Developers Conference](https://gdconf.com/) (GDC), on March 20-24 2023 was that there is a strong demand for improving Godot4 rendering.\n\nI think this is a strong justification for why such photo-realistic rendering needs to go into ONE of its Future Core Features.\n\n-----\n\n_Further references:_\n\n[Photo Realistic Graphics in Godot? Yes!](https://www.youtube.com/watch?v=tgK_pFdjFRA)\n\n![image](https://github.com/godotengine/godot-proposals/assets/49812372/573ca698-e76f-4cdf-b2e2-40be55f67e29)\n\n- [Godot Realistic Graphics](https://www.reddit.com/r/godot/comments/mwx6ju/godot_realistic_graphics/)\n- [Photorealism in Godot 4 !](https://youtu.be/d_BJ9RN6PLE)\n-  [Photorealistic demo made in a few hours in Godot 4](https://www.reddit.com/r/godot/comments/130e009/photorealistic_demo_made_in_a_few_hours_in_godot_4/)\n\n- [Godot Photorealistic Graphics](https://www.youtube.com/watch?v=a38LzdOi6KI)\n![image](https://github.com/godotengine/godot-proposals/assets/49812372/b8f6ba43-9716-4189-8038-7050d6a2d773)\n\n\n- [Realistic human skin practice](https://www.therookies.co/projects/3289)\n![image](https://github.com/godotengine/godot-proposals/assets/49812372/c89c18ee-e01f-4c2f-8b20-cb53ade058cf)",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 37,
+  "createdAt": "2023-05-17T09:08:37Z",
+  "down": 1,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6900,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Provide dedicated skin and hair shaders for creating realistic human characters",
+  "up": 1,
+  "updatedAt": "2024-06-03T00:50:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6900"
+}

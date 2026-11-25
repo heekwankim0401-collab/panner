@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is related to engine builds, not script code.",
+    "format": "legacy",
+    "workaround": "It is related to engine builds, not script code."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-26T19:39:30Z",
+  "comments": 17,
+  "createdAt": "2019-10-30T15:00:10Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": "4.8",
+  "number": 190,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable users to create GUI-only optimized builds for web and mobile",
+  "up": 74,
+  "updatedAt": "2026-08-26T19:39:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/190"
+}

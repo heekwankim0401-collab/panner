@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Other languages seem to treat this gracefully. For example, in Java, you could check if an object is an instance of something with `obj instanceof Class`. This has the same functionality as Godot `is`.\n\nHowever, if we want to get the precise class of an object, there is `getClass()` in Java. I didn't manage to find something similar in Godot.",
+    "format": "form",
+    "workaround": "This can be worked around by checking the more specific types first and breaking after a match."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-04-16T20:52:17Z",
+  "down": 7,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9535,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Specific node type checking",
+  "up": 2,
+  "updatedAt": "2024-04-17T08:22:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9535"
+}

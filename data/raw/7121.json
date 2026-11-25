@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a simple addition to an existing feature.",
+    "format": "form",
+    "workaround": "I haven't been able to find any simple work arounds to this cumbersome workflow."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-20T18:39:32Z",
+  "comments": 8,
+  "createdAt": "2023-06-20T04:19:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7121,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow AnimationTree to transition from any other animation in the state machine",
+  "up": 0,
+  "updatedAt": "2023-06-22T17:17:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7121"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature already exist in older version, why remove it?\n\nBy the way, in Unity, you can use key modifier like ctrl, shift, and alt, to decide if you want to set only the anchor, or also the position, or also the size. If the reason of removal of this feature is that it doesn't look pretty, then key modifier is probably a good alternative.",
+    "format": "form",
+    "workaround": "Definitely much more inconvenient if you are working with many UI."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-11-21T14:48:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8485,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Readd Anchor Only control layout options from Godot 3.x",
+  "up": 4,
+  "updatedAt": "2023-12-14T20:12:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8485"
+}

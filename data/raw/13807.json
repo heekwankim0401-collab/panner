@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "**There *is* a reason these should be part of core.**\n\nThese smoothing functions address a fundamental engine-level issue: interpolation behaves inconsistently at different frame rates. Godot already provides essential math helpers like `lerp`, `lerp_angle`, and `move_toward` because they solve universal problems. \n\nFrame-rate-independent smoothing is just as universal; it is needed for camera motion, character rotation, animation blending, UI transitions, and many other systems. \n\nBecause this functionality is broadly useful and complements existing math helpers, it belongs in core rather than requiring every project to re-implement or import an add-on.\n\nEdit: Forgot to mention, credit to Freya on this method",
+    "format": "form",
+    "workaround": "I’ve implemented frame-rate independent smoothing manually, and it works, but it’s not very convenient. You have to write custom functions with `1.0 - exp(-delay * delta)` or `1.0 - pow(rate, delta)` every time you need it, and angle smoothing requires using lerp_angle to handle wrapping. \n\nThis results in repetitive boilerplate code, makes projects harder to maintain, and increases the chance of inconsistencies across different parts of a project. A built-in function would simplify this process, reduce errors, and provide a standard approach for smooth interpolation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-12-08T04:29:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13807,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add built-in frame-rate independent exponential smoothing functions",
+  "up": 15,
+  "updatedAt": "2026-03-04T16:26:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13807"
+}

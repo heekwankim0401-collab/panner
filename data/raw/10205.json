@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it should be a base assest in the game engine to be a ragdoll node, its like using a staticbody node instead of a characterbody and trying to add functions like is_on_floor...",
+    "format": "form",
+    "workaround": "Currently in 4.3 no tutorial or guide makes a working ragdoll, and its a lot more than a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-14T16:32:56Z",
+  "comments": 4,
+  "createdAt": "2024-07-14T04:34:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10205,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ragdoll Physics Node",
+  "up": 0,
+  "updatedAt": "2024-07-14T16:33:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10205"
+}

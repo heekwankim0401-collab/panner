@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Oh! To be like an equivalent or companion to lightmaps you can turn off at anytime from the baked lighting node’s inspector.\n\nThe vertex based baked lighting system could be wildly efficient for massive worlds or if the levels’re blocky and doesn’t need pixel based lightmaps for it.\n\nThink of like an option or an addition to smooth out shadows if you’re making, say, a PS1 retraux game where the vertex lighting’s there to smooth out the light and shadows for the point-filtered lightmaps.\n\nIt’s a popular genre, and this tool can definitely help with getting the vibe across.",
+    "format": "form",
+    "workaround": "You can do this by making a custom script and record all the lighting data for every vertices in an array and have it make a resource with that, but you would also need access to the lighting pass for this to work, which is disabled for vertex based shaders."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-10T20:58:05Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8062,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for vertex-based lightmaps",
+  "up": 10,
+  "updatedAt": "2025-03-13T06:14:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8062"
+}

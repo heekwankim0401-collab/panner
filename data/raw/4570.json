@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it´s directly part of the mesh-classes.",
+    "format": "form",
+    "workaround": "the only walk around i found is by redrawing the mesh in blender or something similar with the needed offset and use this obj-file instead of the godot build in mesh"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-21T09:42:03Z",
+  "comments": 7,
+  "createdAt": "2022-05-20T16:22:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4570,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Move \"center offset\" to base mesh class to use it for all types of meshes",
+  "up": 0,
+  "updatedAt": "2022-05-21T09:42:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4570"
+}

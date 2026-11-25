@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's quality of life feature that can be used in various circumstances.\nCamera shake\nTelegraphing\nCutscenes\nRandomizing values for gameplay logic driven by tweens",
+    "format": "form",
+    "workaround": "Yes, here is my solution for the attack.\n\n```\nvar t = create_tween()\n\nvar snapshot = claw.translation\nt.tween_method(self, \"wiggle\",snapshot,snapshot,.5)\n\t\n\t\nfunc wiggle(value):\n\tvar v = .25\n\tclaw.translation = value\n\tclaw.translation.x += rand_range(-v,v)\n\tclaw.translation.z += rand_range(-v,v)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-16T08:19:11Z",
+  "comments": 4,
+  "createdAt": "2023-04-28T22:08:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6771,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement tween_wiggle_property() / tween_random_value",
+  "up": 0,
+  "updatedAt": "2026-07-16T09:32:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6771"
+}

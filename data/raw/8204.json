@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core aspect of Godot's functionality.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-14T16:00:28Z",
+  "comments": 4,
+  "createdAt": "2023-10-20T02:31:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 8204,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change Reflection Probe Bounds to be Less Obscuring",
+  "up": 2,
+  "updatedAt": "2025-03-14T16:00:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8204"
+}

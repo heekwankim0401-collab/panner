@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Exporting and signing exports is part of the core",
+    "format": "form",
+    "workaround": "It can be worked around by simply not having Godot export and sign a dmg, and instead just export the app bundle. But this means you then need to create and manage this dmg template yourself, put the exported app bundle in it, convert the dmg to read only and then sign and submit it to notarization yourself. It's a lot of extra steps you need to know how to do, and even if you know how to do it it would be much nicer if Godot could include this in the export process.\n\nAs an aside I see that the official Godot editor macOS builds are currently distributed as zip files. If you did manage to automate this style of nice install dmgs it might be a good option to start distributing the editor like this as well."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-03-20T22:14:20Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:export",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12033,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Applications alias and instruction decorations to macOS export dmg",
+  "up": 4,
+  "updatedAt": "2025-03-21T00:30:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12033"
+}

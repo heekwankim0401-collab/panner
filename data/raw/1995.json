@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core GUI system functionality.",
+    "format": "markdown",
+    "workaround": "Drawing a placeholder for TextEdit might be feasible using custom drawing or even a Label node as a child of the TextEdit, but it requires more than a few lines of script. Also, we'll need this in the editor in many places (https://github.com/godotengine/godot/issues/44413)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-24T08:43:33Z",
+  "comments": 4,
+  "createdAt": "2020-12-16T13:44:29Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 1995,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `placeholder` property to TextEdit (like LineEdit already has)",
+  "up": 13,
+  "updatedAt": "2022-03-04T23:42:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1995"
+}

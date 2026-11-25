@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This enhancement addresses a core functionality of the Godot engine - the loading and processing of 3D assets. Its implementation will improve the efficiency of the engine's asset loading pipeline, making it a core enhancement rather than an optional add-on.\n\n```[tasklist]",
+    "format": "form",
+    "workaround": "This is an enhancement that cannot be replicated with a script workaround due to its integration with the asset loading pipeline. It's a change that will benefit projects using 3D assets."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-20T16:54:11Z",
+  "comments": 2,
+  "createdAt": "2023-12-06T22:59:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 8601,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Unify Tangent Space Generation Across Godot 3d Pipeline",
+  "up": 4,
+  "updatedAt": "2023-12-20T17:05:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8601"
+}

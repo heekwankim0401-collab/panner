@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Layers editor and project settings are part of the core editor.",
+    "format": "markdown",
+    "workaround": "It can, but this change can improve editor usability."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-02T19:15:38Z",
+  "comments": 41,
+  "createdAt": "2021-05-25T01:02:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:physics",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 2770,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Render/Physics layer editor with up to 32 values",
+  "up": 18,
+  "updatedAt": "2021-08-30T16:20:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2770"
+}

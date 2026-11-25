@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The use cases are common enough (as common as the \"Save Branch as Scene\" feature can be) to warrant it being core.",
+    "format": "form",
+    "workaround": "There's no quick workaround to it, the closest you can get is to make the node local to scene, save it, and then alter the file by hand on a text editor so that it inherits the original scene, which is possible and somewhat simple for trivial scenes, but time consuming and heavily error prone otherwise.\n\nAnother workaround involves reparenting the scene to a dummy node and saving that one as a Scene, but this leaves the user with a root node that serves no purpose. The follow-up workaround to that would be to have a script attached to the dummy node so that it reparents its children and frees itself on ready. But it would still require a dummy node in editor that serves no runtime purpose, and is confusing to the user. Another key disadvantage of this workaround is that the inherited node would not be the owner of its own scene."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-08-14T21:29:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5171,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow \"Save Branch as Scene\" to create new inherited scenes",
+  "up": 47,
+  "updatedAt": "2024-02-26T21:52:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5171"
+}

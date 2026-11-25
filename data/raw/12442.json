@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "While most of the use cases are pretty niche, there's a lot of Godot developers interested in retro style graphics. Something like the retro skybox effect ought be convenient and easy to implement.",
+    "format": "form",
+    "workaround": "You can send camera rotation to a sky shader with a script, but this becomes more complicated for multi-camera setups. It's also possible to create your own skybox object and use the built-ins available to spatial shaders, however sky shaders provide better integration with the environment/reflections system. The additional setup involved in either option makes them inconvenient for sharing shaders."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-05-17T05:53:51Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12442,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Expose camera forward direction built-in to sky shaders",
+  "up": 30,
+  "updatedAt": "2026-03-14T20:08:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12442"
+}

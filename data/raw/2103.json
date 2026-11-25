@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it makes no sense to implement this using plugins, because it is unreliable (a plugin that implements this could be easily disabled etc)",
+    "format": "markdown",
+    "workaround": "Plugin system related"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-01-10T09:43:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2103,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Warn when the user is trying to disable an \"important\" plugin",
+  "up": 0,
+  "updatedAt": "2021-01-11T20:52:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2103"
+}

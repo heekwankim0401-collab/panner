@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Both would be great if one existed in the first place but why does it not get added just to the asset library or the core engine is something I'm not sure of.",
+    "format": "legacy",
+    "workaround": "You can make a plane that has a hole on the shape you want then turn on shadows and put them on the highest res possible and will give somewhat of an acceptable result but the point that it's time-consuming/hard/limiting."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-05T17:01:50Z",
+  "comments": 6,
+  "createdAt": "2021-01-05T15:47:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2076,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Making the spotlight light shape customizable",
+  "up": 0,
+  "updatedAt": "2021-01-05T17:07:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2076"
+}

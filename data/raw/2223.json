@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Lights are core.",
+    "format": "markdown",
+    "workaround": "I don't think so, also lights are essentials so they are used often."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-25T23:40:11Z",
+  "comments": 5,
+  "createdAt": "2021-02-02T09:28:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 2223,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add minimum and maximum range properties for OmniLight3D and SpotLight3D",
+  "up": 0,
+  "updatedAt": "2021-12-25T23:40:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2223"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It makes a core editor feature not annoying.",
+    "format": "form",
+    "workaround": "As far as I'm aware it cannot be worked around without recompiling the engine yourself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-04-26T10:45:03Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "3.x",
+  "number": 12320,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to disable Scale values linking",
+  "up": 0,
+  "updatedAt": "2026-09-07T15:55:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12320"
+}

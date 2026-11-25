@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It involves core functionality.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2025-05-08T03:36:00Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12388,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Make orthogonal viewport camera not neutralize its viewing distance",
+  "up": 36,
+  "updatedAt": "2026-01-24T20:59:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12388"
+}

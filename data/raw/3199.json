@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "PopupMenu and the Control/Style system are part of the core engine. It would be nice to have out-of-the-box support for configuring these controls to highlight checked rows.",
+    "format": "form",
+    "workaround": "There might be a way to work around this issue, but I think it would entail switching away from the built-in PopupMenu and OptionButton types, which would reduce the value and convenience of being able to use built-in controls/styling."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-08-25T05:17:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3199,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Selected` StyleBox property to PopupMenu's Style",
+  "up": 0,
+  "updatedAt": "2021-08-25T15:59:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3199"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The Comment node could be beneficial to any type of project so it shouldn't be categorized as an addon",
+    "format": "form",
+    "workaround": "The functionality can be best worked around by creating a Node with the following 2 lines of code\n```\nextends Node\n\n@export_multiline var notes: String\n```\nHowever, this approach requires the node to be clicked and viewed in the inspector to see the comment, which does not allow for multiple comments to be visible at once\nThis approach also does not allow for the beforementioned node highlighting in any way"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2025-10-04T20:04:47Z",
+  "down": 14,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13336,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Comment\" node",
+  "up": 0,
+  "updatedAt": "2025-10-12T09:06:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13336"
+}

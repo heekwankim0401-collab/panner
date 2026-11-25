@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about language server",
+    "format": "form",
+    "workaround": "i dont know, but i think it cant"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T14:43:29Z",
+  "comments": 1,
+  "createdAt": "2022-08-19T08:14:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.5",
+  "number": 5203,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Modify the language server to either return the docs in the editor's selected language, or to allow the language client(this extension) to specify the desired language for the docs.",
+  "up": 3,
+  "updatedAt": "2026-07-28T14:43:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5203"
+}

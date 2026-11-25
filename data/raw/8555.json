@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because Godot already can generate pot file (Project -> Project Settings... -> Localization -> POT Generation) and provide context for strings (2nd argument for `tr()` and 3rd argument for `tr_n()` functions), there no reason to not include comments generation as core feature.",
+    "format": "form",
+    "workaround": "It should be possible to configure gettext or simple edit pot file by hand to include comments or use translation context for that, but there several limitations with that:\n1. Some po editing software doesn't even handle long context messages properly (in this example, POEdit):\n![screenshot](https://github.com/godotengine/godot-proposals/assets/54743395/aba039b0-21b5-4ada-8e89-be7462eda065)\n\nHere we can't even see original string because context is taking all space. To see original, we need to highlight desired string:\n\n![screenshoot](https://github.com/godotengine/godot-proposals/assets/54743395/752d09a7-d8a9-449d-944c-a69fa26b4568)\n\nIf source context string is long enough, it will make translator's navigating experience worse then it should be.\n\n2. Context string wasn't designed for that purposes which will result in another problem:\nChanging context in pot or source code will make strings \"fuzzy\" for translated po files since context string used to determine where translated string should be used. So, lets say, I would create translation:\n```gdscript\nvar string = tr(\"Untranslated string\", \"This stirng will be used in foo situation.\")\n```\nBut later (when translations for some languages were already done) I noticed that I made typo in word \"stirng\". I fixed it, generated new pot file and uploaded. Because I did that, \"Untranslated string\" become not translated in game for all languages, because gettext form source code (and as result, also pot file) expects for context to be \"This string will be used in foo situation.\" but in po files there still \"This stirng will be used in foo situation.\". That means, that I should ask all translators to fix that typo in their translations or I manually (or with help of some scripts, tools) edit every translation to fix that typo, which might become especially cumbersome if there more then 2-3 translation available for my game.\n\n3. Manually added comments in pot will be removed on next pot generation, which means you will need to"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-15T16:46:52Z",
+  "comments": 7,
+  "createdAt": "2023-11-30T19:48:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.4",
+  "number": 8555,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for generating comments from tr() and tr_n() functions for gettext (pot) translation system ",
+  "up": 5,
+  "updatedAt": "2024-11-15T16:46:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8555"
+}

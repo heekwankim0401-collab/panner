@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The ability to run multiple instances is already a core feature, but it is limited by the fact that all 4 instances are identical. There are situations (server-client, A B feature testing, game with pop-out UI, etc) where developers want the instances to behave differently, and command line arguments are a direct way to tell instances how to behave",
+    "format": "form",
+    "workaround": "As far as I can tell this cannot be achieved without creating a custom scene requiring the user (me) to choose which instance should be a server and which should be a client"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-04T12:55:42Z",
+  "comments": 3,
+  "createdAt": "2023-02-03T22:20:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6232,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Separate cmd args per debug instance",
+  "up": 0,
+  "updatedAt": "2023-02-05T17:47:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6232"
+}

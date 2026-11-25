@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not being able to toggle a state from the inspector node signal connector seems like a significant gap in functionality IMO.",
+    "format": "form",
+    "workaround": "I believe this new method will be used often by most projects, particularly ones with pause screens that are driven by a shortcut key."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-07-28T20:34:30Z",
+  "down": 2,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10302,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `CanvasItem.toggle_visibility()` method for usage in inspector signals",
+  "up": 2,
+  "updatedAt": "2024-07-30T10:21:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10302"
+}

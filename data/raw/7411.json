@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Seems like a trivial addition when done in core, but a hassle when attempted as a library.",
+    "format": "form",
+    "workaround": "I suppose it could be done using a custom shader, but this would cost performance because the interpolation is done in shader code instead of native hardware."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2023-07-30T11:12:14Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7411,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow specific materials to use bilinear mipmap filtering instead of trilinear",
+  "up": 6,
+  "updatedAt": "2023-10-24T21:36:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7411"
+}

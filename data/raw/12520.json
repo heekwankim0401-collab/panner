@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "- It's already part of the engine, would just need some effort to polish it up into a public facing API/node.\n- It's a distinct method of toggling visibility that doesn't exist in the core UI nodes (similar to TabContainer)\n- An official solution would help ensure more consistency for games & plugins made in Godot\n- Features improvements to accordions (eg: animation curves) could bubble up to the editor\n- Accordions/collapsible content is arguably more common than trees and maybe even tabs",
+    "format": "form",
+    "workaround": "Optional for use, can be ignored if not needed."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-29T21:51:27Z",
+  "comments": 3,
+  "createdAt": "2025-05-29T07:55:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12520,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add AccordionContainer node",
+  "up": 0,
+  "updatedAt": "2025-05-30T13:28:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12520"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it is unnecessary that every professional game developer writes this boilerplate code for themselves and takes it to every project they start. Making the signals part of core means nobody has to worry about their implementation of this code.",
+    "format": "form",
+    "workaround": "See the code example above."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-31T15:34:29Z",
+  "comments": 4,
+  "createdAt": "2025-10-31T15:25:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13526,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a signal for window changes",
+  "up": 0,
+  "updatedAt": "2025-11-01T08:40:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13526"
+}

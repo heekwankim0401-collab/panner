@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It needs to be able to help developers who are new to Godot and don't know to install the addon, similar to syntax highlighting or autocomplete.",
+    "format": "form",
+    "workaround": "perhaps, but the question is about helping new programmers or people who aren't expecting to make a bug, so knowing to run a helper script would defeat the purpose"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-07-08T22:44:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4838,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Detect misspelled virtual overrides in scripts",
+  "up": 0,
+  "updatedAt": "2026-02-11T18:36:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4838"
+}

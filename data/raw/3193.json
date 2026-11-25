@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The same as above.",
+    "format": "form",
+    "workaround": "No, the API of RichTextLabel is very limited at this domain."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-09T17:07:07Z",
+  "comments": 3,
+  "createdAt": "2021-08-24T08:37:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3193,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make RichTextLabel show hand shaped cursor regardless of Meta Underlined",
+  "up": 4,
+  "updatedAt": "2022-12-09T17:07:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3193"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The button is already there, this just enhances the functionality",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-02-06T17:37:09Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14168,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show a visual indicator when audio is playing in the embedded game window",
+  "up": 3,
+  "updatedAt": "2026-02-09T23:36:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14168"
+}

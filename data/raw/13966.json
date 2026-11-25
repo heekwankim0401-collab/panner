@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a GDScript core feature.",
+    "format": "form",
+    "workaround": "Now it can be only done with custom format comments."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2026-01-07T05:51:05Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13966,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@hint(\"...\")` annotation in GDScript on classes, functions and properties",
+  "up": 0,
+  "updatedAt": "2026-01-12T16:11:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13966"
+}

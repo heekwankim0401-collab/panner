@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The text_file.cpp already exists as a Resource within Godot, albeit not yet exposed in the engine. Hence, the integration of this enhancement merely involves exposing it and implementing the ResourceFormatLoader abstract class.",
+    "format": "form",
+    "workaround": "As previously mentioned, one could bypass the need for this enhancement by converting the text file to an already implemented resource format like JSON. However, this approach is a very slow workflow and necessitates the creation of a custom function to extract the text from the JSON file."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-12T16:11:41Z",
+  "comments": 10,
+  "createdAt": "2024-02-12T03:23:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9077,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Exposing text_file.cpp as a Resource with ResourceFormatLoaderText",
+  "up": 0,
+  "updatedAt": "2024-10-06T23:53:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9077"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The multiplayer framework is already a core part of Godot, and this seems like an essential feature for **any** peer to peer game.\nNo way around it. Honestly without this feature peer to peer games in Godot are essentially not doable nor feasible.",
+    "format": "form",
+    "workaround": "I think it might be possible but definitely not in a few lines of code. On a disconnect you probably have to reset the game on all players left while saving the current state of all enemies and players and game data, then redo the session and manually spawn in everything the way it was before the host disconnect. Seems very tedious and error-prone.\nDefinitely not something I could to myself or any newcomer to multiplayer principles."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-09-29T07:11:31Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 7912,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement automatic host migration in peer-to-peer games",
+  "up": 20,
+  "updatedAt": "2025-11-29T21:21:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7912"
+}

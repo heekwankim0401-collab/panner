@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "legacy",
+    "workaround": "Add group is an engine feature, using a script doesn't allow me to emit a signal and so catch a grouping when it's grouped in the Editor."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-21T16:10:18Z",
+  "comments": 7,
+  "createdAt": "2020-04-29T09:31:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 766,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Emits a signal when a new node is added into a group",
+  "up": 15,
+  "updatedAt": "2024-01-10T08:26:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/766"
+}

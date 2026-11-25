@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I actually [started work on an addon](https://github.com/rcorre/smoothie) to do exactly this.\nIt is still a PoC but demonstrates much of the functionality I describe above.\nHowever, I was looking through the Godot source and realized that most of this is already implemented.\nFor example, you can already cycle through axis locks by pressing the middle-mouse button while holding down the left-mouse button.\nHowever, this is clumsy and hard to discover (I didn't realize it existed until I saw it in the source).\n\nSo this could be implemented as a plugin, but I got tired of re-implementing Godot's editor logic and decided to try patching the editor instead.",
+    "format": "legacy",
+    "workaround": "See the addon below. It isn't horrible, but it isn't \"a few lines\" either."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-08T15:39:19Z",
+  "comments": 59,
+  "createdAt": "2020-07-18T19:01:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1215,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Blender-inspired UI and shortcuts for transform tools in 3D editor",
+  "up": 44,
+  "updatedAt": "2023-10-04T11:26:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1215"
+}

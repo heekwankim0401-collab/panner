@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Its Core!",
+    "format": "form",
+    "workaround": "It will be used like 60-90% of game projects."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-27T20:33:23Z",
+  "comments": 37,
+  "createdAt": "2021-08-21T12:57:19Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": "4.8",
+  "number": 3177,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for texture streaming",
+  "up": 146,
+  "updatedAt": "2026-08-27T21:42:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3177"
+}

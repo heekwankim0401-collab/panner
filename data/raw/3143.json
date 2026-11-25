@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because I may not be the only one that runs into this issue. Due to circumstances in my situation, I'm not allowed to download Godot as an executable. The editor version is the only one I can use.\nBeing able to download the projects you create no matter what is crucial, especially with the web editor's limitations.",
+    "format": "form",
+    "workaround": "Not at all. This can only be done by modifying core.\n**Edit**: Fortunately, I did eventually find a workaround to download part of the indexedDB using JS snippets, but this would still be useful for convenience and productivity purposes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-08-14T22:34:14Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3143,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move \"Download Project Source\" from the Godot web project editor to the project manager",
+  "up": 2,
+  "updatedAt": "2021-09-29T16:26:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3143"
+}

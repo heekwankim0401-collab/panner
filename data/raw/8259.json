@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this should be a feature inside of the engine without using any addon",
+    "format": "form",
+    "workaround": "this is hard, beause all my animations looks like using the AnimationPLayer, change like in OneShot, this is need it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-25T23:57:36Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 8259,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Filter options from StateMachines (Like in BlendTrees)",
+  "up": 9,
+  "updatedAt": "2023-10-25T23:59:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8259"
+}

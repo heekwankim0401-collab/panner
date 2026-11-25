@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core: Addition to functionality of ScrollContainers",
+    "format": "markdown",
+    "workaround": "Not that I know of."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-01-14T14:35:48Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2122,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Setting to allow ScrollContainers to continue Accepting Input even if the Top/Bottom of their Content is reached",
+  "up": 0,
+  "updatedAt": "2024-01-13T18:17:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2122"
+}

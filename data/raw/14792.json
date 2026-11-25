@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-07T12:48:42Z",
+  "comments": 9,
+  "createdAt": "2026-05-05T18:38:01Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 14792,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to get the `Node` API when using a different `extends` type.",
+  "up": 0,
+  "updatedAt": "2026-05-07T12:55:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14792"
+}

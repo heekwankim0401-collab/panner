@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No reason other than the fact that languages like Python have this kind of feature.",
+    "format": "form",
+    "workaround": "Locally - yes, but I don't quite see a way how two variables can be swapped using a utility function:\n\n```gdscript\nstatic func swap(a, b):\n\tvar tmp = a\n\ta = b\n\tb = tmp\n\nfunc _ready():\n\tvar a = 1\n\tvar b = 2\n\tswap(a, b)\n\tprint(a) # Prints 1, not swapped.\n\tprint(b) # Prints 2, not swapped.\n```\n\nThis is because primitive types cannot be passed by reference in GDScript, as seen in this Q&A question:\n- [How do I pass variables by reference to functions?](https://godotengine.org/qa/32684/how-do-i-pass-variables-by-reference-to-functions)\n\nFor those who port existing code to GDScript, this could result in difficult-to-debug errors."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-08-14T17:01:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3142,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to swap two variables in GDScript",
+  "up": 67,
+  "updatedAt": "2026-08-19T08:38:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3142"
+}

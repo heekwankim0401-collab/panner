@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No reason, but to have extra features in Godot.\n\n(Edit 0), can be useful for most 3D games, stylized or not, it is a physics feature for the engine, like SoftBody3D or SkeletonIK.\nand having it in core will make it maintained for every version onward until the engine developers decide to make it deprecated.",
+    "format": "form",
+    "workaround": "Yes it is not required to be part of the engine ,but actually any 3D game can find this useful, though I don't insist on this feature being part of Godot Directly, I will anyway do it for my game, I just here to see if the Godot Community wants this feature by default, and to discuss how to implement in such case, since from my search this feature is implemented in certain number of publicily available engines.\n\nI will work on the feature sometime near for my game in Godot, I am just checking if it is accepted to do it as part of the engine instead of GD Extension"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-09-21T11:03:19Z",
+  "down": 5,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7782,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a destruction system",
+  "up": 2,
+  "updatedAt": "2023-09-21T14:21:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7782"
+}

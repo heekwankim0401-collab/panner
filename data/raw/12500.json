@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Themes are core",
+    "format": "form",
+    "workaround": "Themes are used by all significant application. Workarounds require a significant amount of work despite theming being essential"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-25T23:53:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12500,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make iterating over theme changes faster",
+  "up": 17,
+  "updatedAt": "2025-05-26T16:00:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12500"
+}

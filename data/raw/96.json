@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this is a much needed feature.",
+    "format": "legacy",
+    "workaround": "It can be done with a simple shader but such a feature is very useful (specially on the polishing stage)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 23,
+  "createdAt": "2019-09-22T14:29:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 96,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an HSL modulation property to CanvasItem (to complement RGBA modulation)",
+  "up": 25,
+  "updatedAt": "2023-01-01T21:12:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/96"
+}

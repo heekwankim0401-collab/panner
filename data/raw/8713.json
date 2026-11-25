@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Doesn't make sense as an add-on this is core stuff.\n```[tasklist]",
+    "format": "form",
+    "workaround": "It would be used all the time, at the very least by me. It can currently be worked around but its tedious having to add each property one by one."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-12-22T02:30:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8713,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support to select and add multiple properties with AnimationPlayer/PropertySelect",
+  "up": 7,
+  "updatedAt": "2023-12-26T02:43:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8713"
+}

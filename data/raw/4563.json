@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The goal is to make the core faster.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 25,
+  "createdAt": "2022-05-20T01:46:43Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4563,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use SIMD vectorization intrinsics in the core",
+  "up": 23,
+  "updatedAt": "2024-06-30T06:10:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4563"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is small things and aligns nicely with the rest of ArrayMesh function.",
+    "format": "legacy",
+    "workaround": "It can be implemented in GDScript but it is very slow. See https://github.com/gamedev-kindness/make-target/blob/6560f6ca7d3aca815ea94016e8b37ffef9ceb243/map_test.gd#L32"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-30T16:16:51Z",
+  "comments": 1,
+  "createdAt": "2019-09-06T22:40:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 41,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "En-masse modification of ArrayMesh vertices in one shot",
+  "up": 6,
+  "updatedAt": "2022-06-30T16:16:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/41"
+}

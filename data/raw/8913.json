@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires changing how editor works.",
+    "format": "form",
+    "workaround": "No.  Not without opening your scene files in a text editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2024-01-18T20:20:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8913,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "When loading scene with broken dependencies, there should be an option to set any broken dependencies to null",
+  "up": 5,
+  "updatedAt": "2024-05-01T15:37:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8913"
+}

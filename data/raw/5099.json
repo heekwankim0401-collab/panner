@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It improves a core feature",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-01T07:48:02Z",
+  "comments": 3,
+  "createdAt": "2022-08-07T04:52:02Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 5099,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve `.blend` import performance by importing multiple `.blend` files at once with a single Blender call",
+  "up": 4,
+  "updatedAt": "2023-02-01T08:04:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5099"
+}

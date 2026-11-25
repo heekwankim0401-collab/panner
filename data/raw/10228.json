@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think notification like a fullscreen or windowed will make a huge usability in the core. For Example: (when the user is using a windowed mode in the settings, it will show some of new UI for helping that User play in windowed mode. And that UI will not show up when using a fullscreen game)",
+    "format": "form",
+    "workaround": "Im not so sure if there was even a work around of it. If there was, I think it would be using it in a _process that consume too many resource at once for some notification that only gonna being used once.\n\nIf you have some work around of it, feel free to tell me!"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-07-16T16:27:13Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10228,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Emit a notification when the project's window mode changes",
+  "up": 9,
+  "updatedAt": "2024-09-04T21:49:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10228"
+}

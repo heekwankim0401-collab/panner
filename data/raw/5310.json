@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This changes the core Tween class definition",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-09-02T12:49:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5310,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove abbreviations in Tween methods and enums",
+  "up": 5,
+  "updatedAt": "2022-09-02T16:58:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5310"
+}

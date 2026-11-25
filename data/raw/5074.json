@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this should be a core implementation because it would be beneficial to a large number of users. I imagine users that commonly browse the GitHub here are likely to be more advanced (especially more advanced than me), but this fix would have helped me get started with making 3D games so much earlier if it existed back in 2020 when I started using Godot.\n\nI should mention that I did literally make an implementation without access to the core already. But this change would be made so much better through a core implementation.",
+    "format": "form",
+    "workaround": "Essentially, this feature is an alternative approach towards finding the local directional vectors from the `Transform.basis` member. So any projects that currently use the `basis` property or would prefer to access the `basis` property directly would simply continue to do so. But for newer users, especially users who have experience in Unity and want to use Godot's C# capabilities, this would be incredibly helpful for ease of understanding."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2022-08-04T16:59:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5074,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Transform helper functions / properties: \"Transform.Forward\"",
+  "up": 14,
+  "updatedAt": "2024-12-14T00:56:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5074"
+}

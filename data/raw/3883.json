@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A text editor should be able to open the same script multiple times.\nIf it were just an add-on, people would still not know what they're missing.\n\nThat's a problem with editors in general.\nPeople can not know they're missing a feature they didn't even know existed.\n\nIt's easy to ignore the ability to open the same file multiple times,\nbecause theoretically it's not required at all,\nbut practically it makes a huge difference.\n\nThere is no faster way of jumping around in between different spots in a file,\nthan just by switching to the tab that's already there.\n\nAgain, I'm sorry for my rambling.\n\nThank you.",
+    "format": "form",
+    "workaround": "I've looked into that. It looks possible.\nRegardless, I'd have to learn how, unlike you, who don't.\n\nI'd be only doing it for myself, with no benefit to anyone else.\n\nTrying to make it for the benefit of everyone would turn it into a whole project,\nwith considerations and decisions to make, distracting from my own project.\n\nIf I started this, I'd also be faced with the fact that it would get integrated into the main editor eventually,\n(because it should be a default feature!), which means you'd have to rewrite a lot of it anyway.\n\nBeing able to open multiple scripts at the same time should be a *default* feature for a text editor.\n\nAlternatively I could launch the editor twice, or even thrice, but ...\n- that's not just a waste of RAM,\n- it also messes with the ALT+TAB chain,\n- meaning that reaching the browser window gets a lot more annoying,\n- which would cause me to switch to \"Virtual Desktops\" ... \n\n... yeah, this isn't really a good option.\n\nI'm sorry for all the rambling.\n\nThank you."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-31T08:11:22Z",
+  "comments": 13,
+  "createdAt": "2022-01-28T10:29:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3883,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow opening the same script multiple times in the editor",
+  "up": 0,
+  "updatedAt": "2022-01-31T09:14:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3883"
+}

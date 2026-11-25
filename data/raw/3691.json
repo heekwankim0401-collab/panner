@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't be an addon.",
+    "format": "form",
+    "workaround": "That's used very often.\nThe equivalent can be achieved at a 1 line and 1 indentation level cost but it often feels less natural to chain ifs that can be merged."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-12-18T17:44:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3691,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve GDScript conditional type deduction and autocompletion",
+  "up": 11,
+  "updatedAt": "2023-12-12T18:30:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3691"
+}

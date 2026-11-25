@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Ray intersections are core.",
+    "format": "form",
+    "workaround": "A shape-cast with a box can also return multiple object intersections, but will not return the contact points.\n\nThe best workaround in GDScript at the moment is to first run intersect_shape with a box, then gather contact points by iterating over all results. You'd build an exclusion list containing every intersect_shape result except one collider, then perform a raycast to get the contact point for that target, repeating until you have contacts for each collision. \n\nHowever, this is cumbersome (requiring the user to write this logic themselves) and non-performant (checking the physics multiple (n=collisions) times for what should be a single check)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-02-08T23:28:22Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9059,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `PhysicsDirectSpaceState.intersect_ray()` to collect multiple results",
+  "up": 14,
+  "updatedAt": "2025-11-25T22:39:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9059"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A separate addon for such a small feature seems inappropriate.",
+    "format": "form",
+    "workaround": "I assume so, but having this as a small QoL core feature for a grander userbase makes more sense, no?"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-14T23:04:08Z",
+  "comments": 1,
+  "createdAt": "2025-09-30T16:57:20Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 13309,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a default translation preview project setting",
+  "up": 1,
+  "updatedAt": "2025-10-14T23:04:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13309"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The proposal looks like core to me. Also I suppose change like that is imposible to do whitout changing base engine code and recompiling it.",
+    "format": "form",
+    "workaround": "There is no code for this. Only tedious clicking and typing in the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-14T17:29:31Z",
+  "comments": 24,
+  "createdAt": "2022-02-01T23:34:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.4",
+  "number": 3907,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to create a new inherited scene from code",
+  "up": 37,
+  "updatedAt": "2026-02-05T05:13:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3907"
+}

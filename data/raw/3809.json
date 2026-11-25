@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Alert and Warning messages are probably part of the core.",
+    "format": "form",
+    "workaround": "It will be used every time someone tries to create a new folder with an existing name."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-25T15:23:03Z",
+  "comments": 1,
+  "createdAt": "2022-01-16T15:31:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3809,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve \"Folder already exists\" error messages in the editor",
+  "up": 4,
+  "updatedAt": "2022-03-25T15:23:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3809"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't be an addon.\nAlso, while it's not typical for a game to interact with the clipboard, godot already feature functions to read from it so it make sense to add this in core I think.",
+    "format": "form",
+    "workaround": "it cannot be worked around"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-27T20:57:58Z",
+  "comments": 1,
+  "createdAt": "2025-03-27T20:32:14Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12088,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add a `DisplayServer.clipboard_set_image()` function",
+  "up": 0,
+  "updatedAt": "2025-03-27T20:58:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12088"
+}

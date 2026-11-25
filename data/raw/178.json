@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an improvement of an existing UI/UX.",
+    "format": "legacy",
+    "workaround": "Would be used often, because it would be the fastest way to intentionally change the modulate value, which currently is the only way to adjust color and alpha properties of a node in the editor.\nExisting color-picker Workflow would be unchanged."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-15T19:40:36Z",
+  "comments": 3,
+  "createdAt": "2019-10-22T20:07:59Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 178,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add numerical RGBA raw sliders to modulate property inspector",
+  "up": 0,
+  "updatedAt": "2022-02-15T19:40:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/178"
+}

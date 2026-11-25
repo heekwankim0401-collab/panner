@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, it extends the GDScript language, so my guess is it cannot be added by an add-on",
+    "format": "form",
+    "workaround": "I guess it would be used quite often. Of course it currently can be worked around by excessively using Engine.is_editor_hint(), but it makes code not only ugly, but hard to read and understand which code will be executed in the editor or in the game or both."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-01-17T07:00:45Z",
+  "down": 0,
+  "labels": [
+    "topic:export",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8902,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add @editor_only, @game_only annotation",
+  "up": 8,
+  "updatedAt": "2024-01-17T15:13:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8902"
+}

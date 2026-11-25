@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's about exposing core functions.",
+    "format": "form",
+    "workaround": "It can, but accommodating every platform is very tedious."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-19T06:54:27Z",
+  "comments": 1,
+  "createdAt": "2021-06-19T06:51:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2887,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose various get_X_path methods of OS",
+  "up": 0,
+  "updatedAt": "2021-06-19T06:54:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2887"
+}

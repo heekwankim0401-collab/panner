@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because we shouldn't have to implement a adhoc system for something that is already partially there.\nThat's what the theme system is for.",
+    "format": "form",
+    "workaround": "This would be used more often then the current system due to being more flexible.\nAlso this can't really be neatly worked around and definitely not with a few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-07-14T04:48:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4869,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Revamp style for controls",
+  "up": 16,
+  "updatedAt": "2022-07-14T10:42:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4869"
+}

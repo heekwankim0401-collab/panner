@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Missing functionality from previous versions.",
+    "format": "form",
+    "workaround": "Could probably be made as a shader, but they are a quite advanced topic, especially for beginners."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-18T14:59:25Z",
+  "comments": 2,
+  "createdAt": "2022-10-19T22:06:32Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.3",
+  "number": 5625,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add distance fog and more non-volumetric fog options (improved 3.x-style fog)",
+  "up": 5,
+  "updatedAt": "2024-02-18T17:28:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5625"
+}

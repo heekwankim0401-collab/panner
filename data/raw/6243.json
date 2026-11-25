@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Add-ons are unable to modify GDScript.",
+    "format": "form",
+    "workaround": "You could create a new signal that is triggered when one button is pressed.\n\n```gdscript\nsignal one_of_them_pressed\n\nfunc _on_any_button_pressed():\n   one_of_them_pressed.emit()\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2023-02-05T22:27:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6243,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement `or` and `and` in await statements",
+  "up": 81,
+  "updatedAt": "2025-07-17T09:08:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6243"
+}

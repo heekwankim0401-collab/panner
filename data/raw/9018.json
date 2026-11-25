@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Again, I find it very intuitive and helpful addition to engine's functionality for more manual string operations",
+    "format": "form",
+    "workaround": "I will probably not use engine's wrapping function and write wrapping by myself. Then I will feed Label text with wrapped text and operate on it as I would on normal string. Counting characters per line without problem."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-03T17:48:35Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9018,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add get_wrapped_text for RichTextLabel/Label",
+  "up": 4,
+  "updatedAt": "2024-02-03T18:16:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9018"
+}

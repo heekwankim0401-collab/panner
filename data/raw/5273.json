@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "here already",
+    "format": "form",
+    "workaround": "used often"
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-11T14:19:02Z",
+  "comments": 3,
+  "createdAt": "2022-08-27T16:46:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 5273,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Name methods `_on_signal` rather than `_on_NodeName_signal` when connecting signals to self in the signal connection dialog",
+  "up": 11,
+  "updatedAt": "2022-10-11T14:19:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5273"
+}

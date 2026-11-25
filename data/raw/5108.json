@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Having this as an add-on causes various problems as described above.",
+    "format": "form",
+    "workaround": "The workaround is to use addons written in GDNative such as https://github.com/biojppm/rapidyaml, but they cause some problems described above."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-08T11:39:51Z",
+  "comments": 3,
+  "createdAt": "2022-08-08T11:27:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5108,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add first-class support for YAML",
+  "up": 0,
+  "updatedAt": "2022-08-09T13:08:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5108"
+}

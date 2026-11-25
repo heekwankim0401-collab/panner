@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I know, it is impossible to modify GDScript syntax with a script or addon.",
+    "format": "form",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-28T12:28:11Z",
+  "comments": 5,
+  "createdAt": "2023-04-03T03:34:04Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6614,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a compact lambda syntax",
+  "up": 0,
+  "updatedAt": "2023-06-28T12:28:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6614"
+}

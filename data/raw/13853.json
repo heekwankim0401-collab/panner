@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, because it affects fundamental editor workflows (renaming nodes, files, inspector values, text input fields) and is not limited to specific project code. A plugin cannot reliably hook into every text input throughout the editor UI consistently.",
+    "format": "form",
+    "workaround": "Not easily:\n\nThere’s no global built-in editor function for these conversions.\n\nScripts cannot modify core editor widgets like LineEdit across all contexts.\n\nWhile some conversions can be done via manual sequence calls (e.g., to_snake_case()), it requires todos by user input and doesn’t integrate with editor workflows."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-16T16:27:06Z",
+  "comments": 0,
+  "createdAt": "2025-12-13T12:14:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13853,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add case conversion across editor (PascalCase, snake_case, CONSTANT_CASE)",
+  "up": 1,
+  "updatedAt": "2026-02-16T16:27:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13853"
+}

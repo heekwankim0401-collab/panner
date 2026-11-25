@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No",
+    "format": "form",
+    "workaround": "For no-game app, I think a `RichTextEdit` like control will used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-04-08T09:12:45Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4365,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change RichTextLabel's get_selection_from and get_selection_to for bbcode",
+  "up": 0,
+  "updatedAt": "2022-04-08T16:15:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4365"
+}

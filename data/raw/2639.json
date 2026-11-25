@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would help developers working on tools for GDScript, and help formalize and document new changes in the laguage.",
+    "format": "markdown",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-23T15:58:10Z",
+  "comments": 3,
+  "createdAt": "2021-04-23T14:58:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:docs",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2639,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Docs: Describe GDScript in a bnf grammar",
+  "up": 3,
+  "updatedAt": "2021-04-23T16:46:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2639"
+}

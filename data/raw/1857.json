@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "To be honest, not really, it seems like a bit of a niche request. Main reason it wouldn't be that I can imagine would be simply difficulty of coding such a thing into an addon. If there's an addon that already does this, then apologies, didn't realize it existed. \n\nI hope this was a sufficient amount of information. If needed, I can attempt to supply more.",
+    "format": "legacy",
+    "workaround": "Maybe? Getting around the limitation with signals seems possible using the C# Events, though considering Object.Call also seemingly doesn't much like custom classes, there's not much replacement for custom properties using custom classes without seemingly complicated sets of C# Events."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-18T22:06:48Z",
+  "comments": 3,
+  "createdAt": "2020-11-18T08:20:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 1857,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Custom C# class support for features such as Export and Signals",
+  "up": 0,
+  "updatedAt": "2020-11-18T22:29:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1857"
+}

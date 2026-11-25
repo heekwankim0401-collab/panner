@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This impacts a core widget.",
+    "format": "form",
+    "workaround": "Extracting the whole ItemList control for reuse is inconvenient.\n\nOne approximation would be to throw a bunch of buttons in a scroll container + VBox and style those, but a big part of the list selection behaviour would need to be reimplemented. In addition, it is less efficient."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-20T10:50:50Z",
+  "comments": 0,
+  "createdAt": "2023-03-10T22:22:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.1",
+  "number": 6478,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement hovered item style in ItemList",
+  "up": 7,
+  "updatedAt": "2023-04-20T10:51:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6478"
+}

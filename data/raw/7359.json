@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "because this is a big problem (i think)",
+    "format": "form",
+    "workaround": "absolutely not. because you guys probably need to rewrite the android build system"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-23T20:32:55Z",
+  "comments": 1,
+  "createdAt": "2023-07-23T19:36:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 7359,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot Building System Needs To Be Rewritten",
+  "up": 0,
+  "updatedAt": "2023-07-23T20:33:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7359"
+}

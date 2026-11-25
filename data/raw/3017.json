@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it should be in the settings menu.",
+    "format": "form",
+    "workaround": "No, it must be editor-side."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-27T15:02:52Z",
+  "comments": 9,
+  "createdAt": "2021-07-20T10:49:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.1",
+  "number": 3017,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an editor setting to adjust the property value dragging sensitivity in the inspector",
+  "up": 9,
+  "updatedAt": "2023-04-27T15:02:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3017"
+}

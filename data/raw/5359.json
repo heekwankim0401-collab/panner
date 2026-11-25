@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is already a core feature but lacking an important ability and needed some tweaking.",
+    "format": "form",
+    "workaround": "It is already a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-09-06T21:25:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5359,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improvement of the script CharacterBody3D: Basic Movement",
+  "up": 8,
+  "updatedAt": "2022-09-20T18:46:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5359"
+}

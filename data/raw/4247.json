@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a base Godot class",
+    "format": "form",
+    "workaround": "Using static references to rename in c# projects is possible although completely unnecessary"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-22T12:15:21Z",
+  "comments": 0,
+  "createdAt": "2022-03-20T02:01:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4247,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename AStar to AStar3D",
+  "up": 12,
+  "updatedAt": "2022-03-22T12:15:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4247"
+}

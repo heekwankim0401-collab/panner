@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "To my knowledge, it is not possible to create an add-on that works in the project manager stage.",
+    "format": "form",
+    "workaround": "No. You can remove it manually (by system file manager or bash command). The proposal concerns the introduction of an improvement in the GUI."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-05-07T12:50:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6824,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Restore the ability to remove project folder contents from the project manager",
+  "up": 2,
+  "updatedAt": "2024-06-20T23:05:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6824"
+}

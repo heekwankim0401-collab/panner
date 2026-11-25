@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The refactored Noise code allows for the `get_image` function to be overridden by specific noise generators for this kind of purpose, and the FastNoiseLite support is built into the core engine code.",
+    "format": "form",
+    "workaround": "The raw data of the Noise Image isn't exposed to the user prior to the conversion, so you would have to iterate in a scripting language over every desired point in the noise to create an Image from scratch, which would largely defeat the point of this being a highly optimised noise generator.\n\nPotentially, the reverse conversion from 32 bit float values returned by `get_noise*` to normalised 8 bit int values could be reimplimented on the user scripting side, but it wouldn't be very ergonomic and may be prone to further errors."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-01-23T23:10:10Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6161,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement float Image formats for Noise/NoiseTexture, or document the difference between get_noise and get_image data",
+  "up": 1,
+  "updatedAt": "2023-01-24T10:29:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6161"
+}

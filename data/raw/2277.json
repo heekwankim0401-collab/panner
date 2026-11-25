@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes as part of the editor basic workflow.",
+    "format": "markdown",
+    "workaround": "Anyone editing more than one scene that has child node scripts will benefit. And easy means to manage screen real estate has obvious value."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-11T20:18:13Z",
+  "comments": 2,
+  "createdAt": "2021-02-11T19:42:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2277,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "UX comment (MacOS (MacBook air) and General)",
+  "up": 0,
+  "updatedAt": "2021-02-13T01:00:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2277"
+}

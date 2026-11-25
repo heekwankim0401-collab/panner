@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-03-18T20:58:17Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14496,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `ResourceLoader.get_resource_script_class(path)` to API",
+  "up": 6,
+  "updatedAt": "2026-03-21T19:24:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14496"
+}

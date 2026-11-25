@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not the only person that thought this was possible to do in the current version of Godot seeing how useful it is.",
+    "format": "form",
+    "workaround": "I think it will greatly improve the quality of life for any programmer trying to manage nodes without a hassle."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2023-06-04T13:41:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7017,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Select sibling nodes in relation to the current node",
+  "up": 0,
+  "updatedAt": "2023-06-05T14:48:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7017"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "At present, it is not possible to update any code that compiles down to a DLL while Godot Editor has window focus.\nFor other languages to ever be editable within Godot Editor, like what I'm building, core functionality of manually unloading before they can be compiled is needed.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-07T17:02:20Z",
+  "comments": 1,
+  "createdAt": "2022-09-04T09:21:54Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 5324,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow manual unloading/reloading of GDNative/GDExtention lib files (DLL, etc)",
+  "up": 7,
+  "updatedAt": "2024-09-07T17:02:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5324"
+}

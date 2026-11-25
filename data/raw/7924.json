@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This existed prior to 4.x, and some may consider it fixing a regression rather than feature proposal.",
+    "format": "form",
+    "workaround": "It can be worked around, but not with a few lines. It currently requires writing an entire management system for any scene that needs it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T15:07:19Z",
+  "comments": 8,
+  "createdAt": "2023-09-29T22:02:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7924,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Restore a workflow for light masks",
+  "up": 11,
+  "updatedAt": "2023-12-31T15:08:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7924"
+}

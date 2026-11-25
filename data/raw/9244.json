@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "though it may or maynot help performance, the main reason why I think this should be in core is because it'll help confusion. Most beginners who elect to use GDExtensions over using C# or GDScript will expect TypedArray<T> to actually return the type of the array, and those who haven't found out that there's 'Object::cast_to<T>()' function will try to cast normally then get confused as to why that doesn't work. Not to mention in a lot of scenarios it's not realistic to use static arrays or normal C arrays as a lot of times they need to be able to shrink and grow (plus in the case of properties they can't really be used to expose a full array to the editor as normal C arrays are not variant types)",
+    "format": "form",
+    "workaround": "```\nTypedArray<MyClass> myClassArray;\n\nvoid doSomethingWithMyClass(){\n    MyClass* retrievedClass = Object::cast_to<MyClass>(myClassArray[0]);\n}\n\nvoid doSomethingWithMyClassInALoop(){\n    for(int i = 0; i < myClassArray.size(); i++){\n          MyClass* retrievedClass = Object::cast_to<MyClass>(myClassArray[i]);\n    }\n\n}\n\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-06T15:25:28Z",
+  "comments": 4,
+  "createdAt": "2024-03-06T13:29:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 9244,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "make TypedArray return the specified type in GDExtension",
+  "up": 0,
+  "updatedAt": "2024-03-06T15:26:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9244"
+}

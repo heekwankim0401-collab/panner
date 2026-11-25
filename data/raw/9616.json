@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core Container functionality.",
+    "format": "form",
+    "workaround": "Most of the behavior of this proposal can be simulated by storing the properties we're interested in during PRE_SORT, and restoring them afterwards. As an example, if I wanted to smoothly animate the position of cards in my HBoxContainer:\n\n```gdscript\nextends HBoxContainer\nvar pre_sort_positions := {}\n\nfunc _notification(what):\n\tif what == NOTIFICATION_PRE_SORT_CHILDREN:\n\t\tpre_sort_positions.clear()\n\t\tfor c in get_children():\n\t\t\tif !(c is Control): continue\n\t\t\tpre_sort_positions[c] = c.position\n\telif what == NOTIFICATION_SORT_CHILDREN:\n\t\tfor c in get_children():\n\t\t\tif !(c is Control): continue\n\t\t\tvar final_position = c.position\n\t\t\tcreate_tween().tween_property(c, \"position\", final_position, 0.2).from(pre_sort_positions[c])\n```\n\nThis setup is prone to user error and can fail for any number of random reasons. Other workarounds exist (such as using proxy nodes or wrapping controls in dummy containers so child nodes can animate freely within) but they're equally overcomplicated, janky, and don't work in all situations."
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-21T14:05:46Z",
+  "comments": 1,
+  "createdAt": "2024-04-27T23:25:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9616,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow overriding of \"fitting\" behavior in Containers to better animate Controls",
+  "up": 1,
+  "updatedAt": "2026-05-21T14:05:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9616"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-10T10:26:50Z",
+  "comments": 8,
+  "createdAt": "2026-09-07T02:20:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 15490,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Fix \"Pitch_Shift\" on AudioStreamPlayer Nodes",
+  "up": 0,
+  "updatedAt": "2026-09-10T10:26:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15490"
+}

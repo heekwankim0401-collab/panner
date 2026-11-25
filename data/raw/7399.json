@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the flexibility of editor translations, allowing them to sound more natural in situations where placeholders should be reordered.",
+    "format": "form",
+    "workaround": "Moving editor translations to use `String.format()` would have a few issues:\n\n- Changing editor translations to rely on `String.format()` would break all existing translations.\n- `String.format()` cannot specify extended formatting information, such as `%.2f` for padding decimal numbers. A lengthier form must be used instead in the format's value instead (`String.pad_decimals(2)`)."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-20T19:27:37Z",
+  "comments": 2,
+  "createdAt": "2023-07-27T21:41:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:i18n"
+  ],
+  "milestone": "4.7",
+  "number": 7399,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for POSIX positional arguments to `%` string formatting",
+  "up": 13,
+  "updatedAt": "2026-02-20T19:27:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7399"
+}

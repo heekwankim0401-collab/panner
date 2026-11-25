@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-09-29T10:44:45Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15583,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Negative omni light falloff gradient should be smoother",
+  "up": 1,
+  "updatedAt": "2026-09-29T21:31:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15583"
+}

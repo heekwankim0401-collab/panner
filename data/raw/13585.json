@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's not currently possible to override the default/unset CanvasItem shader. The best you can do is connect an autoload to the `SceneTree.node_added` signal and add a material to every node, but I imagine that's really inefficent. And I think the use case is common enough to include built-in.",
+    "format": "form",
+    "workaround": "```glsl\nshader_type canvas_item;\n\nvoid fragment(){\nCOLOR += 0.00392156862745098 * fract(52.9829189 * fract(dot(FRAGCOORD.xy, vec2(0.06711056, 0.00583715)))) - 0.00392156862745098;\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-06T14:38:02Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13585,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 2D debanding",
+  "up": 1,
+  "updatedAt": "2025-11-06T18:23:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13585"
+}

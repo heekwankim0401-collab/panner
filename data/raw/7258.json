@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core part of GDScript.",
+    "format": "form",
+    "workaround": "Signals can easily be connected with fewer arguments by calling the `.unbind` on the callback. \n\nThere is no solution from my knowledge that doesn't break the code unexpectedly if a signal emits more arguments than expected by the collective subscribed callback's signatures."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2023-07-10T20:47:21Z",
+  "down": 2,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7258,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Discard additional arguments in a connected signal's callback function",
+  "up": 16,
+  "updatedAt": "2025-10-21T21:13:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7258"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, it's prob. more an optimization thing, it makes sense sort-of one wants certain things to only run every 10th frame, or 30th . . . It'd really help one add more enemies and, optimize the code, in a simple way, thx . . !!",
+    "format": "form",
+    "workaround": "Well, one can set it manually but, was wondering since it's an obvious place for optimization, why is it not a ' in-built ' feature, for instance, I have a RayCast ' vision ', for my enemies and, I think I only want it to run every other frame and, for maybe 4 enemies . . . Right now, one has to set up a frame counter and, it's quite complicated . . Having this stuff, would allow beginners to more easily optimize code, or so . . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-31T12:18:22Z",
+  "comments": 8,
+  "createdAt": "2021-08-31T09:29:42Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3238,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable _physicsprocess to run at different physics frames . . .",
+  "up": 0,
+  "updatedAt": "2022-07-29T20:28:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3238"
+}

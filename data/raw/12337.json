@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "InputEvent is core",
+    "format": "form",
+    "workaround": "Yes"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-30T16:10:56Z",
+  "comments": 4,
+  "createdAt": "2025-04-30T04:31:25Z",
+  "down": 1,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12337,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `is_action_just_pressed` and `is_action_just_released` to `InputEvent`",
+  "up": 0,
+  "updatedAt": "2025-04-30T16:58:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12337"
+}

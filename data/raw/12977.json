@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The demand for this feature is widespread enough to justify its addition to the core. And if it isn’t added to the core, most developers who need a stopwatch in their projects wouldn’t be able to benefit from this implementation. Also, a Stopwatch add-on can’t resolve the issue with the widespread usage of delta-based stopwatches for use cases that require real-world accuracy.",
+    "format": "form",
+    "workaround": "This enhancement will be used often. As mentioned above, a Stopwatch with any functionality beyond calculating elapsed microseconds (pausing, scaling with Engine.time_scale, formatting, etc) will require much more effort than “a few lines” — closer to 200 lines in my implementation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-08-10T20:38:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12977,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Stopwatch node",
+  "up": 8,
+  "updatedAt": "2025-08-14T15:21:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12977"
+}

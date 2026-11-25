@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Being able to check what resources ResourceLoader is holding onto is an important tool for any project making use of threaded loading. Any project that uses threaded loading for resources can benefit from being able to retrieve a list of pending assets they have loaded, as recovering from losing track of what paths were active is currently requires blindly checking over dozens or hundreds of potential paths. \n\nAdditionally, Adding this method to ResourceLoader should not run any risk of breaking projects or scripts that make use of ResourceLoader, nor would it force any workflow changes on Godot users.",
+    "format": "form",
+    "workaround": "To work around it, developers would need to write code that keeps track of every path used as a parameter for `ResourceLoader.load_threaded_request()` across each of their functions, and routinely try calling `ResourceLoader.load_threaded_get()` or `ResourceLoader.load_threaded_get_status()` against every entry in that maintained list paths to free up entries. Alternatively the same tests can be ran against every resource path the developer expects could possibly be loaded on a thread during runtime to hopefully build a similar list. \n\nNeither of these workarounds can confirm with absolute certainty that there are no stray resources loaded in ResourceLoader, and they each require a lot of additional management to be integrated into scripts to maintain a hopefully semi-accurate request path list."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-09-26T00:32:19Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7866,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "ResourceLoader: Add method to show list of Resources still stored after unresolved `load_threaded_request(path)` calls",
+  "up": 4,
+  "updatedAt": "2023-09-26T01:03:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7866"
+}

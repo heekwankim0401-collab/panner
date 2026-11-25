@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This could potentially be done with an add-on, but this is about addressing a UX shortcoming, so should ideally be done in Godot itself.",
+    "format": "form",
+    "workaround": "This could potentially be done with a tool script, but this is about addressing a UX shortcoming, so should ideally be done in Godot itself."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-08T09:45:27Z",
+  "comments": 2,
+  "createdAt": "2024-07-07T13:42:05Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10143,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add \"Group tracks by node\" toggle to the \"Copy Tracks...\" dialog in Animation dock",
+  "up": 0,
+  "updatedAt": "2024-07-08T09:45:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10143"
+}

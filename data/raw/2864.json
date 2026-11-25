@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "SVG is needed for editor icons too and that is before addons are initialized",
+    "format": "form",
+    "workaround": "SVG rendering is not easy."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-23T15:37:10Z",
+  "comments": 1,
+  "createdAt": "2021-06-14T14:24:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2864,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use LunaSVG instead of NanoSVG for importing SVGs",
+  "up": 16,
+  "updatedAt": "2022-09-18T21:30:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2864"
+}

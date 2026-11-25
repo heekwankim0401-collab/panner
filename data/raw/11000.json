@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves default editor behavior that is very commonly used.",
+    "format": "form",
+    "workaround": "Yes, either changing the default float step to a very low value (and making it worse when editing other values), or adding a property hint when we want to set a precise number (on every such property). So both solutions have downsides."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-20T11:37:47Z",
+  "comments": 2,
+  "createdAt": "2024-10-19T17:44:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11000,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove default float step",
+  "up": 0,
+  "updatedAt": "2024-10-20T11:37:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11000"
+}

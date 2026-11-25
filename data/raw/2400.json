@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems there is no a reliable and relatively easy way to implement drag-n-drop between editors with an addon.\n\nOn the other hand, the problem of conveniently copying files between projects can be solved with plugins using other approaches (but drag-and-drop looks so UX friendly :))",
+    "format": "markdown",
+    "workaround": "It can't.\nA work-round would be to open the selected files in your OS file explorer and copy the files there, which is less convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-03-04T22:36:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2400,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add drag-and-drop support between Godot instances",
+  "up": 4,
+  "updatedAt": "2022-01-03T05:45:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2400"
+}

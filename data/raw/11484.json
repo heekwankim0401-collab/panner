@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would make using Godot a lot easier, especially for newer users who may not know or expect things to be referenced across separate instances.",
+    "format": "form",
+    "workaround": "Theres no real way to work around this, some of this may be somewhere in the docs but when I didn't see it anywhere obvious."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-03T21:13:09Z",
+  "comments": 1,
+  "createdAt": "2025-01-03T21:03:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11484,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "In Engine Indication When Something is Shared or Referenced",
+  "up": 1,
+  "updatedAt": "2025-01-03T21:13:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11484"
+}

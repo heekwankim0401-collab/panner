@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is low-level rendering functionality, which can't be implemented with an add-on.",
+    "format": "form",
+    "workaround": "On Linux, `startx` can be used to start a dummy X server, but it involves [various complications that could otherwise be avoided with off-screen rendering](https://github.com/godotengine/godot/pull/68532).\n\nWindows and macOS aren't as stringent with GUI requirements, but you may still want to prevent spawning a window during movie rendering (so that it doesn't take up space in your task bar)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 38,
+  "createdAt": "2022-11-15T23:13:48Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5790,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement support for off-screen rendering",
+  "up": 58,
+  "updatedAt": "2026-10-08T06:15:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5790"
+}

@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "`RenderingDeviceDriverMetal` is part of Godot's core rendering architecture (`drivers/metal/`).",
+    "format": "form",
+    "workaround": "No. `RenderingDeviceDriver` is a core C++ rendering backend; it cannot be switched or implemented via GDScript/C# or command-line flags."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-11-16T11:13:31Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "platform:ios",
+    "platform:macos",
+    "platform:visionos",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15770,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add native Metal 4 API (MTL4CommandQueue) RenderingDeviceDriver backend for macOS 26+ / iOS 26+",
+  "up": 0,
+  "updatedAt": "2026-11-17T16:12:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15770"
+}

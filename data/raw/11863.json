@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GraphEdit and GraphNode are core nodes.",
+    "format": "form",
+    "workaround": "I think it won't be used at first because the GraphEdit node is very new and more turned towards applications than games, but it's very important for the usability and the durability of this experimental node. Some big projects already rely on this system."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-02-27T13:01:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11863,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `get_valid_connection_types()` method to `GraphEdit` (includes handling print for `ConnectionType`)",
+  "up": 0,
+  "updatedAt": "2025-03-02T17:44:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11863"
+}

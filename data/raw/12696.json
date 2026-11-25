@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is Core",
+    "format": "form",
+    "workaround": "No, because `Make Unique`'s API is not exposed, so you can't work around the issue at hand through scripting."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-30T10:28:43Z",
+  "comments": 5,
+  "createdAt": "2025-06-30T03:55:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12696,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose Resource's 'Make Unique' to GDScript API",
+  "up": 0,
+  "updatedAt": "2025-06-30T10:33:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12696"
+}

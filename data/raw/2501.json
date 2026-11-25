@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Seems impossible.",
+    "format": "markdown",
+    "workaround": "Seems impossible."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-12T03:36:20Z",
+  "comments": 1,
+  "createdAt": "2021-03-24T12:15:24Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.0",
+  "number": 2501,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the return type of `IP.resolve_hostname()` to return an array of IPs instead of a single String",
+  "up": 0,
+  "updatedAt": "2021-06-12T03:38:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2501"
+}

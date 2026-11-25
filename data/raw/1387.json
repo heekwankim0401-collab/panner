@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature would require adding to the GlobalScope KeyList enum or adding an enum to InputEventKey.",
+    "format": "legacy",
+    "workaround": "I'm not aware of any possible way to work around this issue in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-29T12:28:19Z",
+  "comments": 7,
+  "createdAt": "2020-08-19T04:18:34Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.3",
+  "number": 1387,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to differentiate Left and Right Shift, Alt, and Control keys",
+  "up": 28,
+  "updatedAt": "2024-01-29T12:28:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1387"
+}

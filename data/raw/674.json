@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot Engine needs to expose the virtual memory addresses of objects or Variant objects and the rest may be implementable in an external asset. That said, I believe this should be included in core because of the lack of tools to detect/inspect/analyze the issues described in the tickets at the beginning of this issue.",
+    "format": "legacy",
+    "workaround": "I do not believe this can be worked around in scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-04-07T11:57:34Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 674,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add virtual memory address reporting of Variant objects in the editor debugger",
+  "up": 0,
+  "updatedAt": "2022-06-27T21:49:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/674"
+}

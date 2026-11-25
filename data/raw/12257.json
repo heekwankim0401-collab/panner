@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "It is possible to define constant-likes, as long as they're integers, using enums, e.g.:\n- `nd.DType.Int8` can be accessed like `nd.Int8` automatically, acting like a constant.\n\nIt is also currently possible to expose constants like functions:\n- `nd.euler_gamma()`\n- `nd.newaxis()`"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-02T12:01:15Z",
+  "comments": 2,
+  "createdAt": "2025-04-16T12:48:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdextension",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12257,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add static / class properties to `ClassDB`",
+  "up": 0,
+  "updatedAt": "2025-05-03T10:32:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12257"
+}

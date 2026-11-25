@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would have to be built in to be useful",
+    "format": "form",
+    "workaround": "This would be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-04T12:20:15Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11088,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display pre and post curves in the bezier editor when looping is enabled",
+  "up": 7,
+  "updatedAt": "2024-11-04T15:11:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11088"
+}

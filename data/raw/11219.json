@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "NodePaths and stuff are core",
+    "format": "form",
+    "workaround": "Yes, it's technically possible by parsing the NodePath yourself, but it's going to be more than a few lines and it would be nice if it was a core feature"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-11-23T01:21:21Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11219,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add new method `Node.get_tree_property` that locates a property at a given NodePath with access to the scene tree",
+  "up": 0,
+  "updatedAt": "2024-11-28T05:13:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11219"
+}

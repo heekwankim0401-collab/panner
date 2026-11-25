@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There's no way to implement this outside the very guts of Godot scene system!",
+    "format": "markdown",
+    "workaround": "I don't think so.\nOne could say that these cases could be overcome by more carefully design of the scene hierarchy, but, let's be honest, many times you'll find yourself in a trap like this when the project is in an advanced stage of development and it's too late to go back and re-plan.\nAlso, given that a big strength of Godot is how flexible it is when it comes to designing your scenes workflow, this addition would just make it even more powerful."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-02T18:55:57Z",
+  "comments": 34,
+  "createdAt": "2021-02-11T23:26:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2280,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enhance control over inherited property values",
+  "up": 36,
+  "updatedAt": "2022-02-02T18:55:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2280"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an extension to Godot's shader capabilities.\n\nIt should also be stated a GLSL extension might be required for this. [EXT_fragment_shader_barycentric](https://raw.githubusercontent.com/KhronosGroup/GLSL/master/extensions/ext/GLSL_EXT_fragment_shader_barycentric.txt) is the most vendor neutral but unsure how supported it currently is in GPUs.",
+    "format": "form",
+    "workaround": "As noted before, storing custom data or calculating it in the *vertex* function is possible, but can break for most models and requires tedious setup."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-03-02T19:20:28Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6408,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose barycentric weights in shaders",
+  "up": 0,
+  "updatedAt": "2023-12-03T20:06:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6408"
+}

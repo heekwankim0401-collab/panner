@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Already part of core.",
+    "format": "legacy",
+    "workaround": "Sure, just call `randomize()` in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-23T08:17:11Z",
+  "comments": 4,
+  "createdAt": "2020-11-04T19:00:35Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1774,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically call `randomize()`  in GDScript upon running a project",
+  "up": 15,
+  "updatedAt": "2021-04-23T08:17:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1774"
+}

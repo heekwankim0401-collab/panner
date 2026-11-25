@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think it's possible for this proposal to be implemented as an add-on, but even if it is, it's probably not worth it.",
+    "format": "form",
+    "workaround": "No, because there is no way to discern between an invalid feature tag returning `false` and a feature tag just actually returning `false`."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-08T18:12:26Z",
+  "comments": 6,
+  "createdAt": "2025-08-06T21:09:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12956,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Warn if feature tag does not exist",
+  "up": 1,
+  "updatedAt": "2025-08-08T18:19:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12956"
+}

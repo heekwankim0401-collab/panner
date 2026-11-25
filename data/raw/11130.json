@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's impossible to implement it in add-on",
+    "format": "form",
+    "workaround": "In my case I solve cast accuracy problem by switching from `PhysicsDirectSpace3D.cast_motion` API to `PhysicsServer3D.body_test_motion` (I create physics body for each wheel and use `body_test_motion` instead) but it's overhead."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-10T16:45:46Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11130,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `ShapeRestInfo` of `PhysicsDirectSpace3D.cast_motion` to GDScript API",
+  "up": 8,
+  "updatedAt": "2024-11-11T15:20:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11130"
+}

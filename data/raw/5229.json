@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about making 3D graphics settings easier to implement. Since these menus are must-have for scalability across various GPUs, it's important to make this process as seamless as possible.\n\n*Keywords for easier searching: postprocess, postprocessing*",
+    "format": "form",
+    "workaround": "Yes, if your project only uses a single Environment in all its scenes. Otherwise, no, as every environment has its own toggles."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-08-22T23:43:17Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5229,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add project settings to globally disable resource-intensive Environment features",
+  "up": 8,
+  "updatedAt": "2023-12-21T16:32:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5229"
+}

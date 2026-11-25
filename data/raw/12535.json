@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Due to the integration of built-in documentation and engine editor, it's definitely the core.",
+    "format": "form",
+    "workaround": "Although documents are frequently used, i think this proposal will significantly increase the content of localization work, making it difficult to implement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-06-01T15:09:26Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 12535,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify document and editor terminology localization",
+  "up": 0,
+  "updatedAt": "2025-06-03T18:33:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12535"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would make working with shape more intuitive.",
+    "format": "form",
+    "workaround": "It can be worked with a few lines of code but it will be used very often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-01-02T17:05:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6037,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Shape3D resource that creates the collision from a Mesh",
+  "up": 4,
+  "updatedAt": "2023-01-16T18:55:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6037"
+}

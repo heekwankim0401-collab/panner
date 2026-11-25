@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a part of core Godot UX.",
+    "format": "form",
+    "workaround": "I'm not aware of a convenient workaround. You can drag and drop scenes from the FileSystem panel into the Scene panel, and then they get placed into the middle of the scene, but that's not ideal, and it doesn't work for .obj files."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-07-22T10:29:59Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3028,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make 3D resource drag-and-drop snap to the 3D editor grid",
+  "up": 0,
+  "updatedAt": "2021-07-22T15:13:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3028"
+}

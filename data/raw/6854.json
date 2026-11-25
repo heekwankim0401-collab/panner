@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a usability problem. Should be core.",
+    "format": "form",
+    "workaround": "If possible, is difficult to do."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-05-10T14:37:03Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6854,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow a way to select the behaviour of 0 in the sign() function. ",
+  "up": 4,
+  "updatedAt": "2023-05-10T16:50:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6854"
+}

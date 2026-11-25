@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-13T17:18:21Z",
+  "comments": 1,
+  "createdAt": "2026-03-05T23:25:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 14389,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the Shader Editor open itself along with the newly created shader file (just like the Script Editor does with newly created script files)",
+  "up": 5,
+  "updatedAt": "2026-03-13T17:19:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14389"
+}

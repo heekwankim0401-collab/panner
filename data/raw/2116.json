@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There are many similar features already exposed in TileSet, just not this one. It is confusing that it isn't exposed and reimplementing TileMap is common enough to warrant the very low cost of exposing it.",
+    "format": "markdown",
+    "workaround": "The workaround to using this already created method is essentially recaching the entire bitmask association, but is a very annoying and time consuming piece of code to write."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-01-14T04:01:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2116,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `TileSet.autotile_get_subtile_for_bitmask()`",
+  "up": 1,
+  "updatedAt": "2021-01-14T14:36:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2116"
+}

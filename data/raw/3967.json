@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Mostly, because this is re-implementing a 3.0 feature that got lost in the shuffle. In my opinion, an add-on should not be necessary for porting projects to 4.0.",
+    "format": "form",
+    "workaround": "This is an editor issue, not a coding issue.\n\nAs for work-arounds, not everyone will need this, but for those of us who do, the alternatives are rather painful. It is possible to make an \"alternate tile\" with these transforms set. This should theoretically work alright for a small number of individual tiles.\n\nAttempting this for an entire tileset, the result is an unusable mess, especially as there is no way to cleanly match an alternate to its corresponding primary tile. It is far less painful being able to make these transformations as needed on the fly in tilemaps rather than in tilesets. You can't necessarily plan in advance what might need to be flipped, it's impractical to flip everything, and in general, the current layout of the alternatives panel leads to bad organization even if you were to try planning this out. Likewise, with the current alternative tiles panel, you lose the functionality to paint \"patches\" of tiles because they appear out of their intended ordering.\n\nThe thought also occurred to me of making a separate layer and using costum dummy tiles to mark where I'd like transformations, but these changes would be non-obvious in the editor, which is required for design best practices."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-12T10:09:50Z",
+  "comments": 27,
+  "createdAt": "2022-02-14T02:28:20Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": "4.2",
+  "number": 3967,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reimplement ability to flip/rotate/modulate individual tiles in a TileMap (as opposed to creating flipped/rotated/modulated tiles in the TileSet)",
+  "up": 57,
+  "updatedAt": "2023-10-01T01:57:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3967"
+}

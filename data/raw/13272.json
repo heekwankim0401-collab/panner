@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Having handles on PrimitiveMesh is supposed to be an ease of use feature, making an addon outside of core isn't ideal as it would not be used by the target developers.",
+    "format": "form",
+    "workaround": "Not a few lines of code.. probably a few hundred."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-09-25T20:11:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13272,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add gizmo handles for MeshInstance3D PrimitiveMeshes",
+  "up": 6,
+  "updatedAt": "2026-10-10T04:35:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13272"
+}

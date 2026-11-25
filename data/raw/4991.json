@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be used quite often imo.",
+    "format": "form",
+    "workaround": "You can do this manually or use some tool scripts but I think it worth it to have it in core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2022-07-27T07:51:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4991,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to quickly change node to a scene instance",
+  "up": 57,
+  "updatedAt": "2025-06-01T15:42:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4991"
+}

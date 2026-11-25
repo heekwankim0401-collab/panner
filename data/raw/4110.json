@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is core functionality, that is the part loading the modules, not a module itself.",
+    "format": "form",
+    "workaround": "I do not think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-02-24T11:38:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 4110,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show platform information in GDNative library lookup error messages",
+  "up": 1,
+  "updatedAt": "2022-02-24T16:34:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4110"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2019-11-04T07:38:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 201,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `encrypt()` and `decrypt()` methods to PackedByteArray",
+  "up": 4,
+  "updatedAt": "2021-11-18T15:53:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/201"
+}

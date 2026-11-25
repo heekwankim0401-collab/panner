@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2026-05-31T01:46:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14939,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Godot should warn when the project is already open when trying to open another instance of it",
+  "up": 3,
+  "updatedAt": "2026-06-27T00:05:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14939"
+}

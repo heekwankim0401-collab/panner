@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Editor is core; doing this in an add-on might be possible, but it would fight with existing hotkeys and one would have to re-create existing GUI (grid snap settings)",
+    "format": "form",
+    "workaround": "I don't think a few lines will suffice…"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-04-03T13:44:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12148,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify 3D snapping",
+  "up": 5,
+  "updatedAt": "2025-04-20T19:17:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12148"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-07-21T19:53:27Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 15227,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose TileDataEditor to `@tool` scripts and create a plugin system for the TileSet editor",
+  "up": 0,
+  "updatedAt": "2026-07-21T21:00:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15227"
+}

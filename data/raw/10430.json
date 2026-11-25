@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It feels like a feature that any developer would need and I don't really know how to make that work without changing godot's code.",
+    "format": "form",
+    "workaround": "To make this work I think I would have to recompile Godot itself to include the warning in the built in Object class function. So no, not really."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-08-13T13:26:14Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10430,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to be warned when no translation is available",
+  "up": 3,
+  "updatedAt": "2024-08-13T21:09:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10430"
+}

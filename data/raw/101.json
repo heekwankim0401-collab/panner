@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's too basic feature.\n\nCurrently both `add_item` and `add_icon_item` functions return `void`. It won't break compatibility much, but will make setting up `ItemList` more obvious. Every item-related function in `ItemList` works with indices, except for `add_item` and `add_icon_item`.\n\nI can make a pull request when I'll have some time.",
+    "format": "legacy",
+    "workaround": "`var index = $ItemList.get_item_count()`\n`$ItemList.add_item(...)`\n`$ItemList.set_item_tooltip(index, ...)`"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-28T17:53:10Z",
+  "comments": 5,
+  "createdAt": "2019-09-25T08:08:11Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 101,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "ItemList add_item and add_icon_item indices",
+  "up": 1,
+  "updatedAt": "2022-07-24T23:48:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/101"
+}

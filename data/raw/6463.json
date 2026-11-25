@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Plugin cannot implement",
+    "format": "form",
+    "workaround": "can not"
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-09T16:41:32Z",
+  "comments": 3,
+  "createdAt": "2023-03-09T07:47:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6463,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allows Texture2DArray to be initialized by script",
+  "up": 0,
+  "updatedAt": "2025-07-10T22:12:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6463"
+}

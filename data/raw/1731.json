@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There's no reason to bloat Godot, but perhaps we could come up with some minimal core functionality which could solve most use cases. Other engines like Unity or Unreal Engine provide this out of the box, though:\n- [Unity: Random](https://docs.unity3d.com/ScriptReference/Random.html)\n- [Unreal Engine: FMath::VRand](https://docs.unrealengine.com/en-US/API/Runtime/Core/Math/FMath/VRand/index.html)\n- [Unreal Engine: FRandomStream::GetUnitVector](https://docs.unrealengine.com/en-US/API/Runtime/Core/Math/FRandomStream/GetUnitVector/index.html)",
+    "format": "markdown",
+    "workaround": "Sure. Here's a minimal implementation in GDScript for `rand_point_in_circle()`:\n```gdscript\nstatic func rand_point_in_circle(p_radius = 1.0): # Unit length by default.\n\tvar r = sqrt(rand_range(0.0, 1.0)) * p_radius\n\tvar t = rand_range(0.0, 1.0) * TAU\n\treturn Vector2(r * cos(t), r * sin(t))\n```\n\nBut if you need to generate thousands of points, you'll hit performance bottleneck with GDScript.\n[`Geometry.is_point_in_circle()`](https://docs.godotengine.org/en/3.2/classes/class_geometry.html#class-geometry-method-is-point-in-circle) could be used to help this on the script level by filtering out points which lie outside of a circle, but the distribution won't be uniform anymore.\n\ngodotengine/godot#31667 can also be easily worked around via script, but nonetheless it's in the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-10-26T15:04:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1731,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to generate random `Vector2`/`Vector3` points with uniform distribution in a circle/sphere",
+  "up": 23,
+  "updatedAt": "2026-01-30T23:54:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1731"
+}

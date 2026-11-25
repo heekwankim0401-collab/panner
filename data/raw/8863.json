@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's basic Viewport/CanvasLayer functions in CanvasItem nodes.",
+    "format": "form",
+    "workaround": "As far as I know, there's no way to get the CanvasLayer from CanvasItem via script, since it's not exposed.\nThe only thing you can get is canvas RIDs, but you can't pull viewport canvas stacking layer data from RenderingServer."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-20T18:36:53Z",
+  "comments": 3,
+  "createdAt": "2024-01-11T13:32:46Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": "4.3",
+  "number": 8863,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `CanvasItem.get_canvas_layer()` to GDScript/C#",
+  "up": 8,
+  "updatedAt": "2024-02-20T18:38:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8863"
+}

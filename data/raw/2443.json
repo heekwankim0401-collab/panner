@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this is a fairly common use case that many types of games could benefit from and I don't think it would be too much work to add",
+    "format": "markdown",
+    "workaround": "Not with \"a few lines\", I found this library, https://github.com/curly-brace/Godot-3.0-Noise-Shaders but I think noise functions would be worth having built in."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2021-03-10T02:41:57Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2443,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add built-in noise functions to shaders",
+  "up": 15,
+  "updatedAt": "2023-10-15T17:19:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2443"
+}

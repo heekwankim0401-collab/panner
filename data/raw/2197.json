@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "-above-",
+    "format": "markdown",
+    "workaround": "Maybe by writing an addon, but it's part of the core editing workflow and so it's in use regularly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-01-28T08:33:09Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2197,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve AnimationTree setup for imported objects",
+  "up": 1,
+  "updatedAt": "2021-09-27T00:48:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2197"
+}

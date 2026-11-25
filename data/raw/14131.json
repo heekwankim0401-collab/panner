@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this is about improving usability",
+    "format": "form",
+    "workaround": "now need to hold `ctrl` and `click` to see the icon"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-02-02T16:41:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14131,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display inlay hints for `@icon()` annotations in the script editor",
+  "up": 1,
+  "updatedAt": "2026-02-03T11:46:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14131"
+}

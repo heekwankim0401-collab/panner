@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "APNS is a core for iOS",
+    "format": "form",
+    "workaround": "Unfortunately APNS is a part of AppDelegate"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-02T13:44:58Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10633,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to receive iOS APNS notifications",
+  "up": 0,
+  "updatedAt": "2024-09-05T01:09:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10633"
+}

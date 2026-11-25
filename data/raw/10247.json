@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Skeleton2D is core.",
+    "format": "form",
+    "workaround": "No, this needs lots of work if we start from scratch."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-07-19T06:17:37Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 10247,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Refactor SkeletonModificationStack2D and SkeletonModifier2D* to Node2Ds",
+  "up": 7,
+  "updatedAt": "2024-12-09T01:48:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10247"
+}

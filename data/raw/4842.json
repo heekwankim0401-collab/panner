@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "can't",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-07-09T08:30:42Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4842,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change default 3D viewport grid primary stem from 8 to 10",
+  "up": 4,
+  "updatedAt": "2026-03-27T23:43:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4842"
+}

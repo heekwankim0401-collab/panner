@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This could be done as an add-on, but it's pretty core to the workflow in-engine.  It would consolidate more of the 2D and 3D workflows which makes usability easier across workflows.",
+    "format": "markdown",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-27T01:39:52Z",
+  "comments": 6,
+  "createdAt": "2021-03-01T22:47:09Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 2384,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add GPU, CPU, FPS frame widget, and (draw calls, vertex count) for the 2D editor window",
+  "up": 21,
+  "updatedAt": "2026-08-27T01:39:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2384"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an enhancement in the debugging and testing department and I really don't see how having categories and groups in the Inspector for remote nodes can cause any harm. It could even be an option or toggle button for displaying categories/groups if users prefer the current way, so everybody is happy.",
+    "format": "form",
+    "workaround": "- can have an option or toggle for groups/categories, so anybody can chose their preferred way of working with exported properties in remote nodes"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-12-18T13:06:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13884,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use ExportCategory and ExportGroup inside Inspector for exported properties",
+  "up": 0,
+  "updatedAt": "2025-12-18T20:22:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13884"
+}

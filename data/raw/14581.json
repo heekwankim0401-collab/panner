@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2026-03-31T15:38:06Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 14581,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend SpringBoneSimulator3D to detect collisions to the chain between the joints",
+  "up": 2,
+  "updatedAt": "2026-04-03T19:49:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14581"
+}

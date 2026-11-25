@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It will make plugin development and maintenance easier for everyone",
+    "format": "form",
+    "workaround": "I think so, but this feature can be used to other plugins, like FacebookSDK or Firebase"
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-19T20:16:56Z",
+  "comments": 9,
+  "createdAt": "2022-06-26T23:02:11Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:export",
+    "topic:plugin"
+  ],
+  "milestone": "4.8",
+  "number": 4758,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "iOS: Use CocoaPods or Switch Package Manager(SPM) to export project ",
+  "up": 4,
+  "updatedAt": "2026-06-19T20:16:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4758"
+}

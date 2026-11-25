@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it can be added to the game engine as an export-import feature because it can be tested and aligned to produce a good result, and as an add-on, it is not good enough compared to game engine integration.",
+    "format": "form",
+    "workaround": "Yes I think it can be done by the development team as a new feature"
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-10T22:07:53Z",
+  "comments": 0,
+  "createdAt": "2025-03-17T09:23:21Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12010,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "export rendering environment to Blender 3D to have same render in Godot environment.",
+  "up": 0,
+  "updatedAt": "2025-07-13T09:44:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12010"
+}

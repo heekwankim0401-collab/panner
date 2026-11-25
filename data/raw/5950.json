@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This seems like it cannot be done with an add-on.",
+    "format": "form",
+    "workaround": "No this can't be worked around with a script."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-18T11:02:27Z",
+  "comments": 6,
+  "createdAt": "2022-12-17T16:20:58Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5950,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Require the beginning tag of multiline string to be followed by newline",
+  "up": 0,
+  "updatedAt": "2026-07-19T07:54:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5950"
+}

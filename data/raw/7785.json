@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not applicable.",
+    "format": "form",
+    "workaround": "This can be worked around by simply adjusting the color in the editor settings of course, but for newcomers a better default theme is always good."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-09-21T14:00:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7785,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change alpha value of default \"Word Highlighted Color\" in the text editor from 18 to 48",
+  "up": 1,
+  "updatedAt": "2023-09-21T14:17:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7785"
+}

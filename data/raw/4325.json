@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "UIUX things are about reducing steps to get a result.",
+    "format": "form",
+    "workaround": "Requires core changes and a shader. Not so trivial."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-07T18:52:32Z",
+  "comments": 0,
+  "createdAt": "2022-04-01T12:15:11Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 4325,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a perceptual color space for color picking",
+  "up": 22,
+  "updatedAt": "2022-06-07T18:52:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4325"
+}

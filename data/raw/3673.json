@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would go hand in hand with Auto LOD feature in Godot 4",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-12-15T15:42:40Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3673,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement mesh splitting for imported 3D scenes",
+  "up": 9,
+  "updatedAt": "2022-09-09T23:39:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3673"
+}

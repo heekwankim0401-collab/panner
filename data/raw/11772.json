@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It seems like basic handling of Control Nodes and should be core.",
+    "format": "form",
+    "workaround": "Not that I have found, I'm open to suggestions."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-08T23:44:53Z",
+  "comments": 0,
+  "createdAt": "2025-02-14T19:23:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 11772,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Mouse Filter Pass to pass input even if handled",
+  "up": 0,
+  "updatedAt": "2025-03-09T00:47:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11772"
+}

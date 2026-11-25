@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Right now dictionaries are so unreadable in the inspector, that they aren't useful. Making them as readable as other variables would make it consistent.",
+    "format": "markdown",
+    "workaround": "Not really, as those are Quality of Life improvements. Possibly could create categories instead, but in this case we can't use one dictionary for settings, which is the target here."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-03T10:26:03Z",
+  "comments": 5,
+  "createdAt": "2020-12-24T10:28:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 2018,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve readability of Dictionaries in the inspector",
+  "up": 1,
+  "updatedAt": "2024-05-03T10:26:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2018"
+}

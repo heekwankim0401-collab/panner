@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "SDFGI is core, and this problem is with it",
+    "format": "form",
+    "workaround": "No, attempts to use other methods to give a minimum amount of light such as Reflection Probes failed (SDFGI just got overriden by them)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-19T16:25:15Z",
+  "comments": 1,
+  "createdAt": "2022-07-19T06:06:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4916,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Ambient Energy to SDFGI",
+  "up": 5,
+  "updatedAt": "2022-07-19T16:25:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4916"
+}

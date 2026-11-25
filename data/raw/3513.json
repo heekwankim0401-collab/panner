@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because the project manager can't have add-ons, and most Godot users would likely use this feature if presented with it.",
+    "format": "form",
+    "workaround": "No, unless you write your own project manager."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-14T01:48:44Z",
+  "comments": 6,
+  "createdAt": "2021-11-06T18:53:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.1",
+  "number": 3513,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add tagging system to Project Manager",
+  "up": 7,
+  "updatedAt": "2023-07-14T15:21:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3513"
+}

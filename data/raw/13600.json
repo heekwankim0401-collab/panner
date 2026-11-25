@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Same as above, or at least I'm not sure whether syntax highlighting can be altered by an add-on.",
+    "format": "form",
+    "workaround": "This cannot be worked around, this is about syntax highlighting in the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-13T18:36:42Z",
+  "comments": 0,
+  "createdAt": "2025-11-09T08:37:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.6",
+  "number": 13600,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add string placeholder syntax highlighting in the script editor",
+  "up": 6,
+  "updatedAt": "2025-11-13T18:38:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13600"
+}

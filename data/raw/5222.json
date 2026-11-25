@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a build system issue.",
+    "format": "form",
+    "workaround": "This is a build system issue."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-10T17:36:30Z",
+  "comments": 2,
+  "createdAt": "2022-08-21T10:52:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 5222,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add explicit dependencies on modules to build",
+  "up": 0,
+  "updatedAt": "2026-04-10T17:36:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5222"
+}

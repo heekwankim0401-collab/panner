@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "\"This is about improving the UI usability out of the box\"",
+    "format": "form",
+    "workaround": "It is trivial to change this when starting a new project if you already now it will be an issue, but it's much harder to do it later when the UI is already design. A counter argument could be that the layout system automatically resizes elements but this not completely true. Margins are updated but everything else is defined in pixels and stays the same, with font sizes being the biggest issue. It does work correctly if the scaling is set to canvas_item but that's also another default setting issue. See https://github.com/godotengine/godot-proposals/issues/3939"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-27T08:15:51Z",
+  "comments": 4,
+  "createdAt": "2022-08-14T20:13:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5169,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make 1920x1080 the default base resolution",
+  "up": 0,
+  "updatedAt": "2023-10-27T08:16:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5169"
+}

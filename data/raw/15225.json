@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-05T10:03:32Z",
+  "comments": 6,
+  "createdAt": "2026-07-21T17:28:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 15225,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow Visual Shaders to reuse functions from shader include libraries",
+  "up": 1,
+  "updatedAt": "2026-08-05T10:03:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15225"
+}

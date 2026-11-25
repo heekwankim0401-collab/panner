@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a small change that would best be integrated directly into the basic particle material.",
+    "format": "form",
+    "workaround": "There are many ways to make footprints, and there are several work-arounds.  Such as using a custom particle shader.  However, I still think this feature could be useful for a wide variety of reasons involving particles."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-02-26T13:37:24Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6361,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an Emission Angle property to ParticlesMaterial to control the angle particles are initially emitted at",
+  "up": 0,
+  "updatedAt": "2023-02-26T18:58:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6361"
+}

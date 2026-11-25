@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Most likely can't be implemented as an addon",
+    "format": "form",
+    "workaround": "Most likely not"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-21T20:19:31Z",
+  "comments": 1,
+  "createdAt": "2025-09-28T22:10:52Z",
+  "down": 0,
+  "labels": [
+    "topic:export"
+  ],
+  "milestone": "4.6",
+  "number": 13297,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow building export templates with support for texture compression functions",
+  "up": 2,
+  "updatedAt": "2025-10-21T20:19:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13297"
+}

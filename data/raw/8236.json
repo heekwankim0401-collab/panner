@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe this is basic functionality and shouldn't require users installing an addon for",
+    "format": "form",
+    "workaround": "It can be worked around by adding a custom input action and manually add every key, but this would take much time, and would need to do it for every project."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-23T22:58:53Z",
+  "comments": 32,
+  "createdAt": "2023-10-23T14:50:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 8236,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement \"any_key\" event in input actions",
+  "up": 0,
+  "updatedAt": "2023-10-23T23:24:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8236"
+}

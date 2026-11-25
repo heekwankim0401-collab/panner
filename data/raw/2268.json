@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a foundational problem within Godot's code, and negatively affects everyone using the game engine, even if they are not explicitely aware of it. Fixing this problem would help improve quality of life and efficiency, as well as reduce frustration caused by misclicking and unintentionally selecting nodes.",
+    "format": "markdown",
+    "workaround": "There is no situation where this wouldn't be used.  There is no reason to have the bounding box of nodes extend to the texture of their children's Light2D node, as this only leads to inaccuracy, due to the nature of selection bounding boxes and their purpose (To allow for intuitively selecting nodes based on what you see). Even if there is some reason do to so, the change is very minor and a workaround would not be difficult to create."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-23T16:55:23Z",
+  "comments": 3,
+  "createdAt": "2021-02-10T19:03:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2268,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Light2D nodes should not extend the selection bounding box of any parent node",
+  "up": 0,
+  "updatedAt": "2023-01-23T16:55:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2268"
+}

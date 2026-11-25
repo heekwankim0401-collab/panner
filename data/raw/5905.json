@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Line2D is already core",
+    "format": "form",
+    "workaround": "Seems like for drawing lines, it'd be pretty essential."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-06T17:12:53Z",
+  "comments": 1,
+  "createdAt": "2022-12-06T17:04:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5905,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Bezier to line 2D",
+  "up": 0,
+  "updatedAt": "2022-12-06T17:13:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5905"
+}

@@ -106,6 +106,19 @@
   - #15714는 GitHub 웹에서 "Closed as duplicate"로 확인했다. API가 이 값을 `DUPLICATE`로 돌려주는지는 아직 모른다.
   - 확인용 일회성 스크립트를 `local/check-15714.ts`에 두었다(커밋하지 않음, `.git/info/exclude`).
   - `--limit 100` 확인과 함께 T5 첫 단계로 옮겼다.
+- 2026-11-26: T4 실제 확인 완료(fine-grained 토큰, 공개 저장소 읽기 전용).
+  - #15714는 인자 없는 `stateReason`으로도 `DUPLICATE`가 온다. SPEC 4.1 쿼리는 그대로 둔다(SPEC 14장 첫 열린 질문 해소).
+  - 비용은 50개짜리 쪽당 1점이다. 전체 약 12,000개면 약 240쪽, 약 240점이라 Actions 기본 토큰 한도(시간당 1,000점) 안에 든다. 실제 총비용은 T5 전체 수집에서 다시 적는다.
+  - `npm run sync -- --limit 100`
+    - 첫 실행: 100 new, total cost 2
+    - 두 번째 실행: 0 new, 0 changed, 100 unchanged
+    - `state.json`은 생기지 않았다. `data/raw`의 줄 끝은 LF다.
+  - 가장 오래된 100개의 형식은 legacy 63, unknown 36, markdown 1이다. 번호는 1부터 4283까지 섞여 있다. 본체 저장소에서 옮겨 온 이슈가 원래 만든 날짜를 그대로 갖고 있기 때문이다.
+- 2026-11-26: 첫 전체 수집(로컬, fine-grained 토큰) 결과
+  - 12,250개를 받았다(245쪽).
+  - 총비용 245점, 354초. 재시도와 rateLimit 대기는 없었다.
+  - `data/raw`와 `data/bodies`는 각각 12,250개다. `state.json`의 `total`은 12250이다.
+  - 쪽당 1점이므로 매주 수집은 Actions 기본 토큰 한도(시간당 1,000점)의 약 4분의 1을 쓴다. `PANNER_TOKEN`은 당장 필요 없다(SPEC 14장 두 번째 열린 질문 해소).
 
 ## T6 분류기 (2026-11-25)
 

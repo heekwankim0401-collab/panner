@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I have no idea how to efficiently solve this except for core. \nI have a working example in engine for cpu particles 2D & 3D that has this feature\n\nhttps://discord.com/channels/212250894228652034/218361207990648832/1052569941888475136\n\n![image](https://user-images.githubusercontent.com/1736172/208052274-9a0dd36f-508f-4d59-8562-164e90540a4f.png)",
+    "format": "form",
+    "workaround": "It's particles best to fix this in engine. I have no idea of any other suitable solution"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-12-15T06:07:35Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5939,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Dynamically adjust the amount of particles emitted without clearing all the particles",
+  "up": 17,
+  "updatedAt": "2023-08-03T23:04:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5939"
+}

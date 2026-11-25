@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be in the core engine because it's a missing error message. I'm starting to think this isn't the right place to be suggesting this, but it's _technically_ not a bug, just a missing feature.",
+    "format": "form",
+    "workaround": "It can be worked around by just straight up not doing it, but I would almost even classify this as a bug with how it completely wastes your time chasing ghosts."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-08T22:15:12Z",
+  "comments": 1,
+  "createdAt": "2023-10-08T21:50:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8041,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "@export_category() does not throw an error when hiding Singletons",
+  "up": 0,
+  "updatedAt": "2023-10-08T22:15:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8041"
+}

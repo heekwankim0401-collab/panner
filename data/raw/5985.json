@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "These are changes that need to be made on the particle node itself which is part of the core engine.",
+    "format": "form",
+    "workaround": "These are changes that need to be made on the particle node and core engine itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-12-24T00:35:42Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 5985,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow GPUParticles3D subemitter amount to be independent of the main emitter",
+  "up": 0,
+  "updatedAt": "2023-09-09T09:04:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5985"
+}

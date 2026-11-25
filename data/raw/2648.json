@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core feature",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 1,
+  "closedAt": "2022-05-04T00:36:44Z",
+  "comments": 6,
+  "createdAt": "2021-04-25T08:00:57Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:xr"
+  ],
+  "milestone": "4.0",
+  "number": 2648,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add stereoscopic rendering to Godot 4",
+  "up": 7,
+  "updatedAt": "2022-05-04T00:39:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2648"
+}

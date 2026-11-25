@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would have to be in core.",
+    "format": "form",
+    "workaround": "This cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-29T14:23:00Z",
+  "comments": 2,
+  "createdAt": "2024-01-29T10:28:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8986,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Cull Mask to SDFGI and Editor camera",
+  "up": 0,
+  "updatedAt": "2024-01-29T14:38:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8986"
+}

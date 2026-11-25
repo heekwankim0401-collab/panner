@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Improvement to existing core class.",
+    "format": "form",
+    "workaround": "The workaround currently is to just ignore it. The code does *work*, just feels bootleg and surely validating an images as not-corrupt is useful for anyone streaming textures on the fly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-09-15T05:35:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10747,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose Image's `is_valid()` method to scripting",
+  "up": 0,
+  "updatedAt": "2024-09-26T20:41:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10747"
+}

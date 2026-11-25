@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This will affect how the editor deals with addons.",
+    "format": "form",
+    "workaround": "This deals with how the editor installs addons and is not really something that can be done with a script."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-14T01:48:59Z",
+  "comments": 1,
+  "createdAt": "2023-12-14T01:46:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8653,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot plugins should be able to specify a minimum required Godot version",
+  "up": 0,
+  "updatedAt": "2023-12-14T01:49:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8653"
+}

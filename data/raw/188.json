@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature would be a change to the way (core) importing works in Godot. Since it's a pretty big and useful feature, it should be shipped in the engine by default.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-01T18:26:22Z",
+  "comments": 11,
+  "createdAt": "2019-10-28T17:55:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 188,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Import and store animation and mesh separately",
+  "up": 5,
+  "updatedAt": "2021-05-01T18:26:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/188"
+}

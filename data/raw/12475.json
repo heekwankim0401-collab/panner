@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature is a universal upgrade to the scene tree functionality, and is never useless to users, even if they choose not to use it. \n\nGiven that this has been an ongoing problem for 5 years, I would **highly** recommend that those of you who don't wish to have something like this please consider the value of Solution N.",
+    "format": "form",
+    "workaround": "It would be often used by practically every Godot User, but if a user doesn't wish to do it from within the Scene Tree, it is still accessible in the Inspector as it always was."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-05-21T22:28:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12475,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow SceneTreeEditor to modify selected Node ProcessMode",
+  "up": 13,
+  "updatedAt": "2025-06-04T13:26:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12475"
+}

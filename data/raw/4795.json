@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be core as it is a feature that is globally usable on every project and betters Godots UX for everyone.",
+    "format": "form",
+    "workaround": "It maybe possible to write some of this as an addon but unsure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-07-02T06:36:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4795,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to configure external editors for arbitrary file types",
+  "up": 1,
+  "updatedAt": "2022-07-02T14:18:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4795"
+}

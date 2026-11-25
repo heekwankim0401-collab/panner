@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not doable with any reasonable script. Unless we consider hacky plugins viable.",
+    "format": "legacy",
+    "workaround": "It will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2019-11-13T22:08:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 228,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow creating export presets that inherit from other presets",
+  "up": 11,
+  "updatedAt": "2024-07-16T17:06:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/228"
+}

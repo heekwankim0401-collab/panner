@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is an essential workflow improvement to using Godot.",
+    "format": "form",
+    "workaround": "Today, you must recursively investigate each of your file's references (which you must either remember yourself or hit \"edit dependencies\" and make a mental note of all of the listed items) and manually open each file's dependencies to see which have missing references. It's quite burdensome."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-30T23:50:42Z",
+  "comments": 6,
+  "createdAt": "2023-09-30T17:41:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7935,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically Repair Broken Project References",
+  "up": 0,
+  "updatedAt": "2024-03-25T09:01:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7935"
+}

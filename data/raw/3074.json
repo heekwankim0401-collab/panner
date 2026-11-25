@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The script editor is core.",
+    "format": "form",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-03T06:02:20Z",
+  "comments": 2,
+  "createdAt": "2021-08-01T23:14:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3074,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the highlight for the current argument in the script editor more obvious",
+  "up": 4,
+  "updatedAt": "2021-08-03T06:02:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3074"
+}

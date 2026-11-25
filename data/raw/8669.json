@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Because it's an engine feature\n\nExample of an app that uses Global Menu Bar\n![image](https://github.com/godotengine/godot-proposals/assets/47148297/927efc07-cc8f-40a9-af4b-e36f93ecaed3)",
+    "format": "form",
+    "workaround": "No, since this is an engine feature"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-12-16T11:19:04Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:editor",
+    "topic:platforms",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8669,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add native global menu support on Linux",
+  "up": 9,
+  "updatedAt": "2025-01-31T07:45:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8669"
+}

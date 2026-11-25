@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is already in core, just not exposed to GDScript.",
+    "format": "form",
+    "workaround": "It definitely can, but like I mentioned above, it is slower when dealing with large images."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-25T15:54:46Z",
+  "comments": 1,
+  "createdAt": "2021-12-11T23:14:21Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3660,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose BitMap's `convert_to_image` and `resize` methods to GDScript",
+  "up": 5,
+  "updatedAt": "2022-01-25T15:54:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3660"
+}

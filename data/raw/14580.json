@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-03-31T09:03:49Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 14580,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose already implemented audio peak filter",
+  "up": 2,
+  "updatedAt": "2026-03-31T15:23:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14580"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the 3D editor usability out of the box",
+    "format": "form",
+    "workaround": "It will be very often used. <1000 lines"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-27T08:45:19Z",
+  "comments": 1,
+  "createdAt": "2022-08-09T16:07:24Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 5124,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add touch-based movement controls for the 3D editor viewport",
+  "up": 2,
+  "updatedAt": "2023-10-27T08:45:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5124"
+}

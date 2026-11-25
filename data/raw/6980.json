@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Can't be an add-on because there is no such feature",
+    "format": "form",
+    "workaround": "The only workaround I found is to simulate pressing \"zoom plus\" and \"zoom minus\" buttons but this is limited (the zoom \"step\" is big)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-05-29T21:01:31Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 6980,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose canvas editor zoom to plugins",
+  "up": 2,
+  "updatedAt": "2023-05-30T21:15:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6980"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is not accessible outside core.",
+    "format": "form",
+    "workaround": "No Workaround found"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-05-01T17:46:22Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 6787,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Register ScriptEditorBase by binding ScriptEditor::register_create_script_editor_function",
+  "up": 0,
+  "updatedAt": "2023-05-07T13:47:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6787"
+}

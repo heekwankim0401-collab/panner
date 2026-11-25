@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "core ux",
+    "format": "form",
+    "workaround": "can't"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-08T15:12:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8037,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Disable View UV2 button in MeshInstance3D contextual editor when mesh has no UV2",
+  "up": 4,
+  "updatedAt": "2023-10-08T17:17:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8037"
+}

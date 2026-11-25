@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an improvement to a core functionality error message",
+    "format": "form",
+    "workaround": "It's an improvement to a core functionality error message"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-30T08:25:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10603,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve error/warning on node reparent when parent is busy adding/removing nodes",
+  "up": 1,
+  "updatedAt": "2024-08-30T08:37:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10603"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Camera3D is core",
+    "format": "form",
+    "workaround": "Yes, but only if you have access to every camera, does not work on stuff like editor cameras"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-13T23:20:17Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12425,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a signal in Viewport when the current active camera changes",
+  "up": 1,
+  "updatedAt": "2025-05-14T12:10:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12425"
+}

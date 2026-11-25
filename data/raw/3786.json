@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "FSR can't be optimally implemented with an add-on.",
+    "format": "form",
+    "workaround": "No, as FSR needs to be implemented in the core renderer for an optimal implementation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-01-11T16:13:02Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3786,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement FSR 1.0 Lite in the Vulkan renderer",
+  "up": 17,
+  "updatedAt": "2025-12-10T20:18:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3786"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "not possible to have this feature in the asset library",
+    "format": "form",
+    "workaround": "it is an editor feature so I don't think I can, and there is no editor plugin type that could add this functionality as far as I can tell"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-08-23T15:40:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5233,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "A way to copy error message without additional information",
+  "up": 4,
+  "updatedAt": "2022-08-23T16:05:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5233"
+}

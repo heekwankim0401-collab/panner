@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Points to be always relative to parent is what normaly anyone want and it by default will not make problems for how want it as global just dont move the node. And it is change to core node.",
+    "format": "form",
+    "workaround": "If points is point2d node it maybe could be few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-10T19:14:56Z",
+  "comments": 2,
+  "createdAt": "2021-10-09T15:34:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3407,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make points in Line2D relative to the node instead of global",
+  "up": 0,
+  "updatedAt": "2021-10-10T19:33:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3407"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "These are core enums, so they are already in core.",
+    "format": "legacy",
+    "workaround": "These are used often. The workaround is to use the current names."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-23T12:00:24Z",
+  "comments": 0,
+  "createdAt": "2020-11-12T04:40:46Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 1817,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename many enums relating to input, especially Button to MouseButton",
+  "up": 3,
+  "updatedAt": "2021-03-23T12:00:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1817"
+}

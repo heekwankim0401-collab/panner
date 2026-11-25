@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is platform supported and only applicable for integration into the Godot repo.",
+    "format": "form",
+    "workaround": "No, this is a platform support issue."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-10-16T01:58:16Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 13398,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add SDL as a universal platform to support backend",
+  "up": 0,
+  "updatedAt": "2026-10-05T08:48:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13398"
+}

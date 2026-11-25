@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's core",
+    "format": "form",
+    "workaround": "It can be worked around, but we have so much settings which just set something on root Viewport on startup, so, why not?"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-06T13:30:16Z",
+  "comments": 5,
+  "createdAt": "2024-11-09T05:56:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11122,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Default Canvas Cull Mask project setting",
+  "up": 0,
+  "updatedAt": "2024-12-08T17:04:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11122"
+}

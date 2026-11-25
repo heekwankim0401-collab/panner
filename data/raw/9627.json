@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "it's too small to be it's own asset and too tedious to not be in core engine.",
+    "format": "form",
+    "workaround": "the enhancement will be used often if people had access to it."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-29T17:13:56Z",
+  "comments": 1,
+  "createdAt": "2024-04-29T13:49:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9627,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add functionality to tilemap that automatically sets precise colisions in the shape of the tile.",
+  "up": 0,
+  "updatedAt": "2024-04-29T17:19:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9627"
+}

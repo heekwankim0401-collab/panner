@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's useful to have a method like this for the default SourceGeometryMode.",
+    "format": "form",
+    "workaround": "No. For this to work, you just need to add the Node method I described above to SourceGeometryMode, then the size of the world would not matter for finding the path."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-05-21T14:39:03Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 9800,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "New pathfinding method for huge worlds (New method for SourceGeometryMode)",
+  "up": 1,
+  "updatedAt": "2024-05-21T18:50:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9800"
+}

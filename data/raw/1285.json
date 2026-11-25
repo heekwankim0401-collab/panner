@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure if RichTextEffect allows doing this kind of stuff.",
+    "format": "legacy",
+    "workaround": "No, as setting the `hint_tooltip` property affects the tooltip of the whole RichTextLabel. It will display when any part of it is hovered."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-18T13:49:13Z",
+  "comments": 2,
+  "createdAt": "2020-07-31T17:28:56Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 1285,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `[hint=description]text[/hint]` BBCode tag to RichTextLabel to display tooltips on hover",
+  "up": 8,
+  "updatedAt": "2022-03-18T13:49:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1285"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about making the built-in font editing experience easier to use, and more on par with the font picking dialogs of other programs, which are what many users have come to expect.",
+    "format": "form",
+    "workaround": "It could be potentially worked around with an editor plugin, in a complicated, hack-y sort of way. It definitely would not be a few lines of script, though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-15T02:20:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6882,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display font previews in the inspector when loading system fonts",
+  "up": 5,
+  "updatedAt": "2023-05-15T02:58:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6882"
+}

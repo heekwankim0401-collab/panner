@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes it won't work in a module.\n\nSo @Calinou and I were thinking of throwing a prototype build together for the editor only.\n\nWe'd port the existing behaviour to meson and see how much editor build times are improved by, then ask the core devs to look at the prototype.\n\nWe chose meson because its close to scons but with better performance overall, and it's not going to be outright refused like CMAKE would be since CMAKE is poorly explained and poorly documented.\n\nNoteworthy a lot of projects use MESON it's very maintained and used for Mesa.\n\nI believe that reduz previously mentioned that he likes scons because it can create reproducible builds, and meson supports this by default.\n\nhttps://mesonbuild.com/Reproducible-builds.html\n\nMeson also gives us the ability to run the build on multiple machines using ninja without hooking back into meson each time for each call, meaning the build environment won't change and cause a rebuild.\n\nA prototype would include:\n- editor build Linux\n- standard options debug_symbols=yes/no \n- ninja support out of the box @fire  (https://mesonbuild.com/Quick-guide.html) :heart: \n- clearly defined dependencies for modules\n- the ability to disable more modules and enable them as required without breaking the engine since we can make a clear dependency tree\n- the ability to swap live between shared libs and static-libs for modules like #1796\n- code generated headers could be rebuilt once and made so that it won't rebuild every time, allowing even further caching advantages in the compilation process\n- we can half our link times by not including debug symbols when you only need to test some code fast!\n- **we can make our rebuild times faster than CMAKE, SCONS and pretty much everything else https://mesonbuild.com/Simple-comparison.html**\n- We would get much better .sln generation for MSVC.\n\nI think it would be better to swap, but swapping IS not for the faint of heart, but a worthwhile endeavour and I believe it would also improve the build times",
+    "format": "legacy",
+    "workaround": "No,"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-13T01:44:57Z",
+  "comments": 13,
+  "createdAt": "2020-11-09T15:14:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 1797,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Switch from SCons to Meson to improve Godot's build performance",
+  "up": 32,
+  "updatedAt": "2024-02-13T08:52:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1797"
+}

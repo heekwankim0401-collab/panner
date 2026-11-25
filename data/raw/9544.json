@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since this deals with existing nodes and existing functionality, it would not really make sense to use an add-on to expose what already exists, but is internal to the engine.",
+    "format": "form",
+    "workaround": "Currently the only real way of working around this is to do something horrible like giving your GraphNodes unique names and then connecting them up manually on node ready. This obviously sucks, not only because it's fiddly, but it also doesn't let you see how the connections look without running the project."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-04-18T10:46:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9544,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow connecting of `GraphEdit` nodes from the editor",
+  "up": 2,
+  "updatedAt": "2025-09-16T16:04:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9544"
+}

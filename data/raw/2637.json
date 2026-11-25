@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "There needs to be some way to hook into the exporting process, that needs to be core. I'd be happy with the remainder being an add-on!",
+    "format": "markdown",
+    "workaround": "I couldn't find any documented way to hook into the exporting process. This doesn't stop me from doing anything and is rather a nice-to-have feature."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-23T22:07:28Z",
+  "comments": 4,
+  "createdAt": "2021-04-23T08:25:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:export",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2637,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for export pre-process scripts",
+  "up": 0,
+  "updatedAt": "2021-04-23T22:12:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2637"
+}

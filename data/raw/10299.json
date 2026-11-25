@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "To properly protect code, we need to change how Godot itself handles and runs that code. An add-on can't change those fundamental parts of the engine.\nThis isn't just about a few people selling assets. A reliable way to share code and montize from assets safely which can contribute to godot ecosystem. More people creating and earning means the better the tools.",
+    "format": "form",
+    "workaround": "Here's the problem, gdscript is designed to be easy to understand. Even if you try to hide it, it sitll can figure it out. It's also tricky because Godot doesn't currently have a good way to package up your code so that people can use it without being able to see all the details.\nWhile asset creators might try to share their GDScript code with a hope others won't modify, resell, or steal it, this could be a solution. \n.pck file format doesn't have a built-in way to separate the parts of your code you want to share from the parts you need to keep secure.\nThis issue can be solved by a builtin feature that gives asset creators to secure their assets and earn from it."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-28T20:23:22Z",
+  "comments": 3,
+  "createdAt": "2024-07-28T17:05:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:export",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10299,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Asset Protection: Shared Libraries as .pck files with Public Method Definitions",
+  "up": 0,
+  "updatedAt": "2024-07-28T20:23:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10299"
+}

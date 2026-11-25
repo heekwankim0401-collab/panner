@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Only the workaround can be an addon.",
+    "format": "form",
+    "workaround": "Yes, with custom constants. But it's inconvenient, because they can't be global, so the code becomes verbose."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-17T12:48:33Z",
+  "comments": 5,
+  "createdAt": "2023-07-21T22:44:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.2",
+  "number": 7348,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Vector2i.MAX as equivalent to Vector2.INF",
+  "up": 11,
+  "updatedAt": "2023-09-17T12:50:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7348"
+}

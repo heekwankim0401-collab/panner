@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a security vulnerability for users who upload games to game hosting sites like itch.io because you should be able to reasonably expect your user app data should not be corrupted by another game on the same domain.",
+    "format": "markdown",
+    "workaround": "Well sure, I could just choose to save all my data under `user://[name of game]` but this is redundant for binary builds, and it's not properly documented if it is this way by design."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-01-30T21:46:19Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": "5.0",
+  "number": 2207,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Separate HTML5 User App Data by game instead of domain",
+  "up": 5,
+  "updatedAt": "2023-02-24T04:22:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2207"
+}

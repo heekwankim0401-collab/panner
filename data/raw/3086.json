@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Rendering is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-04T16:12:58Z",
+  "comments": 2,
+  "createdAt": "2021-08-04T10:09:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3086,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Per-Split Biasing options for Directional Shadows",
+  "up": 0,
+  "updatedAt": "2021-08-04T16:16:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3086"
+}

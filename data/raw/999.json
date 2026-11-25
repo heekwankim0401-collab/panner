@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As mentioned above there isn't any way I'm aware of for a script to turn the fog into an alpha mask that can fade against the environment sky. This also seems like something that would work best as a parameter to the Environment node and its fog section, being a simple feature with several use cases. Someone else seconded my idea on the [forum thread for this](https://godotforums.org/discussion/comment/38649), including the suggestion to post it here... also attached an image I took showing why a single fog color sometimes looks bad.\n\n![I9W5P7u](https://user-images.githubusercontent.com/825418/83582171-6db51100-a549-11ea-92e3-ec66b5c0fea5.png)",
+    "format": "legacy",
+    "workaround": "As far as I could tell, there isn't any script function that can achieve this for fog, unless it's modifying the universal fog color itself or playing with complex shaders; It's still a single color which won't look right from all positions and angles. My suggestion shouldn't otherwise change old or default behavior, it would be appreciated even as an optional setting."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-18T15:32:20Z",
+  "comments": 5,
+  "createdAt": "2020-06-03T00:31:51Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 999,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow using the sky background as fog color",
+  "up": 0,
+  "updatedAt": "2020-10-21T12:23:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/999"
+}

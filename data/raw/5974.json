@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it is in the core.\nc# conventions should be applied like it was done in the rest of the engine.\nwould increase readability.\n\nbreaks compatibility",
+    "format": "form",
+    "workaround": "you could write a singleton wrapper around the existing single singleton but that doesnt make much sense."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-12-21T18:57:49Z",
+  "down": 3,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5974,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rebuild Structure of DisplayServer",
+  "up": 0,
+  "updatedAt": "2022-12-21T19:15:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5974"
+}

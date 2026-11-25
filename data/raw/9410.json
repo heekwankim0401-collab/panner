@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See previous answer",
+    "format": "form",
+    "workaround": "I didn't see any way to add command in menu except in the Project/Tools menu with a 'AddTool(Submenu)Item' in an editor plugin, and I think it's not really idea to maintains many commands like this which may be only temporary..."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-29T20:05:27Z",
+  "comments": 2,
+  "createdAt": "2024-03-29T19:53:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9410,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow EditorScript to register into a menu",
+  "up": 0,
+  "updatedAt": "2024-03-29T20:08:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9410"
+}

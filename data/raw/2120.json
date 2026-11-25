@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would also work as an addon. Sadly it would be an addon fixing a non-complete functionality of Godot's core scale gizmo/tool.",
+    "format": "markdown",
+    "workaround": "The enhancement would improve overall usability of scaling in 3D. I've struggled with fine-tuning the scale of objects for a while now. If the scale tool is tweaked in a way that allows for fine, predictable scaling in a wider range of situations, users will notice the difference in a myriad of situations."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-20T08:10:48Z",
+  "comments": 3,
+  "createdAt": "2021-01-14T12:41:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 2120,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow fine-tuning 3D scale of objects in all situations, regardless of zoom and scale",
+  "up": 7,
+  "updatedAt": "2021-09-20T12:55:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2120"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as this is handled by the renderer itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-06-28T20:20:44Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2934,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a true \"Once\" ReflectionProbe update mode, rename current \"Once\" to \"When Moved\"",
+  "up": 18,
+  "updatedAt": "2023-09-01T19:01:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2934"
+}

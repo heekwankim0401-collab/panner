@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This functionality looks like base game engine/editor functionality and it is available in Unity and it looks like good feature and it shouldn't be hard to implement, because all required functionality exists in current Godot editor.",
+    "format": "legacy",
+    "workaround": "Actually we can use custom Resources for similar functionality.. but it has some limitations and problems due to the nature of resources. Exported Resource is Null/empty by default and it is impossible to set a default value for the Resource type(so need to make a few clicks and mouse scrolls to create required Resource in the inspector). Resources are \"global\" by default so I need to make sure that all resources are \"unique\" and changing data in one object doesn't affect other objects that use the same resource."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-16T14:19:09Z",
+  "comments": 21,
+  "createdAt": "2020-01-05T22:30:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 359,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "\"export var\" for custom types/classes",
+  "up": 19,
+  "updatedAt": "2026-02-12T20:02:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/359"
+}

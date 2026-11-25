@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "FileAccess is core functionality.",
+    "format": "form",
+    "workaround": "It will be used often, file handling is important in most applications."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-16T17:35:21Z",
+  "comments": 9,
+  "createdAt": "2023-02-16T11:56:00Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 6301,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add FileAccess.close() method to GDScript and encourage its use in documentation and samples",
+  "up": 10,
+  "updatedAt": "2023-02-16T17:35:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6301"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This doesn't modify joint behavior, and instead makes the Godot Editor more useable in general without any reason to NOT be core if it was implemented.",
+    "format": "form",
+    "workaround": "Its a global change that would affect all Godot users who use joints, albeit an optional one that users need-not use if they wish to eschew it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-02T17:10:44Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12718,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Constraint resource for quick assignment across multiple physics joints",
+  "up": 0,
+  "updatedAt": "2025-07-02T23:01:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12718"
+}

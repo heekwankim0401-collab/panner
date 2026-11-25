@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-06-15T06:03:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 15013,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "An algorithm for better-fitting collision shapes for \"Create Physical Skeleton\"",
+  "up": 3,
+  "updatedAt": "2026-06-15T12:12:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15013"
+}

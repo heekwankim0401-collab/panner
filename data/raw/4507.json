@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Navigation is a core feature.",
+    "format": "form",
+    "workaround": "It can as I made first attempt in GDScript before porting to a Godot custom build but Navigation is a core feature."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-29T10:29:58Z",
+  "comments": 3,
+  "createdAt": "2022-05-07T14:09:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:navigation"
+  ],
+  "milestone": "4.0",
+  "number": 4507,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add more detailed Debug Visualization for 3D Navigation",
+  "up": 5,
+  "updatedAt": "2022-07-29T10:29:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4507"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't be implemented as an addon.\n\n-----\n\nSee https://github.com/godotengine/godot/issues/21105 for some earlier discussion of this feature. It also correctly notices that if stencil support is added to Godot in the future, it's better be as material parameters rather than within shader code.",
+    "format": "legacy",
+    "workaround": "No, and it will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2020-05-28T01:50:23Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 933,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move material attributes from shader code to material properties",
+  "up": 7,
+  "updatedAt": "2025-07-31T05:16:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/933"
+}

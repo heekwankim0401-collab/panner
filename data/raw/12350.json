@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- TileMapLayer is a core tool for 2D world building in Godot. Per-tile offsets would significantly enhance the usability and flexibility of TileMap editing for all genres (RPGs, platformers, tactics, etc.).\n\n- This feature would leverage existing runtime capabilities and make them accessible at the editor level, improving the core workflow without requiring external tools.\n\n- An add-on cannot reliably extend the TileMapLayer editor tools to support custom per-tile offset editing natively and in a performant way.",
+    "format": "form",
+    "workaround": "- Offsetting tiles is a common requirement for modern 2D games, especially in RPGs, platformers, and roguelikes that want to break grid rigidity.\n\n- TileMapLayer already supports custom transforms internally. The editor simply lacks a way to author them.\n\n- Implementing this at the engine/editor level guarantees that the feature is robust, consistent, and saved properly in scene files."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2025-05-01T13:18:43Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 12350,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add per-tile custom offsets in TileMapLayer editor",
+  "up": 22,
+  "updatedAt": "2025-05-12T08:15:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12350"
+}

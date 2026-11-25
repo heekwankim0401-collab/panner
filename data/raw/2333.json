@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": "2022-09-02T20:35:47Z",
+  "comments": 81,
+  "createdAt": "2021-02-22T23:00:59Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:dotnet"
+  ],
+  "milestone": "4.0",
+  "number": 2333,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "From embedding Mono to Godot as a library and the future",
+  "up": 168,
+  "updatedAt": "2024-01-26T13:44:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2333"
+}

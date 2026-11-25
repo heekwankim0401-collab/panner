@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an editor-specific function.",
+    "format": "markdown",
+    "workaround": "It requires engine changes."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-08T23:53:37Z",
+  "comments": 0,
+  "createdAt": "2021-05-21T21:28:03Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 2754,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add create folder button to project imports",
+  "up": 7,
+  "updatedAt": "2024-03-08T23:53:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2754"
+}

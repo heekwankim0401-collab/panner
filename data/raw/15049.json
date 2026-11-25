@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Multi-selection requires changing the built-in error `Tree`'s select mode, which is not reachable from a plugin. It is a small, self-contained change to existing editor UI.",
+    "format": "form",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-21T11:29:16Z",
+  "comments": 0,
+  "createdAt": "2026-06-21T11:26:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "spam"
+  ],
+  "milestone": null,
+  "number": 15049,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add multi-selection and copy options to the debugger Errors panel",
+  "up": 0,
+  "updatedAt": "2026-06-21T11:29:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15049"
+}

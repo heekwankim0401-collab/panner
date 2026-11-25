@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "TextureRect is core, and this only involves rounding a value that is already calculated by the TextureRect node.\n\n---------------------------\nAn alternative way to solve this is to make TextureRect respect the `gui/common/snap_controls_to_pixels` project setting, but there may be cases where drawing at fractional positions while keeping that setting enabled is desired. I don't know if anyone relies on this behavior though.\n\n--------------------------------\n\nI can implement this myself if there is a consensus that this is wanted. Looking at the TextureRect drawing code it looks very simple and straightforward to do.",
+    "format": "form",
+    "workaround": "You can reimplement the TextureRect in a script. This is fairly easy to do because of how easily the section of Godot's source code translates to GDScript, but it's still inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-07-22T02:45:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4947,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a property to snap TextureRect's texture to pixels",
+  "up": 0,
+  "updatedAt": "2022-07-22T17:12:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4947"
+}

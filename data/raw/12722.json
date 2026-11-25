@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. These systems (modular save/load, data-focused UI, simulation engines) address needs that are common across many genres — not just sports managers, but also RPGs, tycoon games, life sims, grand strategy, and more.\n\nHaving core-level or officially supported solutions ensures:\n- Better integration with Godot’s serialization, resource system, and UI nodes.\n- Higher performance and consistency across platforms.\n- Long-term maintenance and version compatibility, which most asset library add-ons lack.\n- Trust and adoption by studios building commercial-scale projects.\n\nWhile asset library tools can help, making this part of the core (or official modules) would signal that Godot is production-ready for complex, data-driven simulation games.",
+    "format": "form",
+    "workaround": "Some parts of the proposal (like save/load or simple table UIs) can be implemented with scripts or third-party plugins. However, implementing all of these features from scratch — especially modular save/load, tournament flow logic, and efficient data-driven UI components — requires hundreds or thousands of lines of code.\n\nFor solo developers or small teams, re-creating these systems each time is inefficient and leads to inconsistent solutions. Native support would ensure better performance, cross-platform stability, and reusable patterns for a wide range of game types beyond just sports managers."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-05T11:26:00Z",
+  "comments": 2,
+  "createdAt": "2025-07-03T14:20:25Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12722,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Modular Save System for Manager/Simulation Games ",
+  "up": 0,
+  "updatedAt": "2025-07-05T11:26:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12722"
+}

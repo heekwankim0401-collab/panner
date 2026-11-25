@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-24T22:08:47Z",
+  "comments": 0,
+  "createdAt": "2024-08-24T21:39:35Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10552,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Overhaul equality-checking and type-coercion",
+  "up": 0,
+  "updatedAt": "2024-08-24T22:08:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10552"
+}

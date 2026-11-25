@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think having it as an add-on will be quite hacky, and still, this wouldn't solve problem [1]",
+    "format": "form",
+    "workaround": "you can solve [2] (overlapping events), but not [1] (a need to manually add actions and bindings for many nodes added from AssetLib or other places).\nActually [1] cannot be solved completely, some asset/template creators will ignore the feature anyway.\nBut I still think this feature would be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-06-28T22:03:34Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 4774,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Node.input_map_override` property",
+  "up": 2,
+  "updatedAt": "2022-07-30T17:35:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4774"
+}

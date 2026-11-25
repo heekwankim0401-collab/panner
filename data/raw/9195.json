@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is an extension of a Core class",
+    "format": "form",
+    "workaround": "A workaround in case events are used instead of the `Input` singleton is to re-implement its usage in a script, but it is nor comfortable, neither portable"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-28T10:25:07Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.x",
+  "number": 9195,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Handle User input vector retrieval in a uniform way between `Input` and `InputEvent`",
+  "up": 1,
+  "updatedAt": "2024-02-28T10:28:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9195"
+}

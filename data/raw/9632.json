@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be a core feature as it will help people who use absolute space editing animate faster. It will also help people porting over key frames from other software that may use absolute rotations to complete the animation faster, eliminating the need to add or subtract 360s and 720s to the rotation of an axis. It will also help people who are new to Godot, with them not asking the internet why their model is doing its best impression of a gymnast and doing complete front flips and back flips when moving from one key frame to another.",
+    "format": "form",
+    "workaround": "This can be worked around by adding or subtracting 360 or a multiple of it from the value of the rotations in the value editor on keyframes. This is not as convenient as my solutions, as you have to type \"+360\" or \"-360\" at the end of every axis' rotation if it wraps around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-04-30T00:01:27Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 9632,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option for wrapped/absolute rotation for animations",
+  "up": 0,
+  "updatedAt": "2024-09-29T08:32:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9632"
+}

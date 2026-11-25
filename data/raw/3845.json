@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it likely cannot be made for the asset library.",
+    "format": "form",
+    "workaround": "It's a quality of life feature that could be used to distinguish comments it is more pertinent to the way I happen to be using comments but I don't see why it it wouldn't be used to say: make the header summary of a script stand out, or if you have a really long script, you could use these colored comments to make distinct sections of that script more easily identifiable."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-23T15:43:50Z",
+  "comments": 6,
+  "createdAt": "2022-01-22T09:03:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3845,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add color options for script comments",
+  "up": 2,
+  "updatedAt": "2022-10-23T15:43:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3845"
+}

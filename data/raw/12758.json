@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because a lot of people copy and paste code and if they could indent the code automatically it will save time, and a lot of IDEs come with code formatting.",
+    "format": "form",
+    "workaround": "Yeah, even if someone isn't using it, it won't really bother them anyways."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-10T05:36:59Z",
+  "comments": 5,
+  "createdAt": "2025-07-10T00:43:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12758,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Code Formatter",
+  "up": 1,
+  "updatedAt": "2025-07-11T08:56:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12758"
+}

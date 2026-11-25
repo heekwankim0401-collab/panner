@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be much more accessible when bundled with Godot, making it easier for everyone to add animation.",
+    "format": "legacy",
+    "workaround": "Not applicable, as this is an editor feature in a right-click menu."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-09-08T16:24:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1477,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow creating AnimatedTextures from the FileSystem dock",
+  "up": 0,
+  "updatedAt": "2020-09-08T17:49:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1477"
+}

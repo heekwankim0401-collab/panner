@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Shadows are currently impossible to edit in an addon without rewriting the entire logic.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-17T16:23:56Z",
+  "comments": 3,
+  "createdAt": "2022-09-21T11:46:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5464,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add long-distance directional shadows",
+  "up": 2,
+  "updatedAt": "2023-01-17T17:19:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5464"
+}

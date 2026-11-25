@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is basic QoL feature for text editors.",
+    "format": "form",
+    "workaround": "Not sure."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-16T16:24:58Z",
+  "comments": 0,
+  "createdAt": "2026-02-07T17:38:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 14174,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Convert \"Line and column numbers\" label to button",
+  "up": 6,
+  "updatedAt": "2026-02-16T16:26:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14174"
+}

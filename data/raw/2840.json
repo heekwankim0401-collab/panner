@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Technically, this *could* absolutely be done with a third-party addon, so it isn't necessarily something that *needs* to go in core. However, given that Godot already provides a GUI toolkit that very closely approximates these features, it seems strange to me that we wouldn't add a slight bit of customization and flexibility to it to expand the possibilities for what addons can do without forcing them all to start from scratch.\n\nGodot itself doesn't need to provide the fancy graphs people can see in games, but it should provide the basic building blocks that allow them to construct such a thing more quickly. And it *is* there already, but it is strictly geared towards creating visual scripting graphs. A little tweaking could greatly expand its usefulness.",
+    "format": "form",
+    "workaround": "I think a great many games and tools expect to be able to create \"graphs\" in the user interface and they are non-trivial to implement. UML diagrams, skill trees, overview maps that show links between points, abstract games that are all about forming connections between points (e.g. train station sim), etc."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-06-07T17:13:20Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2840,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make GraphNode/GraphEdit more flexible for drawing vertex containers and curves.",
+  "up": 15,
+  "updatedAt": "2021-06-07T21:46:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2840"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`add_compatibility_class` is in core.",
+    "format": "form",
+    "workaround": "Is a few lines of C++ code in the core."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-07T08:24:36Z",
+  "comments": 4,
+  "createdAt": "2021-12-02T14:53:10Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 3623,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Upgrade code should keep classes if scons has `deprecated=no`",
+  "up": 0,
+  "updatedAt": "2021-12-07T08:24:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3623"
+}

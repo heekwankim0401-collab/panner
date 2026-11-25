@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The feature is for engine developers working on Vulkan renderer for Android.\n\nPlay & Android Game Engine Support @ Google",
+    "format": "markdown",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-20T18:53:35Z",
+  "comments": 2,
+  "createdAt": "2021-03-31T17:48:51Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2536,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Vulkan validation layers on Android",
+  "up": 0,
+  "updatedAt": "2021-04-20T18:53:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2536"
+}

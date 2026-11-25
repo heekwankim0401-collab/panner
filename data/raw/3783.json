@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Would be a big quality of life feature out of the box.",
+    "format": "form",
+    "workaround": "Only workaround is to rename every input/output one by one which is tedious."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-01-10T22:13:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 3783,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make visual shader expression node input/outputs reordable",
+  "up": 0,
+  "updatedAt": "2022-01-11T15:53:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3783"
+}

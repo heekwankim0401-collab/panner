@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it was in the core since practically forever and removing it as of v4.5 was a bad idea. I understand making Linear colour accessible is important, but RAW should've been left in as an option in some manner in the Color Picker so as not to disrupt workflows.",
+    "format": "form",
+    "workaround": "Presently, the way to work around this is to manually convert RGB triplets from 0-255 into 0.0-1.0 RAW values or vice versa, which is not ideal and not something we had to do back in Godot v4.4."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-01T22:42:15Z",
+  "comments": 7,
+  "createdAt": "2025-09-29T18:25:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13302,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Reimplement \"RAW\" as a Color Picker Tab",
+  "up": 0,
+  "updatedAt": "2025-10-01T23:14:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13302"
+}

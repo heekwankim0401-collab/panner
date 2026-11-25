@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "MIDI is already a part of Godot Core, this is to improve the Linux implementation, and to get it at feature parity to macOS / Windows.",
+    "format": "form",
+    "workaround": "It's not possible to access ALSA sequencer features with a driver using ALSA raw."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-12-01T05:15:59Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:audio",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 5881,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move Linux MIDI driver (ALSA raw) to ALSA Seq",
+  "up": 1,
+  "updatedAt": "2025-01-20T00:18:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5881"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about adding a renderer to Godot, meaning that it can't be an addon",
+    "format": "form",
+    "workaround": "I'm sorry, but it will be used often as it's associated with Godot's core logic."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-24T15:07:26Z",
+  "comments": 3,
+  "createdAt": "2025-09-24T02:23:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13254,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "A possible DX11 driver after the DX12 driver for low end devices",
+  "up": 0,
+  "updatedAt": "2026-09-01T07:58:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13254"
+}

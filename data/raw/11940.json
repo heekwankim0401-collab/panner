@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "`InstancePlaceholder` is core feature, so easily forgotten.\nBut it's also very powerful and convenient, it just needs to be tad more user friendly.",
+    "format": "form",
+    "workaround": "Yes, but it's very opaque what is happening or inconvenient.\nA) Create custom node as parent to handle the necessary logic. This approach lacks editor view previews and \"open in editor\" button, it's lot of otherwise un-necessary work.\nB) Create custom node as child of the \"InstancePlaceholder\", this makes weird because user may expect the node be copied into the instanced node as well.\nC) Create custom node as sibling, this makes the hierarchy lot less clear."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-18T11:01:24Z",
+  "comments": 0,
+  "createdAt": "2025-03-07T14:29:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11940,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow adding a placeholder script to scenes loaded as InstancePlaceholders",
+  "up": 1,
+  "updatedAt": "2026-07-19T07:54:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11940"
+}

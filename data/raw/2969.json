@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Directional Shadows are Core and would require an addition directly to the Directional Lights.\n\nNotes:\n1) This is potentially significantly harder to implement than the Previous Proposal\n2) This would probably require other splits to work in a similar fashion for best visual results, which is unclear how doable it is with the splits, and would probably result in lower effective resolution of the splits because non Orthogonal shadows are essentially a group of rectangle shadow maps, and each would have to be cut in a radial fashion, which would render more shadow map pixels to be left unused.",
+    "format": "form",
+    "workaround": "Only by making shadows large enough for the camera angle change to not make a significant visible impact."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-20T20:17:11Z",
+  "comments": 6,
+  "createdAt": "2021-07-09T19:38:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2969,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make directional shadow fading use a circular radius instead of linear distance",
+  "up": 0,
+  "updatedAt": "2022-02-02T16:50:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2969"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because destruction and terrain deformation are core engine-level tasks that impact performance and physics calculations. A built-in solution ensures optimal integration, reliable physics, low-level optimizations, and consistency across projects. Asset libraries cannot achieve this level of engine-level optimization",
+    "format": "form",
+    "workaround": "No. Current workarounds require manually splitting meshes, handling physics for every fragment, updating the entire terrain, and optimizing draw calls manually. DestructibleArea3D centralizes this process, simplifies workflow, and ensures performance on low-end devices"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-17T00:07:12Z",
+  "comments": 11,
+  "createdAt": "2026-01-16T17:00:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 14021,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "DestructibleArea3D – High-performance localized destruction and terrain deformation for Godot",
+  "up": 0,
+  "updatedAt": "2026-01-18T09:36:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14021"
+}

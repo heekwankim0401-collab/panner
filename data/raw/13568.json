@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is conceptually another property of autowrap in `Label` and `RichTextLabel`, and would fit well underneath the other autowrap properties.",
+    "format": "form",
+    "workaround": "See the script used above."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-07T23:31:25Z",
+  "comments": 4,
+  "createdAt": "2025-11-03T14:17:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13568,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add `autowrap_maximum_width` to `Label` and `RichTextLabel`",
+  "up": 26,
+  "updatedAt": "2026-04-07T23:32:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13568"
+}

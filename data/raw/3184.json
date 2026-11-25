@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this essential is texture compression functionality.",
+    "format": "form",
+    "workaround": "no. it will require a tricky modification of the main texture array importer."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-16T13:23:36Z",
+  "comments": 0,
+  "createdAt": "2021-08-22T08:46:15Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 3184,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an import option to detect/force TextureArrays as normal maps for RGTC compression",
+  "up": 2,
+  "updatedAt": "2022-08-16T13:35:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3184"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-10-05T17:59:24Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7994,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enhance `Expression` features for more complex user scripting (Implement `FunctionExpression`)",
+  "up": 5,
+  "updatedAt": "2023-10-05T20:36:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7994"
+}

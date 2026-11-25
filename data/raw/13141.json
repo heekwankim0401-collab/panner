@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Modifications to GDScript like this must be done in core.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T14:38:19Z",
+  "comments": 4,
+  "createdAt": "2025-09-07T18:20:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13141,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Highlight specific code causing a warning in GDScript language server",
+  "up": 14,
+  "updatedAt": "2026-07-28T14:38:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13141"
+}

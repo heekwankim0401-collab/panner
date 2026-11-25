@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "StateMachine is core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 1,
+  "closedAt": "2023-01-19T21:45:58Z",
+  "comments": 0,
+  "createdAt": "2022-12-20T03:35:13Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 5964,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to restart or not at StateMachine transitions",
+  "up": 1,
+  "updatedAt": "2023-01-19T21:47:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5964"
+}

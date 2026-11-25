@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Every type of project could benefit, especially large ones that need more intense debugging.\n\nAnd all the necessary features are already in place to implement.",
+    "format": "form",
+    "workaround": "It can be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-03-24T00:10:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9367,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement clicking Output panel lines to open the script and line number the `print()` was called from",
+  "up": 14,
+  "updatedAt": "2024-03-26T22:32:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9367"
+}

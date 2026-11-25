@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Cannot be done with an add-on.",
+    "format": "form",
+    "workaround": "This can be worked around with a few lines of code, but it will not. Just watch any Godot 2D tutorial video from YouTube and there will be some variation of this:\n\n```gdscript\nsprite.flip_h = velocity.x > 0\n```\n\nI'm also _assuming_ that the performance cost of guarding a property change is higher when made with GDScript than when made in Sprite2D's setter.\n\nSo this enhancement would be beneficial in very many 2D games. Also, in my opinion it should be Node's responsibility to not to do unnecessary work if properties do not actually change."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-18T17:25:04Z",
+  "comments": 2,
+  "createdAt": "2023-11-24T10:22:13Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:2d"
+  ],
+  "milestone": "4.3",
+  "number": 8510,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add property change guards to Sprite2D",
+  "up": 7,
+  "updatedAt": "2023-12-18T17:27:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8510"
+}

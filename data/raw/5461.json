@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "yes",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-07T21:26:57Z",
+  "comments": 10,
+  "createdAt": "2022-09-19T23:20:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 5461,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "ScriptEditor: Show name of currently open script in top bar",
+  "up": 25,
+  "updatedAt": "2026-02-07T21:27:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5461"
+}

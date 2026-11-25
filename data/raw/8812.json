@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The scene tree editor's eyeball feature is already a part of the Godot editor.",
+    "format": "form",
+    "workaround": "No, this is behavior the scene tree editor's C++ code, this can't be modified by GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-25T17:33:44Z",
+  "comments": 3,
+  "createdAt": "2024-01-06T08:42:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 8812,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow node visibility to work with custom user-provided node types",
+  "up": 7,
+  "updatedAt": "2024-03-25T17:36:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8812"
+}

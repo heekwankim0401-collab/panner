@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The problem is the add-on asset library.",
+    "format": "form",
+    "workaround": "No. My current solution is to use Git Submodules. This usually involves [forking the addon to delete extra project files](https://github.com/SdgGames/gdUnit4), then [including my fork as a submodule in the addons folder](https://gitlab.com/20-games-in-30-days/godot-4-game-template/-/tree/main/addons?ref_type=heads).\n\nThis solution is tedious and requires me to manually keep my fork up to date with the addon's master project"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-09-29T22:08:23Z",
+  "down": 0,
+  "labels": [
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 7925,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Install an add-on manifest to allow downloading add-ons when opening a project",
+  "up": 36,
+  "updatedAt": "2024-03-26T22:48:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7925"
+}

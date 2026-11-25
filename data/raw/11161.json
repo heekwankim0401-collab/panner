@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would allow people to make the addons",
+    "format": "form",
+    "workaround": "The way to work aroudn this is to create your own selection method, which is what I'm going to use. But it is a very simple line since the code is done, I just need access to it."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-17T15:23:38Z",
+  "comments": 0,
+  "createdAt": "2024-11-15T11:17:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.4",
+  "number": 11161,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to access the GridMap editor's current selection",
+  "up": 0,
+  "updatedAt": "2024-12-17T15:23:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11161"
+}

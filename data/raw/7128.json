@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would ensure everything that uses float in the engine can be set to be deterministic",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-22T05:48:18Z",
+  "comments": 5,
+  "createdAt": "2023-06-21T04:41:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7128,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Project settings to use soft float and fixed point backends for float type",
+  "up": 0,
+  "updatedAt": "2024-05-11T13:19:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7128"
+}

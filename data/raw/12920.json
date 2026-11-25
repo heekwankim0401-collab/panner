@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As I understand it to have it work at a level. That's most useful, it likely have to be part of core, and not something added on top. But if I'm wrong, please clarify.",
+    "format": "form",
+    "workaround": "To avoid adding scripts to things with custom metadata setters/signals, And being able to take advantage of animated metadata keyframe changes from blender, I don't think there's an easy way to do this with just a plug-in or a simple script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-07T15:49:04Z",
+  "comments": 3,
+  "createdAt": "2025-08-02T17:07:13Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12920,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Emit a signal when Object metadata changes",
+  "up": 1,
+  "updatedAt": "2025-12-01T22:35:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12920"
+}

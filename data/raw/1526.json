@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It goes along with Godot's native translation support, and to me feels like it should be there for completeness. It also seems small (relatively speaking) for a full addon.",
+    "format": "legacy",
+    "workaround": "Yes, although since it isn't in the public API I'm concerned that it will change and break at some point.\n\nI tracked down the path remapping to [`ResourceLoader::_path_remap`](https://github.com/godotengine/godot/blob/d84954a2818e72a96deec1d027028e796f2930f3/core/io/resource_loader.cpp#L849), and so am using this right now (not that I've had a chance to test it yet):\n\n```cs\n        /// <summary>\n        /// Register an asset translation for the specified language.\n        /// TODO: Test\n        /// </summary>\n        /// <param name=\"lang\">The language code for the language.</param>\n        /// <param name=\"key\">The asset path for the asset before translation remapping.</param>\n        /// <param name=\"value\">The asset path for the translated asset.</param>\n        public static void RegisterAssetTranslation( string lang, string key, string value )\n        {\n            // Let's hope this doesn't break in later Godot releases!\n\n            var remaps = ( Godot.Collections.Dictionary ) ProjectSettings.GetSetting( \"locale/translation_remaps\" );\n            if ( !remaps.Contains( key ) )\n            {\n                remaps.Add( key, new string[] { $\"{value}:{lang}\" }  );\n                return;\n            }\n\n            List<string> langMaps = new List<string>( ( string[] ) remaps[ key ] );\n            langMaps.Add( $\"{value}:{lang}\" );\n            remaps[ key ] = langMaps.ToArray();\n        }\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-09-17T20:33:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 1526,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an API for registering localized resources programmatically",
+  "up": 2,
+  "updatedAt": "2025-02-11T14:33:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1526"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The core experience should be as clear as possible.",
+    "format": "markdown",
+    "workaround": "It will be used often. We see it all the time."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-20T23:16:59Z",
+  "comments": 1,
+  "createdAt": "2020-12-20T06:36:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2002,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Tweak the editor CheckButton appearance to clarify what's the \"on\" state",
+  "up": 5,
+  "updatedAt": "2020-12-21T00:48:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2002"
+}

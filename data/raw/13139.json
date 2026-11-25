@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should definitely be core. Keystore and key management aren’t optional extras when developing for Android. They’re a fundamental part of signing and publishing apps. If I’m using Godot to export to Android, I expect the same baseline functionality and capabilities that Android Studio or other standard toolchains provide. Having this only as an add-on would create unnecessary friction for developers who just want to sign their apps properly.",
+    "format": "form",
+    "workaround": "No, it can’t realistically be worked around with a script. Keystore handling is tied directly into the Android export pipeline, and developers can’t override that process from GDScript. Since exporting signed builds is a requirement for publishing on Google Play, this needs to be built into core rather than left to scripting hacks."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-09-07T16:19:08Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 13139,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Android Export: Separate keystore and alias passwords",
+  "up": 0,
+  "updatedAt": "2025-10-22T15:55:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13139"
+}

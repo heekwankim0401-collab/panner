@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This could help speed up people's workflow, and also automatically reduces the number of blank lines, which makes it easier to see more of the code on the screen at once.\n\nIf this was a built-in shortcut in the script editor, it would be even quicker/easier to do than using a tool node to handle this.",
+    "format": "legacy",
+    "workaround": "I think people would use this a lot. I certainly do."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-26T23:20:17Z",
+  "comments": 8,
+  "createdAt": "2020-06-11T14:09:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1035,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Declutter Script\" shortcut",
+  "up": 0,
+  "updatedAt": "2021-09-26T23:20:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1035"
+}

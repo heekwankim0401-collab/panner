@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would lead to less confusion and potential error for all users of the AnimationPlayer. Don't download anti-confusion medicine in the library, people!",
+    "format": "legacy",
+    "workaround": "Not that I would know."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-31T11:56:32Z",
+  "comments": 0,
+  "createdAt": "2019-12-07T18:43:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 289,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "AnimationPlayer track: track visualisation should also visualize Update Mode, Interpolation Mode or Easing",
+  "up": 2,
+  "updatedAt": "2021-03-31T13:59:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/289"
+}

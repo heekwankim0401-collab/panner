@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an enhancement to the Scene tab, a core component of Godot.",
+    "format": "form",
+    "workaround": "Wanting to get all the nodes of a custom type is a pretty common occurrence."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-27T17:08:39Z",
+  "comments": 3,
+  "createdAt": "2024-07-27T17:52:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 10291,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow filtering by custom type in Scene tab",
+  "up": 3,
+  "updatedAt": "2025-09-27T17:11:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10291"
+}

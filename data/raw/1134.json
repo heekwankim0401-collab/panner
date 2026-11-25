@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The CSG system is integrated in the engine.",
+    "format": "legacy",
+    "workaround": "I don't know, I think the node is limited."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-06-28T15:38:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1134,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "CSGPolygon: Add the ability to move points on the Z axis (depth)",
+  "up": 5,
+  "updatedAt": "2021-02-06T18:06:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1134"
+}

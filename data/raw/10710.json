@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Must be core, because it's a change to the github actions.",
+    "format": "form",
+    "workaround": "Yes. This is a small QOL feature for those testing the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-09-10T18:35:07Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10710,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add unique identifier (commit hash, PR number, or branch name) to CI artifacts",
+  "up": 1,
+  "updatedAt": "2024-09-11T06:05:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10710"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement should be part of the core engine because it addresses a common requirement for theming in modern user interfaces, especially for mobile applications where size optimization is critical. By integrating this feature into the core, Godot would offer a more powerful and flexible theming system, reducing the burden on developers and making the engine more appealing for mobile and theme-driven projects. As dynamic theming is a widely used feature in UI design, having this capability built into the engine would benefit a broad range of developers.",
+    "format": "form",
+    "workaround": "Yes"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-10T15:07:26Z",
+  "comments": 1,
+  "createdAt": "2024-08-19T03:33:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 10492,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add theme items to customize checkbox modulate colors",
+  "up": 2,
+  "updatedAt": "2025-03-10T15:13:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10492"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "doesn't make sense",
+    "format": "form",
+    "workaround": "used often"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-09T23:32:25Z",
+  "comments": 1,
+  "createdAt": "2023-07-09T19:15:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7252,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Focus the filter field when pressing `Ctrl + F` in the scene tree",
+  "up": 0,
+  "updatedAt": "2023-07-09T23:32:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7252"
+}

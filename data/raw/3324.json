@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Yes:\n\n```gdscript\nif OS.is_stdout_verbose():\n    print(\"...\")\n```\n\nHowever, consider that printing verbose statements is something that will be done often in more complex scripts. Having to add this `if` statement every time quickly becomes time-consuming after you've been doing it dozens of times, especially for print statements that you only leave around temporarily.\n\nThere is also `print_debug()` as an alternative, but this method prints a stack trace in debug builds, which makes it noisy. On top of that, it can't be temporarily disabled in debug builds."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-21T15:00:59Z",
+  "comments": 1,
+  "createdAt": "2021-09-20T17:18:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3324,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `print_verbose()` to the scripting API",
+  "up": 5,
+  "updatedAt": "2022-03-04T23:44:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3324"
+}

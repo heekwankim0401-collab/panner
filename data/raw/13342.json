@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should be part of the official documentation.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-07T13:26:13Z",
+  "comments": 9,
+  "createdAt": "2025-10-07T12:51:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:docs",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13342,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add information in the documentation about which types are shared.",
+  "up": 1,
+  "updatedAt": "2025-10-07T13:27:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13342"
+}

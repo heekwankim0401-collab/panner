@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No, this should work out of the box and should have been there from the very beginning when you even start thinking about working with tiles. I honestly don’t understand why it’s missing...",
+    "format": "form",
+    "workaround": "The workaround for this issue requires over 200 lines of code even for regular tiles, whereas a proper solution could be just ~10 lines. As for alternative tiles, handling them this way seems completely unrealistic."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-04-05T11:51:12Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 12159,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to access tile image data from a TileMap",
+  "up": 1,
+  "updatedAt": "2025-04-09T18:21:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12159"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Checking if an area is currently colliding or getting all current collisions is a behavior used commonly enough that it should be built in to the area node.\n\n(I know bodies entering/exiting areas are technically not collisions, so the language would need to be updated to be more accurate)",
+    "format": "form",
+    "workaround": "It would all be possible through a script, but it will be used often enough that making this behavior built in would be worth it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-25T20:37:42Z",
+  "comments": 2,
+  "createdAt": "2023-09-25T20:27:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7863,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way for areas to report current collisions or whether they are colliding",
+  "up": 0,
+  "updatedAt": "2023-09-25T21:25:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7863"
+}

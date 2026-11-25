@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Import code is already being owned by the built in openexr module, so have to modify the openxrr module.",
+    "format": "legacy",
+    "workaround": "Image modification is cpu intensive."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-27T06:01:35Z",
+  "comments": 2,
+  "createdAt": "2018-03-04T20:19:43Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 886,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement importing HDR images as tonemapped LDR (8-bit) images",
+  "up": 0,
+  "updatedAt": "2022-04-27T15:56:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/886"
+}

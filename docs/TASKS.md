@@ -39,9 +39,9 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
 
 - [ ] **T5 [사람+Claude] 첫 전체 수집과 실제 샘플**
     - 선행 조건: `data/state.json`이 있고 `total`이 10,000 이상. 아니면 사람에게 아래 순서를 안내하고 멈춘다. 모두 `GITHUB_TOKEN`을 설정한 터미널에서 하고, 1과 2는 T4에서 미룬 실제 확인이다.
-        1. `npx tsx local/check-15714.ts`(이 PC의 `local/`에만 있음) — `DUPLICATE`가 아니면 멈추고, Claude가 SPEC 4.1 쿼리를 `stateReason(enableDuplicate: true)`로 바꾼 뒤 진행한다. 전체 수집을 두 번 하지 않으려고 먼저 본다.
-        2. `npm run sync -- --limit 100`을 두 번 — `data/raw`에 100개가 생기고, 두 번째 실행은 "0 new, 0 changed", `state.json`은 생기지 않아야 한다.
-        3. `npm run sync`(전체 수집) 후 `data/` 커밋.
+        1. ~~`npx tsx local/check-15714.ts`(이 PC의 `local/`에만 있음) — `DUPLICATE`가 아니면 멈추고, Claude가 SPEC 4.1 쿼리를 `stateReason(enableDuplicate: true)`로 바꾼 뒤 진행한다.~~ 2026-11-26 완료: `DUPLICATE`로 온다.
+        2. ~~`npm run sync -- --limit 100`을 두 번 — `data/raw`에 100개가 생기고, 두 번째 실행은 "0 new, 0 changed", `state.json`은 생기지 않아야 한다.~~ 2026-11-26 완료: 쪽당 1점.
+        3. ~~`npm run sync`(전체 수집) 후 `data/` 커밋.~~ 2026-11-26 완료: 12,250개, 비용 245점.
     - Claude: 1의 `stateReason`과 2의 쪽당 cost를 `docs/DECISIONS.md`에 기록한다.
     - Claude: SPEC 7장의 상태 판정 함수를 `pipeline/score.ts`에 먼저 만들고 표의 모든 행을 테스트한다(T7은 이것을 그대로 쓴다).
     - Claude: 일회성 스크립트로 시기(SPEC 5장 표)별 × `format`별 개수, 상태(SPEC 7장)별 개수, **archived 라벨 없이 `NOT_PLANNED`로 닫힌 제안 수**를 `docs/DECISIONS.md`에 기록한다. 시기와 `format`이 어긋나는 제안이 많으면 원인을 적는다. `NOT_PLANNED`만으로 닫힌 제안이 많으면 사람에게 상태 판정을 다시 볼지 묻는다.

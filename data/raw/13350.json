@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The Project Manager cannot be modified by addons as far as I know.",
+    "format": "form",
+    "workaround": "It's a minor UX improvement that matches an already-existing behavior in the Project Manager."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-06T18:44:33Z",
+  "comments": 2,
+  "createdAt": "2025-10-10T03:56:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 13350,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display icon next to project version to indicate it will be upgraded if opened in Project Manager",
+  "up": 1,
+  "updatedAt": "2026-03-06T18:44:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13350"
+}

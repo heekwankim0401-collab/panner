@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It involves a modification to a built-in Control, and I'm not sure how the necessary modification could be made on the user side (see above).",
+    "format": "form",
+    "workaround": "I'm not aware of how this can be done with scripting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-06T01:08:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12377,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow LineEdit to prioritize trailing end of contents",
+  "up": 1,
+  "updatedAt": "2025-05-06T14:39:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12377"
+}

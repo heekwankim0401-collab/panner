@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "TabBar Improvement.",
+    "format": "form",
+    "workaround": "No, there's no option to set `max_tab_width` for individual tabs."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-15T11:50:09Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13004,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add clip texts to TabBar",
+  "up": 1,
+  "updatedAt": "2026-02-06T13:13:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13004"
+}

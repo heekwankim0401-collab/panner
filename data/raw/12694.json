@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above\n\nEDIT: put more emphasis on scrubbing the timeline and it \"just working\"",
+    "format": "form",
+    "workaround": "There are solutions to scrub grpoups of particles, but I am pretty convinced that if we do that, there will be a moment where the vfx \"internal timeline\" will be so feature complete that will try to compete with the animation player. I think they should be one and an integrated system, allowing also more flexibility to the user in case they want to animate meshes with blendshapes together with their vfx."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-06-29T19:11:22Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 12694,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add particle animation track",
+  "up": 7,
+  "updatedAt": "2025-07-09T08:26:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12694"
+}

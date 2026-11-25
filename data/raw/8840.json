@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The shading language parser is part of Godot core.",
+    "format": "form",
+    "workaround": "This can not be worked around with script, because it's part of the shading language parser: https://github.com/godotengine/godot/blob/84e205b5a17bfe7ace96b78c410ec10aa52241d2/servers/rendering/shader_language.cpp#L5739-L5743"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2024-01-09T09:35:57Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8840,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Shaders: Allow trailing commas in function calls",
+  "up": 5,
+  "updatedAt": "2024-01-12T11:51:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8840"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "**Is there a reason why this should be core and not an add-on in the asset library?**\n\nWhile this feature could technically be implemented as an add-on, there are compelling reasons to include it in core:\n\n1. **Standardization and consistency**  \n   A core renderer for structured output ensures consistent behavior across projects. If every developer has to build or install a separate parser, it fragments the ecosystem and increases onboarding friction—especially for educators and solo developers.\n\n2. **Alignment with Godot’s philosophy**  \n   Godot emphasizes modularity, clarity, and empowering users. A native bridge between structured data and UI rendering fits this philosophy perfectly. It’s not just about AI—it’s about making Godot more adaptable to external data sources, procedural content, and dynamic interfaces.\n\n3. **Future-proofing for AI integration**  \n   As AI tools become more common in game development, having a built-in way to render structured output (from LLMs, procedural generators, or external systems) will be increasingly valuable. This feature lays the groundwork for future integrations—like intelligent NPCs, AI-generated tutorials, or in-editor assistants.\n\n4. **Low overhead, high impact**  \n   The feature can be implemented as a lightweight utility class or node, without adding significant complexity to the engine. Yet it unlocks powerful workflows and reduces friction for a growing segment of developers.\n\n5. **Cross-domain utility**  \n   Even outside AI, structured rendering is useful for:\n   - Dialogue systems\n   - Devlogs and tutorials\n   - Procedural UI generation\n   - Educational apps\n\nIn short, this feature is small enough to be core, but foundational enough to matter.",
+    "format": "form",
+    "workaround": "Yes, this enhancement can technically be worked around with a few lines of script—but only for very simple use cases. For example, converting a small set of known JSON block types into BBCode can be done with a basic loop in GDScript:\n\n```gdscript\nfunc render_blocks(blocks: Array) -> String:\n    var output := \"\"\n    for block in blocks:\n        match block.type:\n            \"label\":\n                output += \"[b]%s[/b]\\n\" % block.content\n            \"code_block\":\n                output += \"[code]%s[/code]\\n\" % block.content\n            \"mono\":\n                output += \"[mono]%s[/mono]\\n\" % block.content\n            \"text\":\n                output += \"%s\\n\" % block.content\n    return output\n```\n\nHowever, this workaround becomes fragile and hard to maintain as complexity grows. It doesn’t support nested structures, dynamic styling, or future block types. It also requires every developer to reinvent the same logic, which undermines modularity and consistency.\n\nA native solution would:\n- Provide a standardized, extensible way to render structured content\n- Reduce duplication across projects\n- Enable more advanced AI integrations (e.g., dynamic UI, intelligent NPCs, procedural tutorials)\n\nSo while a workaround exists, it’s not scalable or resilient—especially for developers building AI-assisted tools, games, or educational apps in Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-27T11:02:11Z",
+  "comments": 17,
+  "createdAt": "2025-10-25T02:17:26Z",
+  "down": 23,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13467,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Integrating LLM Output into Godot with Structured Rendering",
+  "up": 0,
+  "updatedAt": "2025-10-27T11:04:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13467"
+}

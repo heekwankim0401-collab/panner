@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is not possible to implement in an add-on due to the missing synchronous hooks on the scene tree for nodes being added.",
+    "format": "form",
+    "workaround": "No, the only way to work around this is by adding a significant amount of boilerplate code for complex projects, such as:\n\n```gdscript\n@onready var logger = Logger.get_service(self)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-01-10T09:36:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8850,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Synchronous tree notification on child change",
+  "up": 3,
+  "updatedAt": "2024-04-15T17:32:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8850"
+}

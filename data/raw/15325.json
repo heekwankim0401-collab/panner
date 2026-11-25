@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": "2026-09-22T19:09:51Z",
+  "comments": 0,
+  "createdAt": "2026-08-05T07:57:10Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:gui",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 15325,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add touch support to TabBar",
+  "up": 5,
+  "updatedAt": "2026-09-22T19:09:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15325"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It about an existing core feature which usefulness is halved without this improvement.",
+    "format": "form",
+    "workaround": "It's easy to write scripts that will allow this behavior while the project is running, but simple tool scripts don't work with inputs, and EditorPlugins are on a completely different level of complexity and challenge. The \"Preview\" property also does not seem to be exposed anywhere."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-15T14:15:35Z",
+  "comments": 17,
+  "createdAt": "2021-09-14T22:44:59Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 3297,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to control the Camera 3D in \"Preview\" mode",
+  "up": 26,
+  "updatedAt": "2026-03-15T14:15:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3297"
+}

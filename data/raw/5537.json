@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's impossible to grab any node and know it's ready in a script without having to keep track of all the nodes in your project.",
+    "format": "form",
+    "workaround": "It could be possibly worked around with around 150 or 300 lines of code. However this can be costly for performance especially when you use a lot of setter and getters, and call any setter or getter a lot of times."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-11T00:59:57Z",
+  "comments": 9,
+  "createdAt": "2022-10-04T07:50:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.1",
+  "number": 5537,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ready property (boolean) to nodes",
+  "up": 0,
+  "updatedAt": "2023-05-11T01:00:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5537"
+}

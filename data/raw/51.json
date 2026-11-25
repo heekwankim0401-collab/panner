@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Will help clasify the list of animations and speed up the workflow.",
+    "format": "legacy",
+    "workaround": "A right click command to clone a keyframe in all the same tag of animations will be a saviour for 2D action games or other types of games with dozens of animations."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-30T16:15:01Z",
+  "comments": 2,
+  "createdAt": "2019-09-09T02:06:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 51,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add animation groups to the animation Player",
+  "up": 12,
+  "updatedAt": "2022-06-30T16:15:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/51"
+}

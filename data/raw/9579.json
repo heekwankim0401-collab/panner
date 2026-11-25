@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same as above.",
+    "format": "form",
+    "workaround": "There's no public API for this feature. Hacking into the editor interface could probably work, but may need to work around lots of edge cases and still need to add several signals."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-08T12:36:27Z",
+  "comments": 0,
+  "createdAt": "2024-04-23T05:47:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9579,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow setting editor dock tabs to icon only",
+  "up": 17,
+  "updatedAt": "2024-05-08T12:37:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9579"
+}

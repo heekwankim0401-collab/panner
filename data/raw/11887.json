@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Core import functionality",
+    "format": "form",
+    "workaround": "Not sure if possible with an `Import Script`, but the feature is simple to add and has basically no maintenance burden."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-03-01T22:27:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 11887,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Blender: choice of animation mode for glTF export (add \"NLA Tracks\", keep default \"Actions\")",
+  "up": 4,
+  "updatedAt": "2026-11-17T03:03:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11887"
+}

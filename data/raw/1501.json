@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In my opinion, it's essentially a no-brainer to include these tags to drive engagement. This should be an easy and effective way to aid the visibility of Godot and its games.\n\nAs someone relatively new to open source contributions, I think this is within my ability to take a shot.\n\n*Bugsquad edit (keywords for easier searching): OpenGraph, SEO*",
+    "format": "legacy",
+    "workaround": "This enhancement should be very useful for those who export to the web."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-09-13T19:14:00Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1501,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use social media (Open Graph) meta tags in HTML5 exports",
+  "up": 5,
+  "updatedAt": "2021-01-31T00:32:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1501"
+}

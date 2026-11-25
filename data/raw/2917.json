@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Source code versioning is an integral part of game development, and improving compatibility with it could improve the engine's utility in larger teams.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-24T21:54:12Z",
+  "comments": 1,
+  "createdAt": "2021-06-24T21:49:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2917,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace numeric resource IDs in .tscn files",
+  "up": 0,
+  "updatedAt": "2021-06-24T21:54:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2917"
+}

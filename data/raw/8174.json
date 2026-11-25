@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think everyone would appreciate this",
+    "format": "form",
+    "workaround": "Can be worked around by setting up input actions for the keys, but setting up an input action for every debug control is a pain, and often these controls are temporary and removed before building."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-17T04:32:59Z",
+  "comments": 3,
+  "createdAt": "2023-10-17T21:41:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 8174,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Input.is_key_label_just_pressed()",
+  "up": 0,
+  "updatedAt": "2026-04-17T22:12:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8174"
+}

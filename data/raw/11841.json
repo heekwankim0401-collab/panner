@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "POT generator [can't be customized](https://github.com/godotengine/godot-proposals/issues/10139#issuecomment-2676425122).",
+    "format": "form",
+    "workaround": "I'm customizing the POT file anyway, so for me it's a single line. But I don't think most people will have elaborate scripts for post-processing translations."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-15T14:32:22Z",
+  "comments": 6,
+  "createdAt": "2025-02-24T21:09:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 11841,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to skip strings in scene by POT generator",
+  "up": 0,
+  "updatedAt": "2025-10-15T14:32:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11841"
+}

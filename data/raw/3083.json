@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No. Given how this interacts with low-level functionality and performance is paramount, I don't think this can be implemented with GDNative either."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-21T12:24:15Z",
+  "comments": 23,
+  "createdAt": "2021-08-03T16:33:29Z",
+  "down": 3,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3083,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a built-in video + audio recording tool for creating game trailers and troubleshooting",
+  "up": 25,
+  "updatedAt": "2024-04-19T14:28:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3083"
+}

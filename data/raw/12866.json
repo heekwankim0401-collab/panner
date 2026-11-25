@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the edit/run cycle experience, making runtime debugging easier.",
+    "format": "form",
+    "workaround": "Not really. By attaching a script as an autoload, you can change the debug draw mode on startup:\n\n```gdscript\nextends Node\n\n\nfunc _ready() -> void:\n\tget_viewport().debug_draw = Viewport.DEBUG_DRAW_MOTION_VECTORS\n```\n\nHowever, a full-fledged solution with runtime choices for any debug draw mode will be far more involved in terms of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-25T19:40:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12866,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add debug draw mode controls to the embedded game window",
+  "up": 5,
+  "updatedAt": "2025-07-31T22:55:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12866"
+}

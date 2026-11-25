@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Low level feature.",
+    "format": "legacy",
+    "workaround": "Low level feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-10-02T07:28:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1593,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add callbacks to `Main::setup()` / `Main::start()` / `Main::cleanup()`, so to allow much freedom to modules.",
+  "up": 11,
+  "updatedAt": "2021-07-05T12:59:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1593"
+}

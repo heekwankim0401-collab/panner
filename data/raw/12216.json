@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a minor accessibility upgrade for left handed people, but I assume fairly niche and many left handed users are likely used to switching left and right when talking about mouse buttons. I felt like it's worth bringing up still.",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2025-04-11T13:28:09Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12216,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename Left and Right mouse button to Primary/Left and Secondary/Right in Input Map",
+  "up": 1,
+  "updatedAt": "2025-04-15T16:05:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12216"
+}

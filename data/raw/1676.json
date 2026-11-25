@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Optional parameters are a valuable feature of modern languages and a time-saver. Otherwise, you have to resort to using dictionaries and other methods which will be more complex to implement and hinder performance in the same way.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-16T17:19:37Z",
+  "comments": 1,
+  "createdAt": "2020-10-16T14:21:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1676,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow skipping of default parameters using named parameters or empty parameters (like C#)",
+  "up": 0,
+  "updatedAt": "2020-10-16T17:19:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1676"
+}

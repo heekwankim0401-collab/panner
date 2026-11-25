@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The border feature of StyleBoxFlat is core, and this will be used by the editor and the default theme.",
+    "format": "form",
+    "workaround": "You can write a shader for this, but shaders have to be applied to the entire node and can't be applied only to the stylebox."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-10T16:06:23Z",
+  "comments": 1,
+  "createdAt": "2022-04-01T19:40:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4329,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a flat (non-rounded) border style to StyleBoxFlat",
+  "up": 16,
+  "updatedAt": "2022-09-10T19:55:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4329"
+}

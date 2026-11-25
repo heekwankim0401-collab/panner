@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A quality of life feature, we already have the ability to change the tile grid color for example.",
+    "format": "form",
+    "workaround": "A editor script may be a possibility but I am unfamiliar with this part of the engine and don't have experience in writing such scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-06-02T12:15:04Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9870,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add tile editor background settings",
+  "up": 2,
+  "updatedAt": "2025-02-17T16:23:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9870"
+}

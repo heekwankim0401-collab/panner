@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "it will simplify a process for developers.\nI am not sure if it will be available through lines of script.\nbut overall it can get ignored from the engine as we can just install android studio ourselves."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-24T23:15:33Z",
+  "comments": 10,
+  "createdAt": "2022-04-05T17:01:29Z",
+  "down": 1,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.8",
+  "number": 4351,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a dialog to download the Android SDK from the editor",
+  "up": 0,
+  "updatedAt": "2026-08-24T23:16:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4351"
+}

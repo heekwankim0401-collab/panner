@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "I'm pretty sure it can be worked around with a editor plugin but its not really practical and should be core."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-21T17:30:16Z",
+  "comments": 0,
+  "createdAt": "2025-06-28T20:02:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.8",
+  "number": 12688,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add indentation conversion shortcuts to the shader editor",
+  "up": 1,
+  "updatedAt": "2026-07-21T17:30:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12688"
+}

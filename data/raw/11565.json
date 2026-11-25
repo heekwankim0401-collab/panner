@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The functionality itself won't be in the core. But we need some kind of announcement letting people know. Otherwise they may flood into github issue or reddit complaining about this :)",
+    "format": "form",
+    "workaround": "This functionality is quite simple, but handling cross-platform compatibility and other edge cases can be very tricky. Therefore, it's best to have a centralized repository where everyone can collaborate to resolve bugs. Additionally, considering that the primary audience for this feature consists of people who either can't or don't want to code, it would be ideal to provide a precompiled binary and a highly simplified installation process."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2025-01-15T11:47:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11565,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide and document the solution to deal with `.uid` file movements in external editors",
+  "up": 7,
+  "updatedAt": "2026-10-29T12:52:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11565"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this is the way users expect the RichTextLabel to handle images.",
+    "format": "legacy",
+    "workaround": "The problem can be reduced by changing the font top and bottom extra_spacing. But this may not work if there are images of different sizes.\n![example_extra_spacing](https://user-images.githubusercontent.com/33575693/76662586-afec3900-657e-11ea-97d2-2d7d336941a6.png)\nEdit: This only works in the editor and doesn't work at runtime so it doesn't solve the problem."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-01T13:03:39Z",
+  "comments": 10,
+  "createdAt": "2020-03-13T23:17:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 582,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add vertical alignment for [img] in RichTextLabel",
+  "up": 9,
+  "updatedAt": "2023-06-24T17:24:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/582"
+}

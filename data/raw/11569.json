@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "9-slices are present in a vast variety of games, most notably (but not limited to) pixel art games. It's a core part of the engine already, I merely propose a new setting to make it more flexible.",
+    "format": "form",
+    "workaround": "Maybe, but not easily."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-01-15T14:53:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11569,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Pixels per Unit property to NinePathRect and TextureStyleBox",
+  "up": 7,
+  "updatedAt": "2025-06-03T12:16:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11569"
+}

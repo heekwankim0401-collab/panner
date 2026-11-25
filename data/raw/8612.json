@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of GDScript.",
+    "format": "form",
+    "workaround": "It would likely be used very often, and while it *can* be worked around with a small wrapper function, it's not as clean and it doesn't scale as well."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2023-12-08T07:20:50Z",
+  "down": 4,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8612,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement setters and getters for Dictionary values",
+  "up": 3,
+  "updatedAt": "2023-12-09T10:05:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8612"
+}

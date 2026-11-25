@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDScript language related",
+    "format": "markdown",
+    "workaround": "Not possible now"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-03T21:42:12Z",
+  "comments": 2,
+  "createdAt": "2021-02-03T19:27:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2235,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow using static and \"global\" functions when defining constants",
+  "up": 0,
+  "updatedAt": "2021-02-03T22:01:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2235"
+}

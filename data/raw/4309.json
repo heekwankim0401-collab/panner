@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This will require changes right in the TreeItem and Tree functions, so I don't think it's possible to implement this functionality with an add-on.\n\nThere are two other propsals which I would consider related to this one:\nhttps://github.com/godotengine/godot-proposals/issues/2088\nhttps://github.com/godotengine/godot-proposals/issues/3607\nThe first is probably closer but doesn't actually cover this specific functionality I would like here.\n\nI also think this should be in the core as it will allow for the concept of \"filterable trees\" to be implemented quickly and easily (as part of my testing I have loaded in a subset of the English dictionary and have a simple search bar at the top to filter by words. This however could be changed to filter by metadata or anything else associated with the row.",
+    "format": "form",
+    "workaround": "As far as I could find, there isn't really a good work around for this (especially in godot 3).\nIn Godot 4 the new functionality to move a TreeItem from one Tree to another could be kind of made to work, but again, it is probably slower than this and also will make it hard to keep the tree in order when filtering it.\nCertainly not \"a few lines of script\"."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-24T08:53:41Z",
+  "comments": 3,
+  "createdAt": "2022-03-30T15:20:09Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 4309,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add functionality to toggle visibility of TreeItems within a Tree",
+  "up": 4,
+  "updatedAt": "2022-05-24T08:54:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4309"
+}

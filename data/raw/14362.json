@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-02-28T23:57:37Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14362,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `get_ascii_string(length)` and `get_utf8_string(length)` methods to FileAccess",
+  "up": 0,
+  "updatedAt": "2026-03-02T18:58:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14362"
+}

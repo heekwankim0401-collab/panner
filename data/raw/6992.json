@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's possible to turn the alternative A into an add-on, and if somebody makes one that's not too hard to integrate, I'll use it.\n\nIt will probably need at least one script to place on every focusable control parent though. And because it would be generic and not aware of project specifics, it would need to handle various situations:\n- if children are not ordered in the tree as they are spatially (e.g. from left to right), should we consider the geometrical order or the tree order to cycle?\n- if focusable controls are on grandchildren, how do we handle them? (it's my case in my game)",
+    "format": "form",
+    "workaround": "Yes, this is alternative A, by setting Neighbors manually in inspector or by code. However you need to do this for every instance, possibly adding a script on each buttons (or other focusable) parent."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-31T17:47:19Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6992,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "UI: add option to cycle directional Control navigation (focus)",
+  "up": 2,
+  "updatedAt": "2023-05-31T20:28:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6992"
+}

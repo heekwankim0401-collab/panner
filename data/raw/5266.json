@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "Rendering is core"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-13T22:14:03Z",
+  "comments": 3,
+  "createdAt": "2022-08-26T11:41:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5266,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option for HDRs to cast shadows in LightmapGI",
+  "up": 1,
+  "updatedAt": "2023-07-13T22:14:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5266"
+}

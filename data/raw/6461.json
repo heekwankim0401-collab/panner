@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It must be a core feature of the shading language, it is impossible to do as an add-on.",
+    "format": "form",
+    "workaround": "I don't know how the shading backend works in Godot, so I can't say. I can try to implement it myself if directions are given."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-08T16:02:07Z",
+  "comments": 2,
+  "createdAt": "2023-03-09T03:03:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6461,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement function overloading on shaders",
+  "up": 4,
+  "updatedAt": "2023-05-08T16:02:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6461"
+}

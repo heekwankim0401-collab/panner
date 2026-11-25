@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "maybe someone could make an asset converter between visual script and GDscript, but I think it won't be working the right way because it isn't done directly in the engine.",
+    "format": "form",
+    "workaround": "No, I don't think a few lines of script could implement this :)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T15:54:33Z",
+  "comments": 7,
+  "createdAt": "2022-03-30T21:49:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 4312,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a GDScript <-> VisualScript converter",
+  "up": 4,
+  "updatedAt": "2022-08-24T15:55:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4312"
+}

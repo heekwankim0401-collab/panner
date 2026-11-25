@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this hardly could be done as an addon properly.",
+    "format": "markdown",
+    "workaround": "Yes, you can pass any signals arguments, including any node, with a script, but sometimes this is inconvenient and leads to cluttering of the project with script files."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-26T22:10:28Z",
+  "comments": 1,
+  "createdAt": "2021-02-26T03:53:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2360,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Node extra call argument in signal connection dialog",
+  "up": 4,
+  "updatedAt": "2021-03-26T22:30:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2360"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Very small feature for an add-on",
+    "format": "legacy",
+    "workaround": "It's just a click"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-25T20:59:31Z",
+  "comments": 2,
+  "createdAt": "2019-11-12T11:56:58Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 225,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Set CanvasItem as default mode for 2D nodes when creating shaders",
+  "up": 7,
+  "updatedAt": "2021-10-25T20:59:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/225"
+}

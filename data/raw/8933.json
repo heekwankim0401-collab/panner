@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the code editor and making it very convenient to use. This one should be core because it would be used so often by so many. We all know Google is our friend, for all of our programming journeys, and by Google, I also mean Bing or any other search engine you have set by default. It's just that there's an option to do research more conveniently.\n\nHere are the steps ***without*** this feature:\n1. Select a word you don't know what it does\n2. Copy\n3. if you don't have the browser open, open it\n4. switch windows (open a new tab if you don't want to lose the current one)\n5. paste it on the search bar\n6. enter\n\nHere are the steps ***with*** this feature:\n1. Select a word you don't know what it does\n2. right-click\n3. Search with Google",
+    "format": "form",
+    "workaround": "This definitely can be added as a plugin, but I know this would be used quite often for it not to be core."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-06T17:38:08Z",
+  "comments": 9,
+  "createdAt": "2024-01-22T02:00:25Z",
+  "down": 15,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8933,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Search with Google\" to the right click context menu when selecting text",
+  "up": 1,
+  "updatedAt": "2024-05-06T17:38:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8933"
+}

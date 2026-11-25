@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "2 main reasons. First being I think there are more use cases where we would want the meshes to rotate about individual origins. One example that comes to mind is coins that rotate in place. You wouldn't want all the coins to rotate about one particular coin. and 2. the work around for if this was the default behavior is much easier to overcome than overcoming its current behavior; you just make it the child of a spatial node then that rotates all the other meshes.",
+    "format": "markdown",
+    "workaround": "currently the work around is to use a vertex shader and feed in a quaternion or possibly rigging the mesh to a bone and manipulating the bone."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-26T23:05:52Z",
+  "comments": 3,
+  "createdAt": "2021-05-07T01:32:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2693,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Multimesh rotation about individual origins",
+  "up": 0,
+  "updatedAt": "2021-05-26T23:23:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2693"
+}

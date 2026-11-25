@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "ES 2.0 support is here to stay, and forms a core part of Godot's mobile offering (along with Vulkan when ES 3 support is eventually dropped). Working with textures is an integral part of any game engine, and to me it makes sense to have equal texture support on all target platforms.\n\nIt is not clear to me how many mobile games are being developed in Godot at the moment - though we clearly have aspirations of increasing that number, and better support is needed if we are to continue to do that. \n\nAs a reference point, Unity decided to implement this as a core part of their offering.",
+    "format": "legacy",
+    "workaround": "You could manually extract an alpha channel from your images (there are tools to do this), and apply a shader to every texture to implement the channel. It would be pretty unfriendly to manage this (and a massive pain to re-extract the alpha channels on any image change). It's a nasty combination of more code and more tooling."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-05-11T13:48:51Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 822,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add alpha support for ETC1 textures",
+  "up": 0,
+  "updatedAt": "2021-11-03T17:05:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/822"
+}

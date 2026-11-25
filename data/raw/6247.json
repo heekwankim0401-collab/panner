@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't be an addon.",
+    "format": "form",
+    "workaround": "Every game needs this. But yes, it can be worked around, although the current solutions are not perfect."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-02-07T02:19:35Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6247,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to customize Window parameters before it first appears",
+  "up": 37,
+  "updatedAt": "2024-08-16T06:29:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6247"
+}

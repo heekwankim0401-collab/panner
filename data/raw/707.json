@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If this feather implemented in core, it will be so convient to manager node when many node can change there parent without data copy to keep state.\nIt's also one convient way to check node memory leak.",
+    "format": "legacy",
+    "workaround": "Not so easy."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-04-14T16:36:38Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 707,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add a Node destructor callback function",
+  "up": 1,
+  "updatedAt": "2025-07-14T20:40:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/707"
+}

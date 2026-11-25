@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves usability of the particle system out of the box",
+    "format": "form",
+    "workaround": "As mentioned above, this can be worked around with a plugin, should be in engine as it's a basic functionality"
+  },
+  "assignees": 1,
+  "closedAt": "2025-03-11T19:14:16Z",
+  "comments": 4,
+  "createdAt": "2023-09-23T18:28:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:particles"
+  ],
+  "milestone": "4.5",
+  "number": 7826,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add particle system emission shape gizmos",
+  "up": 65,
+  "updatedAt": "2025-03-11T19:16:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7826"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Is Core",
+    "format": "form",
+    "workaround": "Is core"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-01T09:42:42Z",
+  "comments": 9,
+  "createdAt": "2021-06-17T11:49:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 2875,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow shortcuts to have more than one input event assigned to them",
+  "up": 1,
+  "updatedAt": "2021-10-01T09:42:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2875"
+}

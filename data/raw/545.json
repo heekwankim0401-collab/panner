@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it can be included on the proyect settings.",
+    "format": "legacy",
+    "workaround": "Actually I must \"hack\" (turn 180 degree) to get the the same forward direction from look_at that from the rest of functions on the FPS game.\nAfter look_at:\nrotate_object_local(Vector3(0,1,0), PI)\nOr I need to convert to negative value the returning of global_transform.basis.z.normalized()\nBut the problem does not end there, I need all the 3D objects rotated accordly. If not I must export all already rotated.\nSo, defining from the start what value of Z is forward will be better."
+  },
+  "assignees": 0,
+  "closedAt": "2020-03-05T08:42:19Z",
+  "comments": 5,
+  "createdAt": "2020-03-02T23:09:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 545,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Config option to forward direction as Z positive",
+  "up": 0,
+  "updatedAt": "2023-09-14T09:22:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/545"
+}

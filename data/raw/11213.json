@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "VisualShader is core",
+    "format": "form",
+    "workaround": "This will be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-11-22T07:05:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11213,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "VisualShader: Add ability to close \"Create Shader Node\" window by clicking on anywhere on screen",
+  "up": 8,
+  "updatedAt": "2026-04-13T20:21:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11213"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AnimatedSprite and AnimatedSprite3D are core classes.",
+    "format": "form",
+    "workaround": "Yes. One simple, scalable way to do it requires appending this Script to a given AnimatedSprite:\n```GDScript\n# Godot 3.x\nextends AnimatedSprite\n\nfunc set_animation(_anim: String):\n    var previous_animation = animation\n    var previous_frame = frame\n    super(_anim)\n    if animation != previous_animation:\n         if frame == previous_frame: # Means frame_changed hasn't been called by set_frame() already\n              emit_signal(\"frame_changed\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-11T10:57:55Z",
+  "comments": 2,
+  "createdAt": "2022-08-10T14:47:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 5137,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Emit `AnimatedSprite.frame_changed` when switching animation, NOT just on `frame` index change",
+  "up": 0,
+  "updatedAt": "2022-08-11T11:11:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5137"
+}

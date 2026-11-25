@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it is a feature that I expect to be used by many add-ons in the asset library : by add-ons proposing editor plugins (EditorPlugin subclasses).",
+    "format": "form",
+    "workaround": "well depending on what \"a few lines\" means, here is an example with a moderate number of lines:\n```gdscript\nvar current_scene_root = null\n\nfunc is_node1_and_ancestor_of_node(node1: Node, node: Node) -> bool:\n    for child in node1.get_children():\n        if child.get_instance_id() == node.get_instance_id():\n            return true\n        else:\n            if is_node1_and_ancestor_of_node(child, node):\n                return true\n    return false\n\nfunc is_node_in_scene(node: Node) -> bool:\n    if null != current_scene_root:\n        return is_node1_and_ancestor_of_node(current_scene_root, node)\n    else:\n        return false\n\nfunc _on_node_added(node: Node) -> void:\n    # Test if current_scene_root is an ancestor of node\n    if not is_node_in_scene(node):\n        return\n    else:\n        _on_node_added_in_edited_scene(node)\n\nfunc _on_scene_changed(scene: Node) -> void:\n    if null != current_scene_root:\n        current_scene_root = null\n    var scene_tree = get_tree()\n    if scene_tree:\n        var scene_root = scene_tree.edited_scene_root\n        current_scene_root = scene_root\n        if scene_root:\n            scene_tree.node_added.connect(_on_node_added)\n\nfunc _enter_tree():\n    #connect signal scene_changed to _detect_node_added\n    scene_changed.connect(_on_scene_changed)\n\n#custom logic\nfunc _on_node_added_in_edited_scene(node: Node) -> void:\n    pass\n```\n\nThat is the basis of the feature, if one wants to avoid nodes when they are loading but only react on nodes manually added by the user through the editor it requires a bit more works, since the state of the scene when it was loaded from file is to be recorded, to only fire the custom logic on nodes that were not already in the scene.\nThe feature looks to me to respond to a common need, so I expect the enhancement to be used a lot, but only user votes will solve that debate.\nWhat I find not at all obvious from the documentation is the difference between the edited scene and the whole scene (being the editor) a"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-27T11:26:32Z",
+  "comments": 4,
+  "createdAt": "2024-08-27T09:54:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10569,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a node_added_on_edited_scene signal to EditorPlugin",
+  "up": 0,
+  "updatedAt": "2024-08-27T11:37:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10569"
+}

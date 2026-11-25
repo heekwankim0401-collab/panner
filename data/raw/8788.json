@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core behavior",
+    "format": "form",
+    "workaround": "In order to access the notifcation in the root window, one has to create a GDScript, that add a GDScript to the root node, that listens to notifications. A demo project of how to do that is available in https://github.com/godotengine/godot/issues/79336#issuecomment-1631627181."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-01-03T20:34:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8788,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Notify users about window size changes",
+  "up": 18,
+  "updatedAt": "2025-03-08T13:46:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8788"
+}

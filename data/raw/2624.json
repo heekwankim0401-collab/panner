@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It nicely complements `draw_texture()`.",
+    "format": "markdown",
+    "workaround": "It can be worked around, but workaround is inconvenient and contains non-obvious math. No one likes math."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-04-20T14:04:45Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2624,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide an easy way to draw rotated 2D texture",
+  "up": 12,
+  "updatedAt": "2026-09-08T17:17:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2624"
+}

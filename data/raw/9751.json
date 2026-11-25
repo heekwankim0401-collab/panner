@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I guess this could be done in an add-on, but it would be quite massive and fundamentally change a lot about the editor.  So much would be reliant on the base editor implementation that any update to the engine would probably wreck the add-on.",
+    "format": "form",
+    "workaround": "This is part of the editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-05-16T03:40:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9751,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move 2D/3D/Script Editor Selection to Per-Viewport",
+  "up": 3,
+  "updatedAt": "2025-06-01T19:04:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9751"
+}

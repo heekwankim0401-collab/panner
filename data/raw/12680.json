@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Core",
+    "format": "form",
+    "workaround": "Nope"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-27T16:40:57Z",
+  "comments": 2,
+  "createdAt": "2025-06-27T14:25:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12680,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow use resources (materials, meshes, textures, animations, etc) from .gltf files without extracting them.",
+  "up": 0,
+  "updatedAt": "2025-06-27T17:07:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12680"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-12-16T14:12:24Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11363,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move all 3D non viewport layout menu options from the view menu to the perspective menu",
+  "up": 0,
+  "updatedAt": "2024-12-16T14:20:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11363"
+}

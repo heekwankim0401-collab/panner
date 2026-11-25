@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because making animations unique by 1 click should improve the usability of the editor, and, as far as I know, there's no way to make such plugin (I never worked with editor plugins, correct me if I'm wrong)",
+    "format": "form",
+    "workaround": "This can be done with these lines of code:\n```\nfor anim_lib_nm in get_animation_library_list():\n\tfor anim_nm in get_animation_library(anim_lib_nm).get_animation_list():\n\t\tvar animation := get_animation_library(anim_lib_nm).get_animation(anim_nm).duplicate()\n\t\tget_animation_library(anim_lib_nm).remove_animation(anim_nm)\n\t\tget_animation_library(anim_lib_nm).add_animation(anim_nm, animation)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-09-16T18:38:48Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10761,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "`AnimationPlayer` don't have a way to make the animations unique",
+  "up": 0,
+  "updatedAt": "2026-04-24T14:28:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10761"
+}

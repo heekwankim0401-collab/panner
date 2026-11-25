@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Performance. If not core it probably can also be implemented as a native c++ module.",
+    "format": "form",
+    "workaround": "A gdscript implementation would not be as performant as a native c++ implementation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-12-20T20:25:24Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3704,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Rope3D and Rope2D nodes",
+  "up": 11,
+  "updatedAt": "2021-12-20T20:32:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3704"
+}

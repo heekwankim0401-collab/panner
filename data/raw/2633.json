@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I believe supporting functional programming would prevent more bugs in user scripts and so this would be nice to have as standard",
+    "format": "markdown",
+    "workaround": "It can be but most developers will not think to do so unless it's standard."
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-07T20:26:10Z",
+  "comments": 3,
+  "createdAt": "2021-04-22T15:27:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2633,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add alternative methods to modifying arrays in place",
+  "up": 4,
+  "updatedAt": "2026-11-09T12:53:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2633"
+}

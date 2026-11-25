@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core would allow an easier integration I guess.",
+    "format": "form",
+    "workaround": "I don't know the habits of Godot users, those who like to output many things and browse it to check what is going on will like it very much I guess.\n\nThe only workaround is to use the log from the folder where it has been created with a text editor. Then move back and forth from Godot to the editor and while coding."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-18T17:20:47Z",
+  "comments": 3,
+  "createdAt": "2025-03-25T17:07:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12074,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a search capability to ouput like the one in the code editor",
+  "up": 4,
+  "updatedAt": "2026-09-18T17:20:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12074"
+}

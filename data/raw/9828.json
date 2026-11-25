@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal is about bringing visual shader functionality closer to writing shader code when it comes to per-instance uniforms.",
+    "format": "form",
+    "workaround": "It's possible to use a `VisualShaderNodeGlobalExpression` node to declare the hinted per-instance uniforms, and assign them to variables with a `VisualShaderNodeExpression` node for use with other nodes in the graph. However, being able to set this hint in `VisualShaderNodeParameter` directly would be a lot more convenient, requiring less setup and less input of code."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-18T14:29:15Z",
+  "comments": 3,
+  "createdAt": "2024-05-26T19:20:43Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.6",
+  "number": 9828,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow instance_index hint to be set inside a VisualShaderNodeParameter",
+  "up": 2,
+  "updatedAt": "2025-11-18T14:29:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9828"
+}

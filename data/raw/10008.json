@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would help everyone who uses the remote tree, which means almost everyone.",
+    "format": "form",
+    "workaround": "In proposal #8359 a commenter gives a useful shortcut:\n\n              Shift+Click the expand arrow.\n\n_Originally posted by @KoBeWi in https://github.com/godotengine/godot-proposals/issues/8359#issuecomment-1794912948_\n\nThis goes a long way to solving this problem, and now that I know it it makes this proposal less necessary for me. However, the fact that #8359 exists hints that there are probably many people who are not aware of this shortcut, and who waste time expanding the remote tree until they arrive at the node they are looking for.\n\nThis proposal would make searching a little faster for those that know the Shift+Click shortcut, but it would make it A LOT faster for those that don't.\n\nAdmittedly it might be easier to add a hint that tells people how to fully expand a tree, but I don't know how that might look."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-06-21T13:21:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10008,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically expand remote tree on search",
+  "up": 6,
+  "updatedAt": "2024-06-21T13:31:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10008"
+}

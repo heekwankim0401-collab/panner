@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, because the editor preview environment will be core in 4.0, and this would be a part of that.",
+    "format": "markdown",
+    "workaround": "This will be used often and it makes sense to be core. This is supposed to be a preview environment for the editor, to make things easier. Working around this might require making your own preview environment system and circumventing the built-in one entirely (because none of the built-in preview environment stuff is exposed to scripting)."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-18T07:40:20Z",
+  "comments": 0,
+  "createdAt": "2021-03-09T18:08:28Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2438,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow setting the preview sun angle with angular altitude and azimuth numbers",
+  "up": 17,
+  "updatedAt": "2021-06-18T07:40:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2438"
+}

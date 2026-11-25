@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a simple idea, and even though I haven't seen the YSort source code, my expectation is that it isn't too big of a deal to implement (I might be wrong though!).",
+    "format": "form",
+    "workaround": "It can be worked around via rotating the Y-Sorted node by 180deg then unrotating its children but this isn't viable, specially for big scenes, since setting positions via code is inverted, etc."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2023-06-04T01:57:34Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7015,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Implement an inverse Y-Sort option",
+  "up": 15,
+  "updatedAt": "2026-06-29T02:44:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7015"
+}

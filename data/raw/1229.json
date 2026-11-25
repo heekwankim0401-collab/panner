@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The idea is that the defaults should reflect the real life to cater more use cases. Feel free to add your own to justify this proposal.",
+    "format": "legacy",
+    "workaround": "You have to `#include \"core/method_bind_ext.gen.inc\"` each time you need to bind more than the default limit."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-21T17:19:51Z",
+  "comments": 8,
+  "createdAt": "2020-07-20T11:16:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1229,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Increase the number of arguments in `ClassDB::bind_method` to 6 by default",
+  "up": 0,
+  "updatedAt": "2025-01-04T21:48:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1229"
+}

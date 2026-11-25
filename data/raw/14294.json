@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-26T15:10:37Z",
+  "comments": 0,
+  "createdAt": "2026-02-21T04:19:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.7",
+  "number": 14294,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a property to toggle whether the default mouse wheel scroll direction is vertical or horizontal in ScrollContainer",
+  "up": 8,
+  "updatedAt": "2026-03-26T15:10:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14294"
+}

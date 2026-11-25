@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Although there is an easy workaround, I think it could be beneficial for users and beginners, who generate their game world procedurally.\nThe change in solution 1 is only to add `.instance()` to the script to update your project to work.\n\nedit:\nIf a scene is added to the tree, it always has to be instanced first, `change_scene()` seems to be the only exception\nSo for consistency I encourage solution 1.",
+    "format": "markdown",
+    "workaround": "add `onready var` and `func` to Autoload \"GLOBAL\":\n\n```\nonready var currentScene:Node = get_node(\"/root/firstLoadedSceneName\")\n\nfunc change_scene(newScene:Node):\n    currentScene.queue_free()\n    currentScene = newScene\n    get_tree().get_root().add_child(newScene)\n```\n\n\nuse in script:\n\n`GLOBAL.change_scene(PackedScene.instance())`"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-03T22:40:14Z",
+  "comments": 6,
+  "createdAt": "2021-03-03T17:16:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2393,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to convert a scene to an instanced scene",
+  "up": 1,
+  "updatedAt": "2025-04-15T15:38:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2393"
+}

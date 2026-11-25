@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about modifying core class (Signal).",
+    "format": "form",
+    "workaround": "As said above, this can be worked around by creating a method that will emit the signal, but this is cumbersome."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-22T17:16:20Z",
+  "comments": 13,
+  "createdAt": "2024-04-05T15:34:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9458,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to connect a signal to another signal emission",
+  "up": 1,
+  "updatedAt": "2024-08-22T17:52:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9458"
+}

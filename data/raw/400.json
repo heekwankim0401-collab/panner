@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is for internal use in the engine only.",
+    "format": "legacy",
+    "workaround": "Here goes the same as for the last question: I see now way in native Godot"
+  },
+  "assignees": 2,
+  "closedAt": "2021-05-17T14:02:13Z",
+  "comments": 6,
+  "createdAt": "2020-01-21T21:08:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 400,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Accessing big files (greater than ~2GB) requires changing the File API to use 64-bit integers",
+  "up": 9,
+  "updatedAt": "2021-05-17T14:02:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/400"
+}

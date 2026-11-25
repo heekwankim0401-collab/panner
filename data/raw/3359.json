@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it needs to be integrated to the multiplayer API.",
+    "format": "form",
+    "workaround": "This enhancement is core for networking."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-06T15:21:37Z",
+  "comments": 20,
+  "createdAt": "2021-09-27T20:48:39Z",
+  "down": 1,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.0",
+  "number": 3359,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Visual Nodes for multiplayer scene replication",
+  "up": 37,
+  "updatedAt": "2023-02-24T06:38:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3359"
+}

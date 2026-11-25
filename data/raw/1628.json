@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I tried to make a gdscript plugin that does this.\nBut this always looked ugly since there are some missing API methods for that.\nThere is no `get_editor_log()` method\nThere are no signals to find out if an error is printed.\netc",
+    "format": "legacy",
+    "workaround": "No it can't"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-01T01:15:37Z",
+  "comments": 8,
+  "createdAt": "2020-10-08T11:13:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 1628,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make script paths in Editor Output error messages clickable",
+  "up": 23,
+  "updatedAt": "2025-10-01T01:15:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1628"
+}

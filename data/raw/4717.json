@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Searching the project codebase is essential especially for large project that contain more than 1000 files in a single directory/folder.",
+    "format": "form",
+    "workaround": "No, this is a hardcoded limitation in find_in_files.cpp."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-06-21T20:39:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4717,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change Find in Files to allow searching any number of files in a project, instead of the current limitation of 1,000 files per directory/folder",
+  "up": 1,
+  "updatedAt": "2022-06-22T05:37:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4717"
+}

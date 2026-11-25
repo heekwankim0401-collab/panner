@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it's a change to a vital parts of the editor",
+    "format": "form",
+    "workaround": "It's a major paper cut when working with numbers inside inspector properties"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-15T15:47:15Z",
+  "comments": 1,
+  "createdAt": "2021-09-15T11:29:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3298,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "increment or decrement numerical properties with up and down arrow keys",
+  "up": 2,
+  "updatedAt": "2021-09-15T15:47:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3298"
+}

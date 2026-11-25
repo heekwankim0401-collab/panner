@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As part of GDScript, obviously this should be core.",
+    "format": "form",
+    "workaround": "Obviously this isn't hard to work around. Programmers can just read the docs and see that unary increment/decrement isn't supported.\n\nHowever, I think that as more people come to Godot from other game engines and other languages, this is a minor change which prevents a minor issue."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-01-07T21:33:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8829,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add warnings for using `++` and `--` (standalone expressions that look like increment/decrement operators)",
+  "up": 16,
+  "updatedAt": "2025-08-23T12:41:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8829"
+}

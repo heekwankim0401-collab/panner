@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In terms of impact-effort, this is a small change that will really improve XML workflows.",
+    "format": "form",
+    "workaround": "Hack was developed with help from Godot Discord but is unwieldy and makes the already tricky to navigate parsing script even more messy."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-29T19:04:20Z",
+  "comments": 2,
+  "createdAt": "2025-03-29T18:29:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12102,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "XMLParser identify self-closing (leaf) tags",
+  "up": 0,
+  "updatedAt": "2025-03-31T15:30:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12102"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because the dock is a core feature, and this would improve the general UI experience.",
+    "format": "form",
+    "workaround": "This isn't a showstopper, so there isn't really a workaround outside of scrolling more, and resizing panels more frequently.\n\nThis is a quality of life enhancement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-06-20T22:08:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10005,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow editor docks to span multiple columns",
+  "up": 6,
+  "updatedAt": "2024-06-20T22:41:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10005"
+}

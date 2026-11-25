@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Glow is part of the the core nodes",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-08-06T13:46:06Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5091,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use curve to control glow levels in the Environment resource",
+  "up": 5,
+  "updatedAt": "2022-09-09T23:23:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5091"
+}

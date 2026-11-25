@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core engine pack loading. Cannot be worked around with script as an addon.",
+    "format": "form",
+    "workaround": "This is core engine pack loading. Cannot be worked around with script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-05-11T21:59:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6865,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Fix ProjectSettings.load_resource_pack loading to work with Packs and Filesystem",
+  "up": 0,
+  "updatedAt": "2025-01-15T11:08:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6865"
+}

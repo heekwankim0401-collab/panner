@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Lights are core.",
+    "format": "form",
+    "workaround": "It can be set on each light individually from the editor. Though it gets bit iffy with shaders"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-18T11:01:11Z",
+  "comments": 3,
+  "createdAt": "2025-05-13T19:56:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12424,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add global project setting to modify energy of Light2D and Light3Ds",
+  "up": 0,
+  "updatedAt": "2026-07-19T07:54:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12424"
+}

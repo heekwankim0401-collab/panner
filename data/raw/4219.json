@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Documentation is core.",
+    "format": "form",
+    "workaround": "GDScript can't modify built-in documentation pages."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-03-15T06:53:27Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": null,
+  "number": 4219,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change how operators are formatted in the documentation to match their usage",
+  "up": 5,
+  "updatedAt": "2022-07-25T15:48:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4219"
+}

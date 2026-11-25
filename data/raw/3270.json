@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There is no particular reason, but it would help people like me who want to make their game moddable and encrypt/protect their mods.",
+    "format": "form",
+    "workaround": "I don't think its possible without modifying PackedSceneGLTF code itself."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-05T02:52:34Z",
+  "comments": 9,
+  "createdAt": "2021-09-09T14:19:02Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 3270,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a way to import a glTF scene from string/byte array",
+  "up": 0,
+  "updatedAt": "2022-01-05T15:22:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3270"
+}

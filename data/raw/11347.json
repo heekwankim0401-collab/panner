@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The microphone is core.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-03T22:55:58Z",
+  "comments": 2,
+  "createdAt": "2024-12-13T22:21:37Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.6",
+  "number": 11347,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "A new InputEventMicrophone class to deliver audio chunks of microphone data independently of the Audio system",
+  "up": 0,
+  "updatedAt": "2025-12-03T22:57:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11347"
+}

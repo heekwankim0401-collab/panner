@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript is part of core. The workaround described above is not as performant.",
+    "format": "form",
+    "workaround": "From #3486, a hacky way to do this, using Mutex as an example:\n```gdscript\nclass MutexLock extends RefCounted:\n\tvar mutex: Mutex\n\t\n\tfunc _init(m: Mutex):\n\t\tmutex = m\n\t\tmutex.lock()\n\t\n\tfunc _notification(what):\n\t\tif what == NOTIFICATION_PREDELETE:\n\t\t\tmutex.unlock()\n```\n\n```gdscript\nvar my_mutex := Mutex.new()\n\nfunc thread_safe() -> Error:\n\tif true:\n\t\tvar lock = MutexLock.new(mutex)\n\t\tfor x in data:\n\t\t\tvar err = x.data_do_something()\n\t\t\tif err:\n\t\t\t\treturn err  # !!! forgot to unlock !!!\n\t\treturn OK\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-11-01T15:44:06Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3490,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript add `with` context management syntax",
+  "up": 15,
+  "updatedAt": "2026-03-16T16:54:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3490"
+}

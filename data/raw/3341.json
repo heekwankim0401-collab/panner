@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it should be core because many people who get into this engine that mess with the vehicle nodes, love them. They are just limited. I can understand using a KinematicBody for this and just coding it all in, but I like to do both and I love the vehicle nodes also. The KinematicBody has to have gravity and such also coded in manually, whereas the vehicle takes care of those fundamentals already.",
+    "format": "form",
+    "workaround": "Yes! It may only be needed for the task I am requesting it for. :)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-23T23:09:49Z",
+  "comments": 6,
+  "createdAt": "2021-09-23T17:27:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3341,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add collision mask and layer properties to VehicleWheel (like VehicleBody)",
+  "up": 0,
+  "updatedAt": "2021-09-23T23:52:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3341"
+}

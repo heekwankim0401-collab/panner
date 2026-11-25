@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In most cases this is really unintuitive.\nAnd it makes using things like the CanvasGroup really inconvenient, which are great for making UI animations.",
+    "format": "form",
+    "workaround": "Can be worked around with a dummy control node between Node2D and the control node, and sync the position and size of the dummy with another control node up the tree using a script.\nBut this is quite hacky (it's hard to get it work with scales for example) and makes the node path very long and complicated.\n![Godot_v4 1-beta1_win64_vPk5eiEclr](https://github.com/godotengine/godot-proposals/assets/50770712/316145be-18c1-4cf7-b260-ecfdcbeed6d8)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-06-17T14:23:10Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7102,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve control node anchors usability under non-control CanvasItem parents",
+  "up": 20,
+  "updatedAt": "2024-11-28T22:53:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7102"
+}

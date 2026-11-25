@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This requires access to native Android camera APIs which are already handled by CameraFeed.",
+    "format": "form",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-05-31T07:53:26Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 14942,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add optical zoom selection for Android CameraFeed",
+  "up": 4,
+  "updatedAt": "2026-09-04T09:26:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14942"
+}

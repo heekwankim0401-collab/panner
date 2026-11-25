@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving TileMap usability out of the box.",
+    "format": "form",
+    "workaround": "I'm not sure, I could maybe change the collider in the physics layer as well as a shader for the UV somehow, but like I said I attempted this"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-25T21:27:25Z",
+  "comments": 3,
+  "createdAt": "2022-08-13T13:43:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5158,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add ability to rotate tiles placed on TileMap in v4.0",
+  "up": 17,
+  "updatedAt": "2023-07-25T21:27:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5158"
+}

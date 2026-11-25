@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a GDScript feature request.",
+    "format": "markdown",
+    "workaround": "Writing a decrypting and encrypting method for a string is not something anyone could do easily with a few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-01-15T06:15:54Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2128,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Encrypt/Decrypt string methods",
+  "up": 17,
+  "updatedAt": "2022-04-10T17:16:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2128"
+}

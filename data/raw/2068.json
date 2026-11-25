@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a very small, simple change that that would reduce the need for a more expansive SpinBox addon for EditorInspectorPlugin's",
+    "format": "markdown",
+    "workaround": "You would have to write an entirely new class that extends Range or SpinBox to do the exact same thing, so no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-01-04T14:33:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2068,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Further Expose EditorSpinSlider to GDScript",
+  "up": 5,
+  "updatedAt": "2022-04-23T17:02:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2068"
+}

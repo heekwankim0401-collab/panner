@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "While this isn't exactly \"core\", you can't rename a class with an addon.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 1,
+  "closedAt": "2022-07-28T17:51:10Z",
+  "comments": 28,
+  "createdAt": "2022-05-12T23:57:53Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:audio"
+  ],
+  "milestone": "4.0",
+  "number": 4532,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace the \"Sample\" from AudioStreamSample's name with something else",
+  "up": 7,
+  "updatedAt": "2022-07-28T17:51:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4532"
+}

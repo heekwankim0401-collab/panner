@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would make the controls more flexible and easy to use.\nAnd it would make me cry",
+    "format": "form",
+    "workaround": "It can't be worked around with a few lines of script we would have to extend the class and implement base button for all controls we want to use these themes on or have any sort of unsupported focus support"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-02-16T01:31:13Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6297,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Please support focus, focus pressed, hover, and pressed styles for all controls and control parts",
+  "up": 4,
+  "updatedAt": "2023-02-16T04:22:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6297"
+}

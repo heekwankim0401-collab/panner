@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Aside from the potential linewrapping problem, expanding the rich text effect system like this should be relatively easy to implement, at least relative to the complexity that the RichTextEffect system already has, so pushing it off to an addon wouldn't save that much labor. Additionally, I have no idea how an addon that interacts with the RichTextEffect system would work, but I imagine that it would be pretty rough; being built into the engine would probably be a lot cleaner.",
+    "format": "form",
+    "workaround": "This can't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-10-12T20:07:48Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3417,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "More advanced text flow manipulation in RichTextEffect/CharFXTransform",
+  "up": 14,
+  "updatedAt": "2021-10-15T17:20:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3417"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't see how this could ever be achieved by an external add-on\n\nEDIT: Added demo screenshot",
+    "format": "form",
+    "workaround": "This can obviously be done in a shader, but this requires to write or find the right code every time and is cumbersome to do repeatedly even within the same project.\nA simple shader code example of conversion from a height value to a 2D normal vector is this:\n\n```GLSL\nvec2 stdNormalMap(float height) \n{\n    return -vec2(dFdx(height), dFdy(height)) * bump_strength + .5;\n}\n```\nIn this case, the generic `height` parameter can either come from a texture or be procedurally generated. A Sobel filter would be an even better \"converter\"."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-04-13T11:16:17Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4394,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an import option to convert a height map to a normal map",
+  "up": 2,
+  "updatedAt": "2022-04-13T14:05:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4394"
+}

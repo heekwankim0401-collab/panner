@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is in regards to the editor.",
+    "format": "form",
+    "workaround": "I don't think it can be worked around with a few lines of script as it could require fundamentally re-writing the editor. I am unfortunately not very knowledgeable on how the editor works. \n\nOne workaround is to open the godot editor twice, which is what i currently do, but massively increases my battery usage (I work on a laptop)"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-12T04:26:34Z",
+  "comments": 2,
+  "createdAt": "2025-06-14T05:35:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12605,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow popping out the properties of multiple nodes to refer to them simultaneously",
+  "up": 0,
+  "updatedAt": "2025-12-12T14:10:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12605"
+}

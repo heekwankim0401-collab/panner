@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is possible to do this in an addon, however it seems to me that it would be good for the engine to provide a more friendly interface for RenderingDevice out of the box",
+    "format": "form",
+    "workaround": "The point of this enhancement is to reduce boilerplate and prevent hard to debug errors, there is no short way to do this"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-02-16T12:05:40Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11784,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a typesafe, RAII compliant interface to RenderingDevice",
+  "up": 1,
+  "updatedAt": "2025-02-16T14:38:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11784"
+}

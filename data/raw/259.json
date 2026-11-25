@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It must be core as it is low level.  \nOpenGL offers a lot of different texture types (see https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/glTexImage2D.xhtml).  \nI believe having just the two types RGBA and FLOAT is enough to cover most of the use cases.",
+    "format": "legacy",
+    "workaround": "I currently need to pack the float into the RGBA texture and can only reach a float accuracy of 24-bits (as ALPHA channel can't be used as Godot triggers some incompatible pipeline processing if it is written)."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-13T21:51:51Z",
+  "comments": 3,
+  "createdAt": "2019-11-27T12:58:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 259,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for rendering to a floating-point texture",
+  "up": 0,
+  "updatedAt": "2021-08-13T21:51:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/259"
+}

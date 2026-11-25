@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is part of Godot's UI system and likely touches on it's rendering. This is a change that would enable developers to build even better/cleaners UIs with the core systems the engine already provides.",
+    "format": "form",
+    "workaround": "Yes. A user could still make UIs in the exact same way. This is purely adding more flexibility to existing systems. Additionally, if a Rounded option is made available, then users are free to ignore it and continue working as they have been.\n\nIf option 3 is chosen and relative units are introduced, the implementation could be breaking. If units are a separate variable from the magnitude of the vector, then having the units default to pixels would simplify migration."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-25T18:10:34Z",
+  "comments": 3,
+  "createdAt": "2024-10-20T22:26:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 11006,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Increase the limit to Corner Radius of StyleBoxes, Provide Rounded option",
+  "up": 0,
+  "updatedAt": "2024-10-25T18:14:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11006"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a very broad solution to a large class of problems that applies to all games. That makes it a good case for engine implementation, as you can't really come up with a solution like this on your own.\n\nThe technique is mentioned in chapter 36 of the book \"GPU Gems\" available for free on Nvidia's site.\nhttps://developer.nvidia.com/gpugems/gpugems/part-v-performance-and-practicalities/chapter-36-integrating-shaders-applications\n\nOne section describes how shared inheritance is complementary to Unified Shader Templates (aka Ubershaders).\n>**36.6.3 Adding Shader Inheritance**\n...\nImplementation of inheritance is usually simple, and it dramatically improves hardware scalability and performance. In the future, this will be increasingly important, due to the inevitable wide range of hardware capabilities in the marketplace.\n>",
+    "format": "form",
+    "workaround": "No, this is a broad solution to a class of problems rather than a single specific problem. It can be faked with macro substitutions but those still have compiled object bloat."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-11T13:01:54Z",
+  "comments": 15,
+  "createdAt": "2025-08-21T20:22:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 13047,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add virtual inheritance for shaders",
+  "up": 0,
+  "updatedAt": "2025-10-12T09:31:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13047"
+}

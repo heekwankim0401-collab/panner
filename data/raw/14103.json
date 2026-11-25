@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "i don't know can a gdscript automatically do something like this? i don't think it's possible",
+    "format": "form",
+    "workaround": "it can be the case you freeze a material down, but this seems very extreme for such a simple feature which effectively has pretty much been developed by the excellent shader pipeline"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-01-29T21:38:15Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14103,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Vertex Displacement as an Option for StandardMaterial3D (standardization proposal)",
+  "up": 0,
+  "updatedAt": "2026-01-30T23:30:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14103"
+}

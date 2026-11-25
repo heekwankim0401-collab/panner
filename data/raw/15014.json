@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-06-15T16:57:11Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 15014,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow removing the empty root node from imported scenes in the Advanced Import Settings dialog",
+  "up": 8,
+  "updatedAt": "2026-07-09T08:44:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15014"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "/",
+    "format": "form",
+    "workaround": "It's an annoying edge case of a feature here already."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-30T13:53:05Z",
+  "comments": 2,
+  "createdAt": "2022-08-28T17:08:21Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 5283,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically cast 4.0 tween's `final value` to the property type",
+  "up": 4,
+  "updatedAt": "2022-08-30T13:53:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5283"
+}

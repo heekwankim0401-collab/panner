@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Developers of Godot have stated that supporting native save/load dialogs is undesired. Providing a consistent UX for users of Godot games is preferred over providing consistency to users of games/tools along with other apps on the same host. See godotengine/godot#13177. Still, consistent Godot UX should not be at the expense of removing the most basic functionality. Should it be possible to use the Godot styled dialog, that'd be ok. Otherwise, I believe that the native dialog should be supported in HTML5 builds.\n\nNote that this issue is similar to godotengine/godot-proposals#1123. However, that is about using native dialogs on any platform; which would fix the HTML5 builds is a result. Conversely, this is about fixing HTML5, which might be done by using native dialogs or (hopefully) through other creative solutions.",
+    "format": "legacy",
+    "workaround": "I believe this is not an enhancement, but a currently broken (as in \"not completely implemented\") feature. It is an [undocumented](https://docs.godotengine.org/en/stable/classes/class_filedialog.html) and inconsistent behaviour.\n\nFTR, in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) they work around it with [Pukkah/HTML5-File-Exchange-for-Godot](https://github.com/Pukkah/HTML5-File-Exchange-for-Godot)."
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-31T22:28:36Z",
+  "comments": 5,
+  "createdAt": "2020-08-31T22:08:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1443,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "HTML5 builds should allow users to access the filesystem on the host",
+  "up": 0,
+  "updatedAt": "2020-08-31T22:34:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1443"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "VoxelGI and SDFGI are both core graphics components of Godot.",
+    "format": "form",
+    "workaround": "See above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-07-05T02:19:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4811,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow user to prefer SDFGI reflections when both VoxelGI and SDFGI are used",
+  "up": 7,
+  "updatedAt": "2022-07-05T22:34:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4811"
+}

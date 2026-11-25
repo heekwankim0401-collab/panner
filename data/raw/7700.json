@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "core ux",
+    "format": "form",
+    "workaround": "used quite often, and consistency is important."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-09-17T07:00:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7700,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move the `quit` option from the `Scene` menu to the `Project` menu",
+  "up": 8,
+  "updatedAt": "2023-11-26T18:32:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7700"
+}

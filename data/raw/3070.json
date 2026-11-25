@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It extends the InputMap's functionality, and could not be extended without a custom build of Godot.",
+    "format": "form",
+    "workaround": "Hardcoding these behaviors can be easily done, but a system outside of InputMap that could allow players to customize controls would be very time consuming for developers."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2021-08-01T02:24:55Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3070,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add MouseMovement to InputMap",
+  "up": 38,
+  "updatedAt": "2026-06-21T09:15:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3070"
+}

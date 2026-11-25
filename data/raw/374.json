@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "- If implemented as an add-on, it would likely need to add a whole new scripting language, forcing users to choose between \"GDScript\", and \"GDScript-more-literals\" as their scripting language, and that's not something that's really reasonable.\n- It would also make updating more difficult, because if a new version of GDScript comes out, the compiler would have to be re-forked and merged back into the add-on.\n- This feature would allow the language to channel more of python's flow-inducing syntax, which, in this case, is a good thing for everyone involved.",
+    "format": "legacy",
+    "workaround": "Adoption of this feature depends on how many Godot users prefer data literals over the use of class constructors. Those coming from C# would likely use this feature fairly little, but those used to languages like python would be more likely to use this feature very often.\n\nThat being said, I don't think this can be worked around with a few lines of script, unless GDScript has macro support. Because of the nature of implementing a new literal, we'd naturally need access to the parser/interpreter to make this work."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-11T22:52:52Z",
+  "comments": 17,
+  "createdAt": "2020-01-11T18:03:23Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 374,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for vector literals in GDScript",
+  "up": 8,
+  "updatedAt": "2021-08-11T22:52:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/374"
+}

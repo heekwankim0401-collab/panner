@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "as the blending happens inside godot when the blend modes are applied, i do not know of a way how to do this without modifying the core.",
+    "format": "form",
+    "workaround": "godot shaders and script only have acces to the builtin blend modes, hence it cannot be done from a script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-06-04T10:10:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12552,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add new shader blend_modes for holdout objects",
+  "up": 2,
+  "updatedAt": "2025-07-22T12:43:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12552"
+}

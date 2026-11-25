@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, everyone who uses TileMaps in AnimatedSprites could use.",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-12T12:43:38Z",
+  "comments": 2,
+  "createdAt": "2020-06-25T16:04:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1118,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support choosing margin between textures in SpriteFrames",
+  "up": 0,
+  "updatedAt": "2022-04-12T12:43:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1118"
+}

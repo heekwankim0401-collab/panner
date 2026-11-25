@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Shadows are Core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-11T15:45:02Z",
+  "comments": 2,
+  "createdAt": "2022-04-11T19:30:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4387,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Slope Bias for shadow map rendering",
+  "up": 1,
+  "updatedAt": "2022-05-11T15:46:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4387"
+}

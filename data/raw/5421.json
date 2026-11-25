@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Self-explanatory",
+    "format": "form",
+    "workaround": "It is a minor issue, but a good time to improve it."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-02T21:38:03Z",
+  "comments": 11,
+  "createdAt": "2022-09-14T14:38:35Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 5421,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `Image.get_rect()` to `Image.copy_rect()`",
+  "up": 5,
+  "updatedAt": "2022-11-02T21:39:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5421"
+}

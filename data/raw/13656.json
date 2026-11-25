@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about adding a 2D sorting feature.",
+    "format": "form",
+    "workaround": "I've tried using Canvas Layer and sub viewport Texture to solve it, but it caused really bad problems."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-18T14:56:22Z",
+  "comments": 1,
+  "createdAt": "2025-11-18T14:54:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 13656,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add \"sorting group 2d\" node",
+  "up": 0,
+  "updatedAt": "2025-11-18T14:56:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13656"
+}

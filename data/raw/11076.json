@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be easier for everyone to comply with licenses.",
+    "format": "form",
+    "workaround": "This is a quality of life that makes license compliance easier."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-11-03T00:04:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 11076,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way for GDExtension authors to add their own license text to `Engine.get_copyright_info()` and `Engine.get_license_info()`'s output",
+  "up": 2,
+  "updatedAt": "2025-03-13T18:30:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11076"
+}

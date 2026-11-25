@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Don't think this applies either.",
+    "format": "form",
+    "workaround": "Doesn't really apply."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-09T22:23:06Z",
+  "comments": 2,
+  "createdAt": "2022-05-22T10:09:40Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 4576,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make array and dictionary constants deep",
+  "up": 13,
+  "updatedAt": "2023-01-09T22:23:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4576"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is some expense in computing the sticky header that would benefit from core integration. The script code is 78-lines long, so it should be a compact addition to the core.",
+    "format": "form",
+    "workaround": "I'm using it as script, but wish it was a built-in feature, especially as I add the dynamic loading/freeing of resources going forward."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-10-15T20:53:14Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5599,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a SectionContainer with sticky header that signals section visibility to allow queing and freeing of resources",
+  "up": 13,
+  "updatedAt": "2026-01-11T21:01:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5599"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "An addon requires a user to know about it availability. This is a quality of life feature. It doesn't removes or changes anything, it only adds new functionality. It doesn't displaces any UI elements. \n\nIn other words, there's high probability users would like this feature and very low probability someone will be against it.",
+    "format": "form",
+    "workaround": "it could be worked around, but it makes unnecesary load. It reqires creating a child node with a unique script, something like\n\n```\nfunc _ready():\n    get_parent().array_value = [1, 2, 3, 4, 5]\n    queue_free()\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-01T12:48:17Z",
+  "comments": 4,
+  "createdAt": "2022-11-29T22:42:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5872,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Copy/paste feature for exported variable values in inspector",
+  "up": 0,
+  "updatedAt": "2022-12-01T12:48:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5872"
+}

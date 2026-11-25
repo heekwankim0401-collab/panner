@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No, if this could be implemented as an add-on in the asset library that might be preferable to avoid overcomplicating the TileMap class.",
+    "format": "form",
+    "workaround": "I believe implementing this would either involve creating a redundant, poorly performing homebrew replacement for TileMaps in scripts, or creating a Godot with the feature implemented."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-06-21T13:44:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7133,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Restore cell_custom_transform support for Godot 4 TileMaps",
+  "up": 4,
+  "updatedAt": "2023-06-21T20:16:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7133"
+}

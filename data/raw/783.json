@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It cannot be supported via an add-on.",
+    "format": "legacy",
+    "workaround": "It is not possible to workaround this limitation with scripts, support for the depth buffer at the 2D renderer level is needed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2020-05-02T10:15:36Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 783,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow optional depth buffer activation and usage in 2D renderer",
+  "up": 48,
+  "updatedAt": "2025-11-30T22:46:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/783"
+}

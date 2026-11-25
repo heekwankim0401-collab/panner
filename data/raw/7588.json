@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I can imagine that use cases like this are far from uncommon, and it's a relatively simple extension of the existing featureset of the grid snap configuration window.",
+    "format": "form",
+    "workaround": "While you can certainly write a `@tool` script to achieve similar behavior, (and indeed I already have such a script that draws a grid dividing the screens), having the behavior built into the editor in the same place as everything else about the grid is certainly far more convenient in terms of usability."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-12T10:09:48Z",
+  "comments": 2,
+  "createdAt": "2023-08-31T00:32:22Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.2",
+  "number": 7588,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow configuring the primary line x/y components independently for the 2d editor grid snap",
+  "up": 3,
+  "updatedAt": "2023-09-12T10:09:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7588"
+}

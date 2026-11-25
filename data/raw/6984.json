@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The change won't require any new logic, just exposing what's already there.",
+    "format": "form",
+    "workaround": "I don't think there is a way to work around this reliably while still using the project settings. I could, in theory, simply store my custom setting in my own custom resource instead of using the project settings. However this would needlessly duplicate behavior that the engine already has."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-31T11:05:07Z",
+  "comments": 2,
+  "createdAt": "2023-05-30T18:43:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.1",
+  "number": 6984,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": " Expose method to set a project setting as internal",
+  "up": 1,
+  "updatedAt": "2023-05-31T11:05:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6984"
+}

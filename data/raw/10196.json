@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think It should be added to the core so it is updated with each new godot version, especially if some internals are changed and migrations are needed in the project and scene formats. I consider a feature like this benefits greatly to developers of medium to large sized projects to help reduce bugs and QA cycles",
+    "format": "form",
+    "workaround": "Yes, it is possible to write a separate script to handle this validation, however It may be cumbersome to do so because the developer must know godot internals and take care of updating the validation script with each new godot version"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-07-13T10:58:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10196,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Scene files validation",
+  "up": 1,
+  "updatedAt": "2024-07-13T11:03:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10196"
+}

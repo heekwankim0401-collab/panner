@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "So that current users can migrate to 4.0 as smoothly as possible. If it's separated from the editor, most people probably won't know about it and struggle to upgrade their projects.",
+    "format": "legacy",
+    "workaround": "It probably can't."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-24T05:51:16Z",
+  "comments": 21,
+  "createdAt": "2020-01-17T18:14:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 387,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a project upgrade tool for Godot 4.0",
+  "up": 31,
+  "updatedAt": "2023-02-24T05:51:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/387"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is engine related. I'm not aware that it's possible to accomplish this with an add-on. And even if it were, i think this should be part of the core.",
+    "format": "form",
+    "workaround": "No, the lack of requred data in the shader is a complete blocker."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-05T05:51:19Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 10661,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an unmodified copy of EMISSION_TRANSFORM uniform to the particle process shader when local_coords is enabled.",
+  "up": 0,
+  "updatedAt": "2025-01-14T10:26:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10661"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-04-14T11:30:41Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 14671,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement Hierarchial Pathfinding for `AStarGrid2D`",
+  "up": 5,
+  "updatedAt": "2026-05-01T04:57:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14671"
+}

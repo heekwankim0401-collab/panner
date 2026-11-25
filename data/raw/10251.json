@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Native panel",
+    "format": "form",
+    "workaround": "No, native panel"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-19T19:07:08Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10251,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Animation panel: add button/keyboard shortcut to jump to previous/next key in selected track",
+  "up": 13,
+  "updatedAt": "2024-07-19T20:04:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10251"
+}

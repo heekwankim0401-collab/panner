@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Fundamentally core to the rendering behavior of the engine.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-05T17:15:37Z",
+  "comments": 2,
+  "createdAt": "2026-02-04T04:47:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 14146,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow physics to update in `rasterizer->end_frame()`",
+  "up": 0,
+  "updatedAt": "2026-02-05T21:46:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14146"
+}

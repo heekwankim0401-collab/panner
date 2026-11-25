@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes this limitation is in in the base code of the project and would require building a complete rewrite of the http layer to fix.\n\n*Production edit:* set some quotes, corrected some typos, and renamed the proposal.",
+    "format": "form",
+    "workaround": "This can not be worked around with script as the embedded timer in cpp is not exposed to GDScript so it can not be adjusted outside of the engines base code."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-13T01:33:59Z",
+  "comments": 2,
+  "createdAt": "2025-11-12T19:00:06Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.6",
+  "number": 13624,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `HTTPRequest` independent of `time_scale`",
+  "up": 3,
+  "updatedAt": "2025-11-13T14:36:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13624"
+}

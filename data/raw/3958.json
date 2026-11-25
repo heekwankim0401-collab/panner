@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this could *probably* be implemented as an add-on, but it's editor only and doesn't add any deps so it's fairly lightweight. The other consideration is it's there to catch peoples' mistakes, and if I don't know that sub-sonic sounds are likely to cause problems then I'm probably not likely to download an add-on designed to identify them.",
+    "format": "form",
+    "workaround": "Nope."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-02-12T17:48:50Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3958,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Warn users about sub-sonic audio resources or better handle fade-out of low-frequency sounds",
+  "up": 0,
+  "updatedAt": "2022-12-15T18:30:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3958"
+}

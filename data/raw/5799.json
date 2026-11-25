@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a code GDScript language feature",
+    "format": "form",
+    "workaround": "Yes, as explained above it can easily be worked around. But I think it's quite a small change that would remove a little stumbling block/annoyance for new users learning GDScript with experience working in other languages."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-17T09:39:18Z",
+  "comments": 2,
+  "createdAt": "2022-11-17T08:39:56Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5799,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for ++ and -- shorthands in GDScript",
+  "up": 1,
+  "updatedAt": "2022-11-17T09:39:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5799"
+}

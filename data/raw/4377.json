@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can't be worked around. Plus, I really like the idea of being able to let users download an entire new spatialization system for their game from the Asset Library, as opposed to building some HRTF into core and having users not be able to change it. Giving users the ability to apply an arbitrary impulse response to sounds coming from various directions makes everything much more flexible.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-04-10T17:51:05Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:audio"
+  ],
+  "milestone": "4.x",
+  "number": 4377,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create a Resource type for audio spatialization models",
+  "up": 19,
+  "updatedAt": "2023-02-24T03:26:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4377"
+}

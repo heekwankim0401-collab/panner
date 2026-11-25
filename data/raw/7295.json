@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The feature doesn't make senes to have aon a per-project basis. Core works better here.",
+    "format": "form",
+    "workaround": "It can be worked around by individually clicking every bone in the hierarchy."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-16T04:11:53Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7295,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add recursive Tree check/uncheck",
+  "up": 3,
+  "updatedAt": "2023-07-16T21:56:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7295"
+}

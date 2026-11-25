@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I saw this was added to the 3.1 milestone in 2018, so if I understand correctly this feature was already wanted in the past. I don't see a reason against adding it, as the menu under `res://` has plenty of space anyways.",
+    "format": "form",
+    "workaround": "I haven't messed with toolscripts but I am pretty sure it is literally one line in the editor. It's just tedious to have to go and find the toolscript in files, or swap to the script viewport, to be able to run it and fix the issue."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-12T03:50:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10724,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add button under the menu when right clicking `res://` or `FileSystem` that allows you to manually refresh the file system.",
+  "up": 1,
+  "updatedAt": "2024-09-12T11:11:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10724"
+}

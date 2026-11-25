@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because handling those basics of 3d view manipulation is part of the engine/editor.",
+    "format": "legacy",
+    "workaround": "It's not script related, so no.\nIt's possible to lock every object by hand that should not be moved, but that equates to the amount of work required to select the wanted objects by hand, plus it still doesn't enable box selection."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-04T15:58:48Z",
+  "comments": 7,
+  "createdAt": "2020-05-01T10:25:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 776,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow disabling of mouse drag -> auto selecting and moving objects",
+  "up": 6,
+  "updatedAt": "2026-08-04T19:22:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/776"
+}

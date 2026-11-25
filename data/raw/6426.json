@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As far as I know(I may be wrong), this behavior cannot achieve without modifying the source code. \nAlso, I think it will make advance expression more useable in general.",
+    "format": "form",
+    "workaround": "The expression worked as they should, just not as tidy as I wanted.\nAs a not-very-experienced programmer, I can make simple modifications in the source code to achieve the result I want."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-03-04T17:29:15Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6426,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support variables in AnimationNodeStateMachineTransition advance expression",
+  "up": 0,
+  "updatedAt": "2023-03-05T16:00:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6426"
+}

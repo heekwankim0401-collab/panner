@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is an expected feature of the input event class.",
+    "format": "form",
+    "workaround": "It could be worked around, but it is unnecessary when it can be done relatively easily in engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-01-05T17:30:11Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 11499,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an action_name property/method to identify the exact action",
+  "up": 0,
+  "updatedAt": "2025-01-05T17:33:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11499"
+}

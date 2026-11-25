@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This feature should be an easy core include since the setting already exists.",
+    "format": "form",
+    "workaround": "I couldn't find anywhere in the documentation where the anchor gizmo code is exposed so my first instinct is that it wouldn't be easy to work around but If anyone has suggestions for this I'd love to hear them."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-10T14:26:12Z",
+  "comments": 0,
+  "createdAt": "2025-02-02T18:16:41Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 11689,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `Scale Gizmo Handles` Editor Setting Scale Anchor Gizmos",
+  "up": 4,
+  "updatedAt": "2025-06-10T14:26:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11689"
+}

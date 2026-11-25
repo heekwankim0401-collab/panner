@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be core behaviour and desirable to have directly in the engine.",
+    "format": "form",
+    "workaround": "This would be used a lot if someone wishes to work with paths and curves."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-18T15:30:09Z",
+  "comments": 2,
+  "createdAt": "2023-12-13T18:36:41Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 8650,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Path3D editor Option to \"mimic\" a closed curve",
+  "up": 0,
+  "updatedAt": "2024-11-18T17:24:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8650"
+}

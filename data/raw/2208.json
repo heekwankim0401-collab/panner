@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "just add a button, to animation player, so you ' record ' stuff on screen, and you can select what stuff you want to record, like camera angle, rotation and, the ' zoom ' value, live . . then, one could make very good ' cinematic ' camera stuff, fast, and dirt - cheap, in Godot <3 . . also, people might start using it, for many other things . . or, select the objects you want to record, and auto - make the keyframe tracks, say position, rotation, scale, FOV, more . . :O :O <3 . . .\n\nalso, if one could first record say, camera rotation, then add to recording, by recording one more time, for zoom or, angle . . then, one could make amazing animations, using the mouse or, keyboard . .\n![2021-01-31 0701](https://user-images.githubusercontent.com/61069740/106376113-43df1300-6392-11eb-8af2-af9cf3901348.gif)\n\nand, one would be able preview it, live, in Godot, in the exact lighting settings, etc etc . . cheap pre-viz, on any computer <3 <3 . . . :OO . . .",
+    "format": "markdown",
+    "workaround": "Well, I can't re-program the engine, and can't do that, at all . . <3"
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-31T17:25:07Z",
+  "comments": 3,
+  "createdAt": "2021-01-31T05:59:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2208,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the animationplayer capable of recording objects / make animationrecorder node . . <3",
+  "up": 0,
+  "updatedAt": "2021-01-31T17:25:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2208"
+}

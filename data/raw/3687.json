@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would need to be part of the Godot Language Server as I have understood it.",
+    "format": "form",
+    "workaround": "I have not found a work-around for this."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-12T06:54:33Z",
+  "comments": 0,
+  "createdAt": "2021-12-17T20:18:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 3687,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement lsp-references support in the GDScript language server",
+  "up": 0,
+  "updatedAt": "2023-09-12T06:54:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3687"
+}

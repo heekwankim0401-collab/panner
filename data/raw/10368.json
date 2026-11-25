@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I'm not sure an addon could do this, and the code to implement it in the core is very small.",
+    "format": "form",
+    "workaround": "While it could be worked around, it's very inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-12T05:49:01Z",
+  "comments": 3,
+  "createdAt": "2024-08-05T18:39:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:i18n",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 10368,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow CSV Translation files to use a custom delimiter ",
+  "up": 0,
+  "updatedAt": "2025-04-12T14:27:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10368"
+}

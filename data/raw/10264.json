@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe this enhancement would benefit every team who works with version control, no matter what their project is. Having to add the same add-on in every project is a likely sign that the feature would probably be better in core. \n\nI am aware of the need for the engine to stay lean. Since there is already an auto-reimport mechanism in place when the assets themselves change, I'm not expecting this change to require a lot of code.",
+    "format": "form",
+    "workaround": "I think you could write an editor plugin that would implement the proposed feature. It would require a significant number of lines (~100-200)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-22T17:36:09Z",
+  "comments": 3,
+  "createdAt": "2024-07-22T14:39:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 10264,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically re-import assets when the .import file is changed outside the editor.",
+  "up": 0,
+  "updatedAt": "2024-07-22T17:36:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10264"
+}

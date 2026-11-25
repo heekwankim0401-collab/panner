@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it's a bugfix.",
+    "format": "form",
+    "workaround": "I would rather use SCROLL_MODE_AUTO with margin container and turn the margin on and off, but what's the point of SCROLL_MODE_RESERVE then?"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-27T23:23:00Z",
+  "comments": 1,
+  "createdAt": "2025-05-27T13:27:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12508,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "ScrollContainer's SCROLL_MODE_RESERVE doesn't consider LayoutDirection",
+  "up": 0,
+  "updatedAt": "2025-05-27T23:23:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12508"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Making it a core feature would provide the best editor workflow and would replace the current editor elements related to z index. Doing the same with an add-on or asset would be problematic, if even possible.\n\nThe solution also does not bloat the editor much.",
+    "format": "form",
+    "workaround": "Partially. There is a possibility of creating a script with similar functionality but such script will provide annoying at best editor workflow so this is far from ideal workaround. \n\nIt can also be worked around by using z-index with bigger spacing, like choosing -100 instead of -1 for a background. But that can only go so far and will still be prone to the same issues after a while."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2022-02-14T20:32:12Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3971,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Sorting layers\" in addition to z-index",
+  "up": 26,
+  "updatedAt": "2024-11-12T06:33:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3971"
+}

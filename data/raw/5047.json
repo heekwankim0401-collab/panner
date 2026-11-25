@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's the name of a resource in godot",
+    "format": "form",
+    "workaround": "It's the name of a resource in godot"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-26T05:48:24Z",
+  "comments": 12,
+  "createdAt": "2022-08-01T14:25:23Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 5047,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename ParticleMaterial to ParticlesProcessMaterial",
+  "up": 9,
+  "updatedAt": "2022-08-26T05:48:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5047"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about to improve the Inspector usability out of the box for theme tweaking.",
+    "format": "form",
+    "workaround": "When getting the theme items as they are not overridden, we need to modify the `get_theme_*` methods to skip getting the override values.\n\nThis can be worked around with a plugin if the `get_theme_*` methods are modified, but it's not very convenient."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-11T22:02:46Z",
+  "comments": 0,
+  "createdAt": "2022-04-24T08:03:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 4439,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display the actual used theme items in the Inspector",
+  "up": 0,
+  "updatedAt": "2025-03-11T22:05:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4439"
+}

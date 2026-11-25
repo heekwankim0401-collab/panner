@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I thing t would be impossible to implement this in assets library because of it’s size.",
+    "format": "form",
+    "workaround": "No, I am sure many users will be very happy if you implement it so it will be used very much and sadly for you this implementation of .NET 5 will not be few lines of code for you."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-20T13:42:28Z",
+  "comments": 1,
+  "createdAt": "2021-07-20T13:40:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 3018,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add dotnet 5 support.",
+  "up": 0,
+  "updatedAt": "2021-07-20T13:42:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3018"
+}

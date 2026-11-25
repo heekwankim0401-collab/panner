@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's a modification/addition to a core GUI component",
+    "format": "form",
+    "workaround": "I don't believe so"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-01-13T02:00:46Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11546,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add scroll bars with draggable edges for timelines",
+  "up": 7,
+  "updatedAt": "2026-08-23T05:13:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11546"
+}

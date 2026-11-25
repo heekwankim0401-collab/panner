@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Tilemaps are core",
+    "format": "form",
+    "workaround": "Nope, can't currently access this data"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-19T13:16:56Z",
+  "comments": 2,
+  "createdAt": "2024-01-19T06:46:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 8914,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose raw tilemap data to GDScript",
+  "up": 0,
+  "updatedAt": "2024-01-19T13:39:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8914"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It should be a part of the Android export mechanism.",
+    "format": "form",
+    "workaround": "It will be used at every Android export."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-07T15:46:26Z",
+  "comments": 4,
+  "createdAt": "2025-04-07T04:49:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 12183,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Android Export: copy resources into `android/build/res` directory",
+  "up": 0,
+  "updatedAt": "2025-04-08T04:30:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12183"
+}

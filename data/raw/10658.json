@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is an augmentation to the core EditorInputPlugin core class and is specifically an issue with the GDExtension system, which I imagine at least some of the asset library add-ons rely on. \n\nIt's also just... such a small easy change.",
+    "format": "form",
+    "workaround": "The alternative to this would be having a GDScript or some other editor plugin redo the work of scanning the resource directory, checking version numbers, and triggering reimports. This would likely have to be triggered by a keyboard shortcut as I don't believe there is any way to hook into the editor's events for when it periodically rescans the resource directory."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-12T22:33:56Z",
+  "comments": 8,
+  "createdAt": "2024-09-05T00:41:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdextension",
+    "topic:import"
+  ],
+  "milestone": "4.4",
+  "number": 10658,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `ResourceImporter::get_format_version()` in the GDExtension API for EditorImportPlugins",
+  "up": 1,
+  "updatedAt": "2024-12-12T22:33:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10658"
+}

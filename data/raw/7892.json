@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yeah, it's part of the engine's core design to use Nodes, not intricate functions as if we were developing in FP. On top of that this feature was in the previous versions of Godot Engine, so technically this is a regression of the core engine's code.\n\n_**Edit by the production team:** added syntax highlighting to code samples and changed tabs to spaces_",
+    "format": "form",
+    "workaround": "Tweens are fundamental for game development, so this would be used often. Especially because now we have access to `Tweener`s these two classes would make things very versatile and would be used often.\n\nThe workaround for the current approach is to create a whole Node that performs exactly what the previous Tween node did in version 3.x, but is now implemented manually which can cause lots of issues since not every user, me included, knows the proper approach to implement this manually. You guys are the best folks to implement a feature...that you guys already implemented previously."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 96,
+  "createdAt": "2023-09-27T15:10:35Z",
+  "down": 42,
+  "labels": [
+    "topic:animation",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7892,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Bring Tween Node back and Merge it with current Tween",
+  "up": 59,
+  "updatedAt": "2025-02-23T21:13:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7892"
+}

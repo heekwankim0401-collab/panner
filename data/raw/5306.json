@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't be an add-on (and really shouldn't be), as it's an aspect of the core editor UI.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-09-01T20:18:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5306,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add icons to important/easily distinguished main editor menu items",
+  "up": 25,
+  "updatedAt": "2023-08-08T09:47:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5306"
+}

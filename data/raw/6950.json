@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Legacy support for 3.0 Skeleton code and easier to use then custom_pose_override",
+    "format": "form",
+    "workaround": "Global pose override is also setting a \"different pose\" but not a custom pose."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-28T07:00:24Z",
+  "comments": 4,
+  "createdAt": "2023-05-26T11:51:21Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6950,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Bring back bone custom poses",
+  "up": 0,
+  "updatedAt": "2024-12-30T08:51:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6950"
+}

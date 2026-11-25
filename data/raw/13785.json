@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about modification of a core component.",
+    "format": "form",
+    "workaround": "Compositor effect users may compute and maintain the transforms by themselves. But that is very cumbersome and against the design of compositor effect. And things become quite complex if more than one views are to be rendered (that's why we need to put things in `RenderData`)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-12-04T11:14:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13785,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `get_prev_cam_{transform, projection}()` methods to scripting in RenderSceneData",
+  "up": 1,
+  "updatedAt": "2025-12-11T23:32:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13785"
+}

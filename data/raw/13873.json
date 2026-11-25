@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's part of the core export functionality and would only unify two small parts that are different for no apparent reason (at least to me).",
+    "format": "form",
+    "workaround": "One could make a script that takes project.godot and exports_preset.cfg and keeps the latter up-to-date with the project name. But I think the enhancement would be used often, so I still pledge for it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-12-15T12:02:34Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "platform:macos",
+    "platform:visionos",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 13873,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `$genname` from Android export `package/unique_name` to macOS/iOS export `application/bundle_identifier`",
+  "up": 1,
+  "updatedAt": "2025-12-15T23:24:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13873"
+}

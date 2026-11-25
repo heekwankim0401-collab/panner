@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The SPIR-V reflection and rendering device's shader processing infrastructure is tightly coupled. If it exposes an API to developers, it would facilitate more developers to use it. An additional module (GDExtension) faces limitations when accessing internal shader data; you have to manually pass the Spirv bytecode and then parse it, which is very complex and overlaps with functionality already included in Godot.",
+    "format": "form",
+    "workaround": "This cannot be easily solved with just a few lines of script. Currently, developers have to manually track the unified binding indices and hard-code them, which is prone to errors. Implementing SPIR-V reflection as an external function requires integrating the SPIR-V reflection library and maintaining it during engine updates, which is very complex and impractical for most projects."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-10T15:49:03Z",
+  "comments": 1,
+  "createdAt": "2025-09-10T10:47:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 13149,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow developers to obtain shader Spirv reflection information.",
+  "up": 3,
+  "updatedAt": "2025-09-10T15:49:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13149"
+}

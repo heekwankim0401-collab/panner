@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Theoretically, it is possible to implement this as a plugin, but it will still require major changes to the editor code. Also, if it comes out of the box, it will greatly simplify the use of the engine.",
+    "format": "form",
+    "workaround": "This feature will be useful for any teams that want to work effectively together. This cannot be worked around with a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-19T17:05:29Z",
+  "comments": 3,
+  "createdAt": "2021-12-19T10:47:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 3694,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the possibility of multi-user editing of projects over the network",
+  "up": 4,
+  "updatedAt": "2021-12-19T17:05:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3694"
+}

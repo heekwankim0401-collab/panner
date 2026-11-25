@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's security",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-08T11:11:01Z",
+  "comments": 0,
+  "createdAt": "2024-01-06T09:53:34Z",
+  "down": 0,
+  "labels": [
+    "platform:android"
+  ],
+  "milestone": "4.3",
+  "number": 8813,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Hide Keystore password on android export window",
+  "up": 0,
+  "updatedAt": "2024-01-08T11:15:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8813"
+}

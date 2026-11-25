@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Doctool is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-25T12:36:12Z",
+  "comments": 4,
+  "createdAt": "2024-02-18T17:57:55Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9125,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Potentially slow code in DocTools::merge_from",
+  "up": 2,
+  "updatedAt": "2024-03-25T12:36:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9125"
+}

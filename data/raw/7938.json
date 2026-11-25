@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "A script could place probes but workflow will still be bad."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 39,
+  "createdAt": "2023-09-30T20:24:05Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7938,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve LightmapProbe placement workflow",
+  "up": 15,
+  "updatedAt": "2025-05-12T21:08:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7938"
+}

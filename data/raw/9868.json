@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Visual shaders are core",
+    "format": "form",
+    "workaround": "Not sure, though you can definitely add a frame node yourself, then select nodes and drop them in then reposition the nodes to where they were. But this feature is cumbersome, hidden (you need to know it's called frames, not groups) and is a common use case once you know they exist"
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-06-02T01:51:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9868,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 'frame selected nodes' context menu option for visual shaders",
+  "up": 3,
+  "updatedAt": "2024-07-12T09:29:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9868"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`PackedDataContainer` is a core class.",
+    "format": "form",
+    "workaround": "The alternative APIs are arguably easier to use and understand than `PackedDataContainer` itself is."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-05T16:30:39Z",
+  "comments": 2,
+  "createdAt": "2025-04-30T21:39:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 12344,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Deprecate `PackedDataContainer` class",
+  "up": 4,
+  "updatedAt": "2025-05-05T16:35:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12344"
+}

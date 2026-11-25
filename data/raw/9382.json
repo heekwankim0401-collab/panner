@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is necessary to customize more Android packaging support, otherwise, it is necessary to use android studio to build projects and use modifiers to modify the packaged AndroidMainfest.xml file, which is very troublesome and repetitive.",
+    "format": "form",
+    "workaround": "use more,There is a lot of repetitive work to be done."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-26T13:01:03Z",
+  "comments": 5,
+  "createdAt": "2024-03-26T04:58:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 9382,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "I need godot support to customize Android packaging options like unity.",
+  "up": 0,
+  "updatedAt": "2024-03-26T13:02:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9382"
+}

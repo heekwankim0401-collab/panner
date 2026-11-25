@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, don't really know, it's for a project, if nothing else, I'd like UDIM support, that'd be the same, perhaps with some texture occlusion, so one only has the textures in memory, of the parts of the creature, that is visible . . . I'd just use different materials, each one having a texture, but, people say it's not the best way, thx . . ! :-OO \n\nSorry, if this is bit vague, not sure if someone here knows something, how to do that, was possible on PS3, so, is there some neat way, etc . .",
+    "format": "form",
+    "workaround": "I got no idea, this is a technical challenge, well, just asking, it might be easy, or, someone here has an idea, thanks . . !"
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-20T17:09:20Z",
+  "comments": 4,
+  "createdAt": "2022-02-18T04:24:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3991,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support for large models with several textures . .",
+  "up": 1,
+  "updatedAt": "2022-02-20T17:10:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3991"
+}

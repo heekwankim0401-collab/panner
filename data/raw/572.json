@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can't be worked around properly in an add-on, and it is about making add-ons better.",
+    "format": "legacy",
+    "workaround": "There doesn't seem to be a way to get the calculated value of whether the icon and font color is light or dark. If you run the following code in an EditorPlugin script, it prints `0` (automatic):\n\n    print(get_editor_interface().get_editor_settings().get_setting(\"interface/theme/icon_and_font_color\"))\n\nThe best solution for now is to have the above code (in case users wish to specifically enforce light/dark icon/font color) combined with code like this:\n\n    print(get_editor_interface().get_editor_settings().get_setting(\"interface/theme/base_color\").v > 0.5)\n\nHowever, this doesn't update the plugin unless the plugin is restarted, and it also may not be consistent with the code that the editor uses to determine whether to use light or dark icons and font color. Therefore, this can't properly be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-03-10T13:33:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 572,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Custom editor icons should change color with light themes",
+  "up": 7,
+  "updatedAt": "2021-01-09T23:59:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/572"
+}

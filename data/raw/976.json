@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "markdown",
+    "workaround": "It is a core feature that would increase general usability."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-21T15:07:13Z",
+  "comments": 2,
+  "createdAt": "2020-05-31T06:11:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 976,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement adding child nodes for each node selected in the Scene tree dock",
+  "up": 1,
+  "updatedAt": "2026-09-21T15:09:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/976"
+}

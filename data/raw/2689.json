@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2021-05-05T09:48:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2689,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Treat loaded resource packs separately from each other",
+  "up": 53,
+  "updatedAt": "2025-06-19T01:52:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2689"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Built in scripts are already a part of core, this just makes them act similar to game maker objects where you can extend the object without breaking implementation.\n\nIt also is much easier to use and manage the normal scripts if it doesn't have bugs",
+    "format": "form",
+    "workaround": "It would be used to implement logic inside a node without creating a separate file."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2022-07-16T21:19:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4890,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Built in scripts should not be removable in derived scenes.",
+  "up": 0,
+  "updatedAt": "2023-12-31T19:27:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4890"
+}

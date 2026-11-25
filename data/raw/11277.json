@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Converting numbers to strings is core.",
+    "format": "form",
+    "workaround": "Yes, trivially, but confusingly, and inefficiently: `String.num(my_float).trim_suffix(\".0\")`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-12-02T12:16:11Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11277,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Split `String.num()` into two functions: `num_float` and `num_simple`",
+  "up": 14,
+  "updatedAt": "2025-10-20T16:03:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11277"
+}

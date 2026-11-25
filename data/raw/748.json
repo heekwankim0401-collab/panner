@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Some things are inaccessible to scripting, namely:\n* `ScriptServer` which can be used to list supported languages to be displayed in the manager (UPDATE: linking a PR which helps to implement this on the scripting side: godotengine/godot#40147)\n* `ScriptLanguage` is not exposed to scripting either to generate default templates:\n\n```cpp\nvirtual Ref<Script> get_template(const String &p_class_name, const String &p_base_class_name) const = 0;\nvirtual void make_template(const String &p_class_name, const String &p_base_class_name, Ref<Script> &p_script) {}\nvirtual bool is_using_templates() { return false; }\n```\n\nSo partially it's doable, but do users really have to suffer the lack of usability of the built-in feature already present in core?",
+    "format": "legacy",
+    "workaround": "It's totally possible to use script templates without this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-04-24T12:06:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 748,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create a script template manager for the editor",
+  "up": 2,
+  "updatedAt": "2021-06-25T19:16:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/748"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Automatic instancing was implemented in the Forward+ renderer directly, so it makes sense to do the same for the mobile renderer too.\n\nA more technical reason would be: It's impossible to modify the list of draw commands that the mobile renderer computes from the scene render list via GDScript or GDExtension.",
+    "format": "form",
+    "workaround": "Well... You could write your own mesh batcher with a MultiMesh, but you'd also have to deal with culling yourself. This would end up being a fairly complex system, with noticeable GDScript overhead due to having to reimplement culling for each instance.\n\nAnd of course, such a mesh batcher would not be editable directly in the editor without an accompanying tool script. Really, all the reasons that apply to why Forward+ got automatic instancing should apply here, perhaps even more so as the target platform (mobile devices) is weaker."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-10-11T13:38:45Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13364,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement automatic instancing for the mobile renderer",
+  "up": 1,
+  "updatedAt": "2026-05-30T09:32:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13364"
+}

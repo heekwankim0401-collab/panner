@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it already is its just merging the pros of add_custom_type and class_name",
+    "format": "legacy",
+    "workaround": "This would make types so much better.\nYou can the use custom types by type name now!"
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-16T00:39:55Z",
+  "comments": 12,
+  "createdAt": "2020-11-23T19:03:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1876,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make class_name act the same as add_custom_type but with typed name",
+  "up": 0,
+  "updatedAt": "2021-04-16T11:16:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1876"
+}

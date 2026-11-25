@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's something internal to Godot.",
+    "format": "form",
+    "workaround": "As far as I know, no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-01-28T02:17:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14087,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a way to handle changes in the order of nodes",
+  "up": 2,
+  "updatedAt": "2026-01-28T17:12:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14087"
+}

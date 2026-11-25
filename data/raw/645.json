@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It rearranges existing functionality. There's not really any new code, the existing close actions move around a little and the resource text changes. \n\nA variation would be to do away with the standalone Project Manager and be like QtCreator, where the list of projects and the way to create a new one is just a big subwindow hiding any open project and providing something to show initially. That's a bigger change but I do wonder if the Project Manager window disappears while you are editing a project to stop you selecting another project at the same time.",
+    "format": "legacy",
+    "workaround": "Don't know, but doubt it. However its mostly tweaks to existing resources"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-03-28T20:42:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 645,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve main window open/close behaviour",
+  "up": 0,
+  "updatedAt": "2022-04-09T21:27:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/645"
+}

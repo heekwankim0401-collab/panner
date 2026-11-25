@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's adding a new VIsualShader node to replace current functionality.\n\nSee also https://github.com/godotengine/godot-proposals/discussions/6182#discussioncomment-4805338.",
+    "format": "form",
+    "workaround": "The current method functions fine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-23T23:06:05Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10819,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a dedicated VisualShader node for math constants",
+  "up": 2,
+  "updatedAt": "2025-07-20T18:13:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10819"
+}

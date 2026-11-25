@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Straightforward workflow improvement.",
+    "format": "form",
+    "workaround": "You can go and disable/enable fog etc every time you switch to orthogonal, but this is awkward and error prone.  Gridmap is a core feature for 3D prototyping though, and I believe this enhancement should benefit lots of users."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-27T12:29:44Z",
+  "comments": 11,
+  "createdAt": "2023-11-01T15:23:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8334,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't render depth-based effects such as fog and depth of field when using an orthographic camera",
+  "up": 2,
+  "updatedAt": "2023-11-27T12:36:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8334"
+}

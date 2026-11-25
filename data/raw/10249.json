@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Native Output panel",
+    "format": "form",
+    "workaround": "No, I'd probably need to rewrite the Output panel"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-07-19T13:18:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10249,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add classic text search in Output bottom panel, do not filter completely so developer can see surrounding text",
+  "up": 6,
+  "updatedAt": "2026-09-17T15:27:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10249"
+}

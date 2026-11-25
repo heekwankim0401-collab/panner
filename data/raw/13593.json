@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Improvement to existing Find in Files functionality.",
+    "format": "form",
+    "workaround": "Not really, would probably need to reimplement the entire feature in an addon."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-14T17:11:53Z",
+  "comments": 1,
+  "createdAt": "2025-11-07T17:29:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 13593,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move Find in Files search options to its Search Results panel",
+  "up": 9,
+  "updatedAt": "2026-08-14T17:11:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13593"
+}

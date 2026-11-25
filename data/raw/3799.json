@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Dynamic control displays are becoming fairly ubiquitous on PC. I would think that a controller-button lookup feature is kinda a core idea. If you disagree, feel free to down-thumb vote.",
+    "format": "form",
+    "workaround": "N/A (doesn't add anything that's \"in-the-way\")"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-01-15T01:30:42Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3799,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create lookup for button names based on controller",
+  "up": 10,
+  "updatedAt": "2022-01-17T23:37:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3799"
+}

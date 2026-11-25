@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "i am not aware if new warnings could be added with a plugin",
+    "format": "form",
+    "workaround": "i am not aware if new warnings could be added with a plugin, but the point of this is helping in the UX of users worldwide, not for myself"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-10T15:43:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12580,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a GDScript warning to forbid access to pseudo-private members (name beginning with an underscore)",
+  "up": 7,
+  "updatedAt": "2025-06-11T15:21:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12580"
+}

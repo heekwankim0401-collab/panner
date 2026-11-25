@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be helpful for making bug reports easier to create and improve Godot's stability. It's probably possible to create an addon that does it though.",
+    "format": "form",
+    "workaround": "You might be able to work around it in script, I don't know if the decennaries are exposed to GDScript, or if it's easy to figure them out by looking at a resource file."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-01-06T20:43:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13964,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a tool to copy files with all its dependencies into a new project",
+  "up": 4,
+  "updatedAt": "2026-01-10T22:38:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13964"
+}

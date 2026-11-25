@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No, addons can't add callbacks to objects and inject code to all loaders.",
+    "format": "form",
+    "workaround": "No, related to core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2022-12-26T08:04:16Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5994,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to detect the completion of deserialization on Resource",
+  "up": 46,
+  "updatedAt": "2026-03-21T22:24:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5994"
+}

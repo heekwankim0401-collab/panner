@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The engine uses already this variable for CharacterBody3D and other variables in the same struct are exposed",
+    "format": "form",
+    "workaround": "No, because it's something that is not exposed from the engine"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-05-11T13:33:12Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9725,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `get_collider_angular_velocity()` method in PhysicsTestMotionResult3D",
+  "up": 1,
+  "updatedAt": "2024-05-12T22:38:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9725"
+}

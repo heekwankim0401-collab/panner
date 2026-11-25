@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This modifies the signal connecter and expands what can be achieved codeless with signals by a decent amount.",
+    "format": "form",
+    "workaround": "It would allow native connectivity between signals and properties.\n\nWorking around this with script requires manually adding setters to a lot of properties."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-18T13:14:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12809,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow connecting signals to parameters in the editor",
+  "up": 0,
+  "updatedAt": "2025-07-19T15:02:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12809"
+}

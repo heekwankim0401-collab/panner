@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It seems natural to add it to the existing hash APIs rather than as an extension that would need to be rebuilt for each platform.",
+    "format": "form",
+    "workaround": "Reimplementing this in GDScript would be fraught with peril, and slow. There's probably a C# implementation .NET users could incorporate."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-30T21:29:29Z",
+  "comments": 8,
+  "createdAt": "2026-01-30T12:07:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14112,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for fast non-cryptographic hashing",
+  "up": 0,
+  "updatedAt": "2026-01-30T23:41:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14112"
+}

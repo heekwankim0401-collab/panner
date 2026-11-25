@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a basic usability necessity.",
+    "format": "markdown",
+    "workaround": "Would be used by anyone working in 3D and who wants nice visuals."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 41,
+  "createdAt": "2021-01-17T11:35:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2138,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Render editor viewport gizmos and UI on a separate render pass to prevent them from being affected by post-processing effects",
+  "up": 46,
+  "updatedAt": "2026-11-06T20:56:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2138"
+}

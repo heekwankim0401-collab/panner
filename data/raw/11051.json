@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's already there :slight",
+    "format": "form",
+    "workaround": "It's possible to build your own toast notification system but that results in bad user experience."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-12T18:19:44Z",
+  "comments": 1,
+  "createdAt": "2024-10-30T15:05:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.4",
+  "number": 11051,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose EditorToaster interface",
+  "up": 6,
+  "updatedAt": "2024-11-12T18:25:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11051"
+}

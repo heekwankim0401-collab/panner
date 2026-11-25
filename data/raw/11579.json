@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-16T17:47:20Z",
+  "comments": 3,
+  "createdAt": "2025-01-16T07:42:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11579,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Store script uids in script files instead of generating a seperate .uid file",
+  "up": 1,
+  "updatedAt": "2025-01-18T10:10:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11579"
+}

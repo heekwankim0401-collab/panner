@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The scene editor is core to the engine",
+    "format": "legacy",
+    "workaround": "No script can do this"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-06T12:11:21Z",
+  "comments": 48,
+  "createdAt": "2020-11-20T14:29:52Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1864,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add in-editor playback/live preview for running scenes",
+  "up": 169,
+  "updatedAt": "2026-09-04T14:07:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1864"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "People who could get confused by \"Singleton\" wouldn't know to install such plugin.",
+    "format": "legacy",
+    "workaround": "Judging by Godot's Discord autoloads are used extremely often."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-15T16:25:39Z",
+  "comments": 7,
+  "createdAt": "2020-10-11T09:28:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1649,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename \"Singleton\" column in Project Settings / AutoLoad to \"Global\" (or something else)",
+  "up": 7,
+  "updatedAt": "2023-08-02T05:44:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1649"
+}

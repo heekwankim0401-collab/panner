@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Shader language improvements must be core.\n</details>",
+    "format": "markdown",
+    "workaround": "This enhancement will affect anyone who has more than a passing interest in shaders."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-25T20:10:02Z",
+  "comments": 17,
+  "createdAt": "2021-01-24T18:43:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:web",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2177,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Lacking compute support (HTML5)",
+  "up": 0,
+  "updatedAt": "2021-01-25T20:12:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2177"
+}

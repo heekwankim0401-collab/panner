@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "-\n\nTL:DR: Make Control Nodes default to Pass mouse inputs instead of Stopping it which can lead to inexpected behavior.",
+    "format": "legacy",
+    "workaround": "The Goal is to bring the behavior in line with Expectations."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-25T07:18:33Z",
+  "comments": 2,
+  "createdAt": "2020-05-24T14:12:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 881,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GUI: make mouse_filter default to PASS and explicitly set to STOP when required.",
+  "up": 5,
+  "updatedAt": "2020-05-25T07:19:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/881"
+}

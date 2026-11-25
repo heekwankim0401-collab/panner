@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it adds a few function to exist node, impl it as an add-on require re-implement the whole physics bone, since a lot of method are hidden.",
+    "format": "form",
+    "workaround": "Otherwise I have to create an other set of static body and collision shape, and sync bones transform to them every frame, which brings a lot of overhead."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-06-16T07:03:43Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7097,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add kinematic mode to PhysicalBone",
+  "up": 2,
+  "updatedAt": "2023-06-18T10:53:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7097"
+}

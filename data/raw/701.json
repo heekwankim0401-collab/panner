@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The user shouldn't have to download an add-on for a safety feature like this.\nIt should be built-in, like being able to set the limit of characters per second that can be printed to the console output. (_Project Settings/Network/Limits/Max Chars Per Second_)",
+    "format": "legacy",
+    "workaround": "This would be used every time a while-loop is used.\nThis **_could_** be done manually, using code like I provided above, but this would be tedious to have to do (and easy to forget to do) every time the user wants to use a while-loop."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-04-12T06:38:32Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 701,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Handle infinite while-loop with error message",
+  "up": 3,
+  "updatedAt": "2021-10-28T00:14:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/701"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because this is by default in Godot but only limited to Sprite3D as long as i am aware of it",
+    "format": "form",
+    "workaround": "Could be but seems that it works properly with Sprite3D, but in case of using it as texture of model, it works in its own scene but when used in other scenes, it does not display anything"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-16T16:57:03Z",
+  "comments": 6,
+  "createdAt": "2024-02-15T04:00:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9094,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to render SubViewport with camera as a texture form models",
+  "up": 0,
+  "updatedAt": "2024-02-16T16:57:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9094"
+}

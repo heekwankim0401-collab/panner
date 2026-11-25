@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would be a simple added option to a core feature of Godot, and it would probably be harder to implement as an addon rather than core.",
+    "format": "form",
+    "workaround": "The user can just carefully ignore results from the addon folder if unwanted."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-27T16:56:14Z",
+  "comments": 3,
+  "createdAt": "2025-04-26T21:24:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 12325,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Find In Files (script search results) Option to Skip Addons Folder",
+  "up": 1,
+  "updatedAt": "2025-04-28T14:23:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12325"
+}

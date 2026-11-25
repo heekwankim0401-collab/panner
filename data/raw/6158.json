@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's physics engine fixes.",
+    "format": "form",
+    "workaround": "Definitely not."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-23T22:51:04Z",
+  "comments": 4,
+  "createdAt": "2023-01-23T20:30:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6158,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Backport 4.0 GodotPhysics fixes for 3.6",
+  "up": 0,
+  "updatedAt": "2023-01-24T09:53:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6158"
+}

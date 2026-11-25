@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Currently it's not possible to modify the Godot Engine's color picker for oklch and pigment mixing.",
+    "format": "form",
+    "workaround": "It won't be a few lines and modifying the existing colour picker to add like oklch and pigment mixing is non-trivial.\n\nhttps://github.com/V-Sekai/godot-paint-mixer"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-03-09T02:54:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11949,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add OKLCH as an alternative to OKHSL",
+  "up": 12,
+  "updatedAt": "2025-06-07T06:48:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11949"
+}

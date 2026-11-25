@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If we support different colors at normal button I thinks its reasonable to support the same for textures.",
+    "format": "form",
+    "workaround": "Almost everything can be worked around...\n\nRight now I have a 3 .pngs with (3 different colors) and use that as 3 different textures in texture button.\n\nIt would be great if texture button could have the ability to modulate the different textures."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-06-12T06:59:14Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2856,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add state-based TextureButton color modulation  ",
+  "up": 0,
+  "updatedAt": "2021-06-13T05:14:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2856"
+}

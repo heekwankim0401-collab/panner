@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Again it reduces the amount of info you get in autocomplete when you do something like...\n```\nMyVeryBasicObject.\n```\nwithout removing any features",
+    "format": "form",
+    "workaround": "I think it would be used its basically what C# does"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-25T19:52:28Z",
+  "comments": 2,
+  "createdAt": "2022-03-25T07:21:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4279,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Consider hiding everything in Object behide a Type type and having a single get_type() member",
+  "up": 0,
+  "updatedAt": "2022-03-25T20:40:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4279"
+}

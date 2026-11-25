@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I know, no, because it requires changing the names of many existing built-in Visual Shader nodes.",
+    "format": "form",
+    "workaround": "No, because it requires changing the names of many existing built-in Visual Shader nodes."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-26T19:18:44Z",
+  "comments": 0,
+  "createdAt": "2022-10-26T15:35:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5663,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow searching Visual Shader nodes by the math operator symbol instead of just by name (example: * or + instead of \"multiply\" or \"add\")",
+  "up": 3,
+  "updatedAt": "2022-10-26T19:18:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5663"
+}

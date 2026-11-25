@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a CI change so it has to be core ^__^",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-06-15T23:17:29Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 7093,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make MacOS artifacts be an application (`.app`) instead of a simple binary executable ",
+  "up": 4,
+  "updatedAt": "2023-06-16T16:23:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7093"
+}

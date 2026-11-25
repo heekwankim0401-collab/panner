@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I intuitively expected scaling the CSGPolygon to have the result described above; I assume that it might be similar for others. Additionally, as I said above, the current behavior feels like a bug due to the short moment in which the scale is visible (in an unexpected way). _Some_ type of change is required to clear up confusion (e.g. an editor warning when scaling a CSGPolygon, if this enhancement is not implemented).\n\n(This supercedes https://github.com/godotengine/godot/issues/32171)",
+    "format": "markdown",
+    "workaround": "With a scale of 1, everything will remain the same. The behavior for non-1 scale is changed - in a way, this breaks compatibility for projects which rely on the scale not affecting the CSGPolygon, but the current behavior seems more like a bug to me?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-03-06T18:35:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2412,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow scaling a path-following CSGPolygon",
+  "up": 3,
+  "updatedAt": "2021-09-29T20:19:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2412"
+}

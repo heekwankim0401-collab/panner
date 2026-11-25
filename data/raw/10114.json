@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about making it easier to create good-looking VFX with the built-in tools provided by Godot.",
+    "format": "form",
+    "workaround": "This can be worked around using a MeshInstance3D + QuadMesh setup with a custom material. However, this requires a fair bit more work, especially if you want to simulate AnimatedSprite3D's behavior."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-04T16:42:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10114,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Reimplement support for overbright modulate values in Sprite3D",
+  "up": 6,
+  "updatedAt": "2024-07-04T16:44:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10114"
+}

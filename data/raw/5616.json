@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No this is a core rendering engine change",
+    "format": "form",
+    "workaround": "No this is a core rendering engine change"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-05T01:27:05Z",
+  "comments": 1,
+  "createdAt": "2022-10-19T01:17:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5616,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use a sRGB render target format instead of `UNORM`",
+  "up": 0,
+  "updatedAt": "2023-09-09T15:38:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5616"
+}

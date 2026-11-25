@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This dramatically improves the connectivity that can be achieved through signals, giving them the flexibility to:\n- set properties that doesn't have a setter by connecting to \"set\"\n- set nested properties like position:x and shape:radius by connecting to \"set_indexed\"\n- makes it clearer what the final arguments of a new signal will be by adding default args to the connection viewer",
+    "format": "form",
+    "workaround": "It would allow native connectivity between signals and properties.\n\nWorking around this with script would require doubling the signal count and adding a new \"Remapper\" node for each signal that takes a bound remap argument."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-18T13:08:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12808,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rebind callable arguments",
+  "up": 0,
+  "updatedAt": "2025-07-19T14:53:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12808"
+}

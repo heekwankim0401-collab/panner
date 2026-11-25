@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it requires implementing Variant::Type::VOID_PTR, and that can only be done on the engine level.",
+    "format": "form",
+    "workaround": "It can be worked around, but, for example, Urho3D has an almost identical implementation of Variant to Godot's, and they decided to expose arbitrary pointer assignment to their version of Variant. [[Example]](https://github.com/urho3d/Urho3D/blob/master/Source/Urho3D/Core/Variant.h#L434)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2021-07-24T11:06:06Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 3037,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose Variant's internal generic pointer for GDNative",
+  "up": 0,
+  "updatedAt": "2021-08-24T00:01:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3037"
+}

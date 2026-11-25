@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't implement as an add-on.",
+    "format": "form",
+    "workaround": "No. It's a gdscript compiler/linter improvement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-12-27T23:44:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8733,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Warn when using export_range with mismatching numeric types",
+  "up": 0,
+  "updatedAt": "2023-12-28T08:41:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8733"
+}

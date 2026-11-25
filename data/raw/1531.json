@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Pretty much every language has a way of doing this?\n\n[edit: missed a closing bracket]",
+    "format": "legacy",
+    "workaround": "It really can't.  The standard answer is to create a separate app in a different language and have a rest interface to call the command.... :("
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-18T13:41:15Z",
+  "comments": 1,
+  "createdAt": "2020-09-18T13:33:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1531,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Please consider adding a way to get output from OS.execute real-time",
+  "up": 0,
+  "updatedAt": "2020-09-18T13:41:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1531"
+}

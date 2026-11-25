@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't know if any add-on can modify the AST in gdscript.",
+    "format": "form",
+    "workaround": "The implementation is very simple. It will not break the compatibility. And it is more practical.\n\nIt only needs to add two keywords. Only gdscript_tokenizer and gdscript_parser four files need to be modified, adding no more than 50 lines.\n\nThe main implementation is adding a new function in`gdscript_parser.cpp` and `gdscript_parser.h`.\n\n```cpp\nGDScriptParser::ExpressionNode *GDScriptParser::parse_null_coalescing_operator(ExpressionNode *p_previous_operand, bool p_can_assign) {\n\t// Only one ternary operation exists, so no abstraction here.\n\tGDScriptTokenizer::Token op = previous;\n\tTernaryOpNode *operation = alloc_node<TernaryOpNode>();\n\treset_extents(operation, p_previous_operand);\n\tupdate_extents(operation);\n\n\tPrecedence precedence = (Precedence)(get_rule(op.type)->precedence + 1);\n\tGDScriptParser::ExpressionNode* left = p_previous_operand;\n\tGDScriptParser::ExpressionNode* right = parse_precedence(precedence, false);\n\n\tif(right == nullptr){\n\t\tpush_error(R\"(Expected expression after \"then/elthen\".)\");\n\t}\n\n\toperation->condition = p_previous_operand;\n\n\n\tswitch (op.type)\n\t{\n\tcase GDScriptTokenizer::Token::THEN:\n\t\toperation->true_expr = right;\n\t\toperation->false_expr = left;\n\t\tbreak;\n\tcase GDScriptTokenizer::Token::ELTHEN:\n\t\toperation->true_expr = left;\n\t\toperation->false_expr = right;\n\t\tbreak;\n\n\tdefault:\n\t//Won't go here\n\t\tbreak;\n\t}\n\n\tcomplete_extents(operation);\n\treturn operation;\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-19T08:07:50Z",
+  "comments": 2,
+  "createdAt": "2024-04-02T16:06:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9437,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement a null-coalescing operator in a pratical, harmless way",
+  "up": 0,
+  "updatedAt": "2026-07-19T08:07:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9437"
+}

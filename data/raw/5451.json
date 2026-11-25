@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can technically be an add-on, but the point here is that this functionality must be built-in to achieve the desired goal (which is, reducing GPU power draw and GPU-bottleneck-induced input lag when V-Sync is disabled).",
+    "format": "form",
+    "workaround": "Yes, but this is not something most project developers will think about naturally.\n\nFor example, this autoload script can be added to a project:\n\n```gdscript\nextends Node\n\n\nfunc _ready():\n\t# Note: This doesn't account for multi-monitor setups with different refresh rates.\n\tEngine.target_fps = DisplayServer.screen_get_refresh_rate() + 1\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-09-18T18:35:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5451,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Limit rendered framerate to (roughly) the monitor refresh rate by default when V-Sync is disabled or fails to kick in",
+  "up": 3,
+  "updatedAt": "2024-11-29T20:36:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5451"
+}

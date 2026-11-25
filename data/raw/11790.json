@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Toggling visible collision shapes is a core part of the editor, all this would do is make it a lot more convenient.",
+    "format": "form",
+    "workaround": "For all I know it could not, and it would be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-04T16:52:32Z",
+  "comments": 2,
+  "createdAt": "2025-02-17T06:56:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": "4.8",
+  "number": 11790,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to toggle collision shape visibility in-game",
+  "up": 20,
+  "updatedAt": "2026-08-04T16:52:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11790"
+}

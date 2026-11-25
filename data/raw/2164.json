@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I still believe, that godotengine/godot#45363 really is a bug. It's very irritating that masked-out button clicks are still \"handled\" by the control (without any real handling taking place). But if it's the intended way of how buttons work as @KoBeWi said, this should be changed in the core or *at least* be documented well.",
+    "format": "markdown",
+    "workaround": "You'd have to catch clicks in _unhandled_event, check out wether it's a left mouse click, check on which control the click was carried out and then call that control's pressed function. That's basically rewriting the core functionality of the button controls."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-01-23T13:13:48Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 2164,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Don't handle mouse clicks that are masked out",
+  "up": 3,
+  "updatedAt": "2021-01-23T13:17:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2164"
+}

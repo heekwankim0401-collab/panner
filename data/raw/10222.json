@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "SCREEN_UV is a very basic built-in for the fragment() function. Such a built-in for the light() function would also be very basic.",
+    "format": "form",
+    "workaround": "As mentioned above, you can use something like `vec2 SCRN_UV = (VIEW.xy + FRAGCOORD.xy) / VIEWPORT_SIZE;` to make your own SCREEN_UV variable in the light() function (I don't know if this is correct even), though IMO it feels intuitive that there would just be a SCREEN_UV bulit-in."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-22T00:12:20Z",
+  "comments": 0,
+  "createdAt": "2024-07-16T07:12:05Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": "4.4",
+  "number": 10222,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the built-in SCREEN_UV to the spatial shader's light() function",
+  "up": 2,
+  "updatedAt": "2024-11-29T11:31:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10222"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the 3D editor usability out of the box.",
+    "format": "form",
+    "workaround": "In the Inspector the transforms are edited locally and almost always as expected but not always - depending on the selected Rotation Order."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-08T23:55:28Z",
+  "comments": 2,
+  "createdAt": "2026-01-08T22:09:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13978,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a transform orientation toggle to the 3D workspace",
+  "up": 0,
+  "updatedAt": "2026-01-14T23:58:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13978"
+}

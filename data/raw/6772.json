@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Notepad++ is a common text editor, and this is an engine enhancement that would support it, but the general case would also support all other editors that have command line restrictions.",
+    "format": "form",
+    "workaround": "One can simply skip opening the workspace in Notepad++, or leave the same workspace always open, but this becomes a problem if you switch projects.\n\nOne can also create a set of custom settings for Notepad++ specifically for Godot and call those as a commandline flag: [-settingsDir=\"d:\\your settings dir\\\"]"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-04-29T00:49:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6772,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow multiple calls for launching External Editors",
+  "up": 0,
+  "updatedAt": "2023-04-29T01:18:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6772"
+}

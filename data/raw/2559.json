@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is essential for debugging CI issues",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-23T23:05:42Z",
+  "comments": 4,
+  "createdAt": "2021-04-06T19:21:09Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.2",
+  "number": 2559,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display Gradle's standard output/error to the console when exporting to Android",
+  "up": 3,
+  "updatedAt": "2026-06-22T18:00:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2559"
+}

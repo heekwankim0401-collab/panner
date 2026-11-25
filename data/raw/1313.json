@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this is a common problem, cause 0,0 is a natural center point for objects.",
+    "format": "legacy",
+    "workaround": "The Workaround is to drag the object to another position, but that can lead to problems especially with coded positions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-08-05T13:14:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1313,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Optional centered Scene on \"Play Scene\"",
+  "up": 5,
+  "updatedAt": "2024-05-13T20:41:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1313"
+}

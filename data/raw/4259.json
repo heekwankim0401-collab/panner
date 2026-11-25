@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Is a basic part of the system and cant be done outside.",
+    "format": "form",
+    "workaround": "No, the ways is done is not possible to work correctly with snapping when moving upwards along slopes."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-03T10:14:54Z",
+  "comments": 13,
+  "createdAt": "2022-03-22T19:54:27Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.1",
+  "number": 4259,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow CharacterBody to snap when there is a vertical upwards force in Godot 4.0",
+  "up": 3,
+  "updatedAt": "2023-03-03T10:14:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4259"
+}

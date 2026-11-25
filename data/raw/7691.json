@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is how tools function in _literally_ every other 2d and 3d editor I've ever worked in, and the best option I've found so far is to disable the shortcut to the tools to avoid reflexively selecting them when I work. \nI think that \"do not use tools that are essential in other programs\" is too radical of a solution and something better is needed. I do not know why tools in Godot are the way they are, so this is why I propose an optional checkbox instead of changing them permanently.",
+    "format": "form",
+    "workaround": "No script is needed, just don't check the option checkbox then."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-09-16T19:05:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7691,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor option to disable selection lock when using move, rotate, and scale tools",
+  "up": 4,
+  "updatedAt": "2023-09-18T12:17:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7691"
+}

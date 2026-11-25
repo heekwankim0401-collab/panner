@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "`EditorInspectorPlugin` already has `add_property_editor` – might as well add a `get_property_editor` next to it.",
+    "format": "form",
+    "workaround": "There is a workaround and it's _extremely_ gross: to traverse the editor node tree manually until you've found the `EditorInspector` you're looking for. I've pasted the code we have in our project below just to indicate how dirty we're playing here:\n\n```gdscript\nfunc _find_and_subscribe_to_property_changes_for_wave_label(c: Container, label: Label, wave: Wave) -> void:\n\tif _wave_found:\n\t\treturn\n\t\n\tfor c2 in c.get_children():\n\t\tif c2 is EditorInspector:\n\t\t\tvar ei: EditorInspector = (c2 as EditorInspector)\n\t\t\tvar eo: Object = ei.get_edited_object()\n\t\t\tif eo is Wave:\n\t\t\t\tvar w: Wave = eo as Wave\n\t\t\t\tif w == wave:\n\t\t\t\t\tvar callable: Callable = update_label.bindv([label, wave])\n\t\t\t\t\tif ei.property_edited.is_connected(callable):\n\t\t\t\t\t\t# disconnect and reconnect so that no callable's to old labels remain\n\t\t\t\t\t\tei.property_edited.disconnect(callable)\n\t\t\t\t\tei.property_edited.connect(callable)\n\t\t\t\t\t_wave_found = true\n\t\t\t\t\treturn\n\t\t\n\t\tif c2 is Container:\n\t\t\t_find_and_subscribe_to_property_changes_for_wave_label(c2, label, wave)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-27T14:33:59Z",
+  "comments": 4,
+  "createdAt": "2025-10-24T11:34:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 13455,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add way to get default editor property inspector",
+  "up": 2,
+  "updatedAt": "2025-10-27T16:45:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13455"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's not possible to implement as an add-on.",
+    "format": "form",
+    "workaround": "No, it needs core parts of the engine to be modified."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-16T14:28:35Z",
+  "comments": 1,
+  "createdAt": "2025-03-16T14:27:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12004,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implementing true 3D diegetic UI without having to rely on viewports",
+  "up": 0,
+  "updatedAt": "2025-03-17T17:34:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12004"
+}

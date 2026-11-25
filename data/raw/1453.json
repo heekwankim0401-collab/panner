@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a rethinking of existing implementation to provide for improved and customizable UX.",
+    "format": "legacy",
+    "workaround": "Not really but, when implemented a lot of the custom level editor tool creation can be simplified."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-09-03T10:57:51Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1453,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve GridMap and TileMap",
+  "up": 20,
+  "updatedAt": "2020-09-10T12:57:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1453"
+}

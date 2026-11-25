@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can not be worked around with an addon. Cyclic references are a core part of the scripting engine",
+    "format": "legacy",
+    "workaround": "No, right now there is no good way to work around cyclic references. `is` operator can be worked around by comparing the script with `load()`"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-18T23:14:07Z",
+  "comments": 20,
+  "createdAt": "2020-02-10T05:55:32Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 460,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow cyclic references",
+  "up": 57,
+  "updatedAt": "2022-12-22T19:54:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/460"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Having mesh files, I can change them in the code for the meshinstance node, for example. I can read them like a regular array and store them in a non-video memory. This allows me a lot. Just data in a simple format.",
+    "format": "form",
+    "workaround": "Yes, it is possible to convert models to obj, which are close to *mesh and also don't create scenes when imported. But the native engine format is better, I believe."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-27T21:54:16Z",
+  "comments": 5,
+  "createdAt": "2023-05-27T19:34:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6960,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Bring back the ability to import models as a *.mesh file!",
+  "up": 0,
+  "updatedAt": "2023-05-27T21:54:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6960"
+}

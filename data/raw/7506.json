@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It affects a core node.",
+    "format": "form",
+    "workaround": "You could make a custom type and create an exported enum with the two suggested options."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-10T13:16:37Z",
+  "comments": 1,
+  "createdAt": "2023-08-15T21:35:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7506,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace \"Override pose\" checkbox in \"BoneAttachement3D\" with a dropdown menu ",
+  "up": 0,
+  "updatedAt": "2024-04-10T17:46:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7506"
+}

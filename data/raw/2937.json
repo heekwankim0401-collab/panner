@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core feature in 3D, should be the same in 2D",
+    "format": "form",
+    "workaround": "No, it would need a separate audio bus with a filter for each instance of AudioStreamPlayer2D that updates every frame through gdscript"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-06-29T12:32:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 2937,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add low-pass attenuation to AudioStreamPlayer2D (like in 3D)",
+  "up": 3,
+  "updatedAt": "2021-06-29T13:26:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2937"
+}

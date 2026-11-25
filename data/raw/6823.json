@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature is fairly low-level. Thank you!",
+    "format": "form",
+    "workaround": "I believe this enhancement will be very useful in a variety of situations. As far as I know, a gdscript implementation would be ugly, complex, and unreliable, having to read many theme properties."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-12T08:18:18Z",
+  "comments": 2,
+  "createdAt": "2023-05-07T10:18:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.1",
+  "number": 6823,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `get_item_rect()` method to ItemList",
+  "up": 2,
+  "updatedAt": "2023-05-12T08:18:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6823"
+}

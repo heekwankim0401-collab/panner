@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This adds core Array functionality.",
+    "format": "form",
+    "workaround": "Yes, one can simply create a loop to accomplish the same task. But it must be done every time, and could be solved by patching this gap in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-20T14:15:53Z",
+  "comments": 7,
+  "createdAt": "2023-05-15T23:58:49Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.4",
+  "number": 6889,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add more array methods: first_custom, last_custom, count_custom",
+  "up": 15,
+  "updatedAt": "2024-09-20T14:15:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6889"
+}

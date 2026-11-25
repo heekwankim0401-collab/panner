@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-02-24T04:29:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14319,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use smoothing groups on CSG nodes instead of a boolean variable",
+  "up": 3,
+  "updatedAt": "2026-02-24T13:10:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14319"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Aircraft mechanics are inherently exciting. If this is implemented in core, people will be able to easily create airplane games right out of the box, just like they can with VehicleWheel3D for cars.",
+    "format": "form",
+    "workaround": "This cannot be implemented with just a few script lines. In the script it will work slowly"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-20T07:28:40Z",
+  "comments": 13,
+  "createdAt": "2025-05-18T22:51:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12459,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add VehicleWing3D node for wing physics simulation",
+  "up": 5,
+  "updatedAt": "2025-05-24T20:22:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12459"
+}

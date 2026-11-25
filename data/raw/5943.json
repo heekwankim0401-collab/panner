@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Impossible",
+    "format": "form",
+    "workaround": "It's a core change, but a workaround is possible (thx to comments)\n\n```gdscript\nfunc _notification(int what):\n    if what == NOTIFICATION_PROCESS:\n        //delta = get_process_delta_time()\n        ...\n```\n#### C# (with extension methods)\nExtension.cs\n```c#\npublic static float GetProcessDeltaTimef(this Node nd) => (float)nd.GetProcessDeltaTime();\n```\nCode.cs\n```c#\npublic override void _Notification(int what)\n{\n    if (what == NOTIFICATION_PROCESS)\n         //delta = this.GetProcessDeltaTimef()\n         ...\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-17T17:51:09Z",
+  "comments": 6,
+  "createdAt": "2022-12-16T04:08:12Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5943,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Remove delta param from _process and _physics_process to solve float/double cast issues",
+  "up": 0,
+  "updatedAt": "2022-12-17T17:51:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5943"
+}

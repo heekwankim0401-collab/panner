@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Documentation is part of the editor",
+    "format": "form",
+    "workaround": "This will be used all over Godot's official documentation"
+  },
+  "assignees": 1,
+  "closedAt": "2022-08-08T20:50:37Z",
+  "comments": 4,
+  "createdAt": "2022-07-15T10:59:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 4880,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a syntax for documenting method parameters",
+  "up": 6,
+  "updatedAt": "2022-08-08T20:50:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4880"
+}

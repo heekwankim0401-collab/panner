@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "**BaseButton** has a bunch of core signals: `button_down`, `button_up`, `pressed`, `toggled`. All referring to basic interactions with the Button through the Mouse or Shortcuts. I feel `hovered` should also be available, given it falls under the same group: a core interaction the Mouse has with the UI, hovering it when enabled.",
+    "format": "form",
+    "workaround": "Yeah, by using `mouse_entered` and checking if `disabled` is true or false within, but this requires for whichever script is reacting to the signal to have access to the Button in order to check its `disabled` var, when more often than not you just need to know if the Button was being hovered while enabled."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-03T18:09:27Z",
+  "comments": 3,
+  "createdAt": "2024-02-15T18:42:41Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9100,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add 'hovered' signal on BaseButton which is emitted if the Mouse hovers the Button when NOT disabled",
+  "up": 7,
+  "updatedAt": "2024-04-03T18:24:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9100"
+}

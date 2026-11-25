@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Is an OS detection function.",
+    "format": "markdown",
+    "workaround": "Not that I am aware of."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-22T03:26:30Z",
+  "comments": 8,
+  "createdAt": "2021-02-16T21:09:18Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 2300,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to detect whether a mobile project is running on a TV (Fire TV, tvOS, …)",
+  "up": 0,
+  "updatedAt": "2021-02-22T10:20:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2300"
+}

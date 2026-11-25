@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a rather basic feature one would expect from any node with even a modicum of physics to it, and would make developing any game in which physics plays a major role far less of a headache.",
+    "format": "form",
+    "workaround": "I have not yet seen a workaround that would allow for satisfactory characterbody-rigidbody interaction. If there is a workaround, it is almost certainly quite complex."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-03-19T15:07:15Z",
+  "down": 5,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6536,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for Characterbodies to have a weight assigned to them (for use in interaction with rigidbodies)",
+  "up": 3,
+  "updatedAt": "2023-03-20T21:20:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6536"
+}

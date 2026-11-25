@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this would be used often",
+    "format": "form",
+    "workaround": "Not with a few lines"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-07-31T02:40:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5029,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `FilePath` similar to `NodePath`",
+  "up": 4,
+  "updatedAt": "2025-09-17T10:56:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5029"
+}

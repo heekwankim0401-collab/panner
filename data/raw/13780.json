@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems like a basic editor preference to me, as it was already discussed as being included if there were enough support for it [here](https://github.com/godotengine/godot/issues/7450).",
+    "format": "form",
+    "workaround": "I do not know, I am not familiar with editor scripting at this time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-12-03T15:37:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13780,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to reverse (or customize) node order in Inspector",
+  "up": 0,
+  "updatedAt": "2025-12-03T16:13:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13780"
+}

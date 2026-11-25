@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because File is a core",
+    "format": "markdown",
+    "workaround": "![obraz](https://user-images.githubusercontent.com/37214990/120649460-152a9380-c47d-11eb-8cd3-56944d56cb57.png)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-06-03T13:05:55Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2820,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `File.get_lines()` to get text file as array of lines or optimize existing methods",
+  "up": 0,
+  "updatedAt": "2021-08-04T19:17:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2820"
+}

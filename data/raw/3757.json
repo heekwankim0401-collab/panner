@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The audit is about code that already exists.",
+    "format": "form",
+    "workaround": "Not related to code length but toward correctness."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-01-05T02:59:01Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3757,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Audit and mitigate GLTF2 security issues",
+  "up": 4,
+  "updatedAt": "2022-01-08T01:59:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3757"
+}

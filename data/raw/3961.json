@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it can't",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-02-12T18:58:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3961,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make dropping the root of an unsaved scene in the FileSystem trigger the \"save scene\" dialog",
+  "up": 0,
+  "updatedAt": "2023-10-01T08:04:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3961"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "These additions would greatly simplify the process of adding tilesets to projects in Godot, eliminating the need to manually reconfigure and redraw each collision shape by hand. Placing this enhancement in the base engine instead of an add-on would also help users who are afraid of installing malware or getting scammed. Overall, I believe this addition would greatly enhance the next major release of the Godot engine.",
+    "format": "markdown",
+    "workaround": "Unless this script knows how to load tilesets into a text editor, locate each collision mask, and somehow copy-paste them all without breaking anything, that workaround would be too impractical to be worth considering. Changing the default bitmask size would also be cumbersome, as it requires knowledge of how Godot itself operates."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-02T19:44:26Z",
+  "comments": 4,
+  "createdAt": "2021-03-30T16:51:24Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2529,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Quality-of-Life Suggestions for Tilemaps",
+  "up": 1,
+  "updatedAt": "2024-05-02T20:53:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2529"
+}

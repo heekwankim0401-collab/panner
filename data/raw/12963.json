@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The panel cannot be changed with addons. This is a core feature.",
+    "format": "form",
+    "workaround": "It can be worked around by putting on your big boy pants and counting the numbers."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-08-07T23:50:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12963,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Format the 'View Information' panel numbers in 2D/3D viewport",
+  "up": 1,
+  "updatedAt": "2025-08-08T13:34:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12963"
+}

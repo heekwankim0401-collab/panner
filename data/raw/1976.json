@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this `PopupMenu` method would be useful in a wide variety of cases (for example making custom submenus or custom highlighting of items etc)",
+    "format": "markdown",
+    "workaround": "can't get simple universal formula for it\nsomething like `int(rect_size[1]/get_item_count())*item_idx` could be used, but it's not inaccurate."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-12-12T10:47:12Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1976,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `get_item_position()` method to PopupMenu",
+  "up": 1,
+  "updatedAt": "2023-09-04T09:23:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1976"
+}

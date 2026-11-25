@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As I mentioned, I wrote an addon which isn't as well integrated into Godot. It also doesn't give the language server access to the functionality.",
+    "format": "form",
+    "workaround": "It will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-12-19T11:32:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3695,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add automatic imports for node and class references",
+  "up": 11,
+  "updatedAt": "2022-05-04T11:16:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3695"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "supports better code",
+    "format": "legacy",
+    "workaround": "it would be used alot and no not safely"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2020-05-02T04:45:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:dotnet",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 782,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow us to strongly type packed scenes",
+  "up": 119,
+  "updatedAt": "2026-05-13T17:27:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/782"
+}

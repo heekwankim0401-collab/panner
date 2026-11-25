@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because hacking in a tooltip would be really ugly and suck. (Which is to say I'm having trouble with it and I feel very dumb that I can't do it in under an hour. Sorry for bad phrasing).",
+    "format": "form",
+    "workaround": "I tried to work around it with script but it seems like the tooltips are currently pulled from documentation, and I'm not sure how to change the text that pops up without directly finding that node and editing its text there."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-12-05T21:42:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11294,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow custom tooltips for user-defined settings in ProjectSettings",
+  "up": 17,
+  "updatedAt": "2025-09-02T15:30:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11294"
+}

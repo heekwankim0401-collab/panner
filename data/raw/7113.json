@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I feel this should be a QoL feature in the engine and not requiring you to install an add on for. Godot should try to reduce the size of the program out of the box without any addons.",
+    "format": "form",
+    "workaround": "I’m not sure if an add on can modify the download of your project 🤔…."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-19T01:28:24Z",
+  "comments": 1,
+  "createdAt": "2023-06-19T01:25:43Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7113,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[QoL] Automatically disable 3D when project doesn’t use 3D",
+  "up": 0,
+  "updatedAt": "2023-06-19T12:38:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7113"
+}

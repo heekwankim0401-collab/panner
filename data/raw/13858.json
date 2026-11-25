@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe having more transparency of the raw OpenXR data to the end-user is generally a core function.  But, if it is felt by maintainers that \"raw OpenXR data\" should be an add-on, I would appreciate being pointed in the right direction to learn how I can make that a reality.",
+    "format": "form",
+    "workaround": "As the filtering is currently occuring in the C++ code, I assume it can not be modified by script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-15T04:12:00Z",
+  "comments": 1,
+  "createdAt": "2025-12-13T16:00:27Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13858,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "OpenXR: Still pass tracking data to `XRPose` even if `..._VALID_BIT` is unset",
+  "up": 0,
+  "updatedAt": "2025-12-15T10:28:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13858"
+}

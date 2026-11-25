@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Too simple for an add-on. And add-on won't be able to add methods to built-in types.",
+    "format": "form",
+    "workaround": "Yes, about six lines. But still lots of typing."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-18T06:50:54Z",
+  "comments": 4,
+  "createdAt": "2022-04-07T10:03:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4360,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add method to get `MarginContainer` content rect",
+  "up": 4,
+  "updatedAt": "2023-09-18T06:50:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4360"
+}

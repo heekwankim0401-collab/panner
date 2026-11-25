@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "SDFGI is a core graphical function of Godot 4.",
+    "format": "form",
+    "workaround": "I doubt it, but not sure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2021-07-19T03:51:00Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3012,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow SDF Reflections or SDF GI to be used independently from each other",
+  "up": 15,
+  "updatedAt": "2023-12-12T00:40:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3012"
+}

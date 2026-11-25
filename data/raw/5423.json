@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it's touching a core component.",
+    "format": "form",
+    "workaround": "Not at all as far as I know."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-14T20:21:43Z",
+  "comments": 4,
+  "createdAt": "2022-09-14T15:57:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5423,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Currently, in Tree, it seems that `item_mouse_selected` is not working with right click. Then, How to handle this event?",
+  "up": 0,
+  "updatedAt": "2022-09-17T23:20:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5423"
+}

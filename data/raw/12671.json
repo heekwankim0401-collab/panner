@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a PBR alternative to AO Light Affect, and it would be very complicated to add it as an add-on due to what was mentioned previously.",
+    "format": "form",
+    "workaround": "Perhaps this could be done with a GDShader, but it would require rebuilding almost all of Godot's PBR."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2025-06-26T20:41:39Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12671,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add microshadowing support",
+  "up": 23,
+  "updatedAt": "2026-02-08T16:08:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12671"
+}

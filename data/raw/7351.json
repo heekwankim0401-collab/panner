@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be very useful in every project and it allows for cleaner, more organized code as well as facilitating the implementation of design principles.\nIt would also be more efficient the core because in the case of properties the @tool modifier wouldn't be necessary to see the changes in the editor (which would be a desirable outcome) and because both signals and properties wouldn't even need their own code and memory allocation, _they can just be a pointer_, something trivial in C++ but impossible from outside the core.",
+    "format": "form",
+    "workaround": "In the case of signals connect()ing the child's signal when instanced and emit_signal() whenever the child emits that signal.\nIn the case of properties (for the example above)\n```GDScript\n@export var value: int:\n\tget:\n\t\treturn $sprite_with_frames.frame\n\tset(new_value):\n\t\t$sprite_with_frames.frame = new_value\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-07-22T16:21:12Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7351,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "\"Exposed\" properties and signals in GDScript",
+  "up": 17,
+  "updatedAt": "2023-07-28T03:32:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7351"
+}

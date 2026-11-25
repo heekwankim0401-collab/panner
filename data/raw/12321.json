@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "Yes, the methods could be offered as static functions on another namespace instead (e.g. `Funcs.sum(array)`). However, this is not as 'nice' to use or find."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-04-26T11:40:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 12321,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "API to register `Variant` extension methods and operators (GDExtension, Module)",
+  "up": 5,
+  "updatedAt": "2025-06-17T12:49:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12321"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "1 Native Viewport Integration:\nImplementing draggable gizmos that interact seamlessly with the editor's 2D and 3D viewports requires native integration. While a plugin could technically add lines, a core implementation ensures they are high-performance, respect the editor's themes, and stay synchronized with the Undo/Redo system without the overhead of complex \ntool scripts.\n\n2 Standardizing the Camera Workflow:The drag_margin system is already a core part of Godot's Camera nodes. Providing a visual way to edit these existing properties completes the feature. It transforms a hidden, \"inspector-only\" property into an intuitive, visual-first tool that benefits all developers using Godot's built-in camera margins.\n\n3. Maintenance and Discoverability:\nMaking this a core feature ensures that every Godot developer has access to professional framing tools immediately. It eliminates the need for users to maintain third-party plugins for a basic editor visualization, ensuring the tool remains stable and functional across all future engine updates.\n\n\nWrite With Love From A Creator",
+    "format": "form",
+    "workaround": "**Answer: No, not effectively.**\n\nWhile drag_margins can be set via script or the Inspector, the visual setup cannot be easily replicated. Currently, developers must \"guess\" the margin values, run the game to test, and repeat the process multiple times to get the right feel.\n\n1 The limitations of a script-only workaround are:\nLack of Visual Feedback: A script cannot provide draggable gizmos in the editor viewport without complex tool script implementations that are difficult to standardize across projects.\n\n2 Workflow Friction: Manually entering percentages (0.0 to 1.0) in the Inspector is counter-intuitive for a visual task like framing.\n\n3 Efficiency: Native visual handles allow for near-instant camera configuration, which is a major workflow improvement for any project using the built-in margin system."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-05T19:38:29Z",
+  "comments": 1,
+  "createdAt": "2026-02-05T14:42:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "spam",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14158,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add draggable Visual Gizmos for Camera Dead Zones (Drag Margins)",
+  "up": 0,
+  "updatedAt": "2026-02-05T19:57:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14158"
+}

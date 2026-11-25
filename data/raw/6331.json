@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-03T10:14:55Z",
+  "comments": 1,
+  "createdAt": "2023-02-21T04:10:46Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.1",
+  "number": 6331,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the Region Editor's \"Grid Snap\" default from 10px to 8px",
+  "up": 3,
+  "updatedAt": "2023-03-03T10:15:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6331"
+}

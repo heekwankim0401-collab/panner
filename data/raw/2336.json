@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I'm not sure if a version of GDScript that target .NET CLR can be added as addon language.",
+    "format": "markdown",
+    "workaround": "C# can be use when a CLR language is needed. I'm not sure if there are any form to use GDScript classes from C# classes."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-23T14:08:26Z",
+  "comments": 3,
+  "createdAt": "2021-02-23T13:50:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2336,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add GDScript as a .NET CLR language",
+  "up": 0,
+  "updatedAt": "2021-02-23T14:08:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2336"
+}

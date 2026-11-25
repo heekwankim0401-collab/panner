@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Improves usability of Godot instancing/root node system.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-08-04T13:38:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3088,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow newly instanced scenes to use search functionality",
+  "up": 1,
+  "updatedAt": "2021-08-04T15:22:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3088"
+}

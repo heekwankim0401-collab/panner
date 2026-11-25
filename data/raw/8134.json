@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "UI is the basic element of most games.",
+    "format": "form",
+    "workaround": "The workarounds are being very creative with focus indicators or making buttons that don't change shape/size when pressed. That severely limits design options.\n\nAnother workaround is disabling focus visuals, but it's bad for accessibility and different controls."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-10-15T19:19:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8134,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change the way focus is styled in themes",
+  "up": 10,
+  "updatedAt": "2026-09-25T16:37:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8134"
+}

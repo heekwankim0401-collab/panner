@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-10-09T19:05:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 15625,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"Problems\" dock to show all GDScript syntax errors and/or warnings",
+  "up": 8,
+  "updatedAt": "2026-10-10T14:39:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15625"
+}

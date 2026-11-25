@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can be implemented by an add-on, but this proposal is about providing feature parity with TextureRect's stretch modes.",
+    "format": "form",
+    "workaround": "No – not if you want all modes listed here, at least."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-07-06T14:45:16Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": "4.x",
+  "number": 4826,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Port TextureRect's stretch modes to VideoStreamPlayer",
+  "up": 6,
+  "updatedAt": "2023-02-24T04:23:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4826"
+}

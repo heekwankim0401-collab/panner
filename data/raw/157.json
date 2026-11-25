@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement needs to be part of the core along with the other formatting options since it is a syntax modification.\n\n*Bugsquad edit (keywords for easier searching): template literals, string interpolation*",
+    "format": "legacy",
+    "workaround": "Will be used often. The alternative is using % or .format() formatting which is much more verbose."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 31,
+  "createdAt": "2019-10-14T16:01:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 157,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add literal quoted strings with embedded variables (f-strings) to GDScript",
+  "up": 333,
+  "updatedAt": "2026-07-11T18:43:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/157"
+}

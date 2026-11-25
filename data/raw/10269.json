@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It has to be integrated into the rendering drivers.",
+    "format": "form",
+    "workaround": "No, it has to be integrated into the rendering drivers."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-07-23T13:42:22Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10269,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Handle and recover from graphics driver restart gracefully",
+  "up": 4,
+  "updatedAt": "2024-07-23T13:47:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10269"
+}

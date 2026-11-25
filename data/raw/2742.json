@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a refactoring of a basic core node: `Node2D`.\n\nPS: I has been almost 20 years since I do not code professionally. I do not even know what \"refactoring\" actually means. Sorry if I am saying silly things! :-)",
+    "format": "markdown",
+    "workaround": "This is used very often, since it is the basic functionality of `Node2D`. It is a performance issue due to design choices that were made in favor of the *tools mode*. And it is also a \"code correctness\" issue. A KISS issue. A DRY issue. The workaround is just leaving as it is. :-)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-05-19T15:44:18Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2742,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Eliminate redundant cached information in `Node2D`: `pos`, `angle`, `_scale` and `skew`.",
+  "up": 8,
+  "updatedAt": "2022-07-30T18:23:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2742"
+}

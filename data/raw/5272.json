@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "For performance reasons, it could perform better if provided as core feature, instead of being a add-on with the workaround cited above.",
+    "format": "form",
+    "workaround": "A workaround would be to use Viewports, but currently there is no way to manually render a specific viewport whenever the user wants, at least not on 3.x that I know."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-07T12:02:43Z",
+  "comments": 4,
+  "createdAt": "2022-08-27T14:07:22Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.7",
+  "number": 5272,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to blit a texture using fragment shaders",
+  "up": 12,
+  "updatedAt": "2026-08-07T12:04:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5272"
+}

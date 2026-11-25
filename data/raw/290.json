@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I'll probably round this out as a module even if it is decided not to put something like this in core. However, for something so simple, I think it offers a lot of potential, both to people making games, tools, and also potentially for use from other parts of the core.\n\n## Functions already included\n* read / writing elements and reserving array\n* read / writing as pool arrays\n* add, subtract, multiply, divide\n* dot, cross, unit cross, normalize\n* length, length squared\n* sqrt, inverse sqrt, reciprocal\n* xform, inverse xform\n\n## More timings (for those interested to compare intrinsics)\nThis time with a PoolVector3Array for gdscript, to make things fairer, and comparing sqrt functions for 20,000,000 sqrts, using either normal gdscript, ranged non-SSE code, and ranged SSE1 code:\n\n`timing gdscript 8228ms`\n`timing ranged 86ms`\n`timing SSE 8ms`\n\nThis is over 1000x speed increase with SSE. I have looked at the potential for SSE at the same time while doing the ranged functions. Up to SSE2 can be used with no need for CPU detection on 64 bit x86, as it is mandated. With CPU detection we could use AVX512, which would theoretically be up to 4000x faster (although memory speed might become more a bottleneck).\n\nThings like sqrt and reciprocal sqrt, length calculations and normalization really get a lot faster because SIMD uses a slightly less accurate but much faster version than standard sqrt. Afaik these can only be accessed by intrinsics, I don't think you can get the autovectorizer to make them for you, as there is a small loss of accuracy.",
+    "format": "legacy",
+    "workaround": "Cannot be worked around with script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2019-12-08T13:43:46Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 290,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add single instruction multiple data functionality for GDScript / C# / C++",
+  "up": 36,
+  "updatedAt": "2025-01-10T00:46:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/290"
+}

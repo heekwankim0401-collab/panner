@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The APIs to do this are not accessible outside of the core engine code currently",
+    "format": "form",
+    "workaround": "To my knowledge this is not possible with scripts"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-09-22T19:25:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 7805,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an EditorInterface API to use built-in EditorResourceConversionPlugins",
+  "up": 1,
+  "updatedAt": "2023-09-28T22:24:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7805"
+}

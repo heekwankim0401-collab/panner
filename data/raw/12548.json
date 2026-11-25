@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core function.",
+    "format": "form",
+    "workaround": "It can only be worked around using LSP which is definitely not \"a few lines\" and has the above mentioned issues."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-06-03T21:17:19Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12548,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `GDScriptLanguage::validate()` to GDScript to get script diagnostics",
+  "up": 1,
+  "updatedAt": "2025-06-04T03:10:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12548"
+}

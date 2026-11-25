@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because is just a single function that could be implemented in the SceneTween, there is no way with a plugin to make this object reusable because is an engine thing.",
+    "format": "form",
+    "workaround": "No idea what should I put here."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-27T15:44:17Z",
+  "comments": 7,
+  "createdAt": "2022-10-02T07:27:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 5528,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Clear previous SceneTween animation and make this object reusable for multiple animations",
+  "up": 1,
+  "updatedAt": "2026-08-27T15:44:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5528"
+}

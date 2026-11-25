@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having this feature as part of the core Godot editor is crucial for providing a consistently efficient development experience.",
+    "format": "form",
+    "workaround": "This type of integrated development environment (IDE) feature is not feasible to implement effectively through a script or plugin. Its integration into the core editor is essential for a seamless and native user experience."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-10T16:44:03Z",
+  "comments": 2,
+  "createdAt": "2023-11-10T15:43:08Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8393,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Type Information and Documentation on Hover in Godot Editor",
+  "up": 2,
+  "updatedAt": "2023-11-10T17:12:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8393"
+}

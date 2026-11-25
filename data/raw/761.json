@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because we shouldn't have to have everything as a node in godot and currently like I said data oriented design is horrible in godot",
+    "format": "legacy",
+    "workaround": "right now data oriented design is horrible in godot and we can't do much at all without making everything a node. this would be used everytime someone saved a packed scene\nand i don't know of a way to work around this. but let me know if you do."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-04-28T20:48:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 761,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Save non exported variables in PackedScenes",
+  "up": 0,
+  "updatedAt": "2020-05-01T22:37:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/761"
+}

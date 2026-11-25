@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a change to the .tscn format itself.",
+    "format": "form",
+    "workaround": "No, I'm proposing a change to the way .tscn files are handled."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-12-28T08:52:08Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3723,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Sort .tscn content by property keys to decrease random changes when a scene is inspected but not actually edited",
+  "up": 5,
+  "updatedAt": "2025-10-31T11:43:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3723"
+}

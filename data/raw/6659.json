@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "An asset library addon cannot modify the core Input system.\n\n(I'm happy to work on implementing this into the engine if someone points me in the right direction)",
+    "format": "form",
+    "workaround": "No, this is a core engine suggestion."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-04-08T12:30:28Z",
+  "down": 0,
+  "labels": [
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6659,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement stylus button support",
+  "up": 0,
+  "updatedAt": "2023-04-08T16:17:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6659"
+}

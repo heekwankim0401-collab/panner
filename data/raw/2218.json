@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core i guess.",
+    "format": "markdown",
+    "workaround": "Well one can toggle the visibility of each child by code, but it shouldn't the default way of doing things in my opinion."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-02-01T18:06:13Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2218,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Visibility of a node should apply to all its children",
+  "up": 1,
+  "updatedAt": "2025-07-18T15:22:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2218"
+}

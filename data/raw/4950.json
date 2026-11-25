@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe this cannot be done as an asset.",
+    "format": "form",
+    "workaround": "I gonna use this often because I have a lot of onscreen buttons."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-07-22T16:03:50Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 4950,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `Button` to trigger its own shortcut",
+  "up": 2,
+  "updatedAt": "2022-07-22T19:32:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4950"
+}

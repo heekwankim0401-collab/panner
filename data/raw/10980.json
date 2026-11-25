@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be directly integrated in the BoxContainer Node",
+    "format": "form",
+    "workaround": "This can not be worked around, the only way i achieved it was writing the same logic for the BoxContainer in GDScript and adding the logic of the reverse sorting"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-16T15:17:14Z",
+  "comments": 1,
+  "createdAt": "2024-10-16T14:04:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10980,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Reverse Sort property to BoxContainer",
+  "up": 0,
+  "updatedAt": "2024-10-16T15:17:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10980"
+}

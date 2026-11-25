@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While I can imagine an extremely hacky plugin that is able to do it, I'd prefer it to be the default experience for everyone using the editor. But I do think it is doable as a plugin, in some form.",
+    "format": "legacy",
+    "workaround": "It cannot be solved by a simple script."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-19T15:38:24Z",
+  "comments": 10,
+  "createdAt": "2020-04-08T12:24:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 679,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Integrate \"Create Root Node\" step into \"Create Scene\" dialog",
+  "up": 5,
+  "updatedAt": "2023-10-19T15:38:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/679"
+}

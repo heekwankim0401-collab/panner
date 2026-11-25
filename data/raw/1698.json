@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "legacy",
+    "workaround": "This might be feasible with a custom screen-space shader, but the usual limitations of screen-reading shaders apply."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-10-21T12:18:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1698,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add optional scattering (distance blur) to non-volumetric fog",
+  "up": 21,
+  "updatedAt": "2022-09-09T17:52:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1698"
+}

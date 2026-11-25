@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because Area2D is part of core",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-20T07:54:08Z",
+  "comments": 11,
+  "createdAt": "2021-02-03T19:13:57Z",
+  "down": 1,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2234,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Area2D just for detecting collisions, add a new node for physics and audio overrides",
+  "up": 2,
+  "updatedAt": "2023-08-12T00:24:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2234"
+}

@@ -1,0 +1,21 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-08T01:59:38Z",
+  "comments": 0,
+  "createdAt": "2026-03-07T22:38:10Z",
+  "down": 0,
+  "labels": [],
+  "milestone": null,
+  "number": 14400,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Allow for a Weak() Type Decoration Rather than relying only on explicit WeakRef() calls during assignment.",
+  "up": 0,
+  "updatedAt": "2026-03-08T01:59:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14400"
+}

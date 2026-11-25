@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's about an already existing feature that makes Godot look bad because it looks like a visual bug on first glance, strikes through the middle of a scene and the only way to adjust it is through setting that are responsible for something else entirely.",
+    "format": "markdown",
+    "workaround": "I tried to find anything in the docs and project settings, but could not find anything."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-21T12:50:18Z",
+  "comments": 6,
+  "createdAt": "2021-04-21T05:38:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2629,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose shadow quality threshold distance",
+  "up": 1,
+  "updatedAt": "2021-07-24T09:36:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2629"
+}

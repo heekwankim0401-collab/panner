@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As I say above, you would need to recompile the no-editor build in a way that matches what you want. Maybe you can do it with an add-on, but it really would optimize if it was on its core.",
+    "format": "legacy",
+    "workaround": "As I've tried to learn about it, I saw that you would need to enter into the core of the engine. Even with a plugin, you would need to recompile the no-editor build anyway."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-21T15:41:48Z",
+  "comments": 1,
+  "createdAt": "2020-05-21T03:01:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 865,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Export template optimization",
+  "up": 1,
+  "updatedAt": "2020-05-21T15:41:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/865"
+}

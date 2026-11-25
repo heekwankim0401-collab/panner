@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be a minor modification to an existing function. No new assets will be introduced.",
+    "format": "form",
+    "workaround": "This can be achieved by moving backwards from the steep slope back to the floor by going through `get_slide_collision()`, comparing the normals one by one, and reverting to previous position."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-28T13:08:39Z",
+  "comments": 4,
+  "createdAt": "2021-07-10T16:36:57Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 2974,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the option to stop KinematicBodies from sliding up steep slopes that exceed `floor_max_angle`",
+  "up": 2,
+  "updatedAt": "2021-09-28T16:11:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2974"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's intended to work directly on a String, therefore an addon would add some unnecessary code when it could be a simple function.",
+    "format": "form",
+    "workaround": "Yes, but it's something that could just be exposed as a function.\n\nI believe this would be used more often than half of the built-in `String` functions.\n\nThe workarounds have already been explained above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-08-02T12:39:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5056,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a function to erase BBCode from a String, without depending on RichTextLabel",
+  "up": 25,
+  "updatedAt": "2022-09-23T16:02:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5056"
+}

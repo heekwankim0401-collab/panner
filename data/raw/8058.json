@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "core ux",
+    "format": "form",
+    "workaround": "cannot be worked around"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-04T15:40:36Z",
+  "comments": 1,
+  "createdAt": "2023-10-10T12:09:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.3",
+  "number": 8058,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve the error message when declaring getter with `get():` instead of `get:`",
+  "up": 0,
+  "updatedAt": "2024-01-04T15:40:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8058"
+}

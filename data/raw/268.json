@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a good feature to have in Vector3.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2019-12-03T14:54:42Z",
+  "comments": 2,
+  "createdAt": "2019-11-29T18:52:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 268,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "make angle_to have an option to not choose the minimum angle",
+  "up": 0,
+  "updatedAt": "2020-04-29T22:49:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/268"
+}

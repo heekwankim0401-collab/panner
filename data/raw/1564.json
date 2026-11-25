@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its already there but right now its limited to buttons",
+    "format": "legacy",
+    "workaround": "this would be used a lot.\nthis might be able to be worked around with a few lines of script but you would be fighting the system.\nthis would just move some general logic that all controls have into the control node."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-09-25T01:34:25Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1564,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Some things I would like to see added to controls and themes",
+  "up": 2,
+  "updatedAt": "2020-09-25T08:39:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1564"
+}

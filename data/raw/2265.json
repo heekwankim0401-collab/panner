@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Is a core issue.",
+    "format": "markdown",
+    "workaround": "No, is a default value."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-09T22:34:39Z",
+  "comments": 2,
+  "createdAt": "2021-02-09T21:05:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2265,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change default FOV of cameras to 30.",
+  "up": 0,
+  "updatedAt": "2021-02-09T22:41:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2265"
+}

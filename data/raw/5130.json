@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't be implemented as addon.",
+    "format": "form",
+    "workaround": "It would be used often, requires loads of bug prone gdscript to workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-08-09T20:11:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5130,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add pass-by-value structs to GDScript",
+  "up": 9,
+  "updatedAt": "2022-09-24T22:20:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5130"
+}

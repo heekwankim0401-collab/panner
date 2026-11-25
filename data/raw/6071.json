@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's easier (presumably) to replace orthogonal shadow mapping with PSM than to refactor all of it out",
+    "format": "form",
+    "workaround": "PSSM can be used for even higher quality shadows for developers who don't mind the increased hardware requirements."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-03T04:35:18Z",
+  "comments": 4,
+  "createdAt": "2023-01-09T18:02:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6071,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Replace orthogonal shadow maps with perspective shadow maps",
+  "up": 3,
+  "updatedAt": "2023-02-03T10:59:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6071"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "can't be an addon",
+    "format": "form",
+    "workaround": "I more often want the type to be as narrow as possible.\nThen it can be loosened on a case by case basis which I think is rare when performing this operation."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-14T12:05:47Z",
+  "comments": 2,
+  "createdAt": "2023-09-14T07:19:00Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7663,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use script type for variable when drag-and-dropping a node on a script",
+  "up": 1,
+  "updatedAt": "2023-09-14T12:05:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7663"
+}

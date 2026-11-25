@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As said above, it's not 100% possible to make a proper plugin.",
+    "format": "legacy",
+    "workaround": "No. You could theoretically write a plugin, but not sure if it's possible to add a shortcut in a specific editor, which means it would need to be global."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-20T16:09:54Z",
+  "comments": 0,
+  "createdAt": "2020-09-22T10:34:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": "4.1",
+  "number": 1548,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add shortcut for toggling Word Wrap in Script Editor",
+  "up": 5,
+  "updatedAt": "2023-04-20T16:09:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1548"
+}

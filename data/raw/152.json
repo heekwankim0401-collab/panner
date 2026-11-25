@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know how an add-on could supply this info.  It's also useful information that others may need at some point.  Most everything else about the method is provided by `get_method_list`",
+    "format": "legacy",
+    "workaround": "There is a workaround.  Barring any way to determine the status from info provided by the engine, I must make users specify a list of functions not to double.  This is more cumbersome for users than it is to code."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-11T14:03:00Z",
+  "comments": 2,
+  "createdAt": "2019-10-13T21:28:14Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 152,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an indicator to method metadata to indicate static methods",
+  "up": 0,
+  "updatedAt": "2023-09-11T14:03:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/152"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure if add-ons can modify the behavior of existing nodes, and you'd expect something as simple as customizable text position of a button to be available out of the box.",
+    "format": "form",
+    "workaround": "It can be worked around by adding a child Label node, but buttons are used quite often and the workaround itself introduces more problems."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-08-20T11:34:18Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10503,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Button.text_offset` property",
+  "up": 9,
+  "updatedAt": "2024-08-23T09:23:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10503"
+}

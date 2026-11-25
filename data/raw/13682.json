@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's about improving the scrolling out of the box. If the entire engine has it properly implemented, everyone will get good smooth scrolling. Not just in the editor, but in their games/apps too.",
+    "format": "form",
+    "workaround": "With plugins, yes, but it's cumbersome to do that. Smooth scrolling always has been pretty bad in Godot in my opinion and just having an option to properly smoothen the scrolling out of the box feels like a needed change. Why not just rework it a little bit and expose it to GDScript?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-22T11:20:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13682,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rework smooth scrolling system",
+  "up": 5,
+  "updatedAt": "2025-11-23T13:41:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13682"
+}

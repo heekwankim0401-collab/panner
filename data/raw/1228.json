@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Again, it could be something many people used, and atm one can, make meshes visible, or invisible, with a click, maybe add that for a mesh, with several materials and, faces assigned to it, so one could toggle gear and, items on off, more easily . .",
+    "format": "legacy",
+    "workaround": "One can set the alpha, to 0, and switch that, but technically it doesn't ' not ' render the material, and the faces assigned to it, but makes it transparent . . . If that feature was added, if it is even possible, it would make a lot of things easier, at least for the 3D games I'm making . ."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-20T07:41:29Z",
+  "comments": 2,
+  "createdAt": "2020-07-20T07:21:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1228,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a setting, to not Render ( Visibility ) for individual materials, on a mesh . .",
+  "up": 0,
+  "updatedAt": "2020-07-20T07:46:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1228"
+}

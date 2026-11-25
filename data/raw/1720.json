@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would simplify rotations and make them easier to understand",
+    "format": "legacy",
+    "workaround": "this would make things so much easier for people to convert between 3d and 2d vectors and while it might be doable with script its not very easy to understand and do."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-20T03:57:57Z",
+  "comments": 5,
+  "createdAt": "2020-10-24T23:33:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1720,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Can't convert Vector2 to Vector3 due to y axis differences",
+  "up": 0,
+  "updatedAt": "2021-04-20T03:58:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1720"
+}

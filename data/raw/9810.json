@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "i don't know",
+    "format": "form",
+    "workaround": "no script. you just have to remember what name the function has in order to correctly call it. if you have multiple scripts from multiple scenes you go back and forth to do check work"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2024-05-23T17:41:19Z",
+  "down": 1,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9810,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Auto-complete the exported variable function for other scenes/scripts",
+  "up": 0,
+  "updatedAt": "2024-05-25T16:41:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9810"
+}

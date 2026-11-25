@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This functionality is essential and common in engines like Unity. Its integration into Godot would ease the transition for developers coming from other platforms and enrich the engine's native capabilities",
+    "format": "form",
+    "workaround": "To cancel all coroutines in a script, I use a cancel_all_coroutines_now variable. This works, but does not stop a specific coroutine and makes the code heavier. The proposed functionality would provide an integrated and cleaner solution.\n\nCancellation system for all coroutines\n```gdscript\nvar cancel_all_coroutines_now := false\n\nfunc my_awaiter(t :float) -> void:\n    var end_time := Time.get_ticks_msec() + t * 1000\n    while Time.get_ticks_msec() < end_time:\n        if cancel_all_coroutines_now: return\n        await get_tree().process_frame\n\nfunc cancel_all_coroutines():\n    cancel_all_coroutines_now = true\n    await get_tree().process_frame\n    cancel_all_coroutines_now = false\n```\n\n\nExample of a situation where you need to check if the coroutine should be canceled\n```gdscript\nfunc async_example():\n    if cancel_all_coroutines_now: return # Checking at the start of each coroutine\n    print(\"code here\")\n\n    for i in range(40):\n        if cancel_all_coroutines_now: return # Check at the start of a timed loop\n        print(\"code here\")\n        await get_tree().process_frame\n            \n    if cancel_all_coroutines_now: return # Checking after a timed loop\n    print(\"code here\")\n\n    await my_awaiter(1)\n    if cancel_all_coroutines_now: return # Checking after calling my_awaiter coroutine\n    print(\"code here\")\n\n    await async_other_coroutine()\n    if cancel_all_coroutines_now: return # Checking after calling a coroutine\n    print(\"code here\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-01-08T22:07:06Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8838,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make coroutines cancelable",
+  "up": 31,
+  "updatedAt": "2026-11-15T19:16:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8838"
+}

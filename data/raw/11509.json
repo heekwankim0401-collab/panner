@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Plugins can not add virtual function to built-in class",
+    "format": "form",
+    "workaround": "Plugins can not add virtual function to built-in class"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-27T20:51:31Z",
+  "comments": 2,
+  "createdAt": "2025-01-07T12:07:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 11509,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add video speed related virtual function",
+  "up": 1,
+  "updatedAt": "2025-06-05T09:31:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11509"
+}

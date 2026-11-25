@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it is core export functionality",
+    "format": "legacy",
+    "workaround": "Every time when the project is exported to Android"
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-13T17:10:18Z",
+  "comments": 2,
+  "createdAt": "2020-05-28T19:37:03Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 948,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the option (and logic) to encrypt the exported .pck or .zip file and decrypt it at runtime to access the data",
+  "up": 2,
+  "updatedAt": "2020-12-28T01:44:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/948"
+}

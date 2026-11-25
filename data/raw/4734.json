@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`HTTPClient` already provides this functionality and its abstraction should too as it is a very common thing you would want to do.",
+    "format": "form",
+    "workaround": "Yes, it can be worked around by a script, but I don't see why `HTTPClient` - a lower-level interface can provide this shortcut and `HTTPRequest` not."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-06-23T22:23:30Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4734,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make working with headers trough `HTTPRequest` easier",
+  "up": 4,
+  "updatedAt": "2022-06-23T22:23:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4734"
+}

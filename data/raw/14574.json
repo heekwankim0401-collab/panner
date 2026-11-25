@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-03-30T12:50:07Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 14574,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `scons vsproj=true` without specific `target` generate props for all valid ones [`editor`, `template_release`, `template_debug`]",
+  "up": 0,
+  "updatedAt": "2026-06-12T18:44:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14574"
+}

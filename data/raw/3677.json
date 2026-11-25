@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improves GI, and rendering is core atm.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-12-16T11:42:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3677,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement GI Based on De-Gridified Voxels / Spheres",
+  "up": 7,
+  "updatedAt": "2022-01-06T17:12:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3677"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "We already have many games relying on this feature and in the future we are also going to use this feature extensively. So it would definitely be easier if this is built-in instead of an add-on that has to be updated. We also believe that good sprite atlas support should be a basic feature in godot, so developers don't need to rely on third party plugins.\n\nWe hope this post explains what we are looking for, thanks : )",
+    "format": "legacy",
+    "workaround": "We believe that this feature could potentially help a lot of artists when working with sprite sheets. Since we are using the native TextureAtlas import setting in godot it would not be a good solution to add a custom script to crop the position."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-07T20:38:24Z",
+  "comments": 6,
+  "createdAt": "2020-10-14T10:33:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:import"
+  ],
+  "milestone": "3.x",
+  "number": 1661,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Crop Position to the Texture Atlas importer",
+  "up": 5,
+  "updatedAt": "2022-01-26T09:48:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1661"
+}

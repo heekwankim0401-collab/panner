@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Yes, native Spout/Syphon support is a fundamental feature that requires core integration rather than being an asset library add-on. The primary reason is the absolute necessity for low-level GPU access and direct integration with the graphics driver and OS.\n\n    Low-Level GPU Interoperability: Spout and Syphon are designed for high-performance, zero-copy GPU texture sharing. This means they need to directly interact with the graphics API (Vulkan, Metal, Direct3D) to acquire and share texture handles without involving the CPU. An add-on operating at a higher level of abstraction in GDScript or even a typical GDExtension would not have the necessary access or permissions to perform these low-level GPU operations efficiently or reliably.\n\n    Performance is Critical: The entire purpose of Spout/Syphon is to achieve near-zero latency and maximum frame rate. Any workaround involving copying textures to the CPU or using less direct methods (like screen capture) would introduce significant performance bottlenecks and latency, rendering it unusable for live performance. A core implementation ensures that the engine's rendering pipeline can be optimized to work directly with these sharing mechanisms.\n\n    Platform-Specific Dependencies: Spout relies on DirectX/Vulkan interop on Windows, and Syphon on Metal/OpenGL interop on macOS. Integrating these directly into Godot's core backends ensures that the correct, platform-specific libraries are handled efficiently and correctly from the ground up. An add-on would face significant challenges managing these platform dependencies and ensuring compatibility across different Godot versions and hardware.\n\n    User Experience and Reliability: For professionals in the live visual industry, reliability is paramount. A core feature ensures that Spout/Syphon support is consistently available, maintained, and tested with every engine release, providing a stable foundation for their critical work. An add-on might break with engine updates or",
+    "format": "form",
+    "workaround": "No, this cannot be implemented with just a few lines of script.\n\nA script-based solution would completely negate the fundamental technical advantages that Spout and Syphon offer.\n\nWhy a Script Won't Work\n\nThe primary function of Spout and Syphon is GPU-accelerated texture transfer without a detour through the CPU. This requires deep integration with the rendering engine and direct access to the graphics API and operating system APIs.\n\nThe Bottleneck bottleneck\n\nA script would be forced to copy the rendered texture from GPU memory to CPU RAM. From there, it would have to be sent to an external application and then loaded back onto the GPU by that application. This \"GPU-to-CPU-to-GPU\" chain is extremely slow and would introduce massive latency, which is unacceptable for live performance.\n\nNo Zero-Copy\n\nSpout and Syphon were specifically designed to bypass this bottleneck by directly accessing shared GPU memory handles. This is a very complex, platform-specific operation that cannot be achieved with standard scripting languages.\n\nAny workaround would fail to meet the critical performance requirements for real-time visuals. Therefore, a native implementation is the only viable solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-09-07T20:46:40Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "platform:windows",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13143,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement Native Spout/Syphon for GPU Texture Sharing",
+  "up": 1,
+  "updatedAt": "2025-10-08T15:52:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13143"
+}

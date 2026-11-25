@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If we want some custom syntax and more compile-time checking then it would likely be better added to core GDScript.",
+    "format": "legacy",
+    "workaround": "N/A. The feature could just be ignored or the old syntax used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-09-15T02:23:55Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1512,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add pattern matching for `await`",
+  "up": 7,
+  "updatedAt": "2020-11-21T00:00:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1512"
+}

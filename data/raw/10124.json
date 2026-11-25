@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it will help new users create better 2D levels, resulting in an improvement in performance for their games.\nSprite2D will not be obsolete, as it creates shapes without collision. This combines collision and the visual side into a single node, allowing users to rotate and resize shapes without fear of breaking it.",
+    "format": "form",
+    "workaround": "yes, but this has more to do with making godot more accessible and easy to use.\nthis solution could be the alternative to tilemaps, for 2D worlds that require **angled** shapes and **scaled** objects, without the use of scale."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-07-06T02:47:01Z",
+  "down": 2,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 10124,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "new VisualCollider2D for better non tileable 2D world creation",
+  "up": 0,
+  "updatedAt": "2024-07-06T18:43:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10124"
+}

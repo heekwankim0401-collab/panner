@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a super minor tweak, but it would save a lot of time in the long run, especially for people who learned other programming languages before GDScript.",
+    "format": "form",
+    "workaround": "This can be worked around in 2 extra characters, but this would be used frequently, and make it more convenient for people who are used to other languages."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-22T04:29:28Z",
+  "down": 8,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13680,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "++ (and --) in GDScript",
+  "up": 3,
+  "updatedAt": "2025-11-25T11:18:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13680"
+}

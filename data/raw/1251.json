@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Tweens are often used, and this is a very user-friendly way to create complex Tween behavior directly in the editor.",
+    "format": "legacy",
+    "workaround": "I think this would be used often as the preferred way to work with Tweens, since it is simple, quick, and visual."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-07-24T09:36:49Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 1251,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 'CurveTween' Node",
+  "up": 12,
+  "updatedAt": "2023-09-22T22:52:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1251"
+}

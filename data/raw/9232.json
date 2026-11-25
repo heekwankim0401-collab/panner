@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is core behaviour of the script editor, addressing a core issue.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-03-04T16:32:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9232,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to hard reset GDScript parsing/errors",
+  "up": 5,
+  "updatedAt": "2026-05-01T14:07:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9232"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a change to the fundamental input system of the engine",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-24T23:43:29Z",
+  "comments": 21,
+  "createdAt": "2024-02-01T01:01:14Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.5",
+  "number": 9000,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Switch to SDL as the main gamepad input driver",
+  "up": 52,
+  "updatedAt": "2026-06-18T08:40:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9000"
+}

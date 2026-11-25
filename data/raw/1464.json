@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it's a modification to the editor.",
+    "format": "legacy",
+    "workaround": "Well, one can just run the editor from a terminal, but this shouldn't be necessary."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-09-06T09:46:47Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1464,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to make the editor not use the dedicated GPU by default on Linux",
+  "up": 2,
+  "updatedAt": "2020-09-18T22:09:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1464"
+}

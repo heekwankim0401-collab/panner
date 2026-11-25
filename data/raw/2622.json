@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be a feature of gdscript,So addon in the asset library maybe not what we want.",
+    "format": "markdown",
+    "workaround": "As the yield couldn't support multiple signal,\n1.lets name the node which contain other_func() \"nodeA\"\n2.connect both of the button's signal to nodeA to funcA,funcB\n3.In funcA and funcB I will emit other custom signal singalC\n4.than yield from that signal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-04-19T14:37:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2622,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `yield` to await for multiple signals at once",
+  "up": 3,
+  "updatedAt": "2021-04-20T20:41:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2622"
+}

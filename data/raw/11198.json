@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "impossible, nowhere in the api is the sampling status exposed",
+    "format": "form",
+    "workaround": "impossible, nowhere in the api is the sampling status exposed"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-30T22:39:47Z",
+  "comments": 5,
+  "createdAt": "2024-11-20T17:34:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11198,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Viewport signal emitted when ReflectionProbe rendering is done",
+  "up": 0,
+  "updatedAt": "2024-12-01T09:36:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11198"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know if it can.",
+    "format": "form",
+    "workaround": "I am not sure wether this feature is used often at all. I do use it often. It can't be a script."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-01T15:36:59Z",
+  "comments": 12,
+  "createdAt": "2022-02-12T19:20:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 3962,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to reset the transform of the root node when saving a branch as an instanced scene",
+  "up": 18,
+  "updatedAt": "2024-10-21T11:42:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3962"
+}

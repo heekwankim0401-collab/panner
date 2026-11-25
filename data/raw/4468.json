@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core. Also, there recently was ([#60595](https://github.com/godotengine/godot/pull/60595)), so why not add z axis?",
+    "format": "form",
+    "workaround": "This can be worked around, however, it would negate the work that was put into making Label3D useful to begin with. If you were to use a texture with text in a billboard scenario, you would have to go back to using a viewport with sprite3d."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-04-29T19:26:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 4468,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Z Offset for Label3D and Sprite3D Nodes",
+  "up": 3,
+  "updatedAt": "2023-02-24T02:22:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4468"
+}

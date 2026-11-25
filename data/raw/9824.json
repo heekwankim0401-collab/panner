@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same as above.",
+    "format": "form",
+    "workaround": "No. It's about class reference XML."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-05T15:28:34Z",
+  "comments": 0,
+  "createdAt": "2024-05-26T05:25:32Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": "4.5",
+  "number": 9824,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Mark some virtual methods as required in class reference XML",
+  "up": 5,
+  "updatedAt": "2025-06-05T15:29:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9824"
+}

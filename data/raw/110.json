@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's inherent to the editor.\n\nFor a working example of this feature check VSCode.",
+    "format": "legacy",
+    "workaround": "No, it's inherent to the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-12T15:25:20Z",
+  "comments": 6,
+  "createdAt": "2019-09-28T11:53:30Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.2",
+  "number": 110,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Toggle Comment respect indentation level in the Script Editor",
+  "up": 16,
+  "updatedAt": "2023-07-12T15:38:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/110"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a small enough fix that does not break the existing engine logic and its results are quite common in games with support for additional localizations.",
+    "format": "markdown",
+    "workaround": "Yes. Either on the part of the project developer via code map with the name bypassing `get_locale_name` method, or on the part of the engine developers by simply fixing the already implemented name strings, or by creating a separate method to get language name in locale language, so as not to break backward compatibility."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-02-28T12:53:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.x",
+  "number": 2378,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to output the name of a locale in its language (instead of English)",
+  "up": 30,
+  "updatedAt": "2023-06-08T14:00:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2378"
+}

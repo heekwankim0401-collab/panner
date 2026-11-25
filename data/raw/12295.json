@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "My first thought was to add this as an add-on. However, to add this feature I need to either make a child class of `Gradient` that overrides the `get_color_at_offset` method or create a new class exactly like `Gradient` but with a different implementation of `get_color_at_offset`.\n\nThe first option would need the method to be virtual, and since it isn't, it would need to make changes to the `gradient.h` file, thus modifying the engine directly. It would then be more direct and easier to just directly add the feature directly into the `Gradient` class\n\nThe second option can be done as an add-on, but it has the main flaw of having the new class inherit from `Resource` instead of `Gradient`, making it unusable as a classic gradient with core objects.\n\nI didn't find any other option and since it is a basic feature, I think making it a core feature would improve the engine for people who make 2D and UI-based applications.",
+    "format": "form",
+    "workaround": "It can be worked around by making a custom gradient shader with dithering. It is however not convenient to use with themes and other shaders, making this solution convenient only for simple cases such as a background or a square texture with a gradient applied on it."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-23T07:13:53Z",
+  "comments": 2,
+  "createdAt": "2025-04-22T22:32:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12295,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add gradient dithering",
+  "up": 0,
+  "updatedAt": "2025-04-23T10:36:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12295"
+}

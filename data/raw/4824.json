@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As there more than likely isn't anyway to get the input, it should be added as a core element.",
+    "format": "form",
+    "workaround": "From what I have checked, there isn't any way to get another device's accelerometer with other code. I'm decently new but I have learned some coding from godot."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-06T14:40:57Z",
+  "comments": 1,
+  "createdAt": "2022-07-06T13:22:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 4824,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for multiple accelerometer and gyroscope inputs",
+  "up": 0,
+  "updatedAt": "2022-07-06T14:41:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4824"
+}

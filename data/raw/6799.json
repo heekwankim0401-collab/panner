@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "its quite the standard feature for most other engines like unity.",
+    "format": "form",
+    "workaround": "it will be used often and even if not i dont see why it cant be worked around"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-14T20:28:39Z",
+  "comments": 5,
+  "createdAt": "2023-05-03T09:58:59Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 6799,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow moving 2D nodes in local space in the 2D editor (similar to the existing toggle in the 3D editor)",
+  "up": 0,
+  "updatedAt": "2025-11-14T20:29:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6799"
+}

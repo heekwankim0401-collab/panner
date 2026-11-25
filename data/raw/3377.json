@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Animation is core.",
+    "format": "form",
+    "workaround": "Animation is core."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-17T19:34:30Z",
+  "comments": 10,
+  "createdAt": "2021-10-02T12:36:08Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 3377,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Import animations in bone space (no longer relative to bone rest)",
+  "up": 14,
+  "updatedAt": "2022-09-15T18:45:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3377"
+}

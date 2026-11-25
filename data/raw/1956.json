@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Since it touches a very core of godot (the VideoPlayer class), it is unlikely, that this can be handled by an addon.",
+    "format": "markdown",
+    "workaround": "Not, that I'm aware of, since the VideoPlayer api does not offer any way of accessing the audio streams directly, to circumvent this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-12-08T14:21:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1956,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Play back multiple audio tracks in VideoPlayer",
+  "up": 0,
+  "updatedAt": "2021-12-25T23:29:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1956"
+}

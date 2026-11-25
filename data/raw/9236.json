@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a small isolated QOL feature that would make more sense to have in the existing Godot workflow of dragging images into the viewport rather than in its own separate addon. There's already a hint in the bottom left that describes the modifier keys and there could also be a **\"Hold Alt to create a decal\"** line, just like there's one in painter",
+    "format": "form",
+    "workaround": "Not with a few lines"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-03-04T20:22:33Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9236,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow creating decals by dragging images into the 3d viewport",
+  "up": 12,
+  "updatedAt": "2024-03-04T22:36:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9236"
+}

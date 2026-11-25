@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Hardware accelerated Vulkan Video encoding would provide the best possible out-of-the-box experience for Movie Maker mode. Dropping mjpeg/AVI support may even be feasible once it is implemented.",
+    "format": "form",
+    "workaround": "Movie Maker mode is usable as-is, but will be slow."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-23T15:39:08Z",
+  "comments": 2,
+  "createdAt": "2023-03-02T23:18:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6409,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement hardware accelerated Movie Maker encoding using Vulkan Video",
+  "up": 4,
+  "updatedAt": "2023-08-23T18:16:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6409"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its an addition to the export process",
+    "format": "legacy",
+    "workaround": "I don't see a real why of how we could achieve this inside of godot"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-18T08:57:25Z",
+  "comments": 3,
+  "createdAt": "2019-11-01T16:05:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 195,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for running pre- and post-export scripts",
+  "up": 0,
+  "updatedAt": "2021-10-18T12:47:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/195"
+}

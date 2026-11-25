@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is either an extension of annotations or setters/getters which are already core.",
+    "format": "form",
+    "workaround": "It would be used often.\n\nAlthough it can be worked around as mentioned above. However, needlessly cluttering your code with `Engine.is_editor_hint()` logic is not just a minor annoyance, it easily leads to bugs when missing to add/remove some of the uses after refactoring properties."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-14T23:10:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13637,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@tool_export_only` or `@export my_var: validate = validate_my_var`",
+  "up": 4,
+  "updatedAt": "2025-11-17T20:27:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13637"
+}

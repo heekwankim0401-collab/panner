@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The ways parallax and sorting are done in Godot are hardly changeable from an add-on, as far as I could tell.",
+    "format": "form",
+    "workaround": "Sorting and depth are naturally tied together, so not much would be lost in my opinion. For some special effects these two might need to be separated however. That could be done with a second value called something like \"Sorting Offset\" which would cover this use-case."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-07-24T16:04:32Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4963,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Simplify 2D parallax and sorting workflow",
+  "up": 0,
+  "updatedAt": "2022-08-06T12:40:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4963"
+}

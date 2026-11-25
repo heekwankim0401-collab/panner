@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The functionality I am requesting is for more generic use cases of the Terrain (auto-tiling) system. Currently, it's almost as if Godot's Terrain (auto-tiling) system is tailored to a very specific range of use cases and I'm baffled as to why the features I am requesting are not yet a core feature. My use case isn't very specialized either—I'm pretty sure there are people who'd want different types of pathways to connect to one another the same way fences made out of different wood types can connect to one another in Minecraft. It is a really basic, grounded feature that is not yet a core feature, and again, that is baffling.",
+    "format": "form",
+    "workaround": "There is already a Godot plugin called BetterTerrain that fixes this issue. However, for longevity reasons, I want this to be a core feature of the engine itself."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-18T02:19:32Z",
+  "comments": 1,
+  "createdAt": "2025-12-17T20:48:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 13882,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "We need a better Terrain system.",
+  "up": 1,
+  "updatedAt": "2025-12-18T02:19:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13882"
+}

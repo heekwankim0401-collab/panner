@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the editor usability out of the box.",
+    "format": "form",
+    "workaround": "This could be a toggle option in Godot's editor settings (type: `bool` | path: `interface/editor/float_division_in_field_expressions` | display: `Use float division in field expressions`)."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-14T17:42:16Z",
+  "comments": 4,
+  "createdAt": "2023-02-13T14:39:30Z",
+  "down": 2,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6281,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use float division by default in the inspector",
+  "up": 2,
+  "updatedAt": "2023-07-06T13:39:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6281"
+}

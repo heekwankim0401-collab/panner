@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "We have `is_action_pressed` and `is_key_pressed`. We have `is_action_just_pressed`, but no `is_key_just_pressed`. Let's make `is_key_just_pressed` a reality! 🥳",
+    "format": "markdown",
+    "workaround": "Yes it can. You currently have two options: check with event handling or use actions. \n\nThe event handling approach is documented [here](https://docs.godotengine.org/en/latest/tutorials/inputs/inputevent.html). \n\nAnother approach is to make a new action for every key you wanted to record, and then use `is_action_just_pressed`."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-17T02:50:32Z",
+  "comments": 14,
+  "createdAt": "2020-12-24T01:36:32Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 2016,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `is_key_just_pressed()` to the Input singleton",
+  "up": 13,
+  "updatedAt": "2026-04-17T22:12:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2016"
+}

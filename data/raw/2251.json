@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core: Expanded functionality of a Core Resource/function.\n\nPS: I realise after writing this that this might actually be a **BUG**. However, the GUI does not give any indication that this **should** be possible but isn't, so therefore I'm going to assume this is simply an incomplete feature/a omitted functionality (since it is fairly rare that you'd want to do this in the first place).",
+    "format": "markdown",
+    "workaround": "I won't be used often I think. Removing an entire custom class is quite a rare scenario. Can be worked around my manually removing each entry in a custom defined type. However, `Remove Class Items` was clearly created to avoid having to do exactly that."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-23T21:12:25Z",
+  "comments": 1,
+  "createdAt": "2021-02-05T18:54:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2251,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow `Remove Class Items` in `Theme` to remove a custom type",
+  "up": 3,
+  "updatedAt": "2021-04-23T21:12:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2251"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can probably be done as a add-on too. Not really sure how. You would need to expose a list of interactable elements, and panels to the addon though.",
+    "format": "form",
+    "workaround": "Not really."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-02-20T08:51:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11810,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add Vim keybinds for the editor",
+  "up": 0,
+  "updatedAt": "2025-02-20T17:55:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11810"
+}

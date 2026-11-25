@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, this sort of thing can be implemented on the Rider side. It would be Rider exclusive feature. With LSP it would help all the alternative IDE/editors.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-23T10:24:14Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11014,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Send method connection information through LSP for external editors to use",
+  "up": 2,
+  "updatedAt": "2024-10-23T22:49:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11014"
+}

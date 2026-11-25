@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A DDS loader is already supplied and least for block compression would appear to work completely fine if the image's width and/or height were treated as though they were the next multiple of 4 when they aren't.",
+    "format": "form",
+    "workaround": "No as it would require re-implementing the DDS loader, whether in part or as a whole."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-27T16:53:44Z",
+  "comments": 1,
+  "createdAt": "2024-11-23T18:53:50Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.4",
+  "number": 11222,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow loading of block compression DDS images with non-standard width/height",
+  "up": 0,
+  "updatedAt": "2024-11-29T11:31:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11222"
+}

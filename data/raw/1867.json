@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "We believe such enhancement would not be possible through add-on, as such feature would require the core modification. similar reason to #1836 , Master Bus or any parent bus that route to audio output has to have the ability to choose which audio output device the audio goes into. like from example above: Master to main speaker, and Haptic to DualSense Haptic Feedback\n\nWell, let's say somebody did made the add-on through GDNative. Obviously, that GDNative would require separate Audio Engine header (which now is no longer using Godot's Audio Server), which the management for it will be too complicated since there are other things to consider such as Pause, syncronization to Godot's clock, volume, effects, what else, and so on. Basically, it is not viable thing to do. Making a GDNative which basically is separate audio engine is rather funny, as Godot already has one built-in.\n\nTherefore it is best if the core already has supported it. Not only it would make setting up easier, but lesser library requirement, since DualSense e.g., doesn't need any proprietary Library just to get its Haptic Feedback (speaking of proprietary library DualSense has Adaptive Triggers, which is a whole another story)\n\nanother reason why this proposal was made, is that we have an idea of designing haptic using sound after we found that DualSense Haptic Feedback is based on sound, like speaker but you held that speaker and it works as a vibration speaker.",
+    "format": "legacy",
+    "workaround": "Unfortunately we haven't thought enough what workaround in case of being considered a feature creep. However, we do have another idea for how this feature can be used.\n\nin case when not much discussed to DualSense, there still a reason why it would be used for another case. Such as customized Interactive system. Imagine you are in a mall where there is a sculpture where you can interact with it. it has a button and each button sounds this speaker, and another sounds another speaker. Sometimes, there will be more buttons like that in a single computer containing those many sound cards. Why this is important? Because there will be many of them pressing multiple button at the same time, which respective output has to come the moment that each button has been pressed. It is funny if people have to wait for the soundcard from another people to finish playing the audio, and disasterous if the queue of soundcard became long. Well Multiple computer (say it's $25 each)? that's expensive! we have only this computer (still $25) that has many USB ports. Multiple instance of that Godot binary? you wish.\n\nHow about Multiplayer? Player one will use Front speaker, Player two will use headphone jack, Player three will use USB headphone, and so on."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-11-20T19:11:40Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 1867,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to send audio source to multiple devices or separate audio source to desired device (DualSense Haptic Feedback support)",
+  "up": 10,
+  "updatedAt": "2026-06-07T17:26:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1867"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "There is no way to do drawing and GPU processing in the same way that particles do.",
+    "format": "markdown",
+    "workaround": "While these things could be achieved with multimeshes instead, there is a difference on where on hardware the logic executes: the computation for whatever is in instance_custom for multimeshes has to happen on CPU, while on particles it all happens on GPU instead."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-04-16T07:55:18Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2614,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option for immortal (infinite lifetime) particles",
+  "up": 22,
+  "updatedAt": "2023-05-01T19:27:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2614"
+}

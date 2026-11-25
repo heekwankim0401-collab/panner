@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes there is",
+    "format": "form",
+    "workaround": "While modern-syntax encabulation _could_ technically be implemented in GDScript, the language would need to have numerous extensions (AVN hooks, for instance) written for it to be practical, so the C++ side is the primary avenue I would suggest."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-03T01:05:27Z",
+  "comments": 1,
+  "createdAt": "2022-04-01T17:47:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4328,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement OpenReEncab software-defined encabulation functions",
+  "up": 0,
+  "updatedAt": "2022-05-03T01:05:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4328"
+}

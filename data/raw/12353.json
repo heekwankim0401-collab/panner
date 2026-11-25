@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This equals to asking \"can this be written in few lines\". See the answer to the previous question.",
+    "format": "form",
+    "workaround": "No, as this requires a lot of hard work on dealing with snapping, dragging, which requires quite a lot load to be done."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-31T02:13:22Z",
+  "comments": 1,
+  "createdAt": "2025-05-02T12:18:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12353,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `HelperRect2D` to allow users to drag for custom behaviors",
+  "up": 1,
+  "updatedAt": "2025-05-31T13:16:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12353"
+}

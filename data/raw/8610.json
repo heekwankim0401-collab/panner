@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This behavior is already implemented for the enter signals, and should behave similarly for the exit signals too.",
+    "format": "form",
+    "workaround": "The workarounds I currently use to get an accurate array back from get_overlapping_areas/bodies() are:\n\n- Yielding for a few frames until it is updated (simple, but not ideal)\n- Extending the Area class to maintain its own array of overlapping bodies that I can control (more verbose, but accurate)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-12-08T00:25:15Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8610,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Update get_overlapping_bodies/areas() before on area/body_exited signal is called on Area3D Node",
+  "up": 1,
+  "updatedAt": "2023-12-08T09:41:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8610"
+}

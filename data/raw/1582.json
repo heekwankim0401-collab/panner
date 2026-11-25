@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature would be at the core of how an integral part of the engine works. I think it would most definitely be a core feature, and shouldn't be left as an add-on.",
+    "format": "legacy",
+    "workaround": "Although adjustable sorting methods are practically a core feature in any filesystem, I was surprised to not find requests to add it to Godot, so I fear this isn't a priority for a lot of developers. And I would agree this is a lower priority request. Nothing is broken here, or NEEDS to be changed. But it would sure be useful to have, nonetheless. \n\nAnd I would love to presume how much work adding this feature is, but I have no clue, so I'll leave that up to people smarter than me."
+  },
+  "assignees": 1,
+  "closedAt": "2020-10-19T22:04:11Z",
+  "comments": 1,
+  "createdAt": "2020-09-29T10:06:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1582,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to sort the editor's FileSystem dock by file type",
+  "up": 7,
+  "updatedAt": "2020-10-19T22:04:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1582"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Variant is a core type.",
+    "format": "form",
+    "workaround": "It is possible to use TypedArray, such as `Array[Vector4]`\n\nHaving a native PackedVector4Array would allow for using this data in APIs such as shader material uniforms, or mesh functions (for example, tangents arrays)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-03T10:25:56Z",
+  "comments": 1,
+  "createdAt": "2023-01-20T05:04:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 6129,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add and expose PackedVector4Array to Variant",
+  "up": 14,
+  "updatedAt": "2024-05-03T10:35:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6129"
+}

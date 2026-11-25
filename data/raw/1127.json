@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would pair well with JSON and serve as an easy way built into the engine to quickly exchange information that's verified to come from a trusted source, and thus could even possibly be used for passing serialized Variant objects over the network in a trusted and secure way.",
+    "format": "legacy",
+    "workaround": "Yes, but not natively in GDScript. For example, what I am doing right now is executing a separate python script on the server using OS.execute funnelling in the JSON data through command-line arguments and then extracting the JWT string via the command line. It works, but is a bit cumbersome and only works on systems that have Python and the requisite JWT library installed."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-23T17:50:55Z",
+  "comments": 10,
+  "createdAt": "2020-06-27T06:58:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 1127,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add JWT (JSON Web Token) support",
+  "up": 1,
+  "updatedAt": "2021-07-23T17:59:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1127"
+}

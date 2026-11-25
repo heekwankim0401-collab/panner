@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This proposal will add a lot of functionality for Godot C# users for what I believe would be a trivial implementation. The ability to namespace Node classes would be valuable for larger projects.",
+    "format": "legacy",
+    "workaround": "There is no work around."
+  },
+  "assignees": 0,
+  "closedAt": "2019-09-05T15:58:07Z",
+  "comments": 1,
+  "createdAt": "2019-09-05T15:48:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 32,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Inherit ExportAttributes from base class in C#",
+  "up": 0,
+  "updatedAt": "2019-11-26T14:17:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/32"
+}

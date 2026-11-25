@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's just an idea, hoping to get some advice, since it's strange . . .\n\nMight be rare use - case, it's a bit weird, but would give more options, for making interactions, thanks . . . . .\n\nThe advantage of each collisionshape absorbing 20 % is, I could fill a world with random smoke, and vision would work, or so . . Also, if the smoke moves, other stuff, it sort of, still works, thanks . . . .",
+    "format": "form",
+    "workaround": "Well, I'm not sure, it was an idea, and while it sounds weird, might work, be nice . . . ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-06-29T10:34:00Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2936,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Update to RayCast so it has partial absorption in collisionshapes . .",
+  "up": 0,
+  "updatedAt": "2021-06-30T07:08:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2936"
+}

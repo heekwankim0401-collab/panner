@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This was easier to prototype in the editor. It could be a plugin, but since I've got a PoC I figured I'd ask here first.\n\nAlso, it's a general usability improvement, and Godot doesn't have a concept of \"global\" UI plugins. I don't want to add this in every new project.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-02-06T18:06:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3925,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a dialog to customize Create Physical Skeleton behavior",
+  "up": 13,
+  "updatedAt": "2025-10-24T15:27:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3925"
+}

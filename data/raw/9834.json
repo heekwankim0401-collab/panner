@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "While it is theoretically possible to access the debug console with plugins, it is difficult to do so. While this is a feature that would be used infrequently (ideally not at all), it would be much easier to implement inside the engine core than inside a plugin.",
+    "format": "form",
+    "workaround": "There is currently no way to block a specific message in the console, and implementing such a feature would be a much more in-depth effort than a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-17T16:50:41Z",
+  "comments": 4,
+  "createdAt": "2024-05-27T21:51:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9834,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add editor option to suppress specific error messages",
+  "up": 1,
+  "updatedAt": "2026-08-18T20:51:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9834"
+}

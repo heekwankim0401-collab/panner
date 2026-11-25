@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's hard to edit Inspector with an addon, and I think there's not enough API for that",
+    "format": "form",
+    "workaround": "Using `Favorites`:\n<img width=\"270\" height=\"360\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/52912e2c-145e-469c-8518-b397404715cf\" />\nBut when `Favorites` can handle that, why by default is it not a thing"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-16T16:25:06Z",
+  "comments": 3,
+  "createdAt": "2025-07-27T08:28:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12878,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow `@export_group` to be overridden (merged) to inherited class",
+  "up": 1,
+  "updatedAt": "2026-02-16T16:25:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12878"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "IMO, it should be StatusIndicator's method.",
+    "format": "form",
+    "workaround": "NONE"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-20T00:24:40Z",
+  "comments": 2,
+  "createdAt": "2025-12-19T01:21:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 13888,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement StatusIndicator.show_message(icon:Texture2D, title:String, text:String) method.",
+  "up": 0,
+  "updatedAt": "2025-12-20T00:24:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13888"
+}

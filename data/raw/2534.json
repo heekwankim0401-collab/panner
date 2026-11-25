@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think implementing it as a plugin is a good solution, this is ui / theme system related; this would increase flexibility when creating themes.",
+    "format": "markdown",
+    "workaround": "I can't see a workaround, other than using textures with already rounded curners; but this is not flexible"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-03-31T12:55:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2534,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `corner_radius` to `StyleBoxTexture`",
+  "up": 3,
+  "updatedAt": "2025-09-07T21:25:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2534"
+}

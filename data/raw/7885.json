@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Since there is currently no way via scripting to access the full internal playback state of an AnimationNodeStateMachine, engine changes are required in order to make this happen."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-09-27T09:59:38Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7885,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose missing AnimationNodeStateMachinePlayback to scripting to allow serialization",
+  "up": 2,
+  "updatedAt": "2024-08-28T14:46:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7885"
+}

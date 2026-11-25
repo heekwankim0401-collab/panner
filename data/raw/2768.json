@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, it might be a new feature, or rather ' cool ' . . We talked about it for visual script, but that might be so technical, due to the nature of the boxes, how to fill out fields, etc, that doesn't have a standard work-flow, AFAIK . . but, it might be possible for WRITTEN code, bec. there's prob. only ONE written code - path, of writing something, etc etc . .\n\nps. This might include enumerations, also, so if I type in FPS, which is a singleton.performance enum value, for Get Monitor, I guess it writes this, after search FPS . .\n\nSingleton.performance.get_monitor(0) . .?\n\nWhere 0 is, enum for TIME_FPS . .\n\nSo, it's just an idea, it started in visual script, bec. it can be quite 'difficult' to sort of, access complex engine systems or, methods, etc . . Idea was, one could type in FPS, and one got a list, then one could ' move ' it in, and it auto-set ups these boxes . . .\n\n![Skærmbillede (1834)](https://user-images.githubusercontent.com/83387915/119408859-b465c300-bce6-11eb-9bc9-932d04ffb709.png)\n\nWhich is the same, as reverse code - completion, just in visual script . . . However, it might not be so easy in visual script, bec. one has to fill the boxes, or so . .\n\nAnyway, this might only really be POSSIBLE, in written code, so either way, it's a simple suggestion, I thought it was ' fairly' neat, but I'm also TOTAL noob . . Thx, for your further consideration, can't really say, if this is all kinds of stupid, maybe SOME of it could be used, at least making this, for WRITTEN code, or so . . Thx . . . <3 . . .",
+    "format": "markdown",
+    "workaround": "Not sure, still a ' noob ', sadly . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T16:17:05Z",
+  "comments": 2,
+  "createdAt": "2021-05-24T21:23:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 2768,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add backwards auto code - completion to written code and ?? visual script . .",
+  "up": 0,
+  "updatedAt": "2022-08-24T16:17:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2768"
+}

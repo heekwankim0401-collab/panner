@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "drawing in VisualServer gives an incredible performance advantage due to batching and semi-manual control of the process, but the whole impression is spoiled by the absence of a zone cleaning mode. All the power of this rendering method loses its relevance due to the lack of elementary cleaning.",
+    "format": "form",
+    "workaround": "there is only one way to get around, paint in any color, which is certainly not acceptable for the alpha layer"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-12-30T22:19:24Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3730,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to clear a specific area of a Viewport in RenderingServer",
+  "up": 6,
+  "updatedAt": "2022-02-25T10:34:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3730"
+}

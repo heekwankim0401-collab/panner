@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "MUST/HAS to comunicate with core with less barriers as possible for performance/time reasons",
+    "format": "legacy",
+    "workaround": "This will be useful for everyone"
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-23T21:05:39Z",
+  "comments": 2,
+  "createdAt": "2020-06-11T14:38:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1037,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for AI image upscaling at load-time",
+  "up": 0,
+  "updatedAt": "2021-01-23T21:05:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1037"
+}

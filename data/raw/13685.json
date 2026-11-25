@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This kind of QoL enhancement should not need to be installed as a separate addon, in my opinion. I'm also unsure how feasible it would be to create this as an addon versus building it into the engine itself.",
+    "format": "form",
+    "workaround": "It will be used very often by people setting up GUIs. It can be worked around by finding the parent node in the editor and using \"Add Child Node...\" for it, then dragging the created node to the correct place in the child list; however this takes several extra steps."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-11-22T17:16:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13685,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Editor option to add nodes to scene as siblings",
+  "up": 6,
+  "updatedAt": "2026-09-21T16:56:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13685"
+}

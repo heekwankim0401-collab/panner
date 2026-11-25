@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm unsure if an add-on can provide this functionality.",
+    "format": "form",
+    "workaround": "It can be worked around by following the current redundant design of implementing `Resource._init()`, so technically yes. However, I think that the enhancement would be a significant quality of life for creating custom resources, and would become the standard if implemented."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-17T00:40:40Z",
+  "comments": 4,
+  "createdAt": "2024-04-16T23:13:15Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 9537,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow `Resource._init()` to be assumed if not declared",
+  "up": 0,
+  "updatedAt": "2024-04-17T07:27:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9537"
+}

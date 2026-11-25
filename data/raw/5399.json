@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "/",
+    "format": "form",
+    "workaround": "I must change many files, if my project was big, i'm afraid to do that."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-28T06:54:43Z",
+  "comments": 2,
+  "createdAt": "2022-09-11T00:07:37Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 5399,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add shader include relative path support",
+  "up": 6,
+  "updatedAt": "2023-01-28T06:54:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5399"
+}

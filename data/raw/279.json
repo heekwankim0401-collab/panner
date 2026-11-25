@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The point of this proposal is to keep bloat out of core, by allowing users to make their own structures.\n\nKind-of related: https://github.com/godotengine/godot-proposals/issues/209 and https://github.com/godotengine/godot-proposals/issues/22",
+    "format": "legacy",
+    "workaround": "You can easily do it in C#, but not in GDScript. Of course one option is to just tell everyone to use C# if they need custom data structures, but I don't think that's an ideal solution."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-21T19:21:26Z",
+  "comments": 11,
+  "createdAt": "2019-12-03T04:08:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 279,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow creating arbitrary data structures in GDScript",
+  "up": 29,
+  "updatedAt": "2023-09-03T20:11:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/279"
+}

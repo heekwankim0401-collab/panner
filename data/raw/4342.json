@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it creates confusion",
+    "format": "form",
+    "workaround": "It can be worked around using script\nBut there doesnt seem to be any script options that solve a button position inside a subViewPort once a 2Dcamera ZOOM is changed"
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-04T18:30:12Z",
+  "comments": 1,
+  "createdAt": "2022-04-04T17:13:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 4342,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "subViewPort mouse capture + camera zoom",
+  "up": 0,
+  "updatedAt": "2022-04-04T18:30:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4342"
+}

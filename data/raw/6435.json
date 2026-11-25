@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This seems like the most logical next step regarding only being able to sort sprites based on their Y position value.",
+    "format": "form",
+    "workaround": "There is currently no easy way to do this without splitting up all the sprites, and that would be both very user unfriendly to draw tile maps and would most definitely cause complications in the future. I seriously doubt if this is currently possible at all."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-03-05T14:06:08Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6435,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement X-sorting for sprites and tiles",
+  "up": 45,
+  "updatedAt": "2025-04-17T20:09:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6435"
+}

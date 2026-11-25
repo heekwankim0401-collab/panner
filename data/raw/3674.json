@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the import process out of the box",
+    "format": "form",
+    "workaround": "This can be worked around by making a scene post-import script. This script could loop through all animations and set the loop_mode to true if their lowercase names include a keyword.  But this is not that convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-12-15T19:17:29Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3674,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "glTF animation parsing: Change the 'loop' and 'cycle' animation name keywords to be case-insensitive",
+  "up": 0,
+  "updatedAt": "2022-01-06T00:55:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3674"
+}

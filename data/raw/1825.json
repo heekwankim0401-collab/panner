@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "making the animatedtexture much more friendly and giving the user more control over should make the workflow much faster with way fewer limitation.",
+    "format": "legacy",
+    "workaround": "Kinda yeah, What Im doing now in fact is replacing the animatedtexture with an animationplayer node and making it change the texture of the object every XX sec in the timeline and every XX I added a new frame which takes a lot of time to make each frame but it is a work around and somtimes when u want multiable objects to have the same Animatedtexture this work around will fail"
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-01T09:09:54Z",
+  "comments": 6,
+  "createdAt": "2020-11-12T20:43:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1825,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve AnimatedTexture resource",
+  "up": 1,
+  "updatedAt": "2023-11-01T09:09:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1825"
+}

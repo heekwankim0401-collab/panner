@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Well, bump maps are so common, and have been in game making, for so long, it makes sense to me, to have them, ie. cheap normal maps, that work . . .\n\nThanks . . .",
+    "format": "legacy",
+    "workaround": "I don't know how to reprogram Godot, to do this stuff, atm . ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-10-08T08:28:57Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1625,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Godot support classic grey-scale bump maps in Standard Shader . .",
+  "up": 0,
+  "updatedAt": "2023-11-26T00:08:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1625"
+}

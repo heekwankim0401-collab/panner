@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It relates to UI workflow established by the core editor, and involves modification to UI elements that I'm not sure could be done with an add-on. Even if so, requiring it to be an add-on - and thus for the user to know of its existence, find it, install it, et cetera - would be a lot of friction that they may not want to deal with versus just having it built-in to the editor already.",
+    "format": "form",
+    "workaround": "I'm not aware of how this would be done with a few lines of user-side script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-28T14:48:24Z",
+  "comments": 2,
+  "createdAt": "2025-01-12T06:27:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 11541,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow setting Movie Maker settings from toggle button in top right corner",
+  "up": 1,
+  "updatedAt": "2025-05-28T14:50:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11541"
+}

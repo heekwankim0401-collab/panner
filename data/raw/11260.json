@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature should be part of Godot’s core for the following reasons:\n\n• **Platform-Specific Functionality**: Handling Android key events requires modifications to the platform layer, which is not accessible to asset library plugins.\n• **Cross-Platform Consistency**: Integrating this into the core ensures a consistent API across platforms, which is essential for developers targeting multiple devices.\n• **Accessibility**: Including this feature in the core supports Godot’s mission of making game development accessible and inclusive to all developers and players.",
+    "format": "form",
+    "workaround": "No, this enhancement cannot be easily worked around with script alone. It requires low-level integration with Android's key event APIs, which are not accessible via GDScript or the current Godot API. While developers could theoretically modify the engine themselves, this is not practical for most users and would fragment the community."
+  },
+  "assignees": 1,
+  "closedAt": "2025-03-11T14:42:31Z",
+  "comments": 2,
+  "createdAt": "2024-11-29T09:29:31Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": "4.5",
+  "number": 11260,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for querying volume up/down inputs on Android",
+  "up": 3,
+  "updatedAt": "2025-03-11T14:44:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11260"
+}

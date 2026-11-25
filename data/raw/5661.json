@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is a core feature.",
+    "format": "form",
+    "workaround": "It is used on every debug."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-12T14:11:29Z",
+  "comments": 1,
+  "createdAt": "2022-10-26T14:42:30Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5661,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Ask user to generate `.vscode/` folder with launch/debug configuration, if external script editor is VS Code",
+  "up": 2,
+  "updatedAt": "2023-07-12T14:20:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5661"
+}

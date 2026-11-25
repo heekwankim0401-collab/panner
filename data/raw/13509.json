@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about modifying a core Variant.",
+    "format": "form",
+    "workaround": "I think this enhancement would be used often, but yes it could be worked around with a few lines. The point is to increase convenience by not having to write these few lines every time you want to sort."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-29T21:29:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13509,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `sorted()` to Arrays / Dictionary",
+  "up": 5,
+  "updatedAt": "2025-10-30T10:42:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13509"
+}

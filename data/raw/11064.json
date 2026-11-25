@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Add-ons don’t have access to the `COPYRIGHT.txt` file that was used to compile the version of Godot that you’re currently using, so add-ons wouldn’t allow for automatic compliance if you started using a fork of Godot. Additionally, if this was implemented as an add-on, then it wouldn’t do as good of a job at building awareness of this requirement.",
+    "format": "form",
+    "workaround": "I’m not sure whether or not this enhancement will be used often or not. Like I mentioned previously, there’s two different ways to make sure that you’re compliant with third-party licenses:\n\n1. Use `Engine.get_license_info()` and `Engine.get_copyright_info()`.\n2. Include a copy of `COPYRIGHT.txt`.\n\nIf people rarely use the first method, then this feature will rarely be used. If people always use the first method, then this feature will be used very often.\n\n---\n\nIt’s really easy to work around the lack of this feature:\n\n```gdscript\n    # Instead of doing this:\n    text += \"You can get a copy of the Godot Engine’s source code at <%s>.\\n\\n\" % [Engine.get_source_info()]\n    # Do this:\n    text += \"You can get a copy of the Godot Engine’s source code at <https://github.com/godotengine/godot>.\\n\\n\"\n```\n\nThat being said, the workaround is incomplete. That workaround could be added to the Godot Docs, but it wouldn’t do as good of a job at building awareness. Additionally, developers would have to remember to make that change manually if they switch to a fork of Godot."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-01T15:17:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11064,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Engine.get_source_info()` to help people comply with the MPL 2.0",
+  "up": 3,
+  "updatedAt": "2024-11-05T12:36:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11064"
+}

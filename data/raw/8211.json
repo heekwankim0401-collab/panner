@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Parsing of script is part of core.",
+    "format": "form",
+    "workaround": "This will be used very often."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-02T09:25:03Z",
+  "comments": 7,
+  "createdAt": "2023-10-20T14:20:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8211,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add settings and options the way code is commented in GDScript using shortcuts in 4.2+",
+  "up": 6,
+  "updatedAt": "2024-10-02T09:49:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8211"
+}

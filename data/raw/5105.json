@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript is core, and this would help make cleaner code.\n\nDiscuss :arrow_down:",
+    "format": "form",
+    "workaround": "Not really applicable for the proposal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-08-08T07:37:12Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5105,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Script warning for calls to `set`, `get`, `call`, etc. that can be replaced with a cleaner syntax.",
+  "up": 2,
+  "updatedAt": "2022-08-08T08:45:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5105"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This alters the core functionality of the Array type.",
+    "format": "form",
+    "workaround": "It can, as detailed before; it's just clunky and feels half-baked."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-05-13T20:26:45Z",
+  "down": 2,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6877,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Array.sort() and Array.sort_custom() return the array it sorted.",
+  "up": 10,
+  "updatedAt": "2023-12-18T21:52:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6877"
+}

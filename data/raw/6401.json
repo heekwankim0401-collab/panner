@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Improving the editor usability out of the box.",
+    "format": "form",
+    "workaround": "It can't"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-03-02T14:48:43Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6401,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve parity between Path, Line and Polygon editors",
+  "up": 1,
+  "updatedAt": "2023-11-04T21:23:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6401"
+}

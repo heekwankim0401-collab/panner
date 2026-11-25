@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's an improvement to built-in pipeline.",
+    "format": "form",
+    "workaround": "Can't change process material, can make a new one, but loses all features"
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-18T16:46:42Z",
+  "comments": 0,
+  "createdAt": "2025-08-18T12:27:17Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:particles"
+  ],
+  "milestone": "4.7",
+  "number": 13020,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Scale3D and Angle3D to particles",
+  "up": 0,
+  "updatedAt": "2026-03-18T16:46:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13020"
+}

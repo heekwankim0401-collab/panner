@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`CanvasItem` is core node\n\nOne additional thing for consideration is that it will probably break any custom signals with conflicting name that users implemented.\nIf you're interested I'd gladly provide a PR",
+    "format": "legacy",
+    "workaround": "You can make just emit custom shown signal in `B` but it strikes me as something very basic that should be part of the engine. After all why there is special signal for `hide` and not for `shown` or `unhide`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-04-28T16:46:13Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 760,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add unhide/show signal to canvas item",
+  "up": 11,
+  "updatedAt": "2025-10-18T17:19:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/760"
+}

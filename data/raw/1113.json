@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If 3D is what Godot aims, this feature is not negligible, as it allows indie-developers to make a game much quicker (5+ animations vs. 1 animation)\n\n\n---\n\nFor shooting, one solution could be using IKs, but in a close combat such as lance, this problems persists.",
+    "format": "legacy",
+    "workaround": "It seems to be possible through the code: Using `animation_track_get_key_animation` and `animation_track_set_key_animation`. But when animating with many bones and keys, it's not a way that someone would choose."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-06-23T16:11:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1113,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "AnimationTree - Bone properties filter",
+  "up": 1,
+  "updatedAt": "2020-06-24T17:44:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1113"
+}

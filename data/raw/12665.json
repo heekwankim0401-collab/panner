@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Navigation is core.",
+    "format": "form",
+    "workaround": "Can not be worked around as this is internal server behavior."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-06-25T19:43:12Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 12665,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Line-of-Sight path shortening option for navmesh path queries",
+  "up": 14,
+  "updatedAt": "2025-06-30T15:13:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12665"
+}

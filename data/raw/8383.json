@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this is a core GDScript change and do not think it could be done in an asset library.",
+    "format": "form",
+    "workaround": "This enhancement would be completely opt-in, so anyone who doesn't want to use it would be unaffected."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2023-11-09T18:53:44Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8383,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow custom classes to define their own operator behavior (operator overloading)",
+  "up": 89,
+  "updatedAt": "2025-02-21T11:36:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8383"
+}

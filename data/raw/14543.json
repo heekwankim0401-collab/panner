@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-26T09:29:07Z",
+  "comments": 1,
+  "createdAt": "2026-03-26T09:04:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14543,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Connecting a Callable with mismatching unbound arg count should be compile error",
+  "up": 0,
+  "updatedAt": "2026-03-26T09:29:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14543"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I assume other addon/plugin writers may use it. This feature _may_ have no demand, which I would understand too. In that case I'd wait for custom annotations.",
+    "format": "markdown",
+    "workaround": "The usual workaround of `_get_property_list` would still work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-04-01T02:01:20Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2539,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@no_storage` property usage annotation",
+  "up": 15,
+  "updatedAt": "2023-11-26T22:50:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2539"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "BaseButton is a core class and disabled is one of its basic properties.",
+    "format": "form",
+    "workaround": "Not exactly, as there's no good way I know of to listen for changes of a property and you can't override core components setters (like `set_disabled()` in this case) in your subclass. So you just need to keep track of when you disable your custom buttons and then also call whatever you have set up to also trigger them to update their components to the new disabled state."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2024-01-15T17:22:42Z",
+  "down": 3,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8889,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add disabled_changed signal to BaseButton, emitted when disabled property changes",
+  "up": 10,
+  "updatedAt": "2025-03-15T17:20:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8889"
+}

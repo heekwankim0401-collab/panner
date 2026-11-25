@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core engine code.",
+    "format": "form",
+    "workaround": "No, it's core engine code."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-17T13:42:29Z",
+  "comments": 12,
+  "createdAt": "2021-06-28T09:24:24Z",
+  "down": 0,
+  "labels": [
+    "topic:codestyle",
+    "topic:export"
+  ],
+  "milestone": "4.0",
+  "number": 2929,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Refactor platform export classes",
+  "up": 0,
+  "updatedAt": "2022-01-17T13:42:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2929"
+}

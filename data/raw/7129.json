@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "If somebody's new to Godot and I doubt they'll get some things from the asset library until they learn about it. Also,  light penetration should be accessible without needing to download anything else because it'd very useful and versatile. For example, light penetration could also be used for soft shadows.",
+    "format": "form",
+    "workaround": "I'm pretty sure this feature can be done with a shader script or something like that, but I haven't figured out how to do it yet and I still think this feature will be helpful for amateurs (like me)."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-21T20:50:02Z",
+  "comments": 1,
+  "createdAt": "2023-06-21T05:06:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7129,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Light Penetration",
+  "up": 0,
+  "updatedAt": "2023-06-21T21:02:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7129"
+}

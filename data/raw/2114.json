@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Other programming languages such as JavaScript already feature this in their standard library.",
+    "format": "markdown",
+    "workaround": "It can be implemented easily using a script:\n\n```gdscript\n## Parses an ISO-8601 date string to a datetime dictionary that can be parsed by Godot.\nfunc parse_date(iso_date: String) -> Dictionary:\n\tvar date := iso_date.split(\"T\")[0].split(\"-\")\n\tvar time := iso_date.split(\"T\")[1].trim_suffix(\"Z\").split(\":\")\n\n\treturn {\n\t\tyear = date[0],\n\t\tmonth = date[1],\n\t\tday = date[2],\n\t\thour = time[0],\n\t\tminute = time[1],\n\t\tsecond = time[2],\n\t}\n\nfunc _ready() -> void:\n    print(parse_date(\"2021-01-11T15:00:00Z\"))\n```\n\nHowever, given that most people will need this when they interact with a REST API, I'd argue this should be present in core."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-12T20:55:25Z",
+  "comments": 1,
+  "createdAt": "2021-01-13T16:32:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2114,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add methods to convert an ISO 8601 timestamp to a date dictionary and vice versa",
+  "up": 14,
+  "updatedAt": "2021-06-12T20:55:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2114"
+}

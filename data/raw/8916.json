@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not in core, but an editor UX feature.",
+    "format": "form",
+    "workaround": "- Probably, if only loading & saving is involved. I'm not sure how linting works.\n- It's a UX problem."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-17T00:29:17Z",
+  "comments": 23,
+  "createdAt": "2024-01-20T05:27:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8916,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Hide @uid annotation in script editor",
+  "up": 10,
+  "updatedAt": "2024-07-17T00:29:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8916"
+}

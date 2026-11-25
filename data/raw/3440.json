@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Because as a Linux user it feels bad when the middle-click doesn't work, since it's a very useful feature that I normally use in any other program.",
+    "format": "form",
+    "workaround": "No possible workaround, except maybe with external clipboard software."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-20T14:37:09Z",
+  "comments": 1,
+  "createdAt": "2021-10-16T21:19:51Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:editor",
+    "topic:gui",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 3440,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement middle-clicking to paste with primary clipboard in X11",
+  "up": 0,
+  "updatedAt": "2021-10-20T14:37:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3440"
+}

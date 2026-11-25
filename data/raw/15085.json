@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-26T14:34:21Z",
+  "comments": 1,
+  "createdAt": "2026-06-26T13:39:58Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 15085,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Clarify that the `@export` setter is not called at startup if the variable has a default value",
+  "up": 0,
+  "updatedAt": "2026-06-26T14:37:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15085"
+}

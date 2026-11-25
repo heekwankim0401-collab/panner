@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "~~Yes. This cannot be implemented in good manner without engine-side support/orientation I think.~~\nAs others suggested you can use nodes/scenes-hierarchy to implement Entity-Component pattern, where \"entity\" is a parent node and his \"components\" are located inside \"component\"-child node. You can also implement \"AddComponent() / RemoveComponent()\" functionality in Singleton.\n\n- ParentNode(Entity)\n|- Child Node(Components Holder)\n||- Node With Your Component1\n||- Node With Your Component2\n|- Any Other Node you need1\n|- Any Other Node you need2\n\nLets discuss!",
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-01T18:17:54Z",
+  "comments": 27,
+  "createdAt": "2021-05-29T12:27:17Z",
+  "down": 10,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2796,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use a component-based system instead of inheritance [NOT ECS]",
+  "up": 13,
+  "updatedAt": "2021-09-01T18:17:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2796"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a direct improvement to the Control nodes, improving user feedback and the overall feel of the interfaces made with it. Custom nodes made only to allow transitions on nodes will be redundant (TransitionableButton, Button, TransitionableTab, Tab, TransitionableScrollBar, ScrollBar) and will not be used on internal nodes of other engine nodes (ColorPicker)",
+    "format": "form",
+    "workaround": "This can be worked around by making a extended class for each one of the Controls with more than one state, making use of a internal Container that holds a Stylebox responsible for handling the transition and shares the same Rect as its parent. However, the parent needs to be marked as flat or have it's styleboxes cleaned to a new StyleboxEmpty with the same content margins, while holding the reference to the original styleboxes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2024-01-30T14:56:38Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8992,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add style transitions to Control nodes",
+  "up": 21,
+  "updatedAt": "2025-12-23T20:38:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8992"
+}

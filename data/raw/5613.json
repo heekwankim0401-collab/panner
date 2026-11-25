@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Simillar to above, the addon would require to sample from a AudioStreamSample and feed into a overridable function to modify the audio frames, but wouldn't be able to implement per AudioStreamPlayer audio effect stack.",
+    "format": "form",
+    "workaround": "For custom audio effects one would require to manually sample from a audio stream and insert modified frames into a AudioStreamGeneratorPlayback, and wouldn't be much scalable. For per AudioStreamPlayer audio effect stack, it requires core modification to change how AudioStreamPlayers send audio buffer to the audio buses."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-10-18T14:18:24Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 5613,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow individual AudioStreamPlayer nodes to have their own audio effect stack and custom audio effects",
+  "up": 2,
+  "updatedAt": "2026-07-14T14:52:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5613"
+}

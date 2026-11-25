@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this is part of the basic tween system",
+    "format": "form",
+    "workaround": "Currently \"tween.custom_step(0)\" does pretty much what I want. (took me quite some time to figure that out, so if nothing else, this hopefully helps someone else to figure this out quicker)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-09-25T18:32:43Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 13268,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a reliable way to check if a Tween is finished",
+  "up": 12,
+  "updatedAt": "2025-10-21T19:49:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13268"
+}

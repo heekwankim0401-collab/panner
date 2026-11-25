@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "These are base features of Godot's rendering engine. \n\nEDIT: \nOther use cases for stencil increment/decrement operations provided in replies:\nIntersection tolerant cross-section shaders\n> [@apples](https://github.com/apples), it looks like increment/decrement may be necessary for intersection-tolerant cross-section shaders as well.\n\n> I have a camera with an overlay on it that reads from stencil. All the volumes that count as water bodies have a material that writes to both faces. Backfaces increment the stencil, and frontfaces decrement it, so that if I'm left with a value greater than 0, I know I'm underwater, and can apply screen space effects to that fraction of the overlay. Any current order of stencil operations fall apart when volumes overlap in screen-space or depth. The fork [@apples](https://github.com/apples) provided works perfectly. Please PR! My use case is impossible otherwise.\n> <img alt=\"Image\" width=\"1562\" height=\"697\" src=\"https://private-user-images.githubusercontent.com/9658355/552357859-b279becc-0702-4f2b-a249-085a99c78955.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzUxMTU5OTksIm5iZiI6MTc3NTExNTY5OSwicGF0aCI6Ii85NjU4MzU1LzU1MjM1Nzg1OS1iMjc5YmVjYy0wNzAyLTRmMmItYTI0OS0wODVhOTljNzg5NTUucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDQwMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA0MDJUMDc0MTM5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDIwYmRlMzViZjI2NDhkZWFkMDg2MmIzZmI0ODJlZmM3OTZmMjllNzQ1NWM5YjFkMzJjZmJkNmMxMDMxODNmYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.U4gKW7WHtHTf9VW1_SCQ_rcuX9UHrathpRmLo5qxPTM\">\n\n> I think the increment/decrement operations would be super useful for a masked volume effect that I need for my project. I have a building using 20-30 shaders that are shared with the rest of the game world (stone, grass, etc.). I want the building to be invisibl",
+    "format": "form",
+    "workaround": "No, it cannot. These features are required for the correct implementation of shadow volumes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2025-06-25T04:45:08Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12662,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose rendering features required for implementation of stencil shadows",
+  "up": 37,
+  "updatedAt": "2026-04-02T11:29:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12662"
+}

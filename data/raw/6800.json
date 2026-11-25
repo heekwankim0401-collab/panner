@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AnimationPlayer is one of the very core features of Godot.",
+    "format": "form",
+    "workaround": "I'm making AnimationPlayer as the root of the scenes and making it control its children's positions, but since AnimationPlayer is not positional you can understand that it causes many inconveniences."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-06T09:47:56Z",
+  "comments": 16,
+  "createdAt": "2023-05-03T10:17:50Z",
+  "down": 6,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6800,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add AnimationPlayer 2D and 3D",
+  "up": 0,
+  "updatedAt": "2023-05-06T15:58:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6800"
+}

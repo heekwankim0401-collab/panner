@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This functionality is built into the editor and can't be changed by an addon.",
+    "format": "form",
+    "workaround": "If this is not implemented, people can still use Cmd+Tab to switch between windows, but it will be inconvenient."
+  },
+  "assignees": 1,
+  "closedAt": "2025-05-06T13:50:56Z",
+  "comments": 18,
+  "createdAt": "2024-12-30T18:25:50Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "platform:macos",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": "4.5",
+  "number": 11453,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for game window embedding on macOS",
+  "up": 91,
+  "updatedAt": "2025-05-06T14:35:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11453"
+}

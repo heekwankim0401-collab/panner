@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The only code capable of making the necessary changes is direct alterations to the EditorPropertyResource class in the editor source code.",
+    "format": "legacy",
+    "workaround": "It is used very often for data-driven games on small screens / laptops. It is built into the editor source code and is not very pluggable via the EditorPlugin's available API, so no, it cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2019-09-07T07:01:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 43,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Shorten too-long exported resource dropdown menus and switch to CreateDialog",
+  "up": 33,
+  "updatedAt": "2025-07-15T22:57:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/43"
+}

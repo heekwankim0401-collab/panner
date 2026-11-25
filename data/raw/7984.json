@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would improve core multi-monitor support and customizability of the engine.",
+    "format": "form",
+    "workaround": "This enhancement would be used often by people with multiple monitors. It cannot currently be worked around with script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2023-10-04T16:27:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7984,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow detaching the bottom panel to a separate window",
+  "up": 39,
+  "updatedAt": "2025-11-21T22:11:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7984"
+}

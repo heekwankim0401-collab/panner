@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe it cannot be done as an asset.",
+    "format": "form",
+    "workaround": "I gonna use this often because I have a lot of onscreen buttons."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-22T16:07:55Z",
+  "comments": 16,
+  "createdAt": "2022-07-21T07:59:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4936,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to make `Button` with `toggle_mode=false` pressed from code",
+  "up": 0,
+  "updatedAt": "2022-07-22T17:28:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4936"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I assume it's a light and very useful feature for all MacOS user.",
+    "format": "form",
+    "workaround": "I estimate it will be use by near every MacOS user each time they use the Godot Editor"
+  },
+  "assignees": 1,
+  "closedAt": "2024-12-02T16:22:56Z",
+  "comments": 2,
+  "createdAt": "2024-11-22T10:18:54Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": "4.4",
+  "number": 11214,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use native window drag handles on macOS when Expand to Title is enabled, making window tiling functional",
+  "up": 0,
+  "updatedAt": "2024-12-02T16:22:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11214"
+}

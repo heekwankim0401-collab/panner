@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-27T17:53:15Z",
+  "comments": 6,
+  "createdAt": "2026-04-27T14:58:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 14747,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Overwriting an existing PCK/ZIP fails silently if the file you're overwriting is locked",
+  "up": 0,
+  "updatedAt": "2026-04-27T17:57:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14747"
+}

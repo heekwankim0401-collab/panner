@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Has to be implemented within the GDScript analyzer/module.",
+    "format": "form",
+    "workaround": "You can always access named enum values using their enum name first. It is just more verbose and inconsistent with how native enums work."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-25T22:44:27Z",
+  "comments": 10,
+  "createdAt": "2022-12-20T17:52:09Z",
+  "down": 6,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5968,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Unify accessors for native and script enums",
+  "up": 1,
+  "updatedAt": "2022-12-26T00:05:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5968"
+}

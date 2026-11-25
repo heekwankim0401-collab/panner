@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Work needs to be done to incorporate this either way, wondering if it would be beneficial for Godot to do this by default. It was really obfuscated where this gets stored (https://docs.godotengine.org/en/stable/tutorials/scripting/debug/overview_of_debugging_tools.html#customize-run-instances), had to dig in the source code to find out it is in the `.godot` folder that is added to `.gitignore` and contains other settings that definitely shouldn't be shared across developers.",
+    "format": "form",
+    "workaround": "According to the referenced comment, it may be able to."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-02-03T22:06:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14144,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Optionally persist settings for running a customized run instances",
+  "up": 2,
+  "updatedAt": "2026-02-03T23:37:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14144"
+}

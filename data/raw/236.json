@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It cannot be implemented as an add-on.\n\n**Extra**\nI originally wrote the PR before godot proposals, but it seems a good idea to discuss the whole area here, as there must be overall support of the idea if we are to go ahead with it (or similar).\n\nThere are 3 possible options here:\n1) Continue to only support fixed timestep\n2) Add semi-fixed hard coded as an option in addition to fixed\n3) Add customizable timestepping (possibly with a tie in for the multiplayer issue)\n\nProbably strangely for a 'proposer', I am equally happy with any of these. It really boils down to the Godot mission statement, where we want to go with the engine - become highly focused for making single player games via a common method, or make it more adaptable. This involves trade offs, more options can bring in greater complexity and surface for bugs.\n\nRealistically, if we did add semi-fixed I would tend towards the KISS principle, keep it simple stupid and go for the hard coded approach. I think most people for whom semi-fixed would be useful would be far more likely to use it if they simply had to switch it on in project settings, then forget about it, rather than write or copy some custom scripts.\n\n### Addendum\nJust to add a little as we may get to discuss this soon:\n#### Fixed to refresh rate\nAnother additional option that reduz is keen on, which is changing the fixed tick rate at runtime to match the refresh rate of the monitor.\n\nThis has some advantages - it is simple to use and does not require interpolation. On the downside, it means that game behaviour will be different on different machines, and may not play nicely with variable refresh rate monitors.\n#### Delta smoothing\nFor best results with interpolation and semi fixed it can be a good idea to consider delta smoothing as an additional step. This is an attempt to compensate for the sources of error in making delta measurements to drive timesteps. This is fairly easy to implement and I got this working while I was working on the timest",
+    "format": "legacy",
+    "workaround": "No, in both cases this would need core support."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2019-11-16T15:20:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 236,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement semi-fixed timestep / manual stepping",
+  "up": 21,
+  "updatedAt": "2026-09-29T05:01:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/236"
+}

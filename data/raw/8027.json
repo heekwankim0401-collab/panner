@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a simple addition that leads to simpler code.",
+    "format": "form",
+    "workaround": "Like i demonstrated, this unscaled delta value can already be calculated with just delta and Engine.TimeScale. However having a proper value for this (\"Engine.unscaled_delta\" or example) would make for cleaner code, as well as make it easier for former Unity developers migrating to Godot (as Unity already contains this value in the form of \"Time.unscaledDeltaTime\")."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-08T17:21:34Z",
+  "comments": 3,
+  "createdAt": "2023-10-08T04:12:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8027,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a delta value that isn't influenced by Engine.TimeScale",
+  "up": 3,
+  "updatedAt": "2023-10-09T01:57:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8027"
+}

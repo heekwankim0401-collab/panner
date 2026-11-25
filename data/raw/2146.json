@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core: Additional option to a Core Editor Setting",
+    "format": "markdown",
+    "workaround": "I think the only way to work around it is to manually move the scripts around, or to keep the script list clearer by not letting this many scripts stay opened in the list. But let's be honest, that'll never happen :)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-01-18T15:35:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2146,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Last Edited` option to the `Script List > sort_scripts_by` setting",
+  "up": 5,
+  "updatedAt": "2026-02-18T23:12:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2146"
+}

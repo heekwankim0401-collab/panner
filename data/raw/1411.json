@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This question does not apply.\n\n/cc @aBARICHELLO @josephbmanley @croconut",
+    "format": "legacy",
+    "workaround": "This is not a requirement, but an enhancement to avoid unneccesary fragmentation in the community. Don't take me wrong: fragmentation in open source is frequently good; but I think that not in this specific case."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-08-25T13:47:35Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1411,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide official container images for CI",
+  "up": 21,
+  "updatedAt": "2022-11-06T17:08:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1411"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Popups are already spawned by core.",
+    "format": "form",
+    "workaround": "I have no idea."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-12-18T14:34:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13885,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Position popups in the middle of the 'parent' window instead of screen center",
+  "up": 7,
+  "updatedAt": "2026-01-02T08:32:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13885"
+}

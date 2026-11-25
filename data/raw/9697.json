@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This function already exists in the editor so I think it would be fair to expose it in the code as well.",
+    "format": "form",
+    "workaround": "It is quite a lot of work and computational heavy for gdscript having to extract `TileData.probability`, calculate placement probabilty in each cell and which tile to choose and so on."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-08T04:50:04Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 9697,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to scatter tile for TileMap",
+  "up": 4,
+  "updatedAt": "2024-05-08T14:17:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9697"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improve ease of use",
+    "format": "form",
+    "workaround": "There seems to be no exposed functions for editor plugins"
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-22T15:21:23Z",
+  "comments": 2,
+  "createdAt": "2025-10-23T02:43:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 13447,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Frame Selection functionality to the 3D editor",
+  "up": 3,
+  "updatedAt": "2026-09-24T22:35:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13447"
+}

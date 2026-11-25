@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems like a reasonable thing to have in core since so many other already existing methods require the key index as argument.",
+    "format": "legacy",
+    "workaround": "I would not know how."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2019-10-14T19:17:23Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 158,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose method to get current key index of an animation",
+  "up": 0,
+  "updatedAt": "2022-05-28T18:01:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/158"
+}

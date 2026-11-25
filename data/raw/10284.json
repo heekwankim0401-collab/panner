@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It seems like it should have been in the Particle system already due to the way Time works.\n```[tasklist]",
+    "format": "form",
+    "workaround": "I think it would be a useful option that would see a lot of use."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-26T15:57:39Z",
+  "comments": 0,
+  "createdAt": "2024-07-26T13:53:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 10284,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Particle Ordering By Scale",
+  "up": 0,
+  "updatedAt": "2024-07-26T16:01:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10284"
+}

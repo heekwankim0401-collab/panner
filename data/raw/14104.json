@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It makes sense that it be a peer of Focused Control, in the Editor.",
+    "format": "form",
+    "workaround": "I don’t know of a way to have a live updating thing in the Editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-01-29T22:09:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 14104,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show the currently focused Control path in the Debugger bottom panel",
+  "up": 2,
+  "updatedAt": "2026-01-30T23:31:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14104"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would need to be a core change.",
+    "format": "form",
+    "workaround": "Can it be worked around with a few lines of script? Yes, and even within a single shell command via symlinks- but this is a shoddy and error-prone workaround that is less than ideal. \n\nIn terms of whether or not this will be used often, it depends.\n\nStrictly speaking, complying with the XDG Base Directory specification itself on macOS is far from an expected practice. However, usage of the `~/.config` directory (aka `$XDG_CONFIG_HOME`) is very common at the very least, especially for cross-platform software like Godot. Even more common is the ability to specify a custom config directory for software development tools. \n\nMy logic for allowing use of the XDG directories is less 'because it's a standard, so comply with it' and more that it's a rare example of feature parity & compatibility between two operating systems with minimal downsides. Why not allow use of it?"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-06T20:03:40Z",
+  "comments": 4,
+  "createdAt": "2024-09-27T12:36:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:macos",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10838,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow optional use of XDG base or custom directories on macOS",
+  "up": 1,
+  "updatedAt": "2024-10-06T23:34:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10838"
+}

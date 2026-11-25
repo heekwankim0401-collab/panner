@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "AnimationPlayer is in the core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-21T14:13:29Z",
+  "comments": 2,
+  "createdAt": "2022-12-18T02:37:07Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 5952,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Remove blending feature `Default Blend Time` from AnimationPlayer",
+  "up": 4,
+  "updatedAt": "2022-12-21T14:13:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5952"
+}

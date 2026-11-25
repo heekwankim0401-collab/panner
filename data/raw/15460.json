@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-08-31T09:45:58Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15460,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show the Light Temperature property in the Light3D inspector even when physical unit lights are disabled",
+  "up": 1,
+  "updatedAt": "2026-08-31T21:50:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15460"
+}

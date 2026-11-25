@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Refer to previous question.",
+    "format": "form",
+    "workaround": "I don't think so, it seems like a core editor feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2022-09-14T15:40:08Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5422,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to preview subviewports in the 2D editor",
+  "up": 31,
+  "updatedAt": "2026-01-26T22:28:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5422"
+}

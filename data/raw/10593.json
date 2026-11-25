@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not possible to create in an addon without creating an entirely new PropertySelector replica, and it still wouldn't integrate with MultiplayerSynchronizer",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-29T16:07:43Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 10593,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Toggleable \"show non exported properties\" for EditorInterface.popup_property_selector , would solve several issues related to MultiplayerSynchronizer",
+  "up": 0,
+  "updatedAt": "2024-09-09T12:45:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10593"
+}

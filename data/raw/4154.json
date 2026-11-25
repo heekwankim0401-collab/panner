@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This functionality already exists in core; this is just a matter of exposing it to GDScript.",
+    "format": "form",
+    "workaround": "No, there is no way to change an EditorSpinSlider's label color outside of the engine's C++ code."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-04T22:38:55Z",
+  "comments": 1,
+  "createdAt": "2022-03-04T04:16:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 4154,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make EditorSpinSlider label color a theme property",
+  "up": 0,
+  "updatedAt": "2022-03-04T23:41:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4154"
+}

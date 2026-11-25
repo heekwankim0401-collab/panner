@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The Script Editor is core and as far as I know there is no way to trigger the code analyser early.",
+    "format": "form",
+    "workaround": "You could decrease the `text_editor/completion/idle_parse_delay` Editor Setting to something more comfortable for your needs. But it's not always nice. For some users, myself included, it makes the editor feel very \"petty\" or otherwise annoying to deal with.\n\n_\"Yes, I know! Of course there's an error, I wasn't even done writing the full thing!\"_"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-17T15:23:40Z",
+  "comments": 6,
+  "createdAt": "2024-01-23T11:56:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "usability"
+  ],
+  "milestone": "4.4",
+  "number": 8945,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the Script Editor's parser execute sooner on edit after error was found",
+  "up": 9,
+  "updatedAt": "2024-12-17T15:24:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8945"
+}

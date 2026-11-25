@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a tiny addition to DirAccess which is already core, no one would use a plugin for such a negligible feature",
+    "format": "form",
+    "workaround": "Yes. Shown above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-10-10T12:45:05Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5568,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `DirAccess.get_file_count_at()` on `DirAccess`",
+  "up": 0,
+  "updatedAt": "2022-10-11T22:46:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5568"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Other text display nodes seem to universally support multi-line strings, this lone exception feels very much like an outlier as if it were meant to be implemented and forgotten 😭",
+    "format": "form",
+    "workaround": "Short answer:  No,  Long answer:  No\nAt first I tried making the exposed text a multiline setget export string in the MeshInstance's script but as you can see this does not work as I assumed it would.  Screenshot from testing project:\n![issue_screencap](https://user-images.githubusercontent.com/10767425/183780645-b62e30c7-623b-4dcd-8b42-9687661bdf20.png)"
+  },
+  "assignees": 1,
+  "closedAt": "2022-08-26T09:45:45Z",
+  "comments": 4,
+  "createdAt": "2022-08-10T00:16:11Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 5132,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Multi-line to TextMesh",
+  "up": 3,
+  "updatedAt": "2022-08-26T09:45:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5132"
+}

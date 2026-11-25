@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The goal here is to support add-ons. That said, this might just be something that gets punted from core because anyone who needs this kind of audio can probably use their own custom builds. I'd obviously prefer we have a discussion about whether something *like* this could be included in 4.x eventually because I think audio is important.\n\nI'd also love to have a discussion about less invasive ways of accomplishing audio occlusion, too, since I think that's the most important piece here for 4.x. Geometric reverb (estimating room impulse responses), HRTF audio, etc, are all nice to have but I think lots of people need sound to not go through walls for their games. That's pretty common I think. Perhaps that's common enough to include in core directly and we can bypass all this nonsense required to control the audio system from script?",
+    "format": "form",
+    "workaround": "No workarounds for this are possible."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-22T15:27:59Z",
+  "comments": 3,
+  "createdAt": "2021-08-22T00:31:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3182,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Overhaul audio spatialization to allow for greater flexibility (occlusion, HRTF, …)",
+  "up": 0,
+  "updatedAt": "2021-08-22T20:05:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3182"
+}

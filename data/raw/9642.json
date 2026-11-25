@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This solved a problem in the editor itself with many tabs. By default, the size of the tabs in the editor is very large, which makes the tabs with large names fit on the screen very small. And you have to scroll through the tabs a lot to navigate between scenes.\n\nExample:\n![image](https://github.com/godotengine/godot-proposals/assets/8208165/35342af8-9ee8-4491-aa59-722fe63204ae)\n\nAnd adding such a button as I think would make navigation much easier.",
+    "format": "form",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-05-01T03:46:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9642,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a button to list all tabs in TabBar",
+  "up": 8,
+  "updatedAt": "2024-05-01T15:43:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9642"
+}

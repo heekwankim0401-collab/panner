@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The Color Picker is built into the Godot Engine editing environment and I don't know enough about the internals to know if it's even possible to make a modification like this using an add-on.",
+    "format": "form",
+    "workaround": "This is just a means to work faster and avoid the mystery of if you will need to triple-click before hitting CTRL+C or not."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T18:33:17Z",
+  "comments": 0,
+  "createdAt": "2025-10-01T14:03:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 13317,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Copy\" Button to Hex/Expr Line in Color Picker",
+  "up": 13,
+  "updatedAt": "2026-01-28T23:21:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13317"
+}

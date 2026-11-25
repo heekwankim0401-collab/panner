@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the 3D editor usability out of the box",
+    "format": "form",
+    "workaround": "I think this can be expanded to views that can disclose properties, and each developer will use this feature in different areas. A level designer may use this with transforms, a gameplay designer may use this with materials or physics materials to adjust gameplay,  and so on. It can help improve productivity on any area you are constantly working on by keeping it open automatically, once you are done you unpin it"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-03-13T15:00:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4214,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow pinning inspector sections to the top",
+  "up": 10,
+  "updatedAt": "2022-03-13T15:45:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4214"
+}

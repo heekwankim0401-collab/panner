@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not sure, but when `Array.min`/`Array.max` find the corresponding value, the value index has to be somewhere in the algorithm, it is better to also return it, instead of making `Array.find`.",
+    "format": "form",
+    "workaround": "It might be possible, but no so efficient."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-10T14:30:35Z",
+  "comments": 8,
+  "createdAt": "2023-09-09T08:24:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7633,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `Array.min` and `Array.max` variations that return not only the value, but also the index",
+  "up": 5,
+  "updatedAt": "2026-09-07T18:39:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7633"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is how it works in other engines that have equivalent features. Also, doing anything else in the inspector, such as changing a value, affects all selected objects, so there's no reason tool buttons should be different.",
+    "format": "form",
+    "workaround": "The current workaround is to use a `for` loop with `EditorInterface.get_selection().get_selected_nodes()`\n```\nfor obj in EditorInterface.get_selection().get_selected_nodes():\n\t# do stuff\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-11T19:18:35Z",
+  "comments": 4,
+  "createdAt": "2025-12-11T16:50:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13836,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "If multiple objects are selected, tool button actions (added with `@export_tool_button`) should be invoked on all of them",
+  "up": 0,
+  "updatedAt": "2025-12-11T19:18:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13836"
+}

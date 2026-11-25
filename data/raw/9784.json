@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's already there, just needs some work (I think, not sure yet)",
+    "format": "form",
+    "workaround": "That's exactly what I'm trying to do."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-05-19T22:54:04Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 9784,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow audio generation inside an extended AudioStreamGenerator resource (rather than a node)",
+  "up": 2,
+  "updatedAt": "2024-05-20T13:15:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9784"
+}

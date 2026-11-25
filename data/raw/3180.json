@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's tiny, and its sole purpose is to support an add-on so I think it's an appropriate thing to add into core.",
+    "format": "form",
+    "workaround": "It could theoretically be worked around with an audio stream generator and sufficiently advanced plugin wrangling, but it really wouldn't be the kind of drop-in experience that I think users want."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-29T15:19:42Z",
+  "comments": 1,
+  "createdAt": "2021-08-21T23:04:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3180,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a virtual `maybe_ensure_capacity(float p_seconds)` method to AudioStreamPlayback to support decoding on the main thread",
+  "up": 1,
+  "updatedAt": "2021-08-29T15:40:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3180"
+}

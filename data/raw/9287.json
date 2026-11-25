@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "because for it to be in the asset library someone would need to know how the plugINs work, without looking into the manual or google search.\n\nDrawing with tiles is has important has using tile has objects.\nThe current tileDraw should have the same reasons to be in the asset library, has the tileMap used in GD4... And vise versa...\nCurrently the only option avaiable in Core is the latest a diference of 500fps to 3000fps depending on how many tiles/layers are on the level.\nMaking the fps even lower if more features are added like changing color.\nAll this things that a simple tileDraw could make with ZERO impact on perfomance.",
+    "format": "form",
+    "workaround": "Ho, this enhancement will be used often. Whenever the subject of tiles is mentioned in godot a lot dirt starts to surface, like the engine preformance, more features, etc... People trying to evade the subject and asking how to use godot to make a drawing program instead, normally getting the same answers like a viewPort and so on, that also bring the engine performance into question, making them question instead ( WTH  is going on ? )\n\n\\\\ TileMaps in godot need to be divided into 2 //\n- People that want to make destructible levels for on side.\n- People that want to draw levels for the other side.\n- You put them togheter, and you will have a bunch of insterical people running around, were noone will be able to do anything."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-18T14:37:09Z",
+  "comments": 6,
+  "createdAt": "2024-03-12T09:44:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9287,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "TileMap using the engine draw/paint",
+  "up": 0,
+  "updatedAt": "2024-03-19T14:53:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9287"
+}

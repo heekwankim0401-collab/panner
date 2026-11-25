@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't know how to decide if there is a reason why this should be core and not an add-on in the asset library.",
+    "format": "form",
+    "workaround": "If this enhancement will not be used often, I think it can be worked around with a few lines of script. I don't know..."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T08:35:46Z",
+  "comments": 0,
+  "createdAt": "2021-11-29T03:16:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3610,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a screen orientation setting effective even when rotation is locked",
+  "up": 3,
+  "updatedAt": "2026-01-28T17:18:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3610"
+}

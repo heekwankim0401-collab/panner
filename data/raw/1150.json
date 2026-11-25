@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "legacy",
+    "workaround": "Currently one workaround is to use GDScript’s file API to extract the install-time packs to a new path. This is a suboptimal solution since it creates additional disk space usage and consumes extra time. These tradeoffs are especially critical for mobile devices with limited storage space and file I/O speed."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-03T05:34:21Z",
+  "comments": 1,
+  "createdAt": "2020-07-01T04:56:12Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1150,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support PCK file loading with offsets",
+  "up": 6,
+  "updatedAt": "2020-09-03T05:34:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1150"
+}

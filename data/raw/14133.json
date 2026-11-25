@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The main use for CSGs is prototyping. Being able to preview the size of textures would aid in this goal by better representing the scale of meshes on the scene.",
+    "format": "form",
+    "workaround": "No. This is hard-coded into the mesh generation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2026-02-02T17:33:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 14133,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make CSGs change UV to match mesh size",
+  "up": 9,
+  "updatedAt": "2026-02-04T23:02:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14133"
+}

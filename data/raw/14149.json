@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Here's The Reason Why this should Be core in the engine not an add on.\n\n[\"Why should this be core and not an add-on?\"]\n\n\n1. [Editor Integration (The \"2D View\" Barrier):]\nAn add-on cannot easily modify the core UI of the Godot Editor to add a \"2D/3D Toggle\" or create draggable Gizmos that feel native. To make the 2D View Mode and Dead Zone Gizmos work seamlessly, they must be integrated into the engine's source code.\n\n\n2. [The \"Standard Kit\" Expectation:]\nIn modern game development, a functional camera is as basic as a Sprite or a CollisionShape. Forcing every developer to search the Asset Library for a \"basic camera shake\" or \"target framing\" creates a fragmented experience. Making it Core ensures that every tutorial and every project starts with the same high-quality tools.\n\n\n3. [Long-term Maintenance and Performance:]\nAdd-ons often break when Godot updates (e.g., from 4.2 to 4.3). By making these features Core, they are maintained by the Godot team, optimized in C++, and guaranteed to work with every new version. This provides the stability needed for professional 2.5D and 3D projects.\n\n\n4. [Attracting Industry Professionals:]\nDevelopers coming from Unity or Unreal expect these tools out-of-the-box. Having a \"Cinemachine-lite\" experience built-in makes Godot a much more attractive and \"ready-for-production\" engine for studios\n\n[Short Answer:]\nYes it should be in The Engine Because Developer who came from Unity And Unreal Engine Will Expect that Godot Had These Feature Already But In Reality it's Not\n\n[At the End]\nI suggest These Features To Make Godot Engine More Greater More Powerful More Easier Than What it is now And i'am Not Saying That Godot Is Bad absolutely No Godot Haven't Been That Powerful Since it's Start And I hope It's Become More Powerful than How powerful he is now.\n\nWrite With Love From A Creator",
+    "format": "form",
+    "workaround": "Can it be worked around with a few lines of script?\n\n[Answer Yes:]\n\"While these features can technically be scripted, doing so for every project is inefficient and creates a high barrier for entry for several reasons:\"\n\n\n[Complexity:]\nA high-quality Camera Shake with FastNoiseLite or a Target Grouping algorithm that handles dynamic zoom isn't just \"a few lines\"—it's a complex system that most developers end up copy-pasting from old projects.\n\n\n[Editor Workflow:]\nYou cannot easily script the 2D View Mode or Draggable Dead Zone Gizmos in the editor. These require deep integration into the Godot Editor's source code to feel smooth and professional.\n\n\n[Standardization:]\nFeatures like \"Unity's Cinemachine\" have become the industry standard. By making these \"Core\" features, Godot allows developers to focus on game design rather than writing boilerplate camera math.\n\n\n[Performance:]\nNative C++ implementation of target framing and noise-based shake is more performant than running these calculations in 'GDScript' every frame, especially in heavy scenes.\n\nSo It's Can Works without making the engine Heavy Short Answer: Yes it can"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-05T14:44:01Z",
+  "comments": 10,
+  "createdAt": "2026-02-05T01:19:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "spam",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 14149,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add camera shake, target groups and dead zone/soft limit to Camera2D",
+  "up": 0,
+  "updatedAt": "2026-02-05T19:57:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14149"
+}

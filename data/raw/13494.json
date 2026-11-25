@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is core functionality.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-27T23:52:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13494,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `Selection Only` checkbox to text editor search feature",
+  "up": 3,
+  "updatedAt": "2025-10-28T00:27:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13494"
+}

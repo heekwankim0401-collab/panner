@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Frankly, I don't konw. It might be done via an add-on, but I would not see the benefit of this. I think that many people using tile maps would benefit from the requested feature.",
+    "format": "markdown",
+    "workaround": "Not that I am aware of. As described above, the only workaround I currently know of is to (temporarily) replace the tile in a cell with a single sprite and apply the shader to that sprite. However, that means I manually have to keep track of all these sprites \"in action\", remove old ones and replace them again with the original tile in the map. and so on. Moreover, my current workaround also has some negative implications to the overall rendering performance, since many such sprites with their shaders can be visible and \"in action\" at a time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2021-01-24T17:43:55Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2173,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "New feature to apply a shader to a specific cell in a tile map",
+  "up": 9,
+  "updatedAt": "2025-04-09T23:10:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2173"
+}

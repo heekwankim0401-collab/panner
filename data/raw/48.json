@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It modifies the Inspector.",
+    "format": "legacy",
+    "workaround": "Technically all these functions could be written in code. However using curves you can reduce the code to just two lines and get the benefit of a visual representation.\n![image](https://user-images.githubusercontent.com/44248915/64487838-e3e94900-d23f-11e9-9383-d9e4af61fd8d.png)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-17T18:00:58Z",
+  "comments": 4,
+  "createdAt": "2019-09-08T11:52:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 48,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve the Curve, Curve2D and Curve3D editors by exposing values in the Inspector",
+  "up": 18,
+  "updatedAt": "2022-05-17T21:31:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/48"
+}

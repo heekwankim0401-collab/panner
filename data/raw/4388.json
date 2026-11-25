@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "You cannot change(at least AFAIK) how GDScript works using plugins."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-04-12T01:16:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4388,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "More consistent way to initialize or construct types and classes",
+  "up": 0,
+  "updatedAt": "2022-04-12T18:52:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4388"
+}

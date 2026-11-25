@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-11-02T23:12:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 15735,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Godot automatically save before exporting",
+  "up": 11,
+  "updatedAt": "2026-11-02T23:25:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15735"
+}

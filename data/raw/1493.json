@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having a good selection of noises is common in visual shader programs such as Blender, Substance, and Unity. I think adding more noise types will put godot closer to being on par with other visual shading programs. I do not know how easy it is to create another generator with a plugin. If it is easy I would love to know how.",
+    "format": "legacy",
+    "workaround": "this tutorial shows how to create the various nose through code: https://www.youtube.com/watch?v=ybbJz6C9YYA However, the tutorial does not use visual nodes."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-28T20:04:08Z",
+  "comments": 6,
+  "createdAt": "2020-09-12T01:56:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1493,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add more noise generators such as random, cellular, Anisotropic etc.",
+  "up": 7,
+  "updatedAt": "2022-03-28T20:57:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1493"
+}

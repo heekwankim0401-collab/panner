@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Required engine modification, maybe.",
+    "format": "form",
+    "workaround": "Nah. The only way is to convert the original material into shader materials to add extra functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-09-21T08:48:17Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 13228,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow BaseMaterial3D to be extended by another material",
+  "up": 4,
+  "updatedAt": "2025-11-11T00:01:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13228"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, too close to core",
+    "format": "form",
+    "workaround": "No, too close to core"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-09-17T14:12:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7710,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show warning in Scene tree on node whose native type doesn't match custom script inherited type",
+  "up": 6,
+  "updatedAt": "2023-09-18T14:46:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7710"
+}

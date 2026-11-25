@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As asynchrony is an essential part of modern GDScript, expansions in this area seem relevant to all developers.",
+    "format": "form",
+    "workaround": "It requires the creation of utilities that aren't elegant or intuitive to use as much as it feels it should be when it comes to handling multiple interrelated awaitables."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-11-08T22:44:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13597,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support for awaiting multiple signals/coroutines with new `all` and `any` functions",
+  "up": 10,
+  "updatedAt": "2025-11-09T16:38:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13597"
+}

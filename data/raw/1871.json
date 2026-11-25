@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feels like a built-in GDScript behaviour that would make the refactoring experience a little better.",
+    "format": "legacy",
+    "workaround": "I can't think of any workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-26T14:42:23Z",
+  "comments": 8,
+  "createdAt": "2020-11-22T14:36:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1871,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Have a compilation error when `onready var x = $X` points to a nonexistent Node",
+  "up": 2,
+  "updatedAt": "2021-05-26T14:43:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1871"
+}

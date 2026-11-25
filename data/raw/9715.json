@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "so developers can add the project setting override — likely ``/display/window/always_on_current_workspace.editor`` — if they decide that keeping the debug game on all desktops makes playtesting easier:\nfor example quickly switching to Desktop 2 for playtesting so the playtesters can't peek the source code\nand then switching back to Desktop 1 for continue developing.",
+    "format": "form",
+    "workaround": "i could pin the windows to all workspaces manually\nbut i failed to find an automatic workaround with a bash script that runs on autostart (called from ``~/.xinitrc``).\n\nthe manual workaround is:\n1. list all windows with ``wmctrl -l``\n2. raise the windows i want with ``wmctrl -i -r <WINDOW_ID> -b add,sticky"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-09T19:54:02Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 9715,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to mark specific windows to be visible on all workspaces",
+  "up": 0,
+  "updatedAt": "2024-05-12T23:47:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9715"
+}

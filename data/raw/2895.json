@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because the development of plugins is a core feature, and thus the technology around them should also be core.",
+    "format": "form",
+    "workaround": "No, I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-10T12:10:00Z",
+  "comments": 16,
+  "createdAt": "2021-06-20T14:46:23Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 2895,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use Swift as the main language for iOS plugins",
+  "up": 0,
+  "updatedAt": "2026-01-02T05:23:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2895"
+}

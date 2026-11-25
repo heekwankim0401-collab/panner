@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, This needs to be implemented in GDExtension natively, It's a must have.",
+    "format": "form",
+    "workaround": "Not sure, But it's not a complex or time consuming thing to do."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-04T15:41:50Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10652,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add extend property to Docs within GDExtension using `gdextension_interface_editor_help_load_xml_from_utf8_chars_and_len`",
+  "up": 3,
+  "updatedAt": "2024-09-10T16:23:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10652"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a thing in the Godot editor.",
+    "format": "form",
+    "workaround": "Yes. You could just click on the button to show the favorite nodes."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-10T13:17:48Z",
+  "comments": 0,
+  "createdAt": "2022-11-01T15:48:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5700,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Alway show user favorite nodes in the \"Create Root Node\" menu",
+  "up": 2,
+  "updatedAt": "2024-04-10T17:46:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5700"
+}

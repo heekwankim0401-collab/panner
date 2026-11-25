@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since it would also assume that you don't need to cast the player scene node to a Player.",
+    "format": "form",
+    "workaround": "Yes, for example, each time you instantiate a scene, you check it's type, but since this is something that happens often, it results into more and more lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-12T08:59:11Z",
+  "comments": 3,
+  "createdAt": "2024-08-07T13:45:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10388,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Export scene by attached script Type",
+  "up": 9,
+  "updatedAt": "2026-05-12T09:51:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10388"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an issue with an already existing and otherwise working built in feature.",
+    "format": "legacy",
+    "workaround": "This is about fixing a current poor design/implementation that impedes production. \nThe only workaround is to delete all done work on animation and reassign all animation key values again once the Hframe property changed.\nSince 3.2, there is the option use the Frame Coords property instead of Frame property, but this means also deleting all work done on animation and reassign all animation key values again. In my case that's hundreds of frames per character. Worse even, because the Frame Coords property requires two values to be set, not one like Frames property, doubling the work load."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-21T15:56:36Z",
+  "comments": 54,
+  "createdAt": "2019-10-13T13:17:38Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": "3.x",
+  "number": 151,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Spritesheets using the Frame property to expand horizontally",
+  "up": 11,
+  "updatedAt": "2022-07-21T15:57:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/151"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Modifying the behaviour of editor popup menus from an addon is hacky, godot doesn't have editor:// addons yet, and this is a useful power feature",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-08-17T10:22:29Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10470,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using digits as accelerator keys in popup menus",
+  "up": 28,
+  "updatedAt": "2026-01-11T22:04:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10470"
+}

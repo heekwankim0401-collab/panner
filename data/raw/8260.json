@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not even certain if someone could make a plugin to do that. I mean, its possible as Godot is open source and everything, but still, I have no idea how someone might go around doing that.\n\nAlso, I'll admit this is my first feature suggestion and its kind of a simple request (in thinking of what is wanted, not in implementing it) so I'm not too certain this is was written well, or just made well in general.",
+    "format": "form",
+    "workaround": "You can give a node a class name, followed by making a script that extends that class, and connect it when needed, although it isn't convenient, and I was told that the _ready() function will not work here. And I for example, am having a hard time figuring out how to connect another script to any node in general."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-10-26T00:44:40Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8260,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow connecting scripts to custom nodes",
+  "up": 0,
+  "updatedAt": "2023-10-26T20:54:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8260"
+}

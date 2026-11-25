@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same as above. And for sensible defaults.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2024-11-07T06:32:10Z",
+  "down": 6,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11108,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make debugging toolbar in \"Game\" editor a tab in Debugger panel",
+  "up": 4,
+  "updatedAt": "2024-11-12T09:18:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11108"
+}

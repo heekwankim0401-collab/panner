@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Configuration of the swap chain is handled by core, and cannot be done elsewhere.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2022-02-21T15:40:01Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 4065,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose double-buffered V-Sync as an option",
+  "up": 4,
+  "updatedAt": "2024-07-20T08:39:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4065"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think most people who use code folding would appreciate this option. Probably needs to be core anyway.",
+    "format": "legacy",
+    "workaround": "Nope. Workaround is to keep all scripts open, but that's cluttery and bad for editor performance."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-04T11:50:59Z",
+  "comments": 2,
+  "createdAt": "2020-03-25T18:12:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 633,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Save code folding state for closed scripts",
+  "up": 7,
+  "updatedAt": "2021-09-04T11:51:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/633"
+}

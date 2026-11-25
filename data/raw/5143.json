@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core GDScript change",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-11T14:04:34Z",
+  "comments": 6,
+  "createdAt": "2022-08-11T05:53:58Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5143,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add possibility to create autoload from script (without using the project settings)",
+  "up": 3,
+  "updatedAt": "2022-08-11T14:05:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5143"
+}

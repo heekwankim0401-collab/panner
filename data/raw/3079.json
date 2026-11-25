@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think lighting is inherent to the engine and can't be done in an addon?",
+    "format": "form",
+    "workaround": "Even if a custom shader can be written to achieve this, it would require using a custom shader for all materials in the project."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-03T12:19:08Z",
+  "comments": 1,
+  "createdAt": "2021-08-03T06:24:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3079,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add line lights",
+  "up": 2,
+  "updatedAt": "2021-08-03T12:19:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3079"
+}

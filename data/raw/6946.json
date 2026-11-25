@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Developing addons is part of the core experience of Godot developers. Any person who intends to build an addon for the Godot editor will face the issues I have described above and I do not see how an addon could solve these problems.",
+    "format": "form",
+    "workaround": "I do not know of any workaround for this. Please let me know in the comments if there is an easy way to debug addons that I might be unaware of!"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-05-25T17:04:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 6946,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow spawning a separate Godot instance to debug a specific plugin",
+  "up": 1,
+  "updatedAt": "2026-08-21T21:27:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6946"
+}

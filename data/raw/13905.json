@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is functionality meant for the existing `JavaClassWrapper`.\n\n## Example\nAssuming we have:\n```java\npackage org.example;\npublic interface EventListener { void onTrigger(String s); }\npublic class SomeJavaObj { public void setEventListener(EventListener e) {...} }\n```\n\nWe could use it like this:\n```gdscript\nvar EventListener: JavaClass = JavaClassWrapper.wrap('org.example.EventListener')\nvar printer: JavaObject = JavaClassWrapper.callback(EventListener, func(s: String) -> void:\n  print(s)\n)\njava_obj.setEventListener(printer)\n```\n\nThe equivalent Java code for `printer` wrapper would be something like:\n```java\nnew org.example.EventListener() { @Override public void onTrigger(String s) { gdscriptPrinter(s); } }\n```",
+    "format": "form",
+    "workaround": "The alternative is writing an Android plugin. But the point of the proposal is so you don't have to -- which is the purpose of `JavaClassWrapper` in the first place. I want to make it more useful, like `JavaScriptBridge`."
+  },
+  "assignees": 1,
+  "closedAt": "2026-04-01T18:03:23Z",
+  "comments": 2,
+  "createdAt": "2025-12-22T20:31:24Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:gdscript",
+    "topic:platforms"
+  ],
+  "milestone": "4.7",
+  "number": 13905,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow implementing Java interfaces from GDScript via `JavaClassWrapper`",
+  "up": 0,
+  "updatedAt": "2026-04-01T18:03:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13905"
+}

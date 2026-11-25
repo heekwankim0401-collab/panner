@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Debatable, so please discuss!\n\nIMO, by making this official, it greatly reduces the friction of the import pipeline for 3D assets. Making this official will guarantee support and compatibility with new features that both softwares have in common.\nThe .blend file importer must also be modified if this were to be implemented as a Godot add-on.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-05-15T07:29:23Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6883,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create an official Blender add-on for Godot asset pipeline",
+  "up": 15,
+  "updatedAt": "2025-04-29T17:52:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6883"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The debugger is central to the engine.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-07-29T12:52:25Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3057,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add functionality to debug input events",
+  "up": 12,
+  "updatedAt": "2022-01-02T16:45:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3057"
+}

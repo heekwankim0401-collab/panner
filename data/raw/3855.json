@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This cannot be an add-on in the asset library",
+    "format": "form",
+    "workaround": "This cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-01-24T19:59:18Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.x",
+  "number": 3855,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add temporal upscaling to sky shader low-resolution buffers",
+  "up": 11,
+  "updatedAt": "2022-12-16T21:19:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3855"
+}

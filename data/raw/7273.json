@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Great water shaders are a pillar of a lot of games, transport huge amounts of immersion and are commonly used. Both Unity and Unreals supports that, so Godot should join them.",
+    "format": "form",
+    "workaround": "I tried to work it around by creating a custom shader that both does transparency and SSR, but its really hard. My main problem is, that I need the normal texture of the screen, which is not easily obtainable in Godot shaders, if at all."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-13T22:28:49Z",
+  "comments": 0,
+  "createdAt": "2023-07-13T22:21:05Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7273,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Screen Space Reflections appear on Transparent Materials",
+  "up": 0,
+  "updatedAt": "2023-07-14T15:39:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7273"
+}

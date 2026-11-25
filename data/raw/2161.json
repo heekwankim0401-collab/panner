@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "see above",
+    "format": "markdown",
+    "workaround": "I believe this can be work-rounded but:\n- this workaround would abuse tree item selection (like wait for selecting a row and then select other columns of that item) which  might cause some issues\n- I think having `Multi Row` mode is the logical conclusion of the selection modes, because all these 4 modes could be represented by 2 checkboxes/abilities:\n1) ability to select multiple columns\n2) ability to select multiple rows\n\nSo I think the proposed mode is a \"missing link\""
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-01-21T23:12:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2161,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Tree `Multi Row` select mode",
+  "up": 15,
+  "updatedAt": "2025-01-18T02:04:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2161"
+}

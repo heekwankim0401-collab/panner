@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "We have a GDNative extension (and in the future a GDExtension) to replace OS.execute for this specific use case. However adding an entire C build dependency for this minor use case is quite annoying, and can introduce instability in our project.",
+    "format": "form",
+    "workaround": "There's some potential OS-specific workarounds involving temporary files and piping things around, but that then introduces some issues with different environments handling things differently. Otherwise can't be fixed by gdscript."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-08T20:38:58Z",
+  "comments": 5,
+  "createdAt": "2023-11-30T00:14:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 8543,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "OS.execute output stdout and stderr seperately. ",
+  "up": 2,
+  "updatedAt": "2024-04-08T20:39:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8543"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a quality of life improvement for a much-used part of the engine.",
+    "format": "form",
+    "workaround": "There is no built-in method to set global rotation or scale values. The methods for getting global pos/rot/scale are not discoverable without praying to google. These are common actions and should, imho, be simple and clear."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-30T15:19:25Z",
+  "comments": 4,
+  "createdAt": "2021-11-21T14:36:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3581,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add global position/rotation/scale properties to Node3D",
+  "up": 10,
+  "updatedAt": "2022-09-18T21:40:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3581"
+}

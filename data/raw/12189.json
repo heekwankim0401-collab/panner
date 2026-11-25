@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core functionality. Godot allows (and encourages) the developer to work with binary data but does not give the full functionality to do so.",
+    "format": "form",
+    "workaround": "Not to my awareness. This changes if [PackedByteArray is given full endian settings](https://github.com/godotengine/godot-proposals/issues/9586), but it is my belief that both are likely to have separate use-cases when the developer is working with binary files. \n\nOne solution would be to create a constant that returns true if the system uses big endian and swap a UTF encoded PackedByteArray back to little endian with a custom method. This would be to avoid edge-cases where the player's machine produces data-corrupting bugs which would ultimately fall on the developer. \n\nI do not believe that the above solution can be described as \"a few lines of script\" as it requires the developer to create their own infrastructure that could instead be a core functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-09T07:04:43Z",
+  "comments": 14,
+  "createdAt": "2025-04-08T06:39:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12189,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `store_utf()` and `get_utf()` methods to FileAccess for each UTF encoding type",
+  "up": 2,
+  "updatedAt": "2025-04-09T13:43:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12189"
+}

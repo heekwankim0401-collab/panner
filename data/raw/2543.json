@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This functionality enhances the usefulness of tilemaps drastically. It enables more options and support around custom and changing environments, heavily improves user experience for interacting with tilemaps, and allows the user to easily define ranges of objects or maps without any intense scripting, opening up the engine to more users.",
+    "format": "markdown",
+    "workaround": "If the area you are searching for is a simple square/rectangle shape it can be worked around with about 20 lines of script. However, any other simple shape adds more lines/complexity and if your goal is a custom, undefined, polygon it can't be done at all in only a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-04-01T20:58:05Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2543,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add signal compatibility between Area2D and TileMaps",
+  "up": 12,
+  "updatedAt": "2021-11-18T17:25:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2543"
+}

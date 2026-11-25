@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is fundamental to reference a node responsible for collision, no matter what node setup.",
+    "format": "legacy",
+    "workaround": "The work around would be to check each collision body for collision, but thats on potentially 10,000+ blocks. Also I dont want my blocks to have any attack checking responsibility."
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-06T21:39:21Z",
+  "comments": 7,
+  "createdAt": "2020-02-06T14:51:29Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 446,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Get specific collisionShape when KinematicBody has multiple collisionShapes",
+  "up": 0,
+  "updatedAt": "2020-02-06T21:39:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/446"
+}

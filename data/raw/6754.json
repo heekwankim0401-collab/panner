@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- As its porting to a new platform , keeping the same architecture as ios, android and linuxbsd . The integration should be inside platfrom folder as a new subsytem.",
+    "format": "form",
+    "workaround": "- As tizen currently uses Wayland and GLES3 current Godot4.0 \"linuxbsd\" option can't be used to target tizen.\n- So It will be better to add it as a separate platform target ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-04-25T01:16:12Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6754,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Port Godot to Tizen",
+  "up": 0,
+  "updatedAt": "2023-04-25T16:09:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6754"
+}

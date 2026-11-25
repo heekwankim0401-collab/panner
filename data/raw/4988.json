@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No other way except building a new custom shader window I guess?",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-04T15:46:36Z",
+  "comments": 3,
+  "createdAt": "2022-07-26T16:38:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 4988,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement pinning in the text shader and visual shader bottom panels",
+  "up": 0,
+  "updatedAt": "2024-03-04T15:46:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4988"
+}

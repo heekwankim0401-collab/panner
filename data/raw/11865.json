@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Only being able to navigate BBCode hyperlinks with a mouse makes them useless for games that want to support controllers and GUI systems that want to be fully navigable by keyboard.",
+    "format": "form",
+    "workaround": "Adding the link metadata to an array and setting up the controls to cycle through them and send the signal on a button press isn't difficult to do via script, but it shows no visual feedback onscreen. Giving links subfocus would allow different styling appearances if they have subfocus."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-02-27T19:13:20Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11865,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Grab GUI focus on BBCode hyperlinks in RichTextLabel",
+  "up": 4,
+  "updatedAt": "2025-05-03T17:43:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11865"
+}

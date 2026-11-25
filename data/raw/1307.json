@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I *think* it *might* be possible to achieve via modules in some way given godotengine/godot#40720, but likely you'd have to implement some kind of callback for modules before any initialization is run by the engine itself (including requiring you to parse `argc,argv` yourself). But this is not the idea, the idea is about the core functionality of the testing framework, which should be stable and robust by definition.",
+    "format": "legacy",
+    "workaround": "Have to write duplicate initialization and cleanup code for anything more complex than testing data structures, too much work and error-prone."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-08-04T19:43:30Z",
+  "down": 0,
+  "labels": [
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 1307,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unit/integration testing: creating a system to run different test contexts",
+  "up": 1,
+  "updatedAt": "2021-06-25T19:14:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1307"
+}

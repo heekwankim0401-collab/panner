@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Using `int` identifiers for an API is awkward. Freezing an application to wait for tasks should not be the only option out of the box.",
+    "format": "form",
+    "workaround": "I provided a singleton example but I feel this should be core in order to make `WorkerThreadPool` easier to use."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-08-09T01:47:49Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5118,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support signals with WorkerThreadPool",
+  "up": 3,
+  "updatedAt": "2022-09-07T10:38:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5118"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-06-12T00:23:50Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 14997,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow alpha-from-greyscale-value import of non-greyscale images by adding greyscale-ish remap option",
+  "up": 4,
+  "updatedAt": "2026-06-22T00:17:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14997"
+}

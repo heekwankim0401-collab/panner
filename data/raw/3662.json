@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should most likely be part of the core.\n\nHaving to install an add-on to get this expected behavior would not be optimal.",
+    "format": "form",
+    "workaround": "It seems like this would be used often.\n\nI don't know how many script lines it would take to workaround/fix this."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-01T15:04:01Z",
+  "comments": 2,
+  "createdAt": "2021-12-12T11:05:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3662,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Restore focus to the script editor when closing the running project",
+  "up": 5,
+  "updatedAt": "2022-11-01T15:04:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3662"
+}

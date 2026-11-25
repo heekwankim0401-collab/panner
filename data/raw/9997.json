@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As mentioned before, I am unsure if this can be made from addon",
+    "format": "form",
+    "workaround": "No, it requires a whole new viewport which would lead to much worse performance"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-06-18T20:09:09Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9997,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to use unshaded SCREEN_TEXTURE in shaders",
+  "up": 1,
+  "updatedAt": "2024-06-20T03:30:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9997"
+}

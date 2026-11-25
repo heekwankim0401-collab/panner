@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Again, it is not possible to accomplish via scripting. Creating onready variables when dropping nodes into script editor and holding Ctrl is a core feature.",
+    "format": "form",
+    "workaround": "It cannot be done via scripting. Plus, I believe this will be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-14T19:34:09Z",
+  "comments": 5,
+  "createdAt": "2023-07-08T11:22:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 7239,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make onready variables created from dropping nodes include custom types",
+  "up": 2,
+  "updatedAt": "2023-08-25T20:15:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7239"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The dialog is core, so it would need to be added to core.",
+    "format": "form",
+    "workaround": "I stumble upon this almost every day, so I figure it would be used often. But yes it can be worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-13T23:47:56Z",
+  "comments": 5,
+  "createdAt": "2023-08-22T14:23:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 7542,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to unbind AND bind parameters in the signal binding dialog at the same time",
+  "up": 9,
+  "updatedAt": "2025-11-13T23:50:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7542"
+}

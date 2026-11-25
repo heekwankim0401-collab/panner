@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This requires core engine modification.",
+    "format": "form",
+    "workaround": "This can be worked around on my project, but up to a certain point. If my script runs inside the desired viewport, `gui_get_focus_owner` works, but this then requires me to add my script to every single `Viewport`/`Window`/`Popup` that I have to work.\n\nHowever for my purposes that's not enough, since the app loads external scenes from PCK files, not developed by me (kinda like mods). This same workaround would have to be done by those developers as well, which is not ideal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-07-08T16:34:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7242,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Get direct access to windows from `DisplayServer`, including embedded windows",
+  "up": 2,
+  "updatedAt": "2023-07-11T20:10:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7242"
+}

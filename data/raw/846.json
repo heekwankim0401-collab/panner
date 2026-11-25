@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be implemented as an addon.",
+    "format": "legacy",
+    "workaround": "It cannot be worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-16T19:54:52Z",
+  "comments": 8,
+  "createdAt": "2020-05-16T16:34:44Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 846,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename the editor \"Scene\" dock to \"SceneTree\"",
+  "up": 0,
+  "updatedAt": "2022-05-18T13:35:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/846"
+}

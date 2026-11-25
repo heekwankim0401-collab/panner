@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "core icons.",
+    "format": "form",
+    "workaround": "I can avoid around this by creating the dedicated directory with file management, but a good design icon will clearly distinguish"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-03-06T13:56:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6445,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Tweak FontFile and FontVariation icons to make them easier to distinguish from each other",
+  "up": 8,
+  "updatedAt": "2023-03-14T16:11:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6445"
+}

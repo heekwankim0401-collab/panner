@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GLTF support is i core itself.",
+    "format": "form",
+    "workaround": "No, cannot worked around with script."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-19T11:00:37Z",
+  "comments": 3,
+  "createdAt": "2022-11-30T03:33:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.2",
+  "number": 5873,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support KHR_texture_basisu extension when loading glTF scenes",
+  "up": 2,
+  "updatedAt": "2023-08-19T11:01:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5873"
+}

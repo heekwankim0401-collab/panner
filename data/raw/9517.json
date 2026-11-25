@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think that `StateMachines` are just as fundamental to practically every game as other core node types, like `CanvasItems`, `Node3Ds`, etc., and I'm confident that a wide variety of games would be able to find multiple ways to use this node. \n\nOn top of that, in the context of controlling animation, Godot's `AnimationTree` is already a solid and functional finite state machine with a good editor. But while `StateMachines` are certainly an important part of game animation, their use goes far beyond animation alone, whether that's controlling the state of individual objects in a game world, managing the state of a puzzle or dungeon, or even managing the broad game states of an entire game. \n\nBased on all of that, I feel that a generalized `StateMachine` node would represent a more fundamental and flexible tool than the current AnimationTree, while building on top of the things that make the current AnimationTree nice to work with.",
+    "format": "form",
+    "workaround": "At a basic level, this can be worked around using the \"traditional\" match-based or node-based methods of building state machines in Godot. \n\nHowever, some of the aspects of this proposal are currently not possible at all (for example, `State Groups`, or creating \"empty\" States without existing animations inside a `AnimationNodeStateMachine`). \n\nI also think creating a StateMachine node that's more loosely coupled with the animation systems creates a **pipeline benefit**, as it would allow teams with a dedicated _designer_ (who may not be a programmer or animator) to quickly and easily define or tweak various StateMachines and State graphs, even before any code has been implemented or animations have been created. And by using the existing AnimationTree GUI, much of this work could be done _visually_, right in the Godot editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-14T06:20:43Z",
+  "down": 2,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9517,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a generalized StateMachine node",
+  "up": 10,
+  "updatedAt": "2025-05-24T19:00:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9517"
+}

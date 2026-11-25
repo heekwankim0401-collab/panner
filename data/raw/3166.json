@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "its already part of the core.",
+    "format": "form",
+    "workaround": "this is a core gd script 2.0 syntax feature so its important this issue is covered before 4.0 is released to keep future compatibility."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-20T04:28:51Z",
+  "comments": 5,
+  "createdAt": "2021-08-20T03:53:03Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3166,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "4.0 Generics should use <> instead of [] for better readability",
+  "up": 1,
+  "updatedAt": "2021-08-20T12:56:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3166"
+}

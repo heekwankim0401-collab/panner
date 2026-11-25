@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Editor icons are core, and making the icons more coherent benefits everyone.",
+    "format": "form",
+    "workaround": "Everyone using the editor will enjoy this update when dealing with camera nodes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-10-12T23:03:14Z",
+  "down": 7,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8089,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rework Camera3D and XRCamera3D icons for modern design",
+  "up": 7,
+  "updatedAt": "2023-10-19T09:48:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8089"
+}

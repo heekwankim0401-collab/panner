@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Should be improved in-engine.",
+    "format": "form",
+    "workaround": "No since it used some core feature of Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-05T01:54:11Z",
+  "comments": 0,
+  "createdAt": "2025-06-27T14:45:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 12681,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve behavior of \"Load failed due to missing dependencies\" dialog",
+  "up": 2,
+  "updatedAt": "2025-11-05T01:54:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12681"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It could maybe be done with an editor plugin. I looked into it though, and it would not be simple to write. In theory you could inject custom UI nodes into the Animation editor, but it would probably break if and when the UI changes. You'd also need to hack on the existing value or method tracks and probably parse a lot of things back and forth. It wouldn't integrate neatly with the rest of the engine.\n\nAs this seems like a very useful feature expanding the capabilities of AnimationPlayer I think it would be a great addition to core.",
+    "format": "form",
+    "workaround": "The workaround (i.e. current workflow) involves either hand coding a bunch of magic numbers and offsets, or maybe making a value track for your markers, parsing the animation a certain way by hand, to then control the playback through a script. It's clunky to say the least.\n\nIf you want the UI, which is the main usability feature here, you'd need to make an EditorPlugin (see below)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-01T15:36:58Z",
+  "comments": 5,
+  "createdAt": "2023-11-13T11:34:42Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.4",
+  "number": 8414,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add markers and regions to Animation",
+  "up": 13,
+  "updatedAt": "2024-10-01T15:37:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8414"
+}

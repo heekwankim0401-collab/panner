@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Every user that wants to write statically typed GDScript would benefit from this.\n\nTeams of developers would find this helpful as it would come in hand with the Editor Feature Profiles, helping commiting a number of people to stick to agreed typing style.\nWith 4.0 on the way and more teams working with Godot this could make their experience a whole lot smoother.",
+    "format": "form",
+    "workaround": "I believe that this would be at its most as a core feature just like Editor Feature Profiles."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-25T13:26:09Z",
+  "comments": 1,
+  "createdAt": "2022-01-25T13:11:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3862,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enforce GDScript static typing with a per-project setting",
+  "up": 4,
+  "updatedAt": "2022-01-25T13:47:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3862"
+}

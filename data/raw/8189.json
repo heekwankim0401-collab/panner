@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is not possible to implement this as an add-on.",
+    "format": "form",
+    "workaround": "Class names can be prefixed with the desired namespace name. This will make the code less readable.\n\n```gdscript\nclass_name GDSerializeSerializer\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-19T14:49:40Z",
+  "comments": 3,
+  "createdAt": "2023-10-19T08:11:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8189,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Class namespacing",
+  "up": 2,
+  "updatedAt": "2023-10-19T14:49:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8189"
+}

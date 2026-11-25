@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GameCenter are already a part of iOS platform which is a part of core.",
+    "format": "legacy",
+    "workaround": "This changes would require changes in module code and engine rebuild, so it could not be worked around, without changing the engine code itself."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-02T11:45:07Z",
+  "comments": 1,
+  "createdAt": "2020-07-10T15:34:04Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1184,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make iOS GameCenter authentication controllable by developer",
+  "up": 2,
+  "updatedAt": "2020-10-02T11:45:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1184"
+}

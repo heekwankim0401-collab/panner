@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The documentation code is core.",
+    "format": "form",
+    "workaround": "It cannot. It's something intrinsic to the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2022-08-31T15:45:26Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": null,
+  "number": 5299,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add syntax for documenting booleans: `[true]` and `[false]`",
+  "up": 6,
+  "updatedAt": "2024-11-20T14:57:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5299"
+}

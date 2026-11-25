@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-19T11:35:16Z",
+  "comments": 12,
+  "createdAt": "2020-07-04T20:23:50Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:core",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 1161,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename \"osx\" platform to \"macos\"",
+  "up": 15,
+  "updatedAt": "2022-09-18T21:31:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1161"
+}

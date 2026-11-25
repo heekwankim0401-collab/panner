@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Obviously,for my project , it is enough that just fix the second problem,however,I think it is importance to improve the minimap’s practicability and the freedom of the custom GraphEdit.",
+    "format": "markdown",
+    "workaround": "I'm not sure .....at least I can't. I think that the properties which expose for minimap are not enough , and there are not signal and method for it , in document, or just not updated in time？"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-03-26T06:24:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2510,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to display custom controls on `GraphEdit`'s minimap",
+  "up": 0,
+  "updatedAt": "2021-03-26T12:42:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2510"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Involve changes to the rendering code of a Control.",
+    "format": "form",
+    "workaround": "Not as far as I'm aware"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-17T15:17:02Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6902,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"inner item margin\" to Tree-related controls",
+  "up": 1,
+  "updatedAt": "2023-05-17T15:30:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6902"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't be done through the asset library",
+    "format": "legacy",
+    "workaround": "- If building from source it's just a matter of replacing the icon before building\n- For downloaded binaries I think there are tools that can replace the icon, but it'd be very inconvenient to do that every time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 29,
+  "createdAt": "2020-03-01T06:19:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 541,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use different app icons for alpha/beta/rc builds (and possibly Mono builds)",
+  "up": 127,
+  "updatedAt": "2024-10-20T08:24:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/541"
+}

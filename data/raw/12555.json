@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the UX when troubleshooting game logic.",
+    "format": "form",
+    "workaround": "A quick implementation can be done as follows with an autoloaded script:\n\n```gdscript\nextends Node\n\nvar base_time_scale := Engine.time_scale\nvar base_physics_ticks_per_second := Engine.physics_ticks_per_second\nvar base_physics_steps_per_frame := Engine.max_physics_steps_per_frame\n\nvar time_scale_factor := 1.0\n\n\nfunc _unhandled_key_input(event: InputEvent) -> void:\n\tif Input.is_key_pressed(KEY_O):\n\t\ttime_scale_factor = maxf(0.0625, time_scale_factor * 0.5)\n\t\tupdate_time_scale()\n\tif Input.is_key_pressed(KEY_P):\n\t\ttime_scale_factor = minf(16.0, time_scale_factor * 2.0)\n\t\tupdate_time_scale()\n\n\nfunc update_time_scale() -> void:\n\tEngine.time_scale = base_time_scale * time_scale_factor\n\tEngine.physics_ticks_per_second = maxi(1, base_physics_ticks_per_second * time_scale_factor)\n\tEngine.max_physics_steps_per_frame = maxi(base_physics_steps_per_frame, base_physics_steps_per_frame * time_scale_factor)\n```\n\nThis allows you to choose between power-of-two time factors by pressing <kbd>O</kbd> and <kbd>P</kbd>. It's not very flexible though, and lacks an on-screen display telling you about the current time scale (which is pretty important to know). Also, if you update either `Engine.time_scale` or `Engine.physics_ticks_per_second` during gameplay, you will need to further modify this autoload to make it possible."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-06T14:13:11Z",
+  "comments": 1,
+  "createdAt": "2025-06-05T00:51:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12555,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add slow motion and fast-forward controls to the embedded game window",
+  "up": 11,
+  "updatedAt": "2026-09-13T05:03:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12555"
+}

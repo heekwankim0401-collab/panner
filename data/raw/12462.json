@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Technically a plugin could make changes to this interface, but if a clearer design pattern emerged it could better facilitate exposing engine features and facilitating plugins to add to/extend this part of the interface without having to drastically change it",
+    "format": "form",
+    "workaround": "EditorLog is used quite frequently"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-05-19T15:53:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 12462,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "EditorLog (Output) interface design is hard to extend",
+  "up": 0,
+  "updatedAt": "2025-07-10T22:06:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12462"
+}

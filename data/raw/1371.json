@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core editor functionality.",
+    "format": "legacy",
+    "workaround": "No, as this is core editor functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-08-15T14:35:41Z",
+  "down": 2,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1371,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Don't constrain the 3D editor camera to a pitch angle of -90..90 degrees",
+  "up": 5,
+  "updatedAt": "2024-12-15T14:50:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1371"
+}

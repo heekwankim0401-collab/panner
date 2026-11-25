@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about the core particle system.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-06-26T20:56:56Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 10048,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a signal to GPUParticles3D collision",
+  "up": 0,
+  "updatedAt": "2024-11-21T02:02:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10048"
+}

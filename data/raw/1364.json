@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because with this project you can create a plugin framework and you need to call this framework from core with reflection.",
+    "format": "legacy",
+    "workaround": "There is not a workaround for adding third-party library for iOS. So people needs to be add module to engine and recompile Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-18T05:52:14Z",
+  "comments": 13,
+  "createdAt": "2020-08-13T22:37:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1364,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for iOS plugins (similar to Android)",
+  "up": 0,
+  "updatedAt": "2020-08-18T10:36:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1364"
+}

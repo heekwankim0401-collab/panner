@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It will influence every Godot project using this feature.",
+    "format": "form",
+    "workaround": "It can be worked around in theory. But - working on a \"bigger\" game (I am sure there are bigger and more complex games than mine, but it is a full game and has a ton of Nodes, Objects, effects. etc.) it is just so cumbersome to do it via Script.\n\nPhysics Interpolation is a fantastic feature, but also a feature that influences basically EVERY aspect of a project.\nI think if there is a property that influences a lot of things, it should be easily accessible as a editor element."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-10T06:43:13Z",
+  "comments": 4,
+  "createdAt": "2022-05-03T16:18:51Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "3.x",
+  "number": 4487,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose Physics Interpolation setting as a property in the editor",
+  "up": 12,
+  "updatedAt": "2022-05-10T16:29:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4487"
+}

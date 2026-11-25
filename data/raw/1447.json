@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because this can be really useful to create fast low poly meshes in editor, can be used in Particles node and to a lot of other creative things.",
+    "format": "legacy",
+    "workaround": "Can be created using the SurfaceTool and Mathematic knowledge to create the primitives with this option, but this makes harder to a new user create a simple low poly project with no effort. The other solution is to create manually these meshes in Blender and them export to Godot, but again, slows down the workflow."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-09-01T23:15:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1447,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a option to create flat-shaded PrimitiveMeshes in Editor",
+  "up": 3,
+  "updatedAt": "2026-06-30T00:49:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1447"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "IMO, this is core feature.",
+    "format": "form",
+    "workaround": "none"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-09T03:18:51Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10400,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify enum of CursorShape to only one",
+  "up": 6,
+  "updatedAt": "2024-08-10T12:23:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10400"
+}

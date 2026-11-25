@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-11T11:32:55Z",
+  "comments": 2,
+  "createdAt": "2026-02-11T11:14:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14201,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Implement `Signal.disconnect_all()` method to disconnect all emitter of a signal",
+  "up": 0,
+  "updatedAt": "2026-02-11T11:34:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14201"
+}

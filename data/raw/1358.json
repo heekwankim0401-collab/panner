@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This need be added to build system not core or asset library",
+    "format": "legacy",
+    "workaround": "This will be used on every PR, and alternative is to manual testing engine as it is today."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-18T17:44:22Z",
+  "comments": 9,
+  "createdAt": "2020-08-13T09:39:47Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": "4.0",
+  "number": 1358,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add stage with testing project in CI to find regressions earlier",
+  "up": 7,
+  "updatedAt": "2021-04-18T17:44:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1358"
+}

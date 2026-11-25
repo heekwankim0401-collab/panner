@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "button should have label properties.",
+    "format": "form",
+    "workaround": "no I was trying to but I simply cannot find any workaround.\n\nthe closest thing is to have button as a child of label (so label is invisible behind of button) and make visible character on label and on every frame check how much is displayed on label and set text on button to the text length of label and add few characters every frame..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-16T11:55:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12437,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Visible Characters property to Button",
+  "up": 0,
+  "updatedAt": "2025-05-17T18:08:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12437"
+}

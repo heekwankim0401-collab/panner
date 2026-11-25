@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it's a UI/UX Choice for better experience, having an add-on for this is just extra hassle for something that should be a part of engine.\n\nGodot is ♥ (Wish I could Contribute to engine, but I'm not quite there yet!)",
+    "format": "form",
+    "workaround": "I don't know if it can be done with an editor plugin, possibly can, but that's like adding an additional plugin just for something that could be engine default."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-23T23:14:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10547,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the script editor's current line highlight take soft wrap into account",
+  "up": 1,
+  "updatedAt": "2024-08-24T17:45:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10547"
+}

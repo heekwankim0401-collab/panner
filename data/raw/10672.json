@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I'm not certain it could or should be given the various variables are already in godot, setting them externally creates the same maintenance dependency issue that exist from my scripts setting them post godot first launch.",
+    "format": "form",
+    "workaround": "Yes, just don't set the commandline arguments and continue to launch godot several times setting various things."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-09-06T16:04:54Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 10672,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to setup Godot Editor for Android/iOS export from the commandline",
+  "up": 0,
+  "updatedAt": "2024-09-18T15:36:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10672"
+}

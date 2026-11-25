@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an improvement to consistency in the editor.",
+    "format": "form",
+    "workaround": "It doesn't seem to be possible to do this via script."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-02T10:32:34Z",
+  "comments": 2,
+  "createdAt": "2022-10-02T08:09:43Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 5529,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make the D in \"2D\" and \"3D\" uppercase by default for node names",
+  "up": 0,
+  "updatedAt": "2022-10-02T10:32:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5529"
+}

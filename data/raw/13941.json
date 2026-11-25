@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As above, this is beneficial to be included in the core codebase to encourage simple shape collision usage for all users.",
+    "format": "form",
+    "workaround": "This is beneficial to be included in the codebase to encourage simple shape collision usage for all users. Mesh importing is an incredibly frequent activity."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-01-01T13:51:46Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13941,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically fit primitive collision shapes to the mesh's vertices in the Advanced Import Settings dialog",
+  "up": 3,
+  "updatedAt": "2026-01-04T22:16:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13941"
+}

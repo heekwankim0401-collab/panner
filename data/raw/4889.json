@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is gdscript syntax feature",
+    "format": "form",
+    "workaround": "See `Describe the problem`\nIt is possible to use lambdas but the code still wouldn't be so clean"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-07-16T17:43:49Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4889,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement match-like syntax for await",
+  "up": 2,
+  "updatedAt": "2022-07-17T12:34:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4889"
+}

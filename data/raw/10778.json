@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Cannot be implemented in an addon.",
+    "format": "form",
+    "workaround": "Currently only drawing can be overriden during 3D rendering by setting the texture to 1x1 and then back to the normal res during compositing."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-18T15:24:55Z",
+  "comments": 1,
+  "createdAt": "2024-09-18T15:22:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:plugin",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10778,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow replacing RenderingServer",
+  "up": 0,
+  "updatedAt": "2024-09-18T15:25:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10778"
+}

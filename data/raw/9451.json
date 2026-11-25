@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It feels like a missing feature.",
+    "format": "form",
+    "workaround": "I reckon it would almost always be used when working with Viewports that render 3D scenes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-04T22:48:03Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9451,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to set a World3D or World2D scenario in editor",
+  "up": 1,
+  "updatedAt": "2024-04-05T00:05:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9451"
+}

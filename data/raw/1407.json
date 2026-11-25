@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Many users are complaining about it and want to better protect their game resources (and scripts) for commercial projects. See:\nhttps://github.com/godotengine/godot/issues/24716\n\n\n**Alternative**\n\nAn even better way to solve this problem and better protect the source code would be to convert C# to C++ and compile it to a native binary, just like Unity does (https://docs.unity3d.com/Manual/IL2CPP.html).\nThis will protect the code much better and is much harder to reverse engineer.\nBut it also may be harder to implement in Godot.",
+    "format": "legacy",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2020-08-24T18:05:20Z",
+  "down": 1,
+  "labels": [
+    "topic:dotnet",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1407,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide obfuscators support for C#",
+  "up": 36,
+  "updatedAt": "2025-07-21T09:29:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1407"
+}

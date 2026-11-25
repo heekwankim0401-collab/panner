@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because it core function",
+    "format": "form",
+    "workaround": "Yes, by convert from Iteriable to Array"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-06-04T03:07:07Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 12549,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change the parameters of the function set_cells_terrain_connect() instead of Array<Vector2i> to IEnumerable<Vector2i>",
+  "up": 0,
+  "updatedAt": "2025-06-04T08:59:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12549"
+}

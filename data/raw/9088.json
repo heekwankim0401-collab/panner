@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would improve usability of the signal system, which is a core Godot feature.",
+    "format": "form",
+    "workaround": "Since it is a simple editor tweak, this should be possible with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-02-13T22:59:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9088,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow reordering connected methods from the Signals tab",
+  "up": 13,
+  "updatedAt": "2024-03-16T20:00:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9088"
+}

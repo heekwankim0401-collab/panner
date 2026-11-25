@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is direct change in the game engine's build process.",
+    "format": "form",
+    "workaround": "I can make do with excluding files, directory options at the bottom of the window, but as I have many of PCK templates needed to be exported, it become cumbersome and tedious to make sure that all PCK files have omitted unnecessary files/directories."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2022-12-26T00:06:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 5992,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an export option to explicitly include selected resources without dependencies",
+  "up": 13,
+  "updatedAt": "2025-06-05T16:09:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5992"
+}

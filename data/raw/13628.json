@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I did consider an add-on which takes a .kt file, makes an AAR project from a template, builds it, and installs it to the current project, but it would be nice not to have to do it like that!",
+    "format": "form",
+    "workaround": "The only workaround here is to make an android studio project, build it, create the godot plugin descriptor etc."
+  },
+  "assignees": 1,
+  "closedAt": "2026-01-28T07:20:55Z",
+  "comments": 6,
+  "createdAt": "2025-11-13T13:57:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 13628,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for single-file Android plugins in Java/Kotlin",
+  "up": 0,
+  "updatedAt": "2026-10-23T16:41:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13628"
+}

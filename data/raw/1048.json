@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core in the script and not sure if it is possible to work around with an add-on.",
+    "format": "legacy",
+    "workaround": "This can be worked around in only two lines, but those lines are very redundant, especially in cases where several nodes are exported. Also, this is an extremely common use-case that has come up several times in most (if not all) of my projects."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-28T14:59:36Z",
+  "comments": 40,
+  "createdAt": "2020-06-12T21:41:14Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 1048,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to export Node types instead of just NodePaths",
+  "up": 142,
+  "updatedAt": "2023-03-21T01:57:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1048"
+}

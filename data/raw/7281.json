@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves the engine usability out of the box.",
+    "format": "form",
+    "workaround": "For GDExtension, I worked around by creating a class in GDScript which stores the classes I want to use inside a Dictionary with the class name as key and the GDScriptNativeClass as value, register it as a singleton with `Engine::register_singleton`, then inside GDExtension I get the dictionary from the singleton to store as a static variable inside the UI class which I can use inside the functions.\nIt's a workaround, but it takes a few lines to do so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-14T12:47:44Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7281,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to get GDScriptNativeClass by name",
+  "up": 2,
+  "updatedAt": "2025-02-17T17:23:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7281"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It'd massively improve the workflow for adding in animations and creating palette swaps.",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-02-14T11:51:26Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 475,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to import and create palette indexed sprites from GIFs and APNGs",
+  "up": 7,
+  "updatedAt": "2022-08-02T00:23:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/475"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an editor issue.",
+    "format": "form",
+    "workaround": "It's an editor issue."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-02T23:28:24Z",
+  "comments": 2,
+  "createdAt": "2021-10-02T14:10:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3378,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Drag and drop a node from the Scene nodes panel, into a the Inspector, to get a NodePath",
+  "up": 2,
+  "updatedAt": "2021-10-02T23:28:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3378"
+}

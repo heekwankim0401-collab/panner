@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Direct integration with the audio system: It needs to interact at a low level with Godot's audio system to manage music and FX channels, which would be more difficult to achieve with an external add-on.\n\nKey feature for retro projects: It is highly useful for retro or educational game developers, benefiting Godot by offering unique functionality out of the box.\n\nBetter user experience: Users wouldn’t need to search for or configure plugins, simplifying the development process for those making retro games with synthesized audio.\n\nPerformance optimization: Being integrated into the core allows the system to be optimized for better performance without the overhead that an add-on might bring.\n\nConsistency with other Godot features: Just like the physics and graphics engines, having this feature in the core creates a more cohesive experience for developers.\n\nCross-platform support: Core integration ensures it will work properly across all platforms where Godot is available (mobile, desktop, web).",
+    "format": "form",
+    "workaround": "IDK"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-05T10:26:29Z",
+  "down": 3,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 12373,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add FM synthesis over a fixed number of channels",
+  "up": 0,
+  "updatedAt": "2025-05-06T15:03:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12373"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Would make more scene for the method to be callable then writing a lot of code to work around it",
+    "format": "form",
+    "workaround": "I would rather just not use the godot audio at that point and use openal if i have to go through a lot of hoops just to get mic input"
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-02T22:22:47Z",
+  "comments": 3,
+  "createdAt": "2023-09-03T18:14:50Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.4",
+  "number": 7601,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability read audio directly from audio playback instead of using the recording effect",
+  "up": 2,
+  "updatedAt": "2026-04-02T22:22:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7601"
+}

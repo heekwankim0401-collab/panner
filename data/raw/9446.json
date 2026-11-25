@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "ummm I assume it would be core. Its really the foundation to normal map authoring.",
+    "format": "form",
+    "workaround": "This will be used all the time by users who are baking normal maps. Your assets will look better and require less work overall."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-04T15:05:32Z",
+  "comments": 5,
+  "createdAt": "2024-04-03T18:43:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9446,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Update Baked normal implementation to support a Synced workflow",
+  "up": 0,
+  "updatedAt": "2024-04-04T15:05:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9446"
+}

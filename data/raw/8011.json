@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "yes, file formats",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-06T21:34:11Z",
+  "comments": 18,
+  "createdAt": "2023-10-06T21:22:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:core",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 8011,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for .jxl, .flac .av1 encoding/decoding",
+  "up": 4,
+  "updatedAt": "2026-01-05T01:26:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8011"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Would be preferred to have this in Core to be at par with other functionality. Also an add-on keeping in mind the current `scene_debugger` structure might be difficult (from what I explored).",
+    "format": "form",
+    "workaround": "It is possible to create a custom debug script in some cases but is unnecessary complexity introduced with the feature already there in the 2D and 3D Views."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-08-26T09:07:03Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13069,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Ruler Mode for Game View",
+  "up": 0,
+  "updatedAt": "2025-08-27T09:38:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13069"
+}

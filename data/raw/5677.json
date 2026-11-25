@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a modification to GDScript.",
+    "format": "form",
+    "workaround": "It's trivial to work around, but is inconsistent with other methods in the `OptionButton` class.\n`option_button.get_item_text(option_button.selected)`\n\nAlternate proposal:\nRemove `get_selected_metadata()` and `get_selected_id()` and make the above syntax the only method for grabbing info from the selected item.  This would break compatibility."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-10-30T00:28:00Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5677,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `get_selected_text()` method to `OptionButton`",
+  "up": 0,
+  "updatedAt": "2022-10-30T00:40:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5677"
+}

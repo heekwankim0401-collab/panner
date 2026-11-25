@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "useful in many type of 2D games",
+    "format": "form",
+    "workaround": "It can be worked around by having a raycast2D node follow the mouse cursor, but it's neither elegant or convenient as it leads to potential mistakes like raycast2d not colliding because on a different layer"
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-12T18:04:09Z",
+  "comments": 5,
+  "createdAt": "2023-11-09T10:49:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8382,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Get Node2D Under Cursor",
+  "up": 1,
+  "updatedAt": "2023-11-13T11:09:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8382"
+}

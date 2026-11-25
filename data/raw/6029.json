@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving editor usability out of the box.",
+    "format": "form",
+    "workaround": "This cannot be worked around with a plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-12-31T21:41:55Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6029,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add number to the end of filename if it exists when duplicating",
+  "up": 5,
+  "updatedAt": "2023-01-01T06:35:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6029"
+}

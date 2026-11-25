@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think pretty much all of the solutions I propose dive in to the core of the GDScript code, and though I haven't yet taken a look at all of the core code involved in the solutions, I imagine several, including the top idea of just passing the variable to the set function, would easily be implemented in the core, do so without forcing users to adapt code to accommodate the changes, and come with fairly low risk.",
+    "format": "form",
+    "workaround": "It's fair to say that similar end goals could be achieved without any one of these enhancements.  But for my scenario, even a couple of extra lines of script, turn in to 180 extra lines of very repetitive and readability impairing script.  I think a dict may often be considered as a solution to something like this, but it doesn't work out here, because a major goal is to be able to dynamically view the changes that adjusting these variables make in the editor, via the inspector, and switching to a dict, breaks the ability to use all of those inspector hints, etc."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-08-07T05:29:23Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3096,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve access to variables in set / get properties GDScript 2.0",
+  "up": 4,
+  "updatedAt": "2024-07-22T07:18:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3096"
+}

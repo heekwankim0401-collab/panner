@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above - it reduces friction for users to achieve desired behavior (i.e., doesn't require them to go search for, download, import, etc files to their project).",
+    "format": "form",
+    "workaround": "Yes, users can work around this fairly easily:\n- They can simply learn the matrix transformation order.\n- They can define their own macros or functions that perform these transformations.\n- These macros/functions can be placed in a dedicated `.gdshaderinc` file and included.\nHowever, these are all extra steps that the user has to perform to improve their QoL, and may require them to know the matrix operations in the first place. With this proposal, these QoL improvements would be built-in to the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-01-15T06:03:40Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 14013,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add coordinate space conversion functions to the Godot shader language",
+  "up": 15,
+  "updatedAt": "2026-02-26T12:02:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14013"
+}

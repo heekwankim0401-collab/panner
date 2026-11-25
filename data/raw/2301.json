@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core node of the editor.\n[test_animation_player.zip](https://github.com/godotengine/godot-proposals/files/5992858/test_animation_player.zip)",
+    "format": "markdown",
+    "workaround": "This is an editor feature. It is unclear if it can be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-17T13:43:21Z",
+  "comments": 6,
+  "createdAt": "2021-02-17T02:41:40Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2301,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "AnimationPlayer moving slider has unclear behavior with changing/saving data on the scene file",
+  "up": 0,
+  "updatedAt": "2021-02-17T14:58:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2301"
+}

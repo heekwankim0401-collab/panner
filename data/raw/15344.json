@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-08T10:37:44Z",
+  "comments": 5,
+  "createdAt": "2026-08-08T01:30:16Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 15344,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Automatically cast `Vectori` to `Vector` when using operands",
+  "up": 1,
+  "updatedAt": "2026-08-08T12:00:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15344"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It just feels like something that should be in the engine.",
+    "format": "form",
+    "workaround": "It can be worked around with a few lines of script, but since this very silently bloats projects, it will usually not be done in practice. Everyone I told about this was surprised Godot wasn't already optimizing translations on export.\n\nDoing this manually is also a bit of a bother. And it will benefit all .po users, even if the benefits are the greatest for games with lots of translation comments aiming for the web."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-17T20:02:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 12450,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ship compiled .mo instead of raw .po (strip comments by default)",
+  "up": 0,
+  "updatedAt": "2025-05-18T15:01:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12450"
+}

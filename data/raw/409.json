@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a slight modification to the physics engine that simply reveals values already being calculated.",
+    "format": "legacy",
+    "workaround": "The only way to work around this that I could figure out is to use KinematicBody2D and rewrite collision handling. Recalculating impulse using RigidBody2D is not possible because contact monitoring within `_integrate_forces` with Physics2DDirectBodyState does not provide all necessary properties of the colliding body."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-26T03:37:18Z",
+  "comments": 4,
+  "createdAt": "2020-01-27T02:09:55Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 409,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Include 2D collision impulse in contact monitoring",
+  "up": 34,
+  "updatedAt": "2025-10-26T14:38:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/409"
+}

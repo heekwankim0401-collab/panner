@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Resolutions are core.",
+    "format": "markdown",
+    "workaround": "I guess so. Depends on how much \"a few\" is. You could probably use a viewport with a script to achieve this?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-04-15T14:47:29Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2609,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option for display - window - stretch - aspect - expand to expand from not just top left corner",
+  "up": 2,
+  "updatedAt": "2023-03-12T20:15:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2609"
+}

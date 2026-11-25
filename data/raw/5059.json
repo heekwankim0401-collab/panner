@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "(NA as backport proposal)",
+    "format": "form",
+    "workaround": "No, it is actually difficult to encode an image to a jpg buffer without that API (short of saving a jpg as a file, and re-opening it, which would be inefficient)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-02T18:50:35Z",
+  "comments": 1,
+  "createdAt": "2022-08-02T18:38:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5059,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "backport Image.save_jpg_to_buffer from Godot 4 to Godo 3.5",
+  "up": 0,
+  "updatedAt": "2022-08-02T21:46:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5059"
+}

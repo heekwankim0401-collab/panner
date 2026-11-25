@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-09-19T15:36:12Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 15548,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Easing Transition Type as a Property for Individual Keyframes in AnimationPlayer",
+  "up": 7,
+  "updatedAt": "2026-10-11T14:07:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15548"
+}

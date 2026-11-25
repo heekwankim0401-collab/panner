@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-22T19:18:40Z",
+  "comments": 2,
+  "createdAt": "2026-03-22T09:16:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14516,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Locking a CSG node should disable the sizing gizmos",
+  "up": 0,
+  "updatedAt": "2026-03-23T23:06:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14516"
+}

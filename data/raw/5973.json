@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Creating an add-on for a file type that is already supported feels kind of strange.\nThe addition is very small code wise, would not require a lot of work compared to writing a custom importer.\nEasy to disable if you don't need vertex colours.",
+    "format": "form",
+    "workaround": "Other options are possible, but take more work\n- Custom importer.\n- Manually editing the import settings for a ton of GLTF2 files\n- Writing a script that loads, and extracts each mesh from their respective  GLTF2 file."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-12T23:37:17Z",
+  "comments": 2,
+  "createdAt": "2022-12-21T17:19:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 5973,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Blender-style vertex colour support for OBJ import",
+  "up": 4,
+  "updatedAt": "2023-01-12T23:37:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5973"
+}

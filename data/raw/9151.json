@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There's already similar functionality in the engine and this would be a welcome quality of life for people with big scripts.",
+    "format": "form",
+    "workaround": "you can use your mouse to click the search box or press Control+F and tab a bunch of times until you get to the filter methods box."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-17T22:22:57Z",
+  "comments": 2,
+  "createdAt": "2024-02-22T01:25:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9151,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Editor: Filter methods search window.",
+  "up": 0,
+  "updatedAt": "2024-05-17T22:22:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9151"
+}

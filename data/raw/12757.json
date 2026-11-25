@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is giving a whole new purpose for the Frame Coordinates, and would make lots of lives easier. It definitely would help me and others.",
+    "format": "form",
+    "workaround": "I think it would be used very often, especially for people like me, creating top-down 2D games, as it makes things way easier to animate and code. And my only current solution is creating a new Sprite or adding a lot of unnecessary feeling animations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-10T00:05:01Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12757,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add keyframe icons to individual Vector components in the inspector when using the AnimationPlayer editor",
+  "up": 2,
+  "updatedAt": "2025-07-10T13:30:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12757"
+}

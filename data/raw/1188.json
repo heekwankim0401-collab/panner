@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is impossible to instantly teleport a body by changing the position. The same issue applies to getting the position as well.",
+    "format": "legacy",
+    "workaround": "Yes. You can use MoveAndSlide or MoveAndCollide. However, I need to get/set the position, not move the body."
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-16T16:00:18Z",
+  "comments": 2,
+  "createdAt": "2020-07-12T21:25:40Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 1188,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "KinematicBody Position",
+  "up": 0,
+  "updatedAt": "2020-07-16T16:00:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1188"
+}

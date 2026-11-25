@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a setting build into Godot, and I think it would be much easier to change it in the engine than make a plugin. This is because the change itself would not be incredibly complicated.",
+    "format": "markdown",
+    "workaround": "While the code to work around this is only a few lines, (the horizontal offset could be set to half of the sprite's texture size while centering is off) this would need to be applied to every sprite3d instance and this would get quite messy very quickly. I think this enhancement would be quite useful for projects that are using a grid but not a gridmap and other situations where position of the node is important for calculations and code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-01-24T05:56:21Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2170,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Setting for Centering Sprite3d Horizontally or Vertically Rather Than Only Both",
+  "up": 0,
+  "updatedAt": "2021-01-24T14:20:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2170"
+}

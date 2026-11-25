@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This is about reducing the editor and export templates' binary sizes and improving security."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-12T09:19:42Z",
+  "comments": 2,
+  "createdAt": "2021-07-09T21:40:31Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.1",
+  "number": 2970,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use the system's SSL certificate bundle instead of embedding a certificate bundle in the binary",
+  "up": 5,
+  "updatedAt": "2023-05-12T09:19:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2970"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Don't think it's possible as a add-on",
+    "format": "form",
+    "workaround": "Whenever you want to change a project setting that isn't in basic mode, you can:\n- Activate advanced mode\n- Find the setting and change it\n- Disable advanced mode\n\nWhen doing this for every new project (in the case of `editor/node_naming`), or often (`editor/run/main_run_args`), this easily becomes a hassle."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-03T01:12:13Z",
+  "comments": 2,
+  "createdAt": "2021-07-20T01:04:03Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3015,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Editor setting for adding project settings to basic mode",
+  "up": 0,
+  "updatedAt": "2022-05-03T01:12:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3015"
+}

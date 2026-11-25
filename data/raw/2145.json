@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, if it only outputs .png, then it'd be a fairly small add-on, and be a nice way, to make sure the lighting, fog, every-thing, 100 % matches the look, of the normal game - play, at run - time . . so, basically, one sets up a scene, with a ton of animations, then one presses PLAY, and the game begins to run, but it renders each frame, and stores them, to disc . . <3",
+    "format": "markdown",
+    "workaround": "I have no idea, since adding a video compression format might be too much, simply being able to store each frame, as a .jpg or, .png in a folder, would solve it, the rest can be done, in free video editing programs or, so . . . <3"
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-25T23:37:46Z",
+  "comments": 2,
+  "createdAt": "2021-01-18T13:48:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2145,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Godot capable of rendering high - production value images to the disc or, drive . .",
+  "up": 0,
+  "updatedAt": "2021-12-25T23:39:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2145"
+}

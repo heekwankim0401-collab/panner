@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is just the basics",
+    "format": "form",
+    "workaround": "If this improvement is not used, then you will be using wrappers that are technically slow to perform. You will also restrict the user from fully using dots in names, which is simply unthinkable and will lead to further bugs and errors. You will either have to continue to invent bicycles yourself, or the developer himself will create it, which will also raise questions in the community.\n\nOn the additional point I raised, you will simply miss the chance to add mathematically correct and logical syntax for gdscript."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-26T17:36:27Z",
+  "comments": 14,
+  "createdAt": "2025-01-03T00:34:20Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11475,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Why are periods replaced with underscores?",
+  "up": 0,
+  "updatedAt": "2025-02-26T18:24:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11475"
+}

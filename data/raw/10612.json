@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature addresses a fundamental aspect of 3D asset manipulation that is commonly used in many types of projects. Making it a core feature ensures it is available out-of-the-box, reducing the need for third-party plugins and making it easier for developers to transition from other engines (like Blender) where such shortcuts are standard.",
+    "format": "form",
+    "workaround": "While it is possible to script this behavior or create an editor plugin, having built-in shortcuts would provide a more seamless and accessible experience. Scripting this for every project or explaining it to team members can be inefficient, and integrating it directly into the core would standardize the workflow across projects."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-14T15:38:12Z",
+  "comments": 1,
+  "createdAt": "2024-08-30T16:39:24Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 10612,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add keyboard shortcuts for resetting transforms (position, rotation, scale)",
+  "up": 7,
+  "updatedAt": "2025-10-14T15:38:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10612"
+}

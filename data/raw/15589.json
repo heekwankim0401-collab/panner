@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2026-10-01T11:59:07Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15589,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Save default engine files in `user://godot/` instead of `user://`",
+  "up": 4,
+  "updatedAt": "2026-10-22T14:20:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15589"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the core functionality of Timer nodes, and the logic for syncing up timer nodes to the game wouldn't make sense to split it off into its own add-on, and can potentially confuse people.",
+    "format": "form",
+    "workaround": "I would have to re implement the entire Timer node script into gdscript and add in a sync feature into it. Or I will have to add my own timer logic into every single object in my game that uses it which will quickly stack up to hundreds of lines very quickly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-10-05T00:29:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3386,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Timer property to synchronize time elapsed to delta/FPS",
+  "up": 5,
+  "updatedAt": "2022-10-04T22:42:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3386"
+}

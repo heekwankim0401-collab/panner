@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This involves the Godot C# bindings, which can't be changed by addons.",
+    "format": "form",
+    "workaround": "The workaround would be to use the methods already there, which are subject to the pain points described above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-08-29T00:39:25Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:dotnet"
+  ],
+  "milestone": "4.x",
+  "number": 3220,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "In C#, add overloads to Tween methods that take `ref` parameters in place of objects and property `NodePath`s",
+  "up": 1,
+  "updatedAt": "2023-02-24T05:55:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3220"
+}

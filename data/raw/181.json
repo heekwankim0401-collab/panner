@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This greatly accelerates the development of things, that in some games could be loaded procedurally. I do realize, that the inability to load up the folders could be due to a fact that people would use this as a way-to-go importing mechanism, instead of using proper .zip/.pck importers, but it should just be mentioned in docs that this is only for WIP purposes and nothing else.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2019-10-24T16:30:03Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 181,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to load a folder into filesystem in runtime, like it is already possible with .zip/.pck",
+  "up": 10,
+  "updatedAt": "2019-11-25T21:43:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/181"
+}

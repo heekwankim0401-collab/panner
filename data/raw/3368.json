@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "With laptops starting to adopt OLED displays, it makes sense to provide an OLED-friendly editor theme preset out of the box. PC monitors are also starting to see OLED options available (and TVs used as PC monitors are becoming increasingly popular too).\n\nIf the Godot editor is ported to mobile platforms in the future, this will become even more relevant. Most phones and tablets now use some variation of OLED displays such as AMOLED.",
+    "format": "form",
+    "workaround": "It may be figured out by more advanced users, but more casual users usually aren't aware of tweaking the editor theme settings outside of the few presets offered."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-28T07:48:27Z",
+  "comments": 3,
+  "createdAt": "2021-09-29T17:51:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 3368,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an OLED-friendly dark theme preset to the editor",
+  "up": 19,
+  "updatedAt": "2022-11-28T07:49:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3368"
+}

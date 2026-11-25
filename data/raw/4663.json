@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "\"This would allow users to utilize the ability to allow objects to be capable of traversing/explore around not only on floors but on walls. (As mentioned: Anti-Gravity/ Wallwalking)",
+    "format": "form",
+    "workaround": "\"There is currently no script alternative that will make the Barycentric Coordinate interpolation/calculation work...\""
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-03T20:43:59Z",
+  "comments": 6,
+  "createdAt": "2022-06-12T20:58:32Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.2",
+  "number": 4663,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Barycentric Coordinates from Raycasting to calculate any Tri-Mesh face's position and rotation for smooth movement on floors, walls, or rollercoaster-like paths, (A.K.A. Anti-Gravity or Wallwalking)",
+  "up": 6,
+  "updatedAt": "2023-08-03T20:44:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4663"
+}

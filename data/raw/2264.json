@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Being able to detect key presses is already a part of core, the toggle status of the lock keys should really be a part of that.",
+    "format": "markdown",
+    "workaround": "Not with Godot script. The only way I can see of getting it to work is by calling another program or potentially a different script with OS.execute but that is beyond the scope of gdscript and has the potential to make shipping your app require a large dependency like python."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2021-02-08T11:54:37Z",
+  "down": 0,
+  "labels": [
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 2264,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to check the current keyboard Caps Lock status",
+  "up": 27,
+  "updatedAt": "2026-08-26T19:07:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2264"
+}

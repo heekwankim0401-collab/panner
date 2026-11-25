@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This needs to work out of the box for the Web Editor.",
+    "format": "form",
+    "workaround": "No, this is currently an inherent flaw with the Web Editor and should work by default (for example, for the students working on Chromebooks in my club)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-01-30T00:36:00Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3895,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to view game output in the Web Editor",
+  "up": 0,
+  "updatedAt": "2023-02-03T09:34:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3895"
+}

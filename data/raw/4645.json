@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think expanding the compiler like this is not intended to be done by add-ons",
+    "format": "form",
+    "workaround": "I can either make a function with two arguments, that are both optional and throw an error if none or both are is given or make two functions with a slightly altered name based on what Arguments the functions can take.\n\nThis is really a very minor complaint and I won't  be upset, if I have to wait for this feature a bit. ;)\n\nHowever: given that Godot already supports constructors of built-in types to take different arguments, I imagine implementing this would not be a big deal for maintainers.\n\nSo I think it is a neat small creature comfort feature for the sake of having some more utility and consistency in gdScript. :heart:"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-09T14:23:48Z",
+  "comments": 2,
+  "createdAt": "2022-06-09T13:23:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4645,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allowing multiple functions with the same name and different arguments",
+  "up": 2,
+  "updatedAt": "2022-06-09T14:23:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4645"
+}

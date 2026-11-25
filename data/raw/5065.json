@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "An add-on seems overkill to change one thing.",
+    "format": "form",
+    "workaround": "You can work around this issue by not using Tweens, but I feel as if that would be more of a headache to work around."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-08T02:10:21Z",
+  "comments": 5,
+  "createdAt": "2022-08-03T01:14:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5065,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change linear2db to return -60.0 when inputted 0.0",
+  "up": 0,
+  "updatedAt": "2023-04-08T09:33:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5065"
+}

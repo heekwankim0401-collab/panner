@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Proper warning generation should be core to the engine... we shouldn't rely on an add-on to make sure syntax warnings work as expected.",
+    "format": "form",
+    "workaround": "Right now a workaround is messy, requiring you to do something like...\n\n```gdscript\n@abstract class_name InteractStrategy\nextends Resource\n\nsignal interacted\n\n@abstract func interact(actor: Node2D) -> void\n\n@abstract func emit_interacted() -> void\n```\n\nSo that other classes are required to implement `emit_interacted` as a function, which hopefully reminds you that there's an important signal to implement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2026-01-04T18:08:49Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13951,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Classes that inherit from a class with an unused signal should also generate the unused signal warning",
+  "up": 0,
+  "updatedAt": "2026-01-07T18:07:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13951"
+}

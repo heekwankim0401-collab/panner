@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe the engine should provide first party support for this, because feature-wise it's currently incomplete. If Godot provides it's own virtual file system, there should be a way to interact with it, at least on some level.",
+    "format": "legacy",
+    "workaround": "There are currently some existing plugins which provide the support for walking the `.pck` files:\n- https://github.com/MrJustreborn/godot_PCKManager (not updated in 3 years, crashes with some PCKs in `3.2`)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-07-17T20:07:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1212,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to list the contents of PCK files or resource associated with it",
+  "up": 21,
+  "updatedAt": "2025-02-24T09:54:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1212"
+}

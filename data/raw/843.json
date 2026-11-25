@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it would be a change affecting the already present editor-solution.",
+    "format": "legacy",
+    "workaround": "Possible by creating additional bloat, but in general it appears code will not work properly at all (especially the \"look_at\"-method) and the proper solution seems to rotate the model itself mostly (causing the said confusion in the first place)"
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-09T14:47:04Z",
+  "comments": 6,
+  "createdAt": "2020-05-15T12:14:32Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 843,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Changing the default editor-viewport-camera to look backwards instead of forward",
+  "up": 0,
+  "updatedAt": "2020-06-09T14:56:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/843"
+}

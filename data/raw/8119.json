@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core node.",
+    "format": "form",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-14T19:57:01Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8119,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a flag for `RemoteTransform2D` to propagate parent's transform",
+  "up": 4,
+  "updatedAt": "2023-10-14T20:52:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8119"
+}

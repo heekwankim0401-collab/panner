@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Obviously this should be added to the core and not an addon for the convenience of all developers out there.\n\nHowever, the added functionality can be all implemented in GDscript in a simple enough way (in fact it could be a good exercise to budding programmers). You could simply make a NodePathPlus class in a single script and distribute it as an addon.",
+    "format": "legacy",
+    "workaround": "If this feature were not added, the only workaround would be to convert a NodePath to a string and do some string manipulation, or use the limited methods already provided. While it is technically possible to still code without this, it makes for much more verbose code that quickly loses understand-ability"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-05-26T18:48:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 908,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "NodePaths and their usages should be made more functional",
+  "up": 0,
+  "updatedAt": "2020-05-27T19:28:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/908"
+}

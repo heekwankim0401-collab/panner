@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can't be implemented in a plugin",
+    "format": "form",
+    "workaround": "No, only workaround is to use custom instance uniforms, but it can quickly run into limit of max instances using uniforms when using lots of meshes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-06-01T13:01:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12533,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose transparency instance property into shaders",
+  "up": 0,
+  "updatedAt": "2025-06-01T15:45:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12533"
+}

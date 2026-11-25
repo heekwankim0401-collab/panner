@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This proposal is about improving the usability of the asset library and it's method of adding plugins and other assets and since that is a core part of the editor it would have to be added to the core project",
+    "format": "form",
+    "workaround": "Sadly it can't as setup methods for different plugins tend to differ in what has to happen for that plugin to work and you can't cover all possible options within a few lines of script"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-12-03T21:39:23Z",
+  "down": 0,
+  "labels": [
+    "topic:assetlib",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3631,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve the Plugin Installation process",
+  "up": 2,
+  "updatedAt": "2021-12-05T19:57:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3631"
+}

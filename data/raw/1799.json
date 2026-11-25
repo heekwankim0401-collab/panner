@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core feature",
+    "format": "legacy",
+    "workaround": "will be used in any localized project."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-31T02:46:57Z",
+  "comments": 16,
+  "createdAt": "2020-11-09T19:46:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1799,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add DynamicFont support to localization remap",
+  "up": 0,
+  "updatedAt": "2021-02-02T17:15:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1799"
+}

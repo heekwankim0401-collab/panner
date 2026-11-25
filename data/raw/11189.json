@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature is inherently tied to Android's native platform and relies on JNI calls, which are not easily handled through GDScript or a standalone asset. Including it as a core feature:\n\n• Ensures seamless integration with Godot’s existing Android export pipeline.\n• Reduces boilerplate for Android developers.\n• Ensures future updates to Android and JNI are handled at the engine level without requiring external asset updates.",
+    "format": "form",
+    "workaround": "This enhancement cannot be achieved directly in GDScript without JNI or external plugins. Developers would need to:\n\n1. Write custom Java code for each project.\n2. Rebuild the Android export templates to include their code.\nWhile possible, this is a time-consuming and error-prone process for something as simple as a Toast notification. A core implementation ensures ease of use and maintainability."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-21T12:14:12Z",
+  "comments": 8,
+  "createdAt": "2024-11-19T11:52:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11189,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement Android Toast in Godot 4",
+  "up": 0,
+  "updatedAt": "2024-11-21T14:34:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11189"
+}

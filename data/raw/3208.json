@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core to the WebRTC multiplayer module.",
+    "format": "form",
+    "workaround": "If all my RPCs go through a single function I could implement server_relay for that function in the GD script, but then you are almost doing without the RPC system and implementing it by decoding and making the function calls yourself.  \n\nRequiring all the client peers have WebRTC channels between them as well as to the server makes sense if the channels are carrying audio/video data, but is not justified for the binary RPC data where you have all the issues of the server resolving any conflict issues between the players.  \n\nMultiplayer stuff is hard enough without adding in the possibility you can enter states where some channels can be missing or dropped and it is unclear what messages have got through between the players.  It is better to have only two possible states: connected to server (when all messages are getting through to all other connected players), or not connected to server (when you are totally on your own)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-27T16:34:31Z",
+  "comments": 5,
+  "createdAt": "2021-08-26T11:50:55Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 3208,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add server_relay option to WebRTCMultiplayer",
+  "up": 2,
+  "updatedAt": "2022-10-27T16:34:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3208"
+}

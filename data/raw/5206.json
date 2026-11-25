@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "These methods are core.",
+    "format": "form",
+    "workaround": "Technically? You can create an Autoload, define static methods with the new names, or just keep sticking with the current naming scheme."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-26T21:04:07Z",
+  "comments": 6,
+  "createdAt": "2022-08-19T12:15:49Z",
+  "down": 3,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 5206,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `str2var` and similar functions to `str_to_var`",
+  "up": 16,
+  "updatedAt": "2022-08-26T21:04:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5206"
+}

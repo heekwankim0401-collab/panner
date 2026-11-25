@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is something that (I feel like) should have been a core feature in the first place.",
+    "format": "form",
+    "workaround": "You can implement this as a third-party \"package manager\"."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-26T08:30:38Z",
+  "comments": 1,
+  "createdAt": "2021-11-26T05:31:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3597,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Better extension/plugin system",
+  "up": 0,
+  "updatedAt": "2021-11-26T11:08:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3597"
+}

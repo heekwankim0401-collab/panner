@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's something that helps simulate worlds, or physics . . Game engines are moving towards this, more and more things a PBR, physics based, having an approximation, based in science, of wind, would be nice . .",
+    "format": "legacy",
+    "workaround": "Having it as in-built feature, would mean more games could benefit from it, it should be fairly small, or scalable, so it can be run, at least cost, to FPS . . <3"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-14T14:14:34Z",
+  "comments": 7,
+  "createdAt": "2020-08-31T03:07:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 1435,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a physically based wind simulator . .",
+  "up": 2,
+  "updatedAt": "2021-05-14T14:14:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1435"
+}

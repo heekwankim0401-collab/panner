@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it's better than the current comment implementation",
+    "format": "form",
+    "workaround": "nope"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-06-15T07:51:53Z",
+  "down": 4,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7088,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a new `Comment line` action that would comment then move the caret to the next line",
+  "up": 1,
+  "updatedAt": "2026-05-07T05:56:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7088"
+}

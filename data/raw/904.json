@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can't be done via add-on, as this changes the editor inspector.\n\nOriginal issue: https://github.com/godotengine/godot/issues/6922 (I reworded it to indicate unique resources instead of shared since all resources are shared by default)",
+    "format": "legacy",
+    "workaround": "Nope."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-04T22:41:36Z",
+  "comments": 19,
+  "createdAt": "2020-05-26T14:59:03Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 904,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add indicator to resources that are unique",
+  "up": 54,
+  "updatedAt": "2025-11-04T22:41:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/904"
+}

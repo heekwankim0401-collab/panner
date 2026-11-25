@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It could be a complement, the important thing is the functionality of being able to export 3D models once the project is compiled.",
+    "format": "legacy",
+    "workaround": "they told me that if I connect it with a json it may be, but I have no idea how to implement it"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-06T01:56:20Z",
+  "comments": 12,
+  "createdAt": "2019-12-28T15:52:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 341,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add functionality to export 3D models from an exported project",
+  "up": 0,
+  "updatedAt": "2022-01-06T01:56:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/341"
+}

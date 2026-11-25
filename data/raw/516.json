@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "you could have a particle system as addon but it makes sense to just improve the one in core\n\n**Additional Notes:** This is for Vulcan Rendering engine as some things here would be hard to implement in GLES2. Although, GLES2 could still take ideas from here.\n\nSuggest your own ideas and changes in the comments :)",
+    "format": "legacy",
+    "workaround": "No this requires a change in core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2020-02-23T23:43:24Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 516,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Particle System Proposal",
+  "up": 24,
+  "updatedAt": "2022-08-01T15:14:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/516"
+}

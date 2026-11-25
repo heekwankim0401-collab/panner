@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "We should definitely do this, it's pretty standard to have async GPU memory init without stalling. It's also very simple for us to implement. This will actually make loading faster for the editor/game/buffers/particles and not just the dynamic changes.\n\nIt's a win win all around.",
+    "format": "form",
+    "workaround": "No because it's abstracted from the end user and almost any buffer/multimesh or particles will exhibit the problem in some way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-07T13:18:47Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12744,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve performance by using GPU transform feedback for zero initialization of buffers",
+  "up": 0,
+  "updatedAt": "2025-07-08T13:57:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12744"
+}

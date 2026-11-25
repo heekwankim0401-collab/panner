@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The node lifecycle is a core system where both performance and usability must be prioritized. Introducing new lifecycle functions would likely require refactoring underlying engine code, and must therefore be implemented with extreme caution to avoid breaking existing behaviors and maintain backward compatibility.\nWhile Godot's _ready() and _notification() can achieve similar functionality to Unity’s Start() and OnDestroy(), the experience is less streamlined. Godot requires explicit manual checks (e.g., NOTIFICATION_PREDELETE) for cleanup, whereas Unity provides dedicated, intuitive methods. A more structured and unified approach to lifecycle events would improve usability and align closer with conventions developers expect from modern engines.",
+    "format": "form",
+    "workaround": "While initialization and cleanup logic can be implemented in scripts, this approach inevitably leads to substantial code duplication across custom scripts. Furthermore, pre-loading cannot be effectively implemented at the script level. Although manual construction is possible, it will result in significant performance lag when dealing with large or complex node structures."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-09-28T14:03:34Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13295,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend more node lifecycle virtual functions and signals (e.g., initialization, destruction)",
+  "up": 0,
+  "updatedAt": "2025-09-29T07:20:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13295"
+}

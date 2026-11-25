@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GLTFDocument is in core so it can't be easily modified by an addon.",
+    "format": "form",
+    "workaround": "GLTF2 support can be difficult and making hooks can help others. GLTF Extensions is not a few lines."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-22T07:32:14Z",
+  "comments": 1,
+  "createdAt": "2021-09-16T16:10:58Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 3305,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an extension system for the GLTFDocument class",
+  "up": 2,
+  "updatedAt": "2022-11-22T07:32:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3305"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Add-ons can't add core functions.",
+    "format": "form",
+    "workaround": "The user can define the method themself, but they would be at another location as the other math functions."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-15T17:55:12Z",
+  "comments": 3,
+  "createdAt": "2022-03-09T17:27:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4194,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `step` and `step_angle` math functions",
+  "up": 3,
+  "updatedAt": "2022-08-15T18:26:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4194"
+}

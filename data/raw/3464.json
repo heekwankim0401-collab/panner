@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Yes, as the shadow split distance can already be tweaked by the user. However, the goal here is to improve the default appearance so people don't shy from the lower-quality shadow modes as much when targeting mobile/web platforms :slightly_smiling_face: \n\nOnce https://github.com/godotengine/godot-proposals/issues/3353 is implemented, we can also default to PSSM 2 Splits on mobile with more confidence."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-10-23T14:23:02Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3464,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make DirectionalLight3D's PSSM 2 Splits shadow mode use the `split_2` property for the cutoff instead of `split_1`",
+  "up": 4,
+  "updatedAt": "2023-02-24T03:21:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3464"
+}

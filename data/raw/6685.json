@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's small usability improvement of existing function, so looks like as core it should work better.",
+    "format": "form",
+    "workaround": "I think it would be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-04-12T18:35:24Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6685,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Revamp autokeying in the animation editor to record all properties",
+  "up": 6,
+  "updatedAt": "2023-05-01T11:55:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6685"
+}

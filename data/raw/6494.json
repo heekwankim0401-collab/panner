@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I am not sure how that would work.",
+    "format": "form",
+    "workaround": "I am not aware of any workarounds. You can pre-create a mesh with bones, but it makes it difficult to work around the varying size, vertex count as well as a varying length / bone count."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2023-03-13T23:45:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6494,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add API to surface tool to integrate bones into a mesh programmatically",
+  "up": 1,
+  "updatedAt": "2023-03-15T17:04:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6494"
+}

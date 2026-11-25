@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core API related.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-12-03T01:38:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13777,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to append a component to `NodePath`",
+  "up": 12,
+  "updatedAt": "2025-12-03T06:49:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13777"
+}

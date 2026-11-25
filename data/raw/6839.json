@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "can't be an add-on",
+    "format": "form",
+    "workaround": "it can't"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-09T11:03:18Z",
+  "comments": 2,
+  "createdAt": "2023-05-09T03:00:06Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6839,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `get_current_code_completion_results()` method to `ScriptEditor`",
+  "up": 0,
+  "updatedAt": "2023-05-09T14:24:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6839"
+}

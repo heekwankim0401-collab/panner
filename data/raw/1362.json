@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be very helpful for all people wanting to integrate their projects into CI",
+    "format": "legacy",
+    "workaround": "Like I wrote, it can be used timeout but it is really really really bad solution for any project greater than 1 image."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-09T20:36:05Z",
+  "comments": 13,
+  "createdAt": "2020-08-13T17:04:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": "4.3",
+  "number": 1362,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to import resources using a command line argument",
+  "up": 60,
+  "updatedAt": "2024-04-09T20:36:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1362"
+}

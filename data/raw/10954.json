@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Asking people to install a separate addon for your addon to just make your node _slightly_ easier for them to understand is a rather unnecessary step, at least in my opinion.",
+    "format": "form",
+    "workaround": "Unless if I somehow missed something glaringly obvious in the documentation, there's no way for me to add any hover-over descriptions in an alternative manner, unless if I do something like make a separate GDExtension to be bundled in with this addon, of which I think would be asking a bit much for just this rather simple functionality.\n\nAnd yes, I'm aware of how you typically can just put `## Description here` above a variable to create a description, but this is not applicable here. This data is dynamically shoved into the properties to allow certain data to be assigned and then retrieved from a dictionary with `_get()` and `_set()` functions."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-28T03:58:35Z",
+  "comments": 2,
+  "createdAt": "2024-10-12T04:19:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:docs",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10954,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow dynamically generated properties in property lists to have hover-over descriptions.",
+  "up": 3,
+  "updatedAt": "2025-04-28T15:39:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10954"
+}

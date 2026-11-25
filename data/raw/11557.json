@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A direct \"in-house\" implementation would be better and probably faster :)",
+    "format": "form",
+    "workaround": "I looked for an editor plugin but there is none and even if there was one, a direct \"in-house\" implementation would be better and probably faster"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-14T14:43:25Z",
+  "comments": 1,
+  "createdAt": "2025-01-14T10:37:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11557,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add references to Symbols in the editor",
+  "up": 1,
+  "updatedAt": "2025-01-14T14:43:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11557"
+}

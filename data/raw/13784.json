@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The main reasons for this are:\n1. **Performance** - GLSL will be much faster than gdshader.\n2. **Convenience**.\n3. **Appearance** - the approach with a custom gdshader can cause artifacts (Especially on different backends).",
+    "format": "form",
+    "workaround": "I tried to do this, and it's **possible, but it's not very convenient to use** - you have to write a gdshader (which takes the depth, normalizes it, attaches the mesh to the screen, uses the fog function, and outputs the screen color mixed with the fog color), which will be assigned to the mesh instance 3d, which will be attached to the camera. \n\n This results in a very **long setup** process for both the shader and the scene itself, and it's **not the most efficient approach** (especially for mobile devices)."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-04T16:02:01Z",
+  "comments": 1,
+  "createdAt": "2025-12-04T09:15:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13784,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Gradient fog",
+  "up": 1,
+  "updatedAt": "2025-12-04T16:02:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13784"
+}

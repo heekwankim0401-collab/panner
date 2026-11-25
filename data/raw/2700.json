@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is no way to change functionality of AnimationNodes outside of core.",
+    "format": "markdown",
+    "workaround": "Additive animation is used very often to create a variety of different movements with lesser amounts of animation clips. Also, AnimationNode behaviour can not be scripted outside of core."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-21T03:30:01Z",
+  "comments": 11,
+  "createdAt": "2021-05-08T20:37:21Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 2700,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement additive animation using a base pose in AnimationNodeAdd2",
+  "up": 0,
+  "updatedAt": "2024-11-04T04:43:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2700"
+}

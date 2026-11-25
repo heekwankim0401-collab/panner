@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-12-15T15:31:46Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem",
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 1987,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable unit tests for -O3 and -O2 and enable this on the CI",
+  "up": 1,
+  "updatedAt": "2020-12-15T16:29:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1987"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Modifications to language syntax seem to be a little too significant and far-reaching to be an asset library element. This should be presented as a direct and universal feature.\n\nAdditionally, there's nothing saying that a refactored `while`; something I still do myself, sometimes, when I feel that a do loop is being used unnecessarily; can't still be used simply because a `do` loop is available. It would just give the language a little more pliability.",
+    "format": "form",
+    "workaround": "As said, the usual workaround is a `while(true)` followed by a conditional break; but after thirty years of programming, that feels like \"flying too close to the sun\" to me. `while(true)` is generally bad form and bad smell. If I want it to run while variable `c` is not the head of my list, I should have a loop checking against it being equal to the head of the list. Telling the interpreter to always run a loop, and then break out of it in the instructions, is arguably a hack.\n\nIf I actually wanted the code to run forever, then `while(true)` might work for me just fine; but here, it doesn't adequately express my will and design as a builder."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-25T23:59:41Z",
+  "comments": 14,
+  "createdAt": "2023-04-18T22:10:15Z",
+  "down": 7,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6719,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement a do...while loop in GDScript for code readability?",
+  "up": 1,
+  "updatedAt": "2025-03-25T20:07:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6719"
+}

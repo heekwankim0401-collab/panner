@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because the variable is already part of the core project settings, it's used a lot in pixel art; a very common art style in Godot, and because the feature already existed in Godot 3.X",
+    "format": "form",
+    "workaround": "No, there's no existing way to do this in Godot 4.0.\nThough in Godot 3.X, you could just use set_screen_stretch() and set the final argument to the new scalar and that work exactly as expected\n\nProjectSettings.set_setting(\"display/window/stretch/scale\", <value>) doesn't actually update the scale in-game. If you use ProjectSettings.save() it updates the value for the next time you launch, but not for the current session.\n\nThe only stretch functionality exists in subviewport container which is not applicable for most usecases"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-11-16T23:15:44Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5797,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the missing Setter for Stretch Scale in Godot 4.0",
+  "up": 0,
+  "updatedAt": "2022-11-16T23:39:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5797"
+}

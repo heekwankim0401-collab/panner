@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A custom `Search in files` can be made as a plugin, but I think the feature would be used often, so it could be in core",
+    "format": "form",
+    "workaround": "this could be be used often; can't be worked around when you use `Search in files`"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-26T06:39:06Z",
+  "comments": 1,
+  "createdAt": "2022-06-26T06:22:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4753,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add whole words search for `search in files`",
+  "up": 1,
+  "updatedAt": "2022-06-26T18:39:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4753"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-16T16:22:30Z",
+  "comments": 0,
+  "createdAt": "2026-09-13T14:03:02Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.8",
+  "number": 15518,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `set_visibility_layer_value` to CanvasItem (Or, document that `set_visibility_layer_bit` is 0-based)",
+  "up": 0,
+  "updatedAt": "2026-09-16T16:22:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15518"
+}

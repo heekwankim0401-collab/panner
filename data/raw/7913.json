@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Autocomplete is part of core",
+    "format": "form",
+    "workaround": "It will be used always"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-04T13:29:19Z",
+  "comments": 3,
+  "createdAt": "2023-09-29T08:58:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 7913,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Always display enum values first when autocompleting an enum",
+  "up": 26,
+  "updatedAt": "2024-01-04T13:29:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7913"
+}

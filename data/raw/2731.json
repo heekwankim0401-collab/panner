@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Signals are core\n<hr>\nSee also: #2557",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-17T10:46:19Z",
+  "comments": 5,
+  "createdAt": "2021-05-17T01:23:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2731,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create `Signal` type for better autocomplete and compiler errors",
+  "up": 0,
+  "updatedAt": "2021-05-17T13:21:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2731"
+}

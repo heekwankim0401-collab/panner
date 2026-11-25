@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Support for the back button is already core, I just think it can be done in a much friendlier way.",
+    "format": "legacy",
+    "workaround": "More than a few. You could build your own input manager, but it would be non-trivial. It would also seem to go against the designs of the current input system."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-09T04:02:10Z",
+  "comments": 9,
+  "createdAt": "2020-03-30T19:11:33Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": "4.4",
+  "number": 654,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Treat Android hardware keys (such as the Back button) as InputEvents",
+  "up": 5,
+  "updatedAt": "2026-06-01T06:17:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/654"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As for the placement, how about we create a module that is dedicated to providing generic data structure and algorithm extensions to the core?  That would open things up for successive additions of a similar nature and give the DataGraph a comfortable place to live outside of core.\n\nFor instance, we can create a module specifically for \"data_structures\" and having a subdirectory for a DataGraph class and its associated classes.",
+    "format": "form",
+    "workaround": "Rolling a custom implementation of a graph data structure in GDScript would involve more than just a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 27,
+  "createdAt": "2022-01-23T06:34:10Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3848,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Graph data structure to Godot",
+  "up": 48,
+  "updatedAt": "2025-08-29T04:24:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3848"
+}

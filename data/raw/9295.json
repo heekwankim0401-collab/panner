@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Exposing additional functionality to GDExtension cannot be done through an add-on.",
+    "format": "form",
+    "workaround": "No because AudioStreamPlayerInternal is only available inside the core, it would require a custom engine build."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-03-13T10:33:24Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 9295,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose AudioStreamPlayerInternal to GDExtension",
+  "up": 8,
+  "updatedAt": "2024-03-18T14:05:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9295"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Having a button and a shortcut that can be used to create a camera from the view in Editor is very core feature as there is no other options to create this as a addon.",
+    "format": "form",
+    "workaround": "This feature is useful and its part of every 3D game engines out there."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-11T14:47:51Z",
+  "comments": 9,
+  "createdAt": "2024-11-11T11:28:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11133,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a menu option to create a Camera3D from the current 3D editor view",
+  "up": 4,
+  "updatedAt": "2024-11-12T08:56:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11133"
+}

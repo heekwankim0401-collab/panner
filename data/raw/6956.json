@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's clearly a core task.",
+    "format": "form",
+    "workaround": "I haven't seen code without multiple long paths, I suppose it can't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-28T06:48:16Z",
+  "comments": 6,
+  "createdAt": "2023-05-27T07:02:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6956,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Replace nested paths by setting global objects ID",
+  "up": 1,
+  "updatedAt": "2023-05-29T14:39:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6956"
+}

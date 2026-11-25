@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I feel this is a common use case with a pretty wide range of applicability that it should be a core feature. It could be used for lots of different types of bullet spread in shooters, explosions, or sight cones for NPCs in action/stealth/RPG games. If my PointShape node idea were implemented, it could have even wider applicability and make it easier to add stuff like missile-type projectile spread in platformers, top-down shooters and bullet hell games. It could also be used to easily make projectile-based explosions, and it may serve as a good visual way to control particle effects.",
+    "format": "form",
+    "workaround": "Not really, not if you have the different use cases I do where I've ended up with different solutions in different areas. This node could handle random weapon spread too, but I've had to use a different approach again to that. That's three different solutions that might all be handleable with just this one node."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-10-27T13:14:28Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11035,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a RayCastArea/PointShape Node (2D and 3D)",
+  "up": 4,
+  "updatedAt": "2024-10-29T17:51:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11035"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "LightmapGI is core",
+    "format": "form",
+    "workaround": "I don't think it's possible unless you're able to get the lightmap data from shader."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-09T16:34:45Z",
+  "comments": 2,
+  "createdAt": "2023-12-11T22:56:58Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.5",
+  "number": 8637,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a cheap specular occlusion for LightmapGI",
+  "up": 16,
+  "updatedAt": "2025-05-09T16:34:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8637"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's more about godot's GUI rather than libraries in general.",
+    "format": "legacy",
+    "workaround": "Godot already uses c++ and makes it possible to use c++ so this support would only be improved and that probably doesn't require to much code. besides Unreal Engine proves that it will be used often. It's basically a standard in game dev."
+  },
+  "assignees": 0,
+  "closedAt": "2019-10-13T10:34:25Z",
+  "comments": 6,
+  "createdAt": "2019-10-11T21:28:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 150,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "better C++ support so cython and kotlin/native could be added in the future.",
+  "up": 2,
+  "updatedAt": "2020-04-29T22:11:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/150"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Don't think that can be implemented as an add-on.",
+    "format": "legacy",
+    "workaround": "I managed to get a equivalent functionality by renaming the animations in the `SpriteFrames`object on the fly, but I think that this is not the proper way to do it."
+  },
+  "assignees": 0,
+  "closedAt": "2019-11-26T12:12:39Z",
+  "comments": 4,
+  "createdAt": "2019-11-20T12:44:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 244,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Swap animations in `AnimatedSprite`",
+  "up": 0,
+  "updatedAt": "2020-04-29T22:48:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/244"
+}

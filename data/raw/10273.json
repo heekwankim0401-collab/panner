@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can't be an addon as it is a core feature.",
+    "format": "form",
+    "workaround": "The current work around is to check the value of `OUTPUT_IS_SRGB` and then change the far value manually. Not only is that cumbersome, but it requires users to have prior knowledge about the internals of our rendering architecture."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-27T14:59:48Z",
+  "comments": 2,
+  "createdAt": "2024-07-24T20:24:23Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": "4.4",
+  "number": 10273,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `CLIP_SPACE_FAR` built-in spatial shader",
+  "up": 10,
+  "updatedAt": "2024-08-27T14:59:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10273"
+}

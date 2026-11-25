@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There are several reasons why this must be implemented in core:\n1. This is something which complements `Object` functionality.\n2. It's not trivial to implement via script (if not using the case-by-case approach).\n3. Performance issues using GDScript. This can be implemented in C++ as well, but unlike in GDScript, it's really difficult to add singletons/autoloads from within C++ modules (in order to flush deferred calls each frame).\n\nNote that some of this is already implemented in [Goost](https://goostengine.github.io/) via [`GoostEngine.defer_call_unique()`](https://goost.readthedocs.io/en/latest/classes/class_goostengine.html#class-goostengine-method-defer-call-unique).",
+    "format": "form",
+    "workaround": "On the case by case basis, this can be implemented via script, but that's far from a few lines of code, and you have to do this every time. I'd like to avoid excess code duplication in my project."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-12-26T12:47:37Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3722,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to make unique deferred calls during idle frame",
+  "up": 11,
+  "updatedAt": "2022-07-20T04:30:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3722"
+}

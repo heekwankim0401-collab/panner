@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It improves the editor-flow and feels like an artificial/unnecessary bump in the development-process. So maybe there could be an addon that lessens the problem or creates workarounds, but none that i know of.",
+    "format": "form",
+    "workaround": "Not as far as i know of."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-29T17:29:57Z",
+  "comments": 0,
+  "createdAt": "2022-04-18T13:16:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4415,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't clear export vars of a scene/node on new script",
+  "up": 5,
+  "updatedAt": "2022-07-29T17:29:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4415"
+}

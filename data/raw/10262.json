@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires changing how programs are launched.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2024-07-21T18:00:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10262,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "When running multiple instances, open windows next to each other instead of on top",
+  "up": 8,
+  "updatedAt": "2025-09-01T06:39:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10262"
+}

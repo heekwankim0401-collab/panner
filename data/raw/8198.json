@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It increases clarity and usability of docks in the editor.",
+    "format": "form",
+    "workaround": "Not without creating a custom new tab Control."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-19T15:00:40Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8198,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "TabBar show partial clipped tab",
+  "up": 12,
+  "updatedAt": "2023-10-19T15:05:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8198"
+}

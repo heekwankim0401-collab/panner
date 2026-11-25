@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This could be done as an addon but this would not be easily integreted (would only work if the addon reexports every Control as a DPControl).",
+    "format": "form",
+    "workaround": "It can be worked around by adding a function that for each value in a theme calculates the correct value (dp->pixel) and applies that new theme."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-11T19:03:33Z",
+  "comments": 3,
+  "createdAt": "2021-06-15T16:47:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": "3.x",
+  "number": 2868,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support display pixel (dp) as a unit for Controls (maybe also in other places)",
+  "up": 0,
+  "updatedAt": "2022-01-11T19:03:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2868"
+}

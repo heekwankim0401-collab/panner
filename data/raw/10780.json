@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. Animation is an integral part of most 3D games, and this issue has been discussed multiple times now on the Godot Cafe discord and other forums.\n\nThis would be a straight core QoL feature.",
+    "format": "form",
+    "workaround": "The current workaround for this limitation is to have the to-be-blended animation all at the same length in the first place.\n\nAnother way _might_ be to adjust the animations length via the TimeScale, although it is extreme tedious to calculate the needed multiplier to aim exactly for the lead animations duration. I don't know how Godot handles animations internally, so there might also be the risk of those animations desyncing over time if the multiplier is not perfectly calculated or if animation timelines are measures in actual time rather than frames, of this I am not sure."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-17T06:18:22Z",
+  "comments": 1,
+  "createdAt": "2024-09-19T03:50:56Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.3",
+  "number": 10780,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add node inside AnimationTree to set fixed duration for an animation",
+  "up": 1,
+  "updatedAt": "2024-10-19T08:43:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10780"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Change control is paramount. Updating a single property should not result in entire file changes.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-24T11:45:56Z",
+  "comments": 4,
+  "createdAt": "2021-02-24T09:35:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2342,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Limit re-arranging ordering and numbering of sub-resources in tscn files",
+  "up": 0,
+  "updatedAt": "2021-02-24T13:40:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2342"
+}

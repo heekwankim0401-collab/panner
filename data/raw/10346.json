@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it can't be an asset",
+    "format": "form",
+    "workaround": "it would be used each time when someone uses CompositorEffect and needs to write into separate textures to avoid race conditions. And no, I didn't find a way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-08-02T18:41:10Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10346,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow setting the internal texture's `TEXTURE_USAGE_CAN_COPY_TO_BIT` flag independently of MSAA",
+  "up": 2,
+  "updatedAt": "2024-08-02T19:24:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10346"
+}

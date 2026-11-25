@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think there's actually be an add-on somewhere that does something similar to this, but \"create a button that triggers a function\" is probably a common enough use case for tool script writers that it warrants a single-line annotation.",
+    "format": "form",
+    "workaround": "There is actually a hack that approximates the necessary functionality: Export a boolean property with a getter that always returns false and a setter which does nothing but trigger a method call. You get a perpetually empty checkbox that triggers a method when clicked. It's not elegant, but it does work:\n```GDScript\n@tool\nextends Node2D\n\n@export var make_me_bigger : bool:\n    get:\n        return false\n    set(b):\n        increase_size()\n\nfunc increase_size():\n    scale *= 2\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-05T02:15:09Z",
+  "comments": 1,
+  "createdAt": "2023-03-04T23:05:57Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6430,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a @tool_button annotation to create inspector buttons for tool scripts",
+  "up": 0,
+  "updatedAt": "2023-03-05T02:15:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6430"
+}

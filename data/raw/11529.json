@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While [this](https://github.com/Federico-Ciuffardi/GodotTouchInputManager) plugin provides an excellent solution, it is an external dependency that may not always remain updated or compatible with future Godot versions. also it is little buggy and decrease proformence.",
+    "format": "form",
+    "workaround": "These enhancements would be frequently used in projects targeting mobile devices or applications with complex touch interactions, such as Mobile games, Drawing or design apps, Navigation systems.\nLike this \n![Image](https://camo.githubusercontent.com/ffdceef8c1e6c13de9c0c0256227272cb28cc79853fe5d15c37ca3436a33e4f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f587a64796e6e6c78345841716e64675665302f67697068792e676966)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-01-10T07:39:28Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 11529,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more touchscreen input events for gesture detection",
+  "up": 0,
+  "updatedAt": "2025-01-10T18:56:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11529"
+}

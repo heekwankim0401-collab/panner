@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Only the core has access to the light array per-object and there is already a pipeline in the renderer to pass and process this data.",
+    "format": "markdown",
+    "workaround": "It can be worked around with a custom shader, but passing an increasing amount of light becomes complex, coupled with the fact that Godot does not support uniform arrays"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-01-26T10:12:46Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2187,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to write to alpha in canvas item light shader",
+  "up": 2,
+  "updatedAt": "2021-01-26T10:16:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2187"
+}

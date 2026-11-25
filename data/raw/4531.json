@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Proposal is about build system configuration when compiling godot from source.",
+    "format": "form",
+    "workaround": "Adding `LINKFLAGS=\"-fuse-ld=mold\"` to scons command line should work too."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-22T09:40:15Z",
+  "comments": 1,
+  "createdAt": "2022-05-12T22:32:12Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": "4.0",
+  "number": 4531,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a SCons option for Mold linker",
+  "up": 2,
+  "updatedAt": "2022-07-22T09:40:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4531"
+}

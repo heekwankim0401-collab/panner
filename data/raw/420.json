@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It enhances the comfort of using the editor by a lot, while scripting for objects which heavily use direct change and access of those parameters.",
+    "format": "legacy",
+    "workaround": "Currently it can be done manually only (as far as I know)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-03T23:15:17Z",
+  "comments": 7,
+  "createdAt": "2020-01-30T11:25:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 420,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a shortcut for copying property paths in the inspector",
+  "up": 5,
+  "updatedAt": "2021-09-03T23:15:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/420"
+}

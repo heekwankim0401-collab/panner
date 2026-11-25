@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "Exporting is a core part of the engine",
+    "format": "form",
+    "workaround": "No, but as described above it can be worked around by adding several complicated manual steps to the export process."
+  },
+  "assignees": 1,
+  "closedAt": "2024-01-11T19:56:20Z",
+  "comments": 0,
+  "createdAt": "2024-01-09T22:12:22Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "platform:macos",
+    "topic:editor",
+    "topic:export",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 8848,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add custom Info.plist key additions field to iOS and macOS export settings",
+  "up": 1,
+  "updatedAt": "2024-01-11T19:56:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8848"
+}

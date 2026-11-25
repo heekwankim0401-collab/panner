@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Importing is a core feature.  I think this is something that should \"just work\" without having to tinker with input settings or install addons.  Also not sure if add-ons can override this behavior.",
+    "format": "legacy",
+    "workaround": "I don't think so, since it's a core engine feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2020-02-02T11:10:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 430,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Default the animation import framerate to match the source framerate",
+  "up": 4,
+  "updatedAt": "2024-12-29T19:05:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/430"
+}

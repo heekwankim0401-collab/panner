@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Expansion of core nodes like `GeometryInstance3D`, `Camera3D`, `VisualInstance3D`",
+    "format": "form",
+    "workaround": "Not really, aside of downscaling the visuals to fit the space under the card. I just accepted the artifacts."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-26T20:11:00Z",
+  "comments": 1,
+  "createdAt": "2025-03-31T17:35:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12123,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Culling a 3D Node once it clips another 3D node",
+  "up": 0,
+  "updatedAt": "2026-04-26T20:56:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12123"
+}

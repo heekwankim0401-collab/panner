@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "core because of its function. would also alleviate some part of the issue #9367 attempts to solve, by the user at least being able to copy and paste into the code panel search box the string reference to find the line of code the print statement is being made from.",
+    "format": "form",
+    "workaround": "`print(\"thumbnail_size_value: \", thumbnail_size_value)` can continue to be fully typed out, but with `print_ref(thumbnail_size_value)` it is a bit faster and over many typed out print statements can add up."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-07T22:25:55Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10685,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create new ``print_ref()`` method to @GlobalScope to reference the output string name ahead of the output",
+  "up": 0,
+  "updatedAt": "2024-09-19T13:38:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10685"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Honestly can't think/know of a reason why not to include this in core.",
+    "format": "legacy",
+    "workaround": "Workarounds can be created, but still would be limited, i.e: a call to a node that does not own any script, can still execute any method it inherits if given the right parameters, which would basically allow a `self.get_tree().quit()` from any peer on any node."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-16T11:44:43Z",
+  "comments": 8,
+  "createdAt": "2019-11-14T22:33:26Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": "4.4",
+  "number": 233,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to get the RPC mode in node's method",
+  "up": 0,
+  "updatedAt": "2024-09-16T11:45:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/233"
+}

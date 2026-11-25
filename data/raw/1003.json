@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Update to existing core feature.",
+    "format": "legacy",
+    "workaround": "You can set up a custom build template and add these yourself, but it should really be included by default."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-06-03T15:40:50Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1003,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "APK export should include drawables for common tablet screen densities",
+  "up": 1,
+  "updatedAt": "2020-09-18T21:19:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1003"
+}

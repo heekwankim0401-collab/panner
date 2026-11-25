@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Platforms should be able to know and tell which command key to use.",
+    "format": "form",
+    "workaround": "It would be used often on cross-platform games and apps."
+  },
+  "assignees": 1,
+  "closedAt": "2025-11-10T23:52:51Z",
+  "comments": 5,
+  "createdAt": "2025-07-02T15:53:55Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 12717,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `OS.command_key` that would return either `KEY_CTRL` or `KEY_META` depending on the platform",
+  "up": 8,
+  "updatedAt": "2025-11-10T23:53:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12717"
+}

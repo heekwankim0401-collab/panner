@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be implemented so there is better internal access of methods, and if they're an option which is by default set on false, it will have no impact on users that do not intend on using it.",
+    "format": "form",
+    "workaround": "Unless you count as doing an API dump, parsing and checking for static methods as a few lines of script, no."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-09T21:51:50Z",
+  "comments": 1,
+  "createdAt": "2023-11-09T21:37:28Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8386,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement a setting to allow ClassDB to export \"debug info\" (method signatures for classes)",
+  "up": 0,
+  "updatedAt": "2023-11-10T09:28:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8386"
+}

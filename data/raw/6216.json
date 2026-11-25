@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Convenience, since much of netcoding is automated thus far anyway (e.g. MultiplayerSpawner)",
+    "format": "form",
+    "workaround": "Example for the above sample code\n```gdscript\nfunc _process(delta: float) -> void:\n\tif (multiplayer.is_server() == false):\n\t\treturn\t\n\t\n\tif (Input.is_action_just_pressed(\"ui_accept\")):\n\t\tvar new_card_data = DeckData.new()\n\t\tnew_card_data.dungeonDeck = PackedInt32Array([0,2,6,8])\n\t\tnew_card_data.equipmentDeck = PackedInt32Array([2,3,6,10])\n\t\tnew_card_data.mainDeck = PackedInt32Array([0,1,1,5])\n\t\trpc(\"receive_deck\", new_card_data.dungeonDeck, new_card_data.equipmentDeck, new_card_data.mainDeck)\n\n@rpc func receive_deck(received_deck1: PackedInt32Array, received_deck2: PackedInt32Array, received_deck3: PackedInt32Array) -> void:\n\tprint(received_deck1)\n        print(received_deck2)\n        print(received_deck3)\n```\n\nThe problem is on nested structs/resources. Nested == using structs/resources inside, instead of purely primitive types (PackedInt32Array on above example)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2023-01-31T18:57:07Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 6216,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement sending custom structs as RPC parameters",
+  "up": 21,
+  "updatedAt": "2025-06-30T22:24:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6216"
+}

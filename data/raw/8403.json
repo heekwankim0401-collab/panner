@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Code regions already exist in Godot. This is just an expansion of them.",
+    "format": "form",
+    "workaround": "No because it involves some substantial editions to script editor UI."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-11-12T07:37:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8403,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display code regions in the list of methods and minimap in the script editor",
+  "up": 32,
+  "updatedAt": "2026-06-02T00:11:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8403"
+}

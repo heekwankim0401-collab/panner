@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2026-07-17T02:28:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15205,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make bits in bitmask able to have individual colours modified in inspector",
+  "up": 0,
+  "updatedAt": "2026-07-17T16:52:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15205"
+}

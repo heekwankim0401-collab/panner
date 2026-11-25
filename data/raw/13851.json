@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This improves the usability of the CodeEdit node for everyone, as well as the editor in the Godot Editor for C#.",
+    "format": "form",
+    "workaround": "I don't believe so"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-12-13T05:09:21Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13851,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "CodeEdit - Indentation - Automatic - add option for Allman Style brackets indentation style",
+  "up": 0,
+  "updatedAt": "2025-12-14T04:47:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13851"
+}

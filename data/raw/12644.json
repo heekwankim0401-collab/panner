@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a fairly straightforward enhancement of an existing built-in mechanism and it makes a lot of sense for it to be integrated there.",
+    "format": "form",
+    "workaround": "Theoretically you could do all this math and seek around in files manually, but I think it could be more robustly and intuitively done by extending the existing mechanism that already comes very close to doing this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-21T03:08:24Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 12644,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow AudioStreamInteractive to use BPM to transition between equivalent beats instead of only using absolute times",
+  "up": 0,
+  "updatedAt": "2025-06-21T17:53:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12644"
+}

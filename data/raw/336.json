@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot has own IDE, it is already inside of core.",
+    "format": "legacy",
+    "workaround": "I don't think it can work with a few lines of script, IDE is one of the hearts of game engine so it will be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2019-12-28T06:26:04Z",
+  "comments": 5,
+  "createdAt": "2019-12-25T21:47:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 336,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve auto complete in IDE",
+  "up": 1,
+  "updatedAt": "2019-12-29T04:31:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/336"
+}

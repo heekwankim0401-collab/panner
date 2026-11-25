@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Again with the example: \"This is about improving the 3D editor usability out of the box\"",
+    "format": "form",
+    "workaround": "The example given perfectly answers this question: \"This can be worked around with an editor plugin, but it is not particularly convenient.\""
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-11-11T19:38:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11136,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to link up certain values of a node to a value of the same type of another node",
+  "up": 1,
+  "updatedAt": "2025-03-04T22:11:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11136"
+}

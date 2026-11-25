@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This affects the GDScript API code",
+    "format": "form",
+    "workaround": "The workaround is same as above (a little cumbersome):\n\n```gdscript\nvar timer = Timer.new()\ntimer.wait_time = 1.0\ntimer.autostart = true\ntimer.one_shot = true\nadd_child(timer)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-17T15:04:59Z",
+  "comments": 3,
+  "createdAt": "2023-09-16T15:51:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7688,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Quicker way to create a timer via code",
+  "up": 0,
+  "updatedAt": "2023-09-17T17:31:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7688"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because godot's gui system sucks right now and this would help it out alot.",
+    "format": "legacy",
+    "workaround": "this feature would probably be used quite often to make form style controls.\nand no it probably couldn't be worked around without hacky solution."
+  },
+  "assignees": 0,
+  "closedAt": "2020-01-14T18:17:42Z",
+  "comments": 5,
+  "createdAt": "2020-01-14T04:20:13Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 382,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "godot padding for controls",
+  "up": 0,
+  "updatedAt": "2020-04-29T15:01:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/382"
+}

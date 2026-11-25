@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Parsing names are not reliable. Probably needs information that is not exposed.",
+    "format": "form",
+    "workaround": "Partially. Using good old way of parsing `Input.get_joy_name()` can detect some controllers.\n\nController icon libraries using this method already exist in AssetLib. But how they parse the name differ and are quite basic (e.g. not able to detect common non-official controllers)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-11-25T16:38:29Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 8519,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Input.get_joy_type()` to get controller type",
+  "up": 22,
+  "updatedAt": "2025-04-30T13:20:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8519"
+}

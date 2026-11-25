@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core method.",
+    "format": "markdown",
+    "workaround": "Technically passing `true` is a workaround, but this is the problem itself."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-31T12:33:58Z",
+  "comments": 1,
+  "createdAt": "2021-05-26T23:22:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2787,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "skip_navigational argument of list_dir_begin() should be true by default",
+  "up": 9,
+  "updatedAt": "2021-05-31T12:34:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2787"
+}

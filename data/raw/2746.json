@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be very useful for many games that make use of heightmaps.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-05-20T05:48:29Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2746,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement holes in HeightMapShape for making caves",
+  "up": 5,
+  "updatedAt": "2021-05-20T12:24:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2746"
+}

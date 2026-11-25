@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an integral part of the GDScript editor. It must be part of the code editor control.",
+    "format": "legacy",
+    "workaround": "It will be used often and cannot be worked around AFAIK."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-07T15:30:57Z",
+  "comments": 4,
+  "createdAt": "2020-06-04T01:03:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.8",
+  "number": 1005,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a wavy/squiggly underline + popup for code errors ",
+  "up": 29,
+  "updatedAt": "2026-09-07T15:30:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1005"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it would be useful and how many game engines can say they have a built in networking entity for ease of use.",
+    "format": "legacy",
+    "workaround": "it would be used alot by people that don't understand networking code.\nI wouldn't say it could be worked around with a few lines of script but it could be worked around.\nthe issue is how many people want to dive into net code opposed to how many want to just have a node to manage it for them"
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-22T17:28:25Z",
+  "comments": 13,
+  "createdAt": "2020-04-10T00:29:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 690,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a Network node",
+  "up": 0,
+  "updatedAt": "2024-03-19T03:46:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/690"
+}

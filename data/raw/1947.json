@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "IMHO, this seems like it should be a basic function of gravity. Having `Area` effect `RigidBody`s but not `KinematicBody`s makes `Area` gravity features feel incomplete. Not being able to influence the player the same way a `RigidBody` would be influenced means anyone who needs that behavior has to re-implement those features for the player character.\n\nMuch of the above could also be said about Dampening features of `Area` as well.",
+    "format": "markdown",
+    "workaround": "It could, but with enough objects it could be slow. I believe (but I haven't looked into it very much) it shouldn't be too complected to implement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-12-06T20:27:21Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1947,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "KinematicBody should be able to query gravity sources that would effect it as if it were a RigidBody (+2D)",
+  "up": 2,
+  "updatedAt": "2022-02-12T06:42:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1947"
+}

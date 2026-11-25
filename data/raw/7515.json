@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "Nope."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-18T05:39:47Z",
+  "comments": 2,
+  "createdAt": "2023-08-16T18:53:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7515,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `ColorHTML` function to assign the html-initialized `Color` to constants",
+  "up": 2,
+  "updatedAt": "2023-08-18T05:39:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7515"
+}

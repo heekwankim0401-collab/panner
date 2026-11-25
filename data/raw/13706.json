@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The `GridContainer` is a core component of Godot.\n\n*Production edit (keywords for easier searching): colspan*",
+    "format": "form",
+    "workaround": "It is currently not possible to work around this limitation, with nodes, scripts or otherwise, without ditching the existing `GridContainer` completely and rewriting it from scratch."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-11-25T19:06:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13706,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add column span support to GridContainer",
+  "up": 22,
+  "updatedAt": "2026-11-21T18:46:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13706"
+}

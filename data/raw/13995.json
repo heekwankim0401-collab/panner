@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a very small change, and there wouldn't be much of a reason to make a plugin specifically for it.",
+    "format": "form",
+    "workaround": "This can be worked around by not mapping `ui_cancel` to anything, which might not be a great solution if other things in the game rely on it.\n\nAnother solution is giving the line edit a script that handles the `ui_cancel` input and manually adds the letter that's being overriden to the position of the carret or its capital variant if shift is held. This is a horrible hardcoded solution, and if `ui_cancel` if mapped to more than one input, it might just make things more complicated."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2026-01-12T12:58:48Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13995,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow disabling exit behavior on the LineEdit node",
+  "up": 5,
+  "updatedAt": "2026-01-16T23:32:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13995"
+}

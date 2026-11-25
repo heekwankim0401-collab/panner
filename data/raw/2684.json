@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "this is a request for godot's development team to refine godot's user interface to be more user friendly and easier to use, godot's an amazing tool for creating games of all sorts but something that I often find annoying is its user interface ESPECIALLY when it comes down to nodes.\neveryone should know what i'm talking about . if you've ever tried to do something in godot through nodes (by nodes i mean visual scripting/visual shaders and animationtrees) i'm pretty sure you have come to notice that something about the interface is just wrong. it makes the engine look so unprofessional . \nnot only the zooming in and out method is so inconvenient i often find myself struggling with connecting nodes to another. if you zoom out just a little bit you'll notice that you can't really connect nodes together anymore.. godot is such a capable engine with a bright future infront of it and for that reason i find this \nwhich to some of you might come as a minor issue , unfitting . personally i think godot can really benefit from a ui refinement. not having a good looking, fitting UI that's  convenient to use and easy to the eyes can really scare people away and that's not to be overlooked for a project like godot which's mostly driven by it's community . i don't know maybe hire a freelancer to redesign some of the icons to meet today's modern standards? or maybe just tweak the code a bit to make the whole node-based system smoother to use? like really connecting material nodes from just a tiny bit zoomed out view is almost a challenge on its own\n.an example for this is the projcet 'material maker' which has been made using godot. it shares the same interface when it comes down to navigating through nodes and i think a lot of people can agree that while it's a flexible and capable tool and can be used to make some high quality materials, it does suffer from bad ui .thanks for reading through .",
+    "format": "markdown",
+    "workaround": "There is a need to modify the GUI in Godot, so the answer to this question is no."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-06T01:29:41Z",
+  "comments": 8,
+  "createdAt": "2021-05-03T16:44:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:shaders",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 2684,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GUI, VirtualShader section UI",
+  "up": 0,
+  "updatedAt": "2022-08-24T20:33:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2684"
+}

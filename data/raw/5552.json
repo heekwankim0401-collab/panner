@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a feature that a developers often need without realising that they don't have it.",
+    "format": "form",
+    "workaround": "This can be worked around by implementing a stable sort in GDScript, but the result wouldn't be very performant for large arrays."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-10-07T17:34:01Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5552,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use a stable algorithm for `Array.sort_custom()` (or offer stable alternative)",
+  "up": 13,
+  "updatedAt": "2022-10-08T18:22:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5552"
+}

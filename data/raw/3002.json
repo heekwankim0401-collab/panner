@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Making it an add-on would then require checking and casting everything that came from core. I'm doing it now and it is a little cumbersome.",
+    "format": "form",
+    "workaround": "Currently, to do a proper `ToString` and `System.Enum.IsDefined` and stuff, I found it easiest to just define my own separate enum that I cast to first. For IsDefined to work properly, my custom enums also leaves out `AxisMax` and `ButtonMax`, (though that may be a separate proposal?)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-04T18:32:02Z",
+  "comments": 2,
+  "createdAt": "2021-07-16T18:30:03Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 3002,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create separate enums for Joypad Buttons and Joypad Axes",
+  "up": 1,
+  "updatedAt": "2022-01-04T18:32:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3002"
+}

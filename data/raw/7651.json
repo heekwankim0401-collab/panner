@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Needs to be done at core level (to my knowledge it would even require a slight rewrite of \"iteration\" code base).",
+    "format": "form",
+    "workaround": "I think i can confidently assume this would be used a lot."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-09-13T13:02:06Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7651,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a python-like `enumerate` option for iterators ",
+  "up": 51,
+  "updatedAt": "2025-05-09T10:20:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7651"
+}

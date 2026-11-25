@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "As above.",
+    "format": "form",
+    "workaround": "AFAIK there's no way of adding pre-shader compilation hooks using GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-25T16:20:52Z",
+  "comments": 2,
+  "createdAt": "2023-03-25T09:42:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6566,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Option to display an image while Vulkan shader precompilation runs",
+  "up": 1,
+  "updatedAt": "2023-03-25T16:20:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6566"
+}

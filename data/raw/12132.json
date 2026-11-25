@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since Godot allows you to set the freelook speed to 1000.0 units per second without any add-ons, I think the engine should also allow it as a default setting.",
+    "format": "form",
+    "workaround": "I've tried overriding the setting manually by opening **editor_settings-4.4.tres** in a text editor, changing the value to 1000.0, and restarting Godot. But everytime Godot launches it resets the value back to 10.0."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-02T12:42:57Z",
+  "comments": 3,
+  "createdAt": "2025-04-01T05:25:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 12132,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Freelook Base Speed in 3D editor settings should allow higher values",
+  "up": 2,
+  "updatedAt": "2025-04-02T13:13:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12132"
+}

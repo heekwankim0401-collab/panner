@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes, because advertising integration is a common requirement for mobile games. A core solution ensures stability, ease of use, and standardization across projects, making Godot more attractive for mobile developers.",
+    "format": "form",
+    "workaround": "It can be partially worked around with custom scripts and manual .aar integration, but it is not convenient and can lead to errors, especially for beginners."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-03T19:39:44Z",
+  "comments": 3,
+  "createdAt": "2025-11-01T14:02:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 13537,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Proposal: Simplify integration of Appodeal SDK in Godot",
+  "up": 0,
+  "updatedAt": "2025-11-05T22:08:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13537"
+}

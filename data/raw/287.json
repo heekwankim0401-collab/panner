@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. This is very much improvement on faulty and confusing design of core feature. I believe that issue is important enough that should be brought back to main branch prior to 4.0 happening. Ideally in 3.2.1 or similar. Reason for this is that functionality was present in 3.0.6 version of a engine. I would go as far as to call it a bug being a result of untended change to `play()` function between releases.  It was then removed from the engine in 3.1 without any discussion and it would greatly improve the users ability to use those without having impact on existing projects. Any work around people did to gain the functionality discussed here would still work with new functionality. For example conditional that check if animation in playing and reset it would still work. This however would make future projects easier and code base less confusing.",
+    "format": "legacy",
+    "workaround": "it can be worked around via using few conditionals to restart animation but it's a pain in to work with and is very undesirable solution that is inconsistent with the way of how other nodes work in the engine."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-27T10:08:49Z",
+  "comments": 21,
+  "createdAt": "2019-12-06T10:54:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 287,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Split the AnimationPlayer `play()` method into `start()` and `resume()`",
+  "up": 15,
+  "updatedAt": "2023-01-27T10:13:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/287"
+}

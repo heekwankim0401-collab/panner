@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's impossible to change core functions with add-on.",
+    "format": "form",
+    "workaround": "It's easy solved if I don't use GDScripts, but I believe if you came from Unity it would be nice to have GDScripts but with Unity convention because it will attract much more audience. Because GDScripts is easier and swifter to write."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-27T15:20:10Z",
+  "comments": 5,
+  "createdAt": "2021-09-21T08:03:50Z",
+  "down": 15,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3327,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change GDScript's naming conventions from snake_case to PascalCase",
+  "up": 0,
+  "updatedAt": "2021-09-27T15:20:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3327"
+}

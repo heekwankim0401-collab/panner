@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an improvement of an existing editor feature.",
+    "format": "form",
+    "workaround": "It's editor usability."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-07-08T15:50:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7241,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using \"Reparent to New Node\" on the scene root",
+  "up": 20,
+  "updatedAt": "2023-08-23T17:38:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7241"
+}

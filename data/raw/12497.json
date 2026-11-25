@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I had attempted to do this as a GDExtension however GPUParticles2D \"particles\" is only privately accessible.",
+    "format": "form",
+    "workaround": "The feature _**may**_ be used often, especially the part concerning exposure of the RID."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-25T14:47:22Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 12497,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add set_velocity and get_particles_rid to GPUParticles2D and GPUParticles3D",
+  "up": 3,
+  "updatedAt": "2025-06-01T15:43:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12497"
+}

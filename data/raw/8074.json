@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This requires a modification directly to the rendering server. Any other alternative would be cumbersome and incomplete.",
+    "format": "form",
+    "workaround": "It might be possible to use a script to manually modify the shaders of every object in a scene. But it would have to be executed on every scene that is spawned or node that is added. It would also not be able to vary by viewport. And it would make changing materials at runtime problematic, as you would need to run the hook again each time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-10-11T16:49:36Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8074,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement shader hooks/per-camera shaders",
+  "up": 13,
+  "updatedAt": "2023-10-19T18:49:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8074"
+}

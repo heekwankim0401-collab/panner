@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I think it would be a very frequently used handy feature just like @export_path, @export_group, @export_multiline and just about any export helper annotation added so far. This just feels like a natural part of a game engine's Inspector workspace, and as i've said before this is avaliable in both Unity and Unreal editors which do help declutter the interface and allow for less human error by assigning data to unused fields instead of the intended ones",
+    "format": "form",
+    "workaround": "Currently, achieving this requires writing custom editor plugins for even simple cases.\nWriting an extension or add-on by hand is overkill for many projects use case, and is just too much time and effort (and is complicated) to implement something with tool scripts and object based approaches where it gets swapped out based on conditions."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-13T08:24:11Z",
+  "comments": 1,
+  "createdAt": "2026-01-13T02:19:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 14000,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Conditional Visibility for Exported Inspector Properties",
+  "up": 0,
+  "updatedAt": "2026-01-13T08:26:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14000"
+}

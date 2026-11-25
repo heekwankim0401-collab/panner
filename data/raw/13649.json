@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This will help in games that require global variable settings. For example, if the game was in the highest difficulty, and there was options to turn off random battles, or frequent enemies. It would make things easier.\n\nThank you.",
+    "format": "form",
+    "workaround": "Unsure."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-17T10:59:04Z",
+  "comments": 4,
+  "createdAt": "2025-11-16T23:24:21Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13649,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disable/Enable Global Variables in scripts",
+  "up": 0,
+  "updatedAt": "2025-11-17T19:28:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13649"
+}

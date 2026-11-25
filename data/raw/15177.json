@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-24T15:45:12Z",
+  "comments": 1,
+  "createdAt": "2026-07-12T08:04:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15177,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Display the scene node tree when editing code in portrait mode",
+  "up": 0,
+  "updatedAt": "2026-07-24T19:54:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15177"
+}

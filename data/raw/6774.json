@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because shadows as an addon can be expensive to compute, rather than being built in.",
+    "format": "form",
+    "workaround": "I dont think so. It is very important."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-29T13:17:17Z",
+  "comments": 2,
+  "createdAt": "2023-04-29T13:06:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6774,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow 3D Shadows for Godot 4 Compatibility Mode",
+  "up": 0,
+  "updatedAt": "2023-04-29T16:51:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6774"
+}

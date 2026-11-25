@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a change to a GDScript core object, so there's no way to implement this otherwise.",
+    "format": "markdown",
+    "workaround": "While it's possible to have default keys declared in the function call, it is easier to have them declared upon creation."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-27T01:40:02Z",
+  "comments": 5,
+  "createdAt": "2021-05-17T17:49:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2736,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use underscore (`_`) as a \"default\" key for Dictionary",
+  "up": 0,
+  "updatedAt": "2021-05-27T04:38:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2736"
+}

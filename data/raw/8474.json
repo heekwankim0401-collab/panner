@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The animation workflow is core.",
+    "format": "form",
+    "workaround": "I have thought of several workarounds, but they all have awkward consequences. The most straightforward workaround is to extend `AnimationPlayer` and add a few wrapper methods like\n\n```gdscript\nfunc play(anim_name : StringName):\n    animation_initialized.emit(anim_name)\n    super.play(anim_name)\n```\n\nThe issue with this approach is that it makes coordinating multiple animation players awkward. For example, instead of using an `AnimationPlaybackTrack`, you have to use a `CallMethodTrack`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-11-19T15:26:44Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 8474,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an \"animation about to start\" signal",
+  "up": 0,
+  "updatedAt": "2023-11-20T17:43:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8474"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Auto LOD is Core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-01T18:20:15Z",
+  "comments": 12,
+  "createdAt": "2022-01-25T12:08:44Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "4.6",
+  "number": 3861,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve automatic mesh LOD generation to better preserve silhouettes at high simplification levels",
+  "up": 11,
+  "updatedAt": "2025-10-01T18:20:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3861"
+}

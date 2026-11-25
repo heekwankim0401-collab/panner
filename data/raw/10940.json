@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "there is no known secure workaround to replace it",
+    "format": "form",
+    "workaround": "never found a solution until now"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-14T11:12:55Z",
+  "comments": 4,
+  "createdAt": "2024-10-08T22:02:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 10940,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support sending headers for WebSocket connections",
+  "up": 0,
+  "updatedAt": "2024-10-15T14:56:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10940"
+}

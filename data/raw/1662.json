@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`SConstruct` has to be modified for this, which is pretty core for the build system.",
+    "format": "legacy",
+    "workaround": "This can be configured with `config.py::get_doc_path()` and `config.py::get_icons_path()` in modules, but must be done every time for documentation currently."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-10-14T12:05:12Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 1662,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide consistent default directory paths for documentation and editor icons in C++ modules",
+  "up": 2,
+  "updatedAt": "2021-06-25T19:11:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1662"
+}

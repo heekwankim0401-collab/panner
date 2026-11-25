@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "no this should be done by the editor",
+    "format": "form",
+    "workaround": "i've programmed this behavior on my \"level\" script which is attached to the base node of each level, but it would be annoying to have to do it for every other scene so I do it manually"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-08-20T19:23:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3172,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Default base node name to scene name",
+  "up": 4,
+  "updatedAt": "2021-08-20T19:27:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3172"
+}

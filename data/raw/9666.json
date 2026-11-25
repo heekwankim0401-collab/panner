@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "I'm sure it can work as a custom type, I just felt it worthwhile to propose this since I didn't understand the reason for the limitation. If someone could let me know, or tell me what kind of container Godot uses for its three (upto five?) main horizontal panes, that would help me as well. I appreciate it."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-25T13:17:07Z",
+  "comments": 4,
+  "createdAt": "2024-05-03T11:47:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.6",
+  "number": 9666,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow SplitContainer to have more than 2 children",
+  "up": 26,
+  "updatedAt": "2025-11-25T13:18:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9666"
+}

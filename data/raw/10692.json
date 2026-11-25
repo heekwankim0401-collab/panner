@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I personally think this is useful enough to core since similar functionality exists such as drag-and-drop and snap to floor.",
+    "format": "form",
+    "workaround": "Probably not"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-04T15:22:08Z",
+  "comments": 1,
+  "createdAt": "2024-09-08T20:49:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10692,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use collision detection ray to reposition objects already in the scene similar to drag-and-drop functionality",
+  "up": 1,
+  "updatedAt": "2024-10-04T15:22:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10692"
+}

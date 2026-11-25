@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This could help in catching some confusing bugs relating to having multiple fonts for different languages.\n\nBy adding these functions, an invalid char/glyph could be caught and throw an error so the problem can be fixed instead of slipping by unnoticed.\n\nIf you're creating your own font, this would also help to track down any characters which you may have forgotten to add glyphs for.",
+    "format": "legacy",
+    "workaround": "Not sure, but I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-29T13:09:48Z",
+  "comments": 3,
+  "createdAt": "2020-09-02T17:32:12Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 1450,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add has_char(...) to Font class.",
+  "up": 1,
+  "updatedAt": "2021-06-29T13:20:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1450"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Animation features are already a core feature, this simply proposes that they be available to those who purely code",
+    "format": "form",
+    "workaround": "if it can be done let me know, but i see that only AnimationTrees can blend additively or do filtering"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-01-24T23:57:17Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 14063,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow additive blends and filtering in AnimationPlayer.Play()",
+  "up": 6,
+  "updatedAt": "2026-02-22T07:08:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14063"
+}

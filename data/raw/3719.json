@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As the vector types are built-in this can only be dealed with by the core.",
+    "format": "form",
+    "workaround": "I think it will be used very often as we are talking about 2D- and 3D-space coordinates.\nThere exists a solution already by using the longer format Vector2(x,y) resp. Vector3(x,y,z).\nIt's just more noisy and less readable imo especially for default array initializations."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-27T16:15:30Z",
+  "comments": 4,
+  "createdAt": "2021-12-25T23:04:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3719,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an alternative vector type notation - `(x, y)` for `Vector2(x, y)` and `(x, y, z)` for `Vector3(x, y, z)`",
+  "up": 0,
+  "updatedAt": "2021-12-27T16:16:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3719"
+}

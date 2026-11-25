@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this is an interesting feature to have on core.",
+    "format": "markdown",
+    "workaround": "Probably not."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-03-20T11:22:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2481,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add dedicated panel for managing failed imports",
+  "up": 3,
+  "updatedAt": "2021-04-01T10:51:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2481"
+}

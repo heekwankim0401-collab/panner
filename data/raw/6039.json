@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Reduz asked me to write a proposal because I had working code for this in a c++ module at https://github.com/V-Sekai/many_bone_ik",
+    "format": "form",
+    "workaround": "> Technically speaking, the IK system only took a few months to develop. Most of the work has been in porting it."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-02T23:15:01Z",
+  "comments": 4,
+  "createdAt": "2023-01-03T18:42:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6039,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Solve generalized skeleton poses with Many Bone IK",
+  "up": 25,
+  "updatedAt": "2025-12-02T23:15:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6039"
+}

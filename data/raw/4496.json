@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about the abi of a core feature",
+    "format": "form",
+    "workaround": "The end api consumer can copy the function pointers to their own dedicated types, but that is very repetitive and increases maintenance cost.\n\nAlso, in C a nested struct vs a flattened one is not equivalent due to alignment :("
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-05-04T19:01:51Z",
+  "down": 1,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 4496,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Clean up gdextension interface for cleaner end user consumption",
+  "up": 4,
+  "updatedAt": "2022-05-04T20:59:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4496"
+}

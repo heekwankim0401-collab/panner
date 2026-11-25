@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can also be implemented as an addon/plugin. It may be less convenient if the user would like this to be automatically enabled in every project.",
+    "format": "form",
+    "workaround": "This can be implemented via an Autoload script containing the following pseudocode:\n\n```gdscript\nfunc _ready():\n\tif !DEBUG_BUILD:\n\t\treturn\n\n\tvar script := GDScript.new()\n\tscript.set_source_code(\"func debug_hook():\" + cli_input)\n\tscript.reload()\n\tscript.call(\"debug_hook\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-17T16:41:44Z",
+  "comments": 2,
+  "createdAt": "2023-06-11T17:58:57Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7064,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add debugging option to execute arbitrary GDScript statements on game start",
+  "up": 0,
+  "updatedAt": "2023-06-17T17:00:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7064"
+}

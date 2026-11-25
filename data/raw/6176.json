@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would be a convenient and simple QOL addition that should be available out of the box and not require an addon.",
+    "format": "form",
+    "workaround": "I'm pretty sure it could be done with an editor plugin but it seems like a relatively simple code change."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-24T17:40:50Z",
+  "comments": 2,
+  "createdAt": "2023-01-26T17:36:25Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.2",
+  "number": 6176,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow 'Bone Width' to be a decimal value and/or add 'Bone Style' option",
+  "up": 0,
+  "updatedAt": "2023-07-24T17:42:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6176"
+}

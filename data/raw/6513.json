@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "platform dependence",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-03-16T04:57:04Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6513,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add NSViewController to macOS platform code",
+  "up": 1,
+  "updatedAt": "2024-08-04T14:09:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6513"
+}

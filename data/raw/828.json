@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's intrinsic to the GDScript implementation, cannot be provided as an addon.",
+    "format": "legacy",
+    "workaround": "No, this will be used often and cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-01T15:24:58Z",
+  "comments": 45,
+  "createdAt": "2020-05-12T20:02:25Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 828,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Annotations in GDScript",
+  "up": 36,
+  "updatedAt": "2022-02-20T12:53:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/828"
+}

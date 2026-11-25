@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It requires changes to the c++ to resolve the deficiency, that allows addons to perform optimally.",
+    "format": "form",
+    "workaround": "it cannot be worked around, there is, at present, insufficient introspection available within gdscript to determine the edited file from the syntax highlighter class, or anything it has access to. I am open to being proven wrong."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-08-25T11:45:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10557,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Properly set and expose edited resouce in editor/plugins/TextEditor",
+  "up": 2,
+  "updatedAt": "2024-08-25T15:00:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10557"
+}

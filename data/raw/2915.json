@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think being able to select input / output is more common than doing Fourier transforms / spectrum analysis, so ... :p\n\nThanks to all contributors for their awesome work!",
+    "format": "form",
+    "workaround": "The audio selection API would be used quite often as most games let you select output devices in option menus.\nThe multi input devices support need is indeed not common and may not be used often.\nAs the changes (i think) would be related to the audio drivers part of the engine, i don't think it could be handled by a simple script. Please tell me if there's an easy way =)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-06-24T13:23:43Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 2915,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using multiple audio input devices at once",
+  "up": 14,
+  "updatedAt": "2024-03-04T15:31:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2915"
+}

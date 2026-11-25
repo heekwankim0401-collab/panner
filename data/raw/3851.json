@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "New users don't usually look to the asset library for things that they might consider to be fixes to core editor functionality, and Godot's autotiling UX problems are one of the first things a new developer is likely to run into while exploring the engine, long before they're familiar with how add-ons work. This is creating a background noise of autotile tech support in basically every Godot community, including its issue tracker, and makes new users less likely to stick with the engine.",
+    "format": "form",
+    "workaround": "I think that this can in theory be worked around with `_forward_subtile_selection`, but it would basically amount to reimplementing autotiling from scratch (as far as I can tell)."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-13T12:39:08Z",
+  "comments": 7,
+  "createdAt": "2022-01-23T22:57:18Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "3.x",
+  "number": 3851,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Autotile: Fall back to most similar tile if exact tile not found",
+  "up": 6,
+  "updatedAt": "2023-06-13T12:39:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3851"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No it can't (at least making gdscript plugin) since now there is no access to Project Manager API",
+    "format": "legacy",
+    "workaround": "I think it could be worked around just using OS file explorer etc but that would be less convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-09-18T18:59:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1534,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Project Manager: sort projects by creation date",
+  "up": 1,
+  "updatedAt": "2026-08-19T18:18:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1534"
+}

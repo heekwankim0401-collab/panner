@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "because the tileset resource does not allow for setting and getting of tile physics shapes. so it would have to be manually exposed through directly editing the engine core.",
+    "format": "form",
+    "workaround": "nope, as this is something that will have to be included in the base GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-10T19:53:36Z",
+  "comments": 4,
+  "createdAt": "2023-12-10T19:35:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8632,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Publicly Expose Tileset Physics Shapes",
+  "up": 0,
+  "updatedAt": "2023-12-10T19:54:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8632"
+}

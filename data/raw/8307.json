@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This behavior is part of the core engine.",
+    "format": "form",
+    "workaround": "Without this enhancement, it has to be drilled into the developers head to only add objects after all properties are set up."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-10-30T18:20:10Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8307,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Present a warning when setting position on an object after add_child is called",
+  "up": 0,
+  "updatedAt": "2023-10-30T19:04:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8307"
+}

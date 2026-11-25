@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Counter-intuitive and frustrating",
+    "format": "form",
+    "workaround": "No, not really as this is an issue while using the editor and GDScript is not running"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-01-19T15:55:27Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3829,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Access/edit animation without affecting current nodes",
+  "up": 1,
+  "updatedAt": "2022-07-04T19:24:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3829"
+}

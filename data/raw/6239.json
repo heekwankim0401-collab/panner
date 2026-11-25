@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would take a lot of effort to implement a full ZIP script in GDScript.  I would expect that Godot already contains a ZIP library, so it would be helpful to expose that through the API.",
+    "format": "form",
+    "workaround": "I cannot figure out a way to do it through script without implementing the entire ZIP algorithm in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-05T07:45:10Z",
+  "comments": 1,
+  "createdAt": "2023-02-05T04:49:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6239,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose ZIP tools through the API",
+  "up": 0,
+  "updatedAt": "2023-02-06T09:27:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6239"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core part of the editor",
+    "format": "legacy",
+    "workaround": "No, it's built into the editor"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-07T14:55:13Z",
+  "comments": 3,
+  "createdAt": "2020-06-18T23:18:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1084,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a setting to change the script editor autocomplete shortcut (tab, enter, tab or enter)",
+  "up": 5,
+  "updatedAt": "2021-06-06T14:27:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1084"
+}

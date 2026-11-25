@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "EditorInspector is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T16:37:12Z",
+  "comments": 3,
+  "createdAt": "2022-07-30T15:54:42Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 5021,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a GUI for editing `Quaternion`",
+  "up": 3,
+  "updatedAt": "2022-08-24T16:37:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5021"
+}

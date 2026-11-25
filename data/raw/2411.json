@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If it's not core then it defeats the purpose which is to help new users. It won't affect me all that much because I now know what it means and I don't mind copy-pasting - but is that the intended engine's philosophy, copy and paste code instead of memorize it?\n\nI only found one other person requesting this in 2019, so I understand if no one cares.",
+    "format": "markdown",
+    "workaround": "It will be used often. It is for the benefit of new users to bring attention to what 2147483647 means - something other than a commonly occurring random set of numbers."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-20T17:41:34Z",
+  "comments": 25,
+  "createdAt": "2021-03-06T09:19:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.7",
+  "number": 2411,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `INT64_MAX`, `INT64_MIN`, etc. constants",
+  "up": 74,
+  "updatedAt": "2026-02-20T17:45:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2411"
+}

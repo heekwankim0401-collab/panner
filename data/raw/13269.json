@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Given how Godot currently works, we would have to rewrite a large part of the UI in Godot. That would be a major change and would break compatibility with all existing projects. It's a big change, but I think it can only be beneficial, and that the current system cannot remain as it is for very long if Godot wants to grow and be competitive enough with other game engines in the industry. It is possible to create a game UI with the current system, but it is tedious and not that powerful.",
+    "format": "form",
+    "workaround": "It would be possible to create an add-on that would use Godot's existing functions to more or less do this, but it wouldn't necessarily work very well, would be much more costly in terms of resources, and wouldn't cover all the issues mentioned in this issue."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2025-09-25T18:42:05Z",
+  "down": 4,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13269,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enhanced UI Styling System with Godot Style Sheet",
+  "up": 30,
+  "updatedAt": "2026-11-07T14:47:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13269"
+}

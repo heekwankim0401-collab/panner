@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Adding a useful function to an already-existing method",
+    "format": "form",
+    "workaround": "I haven't been able to find a way to rotate the radian result by 90 degrees"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-17T23:42:16Z",
+  "comments": 18,
+  "createdAt": "2024-02-15T00:57:53Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9092,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Axis option to `Vector2.angle_to_point()`",
+  "up": 1,
+  "updatedAt": "2024-02-18T00:13:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9092"
+}

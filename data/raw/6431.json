@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this is a feature that already exists for the 3d equivalent, so it makes sense for it to be core.",
+    "format": "form",
+    "workaround": "probably, though it would be inconvenient, and i think this will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-03-05T00:31:09Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6431,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement gizmos for Light2D nodes ",
+  "up": 4,
+  "updatedAt": "2023-03-08T22:37:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6431"
+}

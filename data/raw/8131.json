@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Godot Editor is great in many ways, but (regarding described issues) it has UX bugs and favors counter-intuitive workflow in its core. It would be inconvenient if every developer would have to search for a custom add-on and add it to every project to solve these issues. I believe that proposed approach would dramatically improve experience and reduce frustration of Godot users, especially for new ones.",
+    "format": "form",
+    "workaround": "This enhancement will be used always, it's about core experience of navigating in Godot Editor.\n\nThere are multiple UX problems. Each of them can be solved separately, but it would be partial fixes. This proposed solution solves described issues in a unified manner - **and also** improves flexibility and conceptual simplicity for adding more working contexts, developing more custom editors/viewers for other asset types."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-17T13:13:54Z",
+  "comments": 41,
+  "createdAt": "2023-10-15T16:55:33Z",
+  "down": 6,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8131,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Unify tab list for scene editors, script editors, any other editor types",
+  "up": 16,
+  "updatedAt": "2024-10-02T22:59:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8131"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, this discussion is related to core scene reloading.",
+    "format": "form",
+    "workaround": "The only way to reload multiple scenes is to defer each load to a subsequent frame. In that case, reloading 5 scenes would take 5 frames, for example. \n\nThat's not a reasonable solution, IMO."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-12-08T23:13:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13816,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `EditorInterface::reload_all_scenes()`",
+  "up": 0,
+  "updatedAt": "2026-02-25T03:59:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13816"
+}

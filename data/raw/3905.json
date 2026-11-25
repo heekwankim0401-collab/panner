@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think this should be an official addon (part of the Godot Git Plugin or otherwise a separate official plugin), but failing that it could be made as an unofficial one. The main purpose of this proposal is to outline my idea and hopefully gather feedback, including whether or not this is a good idea at all.",
+    "format": "form",
+    "workaround": "It can be worked around (as obviously it will be part of a plugin), but it would be very complex and long compared to how easy VCS should be to set up."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-02-01T10:00:28Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3905,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Godot Git Plugin - Add JS-based extension for the Web Editor",
+  "up": 4,
+  "updatedAt": "2022-02-01T15:29:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3905"
+}

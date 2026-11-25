@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not aware of an extension point that would allow adding this feature through an add-on.",
+    "format": "form",
+    "workaround": "Not really, it's a feature of the visual script editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-09-16T05:51:09Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10756,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow setting of `USERDATAx` values in visual particle shader",
+  "up": 0,
+  "updatedAt": "2024-09-16T16:58:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10756"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "A small amount of code should not significantly increase the core size.",
+    "format": "form",
+    "workaround": "Almost any game uses mathematical functions."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-16T21:22:08Z",
+  "comments": 6,
+  "createdAt": "2022-07-12T13:01:24Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4861,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use the lookup table method to speed up math operations",
+  "up": 0,
+  "updatedAt": "2022-12-16T21:22:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4861"
+}

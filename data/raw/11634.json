@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-25T16:58:55Z",
+  "comments": 0,
+  "createdAt": "2025-01-25T16:57:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 11634,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDExtension only allows to register integral constants, add fields or functions to represent values",
+  "up": 0,
+  "updatedAt": "2025-01-25T16:59:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11634"
+}

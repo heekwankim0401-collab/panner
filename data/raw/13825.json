@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be core because it makes the real-time debugging of applications a more enjoyable experience and it allows the developer to navigate through a less crowded Remote tab scene tree by explicitly and voluntarily marking nodes and their children as being removed from the tree.",
+    "format": "form",
+    "workaround": "It could be an option that can be toggled on/off in the Remote tab scene tree. In that regard it would act like a filter, showing or hiding the flagged nodes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-12-10T09:24:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13825,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow specific nodes to not show up in the Remote scene tree using a flag/node property",
+  "up": 1,
+  "updatedAt": "2025-12-11T23:30:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13825"
+}

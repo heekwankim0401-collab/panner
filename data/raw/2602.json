@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is pretty essential behaviour for a VideoPlayer, and there's already an empty method for it in the codebase.",
+    "format": "markdown",
+    "workaround": "No way to work around it outside of letting the video play in the background, which is expensive and forces you to wait for it to get to the right point."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-14T11:34:32Z",
+  "comments": 8,
+  "createdAt": "2021-04-13T23:36:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2602,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement seeking on VideoPlayers",
+  "up": 3,
+  "updatedAt": "2023-11-20T01:46:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2602"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is the render core",
+    "format": "form",
+    "workaround": "can not"
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-22T05:45:37Z",
+  "comments": 3,
+  "createdAt": "2023-08-22T03:32:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7539,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add gdshader support for custom textures",
+  "up": 0,
+  "updatedAt": "2023-08-22T16:18:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7539"
+}

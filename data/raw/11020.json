@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The debugger is a core component of the Godot Engine, and enhancing its functionality benefits all users. Implementing this feature as part of the core ensures compatibility and stability, as modifying the debugger through add-ons might not be feasible or could lead to conflicts with future engine updates. Including this enhancement in the core engine ensures that all developers have access to improved debugging tools without the need for external dependencies.",
+    "format": "form",
+    "workaround": "While it's technically possible to script custom solutions to monitor multiple variables (such as printing values to the console or creating custom UI elements), these workarounds are not as efficient or integrated as having the functionality built into the debugger. They require additional effort to set up and maintain and do not offer the seamless experience of real-time variable monitoring within the Godot editor. Therefore, this enhancement would provide significant value that cannot be easily replicated with simple scripting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-10-24T13:26:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11020,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enhance \"Filter Stack Variables\" to support multiple queries or patterns",
+  "up": 0,
+  "updatedAt": "2024-11-03T21:12:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11020"
+}

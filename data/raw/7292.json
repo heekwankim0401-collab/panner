@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This could integrate deeper with already preexisting baking tools, and I haven't seen any Baking addons made for Godot (at a first glance)",
+    "format": "form",
+    "workaround": "It could possibly be achieved by making a custom shader, but it'd be way more complicated than having a built in tool."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-15T19:26:43Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7292,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for baking of Volumetric Fog",
+  "up": 1,
+  "updatedAt": "2023-07-15T19:32:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7292"
+}

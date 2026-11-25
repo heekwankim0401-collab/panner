@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "auto complete is the core feature",
+    "format": "form",
+    "workaround": "maybe"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-09-21T14:30:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10797,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Auto-complete for custom node's method against editor's add_type_hints",
+  "up": 0,
+  "updatedAt": "2026-01-29T17:25:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10797"
+}

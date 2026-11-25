@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, GUI is core feature\n\n\nAnother feature I want to add, after Table is ready:\n* Sort the table (with function call according to one column)\n* Sort the table (with user clicking on title) (Defenition of title: in the picture above the title is the first row, describing the column's names)",
+    "format": "legacy",
+    "workaround": "No, need dedicated GUI component"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-22T18:02:50Z",
+  "comments": 8,
+  "createdAt": "2020-06-22T23:29:40Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1107,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "New GUI Component - Table",
+  "up": 20,
+  "updatedAt": "2023-09-04T13:11:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1107"
+}

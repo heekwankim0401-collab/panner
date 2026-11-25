@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "```gdscript\n@tool\nextends EditorPlugin\n\n\nvar button_container: Control\n\n\nfunc _enter_tree() -> void:\n    var title_bar := get_tree().root.find_child(\"*EditorTitleBar*\", true, false)\n    button_container = title_bar.get_child(2)\n    button_container.move_child(button_container.get_child(2), 0)\n\n\nfunc _exit_tree() -> void:\n    button_container.move_child(button_container.get_child(0), 2)\n```",
+    "format": "form",
+    "workaround": "It is used often and can be worked around with a tiny addon (see below).\nHowever seeing this is a tiny ui change that impacts my experience a lot, I want to know what others think about it."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-22T16:39:30Z",
+  "comments": 6,
+  "createdAt": "2023-10-20T21:02:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 8212,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the order of the 2D/3D and Script buttons to make more sense",
+  "up": 1,
+  "updatedAt": "2026-09-23T16:04:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8212"
+}

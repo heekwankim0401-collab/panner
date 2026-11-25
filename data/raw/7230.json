@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's export configuration settings",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-16T23:28:59Z",
+  "comments": 4,
+  "createdAt": "2023-07-07T10:40:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.3",
+  "number": 7230,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add warning about export missing BPTC texture format (or change export settings)",
+  "up": 5,
+  "updatedAt": "2024-10-27T14:53:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7230"
+}

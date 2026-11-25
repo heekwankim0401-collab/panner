@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Since both OpenXR and WebXR are part of the Godot engine, and OpenXR already has its OpenXR action maps system as part of the core engine, this makes the most sense as a part of the engine as well.",
+    "format": "form",
+    "workaround": "No. In order for this to be generalized across all current and future XR SDKs this needs to be full system, including extensive editor UIs."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-03-21T15:56:19Z",
+  "down": 0,
+  "labels": [
+    "topic:xr"
+  ],
+  "milestone": "4.x",
+  "number": 6548,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement generalized XR action map system for use outside OpenXR",
+  "up": 6,
+  "updatedAt": "2023-11-18T10:05:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6548"
+}

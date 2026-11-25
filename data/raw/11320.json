@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Adding this would naturally extend its utility without introducing breaking changes. While this could theoretically be implemented as an add-on, I don't see any reason not to simply add this method. Also this is my first proposal so I hope I did this correctly:)",
+    "format": "form",
+    "workaround": "The functionality can technically be worked around with GDScript, but performance is significantly worse compared to a native C++ implementation. Given that BitMap is often used in performance-critical applications like collision detection or pathfinding, a GDScript solution is not practical for per-frame use cases."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-12-08T23:57:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11320,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a companion function to `BitMap::create_from_image_alpha()` called `BitMap::create_from_image_channel()`",
+  "up": 1,
+  "updatedAt": "2024-12-09T14:27:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11320"
+}

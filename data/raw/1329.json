@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-08-07T18:19:35Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1329,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Fix path resolution for Windows Symbolic Links",
+  "up": 3,
+  "updatedAt": "2024-07-31T02:30:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1329"
+}

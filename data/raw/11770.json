@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a small change to the existing node that makes it more useful, especially for its intended use case.",
+    "format": "form",
+    "workaround": "No work around, it requires a custom implementation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-02-14T04:23:54Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11770,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Mode property for SpringArm3D to allow updating the SpringArm on every rendered frame",
+  "up": 4,
+  "updatedAt": "2025-02-14T14:29:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11770"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Is core, cannot be worked around.",
+    "format": "form",
+    "workaround": "Is core, cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-27T10:11:06Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": null,
+  "number": 9184,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "DocTools: Support reading default values defined in abstract classes",
+  "up": 3,
+  "updatedAt": "2024-02-27T11:31:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9184"
+}

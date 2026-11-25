@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This Is a much needed feature in Blend Space.  This allows animations to be synced irrespective of the animation length.  It is possible for animations to still look borked when blended if they're 180 degrees out of phase. (left foot first vs right foot first) In these cases, using the Custom Timeline and setting Start Offset to the midpoint of the animation should suffice.",
+    "format": "form",
+    "workaround": "Modifying frame advancement on update for blend space animations is not exposed to script."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-13T16:47:50Z",
+  "comments": 6,
+  "createdAt": "2025-09-30T04:33:59Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.7",
+  "number": 13307,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow blend space animations to be synced automatically",
+  "up": 3,
+  "updatedAt": "2026-04-13T16:57:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13307"
+}

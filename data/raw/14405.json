@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-03-08T11:33:28Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 14405,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add method that returns unique screen count (for mirrored vs. extended displays)",
+  "up": 5,
+  "updatedAt": "2026-03-12T22:09:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14405"
+}

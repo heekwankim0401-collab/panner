@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Node is a core class.",
+    "format": "form",
+    "workaround": "One could manually add a similar function to their own Node, but for aforementioned reasons, it's not what the proposal would want to accomplish."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2022-08-01T18:01:50Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5048,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Node.get_unique_node()` as a way to get Scene Unique Nodes",
+  "up": 11,
+  "updatedAt": "2022-09-17T01:46:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5048"
+}

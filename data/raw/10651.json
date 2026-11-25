@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The base Signal UI feels clunky and I've been feeling like I'm constantly fighting it. Adding this feature would make it feel more fluid to connect signals to (custom) methods on a type.",
+    "format": "form",
+    "workaround": "If it is possible I don't know about it. And honestly, I even tried dragging and dropping and to my disappointment it didn't work. I would feel this would mesh very naturally with how other things work right now."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-03T23:30:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10651,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Drag and drop signal connecting to scene tree directly.",
+  "up": 5,
+  "updatedAt": "2024-09-04T10:11:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10651"
+}

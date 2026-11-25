@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "core, this is about how the editor imports stuff by default",
+    "format": "form",
+    "workaround": "It could be as a script, or as a project setting. But it's about how user expects Godot to do out of the box."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-20T03:23:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12466,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Do not automatically compress CompressedTexture2D when being used as spriteframes in AnimatedSprite3D",
+  "up": 1,
+  "updatedAt": "2025-06-19T13:19:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12466"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "...",
+    "format": "form",
+    "workaround": "..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-09-14T09:56:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5419,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Don't search in `.gdshader` and `.shader` files by default in Find in Files dialog",
+  "up": 1,
+  "updatedAt": "2022-09-18T08:29:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5419"
+}

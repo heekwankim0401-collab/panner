@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "its good for qol when importing music from famistudio and convenient for storage.",
+    "format": "form",
+    "workaround": "there isnt really a way to add nsf support without modifying the source for godot."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-29T17:28:03Z",
+  "comments": 2,
+  "createdAt": "2024-11-29T15:59:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 11262,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for loading FamiStudio tracker music (`.nsf`)",
+  "up": 0,
+  "updatedAt": "2024-11-29T19:07:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11262"
+}

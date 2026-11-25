@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think native interactable UIs in 3D world space could be very useful for a lot of projects. Not only for projects like mine that need in-game touch-screens (smartphones, futuristic computers, calculators, touch panels...) but I do believe VR projects would specially benefit a lot from this feature as they have an almost unavoidable need for world space UIs.\n\nThe UI system of Godot and its theming is very powerful and I think it would be very useful to have it natively and smoothly working in 3D world for 3D and XR projects.\n\nThank you and excuse me for my poor English.",
+    "format": "form",
+    "workaround": "UIs and HUDs can be displayed into 3D world through a material with ViewportTexture and to make them interactable  it is necessary to create a CollisionShape3D and translate mouse coordinates to replicate input events into the UI (but the code is definitively not a few lines and does not work in all conditions).\n\nThese tutorials implement this feature:\n\n- [Diegetic UI in Godot 4 tutorial (In World UI)](https://www.youtube.com/watch?v=Hih8PD2xeMw)\n- [Making 3D UI elements in Godot ](https://www.youtube.com/watch?v=qEjxZc6TAM8)\n- And I think they are based in [this Godot 3 demo project](https://github.com/dueddel/godot-3d-ui-demo) \n\nBut I'm having a hard time making it to work as smoothly as desired. They initially seem to work but in the end the result is far from perfect because the mouse position is not always perfectly transported and fails a lot to focus control element below the pointer and click where I'm trying to click. The difference seems to be bigger depending on the 3d world UI and player positions, rotations, and size/scale of elements among other problems I cannot figure."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-17T13:16:09Z",
+  "comments": 3,
+  "createdAt": "2023-12-17T12:42:52Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8679,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Interactable UI (control nodes) in 3D world",
+  "up": 4,
+  "updatedAt": "2023-12-17T15:53:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8679"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because adding one TextField in dialog has no bad effect",
+    "format": "legacy",
+    "workaround": "My issue is i think this enchantment will be used a lot, cuz you can have a lot of signal connections,\nbut ye you can create a class for each button just to connect it to SIngleton"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-10-20T17:22:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1694,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a signal connection dialog for autoloads/singletons ",
+  "up": 18,
+  "updatedAt": "2025-04-16T01:08:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1694"
+}

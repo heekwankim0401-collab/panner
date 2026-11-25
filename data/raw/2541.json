@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think many others creating a program (like a timer or something) would need such a feature as well.",
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-01T19:20:04Z",
+  "comments": 1,
+  "createdAt": "2021-04-01T17:50:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 2541,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability for inputs to be available even when the window is not in focus",
+  "up": 0,
+  "updatedAt": "2021-04-01T19:20:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2541"
+}

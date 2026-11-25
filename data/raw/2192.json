@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would have to be changed in core.",
+    "format": "markdown",
+    "workaround": "I believe this would be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-16T23:49:48Z",
+  "comments": 10,
+  "createdAt": "2021-01-27T09:09:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2192,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move lightmap UVs out of UV2 and into one of the custom vertex data fields",
+  "up": 6,
+  "updatedAt": "2023-10-16T23:49:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2192"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I know there's no way to do this through an addon.",
+    "format": "markdown",
+    "workaround": "It can be worked around by manually setting the length of each animation every time they're reimported, which gets pretty tedious"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-04-24T16:08:52Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2644,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use NLA track length when importing animation",
+  "up": 0,
+  "updatedAt": "2021-04-24T16:30:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2644"
+}

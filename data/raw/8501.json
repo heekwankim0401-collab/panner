@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a modification/enhancement to logic that already exists in the navigation module III",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-11-22T22:35:04Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 8501,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Modify NavAgent pathfinding algorithm to allow re-entering the same polygon multiple times",
+  "up": 3,
+  "updatedAt": "2023-11-23T12:06:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8501"
+}

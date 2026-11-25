@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "One of the common feature of code editors, think it should be core.",
+    "format": "form",
+    "workaround": "Could often be used to organize long scripts."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-12T06:54:39Z",
+  "comments": 25,
+  "createdAt": "2021-09-29T10:59:27Z",
+  "down": 1,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 3366,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement custom folding regions in the script editor",
+  "up": 46,
+  "updatedAt": "2023-09-12T06:55:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3366"
+}

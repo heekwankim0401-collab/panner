@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the 3D editor usability out of the box.",
+    "format": "form",
+    "workaround": "It can not be worked around. It requires engine changes on C++ level."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-19T17:08:23Z",
+  "comments": 31,
+  "createdAt": "2023-09-24T09:37:17Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 7834,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a setting to disable Select Mode manipulator gizmo",
+  "up": 13,
+  "updatedAt": "2025-11-19T17:09:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7834"
+}

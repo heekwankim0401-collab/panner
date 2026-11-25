@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core Godot graphics functionality.",
+    "format": "form",
+    "workaround": "No, this is an editor-bound feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-03-14T05:38:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6497,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow DoF to be disabled in Camera Attributes",
+  "up": 2,
+  "updatedAt": "2023-03-14T15:10:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6497"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot clearly has aspirations to have fully featured GUI system, of which Controls and Themes are already an integral part. This is just adding support for a reasonable use case that uses them both.",
+    "format": "legacy",
+    "workaround": "You could build custom versions of the controls to achieve this instead of using themes (which is what I've ended up doing)."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-11T23:47:21Z",
+  "comments": 3,
+  "createdAt": "2020-04-01T15:47:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 660,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support icon sizing in themes",
+  "up": 4,
+  "updatedAt": "2021-08-11T23:47:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/660"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because we already have this tool, but it's not doing what its supposed to do in an efficient way. Writing an addon would be like patching a hole instead of fixing it",
+    "format": "legacy",
+    "workaround": "No, its an enhancement that is constantly used and needs to be done with the tileset editor directly. It will save hours of laborious boring work"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-12T15:35:33Z",
+  "comments": 5,
+  "createdAt": "2020-03-29T18:30:21Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 648,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Tileset editor - create square collisions in one click, not three",
+  "up": 12,
+  "updatedAt": "2021-08-12T16:15:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/648"
+}

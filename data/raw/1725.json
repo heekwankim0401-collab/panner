@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is a fairly low level change that can't be done from an asset.\n\nP.S:\n\nIt is obvious this change would only apply to 3.2 and the GLES2 renderer in 4.0.",
+    "format": "legacy",
+    "workaround": "There is no solution."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-18T19:58:17Z",
+  "comments": 9,
+  "createdAt": "2020-10-26T00:51:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:windows",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1725,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Render the project offscreen and present it using DirectX or Vulkan to solve NVIDIA Optimus stuttering",
+  "up": 0,
+  "updatedAt": "2023-12-19T15:01:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1725"
+}

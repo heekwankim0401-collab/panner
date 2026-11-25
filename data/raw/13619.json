@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal directly affects the **core editor workflow**, similar to the **Directory Naming Convention** feature.  \nThe functionality also relies on existing core string conversion utilities functions for snake_case, pascalCase and CamelCase.",
+    "format": "form",
+    "workaround": "I don't think so, this behavior is part of the editor’s internal drag-and-drop system, and overriding it through a script or plugin might be less reliable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-11-12T10:50:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13619,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to choose the naming convention to apply when drag-and-dropping nodes into the script editor",
+  "up": 3,
+  "updatedAt": "2025-11-12T11:12:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13619"
+}

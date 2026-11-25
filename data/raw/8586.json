@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core functionality.",
+    "format": "form",
+    "workaround": "Not that I can think of. I currently mostly copy expressions around, but this does not scale well especially since you cannot name them individually."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-12-04T12:50:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8586,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "VisualShaderEditor: Make Expressions saveable as VisualShaderNodeCustom",
+  "up": 7,
+  "updatedAt": "2024-02-02T22:54:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8586"
+}

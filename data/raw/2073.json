@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-12T00:05:46Z",
+  "comments": 2,
+  "createdAt": "2021-01-04T21:34:31Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2073,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable \"Add Type Hints\" in the script editor completion by default",
+  "up": 1,
+  "updatedAt": "2021-08-12T00:05:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2073"
+}

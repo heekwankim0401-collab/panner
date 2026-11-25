@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core feature. Simple fix that could save a lot of time in certain scenarios.",
+    "format": "form",
+    "workaround": "Not really. It would be inefficient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-08-04T13:27:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3087,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow MeshInstance to keep Skeleton node as moved throughout scene",
+  "up": 2,
+  "updatedAt": "2021-08-04T15:24:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3087"
+}

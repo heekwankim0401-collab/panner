@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Addon would be way larger, and as .tres and .tscn are core, so should .tvs be and would have more of a positive impact on anyone using VS compared to anyone using .tres or .tscn as opposed to their binary counterparts (as those binary counterparts don't tend to break like VS does)",
+    "format": "legacy",
+    "workaround": "Not in a few in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-03T13:04:13Z",
+  "comments": 1,
+  "createdAt": "2020-11-03T09:37:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 1766,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Save Visual Script as Text",
+  "up": 1,
+  "updatedAt": "2022-08-24T20:36:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1766"
+}

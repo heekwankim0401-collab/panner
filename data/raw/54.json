@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a little QoL thing. Not sure if possible with a reasonable plugin (reasonable i.e. not adding any additional steps to simple auto-hiding).\n\nEDIT:\nSo I don't really need this anymore, but it has some support and also apparently it would be still useful in 3D.",
+    "format": "legacy",
+    "workaround": "You can manually turn off the visibility of the shapes, but that state is needlessly saved in the scene and also you need to toggle it each time you want to edit the shape. It's just bothersome."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2019-09-10T11:40:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 54,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Option to hide collision shapes of instanced scenes",
+  "up": 46,
+  "updatedAt": "2024-05-10T20:03:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/54"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Discoverability and ensuring matching behavior with `InputEventKey.key_label` (when possible)",
+    "format": "form",
+    "workaround": "The physical and key-label pairs can be saved whenever the player presses a new key or when they change the default keys for the action but not before it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-12T19:12:55Z",
+  "comments": 3,
+  "createdAt": "2023-05-15T21:34:47Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.2",
+  "number": 6888,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a function to convert physical_keycode to key_label",
+  "up": 5,
+  "updatedAt": "2023-12-17T00:35:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6888"
+}

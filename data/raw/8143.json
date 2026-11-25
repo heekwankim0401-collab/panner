@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure but I imagine it requires a deep integration with the language / VM implementation.",
+    "format": "form",
+    "workaround": "Not that I'm aware of."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-16T10:13:02Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8143,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement memory profiling and debugging in GDScript",
+  "up": 15,
+  "updatedAt": "2023-10-18T18:42:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8143"
+}

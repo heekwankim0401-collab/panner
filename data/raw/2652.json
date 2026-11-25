@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I would not mind it to be in an addon, but it feels that it would fit better the core UI library, since it is a text label after all.",
+    "format": "markdown",
+    "workaround": "I would love to have a workaround, I could not come up with one. I do not think there is a way to achieve the desired outcome with a rectangular shaped text label."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-04-26T13:58:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2652,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add polygon-shaped wrapping to Label",
+  "up": 4,
+  "updatedAt": "2024-05-08T17:24:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2652"
+}

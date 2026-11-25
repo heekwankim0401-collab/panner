@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "One technical reason is that I don't know if such add-ons would be able to read files and change the main window before the engine has started, as I'm guessing they are loaded later. But I might be wrong about that.\n\nA stronger reason is that I think it's something virtually all desktop projects would benefit from, so it would be great if it was included in the core engine.",
+    "format": "form",
+    "workaround": "It can be worked around, and is probably already worked around in most Godot projects targeting desktop platforms. However, if it was implemented as part of the core it would make the system more reliable than these workarounds, and would mean that individual project wouldn't need to bother implementing this on their own for each project."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-09-01T15:01:49Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10625,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to reuse last used window mode, size, scale and position at startup",
+  "up": 10,
+  "updatedAt": "2026-09-18T17:25:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10625"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The core engine handles importing and playing of Audio, it seems like it would not make sense for this feature to be an add-on specifically. An add-on could be made to 'simplify' the workaround process, but I feel instead it should just be handled by the engine.\n\n\nI was informed that this is probably a reasonable change, but there is a lot on the to-do list already and it might not happen \"in the near future\" which is perfectly reasonable. I figured it wouldn't hurt to make a formal proposal though for keeping track. As far as I could tell one does not exist for this, but if it does then this could be closed.",
+    "format": "form",
+    "workaround": "Presently with C# using a library and loading the streams data property it could be extracted. I was also advised that this will not be possible in 4.0 due to some changes, but there might be another work around involving extracting the packed ogg page data. I was informed that the header pages are already being kept so it might be possible.\n\nIt might be possible to work around it in GDScript by binding a library in GDNative or C#, but I am not overly familiar with GDScript to know how feasible or workable that would be.\n\nIt would certainly be nice to have the engine just retain this meta data instead of having to maintain separate data files to define the information."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-09-17T03:04:38Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3307,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Decode and expose MP3 comment metadata tags (Ogg Vorbis and WAV already supported)",
+  "up": 14,
+  "updatedAt": "2026-06-15T15:13:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3307"
+}

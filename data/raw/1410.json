@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-25T08:24:28Z",
+  "comments": 1,
+  "createdAt": "2020-08-25T06:33:35Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 1410,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "How to change uint64 into byte array with big endian and change back",
+  "up": 0,
+  "updatedAt": "2020-08-25T08:24:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1410"
+}

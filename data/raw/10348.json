@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about making it easier to troubleshoot networking issues in multiplayer games.",
+    "format": "form",
+    "workaround": "This version checking can be implemented during the initial handshake by users, but it can be a lot of work to get right and testing it can be time-consuming.\n\nAlso, implementing this at a engine level allows performing this check as early as possible, which is useful if we decide to turn this into an error and reject connections instead (so that no resources are wasted on the handshakes of incompatible clients)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-02T22:26:48Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 10348,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Check for Godot version and project version when a client connects to a multiplayer server (and vice versa)",
+  "up": 2,
+  "updatedAt": "2024-08-02T22:27:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10348"
+}

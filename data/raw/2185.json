@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would clearly be a core feature as it's a single button resetting the transform matrix.",
+    "format": "legacy",
+    "workaround": "I suspect this would be popular."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-25T19:24:40Z",
+  "comments": 2,
+  "createdAt": "2021-01-25T18:22:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2185,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "New button to reset transform matrix / basis",
+  "up": 1,
+  "updatedAt": "2021-01-25T20:33:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2185"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "New users, like me, are not even aware that such important files are hidden there. So I've opened some demos, couldn't understand what was going on, and I had no clue there was a readme explaining some details, or giving reference material.\n\nIf the README is more visible/reacheable, it will also encourage authors of demos to write more explanations to it.",
+    "format": "form",
+    "workaround": "You want the basic tools to help people learn to be built-in so they can help newcomers with as little friction as possible. This also encourages authors to write more/better READMEs, they need to be easily accessible and discoverable."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-28T21:12:16Z",
+  "comments": 5,
+  "createdAt": "2021-08-28T17:26:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3217,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display README files in the FileSystem dock",
+  "up": 1,
+  "updatedAt": "2021-08-29T14:38:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3217"
+}

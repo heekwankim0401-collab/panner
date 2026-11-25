@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Despite the fix being easy, many devs lack the experience to make sense of the error or how to work around it.\n\nEven many experienced devs who aren't used to web similarly can't make sense of it.\n\nAn alternative to my suggestion would be a public announcement, with a fixed template (but unfortunately that would lack the nice large-scale testing that a feature can bring)",
+    "format": "form",
+    "workaround": "Anyone can add their template, that is not the issue. It's trivial to do (as demonstrated by the above paragraph)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-04-03T20:02:14Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6616,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use an HTML-based solution to the SharedArrayBuffers problem",
+  "up": 38,
+  "updatedAt": "2023-11-30T14:40:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6616"
+}

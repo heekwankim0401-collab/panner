@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "normal textures work why can't other textures?",
+    "format": "legacy",
+    "workaround": "I guarantee this would be used  and while it can be worked around with shaders or uvs its not ideal and seems kinda like a bug."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 25,
+  "createdAt": "2020-10-22T22:20:18Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1708,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make AtlasTextures work with SpatialMaterial/3D meshes",
+  "up": 24,
+  "updatedAt": "2026-02-19T08:38:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1708"
+}

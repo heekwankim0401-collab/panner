@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-08T10:21:57Z",
+  "comments": 1,
+  "createdAt": "2022-11-16T02:03:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.1",
+  "number": 5792,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add debug label with mouse coordinates and hovered tile name to tilemap editor",
+  "up": 8,
+  "updatedAt": "2023-05-08T10:21:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5792"
+}

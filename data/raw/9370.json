@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "can possibly be hacked as an addon, but the point is making the editor feel a bit better when you need to do this operation.",
+    "format": "form",
+    "workaround": "I don't think it can be worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-03-24T11:48:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.x",
+  "number": 9370,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the text editor's `indentation` Label a button",
+  "up": 7,
+  "updatedAt": "2024-04-12T15:30:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9370"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a small quality of life change that makes it easier for users to follow the style guide.",
+    "format": "legacy",
+    "workaround": "It's easy to change the name yourself, but it would be easier for users if the default name didn't have to be changed every time you create a script."
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-31T14:54:18Z",
+  "comments": 1,
+  "createdAt": "2020-08-31T14:52:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1440,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Suggest snake_case script names by default to match GDScript style guide",
+  "up": 0,
+  "updatedAt": "2020-08-31T14:54:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1440"
+}

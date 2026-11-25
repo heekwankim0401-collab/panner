@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, it'd be a simple way, of occluding, also faster, math-wise, thx . . . . ! . .",
+    "format": "form",
+    "workaround": "Well, it can, one can make it manually, but having a node, where one just types the numbers, then test it in wireframe mode, would be much faster . . To really customize it, one could make a custom angle, say 148 degrees, to one side, only render the node, and, all child nodes, at distance 12 m . . So, one could add a few angles, to make it ALMOST the same, as occlusion culling . . . And, disable certain angles, say west, north, if it wasn't necessary . . . Sort-of, simple, fast occlusion culling, it doesn't have to be a special node, maybe if all nodes, not sure, had this setting, and, some way of inheriting from a parent node, or so . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-30T22:51:13Z",
+  "comments": 22,
+  "createdAt": "2022-01-17T09:37:44Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3814,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Suggestion for other object culling modes . .",
+  "up": 0,
+  "updatedAt": "2022-07-30T22:51:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3814"
+}

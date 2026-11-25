@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be useful for anyone using GridMaps, especially with the current 3.2 limitation on the number of lights allowed to affect the single MultiMeshInstance that's created for each octant. This lighting restriction is supposed to be removed in the Vulcan renderer, but will also it be removed from the OpenGL renderer for 4.0? It'd also be a great way to visualize the complexity of the gridmap because it's currently difficult to guess what happens when you change cell size and octant size without reading the engine source code.",
+    "format": "legacy",
+    "workaround": "It possibly could be implemented as a plugin which adds a new gizmo."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-11-12T19:25:46Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1824,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an octant visualization gizmo for GridMaps",
+  "up": 2,
+  "updatedAt": "2023-01-24T03:42:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1824"
+}

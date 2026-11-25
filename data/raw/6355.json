@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a behavior of the editor.",
+    "format": "form",
+    "workaround": "This might require to write a GDScript editor plugin which somehow taps into the script and shader editor, but I doubt there is a clean way to accomplish this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-02-25T16:31:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6355,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a contextual shortcut for saving",
+  "up": 10,
+  "updatedAt": "2026-03-30T14:55:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6355"
+}

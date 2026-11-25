@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, I'm certain that I'm not the only person who would like this option. As Godot becomes more fleshed out, I think that people might expect this. If it is an addon, *or* if it's already there, and I'm just overlooking this, it's a great feature nonetheless.",
+    "format": "legacy",
+    "workaround": "I don't know if it can be worked around with a few lines of script. I do know that I can change the translation of the object in my scene to kind of simulate being closes to it. But, that's not ideal and has a lot of rework involved."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-07T11:54:35Z",
+  "comments": 2,
+  "createdAt": "2020-09-07T03:36:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1470,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Unit zoom control",
+  "up": 0,
+  "updatedAt": "2020-09-07T19:42:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1470"
+}

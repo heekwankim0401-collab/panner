@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is general use of the Path node, not a specific tool.",
+    "format": "legacy",
+    "workaround": "This would be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-06T12:54:06Z",
+  "comments": 1,
+  "createdAt": "2020-11-06T11:55:38Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 1783,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make angle control points for Path have a different look than the control points.",
+  "up": 1,
+  "updatedAt": "2020-11-06T12:54:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1783"
+}

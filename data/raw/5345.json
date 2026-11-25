@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "It can't. The proposal is about exposing this to GDScript in the first place"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-06T13:33:41Z",
+  "comments": 5,
+  "createdAt": "2022-09-05T20:34:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5345,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Improve Shader class API by adding the same methods of the VisualShaderNodeCustom API",
+  "up": 0,
+  "updatedAt": "2022-09-06T13:57:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5345"
+}

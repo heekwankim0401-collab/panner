@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving accessibility of the editor.",
+    "format": "form",
+    "workaround": "It probably can be implemented as a plugin but this is an important accessibility feature, I think."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-19T22:46:36Z",
+  "comments": 7,
+  "createdAt": "2023-07-16T11:49:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 7301,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve Keyboard navigation by creating shortcuts to focus parts of the UI",
+  "up": 9,
+  "updatedAt": "2025-03-19T22:47:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7301"
+}

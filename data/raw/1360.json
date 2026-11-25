@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm pretty sure this isn't possible with add-ons. Besides, I feel like this is important enough to be useful to everyone, as it's a very fundamental feature that can be helpful to any kind of project.\n\n---\n\n**Potential issues that could arrise**\n-**Sharing your project with someone else or sending it to another computer would require you to send all the parent projects as well.** This could be fixed by adding a button to export your project as an independent version, which could duplicate all the parent assets as actual files instead of links. \n-**Having files, assets and settings that come from other projects could get confusing** This could be fixed by having the inherited assets be greyed out and having any parameters that get changed have a button appear next to it to set it back to being inherited.",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2020-08-13T14:57:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1360,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to create inherited projects",
+  "up": 1,
+  "updatedAt": "2021-09-24T13:07:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1360"
+}

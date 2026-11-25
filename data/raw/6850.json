@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think it can be done with addons. My biggest argument is that project settings don't accept the \"globalize_path\" type of functions so there isn't much other choice.",
+    "format": "form",
+    "workaround": "I don't think it's possible as Log path does not accept function calls or any other work around i can use in script. I'm bound to the built-in terms like \"user://\""
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-05-10T04:26:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6850,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a res:// and user:// style notation for the folder the executable resides in",
+  "up": 0,
+  "updatedAt": "2023-05-10T17:55:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6850"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This could potentially be done with an add-on, but this is about addressing a UX shortcoming, so should ideally be done in Godot itself.",
+    "format": "form",
+    "workaround": "This could potentially be done with a tool script, but this is about addressing a UX shortcoming, so should ideally be done in Godot itself."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-02T23:59:36Z",
+  "comments": 0,
+  "createdAt": "2024-07-07T16:14:33Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 10145,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add shortcut to bezier animation editor for single-axis snapping",
+  "up": 0,
+  "updatedAt": "2025-06-02T23:59:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10145"
+}

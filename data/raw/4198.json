@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "We are used to naming files based on what they do, which helps identify them, rather than all project files having the same filename even though they are different projects and it's hard to differentiate them and search for them outside the engine",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-12T17:03:17Z",
+  "comments": 22,
+  "createdAt": "2022-03-09T23:45:11Z",
+  "down": 20,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 4198,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename project.godot to the name of the project",
+  "up": 12,
+  "updatedAt": "2025-07-16T11:55:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4198"
+}

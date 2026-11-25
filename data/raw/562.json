@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's impossible to modify GDScript with an add-on.",
+    "format": "legacy",
+    "workaround": "The improvement I'm describing is, I believe, a basic and common functionality in array-type collections. One can (I did) work around the issue by writing a custom pop method but since the proposed functionality is common among a wide variety of languages and is basic for an array-like type, I think that it should be shipped with the Array class.\n\nFor:\n- Present in many languages' array-like collection type.\n    - Lua's `table.remove (list [, pos])`. **Removes** from list the element **at position pos**, **returning the value** of the removed element.\n    - Dart's `E removeAt(int index)`;. **Removes the object at position** index from this list. **Returns the removed object**.\n    - Rust VecDeque's `pub fn remove(&mut self, index: usize) -> Option<T>`. **Removes and returns the element at index** from the VecDeque.\n    - Python's `list.pop([i])`. **Remove the item at the given position** in the list, **and return it**.\n    - Ruby's `delete_at(index) → obj or nil`. **Deletes the element at the specified index, returning that element**, or nil if the index is out of range.\n- Requires minimal effort to add.\n- Very unlikely to cause bugs.\n- It's common functionality for an array type as evidenced above.\n- GDScript's Array already has `pop_front()` and `pop_back()`; `pop()` would complement it nicely.\n- The main scope of the change is contained within the Array class.\n- A custom method is cumbersome to use if it's needed in multiple scripts. Adding it to some Utils class adds the overhead of referring to that class every time.\n\nAgainst:\n- The change requires adding a method to Godot's core.\n- Someone has to do it :)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-27T07:36:30Z",
+  "comments": 0,
+  "createdAt": "2020-03-06T20:38:11Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "3.x",
+  "number": 562,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `Array.pop()` method to Array",
+  "up": 8,
+  "updatedAt": "2021-08-27T12:26:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/562"
+}

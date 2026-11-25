@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core rendering functionality.",
+    "format": "form",
+    "workaround": "No, as presenting frames is handled by the renderer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-07-18T09:59:31Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10242,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use DXGI to present frames rendered by OpenGL on Windows",
+  "up": 2,
+  "updatedAt": "2026-08-08T19:38:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10242"
+}

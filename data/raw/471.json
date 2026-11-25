@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Easier to do in core and affects most developers.",
+    "format": "legacy",
+    "workaround": "This would be used often. Technically one could write a script that would randomize resource IDs before commiting, but that would be hacky and prone to bugs."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-22T18:33:00Z",
+  "comments": 33,
+  "createdAt": "2020-02-13T19:56:57Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 471,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Randomize resource IDs in scene files (GUID) when new resources are initially saved",
+  "up": 33,
+  "updatedAt": "2021-07-22T18:33:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/471"
+}

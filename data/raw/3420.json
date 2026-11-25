@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an editor UX enhancement.",
+    "format": "form",
+    "workaround": "Afaik can't create new editor shortcuts on scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-10-12T23:45:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3420,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow pressing Escape to deselect nodes in the editor while the Scene tree dock is focused",
+  "up": 2,
+  "updatedAt": "2022-06-16T16:53:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3420"
+}

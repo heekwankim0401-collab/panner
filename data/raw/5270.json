@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There isn't even an option to save the pool<type>array somehow, ie copying and/or saving, so adding it will improve the experience",
+    "format": "form",
+    "workaround": "This can be worked around by saving the CollisionShape, but accessing the tscn and converting tscn array to i.e c# array isnt convient."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-29T11:37:41Z",
+  "comments": 1,
+  "createdAt": "2022-08-26T21:11:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5270,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to copy/paste arrays in the inspector",
+  "up": 0,
+  "updatedAt": "2022-08-29T11:37:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5270"
+}

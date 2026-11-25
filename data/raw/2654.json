@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "IMO it adds more visual clarity to Tree (SceneTree and FileSystem), which is beneficial to all users.",
+    "format": "markdown",
+    "workaround": "It is editor, so no?"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-25T17:42:55Z",
+  "comments": 21,
+  "createdAt": "2021-04-26T21:42:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2654,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Highlight parent and child connections of selected node in Tree",
+  "up": 8,
+  "updatedAt": "2021-05-25T18:29:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2654"
+}

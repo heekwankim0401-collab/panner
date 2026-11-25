@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "All the above.",
+    "format": "form",
+    "workaround": "I consider Godot Jolt no longer an add-on but an essential. If it were just for the performance or some additional features it would be fine as a stand-alone add-on, but it basically fixes Godot 4 physics! \nAnd it seems they won't be fixed otherwise anytime soon."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-13T14:01:29Z",
+  "comments": 1,
+  "createdAt": "2023-09-13T13:48:43Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7652,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make Jolt core and default 3D physics engine",
+  "up": 1,
+  "updatedAt": "2023-09-13T14:02:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7652"
+}

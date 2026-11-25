@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Moving the camera, focusing on objects is a core part of development that takes place in the editor at all times and becomes even more pronounced with 3D. This feature simply enhances the already existing functionality and promotes an easier way of working with objects in motion.",
+    "format": "form",
+    "workaround": "I believe this could be an addon indeed."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-02T22:00:19Z",
+  "comments": 12,
+  "createdAt": "2021-08-19T21:26:28Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 3164,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Press \"F\" twice to make the editor camera follow the selected node",
+  "up": 10,
+  "updatedAt": "2026-03-02T22:00:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3164"
+}

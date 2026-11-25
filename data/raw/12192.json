@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See the reason above",
+    "format": "form",
+    "workaround": "No, because the `_edit_set_rect`  is not exposed and cannot be overridden with GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-02T14:31:25Z",
+  "comments": 2,
+  "createdAt": "2025-04-08T14:04:28Z",
+  "down": 1,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12192,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow sprite nodes being dragged to change their Region Rect",
+  "up": 1,
+  "updatedAt": "2025-05-02T14:31:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12192"
+}

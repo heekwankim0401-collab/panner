@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a common feature in many code editors, and I think that the godot code editor ought to have this feature too to be a good code editor",
+    "format": "form",
+    "workaround": "This can be worked around by using an external editor, but that would miss the quick feedback on the code.\n\nIt is also possible to always go to the start of the line or to select some text when indenting, but that is quite inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-09-23T12:13:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7816,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make pressing tab in code editor always increase indentation",
+  "up": 2,
+  "updatedAt": "2023-09-23T16:39:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7816"
+}

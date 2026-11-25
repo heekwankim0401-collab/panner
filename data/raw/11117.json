@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the experience for power users running lots of projects cloned from GitHub, or minimal reproduction projects.",
+    "format": "form",
+    "workaround": "Yes, by running the following command:\n\n```bash\ngodot --path /path/to/project --import && godot --path /path/to/project\n```\n\nHowever, you have to remember to do this the first time you open a project that has missing resources. Also, if you run the above command when resources were already imported, it'll just waste time running and exiting the editor for 10+ seconds (with a debug build)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-08T15:29:13Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 11117,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically import resources and restart the project if attempting to run a project with missing resources",
+  "up": 0,
+  "updatedAt": "2024-11-08T20:46:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11117"
+}

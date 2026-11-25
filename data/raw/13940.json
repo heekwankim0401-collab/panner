@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The experience would be a lot smoother if VIM motions were officially supported by the Godot editor, instead of having add-ons that do not officially need to be maintained or be usable.",
+    "format": "form",
+    "workaround": "Most likely"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-04T22:14:37Z",
+  "comments": 2,
+  "createdAt": "2026-01-01T11:04:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13940,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an official VIM motions plugin",
+  "up": 0,
+  "updatedAt": "2026-01-04T22:14:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13940"
+}

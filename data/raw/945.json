@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is part of how Godot synchronizes with its physics engine, and it introduces a new property representing the offset of the center of mass. A script can't change that, unless you reprogram all physics nodes using `PhysicsServer` and stop using built-in ones, which is far from a few lines of code.",
+    "format": "legacy",
+    "workaround": "As explained you can try to teleport all the parts to align them with the body's origin. However my previous experience with teleporting parts of a body has been a nightmare, and it is well known that rigidbodies don't like having their position set like that (performance and stability issues). So I really wish it wasn't required."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-06T18:34:16Z",
+  "comments": 9,
+  "createdAt": "2020-05-28T18:20:40Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 945,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to define center of mass and inertia tensor",
+  "up": 40,
+  "updatedAt": "2021-09-06T18:34:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/945"
+}

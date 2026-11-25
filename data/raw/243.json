@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2019-11-19T20:08:48Z",
+  "comments": 1,
+  "createdAt": "2019-11-19T19:16:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 243,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove popup windows when the C# solution fails to build",
+  "up": 0,
+  "updatedAt": "2020-04-29T22:47:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/243"
+}

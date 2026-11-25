@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See https://github.com/godotengine/godot-proposals/discussions/6661",
+    "format": "form",
+    "workaround": "Yes, I can script my own emitters. But using custom particle shaders has documented hassle (https://github.com/godotengine/godot-proposals/discussions/6661)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-02T16:09:24Z",
+  "comments": 5,
+  "createdAt": "2023-04-26T12:46:32Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:shaders"
+  ],
+  "milestone": "4.4",
+  "number": 6761,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add cone emitter to particles",
+  "up": 1,
+  "updatedAt": "2024-09-02T16:09:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6761"
+}

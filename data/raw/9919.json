@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`Tree` is a core node",
+    "format": "form",
+    "workaround": "~~AFAIK I think no~~\n\n~~Edit: After reading `ScrollContainer` and `Tree` source code, I now think yes, but still not something easy (as there is nothing in docs or internet about this) for newbie programmers like me~~\n\nYes, just connect `Tree.item_selected` to `Tree.scroll_to_item(Tree.get_selected())`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-06-07T18:26:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9919,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to follow selected `TreeItem` for `Tree`",
+  "up": 0,
+  "updatedAt": "2024-06-09T15:52:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9919"
+}

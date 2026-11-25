@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "I don't believe this can currently be worked around as per [this comment](https://github.com/godotengine/godot-proposals/issues/1339#issuecomment-782159581)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-11-11T06:08:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8398,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow defining descriptions in EditorImportPlugin::_get_import_options()",
+  "up": 9,
+  "updatedAt": "2024-10-23T03:20:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8398"
+}

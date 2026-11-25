@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It doesn't add any actual functionality other than a life improvement when working with the engine; that wouldn't make a lot of sense as an add-on.",
+    "format": "legacy",
+    "workaround": "It would be used for every position and raycast node and wouldn't make a lot of sense as a tool; it's pretty much core functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-19T02:53:35Z",
+  "comments": 3,
+  "createdAt": "2020-09-12T14:27:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1497,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Visualize Position2D, Position3D and RayCast3D orientation with editor gizmos",
+  "up": 3,
+  "updatedAt": "2021-06-19T02:53:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1497"
+}

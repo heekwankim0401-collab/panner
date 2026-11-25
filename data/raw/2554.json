@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I assume data type should be specified in the core.\n\nThank you :)",
+    "format": "markdown",
+    "workaround": "It is possible to do that using C# in Godot. But instead of going that unexplored route, I think that this would be handy for all the developers that look for a way to save memory."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-19T20:07:03Z",
+  "comments": 6,
+  "createdAt": "2021-04-05T14:24:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2554,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Unsigned Int data type",
+  "up": 1,
+  "updatedAt": "2021-04-19T20:14:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2554"
+}

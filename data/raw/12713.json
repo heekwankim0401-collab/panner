@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "It can't be worked around with a script, since this name is hardcoded into Godot. People can read `Nil` and understand that it means the same thing as `null` *fairly* easily, but again, it seems like a weird inconsistency, when Godot otherwise tries to keep terminology consistent."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-02T04:23:28Z",
+  "down": 1,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12713,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use \"null\" as the String representation of a null Variant",
+  "up": 2,
+  "updatedAt": "2025-07-02T21:04:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12713"
+}

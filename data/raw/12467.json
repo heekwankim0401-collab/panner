@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think its a very simple thing to be addon and for peoples who is new to game developing it is confusing. Also saw one guy with the same error in  [Godot Forum](https://forum.godotengine.org/t/onready-returning-null/103048/6)",
+    "format": "form",
+    "workaround": "Doesn't even need a script just copying and pasting InteractableArea with existing children solves the problem. So its not a necessisty but quality of life improvement."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-30T08:39:20Z",
+  "comments": 4,
+  "createdAt": "2025-05-20T12:51:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12467,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a button to reload `@onready` definitions in tool scripts",
+  "up": 0,
+  "updatedAt": "2025-05-30T09:12:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12467"
+}

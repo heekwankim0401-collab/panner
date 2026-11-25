@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "above",
+    "format": "markdown",
+    "workaround": "There's no hook in the editor that i know of to execute user code on menu command execution, so no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-12-08T08:36:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1954,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow \"Make Local\" to apply to owned resources too",
+  "up": 1,
+  "updatedAt": "2020-12-08T12:59:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1954"
+}

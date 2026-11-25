@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's a core debugging tool",
+    "format": "form",
+    "workaround": "no this is integral"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-02-29T22:52:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9211,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement running a single function within the script editor for debugging purposes",
+  "up": 0,
+  "updatedAt": "2024-03-02T16:08:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9211"
+}

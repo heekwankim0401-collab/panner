@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Is see no way how this could be implemented as an asset. Furthermore it's usefull for every project",
+    "format": "legacy",
+    "workaround": "Something like this would be possible:\n![grafik](https://user-images.githubusercontent.com/46326301/73397528-06115f80-42e4-11ea-92ba-1e6e71d00648.png)\nresulting in:\n![grafik](https://user-images.githubusercontent.com/46326301/73397557-16c1d580-42e4-11ea-97bd-bcfa21546df3.png)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-16T18:11:39Z",
+  "comments": 2,
+  "createdAt": "2020-01-29T21:13:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 416,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Fold down comments (like functions)",
+  "up": 6,
+  "updatedAt": "2021-06-16T18:11:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/416"
+}

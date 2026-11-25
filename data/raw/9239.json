@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "As mentioned above I can't tell if this is actually less efficient than a core feature.\nI also think this should be the default behaviour but I understand that by definition cull_disabled does not imply double_sided.",
+    "format": "form",
+    "workaround": "It kind of can be worked around by creating an exact copy of the StandardMaterial but with this feature added manually."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-05T12:54:22Z",
+  "comments": 2,
+  "createdAt": "2024-03-05T09:27:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9239,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "StandardMaterial should support normal inversion for double sided faces",
+  "up": 0,
+  "updatedAt": "2024-03-05T12:54:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9239"
+}

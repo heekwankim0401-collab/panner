@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving project export templates out of the box.",
+    "format": "form",
+    "workaround": "Again, I am no expert, and so there might be ways to workaround this without resorting to multiple projects. But as far as i know, this isn't currently possible."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-02-18T08:46:27Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 9119,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow custom properties to be passed to msbuild on project export.",
+  "up": 0,
+  "updatedAt": "2024-02-18T17:06:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9119"
+}

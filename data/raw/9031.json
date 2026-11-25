@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The editor-importer is part of core.",
+    "format": "form",
+    "workaround": "Almost.\nManually editing the `.import` file to point to the shared resource works, however Godot overwrites the `.import` file if it cannot find the import under `.godot/imported`.  So the workaround for that is to set the `importer` to `keep`, which works great until I try to export my project ([the exporter ignores the import file when it sees `keep`](https://github.com/godotengine/godot/blob/master/editor/export/editor_export_platform.cpp#L1187))"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-05T19:43:13Z",
+  "comments": 7,
+  "createdAt": "2024-02-05T16:46:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9031,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add capability to share imported resources",
+  "up": 0,
+  "updatedAt": "2024-02-05T19:43:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9031"
+}

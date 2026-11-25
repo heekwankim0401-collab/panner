@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving editor usability and documentation discoverability out of the box.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-20T10:50:45Z",
+  "comments": 2,
+  "createdAt": "2023-01-23T18:12:55Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.1",
+  "number": 6154,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display a description for the currently selected value in enum property inspector tooltips",
+  "up": 5,
+  "updatedAt": "2023-04-20T14:22:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6154"
+}

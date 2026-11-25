@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It mirrors and compliments existing functionality, and would be easier to add to the core engine than it would be to make a plugin.",
+    "format": "form",
+    "workaround": "It should be possible to write a C# plugin that uses Windows API to suppress the windows flashing manually."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-05T04:18:33Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 9677,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implementing a window_suppress_attention method",
+  "up": 3,
+  "updatedAt": "2024-05-05T04:22:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9677"
+}

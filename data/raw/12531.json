@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The data and ways to access it are already in core, it's more a matter of allowing access to it.",
+    "format": "form",
+    "workaround": "Not really. In my case I would probably have to write a script that re-does what Godot's XML-to-C++ generator does, but in a way I can compile it in my project and access it. Which sounds quite ridiculous.\nScripts would probably have to parse XML files to get access to all of that too."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-05-31T13:16:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 12531,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose EditorHelp",
+  "up": 9,
+  "updatedAt": "2025-06-01T11:36:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12531"
+}

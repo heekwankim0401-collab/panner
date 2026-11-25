@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because there is GraphNode implemented and from my point of view it would be simpler to rely on _it and possibly make a separate viewer or not with object classes with access to the interface_\nI am not part of the development team, but I would consider this feature from the mentioned mods and I think it could solve a rather large area for those who want to use Godot as a development tool for applications not only for games.",
+    "format": "form",
+    "workaround": "This improvement will be used often because it is related to graph theory and diagrams... and is used in all domains and will increase the number of developers using Godot.\nObviously, it will have to be reliable, known, and promoted.\nThis cannot be solved with a few lines of script, it will have to be implemented at the level of the Godot game and the team will need to create this feature like any button, label, or scene, PathFollow3D ...\nFor example, will be similar to GraphNode but will be in the game's visible area like any 2D or 3D connected elements with a logical implementation created from GraphNode."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-30T14:50:07Z",
+  "comments": 2,
+  "createdAt": "2023-11-25T14:53:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8518,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create custom grap nodes feature similar GraphNode into game area, like any button, label, ...",
+  "up": 0,
+  "updatedAt": "2023-12-03T20:23:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8518"
+}

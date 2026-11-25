@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Signals are a part of Core.",
+    "format": "form",
+    "workaround": "This is a syntax change primarily, so of course."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-01T09:39:53Z",
+  "comments": 1,
+  "createdAt": "2021-12-01T09:25:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3618,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "First-Class Signals, like what was done to Methods.",
+  "up": 0,
+  "updatedAt": "2021-12-01T09:40:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3618"
+}

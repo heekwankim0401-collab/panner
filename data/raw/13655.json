@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because the entire point of the feature is to improve the asset library itself.  \nThis requires foundational changes to Godot’s infrastructure and the introduction of a new system to support large, high-quality assets.  \nThis is a core ecosystem improvement that benefits all developers and cannot be reliably handled as a simple plugin.",
+    "format": "form",
+    "workaround": "No.  \nThis cannot be solved with a script because it requires:\n– a large curated asset database  \n– infrastructure for previewing/downloading assets  \n– UI integration inside the editor  \n– backend support for creators to upload/update assets  \nThese cannot be implemented with a few lines of script or a simple editor plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-18T14:46:40Z",
+  "comments": 3,
+  "createdAt": "2025-11-18T08:19:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:assetlib"
+  ],
+  "milestone": null,
+  "number": 13655,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expanded Asset Ecosystem for Godot 5.x",
+  "up": 0,
+  "updatedAt": "2025-11-18T14:59:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13655"
+}

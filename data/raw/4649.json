@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "For consistency in the API.",
+    "format": "form",
+    "workaround": "It can be worked around with the `ProjectSettings.has_setting()` and a conditional. But this is not consistent with other similar methods and I feel a fallback is a good option to have in the `get_setting` call."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-21T21:25:46Z",
+  "comments": 2,
+  "createdAt": "2022-06-09T20:15:04Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4649,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an optional `default` parameter to `ProjectSettings.get_setting()`",
+  "up": 13,
+  "updatedAt": "2022-12-21T21:26:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4649"
+}

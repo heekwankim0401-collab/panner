@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the import settings of Ogg Vorbis, part of resource importing, part of core (I think?).",
+    "format": "form",
+    "workaround": "It can be worked around by asking our audio designer to re-export all the music and audio in their DAW of choice."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-08-14T09:17:36Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12996,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 'quality' setting to Ogg Vorbis importer",
+  "up": 2,
+  "updatedAt": "2025-08-14T22:43:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12996"
+}

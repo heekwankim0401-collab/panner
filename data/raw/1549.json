@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I guess if the CSG geometry is regarded as a level prototyping tool, then the ability to export it as modelling reference seems to be pretty essential.",
+    "format": "legacy",
+    "workaround": "I have no idea. I've heard someone is making a DCC in Godot, so probably?"
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-22T14:32:46Z",
+  "comments": 2,
+  "createdAt": "2020-09-22T14:31:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1549,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Export CSG Geometry as Modelling Reference",
+  "up": 1,
+  "updatedAt": "2020-09-22T14:36:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1549"
+}

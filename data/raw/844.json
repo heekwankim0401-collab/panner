@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be implemented as an addon.",
+    "format": "legacy",
+    "workaround": "It will be used often and the current way makes this more complex to write and maintain."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-01T15:23:39Z",
+  "comments": 152,
+  "createdAt": "2020-05-15T18:10:38Z",
+  "down": 4,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 844,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Properties in GDScript",
+  "up": 102,
+  "updatedAt": "2021-11-30T23:17:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/844"
+}

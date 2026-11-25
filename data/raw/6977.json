@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It touches the native AnimatedSprite2D and the feature is analog to AnimationPlayer Reset on Save, already implemented in the engine.",
+    "format": "form",
+    "workaround": "If you're playing via script, you can `stop()` before `play()`.\n\nIf you're using AutoPlay, better click the Stop button or set frame to 0 directly in the inspector."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-05-29T16:10:53Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6977,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement Reset on Save (to first frame) for AnimatedSprite2D (similarly to AnimationPlayer)",
+  "up": 4,
+  "updatedAt": "2025-08-27T11:04:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6977"
+}

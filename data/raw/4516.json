@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It could be done with an addon but to me it is an inconsistency/ux problem of the editor. I believe that adding it to the editor will not bloat the editor itself, but will instead speed up workflow for VFX.\nIn the end this doesn't create new features but reworks existing ones to be more compact and consistent.",
+    "format": "form",
+    "workaround": "It can be worked around by either rotating the mesh in the shader or by making a quad in an external modeling software, it's just less convenient."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-25T05:38:31Z",
+  "comments": 21,
+  "createdAt": "2022-05-09T10:57:44Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4516,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Merge PlaneMesh and QuadMesh into a single primitive mesh",
+  "up": 13,
+  "updatedAt": "2022-09-08T20:51:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4516"
+}

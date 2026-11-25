@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot is going to be bundling SDL3 with itself, so it needs to be done by Godot.",
+    "format": "form",
+    "workaround": "No feasible way to work around this, unfortunately. Besides, this is a common problem when applying polish to games."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-17T16:11:27Z",
+  "comments": 3,
+  "createdAt": "2025-05-11T01:39:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 12407,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to get a gamepad's layout type",
+  "up": 5,
+  "updatedAt": "2025-05-17T16:11:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12407"
+}

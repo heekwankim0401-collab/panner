@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "All the size values should be unsigned int for better logical comparison",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-10-06T20:11:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1621,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "`int PoolVector<T>::size() const` should return `unsigned int`",
+  "up": 0,
+  "updatedAt": "2020-10-12T15:26:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1621"
+}

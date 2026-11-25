@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is done by the engine already for mobile, so I don't imagine why the Godot user would have to do it themselves.",
+    "format": "form",
+    "workaround": "It's not pratical to use a custom script solution because you'd have to apply your own swiping algorithm to a `ScrollContainer` subtype, from which various other scroll containers will inherit.\n\nBesides that, implementing a good swiping isn't easy. I believe the feature I'm talking about here is supported on mobile targets for example. But the question is, what about ARM (touch screen) laptops or tablets that run Windows that aren't treated as mobile?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-07-03T14:45:06Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 7194,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Swipe scroll on web or when emulating touch from mouse",
+  "up": 1,
+  "updatedAt": "2023-07-03T16:08:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7194"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 59,
+  "createdAt": "2026-04-13T05:29:14Z",
+  "down": 3,
+  "labels": [
+    "breaks compat",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "5.0",
+  "number": 14652,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Migrate GDScript to the GDExtension mechanism and overhaul the implementation",
+  "up": 96,
+  "updatedAt": "2026-08-08T02:37:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14652"
+}

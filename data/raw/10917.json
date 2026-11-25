@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Adding add-ons is cumbersome and this a feature that any potential add-ons working with TileMapLayer's could need or at least it would make life easier for them with just a couple lines of code.",
+    "format": "form",
+    "workaround": "I suspect this will not incur much of any penalty at all for those who don't use it."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-16T18:22:24Z",
+  "comments": 3,
+  "createdAt": "2024-10-06T17:40:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 10917,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Emit a signal for modified cells on TileMapLayer",
+  "up": 5,
+  "updatedAt": "2024-11-16T20:03:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10917"
+}

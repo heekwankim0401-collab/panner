@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This wouldn't work if added to the asset library because the gdscript source code would need to be edited (which I have already started doing).",
+    "format": "form",
+    "workaround": "There isn't currently isn't a work around to be able to do this in Godot 4.3.\nThis would be an enhancement because it would allow event systems and consoles to be built much easier."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-29T07:49:27Z",
+  "comments": 1,
+  "createdAt": "2024-08-29T05:32:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10586,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an `@override` annotation to GDScript",
+  "up": 0,
+  "updatedAt": "2024-08-29T07:55:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10586"
+}

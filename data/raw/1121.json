@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a common property of many 3d models with animation and any 3d game involving animated models may find this feature useful. Its behaviour and use is obvious enough not to introduce friction in the case where you don't have use for this feature. This feature would also be useful if you need to make small tweaks to the start/end of animations without having to edit files or go back to an artist to edit files for you.",
+    "format": "legacy",
+    "workaround": "I've found no way to work around this limitation beyond manually editing animations. I believe this enhancement would be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-06-26T13:17:49Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1121,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "AnimationNodeAnimation in AnimationTree should have configurable start and end times",
+  "up": 0,
+  "updatedAt": "2020-09-21T07:00:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1121"
+}

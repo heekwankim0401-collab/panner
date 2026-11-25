@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2026-11-19T03:46:34Z",
+  "down": 6,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15783,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Node2D/3D/Control parental type influence should propagate through descendant nodes of other types",
+  "up": 1,
+  "updatedAt": "2026-11-22T17:42:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15783"
+}

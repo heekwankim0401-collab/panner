@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It compliments the other math functions, it's a basic operation and there's probably an optimized form that can be implemented internally.",
+    "format": "form",
+    "workaround": "```\n# This is what I came up with in a minute, it seems to work but is obviously slow.\nfunc is_parallel(a: Vector3, b: Vector3):\n\tif a.is_zero_approx() or b.is_zero_approx(): # probably should account for this case\n\t\treturn false\n\treturn is_zero_approx(abs(a.normalized().dot(b.normalized())) - 1.0)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-22T09:52:24Z",
+  "comments": 4,
+  "createdAt": "2024-03-30T02:38:54Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9413,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `VectorN.is_parallel(VectorN)` method to check whether a vector is parallel to another",
+  "up": 4,
+  "updatedAt": "2024-04-22T09:52:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9413"
+}

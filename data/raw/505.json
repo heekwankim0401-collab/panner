@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I am not a godot developer, but maybe it's more efficient to work on it from the renderer directly instread of copying the frame multiple times between the modules until reaching the desired output. If the device allows it, the saved video stream can be done in resolutions higher that what the screen supports.",
+    "format": "legacy",
+    "workaround": "gscript exporting may results in huge usage in resources if exported frame by frame."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-23T21:37:49Z",
+  "comments": 9,
+  "createdAt": "2020-02-22T09:06:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 505,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Integrate video saving with GStreamer",
+  "up": 0,
+  "updatedAt": "2022-02-02T22:14:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/505"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires changes to core functionality",
+    "format": "form",
+    "workaround": "```\nif not node.is_in_tree():\n  node.set_parent(p)\nelse:\n  node.reparent(p)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-07-11T06:41:08Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10172,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow reparent to work without a parent",
+  "up": 1,
+  "updatedAt": "2024-07-11T14:15:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10172"
+}

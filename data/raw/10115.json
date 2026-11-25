@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "First-class type support is a fundamental feature that would benefit many developers using GDScript. Implementing it as a core feature would ensure consistency, better integration with the language's existing type system, and improved performance compared to an add-on. It would also foster best practices in OO programming within the Godot engine.",
+    "format": "form",
+    "workaround": "The current workaround involves manually defining type-related constants in each class, which is neither efficient nor scalable. While possible, this approach is far from ideal and can lead to code that is harder to maintain and extend."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-07-04T17:42:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10115,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add first-class Type support to GDScript",
+  "up": 49,
+  "updatedAt": "2026-03-23T18:24:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10115"
+}

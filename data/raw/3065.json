@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It needs to be included within the GodotPhysics",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-22T15:31:28Z",
+  "comments": 1,
+  "createdAt": "2021-07-31T03:30:24Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 3065,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement priority order of collision solving in `StaticBody`",
+  "up": 4,
+  "updatedAt": "2022-08-22T15:31:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3065"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It deals with how nodes relate and communicate with each-other, and depending on which of the above options was picked would require integration with all of Godot's scripting/programming systems, or with inter-node communication in the UI.",
+    "format": "form",
+    "workaround": "There is currently no way to do anything like this without tying the parent nodes to the child-component nodes through exports, as well as requiring the export chain to be set up manually through scripts every time, and updated if one of the child-components is changed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2024-04-16T21:24:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9536,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for exposing properties on parent nodes from child nodes (multiple alternative suggestions how it could be implemented)",
+  "up": 28,
+  "updatedAt": "2024-06-14T15:01:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9536"
+}

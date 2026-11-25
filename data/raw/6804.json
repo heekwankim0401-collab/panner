@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe it should be in core, because you can use the second code example to control for the platform. If threading is not really available or very limited on the target platform, then we can return a \"no-op\" variant that keeps things on the main thread if needed. It is bad for performance, but keeps the code working.\nI got that idea from this paper. We can use the api itself to shield the user from some of the possible implications, getting more room to move.\nhttps://google.github.io/flogger/anatomy\n\n\nIf we can do this on a low enough level, then we can avoid any possible performance regressions coming from building it in gdscript.",
+    "format": "form",
+    "workaround": "This roughly emulates what you need to do to achieve a \"foreach\" loop with multi threading.\n```gdscript\nvar tasks = []\n#start tasks in a for loop\nfor data in datas:\n\ttasks.append(WorkerThreadPool.add_task(func():\n\t\tmy_method(data.x,data.y,data.i)\n\t\tpass))\n#Wait for the processing to happen\nfor task in tasks:\n\tWorkerThreadPool.wait_for_task_completion(task)\n```\n\nSignificantly more verbose than giving a method one callable. I'm also concerned that this code that seems to be correct to me can also just crash outside the editor with no errors whatsoever.\n\nIf done right, then there is no reason to not use it in a very large number of cases. It will just process faster with basically no downsides."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-05-03T19:18:18Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6804,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add threaded array functions for parallel processing",
+  "up": 2,
+  "updatedAt": "2023-06-02T10:58:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6804"
+}

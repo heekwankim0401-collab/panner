@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "[No code generation issue](https://github.com/godotengine/godot/issues/41283) totally ruin experience for C# newcomers, it is a brick wall you cannot go through on very first steps in tutorial.",
+    "format": "form",
+    "workaround": "It should be part of Godot mono, because in most cases C# is used with external editor."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-20T11:28:34Z",
+  "comments": 8,
+  "createdAt": "2023-07-18T08:41:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7314,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Crutch for outside editor code generation issue",
+  "up": 0,
+  "updatedAt": "2024-03-04T16:25:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7314"
+}

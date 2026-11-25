@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Animation Library Editor is the core part of the engine and this proposal directly affects its UI.",
+    "format": "form",
+    "workaround": "This enhancement will be used every time the Animation Library Editor is used and there's no point working around it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-22T13:27:12Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8226,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improving the Animation Library Editor Workflow",
+  "up": 11,
+  "updatedAt": "2023-12-24T03:17:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8226"
+}

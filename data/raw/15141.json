@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-07-07T08:06:03Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15141,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve UI for mobile editor: popups should fullscreen on small screens",
+  "up": 5,
+  "updatedAt": "2026-07-24T15:46:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15141"
+}

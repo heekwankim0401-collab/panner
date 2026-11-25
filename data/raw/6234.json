@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's  a regression to 3.5.",
+    "format": "form",
+    "workaround": "Right now, I have split up my spritesheet into single 16x16 sprites and added them to the tileset. So the atlas coordinates are always Vector2i.ZERO and i can address the source_id by name.\n\nBut editing a spritesheet is a lot easier than editing single sprites."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-08T07:40:59Z",
+  "comments": 3,
+  "createdAt": "2023-02-04T10:26:26Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 6234,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Bring back find_tile_by_name in 4.x",
+  "up": 11,
+  "updatedAt": "2024-05-03T09:16:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6234"
+}

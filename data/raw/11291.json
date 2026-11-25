@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Finding in Folder is a common workflow available in every IDE on the planet. This is more missing core functionality than an addon's responsibility.",
+    "format": "form",
+    "workaround": "Open the scripting tab, ctrl+shift+f, open the folder selection popup, hunt for your folder."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-12-05T13:15:20Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11291,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 'Find in Folder' context menu entry in FileSystem",
+  "up": 4,
+  "updatedAt": "2024-12-05T13:43:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11291"
+}

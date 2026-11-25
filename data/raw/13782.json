@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is not something an addon can provide because it needs to be exposed on `Tree` and to the Scripting API.\n\n---\n\nPR for this is implemented: https://github.com/godotengine/godot/pull/113378",
+    "format": "form",
+    "workaround": "The only solution right now is to make the assumption that `Popup` is always the first child below `Tree`, but this is scene sniff behavior that can easily break across releases and does not provide any stable and reliable way to access the underlying `Popup`. Furthermore, other UI widgets expose the underlying `Popup` for various other reasons, so this change aligns with existing standards."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-12-03T19:10:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13782,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose the `Popup` instance used by the `Tree` component",
+  "up": 2,
+  "updatedAt": "2025-12-05T00:00:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13782"
+}

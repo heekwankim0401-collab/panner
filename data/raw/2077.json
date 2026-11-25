@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Its a very simple fix",
+    "format": "markdown",
+    "workaround": "It is possible to change the icon in macOS but as soon as Godot runs the icon is replaced with the default one."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-05T19:06:05Z",
+  "comments": 2,
+  "createdAt": "2021-01-05T18:21:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:macos",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2077,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "macOS Big Sur Icon ",
+  "up": 0,
+  "updatedAt": "2021-01-05T19:06:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2077"
+}

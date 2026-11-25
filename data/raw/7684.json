@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This will improve the C# experience for all new Unity users *wink, wink*",
+    "format": "form",
+    "workaround": "This can be worked around by simply observing the Debugger symbol, if red then you have C# exceptions and you need to switch windows to deal with them.\nThis is not a deal breaker by a longshot but it's definitely not convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-09-16T08:01:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7684,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Log C# exceptions to Output window",
+  "up": 5,
+  "updatedAt": "2023-10-16T16:47:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7684"
+}

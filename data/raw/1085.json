@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-19T07:44:24Z",
+  "comments": 4,
+  "createdAt": "2020-06-19T00:22:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1085,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to send body_entered type signals to Raycast nodes",
+  "up": 0,
+  "updatedAt": "2020-06-23T19:55:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1085"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Progam Language support - is a part of godot. We should change godot core.",
+    "format": "form",
+    "workaround": "I don't think so. In case when you want to add language you shoud change godot source and build it."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-16T22:44:35Z",
+  "comments": 6,
+  "createdAt": "2021-12-16T22:26:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 3680,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support of external godot modules using dll/so",
+  "up": 0,
+  "updatedAt": "2022-06-28T16:59:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3680"
+}

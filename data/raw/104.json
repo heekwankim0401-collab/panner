@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 33,
+  "createdAt": "2019-09-25T17:31:23Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 104,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Distinguish between the system that filters input and the data structure that contains input state",
+  "up": 21,
+  "updatedAt": "2026-02-14T06:54:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/104"
+}

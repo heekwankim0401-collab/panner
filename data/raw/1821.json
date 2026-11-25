@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "could be an addon",
+    "format": "legacy",
+    "workaround": "I don't know"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-11-12T11:45:59Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1821,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Alembic support for mesh cache import",
+  "up": 12,
+  "updatedAt": "2025-11-23T15:43:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1821"
+}

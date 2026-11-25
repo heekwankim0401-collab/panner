@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There are addons that somewhat help with this issue. such as this one https://github.com/Danim3D/Godot-4-Plugin-Project-Resolution\n\nBut it doesn't resolve the issue of the UI not updating until you've refreshed the view by changing it and it also changes the project resolution when using it.\n\nI also think this is functionality that should be built into the editor, Godot is used for a lot of different devices with different resolutions and orientations, being able to test that should be built in.",
+    "format": "form",
+    "workaround": "This would be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-12-16T13:21:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11362,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add better tooling for building UIs and testing multiple resolutions",
+  "up": 10,
+  "updatedAt": "2026-10-09T19:33:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11362"
+}

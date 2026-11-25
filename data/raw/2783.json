@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core related and is a common problem.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-30T11:31:54Z",
+  "comments": 6,
+  "createdAt": "2021-05-26T20:16:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2783,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Separate `text` and `tr_text` properties to control auto-translation",
+  "up": 0,
+  "updatedAt": "2021-07-30T11:31:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2783"
+}

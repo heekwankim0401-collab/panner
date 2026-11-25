@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core facet of a core class.",
+    "format": "form",
+    "workaround": "The issue *can* somewhat be worked around, by \"searching\" for tracks via plausible nodepaths and track types. But it's not really suitable if you don't know what you're looking for."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-01T19:44:16Z",
+  "comments": 1,
+  "createdAt": "2025-08-24T21:31:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 13061,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add introspection for Animation names and track types",
+  "up": 1,
+  "updatedAt": "2026-03-02T17:58:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13061"
+}

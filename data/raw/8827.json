@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A small enhancement to a pre-existing node does not merit an add-on.",
+    "format": "form",
+    "workaround": "No. For this functionality to work the Label and RichTextLabel (and maybe the TextServer class itself) have to be modified, as the signal needs to come directly from them."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-01-07T20:00:06Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8827,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add autowrap line break detection functionality to labels",
+  "up": 9,
+  "updatedAt": "2026-09-28T18:21:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8827"
+}

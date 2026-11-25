@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's an essential requirement. 2D scaling is not the solution. this is. while it's harder to implement it is the real solution.\n\nIn mobile applications languages like kotlin provide things like \"dp\" to solve this problem.",
+    "format": "form",
+    "workaround": "no. i usually end up setting up a whole system just to start developing ui for a project."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-11-12T09:12:56Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8404,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a built-in UI scaling solution",
+  "up": 9,
+  "updatedAt": "2023-11-15T12:40:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8404"
+}

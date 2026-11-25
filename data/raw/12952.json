@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is something that should work out of the box. iOS has limitations without the File picker.",
+    "format": "form",
+    "workaround": "No. It needs to be hard coded into Godot. I tried building a plugin and failed multiple times.."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-06T16:35:49Z",
+  "comments": 1,
+  "createdAt": "2025-08-06T16:09:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12952,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "FileDialog support for iOS. Native iOS File Picker.",
+  "up": 0,
+  "updatedAt": "2025-08-06T16:35:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12952"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, because this is heavily related to NodePath and NodePath is a part of core. The ability to manipulate NodePaths to get other NodePaths seems like a very core feature that NodePath should have.",
+    "format": "form",
+    "workaround": "It can be worked around but not in a few lines and extremely inefficiently.\n\nI don't know how often this will be used. I suspect that this will not be used often, but I have no idea."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-29T12:56:36Z",
+  "comments": 14,
+  "createdAt": "2023-06-24T06:41:19Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 7148,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `get_partial_path` method to NodePath",
+  "up": 1,
+  "updatedAt": "2024-02-29T13:00:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7148"
+}

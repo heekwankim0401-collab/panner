@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "NavigationPolygon baking is part of core.",
+    "format": "form",
+    "workaround": "Without the proposed functionality, the issues of close by vertexes can be worked around manually by finding closely vertexes and adjusting the surrounding collisions that the nav region used to generate the nav region mesh. Below tool script helped us find the close by vertexes.\n\n<details>\n\n<summary>Tool script to locate close by vertexes and center them in the scene view</summary>\n\n```\n@tool\nclass_name NavRegion\nextends NavigationRegion2D\n\n# if you cannot find the bad polygon, increase _dist and try again!\nconst _dist: float = 0.7\nconst _dist_sqr: float = pow(_dist, 2)\nvar _center_pair: int = 0\n\n@export_tool_button(\"Locate Suspicious Map Vertices\") var lme: Callable = locate_map_errors\nfunc locate_map_errors() -> void:\n\tvar count: int = 0\n\tvar vertices: PackedVector2Array = navigation_polygon.get_vertices()\n\tvar suspicious: Array[Vector2] = []\n\tfor i: int in range(vertices.size() - 1, -1, -1):\n\t\tfor v: int in range(vertices.size() - 2, -1, -1):\n\t\t\tif vertices[i].distance_squared_to(vertices[v]) < _dist_sqr:\n\t\t\t\tsuspicious.append(vertices[i])\n\t\t\t\tcount += 1\n\t\tvertices.remove_at(i)\n\t\n\tprint(\"\\n\\nSuspicious vertices at:\")\n\tfor s: Vector2 in suspicious:\n\t\tprint(s)\n\t\n\tif count == 0:\n\t\tprint(\"Didn't find any closeby vertexes.\")\n\t\n\tif count > 0:\n\t\t_center_pair = (_center_pair + 1) % count\n\t\t_center_editor_view_to_point(suspicious[_center_pair])\n\n\nfunc _center_editor_view_to_point(pos: Vector2, zoom: float = 100.0) -> void:\n\tif not Engine.is_editor_hint():\n\t\treturn\n\t\n\t# this whole function is gross because:\n\t# 1. we're avoiding referencing EditorInterface from release builds as it leads to compile errors.\n\t# 2. we're calling internal / unexposed functions to EditorZoomWidget.\n\t\n\t@warning_ignore(\"untyped_declaration\")\n\tvar editor_interface = Engine.get_singleton(&\"EditorInterface\")\n\t\n\t@warning_ignore(\"unsafe_cast\")\n\tvar editor_control: Control = editor_interface.call(&\"get_base_control\") as Control\n\tvar editor_viewport: Control = editor_control.find_child(\"@CanvasItemEdito"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-27T12:55:43Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 13487,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 'merge close by vertexes' to navigation polygon baking",
+  "up": 10,
+  "updatedAt": "2025-10-27T13:21:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13487"
+}

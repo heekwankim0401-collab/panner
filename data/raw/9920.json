@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Visual Shader Editor isn't exposed so it can't be made as a plugin.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-06-07T19:20:46Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9920,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add parameter list to Visual Shader Editor",
+  "up": 15,
+  "updatedAt": "2024-06-08T09:35:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9920"
+}

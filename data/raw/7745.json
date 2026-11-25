@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This needs to be deeply integrated into the VisualShader editor and is therefore core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 1,
+  "closedAt": "2024-02-22T22:37:12Z",
+  "comments": 1,
+  "createdAt": "2023-09-19T12:24:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.3",
+  "number": 7745,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Color VisualShader nodes by category",
+  "up": 15,
+  "updatedAt": "2024-02-22T22:37:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7745"
+}

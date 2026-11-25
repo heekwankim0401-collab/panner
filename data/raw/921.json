@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it would replace the current `change_scene/to` methods.",
+    "format": "legacy",
+    "workaround": "Well, it can be worked around quite easily:\n```\nvar menu = preload(\"res://Menu.tscn\").instance()\nmenu.game = self\nget_node(\"/root\").add_child(menu)\nget_tree().current_scene = menu \nget_node(\"/root\").remove_child(self)\n```\nBut this code is not obvious to figure out for beginners in case they want to do either 1) or 2). Also this isn't really rarely used IMO."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-22T18:49:53Z",
+  "comments": 5,
+  "createdAt": "2020-05-27T13:21:03Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.6",
+  "number": 921,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rework the way of changing current scene",
+  "up": 12,
+  "updatedAt": "2025-10-22T18:49:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/921"
+}

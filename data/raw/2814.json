@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Stepping through code is a fundamental engine concept.",
+    "format": "markdown",
+    "workaround": "It will be used often, and can't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-06-03T00:19:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "3.x",
+  "number": 2814,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Skip lines containing only comments in debugger breakpoints in 3.x",
+  "up": 0,
+  "updatedAt": "2021-06-03T00:27:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2814"
+}

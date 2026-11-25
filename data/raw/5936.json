@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "absolutely, this will make input remapping easier to implement",
+    "format": "form",
+    "workaround": "so far, i dont find any works around this"
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-16T03:58:01Z",
+  "comments": 1,
+  "createdAt": "2022-12-14T11:11:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 5936,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to change InputMap using string or integer",
+  "up": 2,
+  "updatedAt": "2022-12-16T16:21:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5936"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be a simple enough addition to core.",
+    "format": "form",
+    "workaround": "Definitely, but this would be more convenient for the majority of users."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-09-28T08:51:05Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5504,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a rounding type parameter to `stepify()`",
+  "up": 4,
+  "updatedAt": "2022-09-28T19:47:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5504"
+}

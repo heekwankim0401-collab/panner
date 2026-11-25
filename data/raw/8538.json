@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "the API to achieve this feature are not exposed",
+    "format": "form",
+    "workaround": "no, the API to achieve this feature are not exposed"
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-30T14:14:31Z",
+  "comments": 1,
+  "createdAt": "2023-11-28T17:33:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.2",
+  "number": 8538,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for foldable comment blocks",
+  "up": 13,
+  "updatedAt": "2023-11-30T14:14:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8538"
+}

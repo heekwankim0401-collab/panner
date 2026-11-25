@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would make using gltf models easier out of the box rather than having to search for/create a separate program/script to do it or even just manually do it for every single model.",
+    "format": "form",
+    "workaround": "It could be an editor plugin or a bash script that searches all or some directories and externally modifies the variable of any materials found alongside gltf files."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-10-12T05:03:25Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5576,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for 3D scene material vertex color to be imported as sRGB by default using import settings",
+  "up": 2,
+  "updatedAt": "2022-10-15T01:24:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5576"
+}

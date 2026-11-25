@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- On the missing methods because they are important to have. They were not implemented.\n- On the nice to see methods because i think its more natural to work with when searching for keys. Working with keys. Writing algorithms for Animation key setting and getting via code.\n\n### _Here are the implementations_\n_(its more copy pasted (similar to the already existing ones for value_track / method_track) - methods were testet on Godot 3.2:_\n\n```\nvoid Animation::_audio_track_get_key_indices_in_range(const AudioTrack *at, float from_time, float to_time, List<int> *p_indices) const {\n\tif (from_time != length && to_time == length)\n\t\tto_time = length * 1.001; //include a little more if at the end\n\n\tint to = _find(at->values, to_time);\n\n\tif (to >= 0 && from_time == to_time && at->values[to].time == from_time) {\n\t\t//find exact (0 delta), return if found\n\t\tp_indices->push_back(to);\n\t\treturn;\n\t}\n\t// can't really send the events == time, will be sent in the next frame.\n\t// if event>=len then it will probably never be requested by the anim player.\n\n\tif (to >= 0 && at->values[to].time >= to_time)\n\t\tto--;\n\n\tif (to < 0)\n\t\treturn; // not bother\n\n\tint from = _find(at->values, from_time);\n\n\t// position in the right first event.+\n\tif (from < 0 || at->values[from].time < from_time)\n\t\tfrom++;\n\n\tint max = at->values.size();\n\n\tfor (int i = from; i <= to; i++) {\n\t\tERR_CONTINUE(i < 0 || i >= max); // shouldn't happen\n\t\tp_indices->push_back(i);\n\t}\n}\n```\n```\nvoid Animation::audio_track_get_key_indices(int p_track, float p_time, float p_delta, List<int> *p_indices) const {\n\tERR_FAIL_INDEX(p_track, tracks.size());\n\tTrack *t = tracks[p_track];\n\tERR_FAIL_COND(t->type != TYPE_AUDIO);\n\n\tAudioTrack *at = static_cast<AudioTrack *>(t);\n\n\tfloat from_time = p_time - p_delta;\n\tfloat to_time = p_time;\n\n\tif (from_time > to_time)\n\t\tSWAP(from_time, to_time);\n\n\tif (loop) {\n\t\tfrom_time = Math::fposmod(from_time, length);\n\t\tto_time = Math::fposmod(to_time, length);\n\n\t\tif (from_time > to_time) {\n\t\t\t// handle loop by",
+    "format": "legacy",
+    "workaround": "- On the missing methods is no work around! Thats the problem. _**(They were forgotten!)**_\n- On the nice to see methods there is a way to use the `track_find_key` method."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-08-15T19:42:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1372,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more methods to fill in the gaps and more helper methods in the Animation class",
+  "up": 1,
+  "updatedAt": "2020-08-16T00:52:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1372"
+}

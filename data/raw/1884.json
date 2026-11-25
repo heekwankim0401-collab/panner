@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "legacy",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-11-24T03:42:46Z",
+  "down": 1,
+  "labels": [
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": "4.x",
+  "number": 1884,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow editing AudioStreamPlayer and audio bus volumes in linear percentages instead of decibels",
+  "up": 24,
+  "updatedAt": "2025-04-03T00:48:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1884"
+}

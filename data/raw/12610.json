@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Volumetric fog is a part of core rendering functionality.",
+    "format": "form",
+    "workaround": "I thing lowering fog density and lowed detail spread somewhat mitigates the issue but the result is still not quite like I'd like it to be (e.g. editor camera now sees things very clearly compared to the in-game camera preview). This also does not resolve volumetric fog between the camera and the near plane not reacting to fog volumes (which is understandable with how it currently works but undesirable)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-06-15T11:30:11Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12610,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Do not render volumetric fog between the camera and the near plane",
+  "up": 0,
+  "updatedAt": "2025-06-16T19:39:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12610"
+}

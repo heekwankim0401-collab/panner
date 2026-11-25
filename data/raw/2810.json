@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this should be the default or at least a option built-in.\nAlso, the issue #499 is similar in some ways. If that should be implemented by the editor but not an add-on, so is this.",
+    "format": "markdown",
+    "workaround": "It will be frequently used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-06-02T06:41:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2810,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the remote inspector remember property folding state across breakpoints",
+  "up": 1,
+  "updatedAt": "2021-06-02T16:25:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2810"
+}

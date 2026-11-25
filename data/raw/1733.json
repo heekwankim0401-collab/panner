@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It could be hard to implement as an Addon. There would be less support and 3rd party tutorials would exist in very low quantity or they wouldn't exist",
+    "format": "legacy",
+    "workaround": "Have the old Visual Script as an option."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-29T09:57:31Z",
+  "comments": 3,
+  "createdAt": "2020-10-27T04:58:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 1733,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Visual Scripting needs a Overhaul",
+  "up": 1,
+  "updatedAt": "2020-10-29T14:08:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1733"
+}

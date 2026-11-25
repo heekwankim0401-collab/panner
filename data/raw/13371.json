@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This proposal is about improving the core editor experience. If we want to continue to grow the Godot user-base we cannot always depend on add-ons from the asset library. This proposal is common functionality in many IDEs and therefore should be a core feature of the Godot script editor.",
+    "format": "form",
+    "workaround": "Similar functionality could be added in with a plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-10-12T13:43:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13371,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically create stub methods for inherited abstract methods",
+  "up": 19,
+  "updatedAt": "2026-02-23T19:50:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13371"
+}

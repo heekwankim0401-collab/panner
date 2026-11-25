@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it allows us to transform the bounding box without too much overhead",
+    "format": "legacy",
+    "workaround": "it might be able to be worked around by implementing areas but this requires that node is present and it would be nice to be able to check collision without creating area or physics nodes"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-09-18T03:57:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1529,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to rotate Rect2 and AABB (Rect3)",
+  "up": 5,
+  "updatedAt": "2024-04-26T01:16:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1529"
+}

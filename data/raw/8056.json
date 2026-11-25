@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it improves a built-in tool.",
+    "format": "form",
+    "workaround": "Generating and skinning the mesh manually via code is nontrivial, and having to generate the mesh in blender to get good looking textures defeats the purpose of having the ribbon mesh at all."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-10T11:38:54Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8056,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add longitudinal segments to ribbon trail mesh",
+  "up": 3,
+  "updatedAt": "2023-10-10T15:19:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8056"
+}

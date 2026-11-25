@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It may be able to be an addon, but it could improve the core workflow, and remove the need for built-in scripts eventually.",
+    "format": "form",
+    "workaround": "The built in script feature is an alternative method that works, but building this would at least take an addon."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2026-01-27T16:54:59Z",
+  "down": 4,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14081,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Hide scripts that share a scene/resource's name and show script icon on script/resource",
+  "up": 3,
+  "updatedAt": "2026-01-28T22:13:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14081"
+}

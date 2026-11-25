@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDExtension now cannot achieve this without this proposal.",
+    "format": "form",
+    "workaround": "[this code](https://github.com/funatsufumiya/godot_finder/blob/64b2e5a/src/finder.cpp#L27) partially emulates the behavior of `is_instance_of`, but not perfect.\n\nGDExtension now cannot achieve the perfect behavior of `is_instance_of` without this proposal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-08-21T12:05:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10514,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "`is_instance_of` function should be accessible from godot-cpp, not only from gdscript",
+  "up": 0,
+  "updatedAt": "2024-12-16T06:45:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10514"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is related to the core of the editor and would be very hard to implement via an asset library/addons",
+    "format": "form",
+    "workaround": "I don't think so. Since this requires editing almost a very core part of the editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-04-17T16:35:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6713,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow displaying 2D and 3D main screens at the same time in split view",
+  "up": 9,
+  "updatedAt": "2024-12-21T16:49:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6713"
+}

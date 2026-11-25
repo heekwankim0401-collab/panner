@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Ability to set up game objects in the editor and immediately seeing what is the result of your changes without the need to start the game is a very important QOL feature. \nAt the same time, using `@tool` like was suggested to me on the Discord server seems like an unsafe hack around the problem with function intended for other purpose rather than a proper solution, since you need to take additional steps to ensure that your game code and editor code wouldn't be executed _together_ (adding largely unnecessary `if ` checks to everything, etc). Having a separate function would've made things _A LOT_ easier and straightforward.",
+    "format": "form",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-20T17:35:21Z",
+  "comments": 1,
+  "createdAt": "2023-09-20T16:22:00Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7766,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a dedicated function that runs in editor for every script without the need to declare the entire script as `@tool`.",
+  "up": 0,
+  "updatedAt": "2023-09-20T17:36:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7766"
+}

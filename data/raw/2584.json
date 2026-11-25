@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As the existing tooltip system is already part of core, I think extending it directly makes most sense.",
+    "format": "markdown",
+    "workaround": "Anyone who wants to give additional explanation to GUI options will consider making use of this feature. The alternative would be to implement your own tooltip system that also works with keyboard and gamepad navigation, but that would certainly require more than a few lines, and it would be a rather poor experience to have to implement something that the engine technically already provides."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-04-10T17:41:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2584,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for triggering GUI tooltips on focus",
+  "up": 16,
+  "updatedAt": "2026-01-16T08:30:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2584"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is code in the engine.",
+    "format": "form",
+    "workaround": "N/A, this is code organization."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-01T16:08:59Z",
+  "comments": 2,
+  "createdAt": "2022-04-16T06:48:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4408,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Reduce code duplication in the core engine by using macros for repeated code snippets",
+  "up": 6,
+  "updatedAt": "2022-09-01T16:09:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4408"
+}

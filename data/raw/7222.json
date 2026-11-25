@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "see above",
+    "format": "form",
+    "workaround": "Yes, it can be worked around, but the ux is meh"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-07-06T21:51:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:particles",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.x",
+  "number": 7222,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add discrete interpolation to curves",
+  "up": 4,
+  "updatedAt": "2023-07-07T17:23:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7222"
+}

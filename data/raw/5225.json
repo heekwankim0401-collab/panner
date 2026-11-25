@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "**Texture2D** is a core features.",
+    "format": "form",
+    "workaround": "They're definitely not a few lines of scripts and require some extra engineering."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-08-21T22:14:18Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5225,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Reintroduce Texture2D's texture_filter on import, add TEXTURE_FILTER_IMPORT",
+  "up": 6,
+  "updatedAt": "2025-03-12T05:00:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5225"
+}

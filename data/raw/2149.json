@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core editor functionality.",
+    "format": "markdown",
+    "workaround": "Yes (see above), but it's not particularly clean or user-friendly. A checkbox isn't an one-state button :slightly_smiling_face:"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-28T22:49:59Z",
+  "comments": 18,
+  "createdAt": "2021-01-19T14:37:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 2149,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to export clickable actions to the inspector",
+  "up": 90,
+  "updatedAt": "2024-10-13T06:59:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2149"
+}

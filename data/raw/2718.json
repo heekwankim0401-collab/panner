@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, because this is a GDScript warning.",
+    "format": "markdown",
+    "workaround": "Yes, you can avoid making mistakes and use a setter or change a property value directly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-05-13T21:02:14Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2718,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Emit a warning when modifying a primitive return value from a getter function in GDScript",
+  "up": 0,
+  "updatedAt": "2021-05-15T23:10:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2718"
+}

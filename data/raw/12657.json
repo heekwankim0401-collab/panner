@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, this should be core functionality because:\n- It's a fundamental debugging workflow improvement\n- It requires deep integration with the debugger's internal systems\n- It enhances the built-in debugging tools that all developers use\n- Similar functionality is standard in most modern IDEs and debugging tools\n\nThis enhancement would significantly improve the debugging experience and align Godot's tools with industry standards for development environments.",
+    "format": "form",
+    "workaround": "This cannot be easily worked around with scripting as it requires:\n- Direct access to the debugger's internal stack trace data\n- Integration with the IDE's clipboard functionality\n- Modification of the built-in debugger UI components\n\nThe feature would be used frequently by developers who:\n- Work in teams and need to share debugging information\n- Document complex call stacks for bug reports\n- Integrate Godot debugging with external tools or documentation systems"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-24T14:59:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12657,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add multi-selection and copy functionality to Stack Trace panel",
+  "up": 6,
+  "updatedAt": "2025-06-24T22:25:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12657"
+}

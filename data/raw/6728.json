@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Usability should be builtin.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-10T21:58:12Z",
+  "comments": 1,
+  "createdAt": "2023-04-20T20:27:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.5",
+  "number": 6728,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't autocomplete parenthesis inside of `signal.connect`.",
+  "up": 26,
+  "updatedAt": "2025-04-10T22:00:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6728"
+}

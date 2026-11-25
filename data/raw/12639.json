@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It allows GDScript users to align with the vision for the future of the language whilst minimizing the suffering of people with varying levels of OCD.",
+    "format": "form",
+    "workaround": "This can be worked around by modifying the engine source code and compiling your own custom version, but it is not particularly convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-06-20T15:46:05Z",
+  "down": 3,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12639,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `@static` annotation to GDScript",
+  "up": 8,
+  "updatedAt": "2026-07-27T04:54:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12639"
+}

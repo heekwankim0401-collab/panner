@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a change to the editor.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-22T23:30:13Z",
+  "comments": 6,
+  "createdAt": "2021-06-20T08:32:07Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.0",
+  "number": 2892,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move Android Clear Previous Install setting from Export to Editor Settings",
+  "up": 1,
+  "updatedAt": "2021-08-22T23:43:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2892"
+}

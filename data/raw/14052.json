@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I am not sure that there is a way for an add-on to trigger this behavior.",
+    "format": "form",
+    "workaround": "I don't think the editor quick open component exposes a way that a script could do this."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-26T15:10:39Z",
+  "comments": 5,
+  "createdAt": "2026-01-23T05:34:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 14052,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Quick open dialog: cycle through recently opened files via repeated quick open shortcut press",
+  "up": 0,
+  "updatedAt": "2026-03-26T15:10:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14052"
+}

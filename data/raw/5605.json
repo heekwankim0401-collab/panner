@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Skeletal animations are a core feature and dynamic bones are closely linked to how the skeletal system is done. So to my mind it would make sense to have this feature in core.\nOcarina of Time had cloth physics in 1998 https://www.youtube.com/watch?v=CQBRZ8xUomE.\nBasically any 3D game that shoots for more realism than early 2000s-level will need something like this - be it for hair, cloth breasts, ropes of tails. So having this feature in core would make it possible for a huge group of developers to develop a previously impossible range of games.\n\nOn a personal note: I don't ever want to go back to unity, but someone coming from unity and being used to this feature will have a tough time coming over to Godot. Making this easy for them would greatly extend the value of Godot.",
+    "format": "form",
+    "workaround": "No. Any solution requires a lot of performance intensive physics code that interacts with Godots bone system."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-13T23:22:40Z",
+  "comments": 2,
+  "createdAt": "2022-10-17T10:41:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation",
+    "topic:physics"
+  ],
+  "milestone": "4.4",
+  "number": 5605,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable jiggly bone chains that work with colliders by using existing work in Godot-VRM",
+  "up": 3,
+  "updatedAt": "2025-01-13T23:23:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5605"
+}

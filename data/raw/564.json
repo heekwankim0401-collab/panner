@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This could be such a broadly used feature. And very convenient for most cases when working with lightning.",
+    "format": "legacy",
+    "workaround": "There is currently no way that this could be recreated in a simple manor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-03-06T22:54:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 564,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to convert a CollisionShape2D's visual representation to an OccluderPolygon2D",
+  "up": 1,
+  "updatedAt": "2020-11-22T16:40:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/564"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The `Variant::get_type_by_name()` function is not exposed in any way.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-10T15:38:33Z",
+  "comments": 4,
+  "createdAt": "2025-11-14T13:07:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdextension",
+    "topic:gdscript"
+  ],
+  "milestone": "4.7",
+  "number": 13633,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose the `Variant::get_type_by_name()` function to GDScript and GDExtensions",
+  "up": 3,
+  "updatedAt": "2026-04-10T15:40:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13633"
+}

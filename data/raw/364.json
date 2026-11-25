@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is basic feature. Definitely should be in core.\n\n\n\nI can implement it myself no problem. The thing is I have no idea how to create bindings for it. So if someone would help me with those (help, not make them without me as I would like to be able to do it in the future myself) then it would be really quick.",
+    "format": "legacy",
+    "workaround": "Not really, I mean it might be a few lines, but as it would be used very often I believe it should be implemented as those lines are not \"that\" easy to implement right off the bat."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2020-01-08T08:23:30Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 364,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `rotate_and_collide/slide` method to KinematicBody",
+  "up": 59,
+  "updatedAt": "2025-12-25T18:07:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/364"
+}

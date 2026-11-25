@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it works simillar to `FuncRef`, which is a core feature, so I don't see a reason to not have `VarRef` too.",
+    "format": "form",
+    "workaround": "It requires the creation of a class that stores the instance reference and the variable name and implement the functions needed."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T14:13:08Z",
+  "comments": 6,
+  "createdAt": "2021-11-04T15:12:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3497,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `varref` function to referencing a variable in a instance",
+  "up": 2,
+  "updatedAt": "2026-07-28T14:13:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3497"
+}

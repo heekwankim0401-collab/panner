@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it could be a plugin but I'm afraid it would be a hacky one, and this won't work correctly in some cases\nfor example it is obvious that the implementation of this feature as a plugin will require the user to have this plugin active in every project where the user wants to use this feature. And this may be inconvenient",
+    "format": "legacy",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-02T23:59:41Z",
+  "comments": 18,
+  "createdAt": "2020-09-09T01:01:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 1480,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to override any editor setting for any project",
+  "up": 22,
+  "updatedAt": "2025-06-03T00:04:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1480"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's already in other game engine  and was pretty usefull and could be a good default workflow for 3D in godot",
+    "format": "legacy",
+    "workaround": "I'm pretty sure it could be made as an addon but i'm not sure it could overload the current Colision Shape behavior and also the Visible Collision Shape at runtime."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-30T08:14:48Z",
+  "comments": 2,
+  "createdAt": "2020-06-30T01:45:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1143,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Visible faces with custom color/texture for CollisionShape",
+  "up": 8,
+  "updatedAt": "2020-06-30T08:16:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1143"
+}

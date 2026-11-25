@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There is actually an add-on for this! [Globalize Plugins](https://godotengine.org/asset-library/asset/2681) by dugramen implements a system for globally-loaded editor plugins. However, *it is still itself a local plugin*, requiring you to set it up again for every new project and keep it in your version management. I believe this is insufficient, and a proper global solution is still necessary.",
+    "format": "form",
+    "workaround": "I think this *would* be used pretty often! Plugin Refresher isn't the only editor plugin that would benefit from being global. Others include:\n- [vim-motion](https://godotengine.org/asset-library/asset/3127) by wovrik - Vim keybindings are a personal decision, and adding it to a project would force them onto all collaborators due to the aforementioned `plugin.godot` problem.\n- [Local asset browser](https://github.com/Kaifungamedev/godot_local_assets_browser) by kaifungamedev - the same GPLv3 problem as Plugin Refresher; the code shouldn't have to be included in VCS where it could violate the GPL license.\n- [Quick layout changer](https://godotengine.org/asset-library/asset/3133) by mathrick - this only affects the editor and shouldn't need to be bundled with the final compiled game."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-08T21:37:03Z",
+  "comments": 2,
+  "createdAt": "2024-07-08T21:31:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10156,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for external/global editor plugins",
+  "up": 0,
+  "updatedAt": "2024-07-08T23:40:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10156"
+}

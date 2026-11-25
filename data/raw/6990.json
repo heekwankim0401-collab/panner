@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should be a core feature, as the maintainers of Godot Engine have the expertise and knowledge of the codebase to efficiently adapt it for the iPad.",
+    "format": "form",
+    "workaround": "No, this enhancement requires significant changes to the existing codebase to properly support the iPad and cannot be worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-05-31T11:38:20Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6990,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Build a Single-Instance Editor for the Apple iPad",
+  "up": 0,
+  "updatedAt": "2023-05-31T17:37:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6990"
+}

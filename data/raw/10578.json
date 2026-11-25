@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because the feature already exists Follow System Theme but it works so poorly I doubt anyone is using it.",
+    "format": "form",
+    "workaround": "Users can manually change the editor color theme. A tool script might be difficult because it would need to read the system theme."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-08-27T18:24:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10578,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add editor settings to choose which theme presets are used when using Follow System Theme",
+  "up": 7,
+  "updatedAt": "2026-08-07T12:00:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10578"
+}

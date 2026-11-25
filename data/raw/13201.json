@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It has to do with core engine functionalities",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-09-17T18:46:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13201,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make built-in Godot functions return typed arrays instead of untyped arrays where possible",
+  "up": 7,
+  "updatedAt": "2025-09-18T13:18:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13201"
+}

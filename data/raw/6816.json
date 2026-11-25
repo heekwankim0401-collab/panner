@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Doesn't make sense to not make it core- seems like something that should have already been a part of animation tree. Who doesn't need to do a simple operation like filtering out certain nodes without introducing other operations like blend, add or One Shot?",
+    "format": "form",
+    "workaround": "Oh, it'll be used often, I'm certain. Nothing else besides of the One Shot node workaround can allow you to do this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-05-06T04:17:25Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6816,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add FilterNode to AnimationTree to isolate bone animations without any other operations",
+  "up": 17,
+  "updatedAt": "2024-08-04T14:23:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6816"
+}

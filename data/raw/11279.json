@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It depends on core functionality that does not exist.",
+    "format": "form",
+    "workaround": "This cannot be worked around in code, since there is no way to check the number of arguments that a signal is providing at runtime."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-12-02T22:01:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11279,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to create signal connections that pass arguments as arrays",
+  "up": 0,
+  "updatedAt": "2025-11-12T20:27:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11279"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because need fixes in rendering of godot engine  (Saiflish dont support rotation of clients EGL context, client should dot this by himself )",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-01T20:58:29Z",
+  "comments": 3,
+  "createdAt": "2020-05-27T05:41:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 914,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement SailfishOS support",
+  "up": 6,
+  "updatedAt": "2024-11-05T08:37:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/914"
+}

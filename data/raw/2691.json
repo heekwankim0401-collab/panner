@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As a core feature, not only could it integrate with the main engine and have proper tools in the editor, but developers could rest assured that their local storage solution wouldn't suddenly be discontinued, or have a high risk of corruption/breaking.",
+    "format": "markdown",
+    "workaround": "Technically it could, yes. However, there would be benefits to having it baked into the main engine that I think would outweigh this."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-06T14:25:33Z",
+  "comments": 7,
+  "createdAt": "2021-05-06T13:40:12Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2691,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Provide a built-in database",
+  "up": 3,
+  "updatedAt": "2025-11-12T20:17:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2691"
+}

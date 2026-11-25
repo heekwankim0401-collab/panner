@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes. It`s a necessary feature, i presume.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-19T09:47:11Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11188,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a LOD bias setting for each automatic mesh LOD level",
+  "up": 0,
+  "updatedAt": "2024-11-19T14:23:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11188"
+}

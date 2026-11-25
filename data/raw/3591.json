@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is possible to create a C# coded plug-in but requires using the Mono editor version.",
+    "format": "form",
+    "workaround": "It cannot be done with GDScript. It can be done using C# but requires using the Mono editor version."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-11-24T13:16:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3591,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability for exclusive file open",
+  "up": 0,
+  "updatedAt": "2021-11-25T10:54:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3591"
+}

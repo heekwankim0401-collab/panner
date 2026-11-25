@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Shadow map rendering is core engine functionality. It can't be overridden by an add-on.\n\n*Keywords for easier searching: shadowmap, shadowmapping*",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-06-12T17:01:44Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4661,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement DPCF-like contact hardening to reduce acne and improve shadow rendering quality",
+  "up": 11,
+  "updatedAt": "2026-02-03T16:39:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4661"
+}

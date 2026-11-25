@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As mentioned earlier, while this can be technically achieved through custom plugins or export templates, it would be better to update in the core of Godot. This would eliminate the need for additional setup or knowledge of Android development for users.",
+    "format": "form",
+    "workaround": "This feature could technically be worked around by creating an Android plugin to use custom dialog or by building a custom export template. However, both approaches require a good understanding of Android development, which may be too much for users who aren't familiar with Android-specific tools and setup."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-12T15:36:15Z",
+  "comments": 7,
+  "createdAt": "2024-11-02T17:59:54Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.4",
+  "number": 11071,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Update Android Dialog Theme",
+  "up": 2,
+  "updatedAt": "2024-11-12T15:36:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11071"
+}

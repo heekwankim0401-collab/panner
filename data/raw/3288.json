@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Well, don't know, it's small change, and every user could set an auto-default environment, for instance for stylized games, or so . . . . <3",
+    "format": "form",
+    "workaround": "I can't re-code the engine, just want to say, over-all improvements to Godot 4, makes it wow, world - class engine, just amazing, thx ! !"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-09-12T09:41:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3288,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to use a globally stored default_env.tres, not only in res:// path . . .",
+  "up": 1,
+  "updatedAt": "2021-09-29T07:37:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3288"
+}

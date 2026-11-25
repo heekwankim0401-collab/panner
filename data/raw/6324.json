@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a part of GDScript 2.0 design.",
+    "format": "form",
+    "workaround": "It can be worked around by prefixing signal names, i.e. `signal_hit` instead of `hit`, or alternatively - changing a method name. But this will ma the addon's api less readable and messy just because limitations of a gdscript 2.0."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-19T23:11:21Z",
+  "comments": 7,
+  "createdAt": "2023-02-19T23:01:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6324,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Signals can't be named same as properties / methods",
+  "up": 0,
+  "updatedAt": "2023-02-20T23:25:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6324"
+}

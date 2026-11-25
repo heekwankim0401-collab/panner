@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's very Core",
+    "format": "form",
+    "workaround": "It's very Core"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-08T18:50:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12392,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `is_valid()` method to server APIs",
+  "up": 0,
+  "updatedAt": "2025-05-09T11:35:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12392"
+}

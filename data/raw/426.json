@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Addons can't really patch existing event classes.",
+    "format": "legacy",
+    "workaround": "Not that i am aware of."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-01-31T18:16:13Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 426,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to detect if an input device supports pressure",
+  "up": 9,
+  "updatedAt": "2021-08-13T21:08:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/426"
+}

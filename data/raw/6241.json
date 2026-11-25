@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This should be a core element as is foundational to work with 3D Elements and not fixing it would result in a heavy lost of control and regressions in lots of 3D projects.",
+    "format": "form",
+    "workaround": "No, it can't be worked around. The control over this things is a core element and should be easily accessible as it was before."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-06T09:18:52Z",
+  "comments": 2,
+  "createdAt": "2023-02-05T13:11:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6241,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Return the posibility of selecting filtering per texture for fix regressions. ",
+  "up": 5,
+  "updatedAt": "2023-02-06T09:31:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6241"
+}

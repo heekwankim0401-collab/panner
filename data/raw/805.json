@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-05-08T02:04:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 805,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow MeshLibrary Export to export MeshInstances with a custom origin",
+  "up": 8,
+  "updatedAt": "2021-08-23T16:42:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/805"
+}

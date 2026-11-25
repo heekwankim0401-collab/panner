@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This might be possible via an addon. However I believe this better in core.",
+    "format": "form",
+    "workaround": "I think we might be able to monkey patch the dialogs, however that won't be a few lines of code.\n\n~Right now I'm wondering if it is better to:~\n\n~- Have the instance check if they are the ones created from code, and if they are then disable themselves and put a configuration warning saying to not use them.~\n~- Or figure out how to monkey patch these dialogs to remove my classes.~\n\nFor my use case it seems simpler to have the instances check if they have an `owner`, and if so disable themselves and have a configuration warning."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-03-14T05:49:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9298,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow hiding experimental and deprecated classes from the \"Create New Node\" and \"Create New Resource\" dialogs",
+  "up": 16,
+  "updatedAt": "2024-03-14T10:15:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9298"
+}

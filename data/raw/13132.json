@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Making a feature work across Sprite2D/Texture[Nodes] in the same way.",
+    "format": "form",
+    "workaround": "It could be used by default by anyone with a Texture[Node]"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-09-05T23:13:01Z",
+  "down": 3,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13132,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "TextureNodes (Texture Button/ProgressBar/Etc) Should Default to AtlasTexture when you drag an image onto it's Texture Fields",
+  "up": 0,
+  "updatedAt": "2025-09-05T23:57:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13132"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "tbh I'll just make an addon. Adding this to core is opening a can of worms, based on my past experience with this topic.\nI'm mostly opening the proposal to see how many people actually care about it.\n\nEDIT:\nThe addon: https://github.com/KoBeWi/Godot-Tween-Suite",
+    "format": "form",
+    "workaround": "Well it can be actually worked around quite easily.\n\n`set_autokill(false)` can be achieved with\n```GDScript\ntween.finished.connect(tween.stop)\n```\n`set_autostart(false)` can be achieved with\n```GDScript\nvar tween = create_tween()\ntween.stop()\n```\n\nIn fact this was more or less documented until https://github.com/godotengine/godot/pull/74258\nUsers kept running into problems, because the system wasn't really designed for that. While you *can* somewhat reuse Tweens, it's easy to make a mistake if you don't know how it works."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-01-25T14:22:48Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 8966,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to reuse Tweens",
+  "up": 31,
+  "updatedAt": "2024-06-19T19:12:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8966"
+}

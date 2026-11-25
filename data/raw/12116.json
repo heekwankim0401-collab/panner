@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Anything made with Godot can benefit from leveraging system UI fonts to make their programs feel more native to their end users' platforms of choice.",
+    "format": "form",
+    "workaround": "It is not possible to work around this issue with a few lines of script for the following reasons:\n- System UI fonts may be changed or updated over time, requiring the `SystemFont` resource `font_names` property to be manually updated.\n- System UI fonts may be different even if the underlying operating system is the same. For example, Samsung's Android phones do not use the same UI font that Google's Android phones do despite both being Android."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-26T05:30:32Z",
+  "comments": 2,
+  "createdAt": "2025-03-30T21:45:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12116,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add extended system font aliases like `ui-sans-serif` to SystemFont resource",
+  "up": 3,
+  "updatedAt": "2026-07-26T09:15:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12116"
+}

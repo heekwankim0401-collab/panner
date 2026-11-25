@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can't be solved through an addon.",
+    "format": "form",
+    "workaround": "I currently use the following construction to prevent having two constants with similar names:\n\n```gdscript\n# unit.gd\n\nconst Self := preload(\"unit.gd\")\nconst Scene := preload(\"unit.tscn\")\n\nstatic func instantiate() -> Self:\n    return Scene.instantiate()\n```\n\n```gdscript\n# board_game_controller.gd\n\nconst Unit := preload(\"unit.gd\")\n\nfunc _ready():\n    add_child(Unit.instantiate())\n```\n\nWhich moves the two preloads two the unit were naming them is easier. But adding this boilerplate to many scripts, can be quite tedious."
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-03T18:43:30Z",
+  "comments": 9,
+  "createdAt": "2023-12-01T21:49:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8565,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow preloaded `PackedScenes` as static type hints",
+  "up": 18,
+  "updatedAt": "2026-06-03T18:43:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8565"
+}

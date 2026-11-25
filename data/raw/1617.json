@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a little feature, but a important one that saves a lot of time for the developers.",
+    "format": "legacy",
+    "workaround": "I've not researched about this. But I think, there's no way to workaround this with GDScript, there might be a way to workaround this issue with GDNative though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-10-06T05:35:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1617,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support scaling of meshes in MeshLibrary",
+  "up": 8,
+  "updatedAt": "2024-05-17T19:23:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1617"
+}

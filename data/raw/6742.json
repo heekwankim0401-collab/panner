@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it's maybe can be implement gde. But I think it should be core. And for me. I don't want use any addon.",
+    "format": "form",
+    "workaround": "I can't , `DisplayServer.get_screen_pixel()` take me too long time."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-16T09:08:16Z",
+  "comments": 2,
+  "createdAt": "2023-04-23T02:57:12Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.1",
+  "number": 6742,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a DisplayServer.get_screen_image() method",
+  "up": 2,
+  "updatedAt": "2023-05-16T09:08:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6742"
+}

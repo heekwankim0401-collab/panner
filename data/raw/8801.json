@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it's a method that should be readily available in the `HTTPRequest` class. I believe handling it this way shouldn't pose a major issue.",
+    "format": "form",
+    "workaround": "```gdscript\nvar http_client := HTTPClient.new()\nhttp_request.request(\"http://www.example.com/search?\" + http_client.query_string_from_dict({\n\t\"q\": \"a\",\n\t\"category\": \"all\",\n})\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-01-04T19:46:51Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 8801,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make query_string_from_dict static in HTTPClient",
+  "up": 0,
+  "updatedAt": "2024-07-05T07:53:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8801"
+}

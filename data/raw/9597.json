@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think this would fall under expected features that should be built in.",
+    "format": "form",
+    "workaround": "This would be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-21T11:45:31Z",
+  "comments": 5,
+  "createdAt": "2024-04-25T08:47:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9597,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to convert animation tracks to Bezier Curve tracks",
+  "up": 14,
+  "updatedAt": "2025-01-21T16:14:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9597"
+}

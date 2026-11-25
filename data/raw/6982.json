@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Mesh domes are awful.",
+    "format": "form",
+    "workaround": "Unfortunately Godot 3 do not expose sky direct to user, so no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-05-30T16:58:32Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6982,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Backport Godot 4 sky shader to 3",
+  "up": 2,
+  "updatedAt": "2023-05-31T10:56:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6982"
+}

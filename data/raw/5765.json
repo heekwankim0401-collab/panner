@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It seems to me like a basic component of the Inspector property editing UI.",
+    "format": "form",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-11T20:36:51Z",
+  "comments": 2,
+  "createdAt": "2022-11-11T15:44:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5765,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Save disabled theme override properties for easy re-enabling",
+  "up": 1,
+  "updatedAt": "2024-07-11T21:07:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5765"
+}

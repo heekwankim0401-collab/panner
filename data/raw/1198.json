@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about the asset library, so no.",
+    "format": "legacy",
+    "workaround": "Currently, it requires either distributing the prebuilt binaries via Git repo, or leaving the build step up to the user of the addon. Neither of which is ideal, in my opinion. There isn't really any other way around this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-07-15T06:48:09Z",
+  "down": 0,
+  "labels": [
+    "topic:assetlib",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 1198,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve GDNative support in the asset library",
+  "up": 4,
+  "updatedAt": "2021-01-16T09:34:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1198"
+}

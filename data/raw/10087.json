@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Addon doesn't have ability to provide advanced operations like adding supports for multilingual GDExtension documents, and only C++ source code can solve this problem.",
+    "format": "form",
+    "workaround": "No, since it may be related to C++ source code"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-07-01T14:36:00Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:gdextension",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 10087,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add multilingual (localization) support for GDExtension documentation",
+  "up": 6,
+  "updatedAt": "2026-09-15T08:43:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10087"
+}

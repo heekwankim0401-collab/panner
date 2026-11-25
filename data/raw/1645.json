@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This actually could be an add-on.\nSomething like this could help users transition from working in 2D to 3D, since it wouldn't require the user to be familiar with 3D modeling programs or acquire 3D assets.",
+    "format": "legacy",
+    "workaround": "It wouldn't be a *few* lines."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-11T14:10:25Z",
+  "comments": 5,
+  "createdAt": "2020-10-11T03:08:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1645,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to convert sprites to voxels",
+  "up": 0,
+  "updatedAt": "2022-01-12T22:55:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1645"
+}

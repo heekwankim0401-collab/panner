@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. Import system is part of core engine behavior. Add-ons can't safely change .`import` file locations",
+    "format": "form",
+    "workaround": "No, .`import` file paths are handled by the engine internally."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-11T02:40:03Z",
+  "down": 3,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12767,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Separate Folder for `.import` Files",
+  "up": 1,
+  "updatedAt": "2025-07-11T09:07:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12767"
+}

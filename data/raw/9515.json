@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would be helpful for every project, and setting up an add-on every project might be annoying.",
+    "format": "form",
+    "workaround": "Theoretically, an editor plugin could be created, but it would be much more useful to have in the base engine."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-15T01:00:16Z",
+  "comments": 1,
+  "createdAt": "2024-04-13T23:50:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9515,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Copy-Paste for more data types",
+  "up": 2,
+  "updatedAt": "2024-04-15T08:39:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9515"
+}

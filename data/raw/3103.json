@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't feel personally qualified to judge this.",
+    "format": "form",
+    "workaround": "I tried to work around by setting a theme for the Filedialog with custom font for LineEdit classes but it didn't appear to propagate this setting. I don't know any convenient work around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-08-07T18:19:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3103,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "FileDialog should accept custom font.",
+  "up": 0,
+  "updatedAt": "2021-08-07T18:33:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3103"
+}

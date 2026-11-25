@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It doesn't necessarily need to be added to godot, a simple plugin that works stably and doesn't break our code can also do the trick.",
+    "format": "form",
+    "workaround": "If this feature is not used, there will be no problem in terms of code because there is no problem in terms of code."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-03T21:04:12Z",
+  "comments": 0,
+  "createdAt": "2024-07-03T18:04:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10107,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improvements to godot built-in code editor",
+  "up": 0,
+  "updatedAt": "2024-07-04T07:57:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10107"
+}

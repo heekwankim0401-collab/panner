@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it makes godot less confusing",
+    "format": "legacy",
+    "workaround": "this would be used just as much as the current system. it just makes a node or a packed scene take up 1 resource other then 2 and enforces strong typing when inheriting"
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-20T04:27:18Z",
+  "comments": 9,
+  "createdAt": "2020-04-08T16:32:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 681,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make node and packed scenes less redundant ",
+  "up": 0,
+  "updatedAt": "2020-07-20T07:13:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/681"
+}

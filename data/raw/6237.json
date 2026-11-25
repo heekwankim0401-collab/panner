@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's part of the Area implementation.",
+    "format": "form",
+    "workaround": "It can be worked around by using `is_instance_valid()` to check if referenced nodes still exist. However, I don't think you should need to guard every `body_exited` code with `is_instance_valid()` in order to prevent the game from crashing during quitting."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-06T22:32:46Z",
+  "comments": 2,
+  "createdAt": "2023-02-04T21:19:36Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6237,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Don't emit body_exited and area_exited signals while quitting the scene tree",
+  "up": 2,
+  "updatedAt": "2023-02-06T22:43:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6237"
+}

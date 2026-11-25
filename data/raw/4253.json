@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't see any way to work around this issue using regular scripting.",
+    "format": "form",
+    "workaround": "I don't see any way to work around this issue using regular scripting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-03-21T16:05:34Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4253,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add non-serializable meta property to Object",
+  "up": 3,
+  "updatedAt": "2026-10-21T15:14:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4253"
+}

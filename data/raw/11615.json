@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a GDScript enhancement.",
+    "format": "form",
+    "workaround": "The operation exists, it's just very inconvenient due to how long and commonly used it is"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-20T14:16:29Z",
+  "comments": 1,
+  "createdAt": "2025-01-20T14:12:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11615,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add Float operator ~=",
+  "up": 0,
+  "updatedAt": "2025-01-20T14:16:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11615"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-27T10:21:02Z",
+  "comments": 1,
+  "createdAt": "2022-12-27T07:39:57Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6004,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "The number of lines that automatically jump to the external code editor when jumping from MSBuild warnings or errors",
+  "up": 0,
+  "updatedAt": "2022-12-27T10:21:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6004"
+}

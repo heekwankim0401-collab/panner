@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "markdown",
+    "workaround": "No\n\n**Is there a reason why this should be core and not an add-on in the asset library?**\nI think this will be useful for users doing 2d physics\n\n**Extra thing**\n-I think this could also be used to make a softbody2d node too if one were to add some sprite deformations\n-Basically, with this node, you would draw a polygon2d/shape2d and using the \"soft points property\" you can set the number of rigid body points and with the hardness property 0 - 1 you can get the hardness of the object. The soft body \"pushes\" the same way a \"body moves\" with animation player thing\"\n-points which are rigid bodies should be distributed equally among the lines of the shape\n**-properties**\n-polygon2D/shape2D\n-hardness 0 to 1 - (0 would make the body drop into a pile of lines - 1 would make the body unbendable)\n-soft points \n-edit individual points\n-mass (this gets divided equally by default among all the points unless a point is edited by the edit individual points thing.\n**Example**\n(no image yet)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-04-13T02:47:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2597,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rigidbody2D Bone/Joint",
+  "up": 1,
+  "updatedAt": "2021-04-16T23:27:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2597"
+}

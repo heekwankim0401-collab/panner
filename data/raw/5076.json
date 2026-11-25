@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's core editor functionality also present in competing engines",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-10T19:57:09Z",
+  "comments": 5,
+  "createdAt": "2022-08-05T01:02:42Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": "4.4",
+  "number": 5076,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add scene preview for gltf and blend files",
+  "up": 7,
+  "updatedAt": "2025-09-10T19:57:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5076"
+}

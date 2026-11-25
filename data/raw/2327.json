@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Loading and saving scenes related",
+    "format": "markdown",
+    "workaround": "You could manually fix dependencies, ensure if paths have collisions etc, which is not handy.\n\nI also see the following partial solution: you could have a script, plugin, or other built-in (Godot) or third-party tool that copies a scene from one project to another, but sets the correct paths for the scene dependencies (that is changes the tscn file); you just select the target project and target folder where you want to copy the scene; but\n- in fact, the user depends on such a script/plugin/tool; that is, the user has to use that tool (while he could just use dependency paths relative to the scene, which would be more self-sufficient imo).\n- I do not exclude pitfalls here"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2021-02-21T04:58:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2327,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to save scene dependencies paths as relative to the scene",
+  "up": 37,
+  "updatedAt": "2025-08-18T14:03:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2327"
+}

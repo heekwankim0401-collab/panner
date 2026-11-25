@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This relates directly to the AnimationPlayer editor plugin functionality, and the core copy/paste functionality of the editor.",
+    "format": "form",
+    "workaround": "Feasibly you could write a tool or even external script to manipulate saved animation resources to mangle the data into other files and tracks. But it would be quite a complicated script, I imagine, and not built into the copy and paste workflow of the editor well."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-18T17:26:30Z",
+  "comments": 6,
+  "createdAt": "2021-10-12T21:35:55Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 3419,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add copy/paste keyframe functionality to AnimationPlayer editor",
+  "up": 30,
+  "updatedAt": "2024-02-18T17:26:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3419"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Modifies the Godot core.",
+    "format": "legacy",
+    "workaround": "It is possible to override a bone's transform in code, and with a tool script, it can be done in the editor."
+  },
+  "assignees": 1,
+  "closedAt": "2022-01-06T01:53:11Z",
+  "comments": 3,
+  "createdAt": "2020-01-14T06:34:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 383,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for bone constraints",
+  "up": 18,
+  "updatedAt": "2022-09-19T02:28:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/383"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Lights are a core feature and this would be more convenient than having to cast to each type.",
+    "format": "form",
+    "workaround": "Yes, by handling the different Light3D types separately via casting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-01-28T22:20:46Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14094,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Combine OmniLight3D and Spotlight3D's separate range and attenuation properties into one class, 'LocalLight3D'",
+  "up": 4,
+  "updatedAt": "2026-01-30T02:08:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14094"
+}

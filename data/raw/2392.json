@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "An add-on won't suffice because it requires changing multiple settings in the editor, to my knowledge this can't be done through the asset library and I don't think any other themes are there either. The editor already includes the Solarized Theme which is also MIT-Licensed, Dracula is another extremely popular theme that looks great with Godot.",
+    "format": "markdown",
+    "workaround": "There is already a Dracula Theme for Godot that can be downloaded and installed using the terminal/command line, but this takes time that most users would not spend looking for a theme. (https://draculatheme.com/godot)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-08T21:25:51Z",
+  "comments": 2,
+  "createdAt": "2021-03-03T15:56:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2392,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the Dracula theme as a preset theme option",
+  "up": 2,
+  "updatedAt": "2021-03-08T22:17:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2392"
+}

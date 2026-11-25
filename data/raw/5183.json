@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Rigid... _Dynamic_... Body is a core class.",
+    "format": "form",
+    "workaround": "It cannot."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-26T14:16:33Z",
+  "comments": 25,
+  "createdAt": "2022-08-16T13:30:06Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 5183,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename RigidDynamicBody to either RigidBody or DynamicBody",
+  "up": 30,
+  "updatedAt": "2022-08-26T14:16:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5183"
+}

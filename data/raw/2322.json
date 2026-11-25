@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "if there is a tutorial then there is no reason.",
+    "format": "markdown",
+    "workaround": "in the script, I did not find the read from console function, most likely there is an opportunity to do this through native code, but I am not good at this"
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-03T12:08:03Z",
+  "comments": 10,
+  "createdAt": "2021-02-20T11:46:03Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2322,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to read `stdin` from the console",
+  "up": 16,
+  "updatedAt": "2022-10-03T12:08:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2322"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It brings the 2D joints into parity with the 3D joints",
+    "format": "legacy",
+    "workaround": "I have attempted using other joints and scripting work-arounds, but nothing seems to have the desired effect"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2020-06-10T20:42:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1033,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a HingeJoint2D node to complement HingeJoint3D",
+  "up": 28,
+  "updatedAt": "2023-06-10T00:33:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1033"
+}

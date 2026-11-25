@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "get_parent( ) is a commonly used function and I think having an optional parameter to make it easier and cleaner in code to do certain tasks should be a great addition to many Godot users.",
+    "format": "form",
+    "workaround": "It can be worked around with a recursive function:\n\n```\nfunc repeat_get_parent(times : int, node):\n    if times > 1:\n        return repeat_get_parent(times-1, node.get_parent())\n    elif times == 1:\n        return node.get_parent()\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-18T12:38:16Z",
+  "comments": 1,
+  "createdAt": "2022-06-18T00:40:52Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4687,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Give the get_parent( ) function an optional int parameter to specify how many times it should be used (like get_node( \"../../\" ) )",
+  "up": 0,
+  "updatedAt": "2022-06-18T18:03:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4687"
+}

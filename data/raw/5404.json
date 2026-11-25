@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Engine development related, therefore, cannot be an add-on.",
+    "format": "form",
+    "workaround": "The current workaround is for module developers to be aware of these pitfalls and avoid naming anything that could conflict."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-26T00:58:03Z",
+  "comments": 2,
+  "createdAt": "2022-09-11T21:57:40Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.0",
+  "number": 5404,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot mono should qualify Object with Godot namespace when generating glue.",
+  "up": 0,
+  "updatedAt": "2023-02-26T01:12:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5404"
+}

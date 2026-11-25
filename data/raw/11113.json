@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This serves to help people recognize that there is a problem with the structure of their scene which they would not otherwise be aware of. If it was an add-on, they would have to know the limitation of the clipping system even exists to go and search for an add-on to notify them about it - and at that point, they already know about the limitation, so its usefulness is much more limited.",
+    "format": "form",
+    "workaround": "I'm not aware of how this would be implemented via scripts, much less a just \"few lines\"."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-08T03:43:25Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11113,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add warnings for nested Clip Children values in CanvasItems",
+  "up": 2,
+  "updatedAt": "2024-12-09T00:19:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11113"
+}

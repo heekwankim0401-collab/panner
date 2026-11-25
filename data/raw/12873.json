@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As above, it couldn't function as an addon.",
+    "format": "form",
+    "workaround": "It cannot, TexturePreview isn't accessable in gdscript not is the inner working of the rd_texture initilise function."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-27T14:53:49Z",
+  "comments": 9,
+  "createdAt": "2025-07-26T19:42:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": "4.7",
+  "number": 12873,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add LOD to TexturePreview and improve rd_texture usage",
+  "up": 5,
+  "updatedAt": "2026-03-02T19:05:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12873"
+}

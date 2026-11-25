@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature should be core function of TileSet.",
+    "format": "form",
+    "workaround": "This feature should be integrated into TileSet and not stand alone as a plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-20T01:46:15Z",
+  "comments": 4,
+  "createdAt": "2023-10-20T00:17:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8203,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to rotate alternative tiles",
+  "up": 0,
+  "updatedAt": "2023-10-21T10:26:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8203"
+}

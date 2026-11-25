@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The point of this is to reduce complexity when setting up a controller in a new project. Having to download an asset for an input system would defeat the purpose (Unity's input system is a separate package that needs to be downloaded and people aren't super happy about that)\n\nIt's also worth mentioning that Godot doesn't have any support for dependencies. Which means that when a user downloads your character controller, you'd need to show a message asking to *manually* download an input system dependency just to be able to see a character running around and jumping on the screen, which doesn't sound great to say the least. Ideally your asset should ship with all of the code required to use it, at least when it's something as simple as a character controller",
+    "format": "form",
+    "workaround": "To work around this limitation I made a couple of resources and added some logic to the player controller script to load actions from them:\n\n```gdscript\n# input_action_list.gd\n\nextends Resource\nclass_name InputActionList\n\n@export var list : Array[InputAction] = []\n```\n\n```gdscript\n# input_action.gd\n\nextends Resource\nclass_name InputAction\n\n@export var name: String\n@export var deadzone: float = 0.5\n@export var events: Array[InputEvent]\n```\n\n```gdscript\n# player_controller.gd\n\n@export var default_actions : InputActionList\n\n@export var add_default_actions: bool = false:\n\tset(val):\n\t\tfor action in default_actions.list:\n\t\t\tif not ProjectSettings.has_setting(\"input/\" + action.name):\n\t\t\t\tvar input = {\n\t\t\t\t\t\"deadzone\": action.deadzone,\n\t\t\t\t\t\"events\": action.events\n\t\t\t\t}\n\t\t\t\tProjectSettings.set_setting(\"input/\" + action.name, input)\n\t\tProjectSettings.save()\n\t\tEditorInterface.restart_editor(true)\n```\n\nThis exposes a \"button\" on the character controller, that, when clicked, adds predefined input actions from a custom resource into the project file\n\n<img width=\"500\" alt=\"image\" src=\"https://github.com/godotengine/godot-proposals/assets/60579014/3da7cf20-e6f2-46f5-8e55-ff2d6b3aacb4\"><br>\n\nThe problems are:\n\n- It requires an editor restart\n- It uses a bool checkbox hack because godot still doesn't support buttons in the inspector and there's no easier way to distribute runnable logic with an asset that would be *somewhat* discoverable\n- To use the checkbox hack player needs to be a `@tool` which means you need to guard every function\n- It won't be immediately obvious to people that that's how it works because this solution is a kind of hacky\n\nAll of this can be avoided if Godot ships with a less rigid input binding system"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-05-23T17:26:02Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 9809,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Separate project's input map into a resource",
+  "up": 20,
+  "updatedAt": "2025-01-03T09:22:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9809"
+}

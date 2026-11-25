@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If this could be done as an addon in the asset library, it would have to be done with a pre-compiled GDExtension. I don't think binaries should be there.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2022-11-17T16:09:32Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5803,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement TIFF saving support (specially for Movie Writer)",
+  "up": 0,
+  "updatedAt": "2022-11-20T14:30:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5803"
+}

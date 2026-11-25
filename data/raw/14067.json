@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a change in the core API",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-29T10:21:04Z",
+  "comments": 9,
+  "createdAt": "2026-01-25T11:39:30Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14067,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "`Object.get_class()` should return a `StringName` instead of a `String`",
+  "up": 4,
+  "updatedAt": "2026-01-29T10:21:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14067"
+}

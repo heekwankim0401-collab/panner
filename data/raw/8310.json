@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's hard coded. I didn't find a way to change it with an addon or plugin.",
+    "format": "form",
+    "workaround": "No, EditorExportPlatformIOS exposes no api to script."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-31T08:53:59Z",
+  "comments": 1,
+  "createdAt": "2023-10-31T01:30:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:ios",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 8310,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to skip archive ipa in iOS export",
+  "up": 0,
+  "updatedAt": "2023-10-31T09:03:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8310"
+}

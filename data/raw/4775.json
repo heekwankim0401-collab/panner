@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an integral part of GDScript, it cannot be implemented as an add-on.",
+    "format": "form",
+    "workaround": "As mentioned before, it can be worked around but it's cumbersome and makes for a confusing use of the `continue` keyword. Many users don't know about this usage and trip when trying to use the keyword for the loop inside a `match` statement."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-28T18:09:38Z",
+  "comments": 41,
+  "createdAt": "2022-06-29T12:06:46Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 4775,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add guards to match patterns in GDScript",
+  "up": 53,
+  "updatedAt": "2023-09-28T18:09:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4775"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its improving the core 3d asset workflow.",
+    "format": "form",
+    "workaround": "You can probably create a RESET animation manually in ie: Blender and import it into Godot, which is a workflow I'll be trying from now on."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-01T21:43:26Z",
+  "comments": 2,
+  "createdAt": "2025-05-01T00:04:07Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12346,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically add RESET animation to imported animated 3D scenes",
+  "up": 0,
+  "updatedAt": "2025-05-06T14:32:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12346"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Maybe not",
+    "format": "form",
+    "workaround": "I think this behavior can be scripted, but in a more roundabout way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-02T20:11:15Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12355,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add parameter to `AnimationPlayer.stop()` to defer stopping to the end of the animation",
+  "up": 0,
+  "updatedAt": "2025-05-08T20:11:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12355"
+}

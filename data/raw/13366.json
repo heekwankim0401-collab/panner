@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Similar reason to https://github.com/godotengine/godot-proposals/issues/7084, but I also feel like this is both too small and too core to just be an add-on",
+    "format": "form",
+    "workaround": "The main way I've seen this worked around (ex: [This youtube video](https://www.youtube.com/watch?v=dK1CMFLi7UY)) is to not bother with creating them on the fly, and create a script with a around 20-30 lines of code to consolidate and abstract the multiple signals into one signal that you then await in your original script, give or take few more lines for custom actions and the like.\n\nIf you want to work around this in code for `AcceptDialog` you can await only the `confirmed` signal so long as you first make it borderless (and forgo a title), because otherwise you can cancel it and await forever, and have only one action. Or alternatively use `custom_action` by first removing the default buttons via `get_ok_button` (and `get_cancel_button` on `ConfirmationDialog`) and then use `remove_button` and add your own with buttons with custom actions that only feed into one signal, and even then the window can still get cancelled (unless it's borderless) which will lead to infinite waiting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-11T20:42:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13366,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `popup_hide` or equivalent signal to `AcceptDialog` and by extension `ConfirmationDialog` and its subclasses",
+  "up": 0,
+  "updatedAt": "2025-10-13T18:35:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13366"
+}

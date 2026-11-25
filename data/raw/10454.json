@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Consistency between nodes is important and this proposal is a core API change.",
+    "format": "form",
+    "workaround": "You can get around it by using `get_node(get_external_skeleton()` in a `BoneAttachment3D` script, however the path is relative so if you're referencing your attachment and do something like `get_node(attachment.get_external_skeleton())` from some other node on a different level, you'll get an error. It's not as convenient as just having a built-in method as `SkeletonModifier3D` has."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-20T09:04:14Z",
+  "comments": 0,
+  "createdAt": "2024-08-16T11:00:24Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.4",
+  "number": 10454,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `get_skeleton()` method to `BoneAttachment3D`",
+  "up": 1,
+  "updatedAt": "2024-08-20T09:04:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10454"
+}

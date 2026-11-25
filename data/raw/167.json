@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should have been core from the beginning. Don't make people go to the Asset Library to download UX improvements. Doing that is the opposite of an UX improvement.",
+    "format": "legacy",
+    "workaround": "It's an UX improvement (or rather fix) of existing engine feature, so no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2019-10-19T20:03:21Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 167,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve AnimationPlayer playback GUI",
+  "up": 9,
+  "updatedAt": "2023-09-16T19:55:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/167"
+}

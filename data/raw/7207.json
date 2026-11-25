@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It seems like a good enhancement to the current `Slider`.",
+    "format": "form",
+    "workaround": "Yes, though it requires much more than a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-06T13:52:58Z",
+  "comments": 5,
+  "createdAt": "2023-07-05T15:49:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7207,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"value origin\" to Range, to be used by Slider",
+  "up": 0,
+  "updatedAt": "2023-07-06T13:55:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7207"
+}

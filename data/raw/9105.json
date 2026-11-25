@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It could be part of some enhanced UI add-on since I just made a class for it.\n\nIt just seems nice to me to be able to follow such design convention with just a click in the inspector (and who says Control property says Theme override, so you'd only need to do it once for all the buttons).",
+    "format": "form",
+    "workaround": "Yes, I had no choice but to do it for my game:\n\n```gd\nclass_name ButtonWithCustomCursor\nextends Button\n## Custom Button class that updates the mouse cursor shape to normal arrow\n## when button becomes disabled\n## Make sure to always call enable_interactions / disable_interactions when you want to change the disabled flag\n\n\nfunc _ready():\n\t_update_mouse_default_cursor_shape()\n\nfunc enable_interactions():\n\tdisabled = false\n\t_update_mouse_default_cursor_shape()\n\nfunc disable_interactions():\n\tdisabled = true\n\t_update_mouse_default_cursor_shape()\n\nfunc _update_mouse_default_cursor_shape():\n\tmouse_default_cursor_shape = Control.CURSOR_ARROW if disabled else Control.CURSOR_POINTING_HAND\n```\n\nYou need to replace all buttons that could be disabled in your project with that new class. So better think about it early!"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-02-16T17:50:19Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9105,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow setting Mouse Default Cursor Shape differently when Button is disabled",
+  "up": 6,
+  "updatedAt": "2026-09-08T22:45:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9105"
+}

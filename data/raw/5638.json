@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Rich Text in Output is already supported in core via print_rich, but the hyperlinks don't work, subverting user expectation. This feature would also improve workflow for all users of Godot via print_debug and print_rich in an unobtrusive way.",
+    "format": "form",
+    "workaround": "I cannot guarantee users would often use hyperlinks with print_rich, but users would often receive the benefit when they use print_debug and print_stack. As far as I know, there is not a simple workaround to achieve this other than deliberately using push_warning, which is bad form for something which should not be a warning."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-22T23:43:44Z",
+  "comments": 6,
+  "createdAt": "2022-10-22T22:56:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 5638,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add hyperlink capabilities to Output tab with BBCode",
+  "up": 0,
+  "updatedAt": "2022-10-23T22:25:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5638"
+}

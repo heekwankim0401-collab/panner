@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Again, because there are always sounds on button presses",
+    "format": "legacy",
+    "workaround": "I think this is used for every button in every game made."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-21T15:07:14Z",
+  "comments": 27,
+  "createdAt": "2020-09-07T20:13:41Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 1472,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add interaction sounds to BaseButton (customizable via theme)",
+  "up": 67,
+  "updatedAt": "2026-09-21T15:07:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1472"
+}

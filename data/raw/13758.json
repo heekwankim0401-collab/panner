@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. This requires parser support, changes to GDScript’s grammar, and compiler-level scoping rules\nThese cannot be implemented via add-ons or editor scripts.",
+    "format": "form",
+    "workaround": "Yes, it can be worked around by manually declaring a variable above the condition:\n```gdscript\nvar obj = get_object()\nif obj:\n    ...\n```\nHowever, this is less readable, pollutes the scope, and becomes repetitive in codebases using many conditional object fetches."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-29T13:10:03Z",
+  "comments": 1,
+  "createdAt": "2025-11-29T13:00:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13758,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add support for variable initialization inside `if` and `while` conditions (C++-style condition with initializer)",
+  "up": 0,
+  "updatedAt": "2025-11-29T13:10:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13758"
+}

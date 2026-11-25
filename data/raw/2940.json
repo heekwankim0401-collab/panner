@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "- takes minimal effort (just renaming parameter name and position)\n- documentation really doesn't help when the parameter name is `autotile_coord`",
+    "format": "form",
+    "workaround": "```gdscript\nfunc set_cell(\n    x, y, tileset, tileset_coord=Vector2(),\n    flip_x=false, flip_y=false, transpose=false\n)->void :\n    .set_cell(x, y, tileset, flip_x, flip_y, transpose, tileset_coord)\n```\nhowever it creates unnecessary function call overhead"
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-30T17:58:25Z",
+  "comments": 7,
+  "createdAt": "2021-06-30T16:26:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2940,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "TileMap.set_cell(): rename `autotile_coord` -> `tileset_coord`",
+  "up": 0,
+  "updatedAt": "2021-06-30T18:03:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2940"
+}

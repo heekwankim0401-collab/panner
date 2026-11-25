@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Animation workflows are a core part of game development and the editor be designed to make it as easy as possible.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-11T20:19:19Z",
+  "comments": 0,
+  "createdAt": "2024-03-02T08:13:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 9218,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow bottom panels to persist after selecting a different node",
+  "up": 4,
+  "updatedAt": "2024-11-11T20:19:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9218"
+}

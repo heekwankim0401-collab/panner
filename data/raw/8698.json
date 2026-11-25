@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is an essential feature for plugins that provide custom nodes. The user experience of clicking and editing a `CollisionPolygon2D` should be replicable in GDScript. \nIn general, plugin developers would benefit from the `_edit` functions being exposed in GDScript.",
+    "format": "form",
+    "workaround": "As far as I can tell, there's no workaround. \nThis proposal is very similar to #5289 but `_edit_is_selected_on_click` is not mentioned there."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-12-20T20:10:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8698,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `_edit_is_selected_on_click` to GDScript",
+  "up": 23,
+  "updatedAt": "2023-12-21T19:38:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8698"
+}

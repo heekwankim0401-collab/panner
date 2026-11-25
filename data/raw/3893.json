@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Yes, but it requires reimporting all 3D scenes used in the current scene with a higher texel size value. Reimporting takes a lot of time to do in a complex scene, and it requires a lot of clicks throughout the day if you spend a lot of time iterating on lighting."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-05T11:49:34Z",
+  "comments": 2,
+  "createdAt": "2022-01-29T18:53:26Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.3",
+  "number": 3893,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a global lightmap texel size multiplier in LightmapGI to speed up preview baking",
+  "up": 3,
+  "updatedAt": "2024-01-05T11:50:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3893"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be core as it makes using tileset layer scene collections worse than just placing nodes.",
+    "format": "form",
+    "workaround": "I did with the above example."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-08-02T11:02:41Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 12918,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Tilemap Layer Scene Collections should initialize before all scene onreadys",
+  "up": 0,
+  "updatedAt": "2025-08-05T15:44:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12918"
+}

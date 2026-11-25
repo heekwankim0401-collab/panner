@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "LightmapGI is a core feature, and this would improve the experience of tweaking LightmapGI nodes in the editor",
+    "format": "form",
+    "workaround": "I'm not sure. I'm not experienced with editor scripting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-06-10T00:52:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12578,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an overlay for the editor when tweaking LightmapGI nodes that helps visualize lightmap density and UV overlap",
+  "up": 2,
+  "updatedAt": "2025-06-21T00:59:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12578"
+}

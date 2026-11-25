@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be a core feature because:\n\n**API Consistency**: Godot already provides generic overloads for similar methods (GetNode, Instantiate). Missing it for Duplicate() creates an inconsistent API surface.\n\n**Standard Practice**: Modern C# APIs commonly use generic methods for type-safe returns when the actual type is known at compile time.\n\n**Low Maintenance**: The implementation is trivial (4 lines of code) and has minimal maintenance overhead.\n\n**User Expectation**: When developers see generic methods elsewhere in the API, they naturally expect the same pattern for Duplicate().\n\n**Core Functionality**: Resource duplication is a fundamental operation in Godot's resource system, not a niche feature.\n\nThis small addition would complete the pattern established by other generic methods in Godot's C# API, providing a more cohesive and intuitive development experience.",
+    "format": "form",
+    "workaround": "Yes, this can be worked around with extension methods:\n\n```csharp\npublic static class ResourceExtensions\n{\n    public static T Duplicate<T>(this Resource resource, bool deep = false) where T : class\n    {\n        return (T)resource.Duplicate(deep);\n    }\n}\n```\n\nHowever, this workaround has limitations:\n\n**Fragmentation** - each project needs to implement its own extension\n\n**Discovery** - not discoverable via IDE autocomplete like core API methods\n\n**Consistency** - doesn't provide the unified API experience users expect from Godot\n\nWhile the workaround is simple, having this as a core API feature provides a more polished and professional developer experience, especially for new users."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-13T05:11:23Z",
+  "comments": 2,
+  "createdAt": "2026-02-09T12:56:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 14186,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "C#: Add generic overload for Resource.Duplicate() method",
+  "up": 0,
+  "updatedAt": "2026-02-13T17:09:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14186"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Native popup",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-05-15T16:11:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9748,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Quick Open Script: support `file:line` format to directly jump to a certain line in the script",
+  "up": 8,
+  "updatedAt": "2025-10-05T14:02:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9748"
+}

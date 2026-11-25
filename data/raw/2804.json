@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Relates only to internal engine operations. Irrelevant to script code.",
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-05-31T21:24:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2804,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Consolidate type and inheritance checks with a TypeServer.",
+  "up": 8,
+  "updatedAt": "2021-05-31T21:38:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2804"
+}

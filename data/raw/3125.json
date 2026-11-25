@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about unifying the property naming convention with the rest of the engine.",
+    "format": "form",
+    "workaround": "No, it cannot be done with a plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-08T19:05:34Z",
+  "comments": 8,
+  "createdAt": "2021-08-12T14:07:24Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3125,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename Control's Rect properties to exclude \"rect_\" part",
+  "up": 8,
+  "updatedAt": "2022-05-15T01:02:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3125"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires modifying the Tween object.",
+    "format": "form",
+    "workaround": "You can use the `await` method to block, but this forces you to split your tween into several different tweens and intersperse them with statements.  It would be better to be able to create a single tween that can just wait for signals."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-11T21:48:56Z",
+  "comments": 2,
+  "createdAt": "2025-03-11T20:51:34Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 11967,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Tween should have ability to wait for signal",
+  "up": 1,
+  "updatedAt": "2025-03-11T21:48:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11967"
+}

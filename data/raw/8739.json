@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a rich text label, clue's on the name. Why does a property that's supposed to return text, doesn't return the text it currently holds. It's insane.\n\nI've seen that in godot 3.x it used to have a property to access the bbcode text. In Godot 4.x it's not mentioned anymore in the documentation. So it's either missing or it was removed. But this should be a core feature for such a node since it's pretty much what it does anyway.",
+    "format": "form",
+    "workaround": "not that I'm aware of? Couldn't find anything on the 4.x docs."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2023-12-28T22:43:06Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8739,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make RichTextLabel \"Text\" property return the whole bbcode text, instead of raw text added from the inspector window",
+  "up": 6,
+  "updatedAt": "2024-07-03T21:13:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8739"
+}

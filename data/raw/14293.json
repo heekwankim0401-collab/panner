@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-23T18:06:09Z",
+  "comments": 0,
+  "createdAt": "2026-02-20T19:43:58Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:export"
+  ],
+  "milestone": "4.7",
+  "number": 14293,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow adding Android APK/AAB as base packs when exporting patch PCKs",
+  "up": 1,
+  "updatedAt": "2026-02-23T18:07:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14293"
+}

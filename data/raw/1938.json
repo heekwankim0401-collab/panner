@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core functionality in most other programs, (Unreal, Unity, Blender, etc.) and would be a huge time saver for anyone prototyping areas/maps",
+    "format": "markdown",
+    "workaround": "This would most likely be used as the main way to assign predefined materials to objects"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-27T01:11:47Z",
+  "comments": 3,
+  "createdAt": "2020-12-04T19:18:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1938,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement drag-and-dropping materials from the FileSystem dock to a MeshInstance in the 3D viewport",
+  "up": 1,
+  "updatedAt": "2021-03-27T01:11:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1938"
+}

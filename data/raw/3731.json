@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There was 3d version CSG nodes, so 2d version CSG nodes should be.",
+    "format": "form",
+    "workaround": "I'm a new programmer, so I wish godot's developer can implement this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-12-31T00:38:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3731,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 2D CSG nodes",
+  "up": 9,
+  "updatedAt": "2022-01-01T13:16:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3731"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`OS` is core and has similar methods already.",
+    "format": "form",
+    "workaround": "People who need this method might not know the right environment variables to use on every platform, so this will save them plenty of time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2022-07-11T08:20:32Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 4851,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to get the user's home directory (env `HOME`/`USERPROFILE`)",
+  "up": 13,
+  "updatedAt": "2025-02-13T21:36:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4851"
+}

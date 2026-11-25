@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core element of the FileSystem.",
+    "format": "form",
+    "workaround": "It cannot be worked around, and will most likely make Favorites actually have an unique purpose in the FileSystem. I'd expect that this is the way most users would expect Favorites to work.\n\nHowever, if there are users that prefer the current way Favorites is set up, adding an EditorSetting to configure the behaviour of Favorites would be a good addition."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-07-27T15:10:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7393,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Pin 'Favorites' folder in FileSystem",
+  "up": 6,
+  "updatedAt": "2023-07-27T22:21:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7393"
+}

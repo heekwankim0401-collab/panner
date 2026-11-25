@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As I said, while it can be done from an `EditorPlugin` script, it is hacky and can sometimes cause visual glitches.",
+    "format": "form",
+    "workaround": "(Can't find the old script I used to do this, but it can be implemented as explained above)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-17T09:43:31Z",
+  "comments": 10,
+  "createdAt": "2021-09-17T07:07:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3310,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a built-in way to load theme resources as editor theme",
+  "up": 0,
+  "updatedAt": "2021-09-20T16:47:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3310"
+}

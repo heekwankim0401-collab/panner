@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving 3d Editor navigation and selecting objects out of the box",
+    "format": "form",
+    "workaround": "It will be a feature that is useful for everyone"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-12-08T14:20:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3647,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Preview selection when hovering objects in the editor viewport",
+  "up": 0,
+  "updatedAt": "2021-12-08T17:42:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3647"
+}

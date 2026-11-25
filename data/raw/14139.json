@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Debug color is set from core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-02-03T11:23:56Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 14139,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove magic debug color from RayCast3D and ShapeCast3D",
+  "up": 0,
+  "updatedAt": "2026-02-03T14:29:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14139"
+}

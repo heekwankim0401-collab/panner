@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. These features redefine Godot’s capabilities as a next-generation 3D engine. Implementing them in the core ensures:\n\nOptimal performance via tight engine integration.\n\nConsistent API and workflow across teams and projects.\n\nReduced friction for developers aiming for ambitious projects without relying on external, unoptimized add-ons.",
+    "format": "form",
+    "workaround": "No. While partial systems can be implemented via scripts, fully integrating procedural worlds, AI animation, GPU physics, hybrid rendering, and live collaboration requires core engine-level support for performance, scalability, and usability."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-06T18:26:18Z",
+  "comments": 2,
+  "createdAt": "2025-12-06T17:05:11Z",
+  "down": 1,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13799,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Next-Gen 3D Features for Godot 5: Procedural Worlds, AI-Driven Animation, and GPU-Powered Physics",
+  "up": 0,
+  "updatedAt": "2025-12-06T22:34:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13799"
+}

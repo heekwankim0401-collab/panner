@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about removing an option from a core importer.\n\nThis proposal is about avoiding \"footguns\" in terms of audio quality, by steering users towards higher quality audio compression options when needed.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 30,
+  "createdAt": "2022-03-23T15:08:12Z",
+  "down": 11,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 4264,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Deprecate low-quality/limited IMA-ADPCM compression from the WAV importer",
+  "up": 8,
+  "updatedAt": "2025-03-19T17:27:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4264"
+}

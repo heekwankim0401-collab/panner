@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Materials are Core",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-28T16:12:05Z",
+  "comments": 2,
+  "createdAt": "2022-01-13T10:47:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3792,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a BaseMaterial3D property to prevent a material from receiving any reflections",
+  "up": 2,
+  "updatedAt": "2022-07-28T16:12:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3792"
+}

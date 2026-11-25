@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Editor Feature Profiles are core, and this proposal is about making them more accessible to the average user. Making this a plugin would defeat the point as it adds another barrier to entry.",
+    "format": "form",
+    "workaround": "No. This would need editor support or a plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-04-24T09:24:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12308,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add text-based editor feature profile sharing",
+  "up": 0,
+  "updatedAt": "2025-04-24T19:56:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12308"
+}

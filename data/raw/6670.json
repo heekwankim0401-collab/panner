@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a GDScript problem",
+    "format": "form",
+    "workaround": "Before trying to access your global class:\n```gdscript\nvar _e = preload(\"res://{YOUR_GLOBAL_CLASS}.gd\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-09T14:47:51Z",
+  "comments": 0,
+  "createdAt": "2023-04-09T14:45:55Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6670,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make it easier to see the import schedule of my scripts",
+  "up": 0,
+  "updatedAt": "2023-04-09T23:05:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6670"
+}

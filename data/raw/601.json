@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature is needed with 3D games that reuse materials and just improves workflow.",
+    "format": "legacy",
+    "workaround": "Maybe through a custom import script, but it i haven't figured it out yet."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-03-19T00:29:58Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 601,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "When importing meshes, store external files (materials) to a specified directory",
+  "up": 0,
+  "updatedAt": "2021-12-20T00:26:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/601"
+}

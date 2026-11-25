@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The functionality is already available in core, just asking to expose it.",
+    "format": "form",
+    "workaround": "Definitely not. Writing polygon solvers from scratch is thousands of lines of code, and computationally expensive, shouldn't be done in gdscript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-09-11T17:23:59Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5402,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose FillRule in Geometry functions that use the Clipper library",
+  "up": 5,
+  "updatedAt": "2025-09-22T20:20:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5402"
+}

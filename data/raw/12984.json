@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Correct positioning for this type of functionality would be inside the node object code",
+    "format": "form",
+    "workaround": "There is a current workaround by performing the described functionality inside the node itself (or by creating a derived class to perform the same)."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-12T14:43:55Z",
+  "comments": 4,
+  "createdAt": "2025-08-12T08:44:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12984,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "When calling Reparent, implement a flag that can be read in _exit_tree() to be able to perform different actions based on whether the node is being reparented or actually removed",
+  "up": 0,
+  "updatedAt": "2025-08-12T14:57:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12984"
+}

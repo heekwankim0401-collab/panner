@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it would compliment the existing core physics",
+    "format": "legacy",
+    "workaround": "Using enter/exit signals, which has its own downfalls, such as potentially having to manage states for each collision shape entering/exiting to perform attack. with a get_overlapping_collision_shapes() it would be cleaner, possibly more performant."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-02-07T01:54:44Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 449,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `get_overlapping_bodies()` equivalent for collision shapes",
+  "up": 4,
+  "updatedAt": "2020-09-12T22:04:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/449"
+}

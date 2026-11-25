@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Honestly, with the exception of the annotation stuff (cherry-on-top material) and the DocData merging/searching code (which isn't exposed to scripts yet), a lot of this can be done from the scripting API with an EditorPlugin now that script reflection info is exposed to scripts. But even if we fixed the basic problems of exposing the right stuff, a user shouldn't need to install a plugin that then enables them to generate documentation on how to use a plugin. That would be ridiculous.",
+    "format": "legacy",
+    "workaround": "It would be used extremely often. The entire addon script ecosystem is hamstrung by the lack of this feature. We need an integrated solution. It would be a decently large amount of script work to build the tools necessary to do all of this."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-15T15:29:44Z",
+  "comments": 17,
+  "createdAt": "2019-10-22T19:08:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 177,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable scripts to generate XML API documentation for the editor's GUI",
+  "up": 38,
+  "updatedAt": "2023-05-15T15:29:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/177"
+}

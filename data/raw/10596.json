@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Even if the use of this transformation is done in an addon, just adding scale in all path points, could be used for any addon using a path.",
+    "format": "form",
+    "workaround": "I don't know any workaroud. It would be nice if there is any."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-08-29T18:38:26Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 10596,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow scaling of points in Path3D",
+  "up": 0,
+  "updatedAt": "2024-08-31T02:44:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10596"
+}

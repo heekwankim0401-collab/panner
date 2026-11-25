@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is the most important requirement for ARCore to be made available for Godot as a plugin",
+    "format": "form",
+    "workaround": "This can't be done in script"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-30T09:04:49Z",
+  "comments": 2,
+  "createdAt": "2024-09-07T05:36:01Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.4",
+  "number": 10678,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Adding a way to fill a camera feed from addons and external Android library",
+  "up": 2,
+  "updatedAt": "2026-01-30T09:04:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10678"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "JSON Resource is a native type, and it is a great way of wrapping miscellaneous data in a resource for storage. Using it in extensions and addons allow having only a single wrapper type instead of creating wrapper scripts exporting arrays just for the sake of storing untyped data. I personally think having it on core would be of great value for those that create addons.",
+    "format": "form",
+    "workaround": "I suppose it is possible. I have already seen addons that change the inspector, so I assume it is perfectly possible to create an addon for that."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-06-04T22:26:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9889,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow inspecting the \"data\" property of the JSON resource in the inspector",
+  "up": 2,
+  "updatedAt": "2024-08-06T02:05:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9889"
+}

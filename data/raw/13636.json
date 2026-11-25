@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is about improving 3D editor usability out of the box 😭",
+    "format": "form",
+    "workaround": "I imagine this feature will be used very often. Unless you mean if people want to opt out of the control scheme, in which case, I suppose it could be a toggle switch."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-17T18:51:37Z",
+  "comments": 2,
+  "createdAt": "2025-11-14T22:55:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13636,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve 3D Editor's Camera Navigation By Adopting Blender-Like Controls Specifically For Touchpad Devices",
+  "up": 4,
+  "updatedAt": "2025-11-18T01:15:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13636"
+}

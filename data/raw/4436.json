@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's already core, it's just unfinished/broken.",
+    "format": "form",
+    "workaround": "This will be used incredibly often. The only workaround I can think of currently is to split my tilesheet into N separate tilesheets, each of which is Mx1 dimensions, where N is the number of Autotile sets I want, and M is the number of tiles in each Autotile set, such that I can draw contiguous rectangles in the editor. This is incredibly unreasonable for obvious reasons. Maybe there's a way to do this with a script in Godot.. but re-inventing Autotile in a script seems tedious and silly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-04-24T03:47:37Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4436,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Autotile doesn't seem to support adding more tiles to the current selection",
+  "up": 1,
+  "updatedAt": "2022-04-24T05:32:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4436"
+}

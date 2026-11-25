@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal alters the workflow and many of the inner workings of the AnimationTree system, so I do not believe script could easily address this problem.",
+    "format": "form",
+    "workaround": "This proposal alters the workflow and many of the inner workings of the AnimationTree system, so I do not believe script could easily address this problem."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-09-25T23:38:38Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 3352,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Retool AnimationTree parameter system to use a blackboard-based approach",
+  "up": 46,
+  "updatedAt": "2025-10-09T01:38:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3352"
+}

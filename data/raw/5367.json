@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This to avoid merging opensubdiv into Godot Engine.",
+    "format": "form",
+    "workaround": "We're trying to write a script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-09-07T22:14:18Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5367,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose all Mesh, MeshInstance3D, ImporterMeshInstance3D, and ImporterMesh virtual methods",
+  "up": 5,
+  "updatedAt": "2022-09-08T10:16:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5367"
+}

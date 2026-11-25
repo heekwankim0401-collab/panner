@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Most advanced programming languages have such an option for dictionaries like Java where you type:\n```java\nMap<String,Integer> map = new HasMap<>();\n```\nIt would be very useful in vanilla Godot.",
+    "format": "form",
+    "workaround": "Not really \"few lines\". That would require constant checking of the dictionary or a separate function that would check the entry before adding it to the dictionary."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-01T20:03:23Z",
+  "comments": 4,
+  "createdAt": "2023-05-01T17:30:05Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6786,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Typed dictionaries",
+  "up": 9,
+  "updatedAt": "2023-05-02T11:00:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6786"
+}

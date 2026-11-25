@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The functionality already exists in the core (`Label`). It'd be redundant to mimic it through add-ons.",
+    "format": "form",
+    "workaround": "It is possible to calculate the string size and descent and manually position the text, but it is error-prone and requires knowledge of the terminology. It's of course also possible to use `Label` but that defeats the point of custom drawing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-10-22T23:36:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5639,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `CanvasItem.draw_string_rect()` for bounded text drawing",
+  "up": 3,
+  "updatedAt": "2022-10-24T12:25:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5639"
+}

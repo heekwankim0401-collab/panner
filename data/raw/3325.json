@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because this is the missing piece for pixel perfect custom scaling support using font oversampling.\nI think is a bad practice to limit the font oversampling to \"STRETCH_MODE_2D\" too, as the aim for \"STRETCH_MODE_DISABLED\" is to have a custom resolution implementation.\nThis helps to fix missing features for addons like [integer resolution handler plugin](https://github.com/Yukitty/godot-addon-integer_resolution_handler) or overscan custom implementations, as in our project.",
+    "format": "form",
+    "workaround": "This can be worked around in a hacky way in the current godot 3.3.3.stable, here is the example using the [Yukitty](https://github.com/Yukitty)'s [integer resolution handler plugin](https://github.com/Yukitty/godot-addon-integer_resolution_handler) code as reference:\n\n```\nif(SceneTree.STRETCH_MODE_2D): #This hack can't be implemented in another mode\n\tget_tree().set_screen_stretch(SceneTree.STRETCH_MODE_2D, SceneTree.STRETCH_ASPECT_KEEP, video_mode / scale, 1.0) #Hack for missing update_font_oversampling, reverse enginered the original oversampling formula resulting in semi perfect rounded values (2.0014 for example instead of 2.0) in the internal _update_font_oversampling call from scene_tree\n\t#Apply custom scaling values\n\t_root.set_size((viewport_size / stretch_shrink).floor())\n\t_root.set_attach_to_screen_rect(Rect2(margin, viewport_size))\n\t_root.set_size_override_stretch(true)\n\t_root.set_size_override(true, (screen_size / stretch_shrink).floor())\n\t\t\t\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-05T23:08:48Z",
+  "comments": 1,
+  "createdAt": "2021-09-21T01:40:13Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "3.x",
+  "number": 3325,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose scene_tree's _update_font_oversampling() to the scripting API",
+  "up": 0,
+  "updatedAt": "2022-01-05T23:08:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3325"
+}

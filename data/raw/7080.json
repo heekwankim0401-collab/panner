@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The code changes required are very small (~20 lines) and SceneTree is a part of engine's core",
+    "format": "form",
+    "workaround": "Nope, in fact implementing any kind of node count caching or custom group system would require much more effort than adding said method to `SceneTree`."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-14T16:45:51Z",
+  "comments": 0,
+  "createdAt": "2023-06-13T22:55:10Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 7080,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `get_node_count_in_group(group)` to `SceneTree`",
+  "up": 7,
+  "updatedAt": "2023-12-15T00:24:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7080"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think that it can be done in an asset.",
+    "format": "form",
+    "workaround": "Unfortunately, it cannot. `GodotPhysicsServer2D::CollCbkData` has support for a `valid_dir`, but that variable is only set in cpp (https://github.com/godotengine/godot/blob/87f897ae0ad5a6770c6ee267e2f3458c89a06df7/modules/godot_physics_2d/godot_space_2d.cpp#L640 and elsewhere) and it is only set to `col_obj_shape_xform.columns[1].normalized()`. I cannot simply override the value of `col_obj_shape_xform.columns[1].normalized()`, as this has other implications."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-10T14:32:50Z",
+  "comments": 1,
+  "createdAt": "2025-03-28T14:15:38Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": "4.7",
+  "number": 12093,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add one-way collision direction for CollisionShape2Ds",
+  "up": 9,
+  "updatedAt": "2026-02-10T14:34:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12093"
+}

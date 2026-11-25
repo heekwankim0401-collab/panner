@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Actually this could be an addon I think, but I could really use some advice from the developers on achieving this. But first - do you think this is doable?\n\n**Other usages for this**\nBesides the usage that the user would be able to make a game by voice, this could also be used to run commands and verify the results were as expected: this could be used for continuous integration. Furtermore, by open-sourcing this functionality, users might be able to add more actions.\n\n**My end goal - after this**\nUltimately, if this is implemented (I would do it ofc, or if anyone helps) I would like to improve on this functionality to create a really useful assistant for game developers. We repeat the same tedious actions, actions that we extract from tutorials, things that shouldnt be the main focus of game creation: i recent times we need to create more content than before, and of a greater quality. This assistant would give us more time for the creative process. But again, this is just something I would like to do after this.",
+    "format": "legacy",
+    "workaround": "I don't think all actions are accessible by running gdscript, but I could interface these functionalities."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-19T12:37:46Z",
+  "comments": 9,
+  "createdAt": "2020-10-19T06:28:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1689,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Using the editor from a list of commands",
+  "up": 1,
+  "updatedAt": "2020-10-19T16:01:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1689"
+}

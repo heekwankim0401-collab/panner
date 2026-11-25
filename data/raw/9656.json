@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this should be added to the core",
+    "format": "form",
+    "workaround": "yes"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-05-02T13:56:20Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9656,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "The audio format should be viewed in the inspector, not in a new window",
+  "up": 0,
+  "updatedAt": "2024-05-02T16:55:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9656"
+}

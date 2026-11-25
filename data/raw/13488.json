@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can be a plugin – https://github.com/Herbherth/GDScript-Quality-of-Life already is – but I don't see why this can't be part of the editor as every GDscript coder will experience this minor inconvenience a thousand times over in their project.",
+    "format": "form",
+    "workaround": "You can manually remove the indentation after typing `return`, `break` or `continue`, of course."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2025-10-27T13:12:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13488,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Auto remove one indentation after `return`, `break` and `continue`",
+  "up": 23,
+  "updatedAt": "2025-11-05T15:46:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13488"
+}

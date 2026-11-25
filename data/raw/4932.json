@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "No, this is code to the rendering server",
+    "format": "form",
+    "workaround": "No, this is code to the rendering server"
+  },
+  "assignees": 1,
+  "closedAt": "2026-11-03T02:24:01Z",
+  "comments": 4,
+  "createdAt": "2022-07-21T00:55:15Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 4932,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change Camera properties in Rendering Server to use new Projection class",
+  "up": 15,
+  "updatedAt": "2026-11-03T02:24:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4932"
+}

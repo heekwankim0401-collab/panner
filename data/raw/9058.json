@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "this is a core feature in other engines like unity, and currently missing from Godot. Cloth is not the same as softbody and there are no workarounds, softbody moves in space, but cloth should not move, it needs to be implemented separately.\nSoftbody is still good for other uses, so it should stay as well.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-09T10:31:05Z",
+  "comments": 1,
+  "createdAt": "2024-02-08T22:08:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9058,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Cloth Node",
+  "up": 1,
+  "updatedAt": "2024-02-09T10:31:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9058"
+}

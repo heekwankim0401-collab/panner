@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Discoverability for the people who would make use of it.",
+    "format": "form",
+    "workaround": "For some cases a normal sprite editor suffices, even without gradients. But otherwise you need to spend a lot of time or use another tool."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-29T15:17:18Z",
+  "comments": 0,
+  "createdAt": "2023-04-17T14:39:10Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.1",
+  "number": 6712,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a square fill mode in GradientTexture2D",
+  "up": 6,
+  "updatedAt": "2023-06-13T12:21:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6712"
+}

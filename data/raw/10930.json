@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "To be honest, I don't know if it's possible to implement this outside the engine.",
+    "format": "form",
+    "workaround": "No, it can't be worked around because it needs to be implemented on the engine itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-10-07T17:56:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10930,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add to `TextEdit` END key state support",
+  "up": 1,
+  "updatedAt": "2025-03-05T12:44:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10930"
+}

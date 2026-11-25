@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, it's such a cool feature, I plan on using it for most of my games, as it is, but being able to send an entire scene into Blender, work on it, and then send it back, would be amazing . . perhaps even a Blender plug-in, that allows live updates, ie. it updates the meshes, that have been changed, not the entire ' scene ', so one has ' live ' level editing, Godot < - - > Blender, or so, thanks . . <3",
+    "format": "markdown",
+    "workaround": "I can't code the engine, I can make a basic controller, and some levels, so I can't do this, atm . ."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-25T23:17:21Z",
+  "comments": 9,
+  "createdAt": "2021-01-08T07:18:13Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "3.x",
+  "number": 2086,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add so the new .glTF exporter can export entire scenes, not just one mesh . .",
+  "up": 0,
+  "updatedAt": "2021-12-25T23:17:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2086"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An add-on is possible but seems overkill for a simple change.",
+    "format": "form",
+    "workaround": "Work around\n\n```\nvar dict:Dictionary;\nvar dkeys:Array = dict.keys();\ndkeys.sort();\nfor ltr in dkeys:\n\t# do stuff here\n\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-11-13T12:54:04Z",
+  "down": 5,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5771,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Array.sort() should return a reference to the array",
+  "up": 2,
+  "updatedAt": "2022-11-13T23:06:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5771"
+}

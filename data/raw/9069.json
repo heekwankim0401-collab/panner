@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a simple improvement on the existing VisibleOnScreenEnabler2D (and I guess VisibleOnScreenEnabler3D as well, however I haven't  tested that one)",
+    "format": "form",
+    "workaround": "I was trying to use VisibleOnScreenNotifier2D to make my own implementation of a VisibleOnScreenEnabler2D that can be disabled, however I'm not sure how could I imitate its capabilities to use the render culling code to determine whether it's visible on screen. So I couldn't find any way to create a VisibleOnScreenEnabler2D that can be disabled."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-16T23:28:55Z",
+  "comments": 3,
+  "createdAt": "2024-02-11T00:28:17Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.3",
+  "number": 9069,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "There should be a way to disable a VisibleOnScreenEnabler",
+  "up": 3,
+  "updatedAt": "2024-02-16T23:34:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9069"
+}

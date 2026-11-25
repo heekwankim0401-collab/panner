@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Users do not know every property being renamed or moved around in Godot releases and simply turning old ones into 'custom' adds bloat and confusion.",
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-04T08:56:32Z",
+  "comments": 6,
+  "createdAt": "2021-05-04T07:23:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2686,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Mark and/or hide renamed properties",
+  "up": 0,
+  "updatedAt": "2021-06-21T20:37:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2686"
+}

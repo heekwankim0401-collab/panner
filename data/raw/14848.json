@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2026-05-15T05:41:46Z",
+  "down": 1,
+  "labels": [
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 14848,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Windows: Support embedding Godot into a WinUI3 SwapChainPanel",
+  "up": 4,
+  "updatedAt": "2026-05-20T07:50:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14848"
+}

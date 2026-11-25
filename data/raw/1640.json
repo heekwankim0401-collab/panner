@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The Camera2D is a central node for 2D games.",
+    "format": "legacy",
+    "workaround": "No. It requires adding one or more additional nodes to a scene using a camera to enable the previous behavior or implementing a custom camera node."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-10-09T10:20:04Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1640,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Restore original behavior of the Camera2D offset respecting limits and set current behavior as optional",
+  "up": 8,
+  "updatedAt": "2024-11-26T22:21:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1640"
+}

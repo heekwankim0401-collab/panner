@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's in a core node.",
+    "format": "form",
+    "workaround": "Don't think so as it's a default node implementation"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-08T11:50:07Z",
+  "comments": 1,
+  "createdAt": "2023-08-17T18:42:33Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.2",
+  "number": 7520,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Angular Limits for PinJoint2D Node",
+  "up": 5,
+  "updatedAt": "2024-11-08T14:27:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7520"
+}

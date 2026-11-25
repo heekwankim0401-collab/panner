@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Bec. as many people like web-deving, and it could make normal PC-run, local games load faster, it makes sense, to have something like this, maybe where some threads are set aside, for loading, not sure, what is the best way, to do this, etc etc . . . Or, one could have a setting, in project settings, for how many threads one wants to set aside, for background loading, if one wants this feature, at all <3\n\nThx . . <3",
+    "format": "legacy",
+    "workaround": "Again, this needs to be done, at engine level, it could also benefit load times, on hard-drive games, not just web-games, or so . ."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-21T11:52:00Z",
+  "comments": 2,
+  "createdAt": "2020-10-21T02:44:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1697,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improving loading protocol and efficiency for web-browser run games . .",
+  "up": 0,
+  "updatedAt": "2020-10-21T11:52:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1697"
+}

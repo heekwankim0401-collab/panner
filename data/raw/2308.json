@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's the base UI. This probably has to be changed in Godots core.",
+    "format": "markdown",
+    "workaround": "No, it's Godots UI. Maybe there is a setting somewhere, but I haven't found it yet."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-18T14:50:17Z",
+  "comments": 3,
+  "createdAt": "2021-02-18T07:34:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2308,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Minimizing parts of the Godot Engine UI",
+  "up": 0,
+  "updatedAt": "2021-02-18T14:50:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2308"
+}

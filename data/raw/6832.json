@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A plugin can add custom node but again it is not so handy",
+    "format": "form",
+    "workaround": "It can but it is not so handy"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-05-08T13:48:24Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6832,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Window`'s built-in `close confirmation` dialog",
+  "up": 0,
+  "updatedAt": "2023-05-08T15:54:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6832"
+}

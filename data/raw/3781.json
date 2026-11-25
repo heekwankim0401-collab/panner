@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "An add-on would be a re-implementation of the core functionality.",
+    "format": "form",
+    "workaround": "I'm not sure if there's an elegant way to work around this right now. None of these are particularly good:\n\n1. Manually copying enablers throughout the tree (the simplest solution today)\n2. Writing a custom FlexibleVisibilityEnabler2D that's more-or-less a clone of the implementation of the built-in one, with the ability to find nodes recursively."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-09T23:08:29Z",
+  "comments": 4,
+  "createdAt": "2022-01-09T22:23:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3781,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose additional NodePaths to VisibilityEnabler (and VisibilityEnabler2D)",
+  "up": 0,
+  "updatedAt": "2022-01-09T23:09:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3781"
+}

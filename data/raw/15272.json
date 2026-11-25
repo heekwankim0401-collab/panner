@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-27T10:27:13Z",
+  "comments": 1,
+  "createdAt": "2026-07-27T09:38:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 15272,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "POT Translation Template Generation Tool File Selector should allow selecting Folders recursively",
+  "up": 0,
+  "updatedAt": "2026-07-27T23:29:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15272"
+}

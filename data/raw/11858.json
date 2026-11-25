@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires changing the Godot editor code.",
+    "format": "form",
+    "workaround": "You could probably write a plugin to do this, but it would be better to have such a useful feature as a native part of the editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-02-26T18:57:58Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11858,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add way for animation editor to convert a track with keyframes to bezier curves",
+  "up": 1,
+  "updatedAt": "2025-02-26T23:16:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11858"
+}

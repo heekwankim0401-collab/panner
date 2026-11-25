@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is in core, and as a matter of fact i think it's pretty stupid that a helper class has it's functions inconsistently wrapped, and the others functions not wrapped in Geometry3D should also be exposed.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-01-01T22:38:02Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11467,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `Geometry3D.triangle_box_overlap()` to scripting",
+  "up": 0,
+  "updatedAt": "2025-01-03T13:32:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11467"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "This is part of the core of the engine"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-17T13:49:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:docs",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9764,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "[Docs] Add meta information to arguments, return values, and members",
+  "up": 3,
+  "updatedAt": "2024-05-17T13:49:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9764"
+}

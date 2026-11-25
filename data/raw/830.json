@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "If it can be made as an add-on asset, that would work for my purposes, as long as it could successfully be integrated with an HTML5 game. My vision is that in the end, any action of the linked object would appear to be a native decision by the game, including any permissions it might need.",
+    "format": "legacy",
+    "workaround": "I have my doubts. Godot has a number of reasonable restrictions against making system calls from WebAssembly, as do modern browsers. For desktop stuff, it could maybe be done with some piping but I'm not convinced it wouldn't still require more than a few lines and potentially extra dependencies, along with testing on each target platform. For WebAssembly, it may actually require a web request (like AJAX did), which opens up all kinds of complications. If these objects could be treated as resources, code-as-data-style, it would get around all of this."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-06T20:06:52Z",
+  "comments": 12,
+  "createdAt": "2020-05-13T04:55:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 830,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow for linking from GDScript to functions in C-compatible binary objects, as Resources",
+  "up": 0,
+  "updatedAt": "2023-06-06T20:06:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/830"
+}

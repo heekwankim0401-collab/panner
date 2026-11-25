@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Not possible to do as addon.",
+    "format": "form",
+    "workaround": "No, It's a core engine issue."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-09-02T03:12:02Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5308,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow baking of SDFGI into a 2D texture look up array instead of generating in real time",
+  "up": 0,
+  "updatedAt": "2022-09-09T22:17:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5308"
+}

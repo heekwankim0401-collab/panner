@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a fundamental change to the code.",
+    "format": "form",
+    "workaround": "Yes, you could use big if-else statements, but the entire point of a match statement is to avoid ugly if-else blocks. There is nothing an if-else could do that a match statement couldn't."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-14T19:00:56Z",
+  "comments": 5,
+  "createdAt": "2022-06-14T07:06:15Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4667,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Give match statements a \"next\" keyword instead of \"continue\"",
+  "up": 0,
+  "updatedAt": "2022-06-14T21:07:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4667"
+}

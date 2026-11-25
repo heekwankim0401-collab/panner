@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It feels natural for the feature to exist within the editor. The fact that it's missing feels more like a papercut than anything. I'm not sure the existing functionality can be modified with an add-on but I'm not familiar enough with the codebase to know for sure.",
+    "format": "form",
+    "workaround": "There are two ways to work arount hsi currently:\n- Create these nested folders one by one in Godot (and wait for the scanning process to complete each time). This is very slow.\n- Do it outside of Godot in file explorer.\n\nNeither option is optimal."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-25T08:01:44Z",
+  "comments": 7,
+  "createdAt": "2023-04-11T05:07:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.1",
+  "number": 6678,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create Folder popup should support nested folders",
+  "up": 1,
+  "updatedAt": "2023-07-17T08:08:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6678"
+}

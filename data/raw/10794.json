@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, because it provides convenience at the grammatical level",
+    "format": "form",
+    "workaround": "Not very achievable, requires syntax support"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-21T10:03:39Z",
+  "comments": 1,
+  "createdAt": "2024-09-21T09:37:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10794,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Godot should add syntax for deconstructing and assigning values",
+  "up": 4,
+  "updatedAt": "2024-09-21T10:03:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10794"
+}

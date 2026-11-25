@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Tooltips are core.",
+    "format": "markdown",
+    "workaround": "Yeah, I guess I could just instance the invisible buttons on top of everything else, I guess. But I would rather have the buttons be children of the enemy sprites instead. Unless that's not a good way to do it?"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-17T10:44:27Z",
+  "comments": 1,
+  "createdAt": "2021-05-17T06:18:26Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2732,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow tooltips to display over all other nodes",
+  "up": 0,
+  "updatedAt": "2021-05-17T12:17:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2732"
+}

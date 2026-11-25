@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Unsure if this can be implemented as an add-on without resorting to the above mentioned work around.",
+    "format": "markdown",
+    "workaround": "The only obvious alternative is to use OS.execute to run a command to get the interface details, then parse the output. The code will be complicated since the OS command differs between platforms and the output format varies by OS versions. The result will be unreliable at best."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-02-11T13:49:02Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 2274,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add subnet mask and gateway to results from `IP.get_local_interfaces()`",
+  "up": 3,
+  "updatedAt": "2024-02-16T15:18:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2274"
+}

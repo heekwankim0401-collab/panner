@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a papercut that shouldn't exist. Also addons can't change the project manager as far as I'm aware.",
+    "format": "form",
+    "workaround": "It can be worked around easily by browsing to a folder that actually exists, creating a project then going to Editor Settings and updating the setting."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-05T09:25:12Z",
+  "comments": 2,
+  "createdAt": "2024-06-05T01:04:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9890,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Project Manager option to set default Project Path directory",
+  "up": 1,
+  "updatedAt": "2024-06-05T09:25:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9890"
+}

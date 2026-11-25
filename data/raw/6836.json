@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Given the engine already performs this kind of computation in core, it's best to expose the same value the engine is internally using to avoid any discrepancy.",
+    "format": "form",
+    "workaround": "The following line can be used in any script that extends Node:\n\n```gdscript\nvar scale_factor: float = min(\n\t\t(float(get_viewport().size.x) / get_viewport().get_visible_rect().size.x),\n\t\t(float(get_viewport().size.y) / get_viewport().get_visible_rect().size.y)\n)\n```\n\nYou can check it in action in this testing project (4.x): [test_scale_factor.zip](https://github.com/godotengine/godot-proposals/files/11425654/test_scale_factor.zip)\n\nThis works with all stretch modes and aspects, and also takes the user-defined scale factor into account automatically (`display/window/stretch/scale`). However, this isn't simple to remember and it requires a fair amount of typing for something that is needed quite often."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-27T16:53:46Z",
+  "comments": 1,
+  "createdAt": "2023-05-08T22:29:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 6836,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Window method to return the automatically computed 2D scale factor",
+  "up": 5,
+  "updatedAt": "2024-11-29T11:30:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6836"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think that we can do it in the editor itself so there is no way that someone can upload it into the asset lib.",
+    "format": "markdown",
+    "workaround": "I didn't find a way to animate Tooltips."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-29T00:36:36Z",
+  "comments": 2,
+  "createdAt": "2020-11-28T23:58:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1905,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Animation states for UI elements",
+  "up": 0,
+  "updatedAt": "2020-11-29T00:38:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1905"
+}

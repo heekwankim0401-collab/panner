@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this could be implemented as a plugin, but\n- This would require some rather non-trivial and ugly hacks with ScriptEditor\n- I hope this would be used often - for example every time a new plugin is installed from the AssetLib Godot would automatically add all addon scripts to the readonly scripts list by default)\nI believe this could be used by the engine in some other cases as well.",
+    "format": "markdown",
+    "workaround": "see below"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-01-10T06:17:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2098,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to make a script read-only in ScriptEditor",
+  "up": 7,
+  "updatedAt": "2024-10-07T10:11:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2098"
+}

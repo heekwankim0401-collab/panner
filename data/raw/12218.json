@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This could be a plugin but it's not convenient, this mode would be very convenient for touch screens, and is perfect for a place like Embedded Game.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-04-12T00:00:04Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12218,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add analog joysticks to window Embedding game for android",
+  "up": 1,
+  "updatedAt": "2025-04-12T14:12:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12218"
+}

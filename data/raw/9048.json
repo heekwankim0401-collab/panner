@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature saves us from writing unnecessary code and gives us much more flexibility.",
+    "format": "form",
+    "workaround": "It must be in the core of the engine."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-07T18:01:24Z",
+  "comments": 1,
+  "createdAt": "2024-02-07T17:59:13Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 9048,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Emit signal when property value changes",
+  "up": 0,
+  "updatedAt": "2024-02-07T18:01:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9048"
+}

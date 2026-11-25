@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think a plugin can't help here - it should be able to\n- read the error\n- find places with code in the error text\n- somehow make these places clickable",
+    "format": "form",
+    "workaround": "You have to type the code manually, and this is not handy"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-12T20:53:18Z",
+  "comments": 1,
+  "createdAt": "2023-06-01T21:40:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 6998,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an ability to copy code hints in errors",
+  "up": 3,
+  "updatedAt": "2025-06-12T20:53:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6998"
+}

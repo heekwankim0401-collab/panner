@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A plugin can be made but this feature is useful :)\nCurrently Preview sun settings are hardcoded which is not so flexible",
+    "format": "form",
+    "workaround": "Not a few lines, also this would require to make a plugin"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-09-06T04:03:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5349,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an EditorSettings setting to set `default sun energy` for `Preview Sun`",
+  "up": 0,
+  "updatedAt": "2022-09-06T15:17:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5349"
+}

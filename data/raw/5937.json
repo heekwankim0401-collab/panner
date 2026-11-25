@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is something that can probably only be implemented directly inside the engine.",
+    "format": "form",
+    "workaround": "No, as there is no way of doing this in GDScript as far as I know."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-12T17:20:08Z",
+  "comments": 12,
+  "createdAt": "2022-12-14T15:05:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 5937,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Give developers more control over logging prints/warns/errors etc.",
+  "up": 5,
+  "updatedAt": "2025-07-12T17:20:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5937"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its another static typing feature which I think is good",
+    "format": "legacy",
+    "workaround": "this would be used whenever someone wants static typing for a collection like a array or dictionary or numeric struct like a vector\nit can be worked around but it takes a bunch of type checking for everything you do and this easily because unmanageable and ugly"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 72,
+  "createdAt": "2020-07-16T20:15:37Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1207,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add generic parameters to allow strongly typing for collections",
+  "up": 218,
+  "updatedAt": "2026-09-29T13:02:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1207"
+}

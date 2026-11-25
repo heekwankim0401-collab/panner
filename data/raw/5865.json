@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be an integrated feature of the debugger/compiler/editor but maybe it could be made an add-on as well.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-28T10:06:58Z",
+  "comments": 1,
+  "createdAt": "2022-11-28T09:57:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5865,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Godot 3 to 4 conversion hints to errors in code editor when appropriate, reusing import tool",
+  "up": 0,
+  "updatedAt": "2022-11-28T10:07:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5865"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See previous answer, the core API does not expose setting the blend equation in any way other than the fixed blend modes.",
+    "format": "form",
+    "workaround": "No, it can not be worked around as neither shaders, nor materials, not `RenderingServer` allow direct manipulation of the blend equations. Everything must go through the `CanvasItemMaterial` enum `BlendMode`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-04-23T17:46:45Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4433,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Separate blend mode from premultiplied alpha in CanvasItemMaterial",
+  "up": 7,
+  "updatedAt": "2022-04-25T07:32:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4433"
+}

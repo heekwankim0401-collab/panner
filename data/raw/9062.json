@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There is no way to make workaround with scripts because solution lays on Input Device layer.",
+    "format": "form",
+    "workaround": "It opens possibility to create games for wear os devices for many developers. As I know nowdays there is no game enguine which support Rotary input."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-17T21:00:48Z",
+  "comments": 1,
+  "createdAt": "2024-02-09T10:26:09Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 9062,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Rotary input support for android(wear os) platform.",
+  "up": 2,
+  "updatedAt": "2024-02-17T21:00:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9062"
+}

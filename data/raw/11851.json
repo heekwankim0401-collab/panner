@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the default UX",
+    "format": "form",
+    "workaround": "This would be used often by people working a lot in the animation player"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-16T12:46:31Z",
+  "comments": 0,
+  "createdAt": "2025-02-25T20:21:06Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 11851,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to select node in scene from the list view in the Animation Player",
+  "up": 6,
+  "updatedAt": "2025-05-16T12:47:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11851"
+}

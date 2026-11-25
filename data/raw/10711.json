@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`Node` is core.",
+    "format": "form",
+    "workaround": "I suspect it will be used a fair bit. Manually connecting every child and maintaining them that way is possible, but feels excessive and cumbersome for the seemingly simple use."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-09-10T18:45:49Z",
+  "down": 4,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10711,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `descendant_entered_tree` signal to `Node`",
+  "up": 3,
+  "updatedAt": "2025-05-24T18:42:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10711"
+}

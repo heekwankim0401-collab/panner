@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's engine",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-01-14T10:20:46Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:particles",
+    "topic:shaders"
+  ],
+  "milestone": "4.x",
+  "number": 11556,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add comments in converted ProcessMaterial to explain what CUSTOM does",
+  "up": 3,
+  "updatedAt": "2025-01-14T10:21:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11556"
+}

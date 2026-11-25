@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There are already addons for creating jiggle bones that fix this issue, but the built in SkeletonModification*DJiggle is already very close to being able to completely replace these.",
+    "format": "form",
+    "workaround": "Yes, but doing so is is not trivial. Jiggle bones really should be something an artist can set up without programming knowledge."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-09-15T23:20:08Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 5429,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using SkeletonModification3DJiggle and SkeletonModification2DJiggle without a target",
+  "up": 4,
+  "updatedAt": "2025-07-16T22:42:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5429"
+}

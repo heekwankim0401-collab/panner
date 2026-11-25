@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "there aren't any ways of making such change without creating entire new classes just for the property renaming, which may not be a good idea.",
+    "format": "form",
+    "workaround": "the aforementioned instruction would still work,\n```gdscript\nfunc request_client_start() -> void:\n  propagate_call(&\"set\", [\"disabled\", true])\n  propagate_call(&\"set\", [\"editable\", false])\n  # [...]\n```\nbut it doesn't feel right that two calls for property changes are being made for the same purpose."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-04-16T21:28:49Z",
+  "down": 1,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12260,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Control: rename `editable` into `disabled` for `LineEdit` and related Nodes to match other input `Control`s",
+  "up": 0,
+  "updatedAt": "2025-04-18T13:32:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12260"
+}

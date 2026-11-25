@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Making plugins or third party tools that will produce the same effect is certainly possible and achievable,as demonstrated by `godot-secure`. However, as I stated earlier, it's not a reliable way and highly prone of breakage as the upstream is not aware of such tool's existence. Plus, in a long run, downstream plugins have to be cooperative with the upstream all the time, hence the immense maintenance effort, and making such crude implementation to modify source code as third party is a messy and costly way to maintain such project.",
+    "format": "form",
+    "workaround": "This is a direct substitute to source encryption method, and heavily involves with source modification. It requires deep integration with the game engine itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 27,
+  "createdAt": "2025-08-12T16:20:47Z",
+  "down": 1,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 12985,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a build option to produce non-standard file parsing procedures",
+  "up": 6,
+  "updatedAt": "2025-08-15T04:35:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12985"
+}

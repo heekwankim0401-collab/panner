@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The new tilemap has a ton of great features! And I think that people will very often be wanting to interact in one way or another with scenes they have created and having to make multiple or annoying workarounds is rough, it may start to seem like if scenes were to be included in the tilemaps there should be some way to access them somehow.",
+    "format": "form",
+    "workaround": "There are a few ways to work around this, but it requires either the use of storing the objects in a dictionary then finding the key associated with the tile/cell or using colliders to search for it etc, then say you wanted to delete the object after interacting with it you would THEN need to ask the tilemap to delete the very cell- and therefore the node- you were just working on."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-07-07T22:28:23Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4833,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow new Tilemap cells with scenes to return the node/scene they create",
+  "up": 38,
+  "updatedAt": "2025-01-22T23:46:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4833"
+}

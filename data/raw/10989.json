@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The shader editor and compiler is core.",
+    "format": "form",
+    "workaround": "It can be worked around by documenting the behavior, and by assigning a value before using a variable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-10-17T20:12:14Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10989,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add warning when using an unassigned/uninitalized variable in shaders",
+  "up": 2,
+  "updatedAt": "2024-10-18T20:49:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10989"
+}

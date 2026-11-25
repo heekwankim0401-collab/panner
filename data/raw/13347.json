@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving Control prototyping out of the box, and bringing Godots' UI workflow up to speed with the web.",
+    "format": "form",
+    "workaround": "You can create your own minimal theme and copy-paste it among new projects. However, this is cumbersome.\n\nI believe that this enhancement will be used often by both new and experienced users, given the strong presence of CSS Resets on the web."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-10-09T00:47:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13347,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an alternative default Control theme that unstyles all parameters",
+  "up": 1,
+  "updatedAt": "2025-10-09T21:51:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13347"
+}

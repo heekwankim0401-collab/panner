@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be a core implementation because the tileset has an unusable collision mask property that you can edit and sort of work with. This makes projects that use custom collision behaviour regarding the tilemap such as destroyable tiles so much more easy to implement.",
+    "format": "form",
+    "workaround": "I add a work around but it would be a annoying inconvenience having to create a new physics layer for the tilemap alone and applying it to all my objects that occupy the \"solids\" physics layer. (In my program, the solids physics layer is a layer that all physical entities could collide in.) and having to remotely call a function from the tilemap script in the object scripts. A more local method that is prebuilt would be nice to have."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-07-08T18:22:19Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7244,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Tilemap collision detection.",
+  "up": 1,
+  "updatedAt": "2023-07-18T00:22:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7244"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's GDScript.",
+    "format": "form",
+    "workaround": "Yes, the workaround is simply to write a for-if loop to initialize the array or dictionary. However, I feel this would be used often enough to warrant a shortcut."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-22T22:10:15Z",
+  "comments": 2,
+  "createdAt": "2021-08-22T22:04:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3186,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Python-Like For-If-Clause for initializing GDScript's Arrays and Dictionary",
+  "up": 0,
+  "updatedAt": "2021-08-22T22:25:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3186"
+}

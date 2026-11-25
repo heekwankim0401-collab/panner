@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It prevents a whole category of addons (Font format support addons) from even being made, or it seems to.",
+    "format": "legacy",
+    "workaround": "No. The workaround I envision is probably figuring out some way to convert from the Wolfenstein 3-D font format to the FNT format and then loading that into a BitmapFont, but since I don't know how the FNT format works, that'll require tedious research."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2019-10-31T01:29:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 193,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow extending Font class",
+  "up": 1,
+  "updatedAt": "2021-05-07T17:13:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/193"
+}

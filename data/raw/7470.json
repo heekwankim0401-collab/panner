@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the ui node's usability out of the box.",
+    "format": "form",
+    "workaround": "I am finding it very difficult to work around. To get the text box sizes I want, I feel I have to forgo using any containers that lay out nodes in any way.\nThe only (bad) solutions I have found so far, are to make the text have no StyleBox; and then use separate nodes to display the graphics for the text box, and then lay them all out manually."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-10T15:49:38Z",
+  "comments": 3,
+  "createdAt": "2023-08-09T14:26:21Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7470,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Customization of Leading and Descent Metrics for Single Line Text Boxes like LineEdit",
+  "up": 0,
+  "updatedAt": "2023-08-10T15:49:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7470"
+}

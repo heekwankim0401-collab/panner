@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It should be part of the core engine since it's not heavy weight and right at home with the other light sources.",
+    "format": "form",
+    "workaround": "This feature will be commonly used. Especially for those who are previewing assets they've made in a DCC tool like Maya or Blender and want to render them in-engine. Environment Artists who needs precision with their light sources. Arc-Vis and Engineers who need to craft a basic lighting set ups that are accurate. This shouldn't take long to make since a lot of the work has already has been completed only needing those specific additions."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-01T22:53:15Z",
+  "comments": 1,
+  "createdAt": "2024-10-31T19:50:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11059,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "An AreaLight3D Node?",
+  "up": 3,
+  "updatedAt": "2024-11-01T22:58:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11059"
+}

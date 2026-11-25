@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Deforming a mesh along a curve is a pretty common use for them, with enough versatility this could be used for many purposes.",
+    "format": "form",
+    "workaround": "More than a few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-23T02:05:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12844,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `PathMesh3D` node that deforms mesh along a `Curve3D`",
+  "up": 8,
+  "updatedAt": "2026-02-19T14:56:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12844"
+}

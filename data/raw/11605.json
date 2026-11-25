@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It exists only within the animation clip, automatically updating its value during playback, and does not concern itself with who is using it.",
+    "format": "form",
+    "workaround": "Yes, you can add new variables to the AnimationPlayer node by using (extends AnyNode), and then add tracks for these variables within the animation clip."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-01-18T23:43:00Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 11605,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add separate properties to the animation clip",
+  "up": 0,
+  "updatedAt": "2025-01-19T16:08:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11605"
+}

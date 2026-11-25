@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "For Game Jams and Prototyping, having this in core would improve work flow and conversion rate of new users.\nWhy should new users have to learn the Asset system or learn to use Directory command chain (that warns new users you can mess it up without multiple correct error checks) just to preload a folder into an array?",
+    "format": "form",
+    "workaround": "Can't do Godot Editor tricks that preload(constPathFileExt: String) does."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-02-08T22:31:38Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3933,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "ResourceArray preloadDirectory(constPath: String, constExtension: String) const # preload folder at compile time",
+  "up": 0,
+  "updatedAt": "2022-02-09T19:16:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3933"
+}

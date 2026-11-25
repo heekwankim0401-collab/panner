@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core functionality",
+    "format": "form",
+    "workaround": "I don't know."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-04-12T06:08:04Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12220,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to control which buttons from the touch action panel are visible",
+  "up": 2,
+  "updatedAt": "2025-04-20T12:27:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12220"
+}

@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2026-01-07T12:59:07Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "platform:macos",
+    "platform:windows",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13969,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow enabling additional Vulkan extensions for external memory sharing",
+  "up": 6,
+  "updatedAt": "2026-07-03T12:40:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13969"
+}

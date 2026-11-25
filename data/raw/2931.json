@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As it changes the behavior of a core GUI control this should be core. It could be useful in various parts of the editor as well as in projects(especially non-game projects/editors/...).",
+    "format": "form",
+    "workaround": "No, this requires some modifications of existing methods in the Label class/(+ eventually TextServer classes)."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-13T11:25:47Z",
+  "comments": 6,
+  "createdAt": "2021-06-28T12:41:50Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2931,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve Label's autowrap behavior and provide additional modes",
+  "up": 5,
+  "updatedAt": "2021-07-13T11:25:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2931"
+}

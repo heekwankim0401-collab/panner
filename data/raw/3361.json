@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It makes easier to deep profile scripts for GDScript and enables built-in profiling for C#, as there is no way to profile C# scripts with Godot's built-ins.",
+    "format": "form",
+    "workaround": "It would require a custom profiler tool that would display in-game, as there is no interface between the scripts and the editor profiler."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-09-28T12:37:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3361,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add scope profiling methods to profile custom blocks of code",
+  "up": 4,
+  "updatedAt": "2022-05-10T17:13:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3361"
+}

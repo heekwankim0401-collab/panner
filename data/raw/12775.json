@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not sure if addons can do that.",
+    "format": "form",
+    "workaround": "For now you can use generic `GDScript` exported variable and use quick load window to find the desired script. It's the fastest way. Or you can also make a resource (tres) file for every resource script you have but that's tedious and useless if you just want to use one method from the script and not have customizable variables."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-12T12:17:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12775,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow exporting GDScript with concrete type",
+  "up": 6,
+  "updatedAt": "2025-07-12T15:59:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12775"
+}

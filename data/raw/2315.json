@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This proposal improves `move_and_slide()` so it should be in core.\n\n**Edit:** added vertical moving platforms to the demo for testing purposes\n**Edit2:** added motion smoothing when we detect discontinuities",
+    "format": "markdown",
+    "workaround": "Any project that uses `move_and_slide()` for character motion will benefit from this approach.  There are other ways to solve this problem, for example:\n\n* re-parenting the node to the platform\n* organising the scene tree such that platforms are processed before characters so we know how to move the character\n* \"Sync to Physics\" option\n\nHowever from a users perspective, I think this approach is simpler, more beginner friendly and has basically no downsides compared to the current implementation of `move_and_slide()`."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-23T10:56:15Z",
+  "comments": 11,
+  "createdAt": "2021-02-19T14:49:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2315,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": " Improve the behaviour of `move_and_slide()` when on moving platforms",
+  "up": 8,
+  "updatedAt": "2021-02-23T15:28:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2315"
+}

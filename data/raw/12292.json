@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes, it seems to be a much needed feature from people doing procedural rendering and outdoor environments. Many folks face this limitation of instancing being too slow to generate and GPU particles requiring you to allocate more particles than you need.",
+    "format": "form",
+    "workaround": "No, GDScript is to slow, and while C# could maybe do it its a lot of tricky spaghetti code to implement it CPU side anyway. This should be possible on the GPU particle shaders like Blender, without having to dive into compute shaders."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-04-22T18:18:09Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:particles",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12292,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `discard` functionality to avoid generating geometry for certain particles in particle shaders",
+  "up": 1,
+  "updatedAt": "2025-04-22T18:30:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12292"
+}

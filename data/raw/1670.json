@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a really common problem. See https://cdn.discordapp.com/attachments/212250894228652034/766234248759083058/unknown.png",
+    "format": "legacy",
+    "workaround": "There is workaround, which involves relying on layering viewports and then apply transparency/outline on the rendered result, but that's not something that can be done in a few lines of script and super over-killed when all you need is to group a couple objects together."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-10-15T10:16:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1670,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to apply transparency on rendered result in 3D instead of individual components (implemented in 2D with CanvasGroup)",
+  "up": 7,
+  "updatedAt": "2022-04-09T21:22:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1670"
+}

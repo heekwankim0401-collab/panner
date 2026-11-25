@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be a change to the built-in property name of `Control` nodes.",
+    "format": "markdown",
+    "workaround": "This would be used in any project that makes heavy use of `Node2D` and `Control` nodes."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-15T01:02:26Z",
+  "comments": 4,
+  "createdAt": "2020-12-29T07:54:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2043,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove `rect_` prefix from Control node properties (for compatibility with Node2D)",
+  "up": 0,
+  "updatedAt": "2022-05-15T01:02:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2043"
+}

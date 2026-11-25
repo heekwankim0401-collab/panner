@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There aren't any API exposures that do anything like this, so it can't really be an add-on either.",
+    "format": "form",
+    "workaround": "Not that I'm aware of - it might be possible to create an array that you have the names of references that you add/remove from, but that can't really account for the automatic work that would be happening engine-side."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-08-18T21:06:38Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5200,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "More robust `Reference` tracking information in Debug",
+  "up": 0,
+  "updatedAt": "2022-08-21T20:12:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5200"
+}

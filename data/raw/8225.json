@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure this can implement with add-on.",
+    "format": "form",
+    "workaround": "No, it can't"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-22T11:57:54Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8225,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement support for including `.gdshaderinc` files in visual shaders",
+  "up": 8,
+  "updatedAt": "2026-03-07T19:28:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8225"
+}

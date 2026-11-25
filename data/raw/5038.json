@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This makes two functions that are already in core more convenient to use.",
+    "format": "form",
+    "workaround": "Yes, you can use the functions' existing syntax."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-19T07:25:34Z",
+  "comments": 0,
+  "createdAt": "2022-07-31T21:49:58Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 5038,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `UndoRedo.add_do/undo_method()` use Callable",
+  "up": 6,
+  "updatedAt": "2022-09-19T07:25:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5038"
+}

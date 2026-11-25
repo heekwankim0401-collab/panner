@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a simple programmatic simplifcation/shorthand and would be pointless if implemented as a plugin/addon.",
+    "format": "form",
+    "workaround": "If not used often the regular origin or translation attributes can be utilized albeit at a cost since some nodes can be shifted by moving their origin and some require translation. This can become cumbersome.\n\nself.origin.x = anothernode.get_translation().x\nself.origin.y = anothernode.get_translation().y\nself.origin.z = anothernode.get_translation().z"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-04-05T12:52:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4348,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Possible Change to Syntax + Position / Rotation Copy Functions",
+  "up": 0,
+  "updatedAt": "2022-04-09T04:42:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4348"
+}

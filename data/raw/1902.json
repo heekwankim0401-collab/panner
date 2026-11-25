@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't believe it can be an add-on - at the least, it feels like a very core piece of functionality to the language. Let me put it this way: I do not see any way it can be an add-on.",
+    "format": "markdown",
+    "workaround": "Technically, this is just meant to be a way to significantly shorten code that comes up a *lot* in GDScript when working with things which run during _process or _physics_process, so while it definitely can be \"worked around\", the whole point is to not have to work around it - to make the code simpler to read by many factors while removing error-prone code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-11-28T14:22:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1902,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a safe navigation operator/optional chaining to GDScript",
+  "up": 128,
+  "updatedAt": "2025-04-02T18:18:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1902"
+}

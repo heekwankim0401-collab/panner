@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Why should this be core and not an add-on in the asset library? Are there any reasons?\n\nThis feature is essential enough that it should be part of the core engine rather than just an add-on for several reasons:\n\nConsistency and Reliability: Running and previewing the game on the correct monitor is a fundamental part of the development workflow. Relying on an add-on would fragment the user experience and lead to inconsistent behavior across projects and users.\n\nEditor Integration: This feature requires deep integration with the editor's run/preview system, project settings, and display management APIs. Implementing it as core functionality ensures smooth operation and proper lifecycle handling, which is difficult to achieve robustly with a separate plugin.\n\nEase of Use: Many users, especially beginners, expect seamless multi-monitor support out of the box without needing to install or configure additional plugins. Integrating this feature into the core makes it more accessible and reduces friction in everyday development.\n\nPerformance and Stability: Core implementation can optimize performance and stability when handling window management across multiple displays, something that might not be guaranteed by third-party add-ons.\n\nPresentation and Demos: Since running games on the correct screen is crucial for live demos, client presentations, or classroom teaching, having this as a built-in feature makes it much easier and reliable to switch displays quickly without extra setup.\n\nFor these reasons, embedding dual-monitor support for preview and runtime into the engine core improves workflow, user experience, and professional use cases in a way that a separate add-on cannot fully guarantee.",
+    "format": "form",
+    "workaround": "Yes, it is possible to partially work around this limitation using a small amount of script code. For example, developers can use the DisplayServer.window_set_current_screen(window_id, screen_index) API to manually set the game window to appear on a specific monitor when the game starts. Here is a simple example in GDScript that runs at the beginning of the game:\n\n``` gdscript\nfunc _ready():\n    var screen_count = DisplayServer.get_screen_count()\n    var preferred_screen = 1  # For example, the secondary monitor index\n\n    if preferred_screen < screen_count:\n        DisplayServer.window_set_current_screen(DisplayServer.window_get_main_id(), preferred_screen)\n```\nHowever, this approach has several drawbacks compared to built-in editor support:\n\nThe script must be added manually to each project or scene, which is inconvenient and error-prone.\n\nThere is no UI in the editor to configure or persist the preferred monitor, so the user must edit code each time.\n\nBeginners or non-programmers may find scripting this behavior difficult.\n\nThe script runs only after the game window has been created and shown, so the window may briefly appear on the wrong monitor before switching.\n\nIt does not integrate with the editor’s run/preview workflow, so the window preview in the editor may still open on the primary monitor by default.\n\nTherefore, while scripting can provide a basic workaround, native editor and project settings integration would offer a much smoother and user-friendly experience for managing multi-monitor preview and runtime."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-21T15:27:56Z",
+  "comments": 3,
+  "createdAt": "2025-07-21T05:23:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12821,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Suggested Feature Request for Godot Engine 4.5 (Stable) >>> Dual-Monitor Support for Game Preview and Runtime Display",
+  "up": 0,
+  "updatedAt": "2025-07-21T15:28:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12821"
+}

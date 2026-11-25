@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "To reduce errors when working with large amounts of `Resources`.\nMay make it easier to load `Resources` from separate `pck` with the same folder path.",
+    "format": "form",
+    "workaround": "Currently, there is working code in `C#`.\n\n```csharp\npublic static string[] GetFilesIncludeSubDirs(string pathToDir, params string[] extensions)\n{\n    List<string> result = [];\n\n    var access = DirAccess.Open(pathToDir);\n    if (access == null)\n        return [];\n\n    access.ListDirBegin();\n    var name = access.GetNext();\n    while (name.IsEmpty() == false)\n    {\n        if (access.CurrentIsDir())\n        {\n            result.AddRange(GetFilesIncludeSubDirs(pathToDir + \"/\" + name, extensions));\n        }\n        else\n        {\n            if (extensions.Length > 0)\n            {\n                var newName = name;\n\n                if (OS.HasFeature(\"editor\") == false)\n                    newName = newName.TrimSuffix(\".import\").TrimSuffix(\".remap\");\n                \n                foreach (var item in extensions)\n                {\n                    if (newName.EndsWith(item))\n                    {\n                        result.Add(pathToDir + \"/\" + newName);\n                        break;\n                    }\n                }\n            }\n            else\n            {\n                result.Add(pathToDir + name);\n            }\n        }\n        name = access.GetNext();\n    }\n    access.ListDirEnd();\n\n    return result.ToArray();\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-27T11:00:58Z",
+  "comments": 1,
+  "createdAt": "2025-11-26T16:48:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13711,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `load_all()` method to load all resources from a folder to an Array",
+  "up": 0,
+  "updatedAt": "2025-11-27T11:07:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13711"
+}

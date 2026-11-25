@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because It's part of the main godot editor.",
+    "format": "markdown",
+    "workaround": "Yes, people would figure it out eventually, yet it has a low implementation cost, so I'd say it's worths it."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-01T22:37:38Z",
+  "comments": 0,
+  "createdAt": "2020-12-30T13:31:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 2050,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Clarify Collision Bits Access",
+  "up": 7,
+  "updatedAt": "2021-01-01T22:37:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2050"
+}

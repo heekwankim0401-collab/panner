@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think having Godot and GDscript being the most accessible engine and scripting language would help it grow and become even more powerful in the future. I think modernizing the compiler errors is a good way to help that happen.",
+    "format": "form",
+    "workaround": "It would be used quite often. We could have it be an optional verbose compiler setting though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-08-31T21:13:02Z",
+  "down": 1,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10623,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Verbose compiler error logging",
+  "up": 8,
+  "updatedAt": "2024-09-05T01:40:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10623"
+}

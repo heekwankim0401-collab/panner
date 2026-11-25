@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I feel like this is a natural and common thing users would want to do if they want to \"extend\" properties on certain node types for Inspector plugins.",
+    "format": "legacy",
+    "workaround": "This could definitely be worked around but not with a few lines of script, I don't think. I'd love to know if there is. However, to my knowledge, you'd have to create your own dropdown that opens and collapses within the editor, and write code for how it would display multiple EditorProperties."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-27T09:09:14Z",
+  "comments": 6,
+  "createdAt": "2020-06-07T13:30:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1021,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow for easy add_group dropdowns for inspector properties for plugins",
+  "up": 0,
+  "updatedAt": "2023-04-08T13:58:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1021"
+}

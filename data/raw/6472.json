@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "It can be worked around with a few lines of script, but it seems like a minor inconvenience a lot of Rect2 users must have encountered at some point."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-03-10T14:58:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6472,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement `grow_corner()` in Rect2[i]",
+  "up": 3,
+  "updatedAt": "2023-03-10T19:04:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6472"
+}

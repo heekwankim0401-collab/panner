@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "not possible with an addon",
+    "format": "form",
+    "workaround": "yes, theres nothing you can do with this feature that wasn't possible before, it simply adds a generic clean syntax for declaring connections that is very useful in GUI design\nthe only really new mechanic this brings is when declarations annotated with `@onready` get automatically refreshed when ready is re-emitted"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2023-06-19T01:19:46Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7112,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript: Declarative signal connections, `when $Button.pressed:`",
+  "up": 13,
+  "updatedAt": "2023-11-18T16:20:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7112"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "User experience.",
+    "format": "form",
+    "workaround": "Maybe a plugin, but I do think it would be part of a better UX."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-23T00:49:13Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6933,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement dragging a texture to the TileMap bottom panel to create a TileSet with the texture in it",
+  "up": 2,
+  "updatedAt": "2023-05-23T10:28:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6933"
+}

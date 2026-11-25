@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same answer as the last one. It's just better design. \n\nSorry if this seems a bit silly, but I really did have trouble figuring out how to make a breakpoint at all since you seriously have to click on the left third of the box to get it to activate, and although there's some pretty detailed documentation on the basics of debugging, it doesn't once mention how to actually make a breakpoint. Figured I'd take the time to put this in, even if it is quite a small fix for the amount of typing I need to do.",
+    "format": "legacy",
+    "workaround": "It can be worked around with zero, but this is just a good design thing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-05-22T14:05:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 873,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Increase the size of the script editor breakpoint gutter's clickable area",
+  "up": 0,
+  "updatedAt": "2020-06-02T18:56:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/873"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving 3D editor usability.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-05-28T11:29:19Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 4599,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rework the Align Transform With View and Align Rotation With View 3D editor actions",
+  "up": 1,
+  "updatedAt": "2022-09-09T17:43:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4599"
+}

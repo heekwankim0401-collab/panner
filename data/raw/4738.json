@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core UI improvement.",
+    "format": "form",
+    "workaround": "Workaround - set tooltip delay globally, but it's not allow to have different tooltip delays in different ui elements.\n\nAnd actually even global tooltip delay change don't work right now. See: https://github.com/godotengine/godot/issues/9030"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-06-24T11:53:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4738,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to set a tooltip delay for specific node locally",
+  "up": 9,
+  "updatedAt": "2022-06-24T16:44:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4738"
+}

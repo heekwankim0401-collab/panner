@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "We can't extend TileMap with custom functionality.",
+    "format": "form",
+    "workaround": "It can be worked around by using a second tilemap, but I'm pretty sure users would use it quite often, especially the modulate."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-27T17:54:48Z",
+  "comments": 2,
+  "createdAt": "2021-08-04T21:24:41Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3092,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add modulate and no-collision mode to TileMap layers",
+  "up": 2,
+  "updatedAt": "2021-10-27T17:54:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3092"
+}

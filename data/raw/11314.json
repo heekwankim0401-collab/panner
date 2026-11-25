@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Maybe, but if SpinBox has this feature, it will be very nice for me.",
+    "format": "form",
+    "workaround": "No, if not, i must design a new control like by LineEdit or Button."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-12-08T13:33:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11314,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to hidden SpinBox's UP/DOWN area",
+  "up": 6,
+  "updatedAt": "2025-10-17T20:04:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11314"
+}

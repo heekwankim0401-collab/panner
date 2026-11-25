@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this would be used by many, possibly most, tilemaps if it was widely available as standard.",
+    "format": "legacy",
+    "workaround": "As far as I can tell, work-arounds would involve either creating a much larger texture file for the tileset, or manually selecting each tile without using the autotile functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2020-05-25T17:43:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 893,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow autotile to rotate/flip tiles when finding a matching bitmask",
+  "up": 14,
+  "updatedAt": "2022-10-12T03:17:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/893"
+}

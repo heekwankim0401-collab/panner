@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This potentially has a wide application wherever audio samples need to be timed exactly.  It should just be an option that's always available, just like the [AudioStreamPlaybackResampled.mix()](https://github.com/godotengine/godot/blob/db76de5de8a415b29be4c7dd84b99bd0fe260822/servers/audio/audio_stream.cpp#L151), which is already non-trivial in its implementation.",
+    "format": "form",
+    "workaround": "No.  It would need to be a compiled AudioStream plugin, not as script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-08-27T12:54:15Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 10574,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an AudioStreamPlayer property to adjust playback speed without affecting pitch",
+  "up": 12,
+  "updatedAt": "2025-03-25T20:07:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10574"
+}

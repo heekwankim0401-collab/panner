@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "core element",
+    "format": "form",
+    "workaround": "will accept the ability to use Page up / Page down / home from extended keyboards."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-10-20T00:06:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5626,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add history navigation buttons to the Scene tree dock",
+  "up": 2,
+  "updatedAt": "2023-10-30T18:16:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5626"
+}

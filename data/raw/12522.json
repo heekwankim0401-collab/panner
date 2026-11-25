@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don’t think this can be replaced - it should work out of the box.",
+    "format": "form",
+    "workaround": "I believe this feature will be in demand - every developer has their own coding style, and restricting that is unprofessional."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-05-29T11:16:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12522,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Highlight the whole line when `TODO`/`FIXME` is used in a comment in the script editor (including indented follow-up lines)",
+  "up": 0,
+  "updatedAt": "2026-10-29T22:50:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12522"
+}

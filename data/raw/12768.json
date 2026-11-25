@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A lot of core code can actually benefit from this, here are some examples:\n\nFor example [this](https://github.com/godotengine/godot/blob/c6d130abd9188f313e6701d01a0ddd6ea32166a0/core/config/project_settings.cpp#L1563)\n` GLOBAL_DEF_BASIC(PropertyInfo(Variant::STRING, \"application/run/main_scene\", PROPERTY_HINT_FILE, \"*.tscn,*.scn,*.res\"), \"\");`\n\nCould turn to\n`GLOBAL_DEF_BASIC(PropertyInfo(Variant::STRING, \"application/run/main_scene\", PROPERTY_HINT_RESOURCE_FILE, \"PackedScene\"), \"\");`\n\nhttps://github.com/godotengine/godot/blob/c6d130abd9188f313e6701d01a0ddd6ea32166a0/core/register_core_types.cpp#L326\n\n\nhttps://github.com/godotengine/godot/blob/c6d130abd9188f313e6701d01a0ddd6ea32166a0/core/config/project_settings.cpp#L1612\n\nhttps://github.com/godotengine/godot/blob/c6d130abd9188f313e6701d01a0ddd6ea32166a0/editor/import/3d/resource_importer_scene.cpp#L2173\n\nhttps://github.com/godotengine/godot/blob/c6d130abd9188f313e6701d01a0ddd6ea32166a0/main/main.cpp#L2757\n\nhttps://github.com/godotengine/godot/blob/c6d130abd9188f313e6701d01a0ddd6ea32166a0/scene/theme/theme_db.cpp#L52\n\nhttps://github.com/godotengine/godot/blob/c6d130abd9188f313e6701d01a0ddd6ea32166a0/scene/theme/theme_db.cpp#L53",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-07-11T02:48:04Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12768,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `PROPERTY_HINT_RESOURCE_FILE` to soft-reference Resources",
+  "up": 14,
+  "updatedAt": "2026-06-02T23:30:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12768"
+}

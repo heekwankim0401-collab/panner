@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Safer API should be default for everyone.",
+    "format": "form",
+    "workaround": "It can be used per-project, but I believe we should strive for a better API for everyone to use."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-02-02T18:51:51Z",
+  "down": 1,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 11690,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add instantiate() and deprecate memnew() and memfree()",
+  "up": 3,
+  "updatedAt": "2025-03-11T10:35:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11690"
+}

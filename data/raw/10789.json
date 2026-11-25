@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-09-20T13:45:32Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10789,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Close Godot on invalid command line arguments",
+  "up": 3,
+  "updatedAt": "2024-11-16T11:37:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10789"
+}

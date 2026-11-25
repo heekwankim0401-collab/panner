@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not sure, I'm also not even sure, if this will help performance . . Right now, I can't see when the mipmaps are loaded, at different resolution, it'd be a simple way of optimizing texture memory, in scenes with things, in the far distance . . .\n\nSo, I can see, maybe with mipmap levels having different colors, or so . .\n![2021-05-09 1813](https://user-images.githubusercontent.com/83387915/117579258-5f288f80-b0f2-11eb-9c4a-8ac2482681cf.jpg)\n\nMaybe some system, where each mipmap level, is shown as a color, on objects, like ' weight painting ' . . . <3\n\n![2021-05-09 1815](https://user-images.githubusercontent.com/83387915/117579306-9139f180-b0f2-11eb-93d1-b7a2b5481c1a.jpg)\n\nThx . . .\n\nps. Greyscale would be nice, but I think it'd be difficult, to tell . . or, some pattern, maybe checker, for each level :OO . . .\n\npps. I'm not sure this would actually work, or create graphically problems or, so . . It'd at least allow one to create more optimized textures, for things in the distance, prob. is I have no idea, when the mipmaps are ' swapped ' <3 . . .",
+    "format": "markdown",
+    "workaround": "I don't know, or if it's some advanced feature, hidden in the engine, some-where . . ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2021-05-09T16:13:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2704,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add feature to visualize 'mipmap' level changes in a preview mode . . .",
+  "up": 8,
+  "updatedAt": "2022-10-23T15:56:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2704"
+}

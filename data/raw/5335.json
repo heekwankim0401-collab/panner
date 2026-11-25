@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "its about something core already",
+    "format": "form",
+    "workaround": "its about renaming a function"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-06T15:30:09Z",
+  "comments": 11,
+  "createdAt": "2022-09-04T21:27:12Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 5335,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `range_lerp` to `remap`",
+  "up": 3,
+  "updatedAt": "2022-09-06T15:59:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5335"
+}

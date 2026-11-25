@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's not good usability to have something simple that can be solved with a single additional button.",
+    "format": "form",
+    "workaround": "Definitely not in a few lines. Probably would require a second workspace as a plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2021-12-11T20:11:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3659,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make a button to force script to open in the internal editor",
+  "up": 18,
+  "updatedAt": "2025-03-21T01:42:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3659"
+}

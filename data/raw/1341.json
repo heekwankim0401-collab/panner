@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This needs to be decided at build-time, so this can't be changed by an add-on.\n\n___\n\nSee also #1342.",
+    "format": "legacy",
+    "workaround": "This needs to be decided at build-time, so no."
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-11T10:58:12Z",
+  "comments": 3,
+  "createdAt": "2020-08-09T20:40:28Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 1341,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a SCons option to control whether Godot is built as a console or GUI application on Windows",
+  "up": 2,
+  "updatedAt": "2020-08-16T13:18:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1341"
+}

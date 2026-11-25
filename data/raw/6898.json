@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Warnings are core.",
+    "format": "form",
+    "workaround": "It can be worked around by ignoring the warnings."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-05-17T01:11:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6898,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the script editor not emit \"shadowing\" warnings when reusing non-static names in static functions",
+  "up": 4,
+  "updatedAt": "2024-07-07T11:40:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6898"
+}

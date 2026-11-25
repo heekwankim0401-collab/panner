@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's kind of essential for debugging to find specific messages. Log-level splitting doesn't go far enough as you can potentially have many messages per log level.",
+    "format": "form",
+    "workaround": "No, this feature would be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-11-27T20:59:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11244,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add advanced search syntax to the editor Output panel filter bar",
+  "up": 5,
+  "updatedAt": "2025-06-01T15:48:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11244"
+}

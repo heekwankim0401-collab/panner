@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "no",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2024-06-06T12:11:13Z",
+  "down": 0,
+  "labels": [
+    "requires core feedback",
+    "topic:gdscript",
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 9906,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify GPUParticles and CPUParticles",
+  "up": 12,
+  "updatedAt": "2024-08-23T02:59:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9906"
+}

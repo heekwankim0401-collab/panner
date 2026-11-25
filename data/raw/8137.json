@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "People are not going to write typesafe code without a basic set of features that enable them to do so, and this is so essential and importatn that it would make no sense for it to simply be an add-on.",
+    "format": "form",
+    "workaround": "There is no workaround for not having basic features like this."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-16T09:29:40Z",
+  "comments": 9,
+  "createdAt": "2023-10-15T21:32:02Z",
+  "down": 1,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8137,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Cannot achieve type safety in GDScript due to lack of basic language features",
+  "up": 10,
+  "updatedAt": "2023-10-16T12:37:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8137"
+}

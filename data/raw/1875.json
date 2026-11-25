@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be a good way to redirect methods to other objects and its currently not possible to do afaik",
+    "format": "legacy",
+    "workaround": "I think this could be used to make static modules methods and no I don't think it can"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-01T18:12:37Z",
+  "comments": 7,
+  "createdAt": "2020-11-23T15:04:51Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1875,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow getting function caller",
+  "up": 0,
+  "updatedAt": "2021-05-01T18:12:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1875"
+}

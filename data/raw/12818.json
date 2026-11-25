@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "3D import is part of the engine's core and streamlining it is a positive thing, I believe improving the importer is part of various proposals/roadmap?\n\nAnother reason is that when working with artists it would make it a lot easier to make them part of the wider pipeline if they could use the tool they know to set up at least the basic collisions without the need of handling import scripts or working with scenes to a greater detail and so on.",
+    "format": "form",
+    "workaround": "1. It can be done manually on import (the import window supports manual collision shapes, which is cumbersome and not a realistic option for more than a couple of objects due to how laborious it is).\n\n2. It can be done with a post import script or hooking into import pipeline. This is something not many users know about and due to the need to add the import script manually to every script it doesn't streamline the process and puts it on parity with the collade import which this proposal is suggesting.\n\n3. There's an option of adding a global import script which might have issues with users pipelines + again it's not a well known solution.\n\n4. Users can create the shapes manually when adding objects to the scene and extracting meshes, again laborious process.\n\n5. Users can create a script to mimick this.\n\nAll the scripts above would require the users to have the extra shapes in for example Blender (or other 3D authoring programs) and eventually dispose of those through a script in case of scene level scripts.\n_(The latter is done by Godot on import currently as I understand it but please feel free to correct me.)_"
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-23T21:50:34Z",
+  "comments": 7,
+  "createdAt": "2025-07-20T19:44:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12818,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add 3D import hints for primitive collision shapes",
+  "up": 6,
+  "updatedAt": "2025-07-23T22:48:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12818"
+}

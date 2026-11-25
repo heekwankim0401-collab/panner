@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The solution is simple, but non-obvious.",
+    "format": "form",
+    "workaround": "It can be worked around with two lines of script:\n\n```\nyield(get_tree(), \"idle_frame\")\nscroll_vertical = 9223372036854775807 # is there an INT_MAX constant?\n```\n\nHowever, those lines are very non-obvious. If we think this is the right approach though, I can just document it instead."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-12-03T13:24:32Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3629,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add scroll_following to ScrollContainer",
+  "up": 3,
+  "updatedAt": "2021-12-04T00:06:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3629"
+}

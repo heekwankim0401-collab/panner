@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's the feature for `Gradient` resources\n\nEDIT: `calculation` should be a single enum variable. Not array.",
+    "format": "markdown",
+    "workaround": "No. If used by official supports. But it possibly can implement in an alternative. Also possibly can do for Nearest Neighbor by using hacky way. Use two points with different colors and drag them closely as possible.\n![ภาพ](https://user-images.githubusercontent.com/13400398/101020561-4941fc00-35a1-11eb-89c9-ba04bab30b48.png)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-08T19:53:18Z",
+  "comments": 1,
+  "createdAt": "2020-12-03T13:03:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1933,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support more interpolation options on Gradient",
+  "up": 9,
+  "updatedAt": "2021-11-08T20:35:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1933"
+}

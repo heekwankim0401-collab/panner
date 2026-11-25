@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be an addon (I think).",
+    "format": "form",
+    "workaround": "In theory it can be solved using `\"` around the key, but this takes away the practicality and purpose of using the Lua-style syntax. For my project, writing `{class=\"...\"}` is very recurrent."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-11-15T17:15:58Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11164,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using reserved names on Dictionary with Lua-style syntax",
+  "up": 2,
+  "updatedAt": "2024-11-16T11:46:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11164"
+}

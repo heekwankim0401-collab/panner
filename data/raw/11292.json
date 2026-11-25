@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Needs to be in the editor.\n\n_Edit: Updated macOS to show their names._",
+    "format": "form",
+    "workaround": "No, as it's a new API and needs to work in the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-16T18:17:06Z",
+  "comments": 5,
+  "createdAt": "2024-12-05T15:54:12Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11292,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `OS::get_version_alias()`",
+  "up": 3,
+  "updatedAt": "2024-12-16T18:17:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11292"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core part of the physics system.",
+    "format": "form",
+    "workaround": "It can't be worked around in script - at least, not without multiple bodies, which would likely break other things."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2023-07-28T02:09:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7401,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add per-shape physics materials to the 3D physics system",
+  "up": 38,
+  "updatedAt": "2026-10-02T13:11:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7401"
+}

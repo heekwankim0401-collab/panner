@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Extends the functionality of an existing node.",
+    "format": "form",
+    "workaround": "You could use an expression node with the conversion function. Or, the simple approximations `pow(x, 2.2)` and `pow(x, .45)` do work well enough for simple diagnosis of color space mismatches."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-22T21:03:13Z",
+  "comments": 0,
+  "createdAt": "2024-09-23T22:50:47Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.4",
+  "number": 10818,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "VisualShader: Add LinearToSRGB and SRGBToLinear to the ColorFunc node",
+  "up": 2,
+  "updatedAt": "2024-11-23T10:13:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10818"
+}

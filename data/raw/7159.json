@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems closely related to the lifecycle management of objects.",
+    "format": "form",
+    "workaround": "Other languages use their VM and base to loop true all scripts and objectleves.\nAs I am not using a VM it is not possible."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-06-26T07:48:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 7159,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Handle \"invalid get index\" at Variant not by language",
+  "up": 0,
+  "updatedAt": "2023-06-28T00:28:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7159"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As mentioned above, every other argument is already added to the list in core. There would be no reason for 1 argument to be an entire addon. \n\nThis is related to: https://github.com/godotengine/godot/issues/8557",
+    "format": "legacy",
+    "workaround": "Yes, but since every other extra call argument is already apart of the list, I feel as if this one should be added too for parity.\n![pic](https://user-images.githubusercontent.com/63408037/79070962-8c5fff80-7c9e-11ea-88de-d2b78a628ca3.JPG)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-04-12T14:19:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 702,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Node to signal \"Extra call argument\" GUI",
+  "up": 9,
+  "updatedAt": "2020-04-12T18:10:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/702"
+}

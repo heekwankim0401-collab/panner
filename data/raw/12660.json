@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its such a small but useful change that there would be no reason to have it be an add-on instead of core, and it doesn't change the average workflow so there would be no reason not to include it.",
+    "format": "form",
+    "workaround": "this can be worked around by using the node scaling, but then you also have to divide the node size, and this only works if the node is not in a container, or if it is not a part of the style-box."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-06-24T20:18:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12660,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Scaleable feature to NinePatchRects",
+  "up": 4,
+  "updatedAt": "2026-09-12T10:50:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12660"
+}

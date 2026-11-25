@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The current tileset editor in 3.4 is awful. It cand use lots of improvements.",
+    "format": "form",
+    "workaround": "As tilesets are a base type. It would be possible to do it with a script. But you would have to write your own tile editor from scratch... And i doubt anyone would ever want to do such a thing"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-04-16T16:10:12Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4409,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement copy and paste of multiple tiles in the TileSet editor",
+  "up": 10,
+  "updatedAt": "2025-04-29T07:24:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4409"
+}

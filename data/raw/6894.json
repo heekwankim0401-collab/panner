@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improving the editor user experience is critical to Godot's success as an open source game engine. An unfavorable editor experience can negatively impact users' impression of Godot and hinder its adoption. As a simple fix that significantly enhances usability, this proposal should be implemented as a core improvement to the engine.\n\nIn summary, this proposal aims to greatly improve the 2D editing experience in Godot by providing smooth view zooming. As an easy implementation with big impact, it should be adopted as a core improvement to enhance Godot's editor usability and overall user experience. Please let me know if you have any other questions or require any clarification.",
+    "format": "form",
+    "workaround": "While this can be workaround by users manually disabling `constrain_editor_view`, many users may not realize this option exists and will continue suffering from the poor experience. As an editor tool, providing a smooth user experience should be the priority."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-31T14:37:38Z",
+  "comments": 1,
+  "createdAt": "2023-05-16T04:08:54Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6894,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the default value of `editors/2d/constrain_editor_view` to false",
+  "up": 4,
+  "updatedAt": "2023-05-31T14:37:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6894"
+}

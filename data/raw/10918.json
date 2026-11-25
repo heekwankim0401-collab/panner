@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would greatly improve the usability of the new dynamic music systems. Without it I don't have much reason to use it, even though I want really want to due to its flexibility.",
+    "format": "form",
+    "workaround": "The alternative is having to split every track into layers that you would have to manually adjust if its more complex than just adding/removing layers. The AudioStreamInteractive method would greatly simplify this but with the obvious phasing its not usable this way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-06T17:47:32Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 10918,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Modify AudioStreamInteractive cross-fade implementation to avoid phasing",
+  "up": 2,
+  "updatedAt": "2024-10-06T20:40:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10918"
+}

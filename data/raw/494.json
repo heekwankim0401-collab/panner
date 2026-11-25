@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because this is something that has gotten broken and lost from previous versions.",
+    "format": "legacy",
+    "workaround": "Perhaps, but difficult on the user's end, especially concerning position. But it would be better if the editor was fixed by the maintainers of the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-19T13:32:52Z",
+  "comments": 11,
+  "createdAt": "2020-02-18T03:43:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 494,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Option to not start in full screen by default and to define window options",
+  "up": 0,
+  "updatedAt": "2021-09-01T15:44:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/494"
+}

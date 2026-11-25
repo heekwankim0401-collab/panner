@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Navigation is core.",
+    "format": "form",
+    "workaround": "Can be created in script but 2d already has a grid version and 3D is far more complex and performance hungry to setup."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-01T19:12:40Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 12704,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add NavigationGrid3D node for grid-based pathfinding in 3D",
+  "up": 11,
+  "updatedAt": "2026-03-15T15:17:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12704"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Currently the proposal involves changing code that is not accessible to add-ons as far as i know.",
+    "format": "form",
+    "workaround": "Tried before:\n- with use of ```own_world_3d``` in viewport characters can not interact in 3D anymore,\n- setting tight frustum planes in Camera3D does not seem to help where meshes are really close,\n- dynamically checking for close meshes and calculating and try to set the same cull mask value only to the most distance meshes seems to be error prone and does not help where many meshes (more than there are cull mask values available) are nearly at the same location.\n\nAnother solution may be to switch the whole scene to 3D and only use one camera without subviewports.\n\nNevertheless described properties may be helpful for other use cases, for example\nhttps://github.com/godotengine/godot-proposals/issues/978\n\nPerhaps someone else has a better solution?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-27T21:00:37Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11245,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add properties to hide specific meshes by RID in Camera3D",
+  "up": 1,
+  "updatedAt": "2024-11-27T23:59:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11245"
+}

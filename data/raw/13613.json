@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Combobox is part core, and so are themes this is just a simple improvement for combobox themes.",
+    "format": "form",
+    "workaround": "It can be worked around but it's not ideal it requires a really hacky methods for doing it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-11-12T01:51:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13613,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add background and disabled/hover/pressed icon theme items for the arrow in OptionButton",
+  "up": 0,
+  "updatedAt": "2025-11-12T17:36:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13613"
+}

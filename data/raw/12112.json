@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because there is no API exposed to move the viewport camera.",
+    "format": "form",
+    "workaround": "No, all the fields used for camera transform interpolation are private within `Node3DEditorViewport`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-03-30T04:39:19Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 12112,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add mechanism for EditorPlugins to move the Node3DEditorViewport camera",
+  "up": 9,
+  "updatedAt": "2025-11-09T14:25:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12112"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The existence of a AtlasTexture resource seem frustrating if this is not added to the engine. Current AtlasTexture would always need an external json to be used properly. Seem like a waste.",
+    "format": "legacy",
+    "workaround": "It can be worked around with an external tool that cuts the sprite sheet. But with files downloaded from the internet this may be inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-06-13T15:33:28Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1053,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow cutting a spritesheet into an AtlasTexture automatically",
+  "up": 4,
+  "updatedAt": "2022-09-25T22:42:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1053"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Personally, I believe the ratio of code size versus usefulness to a wide range of users warrants this feature being in the core program.",
+    "format": "form",
+    "workaround": "Not really. You can make your own references by placing dummy textures or such, but it's an inelegant solution."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-02T14:43:27Z",
+  "comments": 4,
+  "createdAt": "2023-08-27T22:15:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7569,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add customisable guides to 2D view",
+  "up": 3,
+  "updatedAt": "2023-09-02T21:04:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7569"
+}

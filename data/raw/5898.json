@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "see above",
+    "format": "form",
+    "workaround": "Technically you could manually do the notarization from terminal after exporting from Godot, but it would be convenient if this kept working from godot's export process. Especially as notarization is now more or less mandatory these days for macOS app distribution since macOS Gatekeeper will block apps without it in most cases."
+  },
+  "assignees": 1,
+  "closedAt": "2022-12-07T12:36:22Z",
+  "comments": 1,
+  "createdAt": "2022-12-05T16:05:10Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:export",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 5898,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace deprecated altool with notarytool for macOS notarization",
+  "up": 0,
+  "updatedAt": "2022-12-07T12:38:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5898"
+}

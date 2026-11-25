@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core thing, I guess an add-on can not make it.",
+    "format": "form",
+    "workaround": "I can't come up with a work around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2026-01-25T04:53:58Z",
+  "down": 2,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14065,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add some signals to `Dictionary` to inform that its data are modified",
+  "up": 2,
+  "updatedAt": "2026-01-29T13:38:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14065"
+}

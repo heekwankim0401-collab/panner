@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's an integrated usability improvement that boils down to adding a checkbox in dialog box and adding the code to make it functional. It seems too low key for needing an entire add-on in the asset library.",
+    "format": "form",
+    "workaround": "While a script program could attempt something like this; this is more of a usability improvement. A quick way to generate a new collision mesh and visually inspect it to look good."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-10T16:39:37Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12976,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Edit \"Create Collision Shape\" dialog box to allow current pose to be taken into account",
+  "up": 2,
+  "updatedAt": "2025-08-11T10:27:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12976"
+}

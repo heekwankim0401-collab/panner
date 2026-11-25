@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core feature of the engine, and as such, i see no reason for this to not be fixed.",
+    "format": "form",
+    "workaround": "I worked around this before using GDscript by scaling a Control node with a SubViewport child and resizing the Viewport manually by the oversampling factor but that seems like such a hacky solution to create default behaviour i expected from the engine."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-09T11:28:49Z",
+  "comments": 0,
+  "createdAt": "2026-02-09T06:47:24Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 14182,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Incorrect SubViewportContainer scaling",
+  "up": 0,
+  "updatedAt": "2026-02-09T11:28:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14182"
+}

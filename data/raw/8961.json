@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Almost every other program that has UI editor or UI editing capabilities has a visual representation of margin sizes. Also, as I previously stated, it's just way more convenient to see them right away. Less hassle.",
+    "format": "form",
+    "workaround": "I assume so? Though to be honest I have no idea how. Never have tinkered with the engine core. I'm not sure if the reason it has never been implemented is because, according to the docs, the margin sizes are actually \"...theme overrides, not normal properties\"."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-14T15:38:10Z",
+  "comments": 2,
+  "createdAt": "2024-01-24T22:44:42Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.6",
+  "number": 8961,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Visually show MarginContainer margin sizes on Editor",
+  "up": 7,
+  "updatedAt": "2025-10-14T15:40:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8961"
+}

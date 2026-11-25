@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Users have already implemented their own gestures as addons. For example: [Godot Touch Input Manager](https://godotengine.org/asset-library/asset/473). However, there are some standard gestures that users and the engine expect to be defined. Furthermore, there are gestures used within the editor or users expect to be available within the editor that need to be available internally.",
+    "format": "form",
+    "workaround": "Gestures are a combination of events, which users can use to create their own gestures in scripts. Combining events to create hard-coded gestures is the general approach used within the engine and OS code. However, as described above, this leads to inconsistencies and, when it's hard-coded it's inflexible."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-04-04T08:05:13Z",
+  "down": 0,
+  "labels": [
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 4340,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement standard and configurable gestures across all platforms",
+  "up": 26,
+  "updatedAt": "2026-01-27T18:48:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4340"
+}

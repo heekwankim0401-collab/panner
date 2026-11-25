@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it is much easier to have it as a built in tool since godot  addons are just scripts / scenes",
+    "format": "form",
+    "workaround": "it can be done by creating a line mesh"
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-28T16:51:17Z",
+  "comments": 3,
+  "createdAt": "2023-09-24T13:11:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7837,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to see raycast3d in game",
+  "up": 6,
+  "updatedAt": "2023-11-28T17:45:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7837"
+}

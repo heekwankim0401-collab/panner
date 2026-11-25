@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See previous. Also requires modification to the Script class and functions relating to it to impliment.",
+    "format": "legacy",
+    "workaround": "Will be used often. Working around requires creating an entirely new modding system reimplementing a lot of engine features and with all the underlying security issues still unresolved should someone find an exploit in the modding system.\nYou'd have to implement your own scripting system or build your game on premade tweakable via export var scripts with a whitelist and pre-vet the states of ALL PackedScenes to ensure that they do not include unauthorized scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-01-17T22:07:38Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 389,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add sandboxing for \"untrusted\" resource packs",
+  "up": 64,
+  "updatedAt": "2021-11-15T12:54:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/389"
+}

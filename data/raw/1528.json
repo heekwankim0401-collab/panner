@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "its more consistent rect2 naming",
+    "format": "legacy",
+    "workaround": "this would be used alot yes and no it can't"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-01T18:12:13Z",
+  "comments": 18,
+  "createdAt": "2020-09-18T03:47:14Z",
+  "down": 9,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1528,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename AABB back to Rect3",
+  "up": 1,
+  "updatedAt": "2021-05-01T18:12:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1528"
+}

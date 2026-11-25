@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't be worked around - part of the rendering pipeline",
+    "format": "form",
+    "workaround": "Not possible currently."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-06-06T09:40:57Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12560,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow fully transparent objects to draw to stencil",
+  "up": 6,
+  "updatedAt": "2026-10-28T08:45:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12560"
+}

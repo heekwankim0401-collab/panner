@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's rendering stuff for the editor.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-05-28T06:41:21Z",
+  "down": 0,
+  "labels": [
+    "requires core feedback",
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2795,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use outlines instead of boxes for selected MeshInstances in the editor",
+  "up": 67,
+  "updatedAt": "2025-08-14T00:11:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2795"
+}

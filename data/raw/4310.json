@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can be better integrated and used by future features if it's core editor functionality.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-03-30T15:21:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4310,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add GDScript parser suggestions (for situations where warnings are not suitable)",
+  "up": 10,
+  "updatedAt": "2022-09-09T23:34:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4310"
+}

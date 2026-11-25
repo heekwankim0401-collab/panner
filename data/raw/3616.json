@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDScript cannot be modified outside core and there is no way to pass enum as whole to function which causes that I would need to create workaround for each enum.",
+    "format": "form",
+    "workaround": "I would prefer to use this in all dictionaries that I use, creates much less runtime bugs.\nBut there is possibility to work around this to create for function for every enum as:\n```gdscript\nenum Enum {\n  ONE,\n  TWO\n}\n\nfunc get_enum_as_str(value: Enum):\n  var iter = 0\n  var output = \"\"\n  for each in Enum:\n    if iter == value:\n      return each\n    iter += 1\n```\nThis would be needed to create to every enum you use in Dictionary in game.\n\nEDIT: Found out actually there is some finicky way to get it with\n```gdscript\nfunc get_value(key: Enum):\n  return _dict.keys()[key]\n```\nSo workaround is shorter, but that's not clear to developer that they need to workaround like this."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-01T17:13:36Z",
+  "comments": 4,
+  "createdAt": "2021-11-30T19:43:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3616,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `ENUM.value()` and `ENUM.key()`",
+  "up": 3,
+  "updatedAt": "2021-12-01T17:13:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3616"
+}

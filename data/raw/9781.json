@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "^",
+    "format": "form",
+    "workaround": "Not as far as I know"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-05-19T15:13:06Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9781,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose StandardMaterial3D conversion to ShaderMaterial to scripting",
+  "up": 18,
+  "updatedAt": "2025-03-13T14:19:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9781"
+}

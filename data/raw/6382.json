@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think this could be an addon, though it can be worked around with a ShaderMaterial.",
+    "format": "form",
+    "workaround": "Yes, here is a workaround:\nhttps://github.com/godotengine/godot/issues/53853#issuecomment-944808540\n\nBut it should be the default setting as it is incorrect currently."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-01T18:04:21Z",
+  "comments": 4,
+  "createdAt": "2023-03-01T17:36:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6382,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Backport circular fade instead of linear fade for distance fade to 3.6",
+  "up": 0,
+  "updatedAt": "2023-04-15T23:14:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6382"
+}

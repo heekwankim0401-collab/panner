@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Involves changing PNG writing.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-08T23:43:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12751,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "`Image.save_png_to_buffer()` should allow for multiple buffer formats",
+  "up": 2,
+  "updatedAt": "2025-07-09T00:32:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12751"
+}

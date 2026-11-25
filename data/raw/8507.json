@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "QOL editor improvement, too basic to install an addon for this",
+    "format": "form",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-29T20:37:40Z",
+  "comments": 6,
+  "createdAt": "2023-11-23T18:05:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 8507,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow the debugger panel to stay closed on play unless there are runtime errors",
+  "up": 46,
+  "updatedAt": "2025-08-31T11:05:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8507"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-04-23T16:21:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2640,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `checked` parameter to `PopupMenu.add_check_item()` to make new check items pressed by default",
+  "up": 1,
+  "updatedAt": "2021-04-30T00:53:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2640"
+}

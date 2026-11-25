@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be used to encapsule scenes and their node's and allow user's to edit properties from the root instead of having the expand the scene as local children.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-05-03T01:59:55Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9660,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Allow saving scenes as a prefab (aka property bag)",
+  "up": 1,
+  "updatedAt": "2024-05-03T20:02:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9660"
+}

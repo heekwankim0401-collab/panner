@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure if this could be an add-on, but would be willing to implement some simpler solution as either core or add-on.",
+    "format": "form",
+    "workaround": "This is mostly a convenience feature as it just reduces the work required to propagate changes in similar animations. This can be already be accomplished manually by either copying and pasting the base animation and repeating the child changes, or by not having a base at all and applying changes each animation individually. Both are cumbersome and error prone."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-01-24T23:18:40Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 3858,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a notion of Inheritance to Animations through Linked Tracks",
+  "up": 0,
+  "updatedAt": "2022-01-25T16:54:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3858"
+}

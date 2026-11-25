@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "because this way you can change the properties of the executable without having to download it separately to get everything ready. Then I believe that if the rcedit code were included in godot there would no longer be any need for wine on macOS / linux.",
+    "format": "legacy",
+    "workaround": "It is not possible"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-05T15:28:36Z",
+  "comments": 7,
+  "createdAt": "2020-06-20T23:16:50Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.5",
+  "number": 1097,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide an easier way to change the executable icon for projects exported to Windows",
+  "up": 11,
+  "updatedAt": "2025-06-05T15:28:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1097"
+}

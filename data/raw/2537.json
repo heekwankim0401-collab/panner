@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires changes in the editor.",
+    "format": "markdown",
+    "workaround": "Not always, while it is possible to get every node navigating the scene tree, some nodes have internal objects to manage their status and appearance, and they are not available mostly."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-03-31T18:25:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2537,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Refactor editor API to allow deep editor customizations",
+  "up": 4,
+  "updatedAt": "2022-05-16T22:52:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2537"
+}

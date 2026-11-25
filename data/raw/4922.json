@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Callables are core",
+    "format": "form",
+    "workaround": "Can be worked around by using lambdas. You'll need a dictionary of them if you want to disconnect them later."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-07-19T21:39:01Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4922,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Consider Callables unique when bound with different parameters",
+  "up": 15,
+  "updatedAt": "2025-11-03T22:15:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4922"
+}

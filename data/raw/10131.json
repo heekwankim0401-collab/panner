@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the fundamental behaviour of annotations in GDScript.",
+    "format": "form",
+    "workaround": "This is about the GDScript interpreter so cannot be worked around in a reasonable way. The problem itself can be sidestepped by either keeping the relevant warning disabled globally, or changing the structure of the code to not fall afoul of the rules in the first place, but making annotations work in a way that doesn't require changing the code being annotated seems a more proper approach."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-07-06T20:43:13Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10131,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Treat annotations as whitespace for GDScript syntax rules",
+  "up": 2,
+  "updatedAt": "2024-07-07T07:56:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10131"
+}

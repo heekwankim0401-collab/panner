@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a change internal to the `OptionButton` class.",
+    "format": "form",
+    "workaround": "I've been working in C#, so I'm not sure if this applies to GDScript, but I was able to work around this by manually emitting the signal after setting the value.\n\n`optionButton.EmitSignal(OptionButton.SignalName.ItemSelected, optionButton.Selected);`\n\nHowever, it's very strange `OptionButton` is the only instance I've found that does not emit the signal itself. This will likely confuse another person not aware of this unique behavior."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-20T18:41:07Z",
+  "comments": 5,
+  "createdAt": "2025-08-20T05:14:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13035,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "OptionButton: Emit item_selected when selected is changed via script",
+  "up": 3,
+  "updatedAt": "2025-08-20T20:00:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13035"
+}

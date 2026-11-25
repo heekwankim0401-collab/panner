@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is by nature a core engine feature, and it cannot be an add-on. However, if anyone wishes to take the limited KSP approach, I do have [this repo](https://github.com/aaronfranke/GodotExtraMath) with some math types for C#.",
+    "format": "legacy",
+    "workaround": "No, it cannot be worked around in a few lines of script. However, let's explore what could be done.\n\nA fair question to ask is how other games handle large scales.\n\n* Most games don't. It's true that this feature is only truly needed for a small amount of games, as the majority of games take place on scales smaller than a few kilometers. For games that need somewhat large scales, sometimes maps are designed around this constraint, to be square and approximately 4 kilometers in radius, such as [PlanetSide 2's Indar map](https://web.archive.org/web/20210502035001if_/https://edge.alluremedia.com.au/m/k/2012/06/mapsize.jpg).\n\n* Kerbal Space Program (KSP) is a game created in Unity, which (like most engines) uses single-precision floats. The developers of KSP had to implement their own math types, doing a huge amount of calculations in user code. Even with all their effort, KSP struggled with floating-point issues for many years, and these issues came to be known as [The Kraken](https://wiki.kerbalspaceprogram.com/wiki/Deep_Space_Kraken). The ideal solution is for the engine to have first-class support.\n\n* A commonly cited technique is origin shifting. This involves moving the world around the player such that the player is always near the world origin. This technique can work, but it comes with many of its own limitations. For example, it doesn't always work for multiplayer, where the server needs to have precision for *all* players at once. There are many tricks to make this work better, but this heavily complicates things to the point that it's both easier and more efficient to use doubles.\n\n* Some games that use doubles for large scales include Star Citizen, Arma 3, Space Engineers, and Minecraft. Star Citizen uses a custom version of Amazon Lumberyard with double support added. Arma 3 uses their own in-house engine which they call \"Real Virtuality\" which uses doubles. Space Engineers and Minecraft both do not use an engine, but also, Minecraft in its early days (inc"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-28T16:28:57Z",
+  "comments": 71,
+  "createdAt": "2020-05-25T17:38:33Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 892,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for double precision floats",
+  "up": 115,
+  "updatedAt": "2023-06-22T05:56:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/892"
+}

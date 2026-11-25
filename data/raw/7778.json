@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it's impossible to be an addon it requires godot is directly compiled with it",
+    "format": "form",
+    "workaround": "no not really, it's annoying to write without doing it upstream"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-09-21T10:07:41Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:buildsystem",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7778,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a multiple runtime approach in the engine so we can enable all CPU features with auto vectorization",
+  "up": 8,
+  "updatedAt": "2023-10-14T18:41:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7778"
+}

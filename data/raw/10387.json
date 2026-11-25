@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Basic UI/UX functionality.",
+    "format": "form",
+    "workaround": "Would be used often - cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-08-07T10:46:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10387,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Cascading Themes by applying a partial Theme to `Theme Override`",
+  "up": 0,
+  "updatedAt": "2025-08-26T07:03:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10387"
+}

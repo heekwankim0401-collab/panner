@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-10-19T15:25:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15673,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Stop the editor FileSystem from moving to the location of moved files",
+  "up": 7,
+  "updatedAt": "2026-10-21T06:45:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15673"
+}

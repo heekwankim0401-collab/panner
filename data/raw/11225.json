@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because radial reference cross drawing is directly hardcoded in `NOTIFICATION_DRAW` code.",
+    "format": "form",
+    "workaround": "Could not be worked around, as reference cross is hardcoded."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-23T20:21:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11225,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Replace hardcoded `TextureProgressBar`'s radial reference cross with something more common and allowing to precisely see actual radial center",
+  "up": 2,
+  "updatedAt": "2024-11-26T04:22:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11225"
+}

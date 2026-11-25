@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, I think shearing should simply just properly _work_ when you apply it to a Skeleton3D bone. I'm like, half sure this is a bug, but I'm posting this issue in here to be safe in case if it's part of some design/optimization or whatever. Slight possibility that this is also a bug on my end, but I've tried every method I could to adjust the Transform3D's basis, so I'm like 99% sure it's the Skeleton3D's fault.\n\nIf nothing else, I could argue that this would allow more proper consistency between how Skeleton2D and Skeleton3D systems work, as one system currently can shear bones, but the other cannot.",
+    "format": "form",
+    "workaround": "Simplest way is this nonsensical workaround that I'm currently using that _doesn't look quite right_.\n\n![image](https://github.com/user-attachments/assets/5259e76e-9d17-4237-a12c-a179ceaf28a3)\n```gdscript\n# Pseudo-skew\nif skew_2d != 0:\n\tvar skew_matrix := Basis()\n\tvar skew_atan := atan(-skew_2d)\n\tskew_matrix.x.y = -skew_2d\n\t\n\tvar skew_inv_lerp_y: float\n\tif skew_atan > 0:\n\t\tskew_inv_lerp_y = inverse_lerp(1,0,skew_atan)\n\telif skew_atan < 0:\n\t\tskew_inv_lerp_y = inverse_lerp(-1,0,skew_atan)\n\t\n\tscale_2d.y *= skew_inv_lerp_y\n\torigin_2d.y *= skew_inv_lerp_y\n\t\n\tcombined_basis = combined_basis * skew_matrix\n```\n\n...but obviously, this is not ideal. The only _other_ way that I think I could make this work, is to set up the bones to auto adjust themselves (and their children) to accurately mimic how they'd be positioned, scaled, and rotated if they could properly take in shear transformations. _Then_, I'd need to program a system that sends data to a vertex shader that accepts an array with skew values and any other needed transform values in an array, and _then_ have the vertex shader properly adjust the vertices to accurately resemble how it'd look in the Skeleton2D version.\n\nAnyway, uh, more than \"a few lines of script\"."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-11-17T06:03:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 11176,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Skeleton3D bones to have shear transformations",
+  "up": 0,
+  "updatedAt": "2024-11-28T16:27:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11176"
+}

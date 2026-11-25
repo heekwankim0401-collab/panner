@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No, because is inner to the web export module of Godot",
+    "format": "form",
+    "workaround": "No, we tryed everything even in the official documentation, facebook, discord and forums\n\nAnd eve we tryed with this tutorial:"
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-29T17:23:30Z",
+  "comments": 4,
+  "createdAt": "2024-09-17T04:26:14Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.8",
+  "number": 10765,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make plain HTTP and WebSockets available without HTTPS/SSL mandatory for web export",
+  "up": 1,
+  "updatedAt": "2026-10-29T17:23:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10765"
+}

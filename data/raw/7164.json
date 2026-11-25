@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Gridmap core.",
+    "format": "form",
+    "workaround": "Not that I can imagine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-06-26T16:16:39Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7164,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a GridMap signal or callback for `on_cell_changed()`",
+  "up": 7,
+  "updatedAt": "2025-07-20T18:10:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7164"
+}

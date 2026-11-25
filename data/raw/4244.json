@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "You can't really customize this dialog with an addon.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-24T09:56:02Z",
+  "comments": 1,
+  "createdAt": "2022-03-19T23:36:00Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "3.x",
+  "number": 4244,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add proper filters for picking export template",
+  "up": 5,
+  "updatedAt": "2022-03-24T09:56:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4244"
+}

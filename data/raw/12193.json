@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this feature would significantly simplify the animation tree usability for complex animation state machines, which is, in my opinion, an essential aspect of any 3D game engine.",
+    "format": "form",
+    "workaround": "It can be worked around using sub-state machines, but it's not convenient because accessing the sub-state machines states requires more coding, since it requires you to access the sub-state machine before traveling to a specific state inside it, so while it makes the animation tree itself more organized, it also makes coding the transitions slightly more cumbersome and not as straight-forward."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-04-08T14:17:16Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12193,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add reroute/branching nodes to animation tree editor.",
+  "up": 0,
+  "updatedAt": "2025-04-08T21:18:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12193"
+}

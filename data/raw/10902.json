@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As above.",
+    "format": "form",
+    "workaround": "No, because `Node` can't be monkey-patched AFAIK."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-10-04T15:37:57Z",
+  "down": 9,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10902,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `Node` an iterator for its children",
+  "up": 5,
+  "updatedAt": "2026-03-15T08:55:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10902"
+}

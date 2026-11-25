@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core.",
+    "format": "form",
+    "workaround": "It is core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-25T19:40:47Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12499,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use `Span` collections in `String`/`StringName` operations to reduce memory allocation/copy",
+  "up": 0,
+  "updatedAt": "2025-05-28T13:27:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12499"
+}

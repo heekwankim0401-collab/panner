@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Issue affects core nodes and the core engine loop, so can't really be fixed with an add-on.",
+    "format": "form",
+    "workaround": "Workarounds exist but they're kinda iffy, and since this issue affects built-in nodes too, you can't really script around the problem for those."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 35,
+  "createdAt": "2023-05-03T00:01:41Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 6795,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add late physics process",
+  "up": 15,
+  "updatedAt": "2026-11-07T16:47:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6795"
+}

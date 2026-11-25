@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a convenience feature for working with errors. It's not project-specific.",
+    "format": "form",
+    "workaround": "- Highlight JUST the portion of the file path between res:// and :<line_number>, press ctrl+alt+o and paste then manually scroll to the line number you hopefully remember.\n- If you don't know about the Quick Open Script shortcut, painstakingly navigate through all your folders until you find the file in question, manually scroll to the line number you hopefully remember."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-01T01:15:38Z",
+  "comments": 1,
+  "createdAt": "2024-06-20T01:44:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 10000,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make console file path errors clickable",
+  "up": 17,
+  "updatedAt": "2025-10-01T01:15:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10000"
+}

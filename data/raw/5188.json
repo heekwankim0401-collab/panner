@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this feature is tied to the core functions.",
+    "format": "form",
+    "workaround": "My only contention is whether or not this implementation is slower than having separate Astar maps for each entity type (since every point would need to be checked for support) but I don't see why it wouldn't be used often due to its flexibility."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-08-16T23:42:18Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 5188,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Parallel AStar map functionality",
+  "up": 2,
+  "updatedAt": "2024-10-19T11:42:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5188"
+}

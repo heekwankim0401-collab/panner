@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "StyleBoxFlat is core functionality and can't be modified by a plugin.",
+    "format": "form",
+    "workaround": "This can be worked around with a clever property setup, which is not obvious:\n\n![image](https://user-images.githubusercontent.com/180032/133512022-bfeae390-2d5d-4480-b467-925b71e550c4.png)\n\nThis property setup also requires creating a different StyleBoxFlat resource per height desired. This can be inconvenient when you have multiple skewed StyleBoxes, each with their own height.\n\nThe question about how often it will be used remains though. I believe it will be used relatively often in futuristic-looking UIs. Many popular AAA games such as Overwatch and Doom Eternal feature skewed styleboxes, but this is not something that fits within all games' art style. Nonetheless, I think having the option makes sense."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-28T16:32:02Z",
+  "comments": 1,
+  "createdAt": "2021-09-15T21:30:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3301,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Skew property to StyleBoxFlat",
+  "up": 10,
+  "updatedAt": "2022-04-28T16:32:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3301"
+}

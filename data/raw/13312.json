@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this is for making something already possible much more convenient, and shouldn't require an add-on to achieve",
+    "format": "form",
+    "workaround": "the function will work exactly as before when used standalone, it will not affect people that don't use it this way"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-01T20:57:47Z",
+  "comments": 4,
+  "createdAt": "2025-09-30T20:07:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": "4.6",
+  "number": 13312,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `look_at()` return the rotation when not run as a a standalone function",
+  "up": 0,
+  "updatedAt": "2025-10-14T00:37:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13312"
+}

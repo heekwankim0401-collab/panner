@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It seems out of place that most of the 2D nodes have 3D counter-parts, but not this, despite it being a super helpful node in my personal opinion and I think it will help a lot if someone wanted to make cool and more interesting 3D cut-out sprites/ a group of them in a 3D or 2.5D game!",
+    "format": "form",
+    "workaround": "I did search a lot, even if there were any proposals done here for this feature. I couldn't find anything. The only thing I found was for 2D sprites, but nothing for 3D sprites."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-01T02:41:40Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7942,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a CanvasGroup equivalent for Sprite3D",
+  "up": 4,
+  "updatedAt": "2023-10-01T19:13:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7942"
+}

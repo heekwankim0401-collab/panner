@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "not sure",
+    "format": "legacy",
+    "workaround": "no it can't, since there's no api for that (available in gdscript)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-09-24T03:05:50Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1559,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "RichTextLabel: Add ability to get col/row position at mouse or arbitrary point",
+  "up": 0,
+  "updatedAt": "2020-09-24T03:57:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1559"
+}

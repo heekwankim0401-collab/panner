@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It needs to touch `Node3D`'s transform directly and integrate with the\nexisting group system already in `SceneTree` — there's no extension point\nan addon could hook to intercept \"just shifted the whole world\" in a way\nevery downstream system (physics, particles, custom renderers) could\nconsistently rely on. An addon can (and today, does) reimplement the\nnode-shifting loop itself, but it can't give other addons/games a single\nshared signal to converge on, which is the actual value: right now every\nproject's floating-origin implementation is a bespoke, incompatible\none-off.",
+    "format": "form",
+    "workaround": "It *is* currently worked around this way in every project that needs it —\nthat's the problem. I've independently built this exact pattern twice: once\nas `Terrain3D::rebase()` (github.com/TokisanGames/Terrain3D PR #1019,\nregion-coordinate-based, since merged/positively reviewed — deferred to\nTerrain3D 1.2 pending their own region-streaming work, not rejected on\ndesign) for a GDExtension module, and once as a plain GDScript\n`world_origin.gd` singleton in my own project (signal-based, no grid\nalignment needed since content there regenerates from true position rather\nthan being stored at an address). Both hand-rolled implementations converge\non the same shape: an offset, a rebase entry point, and a signal for\nnon-tree-derived systems to react to. That convergence, independently\narrived at twice, is what suggests this belongs at the engine level rather\nthan being reinvented per-project."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-10T13:44:56Z",
+  "comments": 1,
+  "createdAt": "2026-08-09T08:30:25Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 15350,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add SceneTree.rebase_world_origin() for floating-origin support",
+  "up": 0,
+  "updatedAt": "2026-08-10T13:44:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15350"
+}

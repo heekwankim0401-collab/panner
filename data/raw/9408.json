@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, because input is core.",
+    "format": "form",
+    "workaround": "It will be used often that is certain. While researching about this issue I saw that there are a lot of people on reddit or other forums asking for how to get the action name for dynamic purposes.\n\nThe workaround is ugly and inefficient as I mentioned in the problem section. You have to go through all the list(s) and match it against the `is_action...` methods during an input event."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-29T18:04:52Z",
+  "comments": 16,
+  "createdAt": "2024-03-29T16:09:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 9408,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "InputEvent get_action() if is_action_type() true",
+  "up": 0,
+  "updatedAt": "2024-03-29T18:05:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9408"
+}

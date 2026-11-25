@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core: UX improvement of a core feature.",
+    "format": "markdown",
+    "workaround": "Can be worked around by selecting a color with the colourpicker at random, moving the viewport so the element you want to pick a colour from is within view, and then opening the colourpicker again."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-02-11T15:14:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2275,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow moving the Editor Viewport (with MMB) while picking a viewport color with a ColorPicker node",
+  "up": 0,
+  "updatedAt": "2021-04-11T13:42:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2275"
+}

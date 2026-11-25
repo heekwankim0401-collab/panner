@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It allows extending nodes into true custom types which can be linked in the header of a scene file",
+    "format": "markdown",
+    "workaround": "Most likely other languages load types by name and not by a filepath"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T19:36:06Z",
+  "comments": 8,
+  "createdAt": "2021-03-21T03:58:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2484,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve type system and obsolete loading types by string path",
+  "up": 0,
+  "updatedAt": "2024-01-01T16:19:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2484"
+}

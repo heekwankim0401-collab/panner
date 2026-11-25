@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No, It's core.",
+    "format": "form",
+    "workaround": "I must add script for all this nodes. I'm lazy."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-24T10:18:03Z",
+  "comments": 10,
+  "createdAt": "2022-06-23T12:56:25Z",
+  "down": 6,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4729,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `position_changed` signal for Node2D and Node3D",
+  "up": 3,
+  "updatedAt": "2026-04-25T07:12:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4729"
+}

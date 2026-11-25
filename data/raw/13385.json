@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about performance of a built-in node.",
+    "format": "form",
+    "workaround": "The workarounds stated above can be unsuitable depending on your project due to their complexity."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-10-14T23:37:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13385,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow disabling VoxelGI nodes in a way that reduces memory utilization",
+  "up": 0,
+  "updatedAt": "2025-10-20T22:31:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13385"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's about editor ux.\nIt can technically easily and partially be done as an addon (minus the output and debugger part), but I think it improves the experience for everyone.",
+    "format": "form",
+    "workaround": "used often"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-20T10:29:26Z",
+  "comments": 5,
+  "createdAt": "2023-10-20T23:17:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 8214,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add icons to the bottom bar buttons",
+  "up": 0,
+  "updatedAt": "2026-02-20T10:29:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8214"
+}

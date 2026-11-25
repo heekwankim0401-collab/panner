@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know if an addon would really even be helpful here.",
+    "format": "form",
+    "workaround": "I don't know if it can be worked around in the editor, but the current way of configuring for example a third person camera is to attach the camera to the spring arm, put your character in a scene with lights, run the scene, adjust the spring arm as needed while alt tabbing back to the running game and keep tweaking until it's perfect. It's quite clunky."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-04T11:21:47Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12364,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make SpringArm update its children's transform in the editor",
+  "up": 9,
+  "updatedAt": "2025-05-06T15:09:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12364"
+}

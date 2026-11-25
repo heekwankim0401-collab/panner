@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Someone from godot engine working on this will be much more informed as to what are useful samples to be capturing than a Mesa developer, so hopefully someone from your side can help.",
+    "format": "markdown",
+    "workaround": "The alternative to trace-based testing is building and running the tests, but that means custom per-app infrastructure for running and capturing, which doesn't scale."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-01-23T18:04:47Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 2165,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Include Godot in Mesa trace-based testing",
+  "up": 6,
+  "updatedAt": "2022-09-08T19:49:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2165"
+}

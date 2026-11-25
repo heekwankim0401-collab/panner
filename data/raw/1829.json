@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think the preview function needs an offset.",
+    "format": "legacy",
+    "workaround": "It's avoidable, but I had quite a bit of trouble figuring out how to make it happen.\nI've found several of the same problems on the internet and I'm sure many people will continue to be confused.\nhttps://www.reddit.com/r/godot/comments/bzptrt/how_can_i_set_drag_previews_offset/\nhttps://www.reddit.com/r/godot/comments/j0bf8g/changing_set_drag_preview_offset/\nhttps://www.reddit.com/r/godot/comments/j0o11y/how_can_i_change_the_position_of_the_drag_preview/\nhttps://www.reddit.com/r/godot/comments/j0zh49/set_drag_preview_and_rect_pivot_offset_not_working/\nhttps://www.reddit.com/r/godot/comments/82yrku/can_i_center_the_mouse_cursor_on_the_inbuilt_set/"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-11-13T11:15:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1829,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an offset argument to `Control.set_drag_preview()`",
+  "up": 10,
+  "updatedAt": "2020-11-26T18:10:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1829"
+}

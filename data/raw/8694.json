@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The functionality required is compiled into the export templates.",
+    "format": "form",
+    "workaround": "This can be worked around with a `.sh` file placed in the `bin` directory. That said, why make the end user write the script if Godot can simply search a couple more reasonable directories?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-12-20T15:28:54Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 8694,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Exported games should search more directories for the .pck file",
+  "up": 1,
+  "updatedAt": "2024-05-10T22:39:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8694"
+}

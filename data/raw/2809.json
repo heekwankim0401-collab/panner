@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "You could see FSR as an Rendering enhancement and I don't think changing the rendering as an add-on is such a good idea. Unreal Engine and Unity3D added DLSS in core ! :)",
+    "format": "markdown",
+    "workaround": "idk"
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-24T21:34:48Z",
+  "comments": 10,
+  "createdAt": "2021-06-02T00:23:45Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 2809,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement AMD FidelityFX Super Resolution (FSR) in the Vulkan renderer",
+  "up": 52,
+  "updatedAt": "2022-05-03T00:26:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2809"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This underlies a problem with a core engine class, so it should be considered to be added as a part of the engine instead."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-09T23:49:52Z",
+  "comments": 1,
+  "createdAt": "2023-01-31T10:08:05Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6212,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `String.to_uint()` method for C++",
+  "up": 3,
+  "updatedAt": "2023-04-16T00:45:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6212"
+}

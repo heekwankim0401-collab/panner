@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Improving the usability and robustness of the collision data is core functionality of a 3D engine, as everything that interacts in a physical way relies on this methods.",
+    "format": "form",
+    "workaround": "No. Collision data is extremely complex to gather from scratch.\n\nJust in case: Doing get_rest_info, add that body to the exceptions list and do it again is not equivalent. If the collisions are against the same body, you will get only one and there still is no margin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-03-20T13:51:56Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9341,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve the data provided by `PhysicsDirectSpaceState.get_rest_info()`",
+  "up": 4,
+  "updatedAt": "2025-01-19T13:34:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9341"
+}

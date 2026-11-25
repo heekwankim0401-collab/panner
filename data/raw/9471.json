@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't without tinkering with C++ OS API.",
+    "format": "form",
+    "workaround": "Literally impossible."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-16T11:42:53Z",
+  "comments": 0,
+  "createdAt": "2024-04-07T16:26:27Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 9471,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow getting exit value from a spawned process",
+  "up": 4,
+  "updatedAt": "2024-04-16T11:42:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9471"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Debugging can only be supported as a core feature, not possible as an add-on.",
+    "format": "form",
+    "workaround": "People use GD.Print and logcat instead of a proper debug."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-12-18T08:31:40Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:dotnet",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3689,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement Mono/C# debugging in the Android export",
+  "up": 4,
+  "updatedAt": "2022-02-10T20:44:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3689"
+}

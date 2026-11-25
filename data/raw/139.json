@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. The ScriptEditor integration portion is something that can only properly be done with direct editor modifications in the source code.\n\nFurthermore, we are talking about an industry-standard text format. It should be built into the editing experience for all users, without the need for a plugin.",
+    "format": "legacy",
+    "workaround": "Most of the community using any sort of addon (either creating OR using) would use this, so almost everyone. \n\nYes, this could be done as a plugin in script code. No, it would not be just a few lines. It would be a huge amount of work just to create a well-written editor and renderer pair."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2019-10-09T19:17:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 139,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add full Markdown support for use in browsing, creating, and editing projects and addons",
+  "up": 72,
+  "updatedAt": "2025-09-23T16:00:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/139"
+}

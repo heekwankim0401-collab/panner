@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "PBR appearance is core rendering functionality. Other rendering engines such as Blender's Eevee now feature multi-scatter GGX, so it's important for Godot to stay on the same wavelength to ensure more consistent visuals across rendering engines.\n\n*Keywords for easier searching: multiscatter, multiscattering, multi-scattering*",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-09T16:34:46Z",
+  "comments": 1,
+  "createdAt": "2022-05-07T16:58:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.5",
+  "number": 4508,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement multi-scatter GGX approximation to prevent rough metallic materials from being darker than they should be",
+  "up": 10,
+  "updatedAt": "2025-05-09T16:38:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4508"
+}

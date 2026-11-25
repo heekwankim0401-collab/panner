@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm sure it's possible to do this with an import plugin as well, but I believe it's basic enough that it should be in core. Plugins shouldn't be necessary for usability of core features.",
+    "format": "form",
+    "workaround": "It might be possible to do this with an import script, but I don't think that should be necessary. This is about improving the default workflow for MeshLibrary and by extension GridMap, which are core features."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-09-09T00:30:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5375,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow importing scenes (glTF etc) as MeshLibraries",
+  "up": 19,
+  "updatedAt": "2023-04-30T16:02:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5375"
+}

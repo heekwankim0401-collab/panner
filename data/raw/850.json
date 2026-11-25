@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See comments above - this is debatable.",
+    "format": "legacy",
+    "workaround": "Not sure - see above comments. Maybe it could... but useful to have it as native functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-24T16:30:44Z",
+  "comments": 15,
+  "createdAt": "2020-05-18T00:22:10Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": "3.x",
+  "number": 850,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add style inheritance for theme items",
+  "up": 24,
+  "updatedAt": "2025-02-13T22:02:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/850"
+}

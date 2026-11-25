@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Having to maintain something that's essentially a worse version of a built-in engine feature is a liability and a waste of developer time and I do not see a reason why not to expose the node's unique scene ID for usage.",
+    "format": "form",
+    "workaround": "We are currently making the encounters tool scripts and on ready setting the current unix time as a pseudo unique ID then storing _that_ in an array for completed battles."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-03T22:37:09Z",
+  "comments": 0,
+  "createdAt": "2026-02-03T22:29:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14145,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Expose the node's new Unique ID",
+  "up": 0,
+  "updatedAt": "2026-02-03T23:39:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14145"
+}

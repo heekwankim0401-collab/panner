@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-09-09T04:11:48Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 15499,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to access custom JavaScript data with `JavaScriptBridge` on a per Engine basic",
+  "up": 0,
+  "updatedAt": "2026-09-09T17:30:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15499"
+}

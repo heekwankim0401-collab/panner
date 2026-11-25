@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it already is a thing for 3D particles, i don't see why it shouldn't also work for 2D",
+    "format": "legacy",
+    "workaround": "The workaround is not pretty but it can be done in about 10 lines of shader code, and we also have to move textures from where they usually go to inside the shader, and use the regular texture field with something like a green square which is unintuitive for our designers"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-22T17:24:58Z",
+  "comments": 11,
+  "createdAt": "2020-09-17T18:24:10Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 1525,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Have `INSTANCE_ID` be available in CanvasItem vertex shader",
+  "up": 0,
+  "updatedAt": "2022-06-22T21:07:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1525"
+}

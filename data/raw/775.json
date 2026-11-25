@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Every strategy game since Age of Empires has fog of war/visibility as a core mechanic, I think Godot has a chance to be used in such games and this feature would be very helpful.",
+    "format": "legacy",
+    "workaround": "Well I think stuff like this is often used in strategy games, I do not see an easy solution (and havent manage to find one on the internet),"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-07T21:45:55Z",
+  "comments": 5,
+  "createdAt": "2020-05-01T06:55:29Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 775,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an \"OR\" blend mode to CanvasItemMaterial",
+  "up": 1,
+  "updatedAt": "2021-02-07T21:46:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/775"
+}

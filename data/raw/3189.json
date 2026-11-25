@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think an option under the Mesh actions would fit very well and it increases working speed, because you don't need to export/import to third party programs.",
+    "format": "form",
+    "workaround": "There is no script needed for a workaround. You need to import/open your model in a 3D program and change the origin point, then export it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2021-08-23T10:30:40Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3189,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to move pivot/origin point from mesh",
+  "up": 0,
+  "updatedAt": "2026-03-15T00:19:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3189"
+}

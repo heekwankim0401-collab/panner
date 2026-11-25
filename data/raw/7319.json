@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as i am aware this cannot be implemented via an add-on while keeping the benefits of performance improvements and inverting colors in the same viewport multiple times.",
+    "format": "form",
+    "workaround": "This can be worked around by using this shader:\n```glsl\nshader_type canvas_item;\n\nuniform sampler2D screen : hint_screen_texture;\n\nvoid fragment() {\n\tCOLOR = COLOR - texture(screen,SCREEN_UV);\n\tCOLOR.a = 1.;\n}\n```\nwhich is sadly way more performance heavy, and can not invert the background multiple times since it uses the screen texture which is only generated once per viewport."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-18T10:33:29Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7319,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add reverseSubtract/difference blend mode",
+  "up": 1,
+  "updatedAt": "2023-07-18T21:10:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7319"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a solution to fix the shortcomings of the line2d component",
+    "format": "form",
+    "workaround": "I can simulate the effect of a line segment being split by creating multiple Line2d's, however this takes up more nodes and I'm also only able to select the draw mode for the cut location from the available cap modes. And it would completely destroy the consistency of designing line effectors, which makes it impossible for them to pass a single line to overlay their effect.\n\nThis method is totally superior to than using Curve to control the width.\nUsers are able to reproduce the pattern of using Curve to control the width with simple code based on this feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-03-05T23:45:48Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9241,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a per-point width property to Line2D",
+  "up": 0,
+  "updatedAt": "2024-03-19T13:31:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9241"
+}

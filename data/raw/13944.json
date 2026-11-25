@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "`ResourcePath` is supposed to be a built-in engine type that needs editor integration.\n\n\n`@export var monsters: Dictionary[String, Resource]`\n* Loading the parent .tres or .tscn automatically loads all referenced resources.\nThis is undesirable for large datasets (e.g., RPG databases, item registries, monster definitions).\n\n* There is no lazy loading.\n\n* There is no control over when or how referenced resources are loaded.\n\n`@export var monsters: Dictionary[String, String]  # \"res://monsters/slime.tres\"`\nThis has the following drawbacks:\n\n* No editor integration.\n* No drag‑and‑drop.\n* No type safety.\n* No automatic path updates when files are moved.\n* No inline editing of the referenced resource.",
+    "format": "form",
+    "workaround": "As described, you can store plain strings or UIDs(which is just a string as well). The former breaks when files are moved around, the latter is unreadable. Both of these solutions do not have a editor integration (no thumbnails, no in-editor editing, no drag/drop )"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-04T22:56:38Z",
+  "comments": 8,
+  "createdAt": "2026-01-02T18:41:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13944,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "ResourcePath as an in-between plain String and a Resource",
+  "up": 0,
+  "updatedAt": "2026-03-29T11:10:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13944"
+}

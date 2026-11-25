@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because 3D and 2D editors are core",
+    "format": "form",
+    "workaround": "I don't think so, this seams to be core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2022-01-27T17:45:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3881,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Readd right-click panning in the 2D editor, add Rhino navigation mode to the 3D editor",
+  "up": 3,
+  "updatedAt": "2023-11-25T17:33:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3881"
+}

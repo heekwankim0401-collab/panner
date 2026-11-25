@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its used in a lot of games, its a data structure that is especially useful for most 2d games",
+    "format": "form",
+    "workaround": "it will be used often, and it can be worked around easily with gdscript, but it would be more performant if its part of godot itself"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2022-08-11T16:58:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5148,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a 2D array/grid/matrix type to GDScript",
+  "up": 25,
+  "updatedAt": "2026-09-28T22:20:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5148"
+}

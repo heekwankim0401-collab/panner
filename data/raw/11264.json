@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I assume the reason is the Compositor itself. It has been developed as solution for post processing effects.",
+    "format": "form",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-04T14:15:30Z",
+  "comments": 6,
+  "createdAt": "2024-11-29T18:45:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11264,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose scene directional light data through the compositor effect callback",
+  "up": 0,
+  "updatedAt": "2025-03-23T19:07:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11264"
+}

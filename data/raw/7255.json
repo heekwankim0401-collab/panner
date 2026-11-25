@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Assuming it were a successful add-on, there would be a disruptive split in gdscript functionality with many users who take advantage of the asset potentially sharing code that confuses users who aren't aware of the add-on.",
+    "format": "form",
+    "workaround": "There's no clean way to lazy-evaluate expressions just within gdscript. It's possible with lambdas and bound callables, but significantly longer and arguably less readable:\n\n```gdscript\nclass_name Utils\n\nstatic func a_or_b(a: Callable, b: Callable):\n  var x = a.call()\n  return x if x else b.call()\n```\n```gdscript\n@onready var thing = Utils.a_or_b(get_node.bind(\"MyChild\"), Utils.a_or_b.bind(func(): get_viewport().get_camera_3d(), self))\n```\nAlternatively:\n```gdscript\n@onready var thing = get_node.bind(\"MyChild\") or get_viewport().get_camera_3d() or self\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-10T08:09:55Z",
+  "comments": 1,
+  "createdAt": "2023-07-10T08:06:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7255,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow \"or\" for default/fallback values",
+  "up": 1,
+  "updatedAt": "2023-07-10T08:11:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7255"
+}

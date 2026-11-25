@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "rendering is core.",
+    "format": "form",
+    "workaround": "Not that I am aware of. I suppose you could turn off shadows and create a duplicate that only renders shadows with a different material? But that would come with its own problems."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-22T17:22:17Z",
+  "comments": 34,
+  "createdAt": "2022-04-24T20:38:21Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.5",
+  "number": 4443,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow users to provide a custom shadow shader",
+  "up": 53,
+  "updatedAt": "2026-11-25T10:06:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4443"
+}

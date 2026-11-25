@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think it's something easily implemented by an add-on.\n\n\nI understand that it may be a low priority issue which may not be easy to solve. But this is a pattern of problem I've encountered a lot when I tried to migrate my project to use custom resources, so I wanted this feature request to keep track of relevant discussions in future.",
+    "format": "legacy",
+    "workaround": "I mentioned a possible workaround above but it's not an ideal solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2019-12-15T03:49:44Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 307,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using interface as exported property type",
+  "up": 25,
+  "updatedAt": "2023-10-03T14:05:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/307"
+}

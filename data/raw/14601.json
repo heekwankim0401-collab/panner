@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-03T16:51:29Z",
+  "comments": 2,
+  "createdAt": "2026-04-02T22:20:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 14601,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add virtual `_skip_select_on_edit` method to `EditorPlugin`s",
+  "up": 0,
+  "updatedAt": "2026-04-03T20:37:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14601"
+}

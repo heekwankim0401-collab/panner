@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This cannot be made as an addon efficiently.",
+    "format": "form",
+    "workaround": "The only way I can think of doing this, is to constantly propagate a call to lights from the root node, which is bad for performance, or to have each light have a script, which would be very user-error/bug prone"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-05T18:25:39Z",
+  "comments": 3,
+  "createdAt": "2021-11-12T13:06:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3538,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Setting to Ignore Internal Soft Shadow Blur Multiplier to Project Settings",
+  "up": 0,
+  "updatedAt": "2022-11-05T19:31:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3538"
+}

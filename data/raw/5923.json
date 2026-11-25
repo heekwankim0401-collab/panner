@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would be an integral part of how TileMaps are rendered. I don't think an add-on can hook into this, at the moment, but I'm not sure.",
+    "format": "form",
+    "workaround": "One way to work around this is to create tons of materials, each having different shader uniforms. I solved my case by creating 47 different materials in a script. But I think this is inefficient for rendering (no batching), and can lead to combinatorial explosions.\n\nIt works fine though, and it might be that in a 2D game the lack of batching for having lots of material variants isn't a significant performance issue. But while implementing I thought of this abstract solution which seems slightly more elegant \"why would the shader *not* have access to this\"."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-30T22:03:21Z",
+  "comments": 1,
+  "createdAt": "2022-12-11T10:42:28Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5923,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow passing per-tile custom data to a shader",
+  "up": 2,
+  "updatedAt": "2023-05-30T22:03:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5923"
+}

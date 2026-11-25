@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Although this can be partially implemented by using an asset, problems still arise like no thumbnail support, having to resort to bitmaps in some cases or depending on the state of the asset.",
+    "format": "markdown",
+    "workaround": "N/A."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-07T16:31:20Z",
+  "comments": 20,
+  "createdAt": "2021-03-14T22:41:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2461,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for loading and saving AVIF images",
+  "up": 9,
+  "updatedAt": "2025-05-11T16:04:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2461"
+}

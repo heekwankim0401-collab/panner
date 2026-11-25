@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No. Writing a custom shader using depth buffer is trivial but I believe this change needs to operate on an engine level to allow for materials to use the `disable_fog` flag."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-16T17:41:31Z",
+  "comments": 2,
+  "createdAt": "2023-12-27T11:27:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8732,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow controlling fog blend mode / Add support for dark fog",
+  "up": 2,
+  "updatedAt": "2024-05-16T17:41:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8732"
+}

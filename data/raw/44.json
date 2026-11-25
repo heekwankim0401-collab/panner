@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "When we make video games one of the most common things is the instance of objects from time to time. They can be bullets, enemies or whatever and doing it with corroutines is a bit more difficult to understand. That is why I think a function like this is needed inside of Godot Engine.",
+    "format": "legacy",
+    "workaround": "It could be solved with a corroutine, but the idea is to have a function always for something everyday like calling a function every so often."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-22T14:56:50Z",
+  "comments": 11,
+  "createdAt": "2019-09-07T13:07:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 44,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create a function type INVOKE () of unity in godot engine c #.",
+  "up": 0,
+  "updatedAt": "2020-11-22T14:56:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/44"
+}

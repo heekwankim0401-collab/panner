@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, since the stuff is still being worked, anyway as an artist, mainly, use visual script, stuff like this would help me make sense of the engine, and get what I want, at minimum performance price . . That's, the idea, getting the best, of both worlds, a simple 2D project decal, for most use cases and, an advanced one, with 3D projection, fall-off, so one, that can be projected in complex ways, and have the advanced stuff, for special stuff . . Also, having a simple Decal would be a good way, for people to begin using them, just want best performance and, quality, where possible . . ;) . .\n\nThe current decal is amazing, aside the blend mode, but this is about use-cases, it would be nice to have a simpler ( faster :D ) decal, since the current one, is well, VERY, VERY advanced . .",
+    "format": "legacy",
+    "workaround": "Not sure, as a beginner it's important the options I need are there, without needing to write code . . Also, for coders decals might not be important, but for artists, and those working on that side, in a game dev team, having both performant, and very advanced decals, seems logical, to me, not sure . . Also, for many game types, one would only really need the basic version, for the entire game . ."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-19T00:18:29Z",
+  "comments": 2,
+  "createdAt": "2020-08-31T02:26:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1434,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Suggestions for the new decal node . .",
+  "up": 0,
+  "updatedAt": "2025-12-19T00:18:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1434"
+}

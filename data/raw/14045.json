@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core transform functionality.",
+    "format": "form",
+    "workaround": "This is my workaround:\n\n```cs\nextension(Transform3D Transform3D) {\n    public Transform3D WithGlobalScale(Vector3 NewGlobalScale) {\n        Transform3D NewTransform3D = Transform3D;\n\n        Basis RotationBasis = NewTransform3D.Basis.Orthonormalized();\n        NewTransform3D.Basis = RotationBasis.Scaled(NewGlobalScale);\n\n        return NewTransform3D;\n    }\n    public void SetGlobalScale(Vector3 NewGlobalScale) {\n        Basis RotationBasis = Transform3D.Basis.Orthonormalized();\n        Transform3D.Basis = RotationBasis.Scaled(NewGlobalScale);\n    }\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-01-21T23:05:16Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14045,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Transform3D.Scale / Basis.Scale setters",
+  "up": 0,
+  "updatedAt": "2026-02-11T18:16:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14045"
+}

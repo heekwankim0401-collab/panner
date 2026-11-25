@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires core changes.\n\nOriginal issue: https://github.com/godotengine/godot/issues/6236\n\nRelated: https://github.com/godotengine/godot/issues/6231",
+    "format": "legacy",
+    "workaround": "Nope."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-05-28T16:58:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 940,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add an autosave editor setting for scenes",
+  "up": 14,
+  "updatedAt": "2025-02-10T16:43:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/940"
+}

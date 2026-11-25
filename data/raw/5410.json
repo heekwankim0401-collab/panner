@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core buildsystem capability.",
+    "format": "form",
+    "workaround": "This will be used for every releases of the Godot Android Editor."
+  },
+  "assignees": 1,
+  "closedAt": "2025-10-10T12:07:16Z",
+  "comments": 0,
+  "createdAt": "2022-09-12T14:54:51Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:buildsystem",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5410,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automate the Google Play store upload/release process for the Godot Android Editor",
+  "up": 6,
+  "updatedAt": "2025-10-10T12:07:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5410"
+}

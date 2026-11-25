@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This cannot be provided by a library without copying function implementations.",
+    "format": "form",
+    "workaround": "It has [previously been proposed](https://www.reddit.com/r/godot/comments/hzen7x/comment/fzio3pw/?utm_source=reddit&utm_medium=web2x&context=3) to manipulate layers temporarily during checks.\n\nAn alternative solution would be gathering all objects from the scene tree and adding them to the blacklist. Then, the target objects are erased before calling the function:\n\n```gdscript\nfunc get_all_children(in_node, arr:=[]) -> Array:\n\tarr.push_back(in_node)\n\tfor child in in_node.get_children():\n\t\tarr = get_all_children(child, arr)\n\treturn arr\n\nfunc intersect_ray_to(position: Vector3) -> Dictionary:\n\tvar exclude_objs := get_all_children(get_tree().root)\n\texclude_objs.erase(collision_body)\n\treturn get_world().direct_space_state.intersect_ray(position, global_transform.origin, exclude_objs)\n```\n\nEither solution is very harsh on performance."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-21T17:04:41Z",
+  "comments": 4,
+  "createdAt": "2022-08-20T20:03:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5219,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add collision inclusions to RayCast (opposite of exclusions)",
+  "up": 0,
+  "updatedAt": "2022-08-21T20:47:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5219"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I believe the *default* interface for the web editor landing page needs some enhancements for better accessibility (e.g. to those with small screens or in need of informative contextual actions).",
+    "format": "form",
+    "workaround": "Any site that uses the landing page could implement this itself, but I believe we should be adding minimal additional buttons; the default view should allow the editor to take the full viewport size. In any case, I am unaware of any other stable site hosting the web editor, lack the resources to do so myself, and given the relative obscurity of this edition doubt that one will be near in the future."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-03-02T16:55:08Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6405,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Optimise the Web Editor wrapper UI for small screens & native feel",
+  "up": 4,
+  "updatedAt": "2023-03-02T17:35:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6405"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because trails add an incredible value to any moving object and not having a well designed Godot plugin means that only projects with skilled tech artists will have the expertise to create good looking ones. This is a very hard problem to solve.",
+    "format": "form",
+    "workaround": "It can be worked around with a lot of lines of script that probably will be buggy and not work under all conditions, or that will not look as good as a skilled tech artist can make them look."
+  },
+  "assignees": 1,
+  "closedAt": "2026-08-19T22:21:40Z",
+  "comments": 8,
+  "createdAt": "2023-06-14T15:25:48Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.8",
+  "number": 7082,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Trail3D node to draw smooth lines for VFX",
+  "up": 58,
+  "updatedAt": "2026-11-23T06:26:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7082"
+}

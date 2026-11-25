@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I suspect most people designing levels with moving platforms will want this feature. If people tell me I'm wrong though I'll happily figure out another solution!",
+    "format": "form",
+    "workaround": "It will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-01-05T14:38:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:navigation",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6048,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add checkbox to toggle NavigationServer3D Edge Connections in the Editor",
+  "up": 1,
+  "updatedAt": "2023-01-05T15:58:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6048"
+}

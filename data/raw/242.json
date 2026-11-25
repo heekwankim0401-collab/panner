@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The `SKPaymentTransactionObserver` protocol is implemented in the iOS platform code in `platform/iphone/in_app_store.mm`. The required new methods are part of this implementation and so must be added in the same place.\n\nI understand a redesign of IAP may be in consideration with the aim of unifying the IAP GDScript API across Android and iOS (I was unable to find an existing issue for this, if it exists). The new notifications proposed here should be part of that design.",
+    "format": "legacy",
+    "workaround": "No. This must be implemented at the iOS platform level."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-12T14:50:28Z",
+  "comments": 1,
+  "createdAt": "2019-11-19T13:42:12Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 242,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"restore purchases completed/failed\" notifications to iOS IAP",
+  "up": 2,
+  "updatedAt": "2023-04-12T14:50:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/242"
+}

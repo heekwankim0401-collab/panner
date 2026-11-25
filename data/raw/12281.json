@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-21T15:54:07Z",
+  "comments": 1,
+  "createdAt": "2025-04-21T15:37:55Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12281,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Print an error instead of running when running Godot with unknown arguments",
+  "up": 0,
+  "updatedAt": "2025-04-21T15:54:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12281"
+}

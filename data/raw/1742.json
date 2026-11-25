@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's likely going to require changes to the ClassDB and/or other core components.",
+    "format": "legacy",
+    "workaround": "There may be ways to better categorize exported variables individually, but I am not aware off any if so. If they do exist, it still would be more convenient if this was just done automatically and worked the same way as built-in nodes for consistency."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-28T12:08:48Z",
+  "comments": 3,
+  "createdAt": "2020-10-28T01:17:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1742,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Separate exported variables by class hierarchy in the inspector.",
+  "up": 4,
+  "updatedAt": "2020-10-28T13:38:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1742"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should make maintaining buttons and label easier",
+    "format": "form",
+    "workaround": "Insert a label into the button"
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-14T18:05:08Z",
+  "comments": 3,
+  "createdAt": "2022-01-17T17:20:05Z",
+  "down": 6,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3815,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make a button inherit Label",
+  "up": 0,
+  "updatedAt": "2022-04-14T18:05:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3815"
+}

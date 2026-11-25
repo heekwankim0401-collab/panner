@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think so because it improves basic usability for the overlay used by `forward_canvas_draw_over_viewport(overlay)` without workarounds.",
+    "format": "form",
+    "workaround": "In order to do that now it's cumbersome, since a reference to an actual node in the scene is needed only to get to its transforms, like done here in GDQuest tutorial (https://www.youtube.com/watch?v=H6TfKYtuM9U&t=61s).\nAnother hacky example could be found here:  https://godotengine.org/qa/6369/how-to-get-the-editors-camera\nIt doesn't seems that things have changed since 2016 when this question was posed by Zylann"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-15T12:49:06Z",
+  "comments": 3,
+  "createdAt": "2021-07-09T10:44:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.2",
+  "number": 2967,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose the active editor viewport and its methods/properties (eg. `zoom` and `global_mouse_position` in the scene)",
+  "up": 3,
+  "updatedAt": "2024-01-15T12:49:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2967"
+}

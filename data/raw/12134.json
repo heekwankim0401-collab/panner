@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The feature to open GDScript sub resource in the script editor already exist.",
+    "format": "form",
+    "workaround": "The current solution is to open the *.tres file using an external editor."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-03T14:34:55Z",
+  "comments": 4,
+  "createdAt": "2025-04-01T09:44:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 12134,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to edit built-in script from sub resource",
+  "up": 0,
+  "updatedAt": "2025-04-03T14:34:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12134"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "[Shader templates](https://github.com/godotengine/godot-proposals/issues/8366) would make it possible to implement this as an add-on, assuming they give enough low-level shader access to override the shadow sampling options. However, it might be argued that games with a stylized art direction are common enough nowadays for a hard shadow cutoff option to be beneficial in core.\n\nAdditionally, it's not known yet whether shader templates will be supported when using the Compatibility rendering method. In comparison, the proof of concept branch linked in this proposal already supports all rendering methods.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-04-03T17:08:13Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9445,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting to use hard cutoffs for shadow map rendering",
+  "up": 61,
+  "updatedAt": "2025-11-28T18:15:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9445"
+}

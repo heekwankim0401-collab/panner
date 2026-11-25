@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Addition to the built-in particle system, and might require core changes to the emitter.",
+    "format": "form",
+    "workaround": "Most of this proposal could probably be done by editing the build-in particle shader, but i am not sure if the draw order part would be doable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-11-16T17:15:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 8447,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use Z in 2D to fake depth in particle shaders",
+  "up": 3,
+  "updatedAt": "2024-01-16T12:32:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8447"
+}

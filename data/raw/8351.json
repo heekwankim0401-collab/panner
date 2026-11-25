@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think it's doable without changing the editor code itself.",
+    "format": "form",
+    "workaround": "I don't know of any way to work around this behavior."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-12T13:25:39Z",
+  "comments": 6,
+  "createdAt": "2023-11-05T11:08:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 8351,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an editor setting to disable switching to script editor after connecting a signal",
+  "up": 3,
+  "updatedAt": "2024-03-12T13:25:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8351"
+}

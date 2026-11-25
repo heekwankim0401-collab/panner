@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is possible for users to localize those strings themselves, but only if they know the target language. Achieving 100% completion is also pretty time-consuming.\n\nIn theory, you could download a community-made translation for all the run-time localized strings. However, to my knowledge, no such translation packs exist.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-07-19T21:38:40Z",
+  "down": 0,
+  "labels": [
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 7334,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide official translations for run-time localized strings (`RTR()` / `RTRN()`)",
+  "up": 8,
+  "updatedAt": "2026-03-30T14:40:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7334"
+}

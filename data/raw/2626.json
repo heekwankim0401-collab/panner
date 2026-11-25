@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is no such API now; other addons could use it",
+    "format": "markdown",
+    "workaround": "Nope; One needs looking into sources for this I guess"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-04-20T22:49:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2626,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an ability to get a list of all UI shortcuts",
+  "up": 2,
+  "updatedAt": "2021-04-20T23:03:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2626"
+}

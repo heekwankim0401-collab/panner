@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a feature that is of use for anyone with features that allows them to load and use multiple different styles of entities, weapons and equipment. They would be able to implement a pattern that would be able to able to get the correct animation from separate units each time intrinsically, and this sort of system works well for strategy games for common animations like casting spells or standard attacks, first person shooters where it could be implemented for reload, fire or equipping weapons, and brawlers can have different attack animations set up for universal buttons like light, medium or heavy attack buttons. This could be a robust and useful feature for most projects.",
+    "format": "form",
+    "workaround": "I imagine that this would be a very useful script that anyone using multiple rigs with multiple animations would find great use in. Anyone creating a game that requests standard animations without uniform animation names (i.e a JRPG game requesting an attack animation from party members) would find great use in this tool. I imagine the implementation would be very simple, as the architecture exists in multiple places already."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-20T16:04:33Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13430,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Dropdown menu variable for AnimationPlayers/AnimationRemap resource",
+  "up": 1,
+  "updatedAt": "2025-10-21T05:04:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13430"
+}

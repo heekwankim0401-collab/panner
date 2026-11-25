@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Refer to above.",
+    "format": "form",
+    "workaround": "We can create a `TrackFilterPreset` resource without working with AnimationTree, and create a new AnimationTree Editor to support this feature. But obviously, to create an AnimationTree Editor is a heavy work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-04T05:20:13Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6808,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add track filter preset for AnimationTree",
+  "up": 1,
+  "updatedAt": "2023-05-04T05:25:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6808"
+}

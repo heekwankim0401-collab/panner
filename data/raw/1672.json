@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, because Skeleton3D and ArrayMesh classes are core.",
+    "format": "legacy",
+    "workaround": "It will take more than a few lines of script: the workaround requires the entire skeleton and the entire mesh surfaces to be recreated.\n\nAdditionally, as one of our use-cases may involve runtime import of VRM, the workaround to recreate all mesh arrays may create a performance bottleneck."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-31T22:20:08Z",
+  "comments": 0,
+  "createdAt": "2020-10-15T16:11:10Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1672,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow renaming bones and blendshapes",
+  "up": 1,
+  "updatedAt": "2021-03-31T22:20:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1672"
+}

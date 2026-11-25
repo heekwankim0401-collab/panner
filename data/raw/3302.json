@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a core thing by default",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-21T12:40:04Z",
+  "comments": 4,
+  "createdAt": "2021-09-16T06:16:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3302,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use `noexcept` modifier where it's possible to improve engine performance",
+  "up": 6,
+  "updatedAt": "2023-03-21T16:40:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3302"
+}

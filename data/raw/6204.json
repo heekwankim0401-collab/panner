@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "AnimationPlayer is core.",
+    "format": "form",
+    "workaround": "This is used very often."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-08T11:17:42Z",
+  "comments": 1,
+  "createdAt": "2023-01-29T23:23:24Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 6204,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make AnimationPlayer editor zoom on the current cursor position instead of the beginning of the track",
+  "up": 16,
+  "updatedAt": "2024-01-08T11:17:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6204"
+}

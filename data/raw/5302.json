@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about streamlining sprite sheet imports.  Can't really do that in a library.",
+    "format": "form",
+    "workaround": "Nah this is user-facing UI, can't improve that with scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-08-31T23:45:49Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5302,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically guess the sprite size instead of defaulting to 4×4 in the SpriteFrames editor",
+  "up": 10,
+  "updatedAt": "2024-02-17T15:46:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5302"
+}

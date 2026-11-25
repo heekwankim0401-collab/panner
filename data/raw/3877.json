@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is an engine change to remove a naming conflict (and possibly improve the default user experience).",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-12T16:59:43Z",
+  "comments": 22,
+  "createdAt": "2022-01-27T13:41:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3877,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Rename `BaseButton`'s properties to remove name conflicts and confusion",
+  "up": 6,
+  "updatedAt": "2022-09-12T16:59:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3877"
+}

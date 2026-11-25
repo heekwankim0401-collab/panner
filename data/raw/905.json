@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be an editor and editor workflow change.",
+    "format": "legacy",
+    "workaround": "I don't believe so. Perhaps my knowledge of Godot is too limited."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-05-26T16:17:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 905,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow alt-clicking to propagate a instanced property revert to its source scene",
+  "up": 1,
+  "updatedAt": "2021-06-22T19:10:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/905"
+}

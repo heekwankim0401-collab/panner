@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core godot component.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-05T09:06:06Z",
+  "comments": 4,
+  "createdAt": "2022-12-18T15:15:26Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 5956,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make C# script names default to PascalCase in the \"attach new script\" popup",
+  "up": 24,
+  "updatedAt": "2024-03-05T09:06:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5956"
+}

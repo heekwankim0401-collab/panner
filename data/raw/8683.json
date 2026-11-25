@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The feature is already half-way coded into the editor (dragging directly into the 2D editor scene view)",
+    "format": "form",
+    "workaround": "I do not believe so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-12-17T21:53:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8683,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make dragging image from FileSystem to SceneTree create a sprite",
+  "up": 5,
+  "updatedAt": "2023-12-18T05:59:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8683"
+}

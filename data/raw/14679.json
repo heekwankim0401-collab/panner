@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-04-15T12:32:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14679,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend tree drop indicator to also work when dragging objects into viewport",
+  "up": 1,
+  "updatedAt": "2026-04-15T15:06:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14679"
+}

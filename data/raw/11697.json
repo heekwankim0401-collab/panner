@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature is about improving the core capabilities of the Godot engine's lighting system and I think would improve stylistic rendering capability in godot.",
+    "format": "form",
+    "workaround": "This can be partially worked around with custom shaders and scripts, but it is not convenient and lacks the flexibility and ease of use that a built-in solution would provide. Implementing this feature directly in the engine will make it more accessible and user-friendly."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-04T13:00:12Z",
+  "comments": 2,
+  "createdAt": "2025-02-04T10:58:44Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11697,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add light linking for 3D and 2D lights",
+  "up": 0,
+  "updatedAt": "2025-02-04T13:00:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11697"
+}

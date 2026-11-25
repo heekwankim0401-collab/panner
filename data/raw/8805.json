@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "GDScript",
+    "format": "form",
+    "workaround": "Yes, but it's just convenient for statically typed code"
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-12T04:50:28Z",
+  "comments": 1,
+  "createdAt": "2024-01-05T12:56:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8805,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Show error when attempting to compare the type of statically typed variable",
+  "up": 0,
+  "updatedAt": "2024-07-12T04:56:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8805"
+}

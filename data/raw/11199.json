@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving UI accessibility when using a gamepad, particularly in complex menus with dozens of options or more.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-11-20T22:18:37Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11199,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make gamepads send echo events for UI navigation purposes",
+  "up": 19,
+  "updatedAt": "2026-03-27T04:31:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11199"
+}

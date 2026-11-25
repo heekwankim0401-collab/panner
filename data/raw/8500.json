@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this can be an add-on.",
+    "format": "form",
+    "workaround": "Can sort of be worked around, but as it stands it is inconsistent with other programs on macOS."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-18T17:25:07Z",
+  "comments": 0,
+  "createdAt": "2023-11-22T22:17:37Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 8500,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement macOS menubar Window section",
+  "up": 4,
+  "updatedAt": "2023-12-18T17:29:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8500"
+}

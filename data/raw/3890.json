@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Rendering is Core.",
+    "format": "form",
+    "workaround": "No, they update automatically."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-03T15:50:42Z",
+  "comments": 8,
+  "createdAt": "2022-01-29T12:23:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3890,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Omni/Spot Light Shadow Update Checks",
+  "up": 1,
+  "updatedAt": "2022-02-03T16:56:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3890"
+}

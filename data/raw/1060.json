@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it's tightly related to import system.\n\nbtw, this was formerly discussed here: https://github.com/godotengine/godot/issues/24177",
+    "format": "legacy",
+    "workaround": "Nope, there's no way to avoid it with scripts."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-23T15:38:00Z",
+  "comments": 24,
+  "createdAt": "2020-06-14T20:29:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1060,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't store the .import file when using the default settings",
+  "up": 13,
+  "updatedAt": "2023-02-12T18:29:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1060"
+}

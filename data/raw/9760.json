@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is only possible in core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-17T01:32:10Z",
+  "comments": 1,
+  "createdAt": "2024-05-17T01:30:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9760,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement deferred rendering in mobile backend",
+  "up": 0,
+  "updatedAt": "2024-05-17T01:48:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9760"
+}

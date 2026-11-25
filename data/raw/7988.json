@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it's a core functionality of menu items to be able to have keyboard shortcuts.",
+    "format": "form",
+    "workaround": "Not elegantly. You can detect keyboard shortcuts in different ways, but it will require a little work to highlight the menu and make sure it only works when the corresponding menu item is enabled etc."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-05T14:26:43Z",
+  "comments": 8,
+  "createdAt": "2023-10-05T09:59:39Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7988,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add shortcut keyboard triggers to PopupMenu items",
+  "up": 0,
+  "updatedAt": "2023-10-05T14:27:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7988"
+}

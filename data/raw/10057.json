@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot easily be done via an add-on, as it has all the same cons as creating a custom tab bar implementation using control nodes. On the contrary, it is a comparatively simple change to the engine code that adds a large amount of flexibility to a built-in component, and would be used very frequently. See [here](https://forum.godotengine.org/t/how-to-make-horizontal-separation-between-tabs-on-tabcontainer/16386), [here](https://www.reddit.com/r/godot/comments/1cueplb/how_to_add_separationspacing_to_tab_container/), [here](https://www.reddit.com/r/godot/comments/17x2ljq/adjusting_tabcontainer_tab_spacingmargin/), and [here](https://www.reddit.com/r/godot/comments/1echx47/i_cant_find_a_field_in_tabcontainer_that_allows/).",
+    "format": "form",
+    "workaround": "This can be worked around in the two following ways:"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-24T15:05:26Z",
+  "comments": 2,
+  "createdAt": "2024-06-27T16:54:18Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 10057,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add tab spacing modifier for tabs in TabBar and TabContainer",
+  "up": 43,
+  "updatedAt": "2025-03-24T15:10:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10057"
+}

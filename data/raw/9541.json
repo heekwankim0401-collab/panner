@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A I think this could not be implemented in a plugin.",
+    "format": "form",
+    "workaround": "AFAIK we can't override this behavior of shadow test without modifying the original shader template file."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-04-17T18:50:11Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9541,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose unused SHADOW_MODULATE's alpha as shadow opacity for 2d lighting shadows",
+  "up": 9,
+  "updatedAt": "2026-03-26T17:13:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9541"
+}

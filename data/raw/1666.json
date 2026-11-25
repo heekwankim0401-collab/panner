@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I can't currently fully replicate this behavior as an add-on due to the font overdraw, as described above.\nOtherwise it may be viable, though it seems like an awfully minor feature to bury in the asset library. 🤔\nIt seems more suitably described as a base engine behavior rather than a key feature specific to any particular game or genre.",
+    "format": "legacy",
+    "workaround": "Almost. The primary blocker preventing a fully scripted solution from being viable is actually the font overdraw setting, which cannot be accessed outside of the SceneTree's root viewport stretch project settings, and is crucial for making dynamic fonts look good on a low resolution screen that's been scaled up.\n\nEven avoiding that issue by using a pixel font, this behavior requires an obscure script and is not easily accessible to many users, as it's not a native setting of Viewports nor ViewportContainers that would display them.\n\nThere may be enough potential users to warrant a built-in simple setting, the same users of the Pixel Snap setting which currently work around this issue differently, by limiting the window size to specific game-enforced resolutions, or disabling the stretch feature entirely and writing it off as unusable."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-11T08:34:20Z",
+  "comments": 36,
+  "createdAt": "2020-10-14T19:47:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": "4.2",
+  "number": 1666,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a project setting to force an integer scale for window stretch",
+  "up": 49,
+  "updatedAt": "2023-08-11T08:34:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1666"
+}

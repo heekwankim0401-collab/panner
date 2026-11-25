@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It gives an easy interface to critical functionality to some of the core AnimationNodes, making the process of animating easier for all Godot devs.",
+    "format": "form",
+    "workaround": "If you don't need the signal, you don't need to connect to it."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-26T20:55:58Z",
+  "comments": 14,
+  "createdAt": "2025-10-14T23:54:00Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.8",
+  "number": 13386,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make AnimationNodeAnimation and AnimationNodeOneShot emit AnimationFinished / OneShotFinished signals",
+  "up": 3,
+  "updatedAt": "2026-08-26T20:56:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13386"
+}

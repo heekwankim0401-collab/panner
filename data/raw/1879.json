@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It makes work flow better and more stable (basicly your not breaking things)",
+    "format": "legacy",
+    "workaround": "It would be used in node inheritance and type safety"
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-16T00:05:10Z",
+  "comments": 1,
+  "createdAt": "2020-11-23T21:28:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1879,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disallow new script with class_name or add_custom_type()",
+  "up": 0,
+  "updatedAt": "2021-04-16T00:06:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1879"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this should be a core feature of GDScript. In any other language that I know you can use integer division with no warnings, either with a separate operator like proposed here or via strict typing like in C++.",
+    "format": "form",
+    "workaround": "There's two current workarounds that I know of:\n\n- Using ``@warning_ignore(\"integer_division\")``: will ignore the warning, but you have to add it each time you are using integer division, which clutters the code a lot, **and it's error-prone since it will ignore all divisions in the next line**, which means that you won't get warned if you are using integer division accidentally in the same line (same but worse applies to ``@warning_ignore_start``). It also requires more maintenance since you'll need to remember to remove that line if you remove the division that caused you to add the ignore. You can also remove the warnins altogether, but that's even more error-prone.\n- Using ``int(float(x) / y)``: will effectively bypass the warning since you are converting the int to float and then back to int, but it doesn't make sense to do two type conversions just for a basic operation like this, and it also clutters the code unnecessarily."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 23,
+  "createdAt": "2025-03-15T08:48:30Z",
+  "down": 2,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11998,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an integer division operator to GDScript",
+  "up": 23,
+  "updatedAt": "2026-10-13T04:25:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11998"
+}

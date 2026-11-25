@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If this will be implemented as part of Godot, this will mean that this feature will be documented, available for everyone (and not only to people who knows about addon), can be quickly fixed and upstreamed in case of typo or mistakes.",
+    "format": "form",
+    "workaround": "This can be *easily* workaround with script or with help from translators of your game (if there any)."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-07T18:33:19Z",
+  "comments": 2,
+  "createdAt": "2023-12-07T18:27:31Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8608,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "TranslationServer.get_language_name() should be able to return localized language name",
+  "up": 0,
+  "updatedAt": "2023-12-07T18:34:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8608"
+}

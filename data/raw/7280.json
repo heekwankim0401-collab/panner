@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Same as above, I think, writing custom logic for synchronized varibles seems like a pretty good idea, which should be included in the engine itself.",
+    "format": "form",
+    "workaround": "I don't think it's easilly possible to modify signals of already existing classes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 27,
+  "createdAt": "2023-07-14T12:23:49Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 7280,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add property prediction and interpolation, and a way to capture MultiplayerSynchronization events",
+  "up": 79,
+  "updatedAt": "2025-11-28T16:09:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7280"
+}

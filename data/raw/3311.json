@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not sure, think it'd be a some-what simple feature, that might fit under trimesh collisionshape, right now it's just time consuming, to place all this stuff, by hand, thanks . . . .",
+    "format": "form",
+    "workaround": "Not sure, best I can think of is like 10.000 - 20.000 raycasts, in the _ready function . . . And, the levels would look weird, in preview . . . ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-09-17T07:28:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3311,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a raycast based collision-shape painter, for painting plants, rocks, debris . . .",
+  "up": 0,
+  "updatedAt": "2021-09-18T14:24:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3311"
+}

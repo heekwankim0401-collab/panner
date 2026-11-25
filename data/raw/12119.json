@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, as I said there's no good way to address it in a game and it would better to give developers more control and freedom to manually fix the issue themselves the way games have dealt with the problem for a long time, forcibly compile at a load screen. I know this is an ongoing discussion, and 4.4 is great with many improvements that have addressed it for Forward+ rendering, but I am trying to present this as a more unique take on addressing the issue deterministically in the compatibility renderers and such.",
+    "format": "form",
+    "workaround": "I don't consider any workaround currently to be viable because the view frustum is not deterministic and hard to get right, many users fail at it and rendering server just doesn't expose a way yet.\n\nA workaround that I am using if you are using the compatibility renderer is to just stick to only a single material type, like the built in one, and not use any shaders. Either that or use a very small limited number of shaders that apply to all/many objects so the number of shader compile invocations is limited. This is basically following your own form of ubershaders to an extent, and that's basically what I'm doing currently."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-03-31T14:31:07Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12119,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add shader precompilation to the Compatibility rendering method",
+  "up": 12,
+  "updatedAt": "2025-05-20T20:23:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12119"
+}

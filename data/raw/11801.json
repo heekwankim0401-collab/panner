@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Digging through the asset library, vertex coloring code is still pretty heavy it looks like. Nothing I've found that is light and fast, and can't find much documentation for it online for anybody attempting it. With Vertex shading adding, it just feels like that next natural step.",
+    "format": "form",
+    "workaround": "I think i'd be used a lot in the old-school, low poly, vertex color styled games. I also think it'd lead to some better tools for vertex painting in editor, which would likely lead to better terrain editor/splat map making tools and shaders, sparing some work going back and forth between Blender and Godot so heavily just to shift some vert colors."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-03T01:42:30Z",
+  "comments": 2,
+  "createdAt": "2025-02-18T16:30:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11801,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Vertex painting detection and modification improvements",
+  "up": 3,
+  "updatedAt": "2025-08-03T09:55:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11801"
+}

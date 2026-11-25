@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "People shouldn't have to look for a feature that can be so essential for making your UI look nice.",
+    "format": "form",
+    "workaround": "Possibly, if someone were to not use keep and viewport in the window stretch options and instead scale stuff according to the window's size using a camera or something, but I feel like it should be a default option."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-25T13:03:32Z",
+  "comments": 2,
+  "createdAt": "2022-05-24T20:11:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4586,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Adding options to godot's downscaling/downsampling",
+  "up": 0,
+  "updatedAt": "2022-05-25T13:03:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4586"
+}

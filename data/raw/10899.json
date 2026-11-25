@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would save so much time for both the developer and the player. The player can easily report bugs by copy and pasting the code instead of having to navigate to AppData > Roaming to get the error, or having to figure out why the game froze in the first place.",
+    "format": "form",
+    "workaround": "This enhancement will be extremely beneficial that I see no reason why it wouldn't be used by every developer. I couldn't really find a way to replicate an error message myself. The only other thing I can think of is the \"Export on Debug\" option when exporting the game, but I would still prefer a proper crash pop-up, especially considering most developers tick of that option and it is mainly used for debugging purposes by developers, not for final builds."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-04T13:31:30Z",
+  "comments": 1,
+  "createdAt": "2024-10-04T13:30:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10899,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add crash pop-up on exported projects when the engine detects an error.",
+  "up": 0,
+  "updatedAt": "2024-10-04T13:31:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10899"
+}

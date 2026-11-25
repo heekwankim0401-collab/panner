@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "As far as I understand, importing meshes is a core functionality, and since scene import with other formats is already possible in core, it should be possible to add mesh import with those formats.",
+    "format": "legacy",
+    "workaround": "Not in a way that I know of, at least."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-13T21:06:16Z",
+  "comments": 4,
+  "createdAt": "2020-05-05T17:23:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 797,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for importing non-scene meshes with formats other than Wavefront OBJ",
+  "up": 2,
+  "updatedAt": "2021-08-13T21:06:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/797"
+}

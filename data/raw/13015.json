@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be core because it more closely follows other, similar Nodes like a `RayCast3D`'s `enabled` property or a `CollisionShape3D`'s `disabled` property. Solving it through scripting means it is more brittle; in the unlikely case that more properties are added or renamed, the scripted solution could introduce subtle bugs.\n\nIt appears to me that the \"*enabled\" naming is a more used nomenclature in Godot than \"disabled\" and `CollisionShape3D`'s is an outlier but I haven't looked into it very closely. Either `enabled` or `disabled` would be fine.",
+    "format": "form",
+    "workaround": "It could be done in script by saving and restoring the state of all of `RemoteTransform3D`'s properties in an `enabled` setter in a subclass of `RemoteTransform3D`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-17T18:55:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 13015,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `enabled` to `RemoteTransform3D` to control whether it affects the 'Remote Path'",
+  "up": 0,
+  "updatedAt": "2025-08-18T10:18:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13015"
+}

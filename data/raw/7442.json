@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core function for all scene nodes.",
+    "format": "form",
+    "workaround": "The lazy and obviously error-prone way is:\n```gdscript\nget_parent().get_parent().get_parent().get_parent().get_parent().get_parent().get_parent()\n```\n\nThe correct way, is to make a Utils singleton/global, so as to basically call this function...\n```gdscript\nfunc get_recursive_parent_from_child(child: Node, parent_name: String) -> Node:\n\tvar current_parent: Node = child.get_parent()\n\twhile (current_parent.name != parent_name):\n\t\tcurrent_parent = current_parent.get_parent()\n\t\t\n\treturn current_parent\n```\n\nThe function name `get_recursive_parent_from_child` is intuitive for the singleton/global, since it takes the child parameter, but obviously `get_ancestor` is better if the function is placed on the node itself\n\nAh and ofc, the above function needs some error checks (e.g. what if there are no parents with that name?)\nI would suggest an optional int parameter, so it stops after that many iterations (so if it doesn't find one, it won't keep surfacing forever)"
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-04T16:23:11Z",
+  "comments": 4,
+  "createdAt": "2023-08-03T20:29:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7442,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add get_ancestor function for any node (recursive get_parent)",
+  "up": 0,
+  "updatedAt": "2023-08-04T17:32:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7442"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a basic ux experience issue.",
+    "format": "form",
+    "workaround": "It's a built-in UX experience. I doubt a plugin in a hacky way can be the best solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-10-01T17:22:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10872,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make main screen editor tabs a popup when there is not enough place",
+  "up": 1,
+  "updatedAt": "2025-05-28T23:03:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10872"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's easy to implement and has no real performance impact.",
+    "format": "markdown",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-14T02:04:43Z",
+  "comments": 2,
+  "createdAt": "2020-12-28T01:37:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2036,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow implementing and loading custom PCK file formats",
+  "up": 1,
+  "updatedAt": "2021-08-14T02:04:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2036"
+}

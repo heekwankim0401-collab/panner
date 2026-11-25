@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Extend GDScript",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-05T16:06:53Z",
+  "comments": 6,
+  "createdAt": "2020-12-05T14:43:27Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1940,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add C-like block syntax support to GDScript",
+  "up": 1,
+  "updatedAt": "2020-12-05T16:06:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1940"
+}

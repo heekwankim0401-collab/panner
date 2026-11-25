@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-03-20T04:59:52Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 14504,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable runtime-only usage of Image.LoadJpgFromBuffer with jpgs with CMYK/YCCK colorspaces",
+  "up": 0,
+  "updatedAt": "2026-03-20T16:41:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14504"
+}

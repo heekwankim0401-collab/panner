@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Godot's existing TileSet functionality is incredibly powerful, while still easy to understand. The open-endness of Custom Data, for example, offers practically any functionality that a developer would want; I myself was able to use a single Custom Data field to clearly and quickly indicate whether a tile should affect a player's step sound, should do damage, or adjust gameplay. I really enjoy it!\n\nThe core Animation functionality has the potential to be powerful as well. Updates made for 4.0 have streamlined the overall approach to tile animation, but in my opinion it's still surprisingly restrictive, prescriptive, and prone to cause unexpected mid-development refactoring. By implementing this proposal, a single texture could be used to contain tiles for level design, hazards, props, and more, from the initial prototype stage all the way through release.",
+    "format": "form",
+    "workaround": "I don't believe so, but I'm certainly open to learning that I'm wrong! As far as I can tell, `get_tile_animation_columns` and `get_tile_animation_columns` are the only methods available in `TileSetAtlasSource`, which return or define the number of horizontal frames of an animation based on a starting atlas coordinate."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2023-07-15T19:15:52Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7290,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "`TileSet` animation - allow arbitrary tile selection for frames",
+  "up": 12,
+  "updatedAt": "2025-10-05T20:48:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7290"
+}

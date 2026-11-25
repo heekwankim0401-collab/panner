@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I don't think this is possible, especially in a performant way.\n\n___\n\n*PS: The screenshots come from [Cube 2: Sauerbraten](http://sauerbraten.org/). I'm not currently working on an implementation of these modes in Godot.*",
+    "format": "legacy",
+    "workaround": "It would require a few hundreds of lines of script, if it's even possible (see below)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-06-03T09:18:59Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 1000,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an outline mode to the editor 3D viewport rendering modes to complement the wireframe mode",
+  "up": 20,
+  "updatedAt": "2024-06-07T23:33:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1000"
+}

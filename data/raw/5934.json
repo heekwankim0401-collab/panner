@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This improves the AnimatedSprite experience.",
+    "format": "form",
+    "workaround": "From a scripting perspective, yes, but the inconvenience caused by creating 2 separate animations for the same action cannot be easily worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-12-14T01:26:53Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 5934,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Loop Regions to SpriteFrames/AnimatedSprites",
+  "up": 8,
+  "updatedAt": "2026-04-15T08:49:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5934"
+}

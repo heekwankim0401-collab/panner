@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a missing function on the OS class to manage spawned processes",
+    "format": "legacy",
+    "workaround": "i found no way to check if an process is running by given PID"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-04T07:02:33Z",
+  "comments": 5,
+  "createdAt": "2020-10-17T14:04:15Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": "3.x",
+  "number": 1679,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve `OS.kill()`'s error handling and add a method `is_process_running ` to check for running processes ",
+  "up": 0,
+  "updatedAt": "2022-05-04T15:27:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1679"
+}

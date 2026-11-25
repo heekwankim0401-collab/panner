@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Randomization is already a core part of the engine, including `AudioStreamRandomizer` and many more classes.\nIt makes sense to have finer control of these randomizations in core.",
+    "format": "form",
+    "workaround": "It can be partially worked around with, for example, having an autoload available with a `RandomNumberGenerator` that is only used for gameplay logic and regularly synchronized between players.\n\nHowever, this does not address the situation of wanting to get a random voice line from an `AudioStreamRandomizer`, but having the same voice line play on all clients for consistency's or gameplay purpose's sake."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-11T17:46:07Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10179,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more direct control over how engine classes such as AudioStreamRandomizer perform randomization",
+  "up": 4,
+  "updatedAt": "2024-07-11T18:21:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10179"
+}

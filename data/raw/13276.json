@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It should be core because it is already existing for string properties and missing for arrays",
+    "format": "form",
+    "workaround": "Unfortunately this might be able to work around in a few lines of script"
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-29T06:25:40Z",
+  "comments": 3,
+  "createdAt": "2025-09-26T13:45:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13276,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add PropertyHint support for Arrays in C#",
+  "up": 3,
+  "updatedAt": "2026-08-29T16:09:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13276"
+}

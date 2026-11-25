@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "- This is an accessibility feature and should be core. \n- It is lightweight. \n- Its existence doesn't hurt anything around.",
+    "format": "form",
+    "workaround": "Maybe with `tool`?"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-07T17:53:25Z",
+  "comments": 4,
+  "createdAt": "2022-07-07T08:18:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:windows",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4830,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Press `alt` to send keyboard focus to the menu bar ",
+  "up": 2,
+  "updatedAt": "2022-07-07T19:04:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4830"
+}

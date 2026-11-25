@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-04-27T08:31:18Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 14744,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make End State in a AnimationNodeStateMachine copy incoming pose",
+  "up": 0,
+  "updatedAt": "2026-04-28T20:56:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14744"
+}

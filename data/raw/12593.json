@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can make the functionality of the `_get` function more complete instead of having an obvious drawback.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-06-12T13:53:44Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12593,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `_get` allow custom properties being `null`",
+  "up": 0,
+  "updatedAt": "2025-07-01T18:57:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12593"
+}

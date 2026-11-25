@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It isn't possible.",
+    "format": "legacy",
+    "workaround": "A few lines of code probably won't do it, but Godot 3.2 is desired from Raspberry Pi users."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-13T14:53:55Z",
+  "comments": 109,
+  "createdAt": "2020-06-01T18:32:41Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:export",
+    "topic:platforms"
+  ],
+  "milestone": "4.2",
+  "number": 988,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add official Linux ARM/Raspberry Pi editor and export template binaries",
+  "up": 296,
+  "updatedAt": "2024-08-15T23:07:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/988"
+}

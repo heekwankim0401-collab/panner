@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As above, it requires very significant effort to write a ShaderMaterial and to keep that material in line with existing BasicMaterial seems to be very difficult / impossible, and the hypothetical add-on written would not be compatible with any minor changes in the engine going forward. The change as presented (in-core) is much more portable and should survive major refactors.",
+    "format": "form",
+    "workaround": "This can be implemented in godot via gdscript / shader. That would require the complete implementation of BasicMaterial in glsl and is not easy to carry on through version changes etc."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2024-03-04T18:00:11Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 9235,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement Dual Quaternion Skinning AKA \"Preserve Volume\" option compatibility with Blender",
+  "up": 22,
+  "updatedAt": "2025-11-17T11:16:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9235"
+}

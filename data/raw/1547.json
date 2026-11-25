@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because it modifies a core feature's inspector layout to be more usable than it is in it's current form",
+    "format": "legacy",
+    "workaround": "this would make editing values for joints unbelievably more time efficient"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-27T09:42:59Z",
+  "comments": 0,
+  "createdAt": "2020-09-22T07:09:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 1547,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve property organization for Generic6DOFJoint",
+  "up": 1,
+  "updatedAt": "2022-07-27T09:42:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1547"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While this \"interface description\" could be maintained by a 3rd party, this is a generally useful feature for language bindings using GDExtension and seems like a natural part of documenting the GDExtension interface. Additionally, GDExtension already auto-generates a number of its files, so auto-generating `gdextension_interface.h` would not be out of place.",
+    "format": "form",
+    "workaround": "No. Currently, GDExtension-based language bindings need to maintain their wrappers by hand or through tooling that can read C headers."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-24T16:34:09Z",
+  "comments": 3,
+  "createdAt": "2024-04-19T17:45:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": "4.6",
+  "number": 9560,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Generate gdextension_interface.h from a machine-readable format",
+  "up": 2,
+  "updatedAt": "2025-11-24T16:34:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9560"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't know of any way to extend `BaseMaterial3D` (or its child classes) to add this feature. This is because the methods for updating the native shader code are not exposed to scripting.",
+    "format": "form",
+    "workaround": "It can only be worked around by writing a custom shader material. Not only is this not very accessible, but using a custom shader material is also problematic for those who are importing materials from other programs. For example, I know that Blender imports use `StandardMaterial3D` by default. As far as I know, it would require writing a post-import script to change that."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-11-21T23:02:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 11210,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create and expose a `layers` property on `BaseMaterial3D`",
+  "up": 2,
+  "updatedAt": "2024-11-22T23:34:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11210"
+}

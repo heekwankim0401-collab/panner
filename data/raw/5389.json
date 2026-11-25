@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It does not seem to be possible to load resources into Godot in any other way than using the current ProjectSettings.load_resource_pack() implementation.",
+    "format": "form",
+    "workaround": "We have not been able to find a workaround for this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-09-09T17:10:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5389,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `ProjectSettings.load_resource_pack()` able to load a PCK from a stream of data instead of a file path",
+  "up": 21,
+  "updatedAt": "2025-09-23T14:29:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5389"
+}

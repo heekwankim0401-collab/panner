@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improving the editor usability out of the box.",
+    "format": "form",
+    "workaround": "It can't."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-03-02T13:06:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6397,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support selection on \"points\" and allow using transformation gizmos",
+  "up": 16,
+  "updatedAt": "2025-06-20T04:03:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6397"
+}

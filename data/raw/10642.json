@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is useful across every project",
+    "format": "form",
+    "workaround": "I think it will be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-09-03T03:15:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10642,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make  CTRL + clicking a property value in the Inspector dock focus it in the FileSystem dock (if the property is an external resource)",
+  "up": 10,
+  "updatedAt": "2025-10-01T00:02:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10642"
+}

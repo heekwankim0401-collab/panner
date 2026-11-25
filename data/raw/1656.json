@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is part of the editor.",
+    "format": "legacy",
+    "workaround": "not sure if this can be an addon."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-10T10:58:04Z",
+  "comments": 0,
+  "createdAt": "2020-10-13T14:19:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1656,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make drag-and-droping a branch from a scene to the FileSystem tab trigger the \"save branch as scene\" dialog.",
+  "up": 6,
+  "updatedAt": "2021-09-10T11:26:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1656"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Improvement to the tile system",
+    "format": "form",
+    "workaround": "There is a cumbersome way where you set up 4 versions of the scene tile as basic tiles with different rotations, and setup a system that reads them and replaces them with a rotated scene tile, but that quintuples the amount of work required for the setup and any change"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-14T20:28:35Z",
+  "comments": 0,
+  "createdAt": "2025-06-08T17:31:45Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": "4.6",
+  "number": 12570,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for rotating scene tiles in TileMapLayer",
+  "up": 6,
+  "updatedAt": "2025-11-14T20:30:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12570"
+}

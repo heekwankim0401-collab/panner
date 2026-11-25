@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "These types are primitive types in Godot so it would be benefitial for core as well for some optimizations.",
+    "format": "form",
+    "workaround": "Nope as alignment is not guaranteed the only viable option is copying over each field 1 by 1."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-20T20:52:03Z",
+  "comments": 3,
+  "createdAt": "2023-06-20T13:29:56Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 7123,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Consider using StructLayout.Explicit for more low level optimizations",
+  "up": 0,
+  "updatedAt": "2023-06-20T20:52:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7123"
+}

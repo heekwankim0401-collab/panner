@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its a feature to be exprected in a visual shader editor.\nLike Unity's shadergraph or Shader Forge.",
+    "format": "form",
+    "workaround": "There are workarounds to use a GlobalExpression node to store Vector2/Vector4 variables and use them in Expression Nodes.\nBut this solution would defy the reason to use VisualShader in the first place."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-20T05:33:42Z",
+  "comments": 7,
+  "createdAt": "2022-01-05T17:57:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 3761,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "VisualShader add Vector2 & Vector4 input/output node connections",
+  "up": 3,
+  "updatedAt": "2022-04-27T08:09:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3761"
+}

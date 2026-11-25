@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If you have to search for an add-on for this use case, it's already too late.",
+    "format": "form",
+    "workaround": "It will avoid a lot of frustration after a long recording that is nowhere to be found after the fact (yes it did happen to me and my frustration level is high)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-20T13:17:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10505,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Prevent user from running project in movie maker mode if the file path is invalid",
+  "up": 1,
+  "updatedAt": "2024-08-20T16:59:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10505"
+}

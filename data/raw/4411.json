@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This will easily improve all animators workflow out of the box. The lack of this feature really slows down animators' workflow, and doing box selection over and over again really annoys the animator.",
+    "format": "form",
+    "workaround": "I believe this feature will be used often. I'm not very familiar with tweaking Godot's editor directly, so I'm not sure if it can be worked around with a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-17T16:01:13Z",
+  "comments": 1,
+  "createdAt": "2022-04-17T06:05:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4411,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Selecting all keyframes which have the same time value",
+  "up": 7,
+  "updatedAt": "2022-04-17T16:01:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4411"
+}

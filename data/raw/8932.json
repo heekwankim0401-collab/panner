@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Popup menu already as icons and hovered styles this would just improve them",
+    "format": "form",
+    "workaround": "It might be able to be worked around by manually replacing the icon when the menu item is hovered but then what's the point in themes?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-01-21T23:49:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8932,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Hovered versions of popup icons",
+  "up": 3,
+  "updatedAt": "2024-01-24T20:01:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8932"
+}

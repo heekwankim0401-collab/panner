@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It involves extensive changes to multiple scripting languages and editor classes that already exist in the main repository. An addon cannot provide the necessary alterations.",
+    "format": "legacy",
+    "workaround": "Uhh....no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2019-09-05T03:15:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 22,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Complete, consolidate, and optimize user-defined types (Script classes/Custom types)",
+  "up": 69,
+  "updatedAt": "2021-03-09T05:48:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/22"
+}

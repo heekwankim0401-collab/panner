@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's not possibly to make a addon without re-writing lots of core stuff",
+    "format": "form",
+    "workaround": "It's fundamental to the editor"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-05T18:29:19Z",
+  "comments": 2,
+  "createdAt": "2022-01-05T18:08:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3762,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Print in gdscript should show script/line number",
+  "up": 3,
+  "updatedAt": "2022-01-05T18:29:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3762"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I've repeatedly found myself wanting this feature during long editing sessions. I'm unsure if it would be possible to implement without direct engine modification, my instinct is no, but I would love to be corrected. For me it's a definite quality of life feature for the editor itself. I do a lot of things in a code-first way with Godot, meaning the values are dynamic or not easily adjustable, but adjusting certain things like materials and spatials in the Editor like this is still often very useful.",
+    "format": "form",
+    "workaround": "I haven't been successful in creating an editor plugin that could do this, I suppose it might be possible by some wizardry that I don't yet understand, but to me it seems to require alterations to the editor's C++ code to be able to add the interactivity (though I suppose there may be other fixes and workarounds I haven't considered)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-07-15T23:10:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2999,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `default_float_step` modifiers to keyboard shortcuts",
+  "up": 0,
+  "updatedAt": "2021-07-16T00:45:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2999"
+}

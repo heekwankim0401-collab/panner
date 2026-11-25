@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The terrain system itself is a vital feature. For example, here is a user requesting that they want to make a layout in a similar (but simpler) way to the incredibly popular game Celeste: https://github.com/godotengine/godot-proposals/issues/4689#issuecomment-1168638364 Godot should be able to do such a common and popular design out of the box.",
+    "format": "form",
+    "workaround": "The terrain system will be used in a significant amount of 2D games, both in terms of editing and designing levels, and in playing them too. It will be used very often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 39,
+  "createdAt": "2022-10-11T22:42:22Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5575,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rework the TileMap terrain system to improve its usability",
+  "up": 190,
+  "updatedAt": "2026-07-20T16:07:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5575"
+}

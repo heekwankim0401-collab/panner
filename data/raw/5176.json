@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's one missing half of a pair of methods (**_get_** and set) of partial editing Textures, necessary to edit large textures.",
+    "format": "form",
+    "workaround": "I have tried everything I could possibly think of for weeks and ask others in the community channels. I don't think there is a way to work around this with GDScript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-08-15T13:33:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5176,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add method to get partial Texture or Image",
+  "up": 3,
+  "updatedAt": "2022-08-16T01:19:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5176"
+}

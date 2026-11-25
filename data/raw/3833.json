@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this in an important to run commands from the server and not only from clients.\n(e.g. If you accedently removed your admin status you can change it back with the console)",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-19T23:11:54Z",
+  "comments": 1,
+  "createdAt": "2022-01-19T23:10:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3833,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enter commands to a dedicated server",
+  "up": 0,
+  "updatedAt": "2022-01-19T23:11:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3833"
+}

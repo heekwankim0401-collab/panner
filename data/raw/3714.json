@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is editor core.",
+    "format": "form",
+    "workaround": "No - if merged, this should be used by many core editor features."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-12-24T11:30:04Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3714,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change the fundamental Undo/Redo system for automatic reliability",
+  "up": 14,
+  "updatedAt": "2022-02-10T17:29:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3714"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an enhancement to SceneTreeTimer which is a part of core. It would also be an incredibly minor change for an add-on.",
+    "format": "form",
+    "workaround": "I think the only way to work around this is to track all the delegates added (or at least potentially added) to a timer separately and then remove them. This could be done in a separate list, but that adds unnecessary complexity.\n\nI tried working around this by directly freeing the timer, but that wasn't enough to stop the callback events from firing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-12-26T13:56:54Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5996,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to clear Timeout handlers from SceneTreeTimer ",
+  "up": 0,
+  "updatedAt": "2022-12-26T15:58:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5996"
+}

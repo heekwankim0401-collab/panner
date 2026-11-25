@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. While it's tiny, it's just a bit of polish that makes the engine feel more like a professional product. Right now, it's not obvious how to get rid of the splash screen, the only solution is to google it and find the ugly solution, which feels more like a temporary workaround than an actual solution, even if it doesn't what you want.",
+    "format": "markdown",
+    "workaround": "Yes"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-18T19:00:16Z",
+  "comments": 2,
+  "createdAt": "2021-03-18T18:49:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2478,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an on/off toggle for the boot splash-screen",
+  "up": 0,
+  "updatedAt": "2021-03-18T19:26:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2478"
+}

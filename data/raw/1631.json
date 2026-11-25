@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not sure if it can be implemented as an add-on.",
+    "format": "legacy",
+    "workaround": "The only work around I have found is to implement methods in base classes to programmatically check that required methods are implemented by descendant classes. This is a crude and rather ugly solution prone to errors and difficult to maintain."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-10-08T14:04:19Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1631,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add GDScript support for defining virtual/prototype/must-override methods in base classes",
+  "up": 53,
+  "updatedAt": "2026-08-31T10:14:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1631"
+}

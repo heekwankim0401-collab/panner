@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Interfaces cannot be added post-hoc.",
+    "format": "form",
+    "workaround": "This feature should not get in the way otherwise."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-25T09:34:46Z",
+  "comments": 6,
+  "createdAt": "2022-01-22T00:44:13Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.0",
+  "number": 3844,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "C#: Implement `IReadOnly*<>` interfaces on Godot's `Array<>` and `Dictionary<,>` classes",
+  "up": 4,
+  "updatedAt": "2025-01-29T21:38:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3844"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would change a core component, so no, it could not be done in an add-on",
+    "format": "legacy",
+    "workaround": "It will be used every time a transition needs to activate when a condition is FALSE and right now it cannot be implemented in code because it is an editor functionality"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-19T06:10:52Z",
+  "comments": 3,
+  "createdAt": "2020-02-08T05:00:51Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 454,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"invert\" option for state machine's conditions in AnimationTree",
+  "up": 18,
+  "updatedAt": "2024-10-27T14:53:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/454"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about drastically improving the 3D usability out of the box for one of the most common tasks.",
+    "format": "form",
+    "workaround": "If would be used VERY often throughout any 3D genre. There already is a workaround, though the experience is not user friendly or intuitive."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-05-01T13:38:36Z",
+  "down": 3,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6784,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add single accessible high level method to cast ray from mouse position into 3D scene and return collision point and collision object",
+  "up": 4,
+  "updatedAt": "2024-11-10T21:11:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6784"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Every user who collaborates with others will run into the scenario I did.",
+    "format": "form",
+    "workaround": "It could be a plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-21T20:47:21Z",
+  "comments": 2,
+  "createdAt": "2024-10-21T18:48:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11007,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "TileMapLayer: Allow users to provide a replacement tile for broken/missing tiles.",
+  "up": 0,
+  "updatedAt": "2024-10-21T21:01:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11007"
+}

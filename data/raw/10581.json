@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is not possible to extend physics engine behavior through an external add-on.",
+    "format": "form",
+    "workaround": "As mentioned before, it is technically possible to work around these limitations, but not in a few lines of script and not efficiently."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-08-28T15:56:29Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10581,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a PolylineShape2D resource for 2D collision detection",
+  "up": 0,
+  "updatedAt": "2024-08-29T12:30:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10581"
+}

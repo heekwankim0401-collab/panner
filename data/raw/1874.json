@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-11-23T14:10:00Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 1874,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to override and extend the `Input` implementation via modules",
+  "up": 8,
+  "updatedAt": "2021-04-27T10:54:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1874"
+}

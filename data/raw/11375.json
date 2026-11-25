@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Media management is a fundamental aspect of game and application development.\nA implementation of this standardization ensures:\n- Users need less knowledge of how media file types are structured\n- Integration with Godot's existing systems (this addition won't break existing features; it would add on top of them)\n- Performance optimization as file handling can be done entirely in C++\n- To load every base type of media using only a single line of code",
+    "format": "form",
+    "workaround": "While it is possible to work around these limitations using custom scripts, doing so often requires significant effort, especially for 3D models, audio and video formats. And if you think about formats like MP3 or OGG, you'd first need to figure out their structure and then create your own implementation for saving them as files. Additionally, custom implementations are prone to errors and inconsistencies. Providing these features as part of the core API ensures reliability and saves developers from reinventing the wheel again."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-12-17T23:45:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11375,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Creating a standardization for loading & saving (resource) files at runtime",
+  "up": 0,
+  "updatedAt": "2026-09-13T00:30:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11375"
+}

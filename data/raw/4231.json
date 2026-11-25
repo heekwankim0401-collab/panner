@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It enhances a core node with rather basic functionality.",
+    "format": "form",
+    "workaround": "It might be possible to write a script that sets `rect_min_size` to the desired value, but you need to calculate the width properly, taking styleboxes into account and text size etc. Also the text might change with a translation, so it just requires writing a bit of logic that already exists in the node."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-03T13:06:55Z",
+  "comments": 2,
+  "createdAt": "2022-03-16T16:47:32Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 4231,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option for OptionButton to fit to longest item size",
+  "up": 12,
+  "updatedAt": "2022-08-03T13:07:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4231"
+}

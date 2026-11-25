@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is very basic feature.",
+    "format": "form",
+    "workaround": "It will be used often and you can only work around it by looking for your node with your eyes and memory."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-18T07:23:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7724,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Click a variable in the inspector and highlight the node/scene it is referencing",
+  "up": 8,
+  "updatedAt": "2023-09-30T21:39:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7724"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the shader parameter workflow out of the box.",
+    "format": "form",
+    "workaround": "This can be worked around by knowing about this specific issue or perhaps by creating an editor plugin. This would however be very inconvenient and unfair for unknowing developers."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-04-25T08:12:40Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9596,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a warning when a shader parameter has no default value set",
+  "up": 2,
+  "updatedAt": "2024-04-25T15:19:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9596"
+}

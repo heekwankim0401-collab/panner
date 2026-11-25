@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Bump maps have been used for many, many years, could be cool, for games . . . .",
+    "format": "markdown",
+    "workaround": "I don't know, also want to try and ' layer ' bump maps, that's not so easy, with normal maps, but overlaying or, ' ADDING ' bump maps on top, of each other, could create amazing water effect, like waves, with waves on, going up and, down, using shaders . ."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-24T13:27:12Z",
+  "comments": 6,
+  "createdAt": "2021-01-24T10:16:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2171,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for classic grey-scale bump maps . .",
+  "up": 0,
+  "updatedAt": "2021-01-24T13:27:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2171"
+}

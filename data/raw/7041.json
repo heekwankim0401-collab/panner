@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Ever since The Legend of Zelda, saving and loading has been core to creating games. Beginners should be able to set up a save system from the get-go, not have to comb through the asset library.",
+    "format": "form",
+    "workaround": "Saving and loading by script requires writing a lot of boilerplate code. The bigger your game, the more boilerplate you will have to write for saving and loading."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 48,
+  "createdAt": "2023-06-08T01:32:27Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7041,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create high-level saving/loading API similar to high-level multiplayer API",
+  "up": 17,
+  "updatedAt": "2026-01-01T19:09:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7041"
+}

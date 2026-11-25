@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the performance troubleshooting and optimization experience for players and developers alike.",
+    "format": "form",
+    "workaround": "The approach described here can be implemented by a script, but it requires https://github.com/godotengine/godot-proposals/issues/4871 to be done efficiently. Also, such a script will be fairly complex in nature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-06T22:32:18Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6820,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to query GPU hardware properties (utilization percentage, temperature, core/memory clocks, power draw)",
+  "up": 10,
+  "updatedAt": "2024-10-03T14:51:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6820"
+}

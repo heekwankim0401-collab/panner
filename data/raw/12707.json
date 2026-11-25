@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Navigation is core.",
+    "format": "form",
+    "workaround": "Can be done in script but too slow. Also too complex to setup for most users."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2025-07-01T20:06:06Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:navigation",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12707,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a NavigationWorld2D/3D as a navmesh high performance option for large worlds",
+  "up": 33,
+  "updatedAt": "2026-01-17T00:35:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12707"
+}

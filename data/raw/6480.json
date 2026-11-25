@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's just a really fundamental Feature. I know there have been add-ons before, but none of them have made it to godot4 yet and having a good way to do adaptive Music is IMO as fundamental as things like SCG-Shapes.",
+    "format": "form",
+    "workaround": "Bodgy Music Players are pretty easy to script, but it gets really difficult really fast."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-11T15:57:10Z",
+  "comments": 11,
+  "createdAt": "2023-03-11T11:10:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 6480,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "adaptive Music Utility for Godot",
+  "up": 0,
+  "updatedAt": "2023-03-12T15:36:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6480"
+}

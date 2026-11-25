@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving QoL of existing editor behavior and does not make sense as a dedicated addon, and regardless is not technically possible with an addon.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-21T14:59:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12826,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically convert exported script variable values between compatible types",
+  "up": 0,
+  "updatedAt": "2025-07-21T15:06:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12826"
+}

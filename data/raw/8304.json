@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it would be easy to implement and pretty useful :)",
+    "format": "form",
+    "workaround": "Can be done doing manually, of course."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-30T14:16:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8304,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add image drag and drop from FileSystem to RichTextLabel's text as bbcode tag IMG",
+  "up": 2,
+  "updatedAt": "2023-10-31T09:17:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8304"
+}

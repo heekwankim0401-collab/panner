@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Using groups is a central part of Godot and I believe this would make it much easier to use and less error prone for everybody.",
+    "format": "form",
+    "workaround": "I don't believe so because there's a lot of management involved in making sure your groups are correct.  It could technically be done if you only use groups programmatically using a singleton but its much less convenient than being able to use the editor.  My change would also remove the need for creating your own singleton that matches the groups you set in the visual editor."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-20T14:14:54Z",
+  "comments": 1,
+  "createdAt": "2022-01-12T04:19:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 3789,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to manage node groups from the project settings",
+  "up": 12,
+  "updatedAt": "2023-12-20T14:14:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3789"
+}

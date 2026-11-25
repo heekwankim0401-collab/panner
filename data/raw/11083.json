@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As stated above there is no way to do something like this with an add-on at least to my knowledge.",
+    "format": "form",
+    "workaround": "As this is a recommendation for GDscript and not Godot this could not be fixed with a script, because GDscript offers no such functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-18T12:51:17Z",
+  "comments": 4,
+  "createdAt": "2024-11-03T16:21:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11083,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "A way to unzip .zip files",
+  "up": 0,
+  "updatedAt": "2024-12-18T14:16:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11083"
+}

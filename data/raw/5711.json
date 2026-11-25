@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a change to a core resource.",
+    "format": "form",
+    "workaround": "A similar effect can be achieved with a `StyleBoxFlat`, although it is a bit more inconvenient because you need to specify 4 corner radius and 2 content margins. With the proposed solution this would be reduced to 2 round caps and 1 thickness. There are also many elements that make more sense to think of as a line rather than a box, such as scrolls or separators. I also think it is nice to have a simple capsule shape, and rather than create a new one, the line would work fine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-11-02T16:15:11Z",
+  "down": 1,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5711,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add round caps option to `StyleBoxLine`",
+  "up": 0,
+  "updatedAt": "2022-11-02T18:02:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5711"
+}

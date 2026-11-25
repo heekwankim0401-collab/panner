@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-03T19:27:00Z",
+  "comments": 2,
+  "createdAt": "2026-06-23T01:37:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": "4.8",
+  "number": 15065,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "BoneAttachment3D: prevent transform property from being saved in scene file",
+  "up": 3,
+  "updatedAt": "2026-08-03T19:27:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15065"
+}

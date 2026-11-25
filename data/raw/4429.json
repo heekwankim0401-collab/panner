@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is already a synchronizer in core, so it makes more sense to extend it.\n\nCC @Faless",
+    "format": "form",
+    "workaround": "The only way to work around this currently is writing setter RPCs rather than using the synchronizer feature, which requires a lot of boilerplate code."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-24T07:04:40Z",
+  "comments": 18,
+  "createdAt": "2022-04-23T00:40:48Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.1",
+  "number": 4429,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "MultiplayerSynchronizer - Add an option to sync properties only when they are changed",
+  "up": 30,
+  "updatedAt": "2023-06-06T08:38:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4429"
+}

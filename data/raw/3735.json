@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I didn't find a way to do this using a plugin.",
+    "format": "form",
+    "workaround": "workarounds could be:\n- setting the `editor_layout.cfg` `opened_scenes` setting manually before loading the project (`restore scenes on load` should be on in `EditorSettings`)\n- before closing the project, manually switch to a scene that should be opened on the next loading (`restore scenes on load` should be on as well)\n-"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-01T04:56:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3735,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to open a predefined scene on load in editor",
+  "up": 3,
+  "updatedAt": "2022-01-01T10:14:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3735"
+}

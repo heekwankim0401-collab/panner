@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "Android exporting is a core feature of Godot. Anyone exporting to android with a team of more than 1 will end up hitting this issue.",
+    "format": "legacy",
+    "workaround": "I can't think of a nice way around it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-10T10:47:46Z",
+  "comments": 6,
+  "createdAt": "2020-07-03T15:54:01Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:macos",
+    "platform:windows",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.1",
+  "number": 1156,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't put sensitive credentials such as Android keystore properties in `export_presets.cfg`",
+  "up": 9,
+  "updatedAt": "2023-05-10T10:47:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1156"
+}

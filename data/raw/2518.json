@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It concerns new functionality on signals that could not easily be implemented as a add-on",
+    "format": "markdown",
+    "workaround": "Probably not"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-03-28T18:49:07Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2518,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a mechanism to GDScript to wait for signal's completion",
+  "up": 2,
+  "updatedAt": "2021-04-02T09:04:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2518"
+}

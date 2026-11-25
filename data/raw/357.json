@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "For me, the animator is one of godot's best features as it integrates very well with the engine so I think adding this usability enhancement can help animators achieve the results they want in much  less time.",
+    "format": "legacy",
+    "workaround": "Animations can be adjusted but as mentioned above it is very time consuming, specially with complex animations with a lot of keyframes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-01-04T23:46:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 357,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to offset keyframes in a track",
+  "up": 7,
+  "updatedAt": "2020-01-17T20:46:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/357"
+}

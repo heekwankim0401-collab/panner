@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Import system is core",
+    "format": "form",
+    "workaround": "It's just a maintainability concern"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-04T00:22:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3748,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove EditorSceneFormatImporter::import_animation",
+  "up": 1,
+  "updatedAt": "2023-06-11T15:12:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3748"
+}

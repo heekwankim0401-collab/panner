@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's just a handy call.",
+    "format": "legacy",
+    "workaround": "This method is  used frequently, although it can be implemented in GDScript. A build in method will be much more convenient"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-06-23T02:37:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1108,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "add set_tile(position: Vector2, tile: int) method for TileMap",
+  "up": 1,
+  "updatedAt": "2020-10-22T15:01:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1108"
+}

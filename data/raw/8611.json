@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An addon would not be able to provide this functionality afaik, but even so, this would give the Mono branch significantly more compatibility.",
+    "format": "form",
+    "workaround": "This cannot be worked around by current methods, the only current solution is to avoid using c# in projects for other consoles. Or in the case of other devices, .NET must be installed alongside the project."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-12-08T04:19:04Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 8611,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "C# built in .net runtime",
+  "up": 0,
+  "updatedAt": "2023-12-13T03:43:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8611"
+}

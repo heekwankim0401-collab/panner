@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "core feature found in the big applications to reduce visibility interaction.",
+    "format": "form",
+    "workaround": "I do not have comprehension of how to execute this feature yet."
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-23T19:55:13Z",
+  "comments": 4,
+  "createdAt": "2022-09-25T02:06:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 5488,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow toggling visibility of several nodes in the Scene tree dock by click-and-dragging (and/or on all selected nodes at once)",
+  "up": 13,
+  "updatedAt": "2026-10-23T16:50:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5488"
+}

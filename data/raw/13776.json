@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would actually be simpler than the existing built-in `LightmapGI` and right now users don't have many out-of-the-box options for non-photorealistic rendering without custom shaders or modifying the engine.",
+    "format": "form",
+    "workaround": "I haven't found a good way to get `LightmapGI` to produce the results I want, and I don't think doing this from GDScript is feasible either."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-12-02T19:12:15Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13776,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"direct light only\" lightmap baker that closely mimics DirectionalLight3D",
+  "up": 3,
+  "updatedAt": "2025-12-02T22:58:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13776"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Would a GD-Extension count as core? If not, I think this might be a core feature since this is baked into the rendering process when you import meshes into the scene.",
+    "format": "form",
+    "workaround": "There's is a reason why I suggest this feature being part of Godot 6 or later. This feat is very large in scope unless you have the manpower and donation funds to get it to work."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-01T12:25:11Z",
+  "comments": 2,
+  "createdAt": "2023-12-01T06:22:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8560,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot 6 Feature - Option for a Nanite Style LOD Rendering?",
+  "up": 0,
+  "updatedAt": "2023-12-01T12:25:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8560"
+}

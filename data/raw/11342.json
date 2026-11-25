@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about enhancing the _usability_ of the Android Editor. Shortcuts like Undo and Redo are fundamental functionalities essential to any editing workflow. Providing touch-friendly access to these actions ensures a seamless and efficient user experience on Android devices. Integrating this feature into the core editor avoids fragmentation, guarantees consistency, and ensures that all Android users can benefit from this improvement without requiring additional setup or plugins.",
+    "format": "form",
+    "workaround": "While the enhancement could be implemented as an editor plugin, doing so would require manual installation and maintenance, making it less accessible to the broader user base. A core implementation ensures seamless integration into the Android editor experience."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-11T02:06:27Z",
+  "comments": 11,
+  "createdAt": "2024-12-12T22:01:19Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 11342,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `TouchActionsPanel` to Android Editor",
+  "up": 6,
+  "updatedAt": "2025-12-06T17:36:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11342"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "`OS.get_cmdline_user_args`  is part of the core library (and IMO what is proposed here should be the expected behavior)",
+    "format": "form",
+    "workaround": "Not easily. Probably need to manually move files around and have Godot read them."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-16T23:29:49Z",
+  "comments": 2,
+  "createdAt": "2023-09-16T22:32:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7695,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Environment variables passed to the editor should be passed to the player",
+  "up": 0,
+  "updatedAt": "2023-09-17T19:14:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7695"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core in Godot 4.x",
+    "format": "form",
+    "workaround": "This enhancement is critical for large scenes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-06-18T22:29:56Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 4696,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Backport selection of editable children in the 3D editor viewport to 3.x",
+  "up": 0,
+  "updatedAt": "2022-06-18T22:33:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4696"
+}

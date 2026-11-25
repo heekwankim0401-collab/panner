@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This requires changes to the GDScript Server and as far as I know this is not possible for an addon.",
+    "format": "form",
+    "workaround": "this can be worked around by itering through the dict and setting the fields but this ends up being complex and not very easy to do."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-23T15:26:08Z",
+  "comments": 10,
+  "createdAt": "2023-10-23T13:19:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8235,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Convert dicts into classes",
+  "up": 0,
+  "updatedAt": "2023-10-23T15:27:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8235"
+}

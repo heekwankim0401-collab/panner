@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As described previously, it can be an add-on, but it would be inconvenient to use.",
+    "format": "form",
+    "workaround": "This can be done with a script, but it will be inconvenient as currently it's not possible to easily add custom steps to the texture import pipeline. As such, the easiest way I can think of would be to make a script that will load the source image, swap its channels, then either overwrite it or create a copy that will be imported into an internal format. \n\nProcessing an already imported image isn't a very good idea, espacially when it has been compressed."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-13T21:28:07Z",
+  "comments": 0,
+  "createdAt": "2024-11-27T17:09:53Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.5",
+  "number": 11243,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow remapping the color channels of a texture on import",
+  "up": 2,
+  "updatedAt": "2025-05-13T21:28:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11243"
+}

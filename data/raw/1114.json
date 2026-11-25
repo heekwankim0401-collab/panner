@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The fact that the engine is already doing the calculation is the reason that this feature should be in the core and not in the addons",
+    "format": "legacy",
+    "workaround": "It can be worked around, but the script has to consider the object's shapes and also offsets. Besides, the engine already calculate this for the Physics to run."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-24T17:43:39Z",
+  "comments": 3,
+  "createdAt": "2020-06-24T03:19:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1114,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Exposing Inertia Tensor to GDScript",
+  "up": 0,
+  "updatedAt": "2020-06-24T17:43:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1114"
+}

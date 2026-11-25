@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I do not believe that addons can override c++ implementations for classes. if I am wrong please correct me.",
+    "format": "form",
+    "workaround": "you could just as stated above make two calls to add_valid_connection_types for every valid number (or atleast only types that exists)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-07T16:26:46Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10929,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "make GraphEdit.is_valid_connection_type virtual",
+  "up": 1,
+  "updatedAt": "2024-10-07T18:22:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10929"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "/",
+    "format": "form",
+    "workaround": "if it implement, i can change my code like this:\n```gdscript\nsignal obj_changed(obj:Node)\nvar obj : Node : set = set_obj\nfunc set_obj(p_obj:Node):\n\tif is_node_same(obj == p_obj):\n\t\treturn\n\tobj = p_obj\n\tobj_changed.emit(obj)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-27T09:15:08Z",
+  "comments": 5,
+  "createdAt": "2025-09-26T17:46:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13279,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to compare if 2 object are the same",
+  "up": 0,
+  "updatedAt": "2025-09-27T09:33:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13279"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This requires a change to the 2D physics server.",
+    "format": "form",
+    "workaround": "Use `add_collision_exception`. This would be very cumbersome and also very slow."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-08-03T19:51:58Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3085,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `collision_level` property to PhysicsBody2D to support different floors in 2D physics",
+  "up": 2,
+  "updatedAt": "2021-08-04T09:09:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3085"
+}

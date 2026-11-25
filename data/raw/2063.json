@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Again, these are things *already in core*. They simply need to be exposed.",
+    "format": "markdown",
+    "workaround": "The point is that the Godot Editor itself is a massive suite of tools, and anyone wanting to build anything remotely similar to the Godot Editor has to write it all themselves with a huge amount of script code. So no, it's the antithesis of a few lines of code. And it would be used by a massive number of Godot projects."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2021-01-03T01:38:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2063,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Reorganize a subset of Editor features into a module of reusable nodes and resources to complement `/scene`",
+  "up": 40,
+  "updatedAt": "2024-03-15T16:22:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2063"
+}

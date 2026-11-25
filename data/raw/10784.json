@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "You cannot change the official name from the asset library.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-09-19T22:20:25Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10784,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Formally rename the Godot shading language to \"GDShader\"",
+  "up": 58,
+  "updatedAt": "2024-09-22T18:08:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10784"
+}

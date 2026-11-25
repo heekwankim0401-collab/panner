@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because other non-engine third parties will be building on top of this change, and it's a very small and straightforward chagen",
+    "format": "form",
+    "workaround": "it's already being worked around in the [official pugin for vscode](https://github.com/godotengine/godot-vscode-plugin/blob/80fefd2ceb60efcfd025190d567fd0afcc3150a7/src/lsp/GDScriptLanguageClient.ts#L159-L165)"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T12:28:52Z",
+  "comments": 4,
+  "createdAt": "2024-07-30T05:18:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10318,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't send custom markup in Language server messages",
+  "up": 2,
+  "updatedAt": "2026-07-28T12:28:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10318"
+}

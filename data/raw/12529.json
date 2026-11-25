@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-05-30T20:01:26Z",
+  "down": 0,
+  "labels": [
+    "topic:codestyle"
+  ],
+  "milestone": null,
+  "number": 12529,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Refactor `variant_internal.h` using C++20 concepts",
+  "up": 0,
+  "updatedAt": "2025-06-23T08:48:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12529"
+}

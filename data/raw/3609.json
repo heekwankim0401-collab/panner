@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would improve documentation usability.",
+    "format": "form",
+    "workaround": "Probably doable with EditorPlugin, but editor help isn't even exposed, so it's rather difficult."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-29T15:20:31Z",
+  "comments": 1,
+  "createdAt": "2021-11-28T19:44:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:docs",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3609,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Highlight found help item",
+  "up": 5,
+  "updatedAt": "2021-11-29T15:20:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3609"
+}

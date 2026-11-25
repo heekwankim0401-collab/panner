@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Support for a console requires multiple changes and features, so this does not specifically apply as of yet, though if certain features specifically for the Playdate aren't supported directly by Godot, but Playdate exporting largely is, then certain gdextentions can be made on the library to supplement the missing features (for example - the Playdate's sleep mode or screen brightness).",
+    "format": "form",
+    "workaround": "Again, support for a console at all (not even particularly the Playdate, though it seems to be the best candidate so far) isn't something that can just be worked around unless that console is somehow heavily based on a existing platform already supported by Godot (for example - the Ouya or Apple TV would not apply here).\n\nSince there seems to a a almost 40 year historic trend of at the very least Nintendo (and at least a 20 year trend for Xbox and Playstation) of all keeping their development kits closed and protected."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-15T21:35:05Z",
+  "comments": 3,
+  "createdAt": "2024-10-14T17:58:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10971,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Making godot finally have an offical console port - support for the Playdate console.",
+  "up": 0,
+  "updatedAt": "2025-02-28T16:40:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10971"
+}

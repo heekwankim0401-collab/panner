@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, there’s a reason why this should be part of the core engine and not just an add-on in the Asset Library. While some effects can be partially done with plugins or scripts, **many of these improvements require deep integration with the rendering pipeline**—things like dynamic arrays, compute shaders, tessellation, and full lighting access.  \n\nIf it’s only an add-on, it would be **limited in performance and flexibility**, and some effects simply wouldn’t be possible or would require messy workarounds. Putting it in the core ensures it works efficiently on all platforms and can be used seamlessly with Godot’s materials, shaders, and lighting system.  \n\nSo basically, core support = **faster, cleaner, and scalable**, while add-ons could never fully replace these features.",
+    "format": "form",
+    "workaround": "Yes, some of these shader limitations can be partially worked around using scripts, but it’s not always ideal. For example, you can sometimes simulate dynamic lighting, procedural effects, or arrays by updating uniforms from GDScript every frame, or manually handling particle positions and colors on the CPU.  \n\nThe problem is, these workarounds are **less efficient** and can get **very messy** for complex effects, especially in open-world or high-performance games. Using proper shader improvements like dynamic arrays, compute shaders, or better lighting access would make it **much cleaner, faster, and scalable**.  \n\nSo yeah, scripts can help in a pinch, but real shader support would save a lot of time and unlock way more possibilities."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-30T23:32:11Z",
+  "comments": 4,
+  "createdAt": "2026-01-29T22:45:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14105,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Shader limitations and improvement suggestions",
+  "up": 0,
+  "updatedAt": "2026-01-31T10:46:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14105"
+}

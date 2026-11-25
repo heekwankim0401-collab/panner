@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "its core",
+    "format": "form",
+    "workaround": "i dont think so"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-01T15:16:36Z",
+  "comments": 2,
+  "createdAt": "2022-03-01T14:00:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 4141,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `linear_velocity` and `angular_velocity` in PhysicalBone3D",
+  "up": 2,
+  "updatedAt": "2022-03-01T15:17:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4141"
+}

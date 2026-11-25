@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's basic functionality of nearly every game on the market. Just like ALT+F4 needs to kill applications unless there's a really good reason against or ALT+TAB should always switch applications unless there's a REALLY REALLY REALLY good reason against that.",
+    "format": "markdown",
+    "workaround": "Of course, yes. But it will be used by every game unless the game is supposed to be a troll/subversive kind of game. The purpose of this is to provide usability/immersion to projects made by beginners. It is to help beginner game devs who are already overwhelmed by making a game and not have them think about window management."
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-19T17:12:23Z",
+  "comments": 5,
+  "createdAt": "2020-12-14T12:49:10Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 1983,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "By default, bind Alt + Enter to switch between fullscreen and windowed mode",
+  "up": 10,
+  "updatedAt": "2026-06-19T17:13:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1983"
+}

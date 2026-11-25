@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's the Editor UI.\n\nAlso, double-clicking is difficult for some people, especially those who lack specific fine motor ability. It could at least be an accessibility option.",
+    "format": "legacy",
+    "workaround": "Pressing Enter after highlighting the file is a workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-10-21T15:24:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1699,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to open a file from the FileSystem dock with a single click",
+  "up": 4,
+  "updatedAt": "2020-10-21T15:29:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1699"
+}

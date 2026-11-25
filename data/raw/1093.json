@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it should not be implemented as an addon.\nImo it's more logical to have this as a feature of the gdscript language.",
+    "format": "legacy",
+    "workaround": "no unfortunately.\nThis is not solved by composition or workaround as elegantly as with mixins."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-20T13:05:14Z",
+  "comments": 5,
+  "createdAt": "2020-06-20T11:44:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1093,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Multiple inheritance (mixins) in gdscript",
+  "up": 5,
+  "updatedAt": "2020-06-20T19:44:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1093"
+}

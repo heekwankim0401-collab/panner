@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be in core because I don't see any way for add-ons to implement this feature.",
+    "format": "form",
+    "workaround": "Leave the extra argument blank and it will default too root just like the old behaviour"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-15T08:25:30Z",
+  "comments": 1,
+  "createdAt": "2024-09-15T04:27:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10745,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "ProjectSettings.load_resource_pack custom root argument",
+  "up": 0,
+  "updatedAt": "2024-09-15T08:25:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10745"
+}

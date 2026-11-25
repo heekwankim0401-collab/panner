@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Basic Functionality",
+    "format": "legacy",
+    "workaround": "I think its possible to create a plugin that lets you do that, but in my vision this really needs to be core feature!"
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-08T06:05:16Z",
+  "comments": 21,
+  "createdAt": "2020-02-26T20:28:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 527,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add 3-axis gizmo movement to Path3D points",
+  "up": 48,
+  "updatedAt": "2026-03-08T06:05:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/527"
+}

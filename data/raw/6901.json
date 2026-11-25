@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It will make life easier.",
+    "format": "form",
+    "workaround": "Yes. it can be worked around, but with some pain."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-05-17T13:02:47Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6901,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for AnimationTree Transition Expression to access enums from other classes",
+  "up": 4,
+  "updatedAt": "2023-07-18T17:31:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6901"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not sure if this can be implemented as a plugin.  Same as above.",
+    "format": "form",
+    "workaround": "Not sure if is possible to work around this from GDSCript. Based on my implementation it actually required a few more things to make it take effect immediately in the Output in addition to changing the setting itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-05-22T05:13:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4574,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a verbose toggle in the editor Output panel",
+  "up": 10,
+  "updatedAt": "2022-05-27T23:42:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4574"
+}

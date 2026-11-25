@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "they are part of the engine API",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-25T16:35:50Z",
+  "comments": 0,
+  "createdAt": "2022-08-08T00:49:26Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 5104,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename some properties of PathFollower3D and PathFollower2D",
+  "up": 4,
+  "updatedAt": "2022-08-25T16:35:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5104"
+}

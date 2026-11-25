@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's about a core node.",
+    "format": "form",
+    "workaround": "You can hack this by editing value of SpinBox's LineEdit manually, but this won't even work lol"
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-31T14:12:32Z",
+  "comments": 5,
+  "createdAt": "2022-05-01T23:25:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.8",
+  "number": 4478,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change SpinBox's prefix and suffix to a single format String",
+  "up": 13,
+  "updatedAt": "2026-08-31T14:12:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4478"
+}

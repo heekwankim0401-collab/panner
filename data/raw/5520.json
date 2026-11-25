@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think it could be an add-on",
+    "format": "form",
+    "workaround": "I *think* the workaround is to use PackedByteArray encode_half, but it feels a bit strange that I have to do that for halfs"
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-06T09:33:58Z",
+  "comments": 3,
+  "createdAt": "2022-09-30T08:14:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5520,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add PackedFloat16Array class",
+  "up": 2,
+  "updatedAt": "2022-10-06T12:25:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5520"
+}

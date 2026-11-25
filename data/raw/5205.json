@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-07T07:29:43Z",
+  "comments": 6,
+  "createdAt": "2022-08-19T11:57:26Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 5205,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename platform JavaScript to Web",
+  "up": 1,
+  "updatedAt": "2022-09-07T07:29:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5205"
+}

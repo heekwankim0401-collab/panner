@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "As mentioned, the GDScript-like API can be used:\n\n```c++\nvoid GDExample::mutate_array(Variant array) {\n    array.call(\"append\", Vector2{ 2, 34 });  // Mutates in-place\n}\n```\n\nHowever, this is slow, dynamically typed, and it doesn't work for c-like APIs like `.ptrw()`."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-27T10:26:16Z",
+  "comments": 12,
+  "createdAt": "2024-09-26T10:39:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10830,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose PackedArrayRef outside Variant in Core, GDExtension (+godot-cpp)",
+  "up": 5,
+  "updatedAt": "2024-12-01T18:48:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10830"
+}

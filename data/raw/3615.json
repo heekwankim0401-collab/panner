@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It changes core functionality.",
+    "format": "form",
+    "workaround": "It's being used often and extensively."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-11-30T18:09:14Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.x",
+  "number": 3615,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide a single access point for file path operations",
+  "up": 5,
+  "updatedAt": "2021-11-30T22:47:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3615"
+}

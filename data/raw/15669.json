@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-10-18T20:24:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15669,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `instance_created` signal to InstancePlaceholder",
+  "up": 2,
+  "updatedAt": "2026-10-20T00:15:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15669"
+}

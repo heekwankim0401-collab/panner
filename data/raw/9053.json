@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's string operation, I use it once in a while across different projects, it's very practical thing to do so might as well be part of engine.",
+    "format": "form",
+    "workaround": "I use algorithm that works like above which I added to my small Global Functions node."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-08T07:54:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9053,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add string functionality to find n-th substring occurrence's position",
+  "up": 0,
+  "updatedAt": "2024-02-08T10:01:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9053"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes, for three primary reasons:\n\nPerformance: For voxel games and PCG, bounds-checking operations are executed millions of times. A native C++ implementation will be orders of magnitude faster than a GDScript solution, which is a critical requirement for these genres.\n\nAPI Consistency and Symmetry: Godot already has Vector2i -> Rect2i and Vector3i. The absence of Rect3i breaks this symmetry, making the API less intuitive for new users who expect this parity. It is a fundamental data structure missing from the engine's math toolkit.\n\nFuture Engine Integration Potential: As a core data type, it could be used to enhance other engine APIs in the future (e.g., GridMap.get_used_rect() -> Rect3i). This is impossible for an add-on to facilitate.",
+    "format": "form",
+    "workaround": "No. While a single check like has_point can be done in a few lines, a complete, robust implementation that includes intersects, encloses, grow, iteration, and other utilities is not trivial. It is an entire data object that currently needs to be recreated from scratch in every project that deals with 3D grids. The argument is not about saving a few lines for a single function, but about avoiding the rewrite of an entire utility class."
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-10T22:26:47Z",
+  "comments": 3,
+  "createdAt": "2025-07-01T19:18:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12705,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Rect3i core type for 3D integer-based bounds",
+  "up": 1,
+  "updatedAt": "2026-11-10T22:27:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12705"
+}

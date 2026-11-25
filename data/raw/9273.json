@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be usefull in general to quickly duplicate resources.",
+    "format": "form",
+    "workaround": "Ìt can be to a degree, but it would require implementing it in each node, and it still is messy, as it can duplicate the resource unnessesarily, atleast in the case of an array:\n```gdscript\n@export var actions:Array[SetterAction]:\n    set(value):\n        if Engine.is_editor_hint() && Input.is_key_pressed(KEY_CTRL):\n            for action in actions:\n                for v in value.size():\n                    if action == value[v]:\n                        value[v] = value[v].duplicate()\n        actions = value\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-18T01:37:52Z",
+  "comments": 2,
+  "createdAt": "2024-03-10T11:04:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 9273,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to duplicate resources when assigning them with drag-and-drop",
+  "up": 4,
+  "updatedAt": "2025-11-18T01:38:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9273"
+}

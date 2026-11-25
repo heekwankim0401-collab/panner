@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Navigation is Core.",
+    "format": "form",
+    "workaround": "Implementing Snapping manually, though not just a few lines of code, and this is general Navigation system UX improvement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-11-11T20:59:30Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 8402,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add method to Snap point to Navigation Mesh",
+  "up": 1,
+  "updatedAt": "2024-03-04T10:40:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8402"
+}

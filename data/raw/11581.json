@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This requires refactoring `Input`'s code to decouple the \"singleton\" part from the \"normal class\" part. (As an example, the constructor currently sets `singleton = this` regardless of whether `singleton == nullptr` or not, which will lead to an overwrite when trying to simply create a subclass of `Input` and instantiate it. Similar story with the deconstructor.)",
+    "format": "form",
+    "workaround": "Negative\\* \\*\\*, as you can't reset `Input`'s state (other than wait a frame? (though that'd be a terrible \"solution\")).\n\nBut even if we could, there are still major problems:\n- We can't feed `InputEvent`s to `Input` as they reach the server over the network (because, again, by the time you query `Input` it will be less than worthless), so we need to create an input buffer array for each player and push the `InputEvent`s there.\n- Once we get to the point where we process a particular player, we need to `Input.reset()` and then re-fill it with the `InputEvent`s from the corresponding buffer, which means instead of processing being spread out it is forced into a small window.\n- `Input` still being shared means that we won't be able to parallelize player processing.\n\n\\*As was noted on Reddit by u/BrastenXBL, it's possible to work this around by adding a variable for every action (effectively \"caching\" `InputEvent`s received over network for later consumption) and then using the `event.is_action_pressed` etc. methods instesd of methods on `Input`.\n\n\\*\\*As was noted on Reddit by u/jamopian, it's possible to work this around for the specific use case of authoritative servers by pre-processing `InputEvent`s client-side into a simpler format before sending. For example, instead of sending an `InputEventKey` with `.key == KEY_SPACE`, one could send a custom enum variant `ClientInputAction.WANT_TO_JUMP`. However, this will, like all solutions that don't send raw input to the server, limit the potential effectiveness of an anti-cheat system."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-01-16T14:25:51Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 11581,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Input usable as a generic input processor",
+  "up": 8,
+  "updatedAt": "2025-01-26T18:11:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11581"
+}

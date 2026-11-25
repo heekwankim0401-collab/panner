@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core buildsystem functionality.",
+    "format": "legacy",
+    "workaround": "Technically, yes: this can be achieved with a few lines of shell scripting. However, since this is about improving the experience for people who are just getting started with compiling the engine, I'd say it's worth the effort (provided we don't find downsides to doing this).\n\nIf there are significant downsides to doing this, we can put this behind a SCons option like `osx_app_bundle=yes`."
+  },
+  "assignees": 1,
+  "closedAt": "2024-02-13T16:26:01Z",
+  "comments": 0,
+  "createdAt": "2020-09-04T13:17:47Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:buildsystem",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 1460,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create an .app bundle automatically when compiling the editor for macOS",
+  "up": 1,
+  "updatedAt": "2024-02-13T16:30:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1460"
+}

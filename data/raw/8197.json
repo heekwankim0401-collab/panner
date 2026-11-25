@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is in Core.",
+    "format": "form",
+    "workaround": "No, some of the things are currently hardcoded"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-19T13:10:43Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8197,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Overhaul Directional Shadow Control Logic",
+  "up": 3,
+  "updatedAt": "2023-10-19T15:41:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8197"
+}

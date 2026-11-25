@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Command line parameters seem to be core.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2022-11-14T19:09:17Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5785,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Simplify editor and run command-line-arguments",
+  "up": 0,
+  "updatedAt": "2023-02-01T16:43:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5785"
+}

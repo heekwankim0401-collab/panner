@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since we've got the `XMLParser` node already, it seems like this would be a good improvement.",
+    "format": "markdown",
+    "workaround": "It would take a whole addon to do this properly, although a GDNative script would be better as XML files can be very large."
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-07T20:26:14Z",
+  "comments": 8,
+  "createdAt": "2021-04-24T21:25:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2647,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to automatically parse XML into a Dictionary",
+  "up": 4,
+  "updatedAt": "2026-11-09T12:53:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2647"
+}

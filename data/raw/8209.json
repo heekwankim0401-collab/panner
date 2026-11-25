@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improves core editor functionality and makes the code easier to maintain.\n\n---\n\nThis is one part of multiple UV editor enhancements: #4118",
+    "format": "form",
+    "workaround": "Used often."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-06T21:57:09Z",
+  "comments": 9,
+  "createdAt": "2023-10-20T11:04:34Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 8209,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move Polygon2D's UV Editor to bottom dock, rename to Polygon Editor",
+  "up": 2,
+  "updatedAt": "2025-01-06T21:57:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8209"
+}

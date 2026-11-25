@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can't be written as an add-on.",
+    "format": "form",
+    "workaround": "Can't be worked around.\n\nAutomating the importing of asset packs is a very common use case."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-12T17:31:59Z",
+  "comments": 6,
+  "createdAt": "2021-11-19T11:53:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3573,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose Make Local option to tool scripts, shortcuts and command palette",
+  "up": 3,
+  "updatedAt": "2024-02-07T12:06:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3573"
+}

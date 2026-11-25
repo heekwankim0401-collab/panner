@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving FileDialog and EditorFileDialog's usability, bringing it closer to native file dialogs.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T20:05:19Z",
+  "comments": 5,
+  "createdAt": "2025-12-09T22:33:21Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.8",
+  "number": 13823,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expand environment variables in FileDialog folder/file path fields",
+  "up": 5,
+  "updatedAt": "2026-07-28T20:05:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13823"
+}

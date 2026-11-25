@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as this is about changing a default decision in the renderer."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-09T19:21:21Z",
+  "comments": 18,
+  "createdAt": "2021-07-13T18:38:22Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2989,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Switch normal map convention from OpenGL-style (Y-) to DirectX-style (Y+)",
+  "up": 9,
+  "updatedAt": "2022-03-04T23:46:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2989"
+}

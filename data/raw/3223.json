@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is part of the core rendering pipeline",
+    "format": "form",
+    "workaround": "This is part of the core rendering pipeline"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2021-08-29T22:01:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 3223,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement GTAO as an alternative ambient occlusion method for Godot 3.x",
+  "up": 33,
+  "updatedAt": "2024-09-10T16:31:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3223"
+}

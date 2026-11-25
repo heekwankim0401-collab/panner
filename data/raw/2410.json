@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think it could be done using an addon.",
+    "format": "markdown",
+    "workaround": "There is no way to add new properties and methods without changing the script itself. Partial classes could solve it."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-06T17:10:06Z",
+  "comments": 6,
+  "createdAt": "2021-03-06T07:06:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2410,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement partial classes",
+  "up": 1,
+  "updatedAt": "2021-04-06T17:34:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2410"
+}

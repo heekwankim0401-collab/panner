@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It technically can be an add-on in the asset library but this is such a low level thing, that it just makes more sense to have it in core. Also since add-ons cannot change core APIs the call would then look something like \n\n```gdscript\nNodeUtils.clear(_result_list)\n```\nwhich is still nicer than the for-loop but not as nice as:\n\n```gdscript\n_result_list.clear()\n```",
+    "format": "form",
+    "workaround": "It can be worked around with a few lines of script but this is a simple convenience function that will streamline a use case that happens pretty frequently."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-06T18:45:48Z",
+  "comments": 2,
+  "createdAt": "2024-11-06T07:21:14Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11104,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `clear` function to `Node`",
+  "up": 0,
+  "updatedAt": "2024-11-06T18:54:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11104"
+}

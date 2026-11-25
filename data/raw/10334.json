@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It involves changes to core classes.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-08-01T02:32:49Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10334,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Split MultiMesh into MultiMesh3D and MultiMesh2D",
+  "up": 1,
+  "updatedAt": "2024-08-01T06:03:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10334"
+}

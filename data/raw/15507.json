@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-22T15:21:23Z",
+  "comments": 2,
+  "createdAt": "2026-09-10T23:14:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15507,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `AABB`-based node focus mode",
+  "up": 0,
+  "updatedAt": "2026-09-22T15:21:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15507"
+}

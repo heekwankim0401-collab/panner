@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a feature for making addons.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-10-10T23:47:10Z",
+  "down": 3,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8065,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow hiding documentation members that don't have descriptions",
+  "up": 9,
+  "updatedAt": "2026-09-15T15:34:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8065"
+}

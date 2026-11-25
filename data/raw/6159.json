@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This can be an official addon and be on the asset library. I like writing design docs :D",
+    "format": "form",
+    "workaround": "This is not a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-22T23:04:55Z",
+  "comments": 6,
+  "createdAt": "2023-01-23T20:50:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:export",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6159,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide a xmp_json_ld metadata editor and storage",
+  "up": 2,
+  "updatedAt": "2024-09-23T15:13:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6159"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Consistent treatment of nodes. You currently can't do a semiguided tour of a game where it starts with all tooltips open and when the user moves their mouse near any item with  tool tip then the tool tip closes.",
+    "format": "form",
+    "workaround": "No equivalent that I can find- nearest is user manually closes the popup. Hide is not close."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-03-26T22:52:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4288,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to close Popups such as ColorPicker by code",
+  "up": 2,
+  "updatedAt": "2022-03-27T13:31:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4288"
+}

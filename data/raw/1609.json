@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core engine functionality, and is required to improve the user experience out of the box.",
+    "format": "legacy",
+    "workaround": "No, as the renderer choice happens before any of the project's code is run."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2020-10-04T15:04:25Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 1609,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Fall back to GLES2 automatically on known problematic GPUs with poor GLES3 support",
+  "up": 14,
+  "updatedAt": "2023-03-15T21:56:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1609"
+}

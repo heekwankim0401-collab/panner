@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It could be an add-on, however it would functionally compete with the editor instead of complementing it. In my eyes, the current design is flawed and can be replaced with a better solution that is only a little bit more complicated.",
+    "format": "form",
+    "workaround": "Can't comment on the usage statistics, but no, this can't be worked around easily."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-02T13:26:11Z",
+  "comments": 31,
+  "createdAt": "2022-01-11T23:37:05Z",
+  "down": 1,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.4",
+  "number": 3788,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve Quick Open dialog design",
+  "up": 22,
+  "updatedAt": "2024-10-02T13:26:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3788"
+}

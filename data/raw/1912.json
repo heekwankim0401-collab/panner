@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a pretty core feature when trying to use godot server version in production.",
+    "format": "markdown",
+    "workaround": "You can kinda work around this by always using `printerr` for the server code. Not a real solution at all though."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-17T09:06:51Z",
+  "comments": 5,
+  "createdAt": "2020-12-01T01:32:40Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1912,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a project setting to flush standard output on every printed line",
+  "up": 4,
+  "updatedAt": "2023-11-06T22:18:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1912"
+}

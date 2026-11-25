@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There is currently no way for something distributed in the asset library to access the EditorInspector's property clipboard.",
+    "format": "form",
+    "workaround": "No, there is currently no way to access the EditorInspector's property clipboard without compiling a custom build of the editor, preventing editor plugins that wish to do this from being distributed in the asset library."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-31T17:53:19Z",
+  "comments": 3,
+  "createdAt": "2023-12-29T18:35:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.8",
+  "number": 8745,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose the EditorInspector's property clipboard to GDScript and GDExtension",
+  "up": 7,
+  "updatedAt": "2026-10-21T17:01:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8745"
+}

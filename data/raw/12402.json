@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The `EditorBottomPanel` is core.",
+    "format": "form",
+    "workaround": "No, this is to set up for future improvements to the dock system."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-07T16:40:31Z",
+  "comments": 2,
+  "createdAt": "2025-05-10T11:05:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12402,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Refactor `EditorBottomPanel` to be a `TabContainer`",
+  "up": 7,
+  "updatedAt": "2025-11-07T16:40:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12402"
+}

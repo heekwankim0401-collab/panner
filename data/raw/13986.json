@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "People new to the engine may run into this issue without knowing what it is, and might not consider addons as a possible fix.",
+    "format": "form",
+    "workaround": "Yes, simply renaming the class fixes the issue but lack of warnings make finding the issue hard."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-30T18:51:52Z",
+  "comments": 1,
+  "createdAt": "2026-01-10T13:20:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 13986,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add warning when a class name starts with Editor",
+  "up": 0,
+  "updatedAt": "2026-03-30T19:32:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13986"
+}

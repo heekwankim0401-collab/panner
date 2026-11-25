@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Being able to detect input properly is extremely fundamental behavior.",
+    "format": "form",
+    "workaround": "The only *workaround* I can come up with is to use `is_action_pressed` which follows desired behavior. This only works, though, if your input is not dynamic and can definitely be mapped to an action. e.g.:\n\n```gdscript\nfunc _input(event: InputEvent) -> void:\n    if event is InputEventKey && event.is_action_pressed(\"ui_cancel\"):\n        print(\"KEY_ESCAPE\")\n```\n\nIf the input key detection is dynamic, I have no idea of any possible workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-24T03:53:50Z",
+  "comments": 1,
+  "createdAt": "2024-06-24T03:46:03Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10026,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Windows key held repeat - inconsistency in event.is_pressed",
+  "up": 0,
+  "updatedAt": "2024-06-24T08:02:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10026"
+}

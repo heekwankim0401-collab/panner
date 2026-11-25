@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Simply exposing a property that already exists.",
+    "format": "form",
+    "workaround": "You can work around this by manually excluding collisions for the nodes, but I think it makes sense for PhysicalBone3D's joints to work the same as the underlying joints."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-22T10:29:11Z",
+  "comments": 3,
+  "createdAt": "2023-10-22T09:12:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8223,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose \"Exclude nodes from collision\" option on PhysicalBone3D joints",
+  "up": 1,
+  "updatedAt": "2023-10-22T10:30:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8223"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because this _enables_ addons to be made without having to do multiple pull requests or segregate a useful new  `EditorExportPlatform` to a quickly out-of-date custom branch. It also improves what seems to already be the intent of `EditorExportPlatformExtention` already, by allowing for existing platforms to also be extended without having to reproduce every step manually.",
+    "format": "form",
+    "workaround": "To work around this, you must recompile the whole engine, as this can only otherwise be done as a module."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-02-27T17:40:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 11864,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for general extension of any EditorExportPlatform instead of having a EditorExportPlatformExtention type",
+  "up": 0,
+  "updatedAt": "2025-03-07T17:46:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11864"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "no."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-29T13:47:55Z",
+  "comments": 1,
+  "createdAt": "2021-09-29T09:32:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3363,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve the debugger's workflow by adding the most used common features.",
+  "up": 4,
+  "updatedAt": "2021-09-29T13:48:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3363"
+}

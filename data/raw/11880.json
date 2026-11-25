@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "get_joy_axis() already exists, so adding a vector alternative just seems reasonable",
+    "format": "form",
+    "workaround": "Yes, it can be worked around, but it seems more messy than it needs to be, especially with the preexisting get_joy_axis()."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-01T00:41:31Z",
+  "comments": 0,
+  "createdAt": "2025-03-01T00:37:17Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 11880,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Get joy vector",
+  "up": 0,
+  "updatedAt": "2025-03-02T15:01:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11880"
+}

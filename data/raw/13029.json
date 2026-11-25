@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is part of the core `NavigationServer` functionality.",
+    "format": "form",
+    "workaround": "Considered:\n\n- Waiting 50 frames. Almost guaranteed to be ready.\n    - Unclear code, and wasteful.\n    - Non-deterministic\n- Querying for a path every frame until a non-zero count result is returned\n    - Does not work for subsequent region generations\n- Create a new navMap for each scene, with a single region per map and use the \"Query for path every frame\" method\n    - This one could work, but poses limitations on the intended usage of `NavigationServer` (i.e. cannot reasonably use more than a single `NavigationRegion` per navMap, must pass navMap id around to any users of the `NavigationRegion` (agents))"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-08-19T13:35:17Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 13029,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a NavigationRegion ReadyToQuery Callback",
+  "up": 0,
+  "updatedAt": "2025-10-24T07:35:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13029"
+}

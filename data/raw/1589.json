@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is hardcore core stuff, so not possible.",
+    "format": "legacy",
+    "workaround": "If a developer could really ensure the lifetime of every object in their game is perfectly tracked, maybe some (or a lot of) scripting would fix the problem. But that's not the case."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-22T06:26:22Z",
+  "comments": 18,
+  "createdAt": "2020-10-01T15:52:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "3.x",
+  "number": 1589,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Promote the dangling Variant fix to release builds",
+  "up": 21,
+  "updatedAt": "2024-07-22T06:26:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1589"
+}

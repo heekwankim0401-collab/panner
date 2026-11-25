@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it is a compile enhancement, code is not affected",
+    "format": "legacy",
+    "workaround": "anytime there is a custom modules location, it will have to be passed to compile successfully and VS would be expected to give the same result as the command line, so it would be used everytime. It can be worked around by adding the path by hand in VS, however it would be expected behaviour and be less confusing if the VS project contained the path as well.\nEspecially when overriding an existing module in this fashion, a potential error would not be easy to track as it would still use the unmodified code."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-03T09:57:16Z",
+  "comments": 1,
+  "createdAt": "2020-07-20T13:58:18Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 1232,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Integrate the `custom_modules` SCons parameter with Visual Studio project generation",
+  "up": 1,
+  "updatedAt": "2020-09-03T09:57:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1232"
+}

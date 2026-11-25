@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Add-a-tab button is a common UX solution for adding tabs. A lot of apps use it.",
+    "format": "markdown",
+    "workaround": "It seems this is doable using `Tabs`, but isn't trivial if you want it to work like in Godot scene tabs."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-14T20:03:20Z",
+  "comments": 1,
+  "createdAt": "2021-02-14T20:00:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2289,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `add tab` button in `TabContainer`",
+  "up": 0,
+  "updatedAt": "2021-02-14T20:03:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2289"
+}

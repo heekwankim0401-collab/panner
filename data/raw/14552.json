@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-03-26T21:00:07Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 14552,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Decouple AnimationPlayer global library creation into its own button",
+  "up": 0,
+  "updatedAt": "2026-03-26T21:48:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14552"
+}

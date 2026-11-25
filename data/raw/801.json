@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it is logical. On a Linux system, these files are invisible. They must be invisible in the Windows system.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-05-06T17:28:37Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 801,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Hide `*.import` files in the system file manager on Windows",
+  "up": 10,
+  "updatedAt": "2023-07-30T21:56:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/801"
+}

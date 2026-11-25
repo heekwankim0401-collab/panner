@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the editor experience out of the box",
+    "format": "form",
+    "workaround": "It would be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-07-09T09:55:25Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 10159,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow editing GPUParticles2D visibility rect with handles",
+  "up": 3,
+  "updatedAt": "2024-07-09T13:35:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10159"
+}

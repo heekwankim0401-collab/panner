@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "You can barely look up any tutorial on \"data driven game design\" without the liberal use of data duplication. It's an incredibly powerful and flexible way to design games that is common practice with other engines. Godot clearly recognizes this with the addition of the \"Local to scene\" toggle but that just isn't good enough and creates the opportunity for that toggle to simply fail in edge cases because the engine isn't designed to accommodate it.\n\nLook up \"Godot resource duplication\" or \"Godot node duplication\" and just about all you will find are people who are confused about why this isn't Godot's default functionality. It's literally every result on the first page aside from Godot's documentation as I write this. \n\nI'm only so plugged into the community but my personal experience is exclusively that nobody wants Godot's data duplication philosophy to be what it is. Figured I'd post this and see if people actually agree.",
+    "format": "form",
+    "workaround": "The only workaround I've found is instantiating a new version of the base resource that doesn't exist yet, then manually copying all variables from the duplicated resource to the new one. With every change that is made to any object that needs to be duplicated changes to the duplication code are thus required and this is the only workaround I've managed to find through forums and tutorials."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-07T21:13:18Z",
+  "comments": 3,
+  "createdAt": "2024-12-07T04:08:00Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11306,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Data Duplication Philosophy Change",
+  "up": 0,
+  "updatedAt": "2024-12-08T17:02:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11306"
+}

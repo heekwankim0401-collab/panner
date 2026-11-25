@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is an improvement to the GitHub workflow for Godot, not the engine itself.",
+    "format": "form",
+    "workaround": "A user could set up a shell script to generate a full set of export templates and package it into a TPZ file that they could then install (or, the script could install the templates itself). However, this would require a lot of time and processing power from the user."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-03-09T22:50:40Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 11957,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Generate export template set as GitHub Actions artifact",
+  "up": 1,
+  "updatedAt": "2025-03-22T17:46:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11957"
+}

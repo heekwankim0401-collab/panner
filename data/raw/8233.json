@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's for the editor.",
+    "format": "form",
+    "workaround": "Not really, you would have to re-implement `TabBar`."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-30T16:49:53Z",
+  "comments": 0,
+  "createdAt": "2023-10-22T23:37:41Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 8233,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow no tabs to be selected in `TabBar` and `TabContainer`",
+  "up": 1,
+  "updatedAt": "2024-01-30T16:49:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8233"
+}

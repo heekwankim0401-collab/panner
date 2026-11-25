@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Same as above, this should work well out-of-the-box. Also, this is an enhancement and hopefully not too hard to implement.",
+    "format": "form",
+    "workaround": "This needs to be a visible, fast, and intuitive workflow. It should be something people use to make jam games (in addition to normal games/art)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-10-15T07:28:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5595,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve CanvasItem Clip Children for more flexibility",
+  "up": 10,
+  "updatedAt": "2022-10-15T17:28:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5595"
+}

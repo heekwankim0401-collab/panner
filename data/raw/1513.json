@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is not something that can be implemented as a (simple) add-on. Additionally, this would make scenes/scripts work more consistently.\n\n**Previous Discussion**\nhttps://github.com/godotengine/godot/issues/27834\nhttps://github.com/godotengine/godot/issues/28712",
+    "format": "legacy",
+    "workaround": "A workaround is to instead have an additional `init(...)` function and call it right after instancing the scene."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 41,
+  "createdAt": "2020-09-15T03:43:45Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1513,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make it possible to pass arguments to `PackedScene.instance()`",
+  "up": 129,
+  "updatedAt": "2024-12-04T17:38:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1513"
+}

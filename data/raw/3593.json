@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Environment is Core.",
+    "format": "form",
+    "workaround": "No way to Workaround atm."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-20T09:54:19Z",
+  "comments": 11,
+  "createdAt": "2021-11-24T21:19:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3593,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Option for Environment's Reflected Light Soruce to be a Different Sky from the Background",
+  "up": 1,
+  "updatedAt": "2022-01-16T23:02:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3593"
+}

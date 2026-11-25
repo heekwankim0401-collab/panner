@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "the `Node` class is a part of the core",
+    "format": "form",
+    "workaround": "we can rewrite it each time we want to use it, but it's less convenient"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-05T14:35:16Z",
+  "comments": 3,
+  "createdAt": "2023-02-14T22:17:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.2",
+  "number": 6288,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `get_tree_string()` and `get_tree_string_pretty()` methods to Node to complement printing methods",
+  "up": 6,
+  "updatedAt": "2023-10-05T16:01:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6288"
+}

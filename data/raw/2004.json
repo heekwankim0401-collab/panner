@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "We already have `str.format` in core. It would only be logical to make it feature complete instead of providing a string operations library in the asset lib",
+    "format": "markdown",
+    "workaround": "You can implement your own format function, but depending on the number of features you need, it could become a bit large.\n\nYou could use the `%` syntax as well, but there may be reasons, why you can't. An example would be format strings in translations. The formatting arguments may not be needed in the same order for different languages, that's why you need to use named arguments, which can't be done with `%` formatting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-12-20T16:32:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2004,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement the format string features (`str.format()`) available in Python",
+  "up": 10,
+  "updatedAt": "2025-03-07T18:31:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2004"
+}

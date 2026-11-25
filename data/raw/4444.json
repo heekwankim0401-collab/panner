@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Editor and project settings are part of editor.",
+    "format": "form",
+    "workaround": "Technically doable with a plugin, but this should be in editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-04-24T21:43:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4444,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove obsolete/undefined Editor and Project settings",
+  "up": 10,
+  "updatedAt": "2024-05-28T08:36:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4444"
+}

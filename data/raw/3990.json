@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be an additional method to an existing core class, and as such could not be located in a separate library.",
+    "format": "form",
+    "workaround": "I don't believe so - the performance of pixel-by-pixel image processing in scripts would be horrendous."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-18T21:56:05Z",
+  "comments": 3,
+  "createdAt": "2022-02-18T02:48:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3990,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add interpolate method to Image class",
+  "up": 1,
+  "updatedAt": "2022-02-18T22:25:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3990"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "As it can be seen from the plugin, the scrip implementation is a bit hacky, mostly because picking and camera focusing functionality is not adequately exposed to scripting. The performance too is not ideal. Afaik, picking gizmos cannot be ray tested on demand so a triangular mesh of every geometry object in the scene needs to be re-created on-the-fly. Native code implementation is by far simpler, more robust and performs better.\n\nBeside technical reasons, it really sounds like it belongs among existing built-in camera navigation features.",
+    "format": "form",
+    "workaround": "Imo, it in fact may be used quite frequently if available. Script workaround is not simple if the goal is full functionality for all types of geometry."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-30T23:42:08Z",
+  "comments": 2,
+  "createdAt": "2026-01-30T20:12:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14116,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "3D editor camera navigation: Focus on clicked point",
+  "up": 3,
+  "updatedAt": "2026-01-30T23:42:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14116"
+}

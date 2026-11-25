@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Better logging of errors is always nice. This should not be optional.",
+    "format": "form",
+    "workaround": "It will probably always be used if there is a compile error with the source generators."
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-16T15:16:07Z",
+  "comments": 6,
+  "createdAt": "2023-05-04T21:51:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6811,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Improve C# source generators compile error/warning feedback",
+  "up": 1,
+  "updatedAt": "2026-05-16T15:19:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6811"
+}

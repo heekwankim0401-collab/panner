@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Why Native Support in Godot Is Better Than an Extension\n\nWhile it might be possible to use an external GDNative/GDExtension or third-party tools to enable DualSense adaptive triggers, this approach has several drawbacks compared to a native implementation in Godot:\n\n    Cross-Platform Compatibility\n\n        Many existing solutions, like DualSenseX, are Windows-only and don’t work on Linux/macOS.\n\n        A native implementation in Godot would ensure uniform support across all platforms.\n\n    Better Performance & Stability\n\n        Extensions often rely on workarounds (e.g., injecting inputs via external APIs), which can introduce latency or bugs.\n\n        A built-in solution would be optimized and fully integrated with Godot’s existing Input system.\n\n    Ease of Use for Developers\n\n        A native API would allow developers to access adaptive triggers directly via Input or Joypad classes, instead of relying on external dependencies.\n\n        It would also make it easier to manage updates and compatibility with future Godot versions.\n\n    Long-Term Maintenance\n\n        Third-party extensions may become outdated or unsupported over time.\n\n        Official support in Godot ensures that the feature is maintained alongside engine updates.\n\n    Broader Adoption & Community Support\n\n        If adaptive triggers are natively supported, more developers will use them, leading to more feedback and improvements.\n\n        It could also help improve controller support in general within Godot.\n\nConclusion\n\nAdding native support for DualSense features would provide a better developer experience, better performance, and wider accessibility compared to relying on external extensions.\n\nWould it be possible to consider this for a future Godot update?",
+    "format": "form",
+    "workaround": "**Current Workarounds:**\n\nSome developers try to use third-party solutions like DualSenseX, but these are Windows-specific and not a long-term solution. A native implementation in Godot would allow full support across platforms."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-03-27T17:29:35Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 12087,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add support for DualSense adaptive triggers and haptic feedback",
+  "up": 20,
+  "updatedAt": "2026-11-10T11:17:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12087"
+}

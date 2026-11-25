@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-06-25T16:48:57Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15082,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an equivalent of `FileAccess.store_32()` for signed integers",
+  "up": 0,
+  "updatedAt": "2026-09-07T00:44:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15082"
+}

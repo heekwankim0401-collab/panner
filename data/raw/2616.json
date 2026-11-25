@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would need to be core as the work arounds are inefficient, by adding collision objects to the ignore list and having to repeat calls to intersect_ray or by using RayCast. I could see it as an asset library add-on but that add on would  seem  to need the internals of the physics servers.",
+    "format": "markdown",
+    "workaround": "RayCasts can be called sequentially, by adding collided objects to the ignore list. It works but incurs an overhead of repeated calls or waits over physics_process frames."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-04-16T16:43:13Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2616,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add PunchThrough RayCast",
+  "up": 2,
+  "updatedAt": "2024-04-29T09:52:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2616"
+}

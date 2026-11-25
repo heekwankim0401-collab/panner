@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know",
+    "format": "form",
+    "workaround": "Yes,infact you don't even need any extra line just\n`mesh.get_active_material(0)`"
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-23T14:37:31Z",
+  "comments": 2,
+  "createdAt": "2024-08-29T19:09:15Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 10597,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make `MeshInstance3D.get_active_material(int p_surface)` use `0` as a default value",
+  "up": 4,
+  "updatedAt": "2026-06-23T14:37:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10597"
+}

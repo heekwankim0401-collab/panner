@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it's an expansion of an existing editor feature, to make it work with multiple nodes.",
+    "format": "legacy",
+    "workaround": "Yes, it can. However, this is supposed to be an editor feature, so it isn't ideal to do so.\n\nhttps://godotengine.org/asset-library/asset/603"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-13T20:59:05Z",
+  "comments": 2,
+  "createdAt": "2020-02-23T06:55:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 508,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow creating colliders from multiple meshes at once",
+  "up": 10,
+  "updatedAt": "2025-01-13T20:59:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/508"
+}

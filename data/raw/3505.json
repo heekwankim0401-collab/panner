@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This needs to be exposed by the engine so other tools can use it.",
+    "format": "form",
+    "workaround": "There is no way that I know of"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-10T14:24:56Z",
+  "comments": 6,
+  "createdAt": "2021-11-05T18:34:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.0",
+  "number": 3505,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to get a list of selected resources in the FileSystem dock",
+  "up": 1,
+  "updatedAt": "2025-04-10T14:24:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3505"
+}

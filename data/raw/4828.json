@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "these are core platforms",
+    "format": "form",
+    "workaround": "No, the names will be hardcoded after 4.x is released and cannot be changed due to compatibility breakage"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-06T14:02:12Z",
+  "comments": 3,
+  "createdAt": "2022-07-06T21:57:16Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:buildsystem",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4828,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use macos and ios names for scons platforms",
+  "up": 4,
+  "updatedAt": "2022-09-06T14:02:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4828"
+}

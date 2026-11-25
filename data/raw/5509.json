@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not apply",
+    "format": "form",
+    "workaround": "Simply use MathF instead of Mathf when possible."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-26T22:56:15Z",
+  "comments": 1,
+  "createdAt": "2022-09-28T23:33:06Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.0",
+  "number": 5509,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "About the System.MathF and Godot.Mathf on .NET6",
+  "up": 0,
+  "updatedAt": "2023-01-26T22:57:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5509"
+}

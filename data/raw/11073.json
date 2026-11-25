@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is highly related to the rendering pipeline.\n\nThank you.",
+    "format": "form",
+    "workaround": "It can be workarounded by adding custom shader and add some complexity to the scene with subviewports, but it has limitations. Like this: https://godotshaders.com/shader/screen-space-god-rays-godot-4-3/, which is **very slow** and hard to be properly set up."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-11-02T21:50:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11073,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a screen-space light shafts implementation",
+  "up": 3,
+  "updatedAt": "2026-06-02T13:07:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11073"
+}

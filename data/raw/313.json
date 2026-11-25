@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If need soft slide joint to position from video1 to video2 you need destroy and create new joint per frame.",
+    "format": "legacy",
+    "workaround": "It can be do this via script, but with some bugs and limitations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2019-12-17T13:09:17Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 313,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to set `Joint`'s \"rest\" position in code",
+  "up": 9,
+  "updatedAt": "2023-06-26T05:52:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/313"
+}

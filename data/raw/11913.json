@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I think that anything that reduces significantly the performance when migrating a project from one version to the next should be looked into.\n\nEDIT: I also wanted to add that in this specific case in which someone implements a blocky looking game (like minecraft) most likely for the big mayority of collisions the debug fill will just be disturbing, because the collisions are exactly the same size as the meshes, and there is z-fighting between the actual meshes and the debug fill meshes. Even with a solution for the z-fighting (like a little offset for those debug fill meshes) there isn't much point on having debug fills since in your project you know that every single block of your level layout has a collision of the same exact size as the mesh. There could be other cases in which by default a project does not benefit from debug fill enabled except for a very few element (characters, items and so on). But since this is a class level property, it can't be default true or default false depending on the project, that's why a project setting to just ignore the setting seems to be the best compromise.",
+    "format": "form",
+    "workaround": "I am not sure if there is a workaround for this. I could do a custom class that disables the property at _init() and use that new class instead of CollisionShape3D but I believe that doing that for thousands of collision shapes is not ideal and I would rather work with the default classes. I am however pretty new to Godot so there might be something basic I am not considering."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-03-04T20:17:22Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:physics",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11913,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting to disable the Debug Fill option of CollisionShape3D (for performance reasons)",
+  "up": 3,
+  "updatedAt": "2025-03-05T15:04:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11913"
+}

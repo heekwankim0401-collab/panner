@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-26T13:55:24Z",
+  "comments": 1,
+  "createdAt": "2026-04-27T10:52:55Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": "4.8",
+  "number": 14745,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose Jolt 6DOF angular spring/linear max torque on Generic6DOFJoint3D",
+  "up": 1,
+  "updatedAt": "2026-06-26T13:56:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14745"
+}

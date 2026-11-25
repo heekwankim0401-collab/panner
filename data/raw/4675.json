@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "We're attempting to rename a built-in class.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-29T06:05:01Z",
+  "comments": 2,
+  "createdAt": "2022-06-16T00:55:58Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:audio",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4675,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename every \"OGG\" statement to \"Ogg\"",
+  "up": 10,
+  "updatedAt": "2022-07-29T06:05:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4675"
+}

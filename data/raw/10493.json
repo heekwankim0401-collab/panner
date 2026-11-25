@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement should be part of the core engine because it addresses a common need for flexible and responsive user interfaces, particularly when using assets from various sources. By integrating this feature into the core, Godot would offer a more robust and developer-friendly UI system, reducing the need for external tools and simplifying the workflow for projects that rely heavily on icons. This feature would be widely applicable across projects, particularly those targeting mobile platforms where UI adaptability is crucial.",
+    "format": "form",
+    "workaround": "A potential workaround involves manually resizing icons before importing them into the project or writing custom scripts to handle the scaling. However, this approach is not ideal as it requires additional effort and does not offer the flexibility that a built-in solution would provide."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-24T16:28:06Z",
+  "comments": 1,
+  "createdAt": "2024-08-19T03:52:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.6",
+  "number": 10493,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Dynamic Scaling of LineEdit Icons Based on Control Size",
+  "up": 2,
+  "updatedAt": "2025-11-24T16:28:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10493"
+}

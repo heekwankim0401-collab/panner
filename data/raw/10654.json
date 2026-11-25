@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It would be better if it was consistent and not depending upon if a happens have it",
+    "format": "form",
+    "workaround": "There may be a way to implement this in projects but it'd likely be annoying, break easily, and generally just be more effort that it's worth"
+  },
+  "assignees": 1,
+  "closedAt": "2024-09-13T09:29:09Z",
+  "comments": 5,
+  "createdAt": "2024-09-04T19:18:14Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:gui",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": "4.4",
+  "number": 10654,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for [Ctrl]+[Shift]+[U] unicode input on at least Linux",
+  "up": 0,
+  "updatedAt": "2024-09-13T09:29:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10654"
+}

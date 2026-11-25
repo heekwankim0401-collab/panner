@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an improvement over the `DisplayServer` methods. Everyone doing cross-platform games would benefit from this.\n\nLike said above, you could even add a more advanced `SafetyMarginContainer` node to core that already applies this logic, to improve layouts with an easy feature to push away from unsafe screen areas automatically, regardless of the node's sub rect within the window.\n\nIt would be so much better if game designers can just focus on working on their game layout, without having to worry about custom scripts to deal with specific problematic device features, that many would probably not even have considered. Because there's many variables to account for, this should be in core and \"just work\" for everyone.",
+    "format": "form",
+    "workaround": "I do have a script, but it works only for cutouts. Probably won't do rounded corners (can't test), and trying to improve it to use `DisplayServer.get_display_safe_area()` or `DisplayServer.screen_get_usable_rect()` would require thought on how to deal with window position, and test on multiple devices that I don't have.\n\nI could only test this on Android phones (one normal unobstructed rect and one that has both camera cutout and rounded corners) in a single screen (no external 2nd display), and I've confirmed it works even on a floating window and on side-by-side windows.\n\n<details><summary><b>CutoutsMargin script to apply margins. Use as the top (full rect) control, having other nodes under it.</b></summary>\n\n```gdscript\n# Public domain - Unlicense\n\nclass_name CutoutsMargin extends MarginContainer\n## Sets the margins to avoid display cutouts, like notches, cameras and sensors over the screen.\n\n## Force horizontal symmetry by applying the larger margin to both sides.\n@export var symmetric_horizontally: bool = true\n## Force vertical symmetry by applying the larger margin to both sides.\n@export var symmetric_vertically: bool = true\n\nfunc _enter_tree() -> void:\n\tset_margins_from_cutouts()\n\nfunc _process(_delta: float) -> void:\n\tset_margins_from_cutouts()\n\nvar display_cutouts: Array[Rect2] = []\nfunc set_margins_from_cutouts() -> void:\n\tvar cutouts: Array[Rect2] = DisplayServer.get_display_cutouts()\n\tif cutouts == display_cutouts: return\n\tdisplay_cutouts = cutouts\n\tvar screen_size: Vector2i = DisplayServer.screen_get_size()\n\tvar margin_lt: Vector2i\n\tvar margin_rb: Vector2i\n\tfor cutout: Rect2 in cutouts:\n\t\tvar cutout_center: Vector2 = cutout.get_center()\n\t\tif cutout_center.x < screen_size.x / 3.0:\n\t\t\tmargin_lt.x = maxi(margin_lt.x, roundi(cutout.end.x))\n\t\telif cutout_center.x > screen_size.x * 2 / 3.0:\n\t\t\tmargin_rb.x += maxi(margin_rb.x, roundi(screen_size.x - cutout.position.x))\n\t\tif cutout_center.y < screen_size.y / 3.0:\n\t\t\tmargin_lt.y += maxi(margin_lt.y, roundi(cutou"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-06T19:23:41Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11106,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add (root) window's \"safe area\" method that works regardless of window position, device, screen ID, notch, rounded corners, etc",
+  "up": 8,
+  "updatedAt": "2025-05-06T19:28:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11106"
+}

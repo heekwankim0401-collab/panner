@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I want to potentially rewrite godots node systems as ecs or at least port them over to gdscript.\n\nEventually if I succeed I can make a pull request and merge it here.\n\nThen godot devs could focus more on making gdscript better and getting better introp with gdscript and other languages and it would modualize the engine more.",
+    "format": "form",
+    "workaround": "no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2025-11-21T19:36:49Z",
+  "down": 3,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 13679,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Compile godot with no nodes.",
+  "up": 3,
+  "updatedAt": "2025-11-26T14:35:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13679"
+}

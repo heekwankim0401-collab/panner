@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It can't be done in script. It affects how the engine hydrates a `.tscn` file, as\n\n```\n[node name=\"ActiveArea\" type=\"Control\" parent=\"MainConsole\"]\n```\n\nwill need to add ActiveArea as a node under a different parent than MainConsole, but the Editor will still need to show it as parented under MainConsole when \"Editable Children\" is unchecked. (When it is checked, the nodes will appear at their actual position in the hierarchy, but if it is again unchecked the added children will return to their original hierarchy position.)",
+    "format": "form",
+    "workaround": "I haven't been able to work around this issue in script, and it doesn't seem that there is currently any way to do this at the engine level. Once this is implemented, it is entirely opt-in as it only has any effect with a properly-annotated property."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-25T01:51:04Z",
+  "comments": 24,
+  "createdAt": "2023-10-18T19:49:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8184,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow Scenes to specify where children of instantiations get placed in hierarchy (Shadow DOM)",
+  "up": 6,
+  "updatedAt": "2023-10-25T09:09:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8184"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "It's core."
+  },
+  "assignees": 1,
+  "closedAt": "2024-11-10T18:19:49Z",
+  "comments": 0,
+  "createdAt": "2024-11-03T17:18:34Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:export",
+    "topic:gdextension"
+  ],
+  "milestone": "4.4",
+  "number": 11084,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "On macOS, support non-universal GDExtension binaries for export (or discourage them explicitly)",
+  "up": 2,
+  "updatedAt": "2024-11-10T20:13:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11084"
+}

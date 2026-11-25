@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Probably not pluginable.",
+    "format": "legacy",
+    "workaround": "I don't think so, it's a core thing."
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-01T13:56:23Z",
+  "comments": 3,
+  "createdAt": "2020-08-22T12:26:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1400,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow for easier reloading of resources in the editor",
+  "up": 1,
+  "updatedAt": "2026-05-01T14:16:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1400"
+}

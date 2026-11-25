@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Changes to FileAccess",
+    "format": "form",
+    "workaround": "Not easily"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-12-08T13:55:04Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11316,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "FileAccess should have methods for both signed and unsigned reading and writing",
+  "up": 5,
+  "updatedAt": "2024-12-09T10:16:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11316"
+}

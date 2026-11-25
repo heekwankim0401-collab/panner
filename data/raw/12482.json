@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An average programmer switching to Godot would expect to have this functionality without resorting to a workaround. This is a basic collection operation that one would be delighted to see on the core ItemList control, or disappointed to find absent... [perhaps enough to submit a PR](https://github.com/godotengine/godot/pull/106707).",
+    "format": "form",
+    "workaround": "The absence of this feature means code like this is required:\n\n```gdscript\nvar index: int = add_item(text)\nmove_item(index, desired_position)\n``` \n\nThis uses double the method calls compared to a simpler `insert_item` call, requires allocation of a variable, and makes one's code longer and uglier.\n\nWhereas, you could just be doing this:\n\n```gdscript\ninsert_item(desired_position, text)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-05-23T02:35:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12482,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `insert_item()` method to ItemList",
+  "up": 8,
+  "updatedAt": "2025-05-23T14:48:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12482"
+}

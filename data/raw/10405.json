@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a core feature.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-11T20:19:14Z",
+  "comments": 7,
+  "createdAt": "2024-08-09T13:02:42Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 10405,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a GridMap bottom panel (similar to TileMap)",
+  "up": 33,
+  "updatedAt": "2024-11-13T10:41:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10405"
+}

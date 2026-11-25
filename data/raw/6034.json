@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be a change to Godot's core and could not be implemented by an addon, excepting the workaround stated above.",
+    "format": "form",
+    "workaround": "After seeing [this issue](https://github.com/godotengine/godot/issues/62891) I realized there's an extremely simple pure GDScript way around this limitation:\n\n```gdscript\nstatic func bindv(c: Callable, args: Array[Variant]):\n\tvar res := c\n\tfor idx in range(args.size(), 0, -1):\n\t\tres = res.bind(args[idx-1])\n\treturn res\n```\n\nWhich could be used like `some_signal.connect(bindv(some_callable, [\"foo\", \"bar\"]))`.\n\nWhile this is a very simple and convenient workaround, it is naturally slower than native code due to being GDScript, must be referenced from an arbitrary static class, and adds a small amount of overhead because there are multiple nested `Callable` instances that will be invoked in sequence when the returned `Callable` is invoked.\n\nIf this proposal is rejected for technical or conventional reasons, it seems reasonable to at least document this workaround to accommodate projects that rely on the old `connect` method."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-07T12:22:11Z",
+  "comments": 1,
+  "createdAt": "2023-01-01T22:43:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 6034,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `Callable::bindv` method to GDScript 2.0",
+  "up": 7,
+  "updatedAt": "2023-01-07T12:22:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6034"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is enhancement to the core functionality.",
+    "format": "form",
+    "workaround": "Currently the engine behaves erratically with files, if it is not of the CSV translation format. \n\nAlso it cannot ignore it like other Text file formats as it is also one of the most used text file formats and the extension is being used for importing.\n\nThe basic things to ask is, not to generate the translation file."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-02T09:22:02Z",
+  "comments": 12,
+  "createdAt": "2023-07-18T15:15:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7321,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Additional option for Importing CSV File as Text File",
+  "up": 16,
+  "updatedAt": "2024-10-02T09:50:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7321"
+}

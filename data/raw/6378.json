@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because identity is a common need. OIDC in particular is becoming more and more popular in the web, and so it makes sense that it's becoming more common in the field of games",
+    "format": "form",
+    "workaround": "We could implement this with a plugin"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-03-01T09:16:08Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 6378,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an OIDC client for authentication",
+  "up": 0,
+  "updatedAt": "2023-04-16T21:43:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6378"
+}

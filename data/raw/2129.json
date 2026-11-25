@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a refactor in core.",
+    "format": "markdown",
+    "workaround": "Vertical tabs could be implemented in GDScript, but this proposal is about the refactor to make vertical tabs and more possible in core."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-20T09:36:45Z",
+  "comments": 15,
+  "createdAt": "2021-01-15T08:31:48Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2129,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove the Tabs node in favor of TabContainer",
+  "up": 7,
+  "updatedAt": "2021-11-20T09:50:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2129"
+}

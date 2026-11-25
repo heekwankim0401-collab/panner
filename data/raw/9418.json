@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Input is a core functionality of Godot.",
+    "format": "form",
+    "workaround": "**Edit: I misinterpreted this question - you can quite easily implement this yourself. See AThousandShips' response for the implementation. Original response below.**\n\nSince the default value for the `outer_deadzone` parameter would be 1.0, this is entirely an opt-in feature - no workarounds would be required. It's also better to include this _after_ the current inner deadzone."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-03-30T22:54:51Z",
+  "down": 1,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 9418,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add outer deadzone parameter for Input.get_vector()",
+  "up": 1,
+  "updatedAt": "2024-04-01T22:18:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9418"
+}

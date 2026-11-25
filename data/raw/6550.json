@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think editor plugins can modify the basic buttons. We could make an extra window with Run buttons but that would be overkill to just restore an old functionality. And this enhancement",
+    "format": "form",
+    "workaround": "The point is to reuse it often anyway. For editor plugins, see below."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2023-03-21T17:27:42Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6550,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Keep button to Play Edited Scene besides Reload Playing Scene (current F6) when game is running (as in Godot 3)",
+  "up": 8,
+  "updatedAt": "2025-08-04T16:23:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6550"
+}

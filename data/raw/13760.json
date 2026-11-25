@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Integrating full Blender shading node support into Godot’s core improves the usability and consistency of the 3D editor from the first use. It provides a professional-grade workflow for artists and developers, allowing Blender-created materials to be accurately represented in-game without relying on external plugins.\n\n[REALMAP_1.zip](https://github.com/user-attachments/files/23835065/REALMAP_1.zip)",
+    "format": "form",
+    "workaround": "No. While a plugin could partially address this issue, it affects the core import workflow and is widely relevant across many projects. Implementing this in Godot’s core ensures consistent and reliable behavior for all users."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-01T20:58:10Z",
+  "comments": 4,
+  "createdAt": "2025-11-29T17:32:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13760,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Full support for Blender shading nodes and materials in Godot 4.5 import",
+  "up": 0,
+  "updatedAt": "2025-12-02T15:20:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13760"
+}

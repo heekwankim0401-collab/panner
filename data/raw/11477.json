@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a feature of an array, which is a fundamental data structure.",
+    "format": "form",
+    "workaround": "Yes. :("
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-01-03T03:32:34Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11477,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an Array `sort()` function allowing for key functions",
+  "up": 3,
+  "updatedAt": "2025-01-03T21:16:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11477"
+}

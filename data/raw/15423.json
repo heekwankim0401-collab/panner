@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-28T16:06:47Z",
+  "comments": 3,
+  "createdAt": "2026-08-23T12:28:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 15423,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Implement duration-based animation state events",
+  "up": 5,
+  "updatedAt": "2026-08-28T16:08:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15423"
+}

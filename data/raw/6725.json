@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Many 2D developers want a glow effect, this isn't possible as an asset library add-on\n\nTBH there may be a better solution, but if HDR is currently the roadblock to having glow, then isn't this a better solution than waiting for HDR support, which may never come, and doesnt work on all platforms?",
+    "format": "form",
+    "workaround": "This would be used often in 2D games. There are many ways to achieve glow, and sometimes quickly, but to achieve a proper glow only to specific objects, v4 is lacking a clear+easy solution. \n\nAlso this solution is easier for the developer to use than v3 was."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-13T21:11:47Z",
+  "comments": 4,
+  "createdAt": "2023-04-20T14:08:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6725,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Glow options to CanvasItemMaterial (v4.x)",
+  "up": 0,
+  "updatedAt": "2025-10-11T16:11:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6725"
+}

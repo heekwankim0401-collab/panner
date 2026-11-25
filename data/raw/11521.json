@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's already 99% implemented in the core.",
+    "format": "form",
+    "workaround": "The current workaround is copying the engine code for these calculations to the project. Depending on the stretch_mode values to account for, we would need from a few lines to around 50 lines of engine code.\n\nExposing the already calculated values should be so much easier than using the workaround that I think it should be considered."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-01-09T00:25:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11521,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add actual texture size and offset to TextureRect",
+  "up": 7,
+  "updatedAt": "2025-04-03T03:05:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11521"
+}

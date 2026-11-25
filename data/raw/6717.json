@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The notification are implemented for other platforms, and I think it would make sense to have the core be consistent in how they work on iOS as well.",
+    "format": "form",
+    "workaround": "There's no work around I've found for the close request. However, it seems that a `NOTIFICATION_WM_WINDOW_FOCUS_OUT` notification is posted when entering the background, so you can use that. I only found out about it now by looking through the code, and I think it would be more appropriate and consistent to post the `NOTIFICATION_APPLICATION_FOCUS_OUT` notification since you don't really deal with windows on iOS and the entire application is losing focus."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-21T09:02:25Z",
+  "comments": 1,
+  "createdAt": "2023-04-18T12:35:14Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 6717,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement focus out/in and close notifications on iOS",
+  "up": 1,
+  "updatedAt": "2024-09-22T17:08:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6717"
+}

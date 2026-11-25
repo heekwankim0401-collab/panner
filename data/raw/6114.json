@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "RegEx class is already part of core.",
+    "format": "form",
+    "workaround": "I suppose only way to workaround this is using separate regex for each group and apply them sequentially which increase complexity and code size.\n\nI also found #3487 and #2927 where pattern options workaround was suggested, but after reading PCRE2 documentation I didn't found any of such options for this replace options (_UNKNOWN_UNSET and _UNSET_EMPTY)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-02T16:22:58Z",
+  "comments": 1,
+  "createdAt": "2023-01-17T15:46:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.4",
+  "number": 6114,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to allow RegEx substitution empty replacement groups",
+  "up": 3,
+  "updatedAt": "2024-12-02T16:22:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6114"
+}

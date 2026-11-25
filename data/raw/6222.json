@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This implementation is well suited for my purposes, as there is very little additional overhead to the AnimationTree class, and it allows me to use any animation (not just mixamo) from any source without first needing to convert them to use a root bone.\n\nThis makes the animations also more general purpose, since they can still work normally in a pipeline that doesn't use root motion.\n\n\nSince I mainly use my own version of Godot with a growing number of engine changes, this proposal is only meant to open a discussion about whether others would find it useful and like it adopted for the greater community.\n\nOtherwise, here is a link to the branch where the changes are implemented for anyone who would like to verify what changes were necessary to accomplish this proposal.\nhttps://github.com/qaptoR/godot/tree/master_root_motion",
+    "format": "form",
+    "workaround": "Before implementing the changes outlined above, attempts were made to use the new AnimationTree signals and/or animation method_tracks to set the root motion track (eg. hip) position to `keyframe(0).value`.\n\nsignals however do not fire on looping animations, and the method_tracks fire too late and a visual snapping of the armature occurs as the hip goes back to rest before the function is called.\n\nThis strategy also doesn't allow for blending animations, since the method calls only happen at the start of the animation but the blended animations are not guaranteed to reset on start."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-02-02T19:11:16Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6222,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using an arbitrary AnimationTree root motion track axis lock",
+  "up": 5,
+  "updatedAt": "2023-04-26T11:21:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6222"
+}

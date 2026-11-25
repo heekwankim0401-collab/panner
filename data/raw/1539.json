@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its really annoying to have to null check every time you use a node that might not be ready.\nI think the would be a good way to keep GDScript easy to use and would make it so much less or a pain to write tool scripts",
+    "format": "legacy",
+    "workaround": "idk but its not very beginner friendly if there is."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-16T00:19:28Z",
+  "comments": 12,
+  "createdAt": "2020-09-20T04:01:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1539,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't run `tool` scripts until scene is ready and values are populated",
+  "up": 3,
+  "updatedAt": "2021-04-16T00:24:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1539"
+}

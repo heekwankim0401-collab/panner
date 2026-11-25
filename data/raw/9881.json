@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "the implementation would be rather minimal  and as such generate little bloat to the engine whilst providing a functionality that might not be very common but has clearly generated enough headaches over the years that a first party implementation would be desirable by my estimate",
+    "format": "form",
+    "workaround": "Not to my knowledge, not without using custom c++ modules for the engine anyways, which there seems to be a few on github, but all using woefully outdated versions of the engine"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-03T15:54:47Z",
+  "comments": 3,
+  "createdAt": "2024-06-03T15:20:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 9881,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a simple way to obtain the complete waveform for a given audio file.",
+  "up": 0,
+  "updatedAt": "2024-06-03T16:09:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9881"
+}

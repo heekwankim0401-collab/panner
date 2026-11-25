@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The feature already exists for the TextEdit node.",
+    "format": "form",
+    "workaround": "Not that I am aware of"
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-11T10:20:09Z",
+  "comments": 2,
+  "createdAt": "2023-07-16T09:26:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.2",
+  "number": 7297,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a setting to enable or disable dragging and dropping text with the mouse in LineEdit and RichTextLabel",
+  "up": 2,
+  "updatedAt": "2023-08-11T10:20:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7297"
+}

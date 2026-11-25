@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Being able to refer to resources by name seems like a  core feature that really ought to be included in the editor.",
+    "format": "form",
+    "workaround": "I imagine that this would be used often enough for it to warrant inclusion in the editor.\n\nIt could be implemented using an editor plugin, but I'm not sure whether plugins can modify existing editor tabs. Otherwise such a plugin would have to essentially duplicate much of the existing pattern tab."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-10-06T19:19:49Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5550,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow assigning names to TileSet patterns",
+  "up": 6,
+  "updatedAt": "2023-03-19T16:37:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5550"
+}

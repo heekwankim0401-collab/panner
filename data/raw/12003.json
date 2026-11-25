@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a usability improvement for the Godot editor itself, not a gameplay feature. Making it a core feature ensures a better user experience out of the box without requiring extra configurations or add-ons.",
+    "format": "form",
+    "workaround": "probably,"
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-14T11:21:14Z",
+  "comments": 4,
+  "createdAt": "2025-03-16T04:35:09Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 12003,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Android Editor: Haptic Feedback On Right Click (Long Press Input)",
+  "up": 3,
+  "updatedAt": "2026-03-14T11:33:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12003"
+}

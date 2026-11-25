@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a care enhancement",
+    "format": "form",
+    "workaround": "It can't be worked around"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2023-10-29T21:15:07Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8295,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting to enable deferred rendering",
+  "up": 71,
+  "updatedAt": "2025-05-09T05:04:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8295"
+}

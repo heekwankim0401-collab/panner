@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be core.",
+    "format": "form",
+    "workaround": "If there is a workaround, I do not know about it, and would happily use it. I am here because I could not find one."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-20T23:53:15Z",
+  "comments": 6,
+  "createdAt": "2023-07-20T16:02:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7340,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow INSTANCE_CUSTOM to be accessed in fragment shaders",
+  "up": 0,
+  "updatedAt": "2023-07-21T00:16:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7340"
+}

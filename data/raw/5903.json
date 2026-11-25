@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core change.",
+    "format": "form",
+    "workaround": "This is a core change."
+  },
+  "assignees": 1,
+  "closedAt": "2023-01-22T16:54:45Z",
+  "comments": 0,
+  "createdAt": "2022-12-06T14:11:30Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 5903,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Refactor `StyleBox`'s `get_minimum_size` method to make it virtual",
+  "up": 6,
+  "updatedAt": "2023-01-22T16:55:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5903"
+}

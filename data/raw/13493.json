@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Audio mixing is important :P DAWs often expose panning controls, and it's a big part of authoring audio spaces IMO",
+    "format": "form",
+    "workaround": "Best approach currently requires placing AudioStreamPlayer2Ds with respect to the current canvas size to \"invert\" the current 2D panning algorithm, which becomes less consistent if the 2D listener is moving."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-28T00:29:47Z",
+  "comments": 1,
+  "createdAt": "2025-10-27T23:17:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 13493,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `panning_offset` to AudioStreamPlayer",
+  "up": 1,
+  "updatedAt": "2025-10-28T00:29:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13493"
+}

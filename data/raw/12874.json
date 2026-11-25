@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AudioStreamRandomizer is core, so it wouldn't make much sense to do an add-on simply for a UX change.",
+    "format": "form",
+    "workaround": "This is a UX change for a core class, so no."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-23T20:50:19Z",
+  "comments": 1,
+  "createdAt": "2025-07-26T19:56:07Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.6",
+  "number": 12874,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `AudioStreamRandomimzer` use semitones for random pitch",
+  "up": 8,
+  "updatedAt": "2025-12-28T00:44:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12874"
+}

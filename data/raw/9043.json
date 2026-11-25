@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core functionality.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-15T16:36:10Z",
+  "comments": 4,
+  "createdAt": "2024-02-07T13:53:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 9043,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow multiple fonts to render one \"glyph unit\", like a glyph + diacritics/accents",
+  "up": 0,
+  "updatedAt": "2024-02-15T16:36:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9043"
+}

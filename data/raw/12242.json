@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it's a game engine, not an application framework like Windows Forms, GTK, or Qt.",
+    "format": "form",
+    "workaround": "I haven't seen any games with the same interface behavior as the system, so I have no doubt that these settings will be used by default in every game. As for whether this problem can be solved via script - yes, but it is insanely difficult. All you can do directly with Control is reset focus when moving the mouse via script. However, you cannot replace focus with hover via script, so the only option is to write your own interface elements based on Node2D and sprites or TextureRect + Labels.\n\nUPD: I finally decided to create a separate project to try to solve everything using only standard elements and it's just awful. Global script:\n```gdscript\nextends Node\n\nvar sb_hover: StyleBoxFlat = preload(\"res://custom_control/button_hover.stylebox\")\nvar sb_hover_pressed: StyleBoxFlat = preload(\"res://custom_control/button_hover_pressed.stylebox\")\nvar sbe: StyleBoxEmpty = preload(\"res://custom_control/def_empty.stylebox\")\n\nfunc find_by_class(node: Node, _class_name: String, result : Array) -> void:\n\tif node.is_class(_class_name):\n\t\tresult.push_back(node)\n\tfor c in node.get_children():\n\t\tfind_by_class(c, _class_name, result)\n\nfunc _replace_focus_with_hover() -> void:\n\tvar focused = get_viewport().gui_get_focus_owner()\n\tif get_viewport().gui_get_hovered_control() != null:\n\t\tget_viewport().gui_get_hovered_control().grab_focus()\n\tif focused is Button and focused.focus_entered:\n\t\tfocused.add_theme_stylebox_override(\"pressed\", sbe)\n\t\tfocused.add_theme_stylebox_override(\"hover_pressed\", sbe)\n\t\tif focused.is_pressed():\n\t\t\tfocused.add_theme_stylebox_override(\"focus\", sb_hover_pressed)\n\t\telse:\n\t\t\tfocused.add_theme_stylebox_override(\"focus\", sb_hover)\n\tvar tmp_arr: Array\n\tfind_by_class($\"..\", \"Button\", tmp_arr)\n\tfor n in tmp_arr:\n\t\tif n != get_viewport().gui_get_focus_owner():\n\t\t\tn.add_theme_stylebox_override(\"pressed\", load(\"res://custom_control/button_pressed.stylebox\"))\n\t\nfunc _process(delta: float) -> void:\n\t_replace_focus_with_hover()\n```\nIt's crooked, but at least it works (not rec"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-30T14:40:19Z",
+  "comments": 5,
+  "createdAt": "2025-04-15T10:10:16Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12242,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a project setting to make hover styles replace focus styles",
+  "up": 1,
+  "updatedAt": "2025-12-01T10:50:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12242"
+}

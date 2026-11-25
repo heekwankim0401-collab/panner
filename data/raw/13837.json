@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "From 2D top-down games, that will be able to have easy and efficient Z-levels, also every other user-scenario that uses multiple layers of overlapped TileMapLayers can have an easier and more efficient implementation",
+    "format": "form",
+    "workaround": "I've already tried myself to create a wark around and also[searched online](https://www.reddit.com/r/godot/comments/1fkhvwy/is_there_any_way_to_access_the_collisionbodies_of/) but it seems not possible.\nThat's because the TileMapLayer don't have a stable list of used physics RIDS."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-12-11T18:01:03Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13837,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Assign physics space override to `TileMapLayer` for different Z-levels",
+  "up": 4,
+  "updatedAt": "2026-03-25T21:26:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13837"
+}

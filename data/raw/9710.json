@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As a built-in function, hexagonal tilemap should match the corresponding astargrid2d.",
+    "format": "form",
+    "workaround": "It can be solved by using `astar2d` instead of `astargrid2d`, but it is more troublesome. Pathfinding based on tilemap coordinates should be more performant."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-05-09T06:59:05Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 9710,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add pathfinding support for hexagonal tilemaps to AStarGrid2D",
+  "up": 10,
+  "updatedAt": "2024-05-19T17:57:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9710"
+}

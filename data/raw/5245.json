@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be useful to anyone doing 2D puppet/cutout animations.",
+    "format": "form",
+    "workaround": "AFAIK there's no easy way around this if you want smooth animation and blends."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-27T06:09:26Z",
+  "comments": 1,
+  "createdAt": "2022-08-24T11:06:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 5245,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to control rotation direction in AnimationPlayer",
+  "up": 4,
+  "updatedAt": "2022-08-27T06:09:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5245"
+}

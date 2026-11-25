@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not sure. I suppose a node type could be created that generates the textures from the parameters on the fly? The large textures would still get in the way in the editor, and I suspect it could be done more efficiently in core, but I'm no expert. In any case, I think a lot of people would enjoy having this out of the box.",
+    "format": "form",
+    "workaround": "These shapes can be created easily enough with image textures. But with a slower workflow, relying on other image editing software, and doesn't allow real-time feedback on the effect of changes."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-24T21:39:14Z",
+  "comments": 6,
+  "createdAt": "2021-10-19T14:20:15Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 3444,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to use a mathematically defined PointLight2D texture",
+  "up": 0,
+  "updatedAt": "2022-03-24T21:39:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3444"
+}

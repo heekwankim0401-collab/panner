@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "yes",
+    "format": "form",
+    "workaround": "Using the signals is the current way to do it, like this:\n```gdscript\n\n# these could also be connected directly from the inspector, but the issue is the same.\nfunc _ready() -> void:\n    connect(\"mouse_entered\", self, \"do_enter_animation\");\n    connect(\"mouse_exited\", self, \"do_exit_animation\");\n\nfunc _input_event (viewport: Object, event: InputEvent, indx: int) -> void:\n    # ... other events\n\n# yes... do_enter_animation and do_exit_animation could be connected directly to the signals,\n# but remember that people usually do functions wrappers for signals.\n\nfunc _on_mouse_entered() -> void:\n    do_enter_animation();\n\nfunc _on_mouse_exited() -> void:\n    do_exit_animation();\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-04-11T09:27:52Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 6680,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Adding mouse enter and mouse exit events as InputEvents",
+  "up": 0,
+  "updatedAt": "2023-04-11T19:31:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6680"
+}

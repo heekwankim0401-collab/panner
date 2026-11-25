@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Since this is a _built-in_ property for the **base** Node class, it would only make sense to have this feature be something out of the box as opposed to something the user would have to install.",
+    "format": "form",
+    "workaround": "This _could_ be accomplished through script, however it is not really convenient to keep track of. Although the manual implementation could utilize a combination of signal and timers to achieve the same effect, managing this manually would require a lot more effort and clutter (especially with managing multiple nodes with different rates) rather than a builtin property that can be managed directly. This implementation also allows for inheriting the parent's `process_rate` -- similar to `process_mode` -- for even _easier_ organization."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-17T20:28:46Z",
+  "comments": 8,
+  "createdAt": "2025-05-05T05:24:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12371,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a Node property to specify a reduced processing rate",
+  "up": 7,
+  "updatedAt": "2026-04-17T22:06:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12371"
+}

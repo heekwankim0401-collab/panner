@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's not a feature",
+    "format": "form",
+    "workaround": "Simply don't use the this attrs."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-12T10:24:32Z",
+  "comments": 1,
+  "createdAt": "2022-09-12T08:45:25Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 5406,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Slave and Sync attributes in C# should be marked deprecated",
+  "up": 0,
+  "updatedAt": "2022-09-12T10:24:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5406"
+}

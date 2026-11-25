@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Optimally everyone should have some kind of documentation to keep their project on track (along with keeping a team in sync). \"Failing to plan is planning to fail.\" Seeing as this is advantageous to everyone, it should be provided to everyone.\n\nI can write several paragraphs on how beneficial documentation is if needed (but please don't make me).",
+    "format": "legacy",
+    "workaround": "Definitely not a few. I have not worked on the editor and am unsure how easy it would be to add."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-24T18:29:37Z",
+  "comments": 5,
+  "createdAt": "2020-08-25T05:22:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 1409,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for editing manual/tutorial Markdown files in the script editor",
+  "up": 12,
+  "updatedAt": "2024-10-24T18:43:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1409"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It could be, but again, it would be nice to have such ha feature in the engine, as it's quite hard to get right by hand(to create all the shapes and the joints perfectly to create the soft body effect).",
+    "format": "form",
+    "workaround": "Maybe, with a lot of lines of script, but it would be nice to have this, since we already have SoftBody3D, for consistency."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-07-30T21:12:39Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7416,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add SoftBody2D Node",
+  "up": 15,
+  "updatedAt": "2023-07-30T21:42:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7416"
+}

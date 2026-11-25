@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This can be used to store simple data for 1 class out of the box and this exists in every programming language.",
+    "format": "form",
+    "workaround": "This can be worked around with custom resources and classes but this is tedious to set up and classes cannot be exported in the inspector."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-14T07:16:53Z",
+  "comments": 1,
+  "createdAt": "2023-10-14T07:00:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8110,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow structs in GDScript",
+  "up": 0,
+  "updatedAt": "2023-10-14T07:17:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8110"
+}

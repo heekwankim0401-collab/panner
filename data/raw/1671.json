@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's totally possible to make a plugin which can provide aliases and various other utility methods for manipulating core data structures, like with [`VectorResource` plugin](https://github.com/Xrayez/godot-vector-resource).\n\nAs for me, just renaming `Rect2` to `Rect` would also be enough to resolve this proposal as I'm mostly working with 2D projects personally, yet it would be wrong not to do a similar treatment for `AABB`, because the issue is likely with lack of consistency here, as seen in #1528.",
+    "format": "legacy",
+    "workaround": "Certainly, just use current names, there's no way around it."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-07T16:34:23Z",
+  "comments": 13,
+  "createdAt": "2020-10-15T12:19:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1671,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `Rect2` to `Rect` (and considerations regarding consistency with `AABB` name in 3D)",
+  "up": 6,
+  "updatedAt": "2024-08-23T23:31:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1671"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "With an implemented proposal like #1316 this would be an option for an extension. However, this is something every developer will come across in their projects, I do feel this would be a worthwhile addition to core.",
+    "format": "form",
+    "workaround": "Without a proposal like #1316, I don't see a possible elegant solution. It is as of yet possible to achieve the same _functionality_, but this proposal would implement a simpler _syntax_. This is equivalent to what the documentation on `@onready` states: `It can replace (...) code with a single line`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-11-27T09:38:25Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8525,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an annotation for dependent/computed variables in GDScript",
+  "up": 1,
+  "updatedAt": "2023-11-27T10:50:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8525"
+}

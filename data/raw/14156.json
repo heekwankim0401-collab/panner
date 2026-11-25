@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "**Is there A Reason Why this Should Be core Engine:** Yes It should be already in the Engine\n\n1. Editor UI & Gizmo Integration:An add-on cannot easily modify the 3D/2D Viewport toolbars or create native draggable Gizmos that feel responsive and high-performance. To make \"Visual Dead Zones\" work, the handles must be integrated into the engine's core C++ source to ensure they work perfectly with the editor's undo/redo and snapping systems.\n\n2. Out-of-the-Box Professionalism:\nDevelopers coming from Unity (Cinemachine) or Unreal expect these tools to be Standard. Forcing every new user to search the Asset Library for a basic \"Target Group\" or \"Visual Margin\" tool creates unnecessary friction and makes Godot look less \"ready-for-production\" than its competitors.\n\n3. Performance & Stability:\nNative C++ implementation for dynamic camera framing and zoom calculations is more performant than running these math operations in GDScript every frame. Furthermore, making it Core ensures it is maintained by the Godot team and won't break or become \"abandoned\" during engine updates (e.g., moving from 4.x to 5.x).\n\n**Short Answer:** It should be Core because it's a Workflow Improvement that requires deep editor integration which add-ons cannot provide as effectively or performantly.\n\n\n\n\"By making these features Core, Godot moves away from 'guesswork' and provides a professional, visual-first workflow for camera framing And By That Developers From Unity And Unreal Engine Will Give Godot Engine A\nTruly Chance to prove it's self\"\n\n**[At the End]**\n\"I suggest These Features To Make Godot Engine More Greater More Powerful More Easier Than What it is now And i'am Not Saying That Godot Is Bad absolutely No Godot Haven't Been That Powerful Since it's Start And I hope It's Become More Powerful than How powerful he is now So Another Developers Like Unity Developer Or Unreal Engine\nDevelopers Check Out Godot And By That Godot Community Become Bigger And More Helpful\"\n\nWrite With Love From A Cre",
+    "format": "form",
+    "workaround": "**Short Answer:** No, not effectively.\n\nWhile a basic \"center-point\" script can be written in a few lines, a production-ready Target Grouping system (that handles smooth dynamic zooming, padding, and target weighting) is complex. Developers currently have to rewrite this same \"Heavy Math\" for every project.\n\nMore importantly, the Editor Workflow cannot be scripted:\n\n1 Visual Gizmos: You cannot easily script draggable colored lines in the Godot Editor viewport via a simple project script. This requires deep integration into the engine's C++ source code to feel native.\n\n2 Friction: Forcing developers to \"blindly\" type numbers into the drag_margin inspector and then test the game repeatedly is a slow, outdated workflow.\n\n3 Standardization: Professional framing tools are now expected by developers coming from other engines. By making this Core, Godot allows developers to focus on Level Design instead of camera math and \"guesswork\" setup.\n\n**Short Answer:** No Not effectively Because A target Group Camera Need's Complex Scripting And Heavy Math"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-05T19:38:36Z",
+  "comments": 1,
+  "createdAt": "2026-02-05T14:00:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "spam",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 14156,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement a Camera Target Group system for automatic multi-node framing",
+  "up": 0,
+  "updatedAt": "2026-02-05T19:57:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14156"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can assets even touch debug collision shape setting in any meaningful way? IIRC no.\n\nOriginal issue: https://github.com/godotengine/godot/issues/31283",
+    "format": "legacy",
+    "workaround": "Not possible to work around AFAIK."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-26T19:13:38Z",
+  "comments": 24,
+  "createdAt": "2020-05-26T18:11:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": "4.4",
+  "number": 906,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "More configurable/custom colors for visible collision shapes debug option (already implemented in 2D)",
+  "up": 27,
+  "updatedAt": "2024-11-29T11:31:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/906"
+}

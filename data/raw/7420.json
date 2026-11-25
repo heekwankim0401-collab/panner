@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As there are still quite a few people in 3.X waiting to jump over to Godot 4.x, removing friction with a (seemingly?) easy fix could help more people transition to the future of Godot.",
+    "format": "form",
+    "workaround": "Work around with going through all capsuleshapes in project. Depending on the project these can be many or few."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-07-31T14:15:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7420,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Autoadjust CapsuleShape2D when upgrading to 4.x from 3.x.",
+  "up": 0,
+  "updatedAt": "2023-07-31T19:22:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7420"
+}

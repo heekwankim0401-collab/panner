@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- Because other engines like Unity and Unreal already have stuff like \"pre-fabs\" if I'm not mistaken. So this seems to be industry standard. Godot is widely known as a \"2D Engine\" and having an intuitive and easy-to-use pattern system would attract lots of 2D devs who want to make platformers or roguelikes or 2D RPGMaker style games or anything else where patterns mixed with random procedural generation would be useful.\n- Because the improvements don't interface with the rest of the engine and have a minimal risk of causing errors. You don't have to use the new system at all if one doesn't want to.\n-Because this isn't just a useful addition, but necessary for the type of game I and many others want to make. (Parzival who created Psychworld on Steam would like this feature, I would like this feature, several Roguelike devs I've chatted with would like this feature, etc). \n-Games like Zorbus, Quasimorph, and more use a prefab system and are out on Steam. An engine should strive for the ideal of being able to make any game that a prospective developer sees on Steam \"out of the box\". Even though that might not be achievable (Dwarf Fortress in Godot when? :D). New developers sort of expect that a game engine can make any game that they see on Steam (at least I did when starting), and are going to be somewhat disappointed if they find out it can't.\n\nI also think it meets meets the basic guidelines set out here for merging something. https://godotengine.org/article/will-your-contribution-be-merged-heres-how-tell/\n\nI will reply to some suggestions made in the comments of the PR below:",
+    "format": "form",
+    "workaround": "You don't have to work with the new multi-layer TileMapPattern system at all if you don't need it. Or the TileMapPattern system in general. It is much more usable than the old system that doesn't allow reorganizing the patterns after creation and I don't know why someone would use the old system."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-08-20T22:39:06Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 10512,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Upgrades to the TileMapPattern System. Related to a current pull request.",
+  "up": 6,
+  "updatedAt": "2024-08-21T08:19:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10512"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this is a very important function and is often used, but it is not very convenient to operate now.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-12-07T13:48:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8604,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow pasting files to the FileSystem dock using clipboard data",
+  "up": 2,
+  "updatedAt": "2023-12-07T17:51:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8604"
+}

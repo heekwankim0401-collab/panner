@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. It is not possible to do this with an add-on.",
+    "format": "form",
+    "workaround": "Independent."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2022-02-10T11:03:20Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3947,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add online filesystem or VCS integration to the web editor",
+  "up": 12,
+  "updatedAt": "2024-09-12T04:01:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3947"
+}

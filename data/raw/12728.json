@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "see https://github.com/godotengine/godot-proposals/issues/7263",
+    "format": "form",
+    "workaround": "No, as this can't be implemented by a script or shader code without modifying the engine. See below."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-08T07:45:46Z",
+  "comments": 4,
+  "createdAt": "2025-07-04T20:06:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12728,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Custom tonemapping LUT: Godot `Resource` format that contains both a shader and data for LUT(s)",
+  "up": 3,
+  "updatedAt": "2025-07-08T09:19:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12728"
+}

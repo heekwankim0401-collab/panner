@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This involves adding functions to the Signal class, as well as adding keywords and  syntax parsing work. This is not something that the asset can be achieved.",
+    "format": "form",
+    "workaround": "This common, we can use more codes ,but this is not  elegant enough and Intuitive ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-01-15T12:22:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14015,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add connect_signal() method to Signal class for simplified child node signal connection",
+  "up": 1,
+  "updatedAt": "2026-01-15T15:29:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14015"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure an add-on has the capability to access the scope of the currently executed line",
+    "format": "form",
+    "workaround": "You can't execute code when the execution stops, I think"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-10T21:50:25Z",
+  "comments": 2,
+  "createdAt": "2024-09-10T19:30:28Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10714,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a debugger expression evaluator/immediate window console",
+  "up": 0,
+  "updatedAt": "2024-09-11T12:39:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10714"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-24T09:34:27Z",
+  "comments": 9,
+  "createdAt": "2026-04-24T06:38:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14725,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a \"virtual node\" that automatically converts to a Resource at runtime and is stripped during export",
+  "up": 0,
+  "updatedAt": "2026-04-25T07:28:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14725"
+}

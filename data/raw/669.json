@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "1st: This is a feature that can be implemented **only** in the core because there is no gd-script that could handly this. \n2nd: This feature can be tricked with code but still on cost of performance - this may work in a low poly game but never in a grafically intense game. It can only be changed in the core of Godot.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-04-14T13:06:40Z",
+  "comments": 5,
+  "createdAt": "2020-04-04T16:21:54Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 669,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Polygon-Viewports",
+  "up": 0,
+  "updatedAt": "2020-04-29T14:07:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/669"
+}

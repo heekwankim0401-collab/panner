@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would be just an additionnal option and would not mean to be something big, no need to make a whole add-on.",
+    "format": "form",
+    "workaround": "It is totally optionnal, it would just help me a lot on my way of coding, and maybe others too."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T12:53:56Z",
+  "comments": 4,
+  "createdAt": "2024-11-05T10:51:49Z",
+  "down": 13,
+  "labels": [
+    "archived",
+    "topic:gdscript",
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 11095,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow using the `@rpc` annotation after the function name in a function declaration",
+  "up": 0,
+  "updatedAt": "2026-07-28T12:54:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11095"
+}

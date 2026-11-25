@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a class function.  Actually, it's very similar to the python `__repr__()` function that gives an output that usually works with `eval()`.",
+    "format": "legacy",
+    "workaround": "See above.  \n\nAn alternative is to include that code snippet on the  https://docs.godotengine.org/en/stable/tutorials/io/saving_games.html page to give the quick work around so it doesn't take up too much of people's time working it out for themselves."
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-11T19:56:35Z",
+  "comments": 2,
+  "createdAt": "2020-08-11T11:17:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1351,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "3D Transform to be constructed from its string representation ",
+  "up": 1,
+  "updatedAt": "2020-08-13T11:19:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1351"
+}

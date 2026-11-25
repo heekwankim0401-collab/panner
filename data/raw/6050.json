@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's just a small QoL enhancement for the editor.",
+    "format": "form",
+    "workaround": "Nope"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-01-05T17:29:47Z",
+  "down": 2,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6050,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use a different icon for singleton scripts and scenes in the Filesystem tree",
+  "up": 8,
+  "updatedAt": "2023-01-05T17:33:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6050"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDScript is core™",
+    "format": "form",
+    "workaround": "No. Trying to call a custom method from withing setter/getter body results in infinite recursion and crash without message."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-21T13:58:34Z",
+  "comments": 6,
+  "createdAt": "2021-09-18T23:26:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3316,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to use Callables as setters/getters",
+  "up": 6,
+  "updatedAt": "2021-09-21T13:58:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3316"
+}

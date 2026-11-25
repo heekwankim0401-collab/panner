@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this can simply be made in an add-on at that level of code.",
+    "format": "form",
+    "workaround": "As specified above, it CAN be worked around but it comes at the cost of readability, and in the case of the colour database mentioned bloats the script to about twice its line count on top of hurting its readability.\nAnd as an extra inconvenience, you will have your autocomplete flooded with dozens of classes that are meant to be anonymous."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-06T13:46:10Z",
+  "comments": 5,
+  "createdAt": "2024-07-06T22:23:15Z",
+  "down": 7,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10132,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add anonymous classes to GDScript",
+  "up": 7,
+  "updatedAt": "2026-09-06T13:46:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10132"
+}

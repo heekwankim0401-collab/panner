@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This couldn't be implemented as an add-on",
+    "format": "form",
+    "workaround": "I couldn't find this."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-29T14:13:00Z",
+  "comments": 2,
+  "createdAt": "2021-08-19T17:31:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.2",
+  "number": 3161,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `EditorInspector.get_inspected_object()`",
+  "up": 0,
+  "updatedAt": "2026-07-29T14:13:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3161"
+}

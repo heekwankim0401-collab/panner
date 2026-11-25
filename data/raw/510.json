@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, Godot already uses the principled shader, and works so well with Blender . . Why not add this, to top it off, make it better . . . :) <3 <3",
+    "format": "legacy",
+    "workaround": "I think a lot of people using Blender would move to Godot, for their games, because of less work, good working-efficiency . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-23T13:30:06Z",
+  "comments": 4,
+  "createdAt": "2020-02-23T08:40:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 510,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Feature : CTRL-C copy Shader trees from Blender into Godot . .",
+  "up": 0,
+  "updatedAt": "2020-05-19T00:13:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/510"
+}

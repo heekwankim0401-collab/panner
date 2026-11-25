@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "By the time someone finds and installs this as an add-on to their MRP, they could likely have just manually removed the `.godot` folder and other unnecessary files from the project themselves. The usefulness of this feature would come with it being built in to Godot so that a user only needs to click a button or two to get what they need. Essentially, I see this feature as going hand-in-hand with \"Copy System Info\".",
+    "format": "form",
+    "workaround": "Godot features the [`ZIPPacker` class](https://docs.godotengine.org/en/stable/classes/class_zippacker.html), which constructs ZIP files. I imagine an editor script could be written to recursively move through the project and add relevant files to the target ZIP file. This is something I'm hoping to try myself, as a prototype for how this functionality could potentially be implemented in Godot itself.\n\nBy default, an editor script to accomplish this task would pack *itself* into the MRP, which wouldn't be ideal, but I imagine it could include code to explicitly exclude itself."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-26T22:02:57Z",
+  "comments": 5,
+  "createdAt": "2024-11-25T18:47:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11233,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Pack Project as ZIP\" function",
+  "up": 5,
+  "updatedAt": "2024-11-26T22:02:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11233"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think an asset library can provide an audio driver.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-08-07T15:10:37Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:audio",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3097,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an sndio audio backend",
+  "up": 2,
+  "updatedAt": "2021-08-09T09:17:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3097"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think alot of \"45 perspective RPGs\" would need this if they include 2D light occlusion",
+    "format": "form",
+    "workaround": "Currently this can not be worked around unless working with sprites instead of tilemaps, highly unrecommended"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-19T13:34:01Z",
+  "comments": 1,
+  "createdAt": "2023-12-19T01:27:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8687,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "2D Light Occlusion with \"walls\" on tilemaps",
+  "up": 0,
+  "updatedAt": "2023-12-19T13:34:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8687"
+}

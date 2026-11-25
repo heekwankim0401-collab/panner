@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not possible to do with script, should be core.",
+    "format": "form",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-10T21:13:28Z",
+  "comments": 32,
+  "createdAt": "2021-06-08T12:15:41Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2841,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Redesign how user interface (Controls) scaling  is presented to the user",
+  "up": 115,
+  "updatedAt": "2022-02-10T21:13:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2841"
+}

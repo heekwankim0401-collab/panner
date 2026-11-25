@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be part of the Tween class which is core as far as I know/understand",
+    "format": "form",
+    "workaround": "It looks like this can be accomplished by using a `tween_callback` like so:\n```gdscript\nextends AnimatedSprite2D\n...\n\nfunc play_attack_sequence():\n    # Character should walk to the position,\n    # play an attack animation, then when done,\n    # walk back to their original position.\n    var tw = create_tween()\n\n    # Walk to target position.\n    tw.tween_callback(func(): play(\"walk\"))\n    tw.tween_property(self, \"position\", Vector2(900, 360), 1.0)\n\n    # Play attack animation, and wait for it to finish.\n    tw.tween_callback(func(): play(\"attack\"))\n    tw.tween_callback(func():\n        tw.pause()\n        await animation_finished\n        tw.play()\n    )\n\n    # Walk to original position.\n    tw.tween_callback(func(): play(\"walk\"))\n    tw.tween_property(self, \"position\", Vector2(200, 360), 1.0)\n    tw.tween_callback(func(): play(\"default\"))\n```\nWhile not too bad, it still feels unnatural to use a reference to the tween within a function it's calling, and/or like overall this kind of use case should be covered by the Tween API. (Perhaps, if this approach is \"safe\" to do, this could be how it works under the hood?)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-11T08:11:43Z",
+  "comments": 2,
+  "createdAt": "2024-07-10T23:00:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 10169,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a method for Tween to wait for a signal",
+  "up": 0,
+  "updatedAt": "2024-07-11T08:11:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10169"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In theory I could create a 3d convex hull mesh by bringing in some other library or implementation and then pass the result into `CSGMesh3D`, but there are reasons I don't want to try:\n* Godot already has convex hull logic. Any additional library would be extra weight.\n* It wouldn't be able to benefit from any optimizations that can happen due to keeping the hull in a more \"native\" format.\n* It's (generally speaking) difficult to get this kind of code working in all exports as an asset/GDExtension rather than as a module/fork.\n\n---\n\nRelated:\n\n* https://github.com/godotengine/godot-proposals/issues/9711\n  * https://github.com/godotengine/godot/pull/91748\n  * https://github.com/godotengine/godot/pull/94321\n* https://github.com/godotengine/godot/pull/100725",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-03T22:14:51Z",
+  "comments": 10,
+  "createdAt": "2024-06-09T16:14:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 9933,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a general-purpose CSGConvexHull3D node",
+  "up": 6,
+  "updatedAt": "2025-03-04T00:05:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9933"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is for core (OS)",
+    "format": "form",
+    "workaround": "Yes"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-10-31T15:03:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13524,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add helper methods to get all feature tags (OS.has_feature())",
+  "up": 0,
+  "updatedAt": "2025-11-01T13:59:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13524"
+}

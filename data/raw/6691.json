@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a missing feature of core.",
+    "format": "form",
+    "workaround": "It is impossible to emulate the Godot-style parser, since the grammar is only expressed inside the engine core, and it can not be called directly from GDExtension."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-04-13T15:26:19Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6691,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide a method for parsing Godot-style `.glsl` dynamically in extensions",
+  "up": 8,
+  "updatedAt": "2024-11-30T17:18:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6691"
+}

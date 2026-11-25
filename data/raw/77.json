@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Simply because the program has to be universal and to reach more people it would be good to maintain a standart in the interface, but with the possibility that we can all understand so that each tool works",
+    "format": "legacy",
+    "workaround": "It's about improving the interface, I don't think it can be created with a script, it seems to me that you have to see deeper things from the engine, although I really don't know how to do it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2019-09-16T12:05:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 77,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Separate the language of the \"tooltips\" and the editor.",
+  "up": 7,
+  "updatedAt": "2026-07-25T08:01:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/77"
+}

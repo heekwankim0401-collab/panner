@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's engine level / logging level code.",
+    "format": "form",
+    "workaround": "There's no solid way to do this at the moment. (I've tried integrating boost.stacktrace and am currently attempting to compile with C++ 23 to make proper stack traces available).\n\nOn POSIX implementations, there's a posix header that provides reasonably useful stack trace functionality.\n\nThe top answer on this stackoverflow provides a decent survey of options.\nhttps://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called"
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-14T13:21:50Z",
+  "comments": 1,
+  "createdAt": "2023-11-14T10:01:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8424,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "C++ - append Call Stacks to the output of `_err_print_error` et. al.",
+  "up": 1,
+  "updatedAt": "2023-11-14T13:22:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8424"
+}

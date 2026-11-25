@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I honestly think it might be better in the asset library, although currently it is in the core.",
+    "format": "form",
+    "workaround": "My understanding is that it can't be addressed with GD Script, as it is a C-level issue of the current code.  I believe that the attempt is to work with FFMPEG, and VP9, and the programming is low-level audio and video stream management."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-05T01:44:06Z",
+  "comments": 9,
+  "createdAt": "2021-07-03T01:59:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2945,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement seeking in VideoPlayer",
+  "up": 5,
+  "updatedAt": "2022-08-05T22:34:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2945"
+}

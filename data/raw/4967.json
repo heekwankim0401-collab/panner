@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the 3D editor usability, especially for people creating their own materials from scratch.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-23T16:28:29Z",
+  "comments": 8,
+  "createdAt": "2022-07-24T17:36:19Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4967,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Only display GeometryInstance3D's material override/overlay properties for meshes that already have a surface material defined",
+  "up": 5,
+  "updatedAt": "2022-08-23T16:57:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4967"
+}

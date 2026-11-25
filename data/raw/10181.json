@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "NA",
+    "format": "form",
+    "workaround": "NA"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-11T18:49:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10181,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose the API for ::Engine directly, thus removing the need to core_bind::Engine",
+  "up": 2,
+  "updatedAt": "2024-07-12T03:04:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10181"
+}

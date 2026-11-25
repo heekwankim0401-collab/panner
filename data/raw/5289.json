@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is for the purpose of writing an add-on. Need engine help.",
+    "format": "form",
+    "workaround": "There is no workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-08-29T18:59:44Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5289,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `_edit_get_rect()` and `_edit_use_rect()` to scripting",
+  "up": 68,
+  "updatedAt": "2025-11-13T05:30:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5289"
+}

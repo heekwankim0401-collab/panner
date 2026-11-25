@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While my use case is somewhat niche, I think the functionality I'm suggesting is fairly sensible. I think [point 6 of the Godot contributor best practices](https://docs.godotengine.org/en/stable/contributing/development/best_practices_for_engine_contributors.html#cater-to-common-use-cases-leave-the-door-open-for-the-rare-ones) applies here, in that certain parts of the audio system (namely how buses and their channels work) are unnecessarily opaque and fixed, which blocks people from implementing their own solutions. The current system abstracts low-level control away from developers in favour of an API that completely locks out some advanced use cases.\n\nThis would also pave the way for more complex audio mixing additions in the future, including things like #9866.",
+    "format": "form",
+    "workaround": "No. It would necessitate rewriting a bunch low-level audio processing code in the core repo. The only workaround (to my knowledge) right now is to just use a discrete audio engine separate from Godot, which is less than practical."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-26T23:19:11Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 10835,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow varied audio channel counts on buses",
+  "up": 5,
+  "updatedAt": "2024-09-30T03:55:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10835"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2026-05-07T05:09:27Z",
+  "down": 3,
+  "labels": [
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 14798,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add DLL import functionality to Godot",
+  "up": 3,
+  "updatedAt": "2026-05-30T16:00:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14798"
+}

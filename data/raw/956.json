@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This requires a change to the Camera node as well as how it interfaces with the rendering pipeline. I also cannot imagine it being a large change, either code-wise or size-wise.",
+    "format": "legacy",
+    "workaround": "I believe these can currently be implemented using a screen-space ViewportTexture and Viewport nodes, however, I haven't tested this, and I imagine the performance would be worse than rendering to the same, default Viewport from multiple cameras. If the performance would be similar, go ahead and close this issue.\n\nThat being said, I do believe using ViewportTextures is still less _intuitive_ than having multiple cameras rendering to a single Viewport."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 34,
+  "createdAt": "2020-05-29T00:13:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 956,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support using multiple cameras in a single viewport",
+  "up": 45,
+  "updatedAt": "2026-08-03T21:46:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/956"
+}

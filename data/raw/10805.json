@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it is related to GDScript.",
+    "format": "form",
+    "workaround": "Yes, used often."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-22T18:51:31Z",
+  "comments": 3,
+  "createdAt": "2024-09-22T14:00:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10805,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a syntactic sugar for signals, so it becomes very easy to quickly connect and invoke signals",
+  "up": 0,
+  "updatedAt": "2024-09-22T18:51:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10805"
+}

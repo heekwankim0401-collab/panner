@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature should be core rather than an add-on because it directly impacts the fundamental export process. It is crucial for optimizing game performance and file sizes across different platforms. Integrating it into the core of Godot would ensure that all users have access to these capabilities without needing additional plugins or tools, making it a fundamental part of the game development workflow.",
+    "format": "form",
+    "workaround": "While some aspects of this feature could be partially managed with scripts or plugins, having native support for customizable export templates would streamline the process significantly. Scripts and plugins may not provide the same level of integration and ease of use, making native support more practical and efficient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-08T10:50:35Z",
+  "down": 0,
+  "labels": [
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 10688,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enhanced Export Flexibility with Customizable Templates for Various Graphics APIs",
+  "up": 3,
+  "updatedAt": "2024-09-18T15:18:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10688"
+}

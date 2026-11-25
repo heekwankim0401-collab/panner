@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Decal is a built-in class.",
+    "format": "form",
+    "workaround": "You can edit the texture to make the normal stronger, but only to a certain degree which might not be enough in some cases."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-27T10:13:42Z",
+  "comments": 1,
+  "createdAt": "2022-12-27T03:29:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6003,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Decals - Normal strength",
+  "up": 1,
+  "updatedAt": "2022-12-27T15:33:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6003"
+}

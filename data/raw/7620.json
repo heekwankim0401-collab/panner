@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it can't",
+    "format": "form",
+    "workaround": "it partially can be hacked around, but you can't track pressure change when the mouse/pen doesn't move: clicking a button on the mouse changes the pressure, but if you don't move the mouse you never hear about it."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-05T20:45:02Z",
+  "comments": 4,
+  "createdAt": "2023-09-07T14:48:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 7620,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `Input.get_pen_pressure()` method",
+  "up": 13,
+  "updatedAt": "2026-01-06T19:16:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7620"
+}

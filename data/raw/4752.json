@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving built-in Movie Maker functionality to make it more usable for long-form video production.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-06-26T00:40:13Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4752,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement support for writing AVI files larger than 4 GB in Movie Maker mode",
+  "up": 12,
+  "updatedAt": "2025-07-04T19:13:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4752"
+}

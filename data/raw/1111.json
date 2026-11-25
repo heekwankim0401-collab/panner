@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Being able to export Godot games for Android is a core feature of the Godot editor/engine.",
+    "format": "legacy",
+    "workaround": "This enhancement will end up being used by everyone who publishes a Godot game to the Google Play Store. The Google Play store will stop accepting APKs and only accept Android App Bundles starting some time in 2021. The only way to build Android App Bundles is by modifying the exporting script inside the Godot engine. There are no simple lines of script that can solve this problem, because the current build system does not use Gradle as the primary build tool."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-23T19:28:24Z",
+  "comments": 2,
+  "createdAt": "2020-06-23T14:38:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1111,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Android App Bundle Support - PR #39761",
+  "up": 0,
+  "updatedAt": "2020-09-18T23:51:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1111"
+}

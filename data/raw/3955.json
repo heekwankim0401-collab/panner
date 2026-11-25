@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be use in cases you want to reduce size of executable and have naming consistency",
+    "format": "form",
+    "workaround": "It would be most likely be used for utility classes, It cannot be worked around"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-30T21:03:01Z",
+  "comments": 10,
+  "createdAt": "2022-02-12T06:23:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3955,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for fully static classes",
+  "up": 0,
+  "updatedAt": "2022-11-01T10:10:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3955"
+}

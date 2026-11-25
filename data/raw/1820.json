@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The inspector is core, and these data structures are core, so how the structures are displayed in the editor should be core.",
+    "format": "legacy",
+    "workaround": "Yes, there are ways to work around this. For 3D, you can just remember to transpose it in your head. For 2D the only way to edit the matrix directly is if you use a `tool` script, which is very un-ideal."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-15T11:06:26Z",
+  "comments": 3,
+  "createdAt": "2020-11-12T06:39:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1820,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reformat Transform(2D) matrix display in the inspector",
+  "up": 6,
+  "updatedAt": "2021-09-15T11:06:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1820"
+}

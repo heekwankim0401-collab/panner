@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form",
+    "workaround": "As GDScript does not currently support any type of metaprogramming the only way is the brute force way. \n\nYet using _set and _get for mass checks or signals is possible, it doesn't really help in the case. Instead of making code simpler and shorter it makes it more complicated and forces developer to duplicate code. And also moves most checks from core to user code in runtime. So, definitely, not a workaround to use in real code.\n\nIt is also possible for simple scripts to be generated from other scripts. And it works like charm except it doesn't. The code does not become simpler to read and modify."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-07-12T06:02:04Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2983,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Default implementations for setter/getter in GDScript.",
+  "up": 6,
+  "updatedAt": "2024-01-29T16:29:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2983"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-18T08:14:44Z",
+  "comments": 3,
+  "createdAt": "2026-05-17T22:55:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14862,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add a method to forward signals to other signals",
+  "up": 0,
+  "updatedAt": "2026-05-18T08:14:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14862"
+}

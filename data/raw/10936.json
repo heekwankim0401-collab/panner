@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is QoL for `GPUParticles`",
+    "format": "form",
+    "workaround": "Yes, by attaching a custom script attached to all `GPUParticles3D` which you want to automatically start, which basically does\n```gdscript\nextends GPUParticle3D\n\nfunc _ready():\n   emitting = true\n```\n\nbut its a chore to do this for every particle."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-08T18:10:39Z",
+  "comments": 1,
+  "createdAt": "2024-10-08T14:12:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 10936,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add autoplay property to `GPUParticles`",
+  "up": 1,
+  "updatedAt": "2024-10-08T18:10:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10936"
+}

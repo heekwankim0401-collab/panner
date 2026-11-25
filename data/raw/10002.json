@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "You want people to help you more with bug reporting, making it easier for you to test things, don't you? let's make it easier for us \"reporters\" as well.",
+    "format": "form",
+    "workaround": "No? I don't know."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-06-20T17:37:59Z",
+  "down": 1,
+  "labels": [
+    "meta",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10002,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an in-editor tool to assist in creating minimal reproduction projects for bug reports",
+  "up": 1,
+  "updatedAt": "2024-06-21T00:21:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10002"
+}

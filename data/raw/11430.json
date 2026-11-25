@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Built-in autocompletion can't be extended.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-10T16:50:01Z",
+  "comments": 1,
+  "createdAt": "2024-12-27T17:24:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.5",
+  "number": 11430,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Suggest type constants as types",
+  "up": 6,
+  "updatedAt": "2025-07-10T19:45:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11430"
+}

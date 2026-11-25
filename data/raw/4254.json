@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it can't",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-25T21:49:19Z",
+  "comments": 2,
+  "createdAt": "2022-03-21T16:57:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 4254,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename \"Ss Reflections\" to \"SSR\" in `Environment`",
+  "up": 5,
+  "updatedAt": "2022-03-25T21:50:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4254"
+}

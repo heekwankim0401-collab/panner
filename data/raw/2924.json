@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "If available, it should be a core feature and maintained as part of the product.",
+    "format": "form",
+    "workaround": "The work-around is not to use vector art, which is really not a workaround :)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 68,
+  "createdAt": "2021-06-27T10:23:43Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2924,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement real-time vector graphics rendering (e.g. SVG, Rive)",
+  "up": 137,
+  "updatedAt": "2025-11-29T22:37:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2924"
+}

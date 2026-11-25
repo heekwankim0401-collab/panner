@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be a function which is part of the Array functions, thus core.",
+    "format": "form",
+    "workaround": "It can be worked around, as I'm currently doing. However, I think it will be used a lot and I also believe that it can be easily implemented by just using the code implementation for 'any' and tweak it to return the object instead of true, or null if no object is found."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-17T09:48:17Z",
+  "comments": 18,
+  "createdAt": "2022-12-27T11:00:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6006,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a find_first function to Array functions",
+  "up": 10,
+  "updatedAt": "2023-09-17T09:51:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6006"
+}

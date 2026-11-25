@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "The current workaround always requires many grid maps or many more tiles."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-07-23T14:37:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 12847,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow more than 1 mesh per cell in Gridmap and Relax multi-mesh rendering requirement",
+  "up": 0,
+  "updatedAt": "2025-07-25T12:44:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12847"
+}

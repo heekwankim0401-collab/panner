@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because I'm suggesting a change to the guidelines of a core component (GDScript)",
+    "format": "markdown",
+    "workaround": "Any user can change it already: from the top menu, find and press on *Editor -> Editor Settings*.\n![image](https://user-images.githubusercontent.com/1292230/120107984-d5f1ff00-c16b-11eb-9e57-835844886c19.png)\nIt will open a new window and you will find on the left, the item *Text Editor* with subitem *Indentation*. There you can change *Type* from *Tabs* to *Spaces*. I recommend leaving *Size* to 4 and enabling *Draw Spaces*.\n![image](https://user-images.githubusercontent.com/1292230/120108002-ec985600-c16b-11eb-94af-490c8b9d532c.png)\n\nChanging the guidelines would standardise this behaviour."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-01T20:34:28Z",
+  "comments": 18,
+  "createdAt": "2021-05-30T14:58:02Z",
+  "down": 30,
+  "labels": [
+    "archived",
+    "topic:codestyle",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2800,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript: Recommend Spaces instead of tabs for indentation",
+  "up": 21,
+  "updatedAt": "2025-07-08T06:23:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2800"
+}

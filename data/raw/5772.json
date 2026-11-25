@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "SceneTree is a core class.",
+    "format": "form",
+    "workaround": "If you hate the names so, so much, you could create your own SceneTree implementation and write wrapper methods around them.\n\n```GDScript\nextends SceneTree\n\nfunc group_call(group: StringName, method: StringName):\n    call_group(group, method)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-11-13T13:06:51Z",
+  "down": 2,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5772,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename SceneTree group methods to begin with \"group\" (`set_group` -> `group_set`)",
+  "up": 8,
+  "updatedAt": "2022-11-13T17:14:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5772"
+}

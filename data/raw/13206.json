@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's standard usability for Mac OS. You can find it on all other code editors.",
+    "format": "form",
+    "workaround": "There is no way to do this through code."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-29T23:48:16Z",
+  "comments": 9,
+  "createdAt": "2025-09-18T02:24:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13206,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for smooth scrolling through tabs in TabBar with the mouse wheel",
+  "up": 4,
+  "updatedAt": "2026-01-18T22:47:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13206"
+}

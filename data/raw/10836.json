@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This will clean up the code and is state of the art for a modern programming language and should be a core feature.",
+    "format": "form",
+    "workaround": "Needs explicit downcast"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-09-27T08:27:31Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10836,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support pattern matching for `is` and `is_instance_of`",
+  "up": 15,
+  "updatedAt": "2024-09-27T12:50:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10836"
+}

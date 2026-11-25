@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core coz it's an extension of GDScript.",
+    "format": "form",
+    "workaround": "Possible by cascading state flags from one loop level to the other.\nAlthough it's possible it makes the code less readable and is also error-prone."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2022-01-09T18:46:43Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3780,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript: add support for break <label> to existing keyword",
+  "up": 27,
+  "updatedAt": "2026-07-17T14:46:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3780"
+}

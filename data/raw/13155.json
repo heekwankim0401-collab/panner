@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "**Yes, this must be a core engine feature because:**\n\n1. **Engine Integration Required**: Modifies core classes (SceneState, PackedScene) that cannot be extended via add-ons\n2. **Thread Safety Dependencies**: Requires intimate knowledge of Godot's internal thread safety mechanisms and ERR_THREAD_GUARD system\n3. **Universal Benefit**: Every Godot project uses PackedScene loading - this improvement benefits the entire ecosystem  \n4. **Performance Critical Path**: Scene loading is in the critical performance path and needs engine-level optimization\n5. **Serialization Format**: Adding binary caching requires integration with resource loading system\n6. **Backward Compatibility**: Must maintain compatibility with existing .tscn files and editor workflows\n\nThe optimization touches fundamental engine systems that are not exposable through the addon API, making it impossible to implement as an external plugin.\n\n**Implementation Phases:**\n- Phase 1: Serialization format optimization (low risk)\n- Phase 2: Property setting and resource preloading optimization  \n- Phase 3: Parallel node creation with comprehensive safety measures\n\nThis systematic approach ensures stability while delivering significant performance improvements to all Godot users.",
+    "format": "form",
+    "workaround": "This enhancement addresses a core engine bottleneck that **cannot be resolved through scripting**:\n\n- Scene loading happens at the C++ engine level before any GDScript execution\n- The performance issues are in fundamental serialization and object creation systems\n- Multi-threading node creation requires deep integration with Godot's thread safety mechanisms\n- Optimizing Dictionary lookups and property setting requires engine-level access\n\nThis is a system-wide performance improvement that benefits **every project** using PackedScene, especially those with complex scenes."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-17T04:18:11Z",
+  "comments": 2,
+  "createdAt": "2025-09-12T09:46:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13155,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Optimize PackedScene loading performance through parallel node creation and batch processing",
+  "up": 0,
+  "updatedAt": "2025-09-17T10:28:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13155"
+}

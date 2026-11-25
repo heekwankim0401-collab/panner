@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core already has APIs for groups (`get_nodes_in_group()`, `is_in_group()`, etc.), so it stands to reason that such a proposal would similarly exist in core for arbitrary subtrees.",
+    "format": "form",
+    "workaround": "Technically yes, but it requires manually traversing the entire tree (naively) every time, or else implementing a potentially-complex cache-based scheme to remember which nodes are currently part of which groups. Such approaches may be difficult for beginners especially to get right."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-06-27T22:31:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2928,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow calling `get_nodes_in_group()` from any subnode instead of just from SceneTree",
+  "up": 35,
+  "updatedAt": "2023-12-01T11:14:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2928"
+}

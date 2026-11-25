@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is part of the same physics system that's already supported by Godot.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2019-10-01T07:10:00Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 116,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add fluid simulation to the 2D physics engine",
+  "up": 11,
+  "updatedAt": "2023-07-25T14:22:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/116"
+}

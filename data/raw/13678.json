@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's useful for tool scripts that extend Resource class",
+    "format": "form",
+    "workaround": "Can be made as an editor plugin to make a custom property editor for this tool's class"
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-15T22:09:50Z",
+  "comments": 11,
+  "createdAt": "2025-11-21T18:57:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13678,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Run a function when the resource is cleared via the inspector",
+  "up": 1,
+  "updatedAt": "2026-11-15T23:08:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13678"
+}

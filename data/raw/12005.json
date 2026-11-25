@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "Nope."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-03-16T16:46:38Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12005,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automate `is_zero_constructible` declarations",
+  "up": 1,
+  "updatedAt": "2025-03-16T19:29:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12005"
+}

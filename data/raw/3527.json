@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is cannot be an addon since it changes the core godot functions.",
+    "format": "form",
+    "workaround": "The nearest work around right now is to use **signals** \n\nSo right now I am using the following.\n\n```csharp\npublic override void _GuiInput(InputEvent @event)\n{\n      if (@event is InputEventMouseButton mouseButton)\n      {\n              unitToMove.MoveUnitToPosition(mouseButton.Position);\n              await ToSignal(unitToMove, \"MovementStopedSignal\");  //Here an await of some sort happens ! Hurray!\n              Debug.WriteLine($\"Movement completed!\"); \n      }\n}\n```\n\nDisadvantage of this approach is that I am forced to work with Signals and the same thing could be done much more elegantly using C# tasks. \n\nSo this would be ideal instead:\n```csharp\npublic override void _GuiInput(InputEvent @event)\n{\n      if (@event is InputEventMouseButton mouseButton)\n      {\n              Task unitMovementTaskResult = unitToMove.MoveUnitToPosition(mouseButton.Position);\n              await unitMovementTaskResult;\n      }\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-10T18:41:00Z",
+  "comments": 3,
+  "createdAt": "2021-11-10T16:11:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 3527,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add async behavior to functions of Godot classes in C#",
+  "up": 0,
+  "updatedAt": "2021-11-10T18:41:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3527"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Doesn't get much more core than UV maps when it comes to 3D.",
+    "format": "legacy",
+    "workaround": "I'd be using it a lot if atlas support isn't some day fixed. The only alternative I see is having a material for every texture needed, which seems terribly inefficient. I would definitely prefer being able to use atlases, especially since I have a ton of legacy content that uses atlases already, but if that isn't an option, I'd want to be using texture arrays with multiple UV maps in their place."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-05T03:09:19Z",
+  "comments": 7,
+  "createdAt": "2020-03-30T08:09:42Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 651,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for named UV maps / Increase the limit of UV maps per material above 2",
+  "up": 6,
+  "updatedAt": "2022-01-05T03:09:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/651"
+}

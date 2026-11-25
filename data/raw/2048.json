@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an engine thing",
+    "format": "markdown",
+    "workaround": "Doesn't seem to be any consistent way to switch it around at the script level."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-03T06:20:46Z",
+  "comments": 8,
+  "createdAt": "2020-12-29T15:28:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2048,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Setting to Swap Y/Z axes to Increase rather than decrease per convention",
+  "up": 0,
+  "updatedAt": "2021-01-03T06:23:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2048"
+}

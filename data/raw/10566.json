@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It really completes Open scene in Editor. In fact, it's common in applications to have Reveal and Open commands side-by-side.",
+    "format": "form",
+    "workaround": "The best is to hover the node, read the path and search it manually.\n\nWe could also write a script using `get_scene_file_path` [doc](https://docs.godotengine.org/en/4.2/classes/class_node.html#class-node-property-scene-file-path) but I'm not sure about the API to reveal a resource in FileSystem, nor to add a contextual menu item."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-28T16:05:39Z",
+  "comments": 2,
+  "createdAt": "2024-08-26T19:30:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10566,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Scene Tree contextual menu or Inspector button to reveal Scene asset in the FileSystem, from either scene instance or Scene edit view",
+  "up": 1,
+  "updatedAt": "2024-08-28T16:14:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10566"
+}

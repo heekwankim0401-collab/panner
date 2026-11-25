@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "form",
+    "workaround": "Not without performance loss and added complexity. If the number of draws depends on something calculated on the GPU, it would cause major performance issues to bring that value back to system memory. The only other option would be to always use a fixed large number of draws, and set VkDrawIndirectCommand::instanceCount to 0 to not draw anything for the commands which are not currently in use, although this still has a slight performance penalty."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-17T21:31:04Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13652,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `RenderingDevice.draw_list_draw_indirect_count()` and add a way to query for hardware support",
+  "up": 0,
+  "updatedAt": "2025-11-17T23:46:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13652"
+}

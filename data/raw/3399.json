@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core editor functionality.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-09T14:13:43Z",
+  "comments": 2,
+  "createdAt": "2021-10-07T17:29:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3399,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add syntax highlighting for code blocks in the editor help",
+  "up": 14,
+  "updatedAt": "2023-09-09T14:13:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3399"
+}

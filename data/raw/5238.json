@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not suggesting a full feature, rather just an extra field. I think if this *were* a full feature to instantiate scenes, requiring a rigid organization structure, this would be better suited as an add-on. I think since this is only exposing one field, it's much more flexible for use in anyone's personal organization system, and possibly for other use cases.",
+    "format": "form",
+    "workaround": "Unfortunately, it cannot... or at least only with reflection."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-25T13:23:25Z",
+  "comments": 3,
+  "createdAt": "2022-08-23T21:25:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 5238,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose static `ScriptPath` for scripts in C# for 4.0",
+  "up": 4,
+  "updatedAt": "2022-08-25T15:00:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5238"
+}

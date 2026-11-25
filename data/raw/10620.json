@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be a core feature of these `Control`s and replaces existing code",
+    "format": "form",
+    "workaround": "This can be generally worked around at least in some cases (with setting the scroll manually, or scrolling to a particular line, etc.) but it involves detecting various conditions when the scroll bars need to be updated (for example when the size of the container changes, or the size of the content changes, and the scroll bar range needs updating, etc.) so it's fragile and hard to accomplish"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-31T15:39:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10620,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using external scroll bars in some `Control`s",
+  "up": 5,
+  "updatedAt": "2024-09-01T17:13:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10620"
+}

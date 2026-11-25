@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same reason as above.",
+    "format": "legacy",
+    "workaround": "I've tried to do it before, but there seems to be no other way of manually updating a viewport through scripting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2020-06-04T14:23:03Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1010,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to update/re-render a Viewport manually",
+  "up": 113,
+  "updatedAt": "2026-04-15T01:24:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1010"
+}

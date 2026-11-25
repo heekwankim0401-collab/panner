@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Same as above.\n\nEDIT: rephrasing",
+    "format": "form",
+    "workaround": "Since this involves JVM belonging to Godot itself, I don't think it can be workaround with a few lines script or in a form of add-on."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-04T15:07:39Z",
+  "comments": 1,
+  "createdAt": "2023-04-22T05:10:45Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:gdextension",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 6734,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Bring back a way to access JNI on GDExtension",
+  "up": 2,
+  "updatedAt": "2023-05-04T15:07:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6734"
+}

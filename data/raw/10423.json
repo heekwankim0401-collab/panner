@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not addon-extendable to my knowledge.",
+    "format": "form",
+    "workaround": "Switch statements can be used to work around this. However, in complicated use-cases this becomes cumbersome. My heightmap example is relatively simple; using this same technique for sampling a fragment color based on a 4-texture splatmap would be more than four times as long.\n\nThis GitHub search shows some more examples of this common pattern which could be avoided with this qualifier (though I couldn't find any for Godot specifically): https://github.com/search?q=texture%28u_Textures%5B9%5D&type=code"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-12T20:46:40Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10423,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for non-uniform indexing qualifier (nonuniformEXT() in GLSL) in shaders",
+  "up": 7,
+  "updatedAt": "2024-08-13T11:55:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10423"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Performance should be built-in from the core of the engine. So this is a must.",
+    "format": "form",
+    "workaround": "Either we should implement this as an experimental feature or improve the gdscript performance."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-20T15:14:30Z",
+  "comments": 6,
+  "createdAt": "2022-08-20T15:10:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5217,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Tip to improve GDscript performance",
+  "up": 0,
+  "updatedAt": "2022-08-20T16:44:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5217"
+}

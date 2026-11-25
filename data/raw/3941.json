@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Input events are already core.",
+    "format": "form",
+    "workaround": "It can be worked around by adding a few parameters to `is_action_*`, but this enhancement will be used often and has the potential to fix some bugs."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-02-09T16:41:26Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:input"
+  ],
+  "milestone": "5.0",
+  "number": 3941,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move exact match (and echo?) to a property of InputEventAction, rather than a function parameter to `is_action_pressed()`",
+  "up": 6,
+  "updatedAt": "2023-02-24T03:26:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3941"
+}

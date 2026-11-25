@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It integrates so nicely and provides a handy time saver for a commonly sought-after piece of functionality that it makes sense to be in core IMO.\n\nI'm not smart or familiar enough with Godot to know if this is possible to do with an add-on.",
+    "format": "form",
+    "workaround": "I'd imagine it'd be used more often than not when importing 3D characters with armatures. I don't believe it can be solved with a few lines of script. \n\nAn import script could probably auto-select bones based on your exact hierarchy but then you're just making a code equivalent of selecting bones in the GUI and you'd have to change your script for every type of armature you're importing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-04-17T03:18:23Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6709,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"Select Bones Symmetrically\" checkbox in the BoneMap inspector",
+  "up": 4,
+  "updatedAt": "2026-01-19T10:12:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6709"
+}

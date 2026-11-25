@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is a core feature. It may be possible to make this an add-on to the asset library but I do not believe the necessary signals / code are exposed in editor.",
+    "format": "form",
+    "workaround": "It's a minor inconvenience if anything but there is no code workaround that I know of."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-27T15:53:50Z",
+  "comments": 2,
+  "createdAt": "2025-07-05T18:22:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12736,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Keep last selected Class visible in Create New Node window",
+  "up": 0,
+  "updatedAt": "2026-03-02T19:04:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12736"
+}

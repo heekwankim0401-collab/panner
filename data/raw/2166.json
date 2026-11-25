@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Stairs are a common enough shape to see use in many projects, and should not be a one-off shape.",
+    "format": "markdown",
+    "workaround": "A CSGPolygon ramp can be a quick substitute, but stairs are a part of almost every building so it should see regular use."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-01-23T20:25:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2166,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add CSG Stairs shape",
+  "up": 15,
+  "updatedAt": "2021-03-30T17:19:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2166"
+}

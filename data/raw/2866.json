@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is on the core String type.",
+    "format": "form",
+    "workaround": "No, this would break backwards compatibility. That means it would have to happen as a major version change."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-18T14:14:14Z",
+  "comments": 3,
+  "createdAt": "2021-06-14T23:01:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2866,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename String's `to_int()` or `is_valid_integer()` so they match",
+  "up": 8,
+  "updatedAt": "2021-06-19T09:07:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2866"
+}

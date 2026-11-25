@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It concerns the security of the Godot project.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-01-04T21:02:14Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 6042,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Sign checksums of official Godot releases",
+  "up": 2,
+  "updatedAt": "2023-01-06T19:04:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6042"
+}

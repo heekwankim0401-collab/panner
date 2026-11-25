@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because is a main feature for those that creates custom shader effects with HDR that would accept the color in HDR, as many other things.",
+    "format": "legacy",
+    "workaround": "Not with a few lines of script, as it would be needed to create a custom editor plugin, with a custom Color class and the scripts would only accept this custom Color class to use easily the HDR function."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-27T14:50:42Z",
+  "comments": 12,
+  "createdAt": "2020-06-10T01:38:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 1031,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an HDR Color toggle and a separated slider for power",
+  "up": 10,
+  "updatedAt": "2025-05-27T14:52:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1031"
+}

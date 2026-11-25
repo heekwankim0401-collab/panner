@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a small quality-of-life improvement that I think everyone will benefit from.",
+    "format": "form",
+    "workaround": "An editor plugin might be able to implement this, but I'm not sure. I'm new to Godot and don't know what plugins are/aren't capable of."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-01-08T18:57:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8834,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor input delay after a crash so keys that are held down when the game crashes aren't immediately entered into the editor",
+  "up": 4,
+  "updatedAt": "2024-01-09T13:06:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8834"
+}

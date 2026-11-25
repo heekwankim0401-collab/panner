@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because that's where it already is, we just miss 3 lines of telling the ClassDB about it (and its accessors, that's the other 2 lines).",
+    "format": "form",
+    "workaround": "it can be worked around by adding a `WorldEnvironment` node and setting the property on it instead (which will then call `World3D.set_compositor` internally on the world of its associated viewport).\n\nit can also be worked around by calling `RenderingServer.scenario_set_compositor`, but that won't actually update the World3D, just work *all the way* around the scenetree/viewport.\n\nneither of them allow the `World3D` resource to retain its `compositor` property in storage."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-05-24T10:45:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9815,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `World3D.compositor`",
+  "up": 0,
+  "updatedAt": "2025-06-20T19:17:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9815"
+}

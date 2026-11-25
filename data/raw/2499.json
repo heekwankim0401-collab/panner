@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Tilemaps are core",
+    "format": "markdown",
+    "workaround": "I guess, but that would require you to know what the function does in the first place."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-15T01:10:04Z",
+  "comments": 2,
+  "createdAt": "2021-03-24T02:12:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2499,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `TileMap.get_cell_autotile_coord()`",
+  "up": 0,
+  "updatedAt": "2022-05-15T01:10:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2499"
+}

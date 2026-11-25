@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "As far as I know, there are no way to register non-GDScript classes from any language other than C++. Even with C++, I don't even know if it's possible to scan C# classes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-04-15T17:46:37Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4405,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Register non-GDScript classes as global classes",
+  "up": 1,
+  "updatedAt": "2022-04-15T18:39:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4405"
+}

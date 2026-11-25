@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because there already exists a similar feature in 3D and also I think there was such an emission shape in the 3.x versions of the particle systems (I have seen it in a tutorial once)",
+    "format": "form",
+    "workaround": "I don't think it can be worked around with a few lines of code but maybe with emission masks by loading in a texture of a ring. But this would not be very flexible because you wouldn't be able to change the sizes of the rings easily."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-10T14:34:57Z",
+  "comments": 7,
+  "createdAt": "2024-07-28T21:34:16Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": "4.6",
+  "number": 10303,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Ring emission shape to CPUParticles2D",
+  "up": 4,
+  "updatedAt": "2025-11-10T14:39:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10303"
+}

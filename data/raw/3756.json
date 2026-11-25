@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I am the maintainer of 3d asset import/export and I listed uses earlier.",
+    "format": "form",
+    "workaround": "* Peformance boost may even involve deleting code!\n* Not a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-05T02:56:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:export",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3756,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Loading/Export gltf2 files causes hitches at load and is noticably slow",
+  "up": 0,
+  "updatedAt": "2022-01-08T18:46:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3756"
+}

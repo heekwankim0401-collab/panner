@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would require changes to paticle storage I suspect.",
+    "format": "form",
+    "workaround": "It can't, from what I can tell, even writing a custom particle process mat it would not have all the required data."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-08-30T11:25:33Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 13099,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to make particle trails use global space even if particles are emitted in local space",
+  "up": 1,
+  "updatedAt": "2025-08-31T18:34:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13099"
+}

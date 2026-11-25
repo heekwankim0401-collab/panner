@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "**AnimatedSprite** and **AnimatedSprite3D** are core.",
+    "format": "form",
+    "workaround": "With a custom script extending from AnimatedSprite, you may overwrite the `play()` method:\n\n```GDScript\nextends AnimatedSprite\n\nvar playing_backwards := false\n\nfunc play(anim: String = \"\", backwards: bool = false) -> void:\n    .play(anim, backwards)\n    \n    playing_backwards = backwards\n```\n\nIsn't this a bit odd, though? Once again, **AnimatedSprite** _already_ has this information, otherwise it wouldn't even play right! It's like noting down the same property twice."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-27T10:08:50Z",
+  "comments": 1,
+  "createdAt": "2022-05-07T11:04:37Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 4506,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose AnimatedSprite's `is_playing_backwards()`",
+  "up": 4,
+  "updatedAt": "2023-01-27T10:13:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4506"
+}

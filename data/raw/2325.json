@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This issue from what I know cannot be fixed from an addon unless I am wrong, this depends on the way godot handles the build process and redirects the calls to the library\n\n![image](https://user-images.githubusercontent.com/16335601/108611256-40610980-73dd-11eb-8ab0-11370a6b7f19.png)",
+    "format": "markdown",
+    "workaround": "It can at the moment be worked around by having a specific branch for freebsd setting the freebsd library as the linux library."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-02-20T23:46:06Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 2325,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Separate Linux and FreeBSD GDNativeLibrary options",
+  "up": 0,
+  "updatedAt": "2022-09-07T20:26:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2325"
+}

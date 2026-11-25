@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, the problem lies in editor UI.",
+    "format": "form",
+    "workaround": "No, the problem lies in editor UI."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-04-30T06:19:05Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6777,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use root_node name as name of Animation Playback Track in AnimationPlayer",
+  "up": 1,
+  "updatedAt": "2023-04-30T06:41:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6777"
+}

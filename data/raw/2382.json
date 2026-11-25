@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems there is no API for drag-drop inspector parameters. And I think it just would be convenient and save a lot of time.",
+    "format": "markdown",
+    "workaround": "No it can't.\nYou can just copy one component after another, but this isn't handy."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-03-01T02:35:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2382,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to drag and drop parameters in Inspector",
+  "up": 6,
+  "updatedAt": "2021-08-19T13:33:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2382"
+}

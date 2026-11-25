@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-08-31T21:35:58Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 15463,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow GDExtensions and modules to emit GDScript \"breakpoint\"-like script errors",
+  "up": 4,
+  "updatedAt": "2026-09-01T17:41:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15463"
+}

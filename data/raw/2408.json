@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I guess the reason is compatibility",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-26T14:11:17Z",
+  "comments": 16,
+  "createdAt": "2021-03-05T20:11:57Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 2408,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add official Windows ARM support and export templates",
+  "up": 23,
+  "updatedAt": "2024-07-26T14:11:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2408"
+}

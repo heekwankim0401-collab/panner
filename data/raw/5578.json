@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Becouse it's new gdscript sintax",
+    "format": "form",
+    "workaround": "Yes, you can use `const` like [here ](https://godotengine.org/qa/22370/bit-flags-in-gdscript).\nBit doing so it will be difficult to add new bitflags at the middle of constants list."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-12T21:54:38Z",
+  "comments": 1,
+  "createdAt": "2022-10-12T21:15:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5578,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add bitfield enums to GDScript",
+  "up": 1,
+  "updatedAt": "2022-10-12T21:57:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5578"
+}

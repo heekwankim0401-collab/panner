@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a basic functionality Path3D should have. \nIt makes it really hard to use Path3D curves without it.",
+    "format": "form",
+    "workaround": "No. You would need to completely re-implement the Path3D gizmo plugin or do some really hacky stuff to add this to it."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-05T15:38:32Z",
+  "comments": 0,
+  "createdAt": "2025-01-27T12:23:58Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.7",
+  "number": 11650,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `Path3D` option to snap to colliders when adding new points",
+  "up": 24,
+  "updatedAt": "2026-02-05T15:38:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11650"
+}

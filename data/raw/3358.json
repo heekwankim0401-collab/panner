@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Directional Shadow Rendering is core.",
+    "format": "form",
+    "workaround": "No, as the Geometry is passed to all 4 splits regardless of everything, and according to the Performance information, each triangle is processed 4 times (1 for each split, so 2 splits halves the processed triangle count)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-28T09:32:30Z",
+  "comments": 3,
+  "createdAt": "2021-09-27T15:50:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3358,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow culling objects from individual shadow splits in DirectionalLight3D shadow rendering",
+  "up": 2,
+  "updatedAt": "2021-09-28T14:15:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3358"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core method in a core class called Node",
+    "format": "form",
+    "workaround": "It can be done using extension methods, but that extension method must be renamed, which maybe ugly\n\n```C#\npublic static class Extensions\n{\n    public static dynamic GetNode2(this Node node, NodePath child) => node.GetNode(child);\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-24T08:34:54Z",
+  "comments": 4,
+  "createdAt": "2023-04-24T07:58:20Z",
+  "down": 1,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6748,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "[C#] make GetNode return dynamic type",
+  "up": 0,
+  "updatedAt": "2023-04-30T18:03:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6748"
+}

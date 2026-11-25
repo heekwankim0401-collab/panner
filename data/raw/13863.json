@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a QOL enhancement.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-12-14T03:57:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13863,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow change session in the SceneTree when running multiple instances",
+  "up": 1,
+  "updatedAt": "2025-12-15T22:23:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13863"
+}

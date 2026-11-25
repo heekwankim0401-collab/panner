@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Part of the render pipe-line.",
+    "format": "form",
+    "workaround": "No. This has to be part of the render pipe-line."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-02-04T16:32:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3914,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add occlusion culling based on proxy/tester meshes",
+  "up": 2,
+  "updatedAt": "2023-09-24T01:01:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3914"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While an add-on probably could provide this feature, at least in the editor, it feels like a feature that the editor itself should have, given that the 'Local to scene' option already exists.",
+    "format": "form",
+    "workaround": "You could probably create an editor plugin that copies a selected node and makes your desired resource unique, but at least with my limited knowledge of editor plugins it seems that getting this plugin to work reliably would be nontrivial and making configuring it straightforward would be even more nontrivial."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-01-28T17:38:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6195,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 'Local To Node' option for subresources",
+  "up": 5,
+  "updatedAt": "2023-01-28T23:06:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6195"
+}

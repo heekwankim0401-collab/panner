@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's an improvement to an existing core feature",
+    "format": "form",
+    "workaround": "yes, mapping old blender-indexes to new name-ordered indexes"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-29T23:27:32Z",
+  "comments": 3,
+  "createdAt": "2024-02-04T00:05:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9019,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for node sorting when importing Blender's .blend files",
+  "up": 2,
+  "updatedAt": "2024-03-01T15:44:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9019"
+}

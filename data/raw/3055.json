@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems like a feature that exists in GDScript, but is out of reach for C#.",
+    "format": "form",
+    "workaround": "Currently, can search through the property list yourself.\nThere are likely other workarounds. Not sure which are the 'safest' with all the caveats on how GetPropertyList works."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-07-28T20:30:48Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 3055,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"HasProperty\" method to C#",
+  "up": 10,
+  "updatedAt": "2024-02-21T19:05:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3055"
+}

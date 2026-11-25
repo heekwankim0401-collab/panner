@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "jumping to error is core feature for code editors",
+    "format": "form",
+    "workaround": "theoretically you can make plugin to simulate button press, and it makes jump to line\n\n_this red message is actually a button._\n![Screenshot from 2024-02-07 16-56-45](https://github.com/godotengine/godot-proposals/assets/36783322/cf62862a-f62d-442f-b999-b6427d4a341e)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-02-07T08:02:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9038,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add hotkey to quickly jump to first error occurrence",
+  "up": 6,
+  "updatedAt": "2024-02-07T16:46:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9038"
+}

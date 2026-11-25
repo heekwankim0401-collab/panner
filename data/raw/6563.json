@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "\"This is about improving the... positional audio usability out of the box\"(sorry i didn't resist!).\nI'm not against an improved AudioStreamPlayer2D node in the asset library but i don't see why this improvement shouldn't be in the base node.",
+    "format": "form",
+    "workaround": "I'm not sure how I would make it but for sure it would be used almost everytime a sound has to be positioned."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-03-24T17:16:10Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6563,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add draggable gizmos to set AudioStreamPlayer2D/3D attenuation",
+  "up": 0,
+  "updatedAt": "2023-03-25T10:05:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6563"
+}

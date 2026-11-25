@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-11-06T18:52:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 15744,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `EditorResourcePreviewGenerator`s to override previously defined generators.",
+  "up": 1,
+  "updatedAt": "2026-11-08T19:31:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15744"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This will improve workflow out of the box and goes in line with the ability to drag and drop stylesheetboxes within the inspector.",
+    "format": "form",
+    "workaround": "Current solution is to open the color properties, make sure to have script notation instead of hex value, copy it and paste it into the code. If you want to cop the code to another field use the hex value instead"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-11-04T20:29:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3498,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow drag/drop of color fields within the inspector",
+  "up": 8,
+  "updatedAt": "2021-11-04T22:01:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3498"
+}

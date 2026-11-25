@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-03-11T10:41:12Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 14427,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add way to set audio output latency outside of project settings and command-line argument",
+  "up": 0,
+  "updatedAt": "2026-03-11T18:47:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14427"
+}

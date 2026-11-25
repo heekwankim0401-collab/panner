@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's very cheap and permits to have very interesting audio processings for very different use cases",
+    "format": "form",
+    "workaround": "I don't think AudioEffects can be added via script. It could maybe be an AssetLib addon, but that's it."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-07T14:46:14Z",
+  "comments": 6,
+  "createdAt": "2025-08-07T13:57:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 12959,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[AudioEffect] Add a bitcrusher effect",
+  "up": 0,
+  "updatedAt": "2025-12-14T19:08:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12959"
+}

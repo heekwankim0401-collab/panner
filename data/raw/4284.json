@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "UndoRedo's behaviour and API are significantly changed by contextual undo (as they will be by any implementation of per-scene undo).",
+    "format": "form",
+    "workaround": "This is an inherent flaw of the editor's undo-related systems. I hope that my implementation can work for Godot or be developed into something that will be accepted, but if nothing else this should prompt more useful discussion about the issue. I genuinely believe this is the right approach for the editor, but keep in mind **I am completely open to other suggestions or viewpoints**; I am **_not_ emotionally invested** in this system and don't mind discarding it for something more fitting, which I would also be willing to develop/PR."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-09T23:54:30Z",
+  "comments": 16,
+  "createdAt": "2022-03-26T12:51:12Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 4284,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Decoupled scene undo implementation [contextual scenes+resources]",
+  "up": 7,
+  "updatedAt": "2022-09-09T23:54:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4284"
+}

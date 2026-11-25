@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Attempts at solving via addon/plugin have already been made, but are proving unsatisfactory, hence the proposal to expand their capability.",
+    "format": "form",
+    "workaround": "It's [about 40 lines of EditorPlugin script code](https://github.com/godot-extended-libraries/godot-plugin-refresher/blob/master/addons/godot-plugin-refresher/plugin_refresher_plugin.gd#L36-L83), but it's *also* executed *VERY* frequently (every time the filesystem changes), and it's just redoing work that the editor has already done & is storing in memory."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-12-09T07:31:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 11323,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a virtual EditorPlugin method callback that triggers when the status of any addon or EditorPlugin changes",
+  "up": 2,
+  "updatedAt": "2025-09-17T07:53:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11323"
+}

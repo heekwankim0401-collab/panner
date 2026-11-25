@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's not possible for this to be an add-on / even as an addon it could easily result in mass data loss.",
+    "format": "form",
+    "workaround": "When renaming a property, you can manually edit every `tscn`/`tres` file that has your script, or turn your script into a tool script and use a setter/getter to transfer the data over, but both of these are highly inconvenient and don't scale well."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-02T17:31:29Z",
+  "comments": 7,
+  "createdAt": "2025-02-28T10:20:31Z",
+  "down": 8,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11870,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Store script property names as case insensitive",
+  "up": 0,
+  "updatedAt": "2025-03-03T22:20:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11870"
+}

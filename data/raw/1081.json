@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it's done very quickly.",
+    "format": "legacy",
+    "workaround": "No, you can't edit delete Nodes from the Enginge xD"
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-19T21:09:50Z",
+  "comments": 1,
+  "createdAt": "2020-06-18T18:28:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 1081,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove the ToolButton node in favor of plain Buttons",
+  "up": 3,
+  "updatedAt": "2020-08-05T07:42:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1081"
+}

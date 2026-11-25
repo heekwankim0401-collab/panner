@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-08-28T21:12:14Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 15452,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatic LTR/RTL detection should be dependent on the script, not language",
+  "up": 0,
+  "updatedAt": "2026-09-01T17:28:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15452"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot strives to be easy to use, however, i don't even see an use case for the current behaviour and have no idea how to work around this without resorting to shaders making this very basic task needlessly complicated.",
+    "format": "markdown",
+    "workaround": "No, to my knowledge, this has to be done with Shaders."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-05-11T10:09:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 2710,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve Light2D Mask mode usability",
+  "up": 0,
+  "updatedAt": "2023-02-12T18:23:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2710"
+}

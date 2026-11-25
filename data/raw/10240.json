@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a built-in Godot class.",
+    "format": "form",
+    "workaround": "Currently, `ENetPacketPeer` does not expose this data at all. I would have to duplicate the send flags in my own packet header, which is wasteful."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-02T13:29:48Z",
+  "comments": 4,
+  "createdAt": "2024-07-17T18:33:27Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.4",
+  "number": 10240,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose ENetPacket.flags through ENetPacketPeer",
+  "up": 1,
+  "updatedAt": "2024-10-02T13:29:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10240"
+}

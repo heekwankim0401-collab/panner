@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-08-03T13:42:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15315,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add editor override for `display/window/size/mode` (windowed/fullscreen) by default",
+  "up": 2,
+  "updatedAt": "2026-09-17T08:46:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15315"
+}

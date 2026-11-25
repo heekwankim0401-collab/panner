@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a useful feature, which improves the UX of the editor.",
+    "format": "form",
+    "workaround": "Not applicable, I think."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-04-09T15:31:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12204,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Temporarily increase slider's range if user manually exceeds the soft limit",
+  "up": 0,
+  "updatedAt": "2025-04-10T08:26:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12204"
+}

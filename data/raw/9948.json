@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a teeny-tiny QoL feature that's basically almost nothing in the source code, and could enhance productivity immensely.",
+    "format": "form",
+    "workaround": "While it's simple enough to just let users set the value to any value but zero to make the foreground layer appear, it's not that convenient to do so. Editor tool scripts also work, but again, you need to do the one-time setup, which doesn't work for me all that well since I publish many games for monetisation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-06-12T05:38:40Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9948,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Set default `ProgressBar::value` to 50 to improve visual feedback in development environment",
+  "up": 3,
+  "updatedAt": "2024-06-12T08:57:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9948"
+}

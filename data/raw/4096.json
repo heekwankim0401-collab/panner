@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-25T11:39:42Z",
+  "comments": 143,
+  "createdAt": "2022-02-23T15:57:46Z",
+  "down": 15,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4096,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add scene-unique nodes to make accessing nodes from code more convenient",
+  "up": 99,
+  "updatedAt": "2022-04-30T10:12:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4096"
+}

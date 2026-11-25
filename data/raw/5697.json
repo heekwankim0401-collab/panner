@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would need to be low level to happen between calls.",
+    "format": "form",
+    "workaround": "It would need to be pretty low level so the user didn’t need to be concerned with it."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-01T15:11:06Z",
+  "comments": 7,
+  "createdAt": "2022-11-01T02:41:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 5697,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "All sounds should have built-in fade on play, seek and queue_free to avoid zero crossing pops/clicks",
+  "up": 0,
+  "updatedAt": "2022-11-01T17:22:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5697"
+}

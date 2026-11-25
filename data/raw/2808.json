@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Probably not possible with an add-on. Provides better feature parity with GLSL and more orthogonality in general since built-ins already use overloading.",
+    "format": "markdown",
+    "workaround": "It will be used fairly often and can't be easily worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-14T19:17:00Z",
+  "comments": 5,
+  "createdAt": "2021-06-01T20:45:54Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.4",
+  "number": 2808,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement function overloading for user functions in the shader language",
+  "up": 28,
+  "updatedAt": "2024-10-14T20:19:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2808"
+}

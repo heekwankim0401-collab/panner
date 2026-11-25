@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should work the same as the other core nodes.",
+    "format": "form",
+    "workaround": "No idea how to work around this if you want to use transparency for the read-only panel."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-17T23:55:08Z",
+  "comments": 9,
+  "createdAt": "2024-09-17T23:23:18Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.6",
+  "number": 10774,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "TextEdit read-only panel display is inconsistent",
+  "up": 1,
+  "updatedAt": "2026-03-17T23:55:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10774"
+}

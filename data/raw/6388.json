@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The focus of this change is improving C# usability. I can't think of any downsides, so it seems fit to include in the engine.",
+    "format": "form",
+    "workaround": "You can run the project from the Project Manager without re-building, but it is inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-03-01T23:02:47Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6388,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Allow running a C# project from the editor without rebuilding .NET project",
+  "up": 17,
+  "updatedAt": "2026-06-30T19:26:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6388"
+}

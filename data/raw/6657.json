@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I can script this myself using visual shaders/shaders but i can't script cpuparticles. I would lose compat with CPUParticles. This is a long running issues when customizing particles, and the reason why particle shaders are not taking off, in my opinion. People care about",
+    "format": "form",
+    "workaround": "Yes it can. But it means losing the particle process material and using a shader, with all the documented hassles of this process.\nIt also means losing compatibility with CPUParticles, which is something that people never want in a professional environment."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-10T22:45:26Z",
+  "comments": 8,
+  "createdAt": "2023-04-08T11:38:52Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": "4.2",
+  "number": 6657,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Particle velocity/direction enhancements",
+  "up": 12,
+  "updatedAt": "2023-10-11T09:08:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6657"
+}

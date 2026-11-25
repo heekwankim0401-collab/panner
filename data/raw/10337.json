@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "form",
+    "workaround": "This runs scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-08-01T16:27:59Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10337,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement compatibility bindings system for Variant methods",
+  "up": 5,
+  "updatedAt": "2025-11-06T14:20:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10337"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is absolutely possible to handle camera permission with GDExtension/GDNative library, but it would feel redundant, and since CameraServer is already there, it wouldn't hurt to add permission-related methods to CameraServer for supported platforms.",
+    "format": "form",
+    "workaround": "Permission-related operation usually requires access to platform-specific API.\n\nWhile `OS.request_permission` exists, it is currently specific to Android, and IMO leaving camera permission handling to CameraServer feels more consistent."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-09T13:07:02Z",
+  "comments": 2,
+  "createdAt": "2024-09-26T09:49:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10829,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add permission-related methods to CameraServer",
+  "up": 0,
+  "updatedAt": "2025-08-11T22:06:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10829"
+}

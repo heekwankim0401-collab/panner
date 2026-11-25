@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Mouse Filter is already core",
+    "format": "legacy",
+    "workaround": "This should be used often, plus it is a modification to an existing API"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-11-05T07:18:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 1775,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Control EventPropagation options rather than MouseFilter",
+  "up": 1,
+  "updatedAt": "2020-11-05T13:49:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1775"
+}

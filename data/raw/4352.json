@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I feel animation state machine is currently very limited and this can make it more flexible.",
+    "format": "form",
+    "workaround": "I feel this is a common enough case for action/animation heavy games. I find it hard to work around without another dummy \"relay\" node, and the dummy node needed to have animation hooked up as well."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-04-05T22:41:15Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 4352,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Allow multiple transitions with the same from and to nodes in Animation State Machine",
+  "up": 10,
+  "updatedAt": "2024-03-06T17:24:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4352"
+}

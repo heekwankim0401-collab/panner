@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is core, effects editor UX, and can't be done in a few lines of script.",
+    "format": "form",
+    "workaround": "It would be used all the time. It can't be done with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-06-24T10:01:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10029,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use `class_name` instead of an UID for script references",
+  "up": 5,
+  "updatedAt": "2024-06-24T17:04:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10029"
+}

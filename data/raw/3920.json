@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Occlusion culling needs to be implemented in core to be fast, as it needs to interact with low-level rendering culling classes.",
+    "format": "form",
+    "workaround": "No, as a complete, user-friendly portals and rooms system requires a lot of code and editor tooling."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2022-02-05T22:51:26Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3920,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Port the portals and rooms occlusion culling (and mesh merging) to Godot 4",
+  "up": 36,
+  "updatedAt": "2025-12-30T15:59:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3920"
+}

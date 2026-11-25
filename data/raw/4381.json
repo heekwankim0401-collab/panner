@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "it is an important feature for advanced animations, and to work around it I will need to add BlendSpace2D for each different state, which will make the tree unreadable for me."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-18T23:39:57Z",
+  "comments": 14,
+  "createdAt": "2022-04-11T10:19:50Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4381,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose Animation Node inside an Animation tree to editable values",
+  "up": 0,
+  "updatedAt": "2022-04-18T23:39:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4381"
+}

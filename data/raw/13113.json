@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is an improvement to the built-in TileMapLayer node and editor workflow, so it should be part of core functionality rather than an add-on.",
+    "format": "form",
+    "workaround": "Not possible in this case, since it concerns editor selection behavior."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-09-01T20:23:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13113,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Keep persistent tile selections per TileMapLayer",
+  "up": 1,
+  "updatedAt": "2025-09-01T22:21:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13113"
+}

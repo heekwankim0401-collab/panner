@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because of theming limitation, Also it can be helpful for the godot editor and project settings to organize it, and can replace the editor inspector sections, also it will be useful for game settings and programs like Pixelorama and GodSvg.",
+    "format": "form",
+    "workaround": "This can be made as an EditorPlugin, but customizing it's look if you have many themes for the project you will need to add the custom type manually to each of them and to define a lot of properties."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-09T14:06:25Z",
+  "comments": 6,
+  "createdAt": "2024-01-26T06:53:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 8974,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add FoldableContainer Node",
+  "up": 35,
+  "updatedAt": "2025-09-16T13:36:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8974"
+}

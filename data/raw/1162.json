@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's a rendering feature and thus needs changes in the core engine\n\n*Bugsquad edit: Reopened from https://github.com/godotengine/godot/issues/40125.*",
+    "format": "legacy",
+    "workaround": "it can only be worked around by not using decals as light emitters, if you want them to contribute to GI"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-07-05T01:06:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1162,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make decals contribute to global illumination",
+  "up": 5,
+  "updatedAt": "2022-07-20T21:32:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1162"
+}

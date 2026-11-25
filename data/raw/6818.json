@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It can't be added by addon.",
+    "format": "form",
+    "workaround": "It can be worked around by using Godot 3, but Godot 4 is more reliable and stable."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-06T21:30:05Z",
+  "comments": 1,
+  "createdAt": "2023-05-06T19:03:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 6818,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Working Export window on mobile",
+  "up": 1,
+  "updatedAt": "2023-05-06T21:30:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6818"
+}

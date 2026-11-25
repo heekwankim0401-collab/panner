@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it involves the inspector and the export functions.",
+    "format": "form",
+    "workaround": "For the clearity in the inspector no, and for the coding it would be also a lot easier and shorter."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-12-03T08:43:50Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11282,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "ExportStructs and Arrays of ExportStructs",
+  "up": 0,
+  "updatedAt": "2024-12-03T12:43:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11282"
+}

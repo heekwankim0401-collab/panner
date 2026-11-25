@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't change CPUParticles.",
+    "format": "form",
+    "workaround": "It can be done with custom particle materials, but it makes it incompatible with CPU particles."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-11-25T16:18:36Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 5849,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add optional randomization to points texture for particle spawn",
+  "up": 2,
+  "updatedAt": "2022-12-17T18:59:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5849"
+}

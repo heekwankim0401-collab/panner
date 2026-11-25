@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is critical for VR to work out of the box.",
+    "format": "markdown",
+    "workaround": "This is critical to any OpenXR application and without the functionality available in Godot the only option is to duplicate the GLTF loader."
+  },
+  "assignees": 1,
+  "closedAt": "2021-03-26T13:37:46Z",
+  "comments": 3,
+  "createdAt": "2021-03-26T03:43:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 2509,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make GLTF (and possibly other) imports available in runtime",
+  "up": 5,
+  "updatedAt": "2021-03-26T13:37:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2509"
+}

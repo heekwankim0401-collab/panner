@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There are existing plugins like https://github.com/Maujoe/godot-custom-gradient-texture, but usability asks for better. I've actually tried to create a new type of `Texture` but it seems like it's impossible to extend the base class via script as seen in godotengine/godot#42830. The only feasible way to create such a thing is by extending `ImageTexture` but even then it lead to various inspector problems.",
+    "format": "legacy",
+    "workaround": "Shaders can be used for this, but not as easy to use for beginners."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-29T16:22:52Z",
+  "comments": 7,
+  "createdAt": "2020-10-16T16:08:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1677,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide a way to create gradient textures in 2D with different types of fill, not just 1D",
+  "up": 16,
+  "updatedAt": "2021-10-29T16:22:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1677"
+}

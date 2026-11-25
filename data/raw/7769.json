@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because it would require a (non-compat-breaking) small api change to core functionality.",
+    "format": "form",
+    "workaround": "no, none of the required functionality are exposed to GDScript nor GDExtension"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-09-20T18:20:04Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7769,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using `ProjectSettings.load_resource_pack()` into a subfolder",
+  "up": 14,
+  "updatedAt": "2023-09-29T13:27:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7769"
+}

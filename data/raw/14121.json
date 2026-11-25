@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is part of rendering pipeline.",
+    "format": "form",
+    "workaround": "Internal scene luminance data isn't available in any way through scripting API as far as I know, so it can't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-01-31T18:48:58Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14121,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose luminance buffer through RenderingDevice API",
+  "up": 1,
+  "updatedAt": "2026-02-02T20:40:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14121"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Rendering is part of core.\nScripts are too slow for this with more complex meshes.\nPlenty of common gameplay and visual effects require to bake the current visual result of blend shapes to a new mesh.",
+    "format": "form",
+    "workaround": "No, and baking meshes like this is also performance heavy so scripts are not the right place."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-22T11:04:06Z",
+  "comments": 3,
+  "createdAt": "2023-10-15T01:15:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation",
+    "topic:rendering"
+  ],
+  "milestone": "4.3",
+  "number": 8122,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to bake blendshape Meshes with their current blendshape mix",
+  "up": 8,
+  "updatedAt": "2024-04-22T11:04:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8122"
+}

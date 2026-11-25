@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This fills a void in the Control nodes where many of the elements you see in the editor already has a Control node of their own.",
+    "format": "form",
+    "workaround": "This can be worked around in a simplistic manner in a moderate amount of code, but to maintain all the details of the editor gizmos will be quite challenging, and a duplicate of work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-12-08T09:38:10Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8614,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Runtime Gizmo Node",
+  "up": 6,
+  "updatedAt": "2023-12-08T12:57:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8614"
+}

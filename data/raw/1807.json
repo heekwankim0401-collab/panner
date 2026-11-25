@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know if it can be done with an add-on at all. I'm going to try, but even if it works, it's not going to be pretty. Implementing this in core is the easier alternative.",
+    "format": "legacy",
+    "workaround": "As far as I know, no. For my project I'm gonna try to make a hacky workaround, since I want it to work without using a custom build. But I'm still thinking about how to do it, I'm open to suggestions. Maybe I'll just try to achieve the same result with a different approach, but I figure these two signals would be pretty useful for other projects anyway."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2020-11-11T22:50:35Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1807,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add per-viewport `pre_draw` and `post_draw` signals",
+  "up": 10,
+  "updatedAt": "2025-07-26T18:00:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1807"
+}

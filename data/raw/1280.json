@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Sprites are a basic building block of every game and it is important that they behave in an intuitive way",
+    "format": "legacy",
+    "workaround": "It will be used very often. Sprites are a basic building block of every game and it is important that they behave in an intuitive way"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-07-30T15:17:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1280,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "If an AnimationSprite animation is finished, and it's Loop is set to OFF, then set its .is_playing() method, and .playing() property to false.",
+  "up": 3,
+  "updatedAt": "2020-07-30T20:00:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1280"
+}

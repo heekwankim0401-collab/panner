@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-28T18:37:40Z",
+  "comments": 4,
+  "createdAt": "2026-09-21T22:25:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.8",
+  "number": 15558,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow extracting theme items from abstract Control classes in the theme editor's Manage Theme Items dialog",
+  "up": 4,
+  "updatedAt": "2026-09-28T18:37:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15558"
+}

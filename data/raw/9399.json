@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature proposal is based on the Pot Generation **core feature**.\nIt's not a bug but it seems essential to me since renaming files during development is something most of us do a lot.\nSince this improvement is not so usable in a real project it doesn't make much sense to make it an asset library IMO.",
+    "format": "form",
+    "workaround": "I don't think so but I'm not sure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-03-28T15:10:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9399,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Translations GetText - Renaming / Deleting files in editor auto updates them in POT Generation menu",
+  "up": 1,
+  "updatedAt": "2024-03-28T16:19:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9399"
+}

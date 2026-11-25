@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Cause conan recipes need to be up-to-date with scons recipes",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-08T21:27:53Z",
+  "comments": 8,
+  "createdAt": "2020-03-20T10:30:03Z",
+  "down": 1,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 606,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot integration with existing open-source or closed-source software (conan support - make all happy with scons, including CMake users) ",
+  "up": 9,
+  "updatedAt": "2020-12-08T21:28:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/606"
+}

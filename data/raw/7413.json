@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's relevant for better bug diagnosing.",
+    "format": "form",
+    "workaround": "Well, the user could post the full output of [vulkaninfo](https://vulkan.lunarg.com/doc/view/latest/windows/vulkaninfo.html) by hand."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-07-30T15:11:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7413,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Editor's \"Report System Info\" should report more critical info",
+  "up": 2,
+  "updatedAt": "2023-07-31T00:57:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7413"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Effects can only be written in the core engine.",
+    "format": "legacy",
+    "workaround": "Effects can only be written in the core engine. The script approach causes stuttering."
+  },
+  "assignees": 0,
+  "closedAt": "2020-01-21T15:03:53Z",
+  "comments": 0,
+  "createdAt": "2020-01-21T13:13:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 399,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Audio effect stream",
+  "up": 0,
+  "updatedAt": "2020-04-29T13:32:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/399"
+}

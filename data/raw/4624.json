@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It must be core since it requires modifying `array.cpp` and `variant_call.cpp` classes.",
+    "format": "form",
+    "workaround": "It cannot be worked around with a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2022-06-03T20:27:40Z",
+  "down": 2,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4624,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement Array for_each(obj, \"func\")",
+  "up": 16,
+  "updatedAt": "2023-05-16T16:25:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4624"
+}

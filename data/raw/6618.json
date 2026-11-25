@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "core",
+    "format": "form",
+    "workaround": "*"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-04T10:00:35Z",
+  "comments": 0,
+  "createdAt": "2023-04-04T03:50:05Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6618,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "expose / show variables value on hover rather than Object:ID xxxxx while debug",
+  "up": 1,
+  "updatedAt": "2023-04-04T11:49:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6618"
+}

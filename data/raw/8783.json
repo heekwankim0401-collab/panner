@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Animation blending is a core feature",
+    "format": "form",
+    "workaround": "Never"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-01-03T14:45:00Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 8783,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add AUX mode to the `AnimationPlayer` to make the `AnimationPlaybackTrack` be blendable like the `AudioTrack`",
+  "up": 4,
+  "updatedAt": "2026-07-25T07:52:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8783"
+}

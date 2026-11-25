@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This functionality requires low level manipulation of editor camera poses (due to ambiguity about implied rotation centers).  libspnav is an relatively elegant software interface and would support a huge range of spacemice for a reasonable amount of code.\n\nThis feature was attempted as a plugin in godot 3.4, and the developer struggled with missing interfaces at the plugin level.  The plugin has broken with the update to 4.x\nhttps://github.com/cybereality/godot-space-mouse\n\nSomeone forked for 4.2, but is a work in progress and only tested on windows\nhttps://github.com/MrVolans/godot-4.2-space-mouse",
+    "format": "form",
+    "workaround": "I believe this feature would be used often once available, as was the case for Blender's support of this feature.  libspnav is an relatively elegant software interface and would support a huge range of spacemice for a reasonable amount of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-25T21:54:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 11031,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use libspnav for open 3d-mouse support",
+  "up": 2,
+  "updatedAt": "2024-10-26T00:45:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11031"
+}

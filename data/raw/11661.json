@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is about shader lang & 2d rendering architecture",
+    "format": "form",
+    "workaround": "Well, it can, but it is really inefficient"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-29T07:28:37Z",
+  "comments": 1,
+  "createdAt": "2025-01-29T07:12:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 11661,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow 2D shaders to write into depth",
+  "up": 0,
+  "updatedAt": "2025-01-29T07:28:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11661"
+}

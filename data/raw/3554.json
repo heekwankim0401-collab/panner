@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it can't be made using GDscript.",
+    "format": "form",
+    "workaround": "Can't be worked around with GDscript, the only way of hiding the box is to hide the Node (which will also hide the effect)."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-29T13:31:23Z",
+  "comments": 5,
+  "createdAt": "2021-11-16T17:33:06Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 3554,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Hide visibility rects of Particle Systems by default (show when selected)",
+  "up": 4,
+  "updatedAt": "2021-11-29T13:31:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3554"
+}

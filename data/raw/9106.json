@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can be provided by an add-on, but until [shader templates](https://github.com/godotengine/godot-proposals/issues/8366) are implemented, usability will suffer. Also, I'd wager this is a common enough use case to warrant being in core. There are a lot of 3D pixel art games out there that have noisy pixels at a distance with no cheap way of resolving it :slightly_smiling_face:",
+    "format": "form",
+    "workaround": "This can be worked around with a custom shader, but this makes the 3D pipeline a lot more complex if you have to use it for every material in your level (as opposed to simply ticking a checkbox in BaseMaterial3D). You'll generally want this option to be enabled on most of your materials (if not all)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-02-16T17:56:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9106,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to use smooth pixel texture filtering in BaseMaterial3D",
+  "up": 17,
+  "updatedAt": "2024-07-02T15:32:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9106"
+}

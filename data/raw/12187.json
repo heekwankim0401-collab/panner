@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The functionality already exists in core and would require modifying the core viewport class as well as all canvas items.",
+    "format": "form",
+    "workaround": "The best solution a user could come up with would be a hack-at-best recreation of existing engine functionality and it wouldn't be easy either."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-04-08T01:29:26Z",
+  "down": 4,
+  "labels": [
+    "topic:2d",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 12187,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make all CanvasItem-derived classes interactable with the mouse",
+  "up": 2,
+  "updatedAt": "2025-04-25T18:23:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12187"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Language server is in core.",
+    "format": "form",
+    "workaround": "Users can search the warning/error they've encountered and find resources online telling them to perform these actions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-09-21T18:05:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13232,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add \"Quick Fix\" code actions to GDScript language server",
+  "up": 8,
+  "updatedAt": "2026-07-13T19:43:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13232"
+}

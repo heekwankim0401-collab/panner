@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about refactoring a core feature, so it is already in core.",
+    "format": "legacy",
+    "workaround": "No, not really. However, this new system is a lot more flexible if users did want to have a lot more manual control over how their game is paused."
+  },
+  "assignees": 1,
+  "closedAt": "2021-02-19T15:53:36Z",
+  "comments": 6,
+  "createdAt": "2020-06-04T15:03:03Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1011,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Refactor the pause system to allow pausing arbitrary parts of the scene tree",
+  "up": 38,
+  "updatedAt": "2021-03-09T05:00:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1011"
+}

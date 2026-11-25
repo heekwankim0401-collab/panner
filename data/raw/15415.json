@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2026-08-21T17:12:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15415,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enhance script editor diagnostic hover tooltips with severity icons, copy button, and quick-fix code actions",
+  "up": 18,
+  "updatedAt": "2026-09-08T17:13:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15415"
+}

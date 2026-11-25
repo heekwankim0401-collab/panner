@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It needs to be part of the language implementation.",
+    "format": "markdown",
+    "workaround": "This can be worked around somewhat by defining the functions elsewhere and using Callables, but it does fall into the same issues described here. In particular, you cannot make this function private to ensure it won't be called outside its scope. You cannot easily work around closures."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-28T14:45:00Z",
+  "comments": 45,
+  "createdAt": "2021-03-08T18:29:41Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 2431,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add lambda functions in GDScript",
+  "up": 113,
+  "updatedAt": "2022-06-05T10:11:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2431"
+}

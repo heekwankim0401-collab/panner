@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Even if this can be done with a simple script, i think that this functionality has to be packed with the engine out of the box. Since the addition of UIDs to the engine, it is expected that they have a more intuitive and better integration with the engine. So this is change for the better of the usability and accessibility of UIDs.",
+    "format": "form",
+    "workaround": "I think that this can be done with a tool script or a plugin. The engine already has a method to convert file paths to UID:  https://docs.godotengine.org/en/stable/classes/class_resourceuid.html#class-resourceuid-method-path-to-uid"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-15T00:52:46Z",
+  "comments": 2,
+  "createdAt": "2026-01-09T02:09:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13980,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to convert a path to uid in the script editor",
+  "up": 2,
+  "updatedAt": "2026-01-15T00:52:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13980"
+}

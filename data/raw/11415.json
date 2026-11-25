@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "If such an add-on / asset exist, please enlighten me. I believe this feature should be core since key binds are central to a lot of games, it will be the next step that makes web more similar to desktop builds, as Godot eventually adopt WebGPU, developers could take advantage of the portability of the web, having similar versatility as the desktop, not only for demo builds, but simpler games as well.\n\nIn addition, if this feature gets implemented, it would (to the best of my knowledge) be the first export settings that allow you to assign keys/signals, (which I believe is integral to minimizing platform specific code) achieving all the features described in this request may be a bit complex for an add-on/asset.",
+    "format": "form",
+    "workaround": "I suppose one can go and edit their own preset files to add this feature... but it seems like a feature that can get a lot of use..."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-04T04:30:37Z",
+  "comments": 2,
+  "createdAt": "2024-12-23T23:52:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:web",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11415,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Keyboard lock to web export",
+  "up": 2,
+  "updatedAt": "2025-01-05T01:55:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11415"
+}

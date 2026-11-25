@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can't be an add-on in the asset library, Transform(3D) is a core data structure.",
+    "format": "legacy",
+    "workaround": "The enhancement will be used often, as Transform(3D) is used by every 3D project."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-03T21:07:21Z",
+  "comments": 3,
+  "createdAt": "2020-11-12T04:04:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1814,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename Transform to Transform3D for Godot 4.0",
+  "up": 9,
+  "updatedAt": "2023-09-03T19:15:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1814"
+}

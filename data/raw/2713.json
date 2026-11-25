@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It requires considerable (although not very invasive) changes to two core classes and the rendering system.",
+    "format": "markdown",
+    "workaround": "Most definitely not"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 117,
+  "createdAt": "2021-05-11T20:47:39Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2713,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add custom projection mode to Camera3D, make Camera3D store its CameraMatrix and expose CameraMatrix to user code",
+  "up": 123,
+  "updatedAt": "2025-05-01T22:47:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2713"
+}

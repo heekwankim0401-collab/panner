@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "All the pieces are already present and most cases you need text also require margin control, no need to have people go hunting for it.",
+    "format": "form",
+    "workaround": "In order to work around this you have to go inside the node with get_child(), totally disable it, then construct a ScrollContainer with a MarginContainer>RichText, totally defeating the original point of the Scroll node that's already built into the RichTextLabel and requiring very specific knowledge to even implement. I'm confident most cases where RichText is employed would like at least a little margin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-04-22T01:49:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12286,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add margin controls to RichTextLabel",
+  "up": 7,
+  "updatedAt": "2025-04-22T22:21:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12286"
+}

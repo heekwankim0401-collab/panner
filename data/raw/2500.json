@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is part of the core configuration of any project just like the new \"Importer Defaults\". It could possibly be done via an add-on that re-imports newly detected files with a chosen importer, but that would be quite hacky and inefficient.",
+    "format": "markdown",
+    "workaround": "Not really, this needs to be a configuration that affects what happens even before a given file is imported when scanned by the FileSystem dock."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 32,
+  "createdAt": "2021-03-24T08:58:08Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 2500,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow defining what importer to use for a given file extension",
+  "up": 39,
+  "updatedAt": "2026-08-08T11:23:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2500"
+}

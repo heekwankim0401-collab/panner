@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is part of the GLTF implementation. Quality of life.",
+    "format": "form",
+    "workaround": "It can be worked by an editor plugin, but it will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-10-07T03:02:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 8015,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically delete glTF binary data file when deleting a glTF file",
+  "up": 1,
+  "updatedAt": "2023-10-08T22:28:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8015"
+}

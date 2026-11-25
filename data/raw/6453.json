@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is an asset library addon proposal :D",
+    "format": "form",
+    "workaround": "Implementation of fbx support is a half decade process."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-24T06:21:26Z",
+  "comments": 1,
+  "createdAt": "2023-03-07T16:49:05Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6453,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "fbx2gltf as a godot extension for the asset library",
+  "up": 0,
+  "updatedAt": "2023-04-24T09:43:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6453"
+}

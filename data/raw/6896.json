@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe that this is a common enough thing for animations to use that it would make sense to include as core.",
+    "format": "form",
+    "workaround": "One current workaround to this is to split animations into separate \"Start\" and \"Loop\" variants, i.e. \"JumpStart\" and \"JumpLoop\", then use an `AnimationTree` state machine to automatically play the looping part of the animation when the start of the animation is finished. However, this is cumbersome and splitting animations like this bloats the animation list. It would be much more convenient to have both the intro and the loop stored in the same animation so that we don't have to use `AnimationTree` just to accomplish this."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-05T16:11:17Z",
+  "comments": 3,
+  "createdAt": "2023-05-16T23:46:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6896,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `loop_offset` property to Animations (similar to audio loop points)",
+  "up": 3,
+  "updatedAt": "2023-06-05T16:11:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6896"
+}

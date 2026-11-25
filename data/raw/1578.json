@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its a pretty basic feature and to be honest I think its a massive oversight",
+    "format": "legacy",
+    "workaround": "it would be used to turn off background for certain scenes"
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-05T15:05:53Z",
+  "comments": 10,
+  "createdAt": "2020-09-27T23:55:57Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1578,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow hiding CanvasLayer nodes",
+  "up": 12,
+  "updatedAt": "2022-02-05T15:05:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1578"
+}

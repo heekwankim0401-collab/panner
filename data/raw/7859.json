@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Nothing",
+    "format": "form",
+    "workaround": "Nothing"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-25T16:32:16Z",
+  "comments": 4,
+  "createdAt": "2023-09-25T16:30:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 7859,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Serialize data before sending and before recieving by rpc",
+  "up": 0,
+  "updatedAt": "2023-09-26T04:20:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7859"
+}

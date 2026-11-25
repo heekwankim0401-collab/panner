@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Addons are not allowed to get access to GDScriptAnalyzer, nor can GDExtension.",
+    "format": "form",
+    "workaround": "This is an optimized(maybe) way to do signal operations, and methods are still allowed. So this can still be operated with functions."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-09T13:54:19Z",
+  "comments": 4,
+  "createdAt": "2023-10-09T06:47:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8047,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Adding/Overloading Some Operators for Signal to Make GDScript's Signal Operations More Readable",
+  "up": 0,
+  "updatedAt": "2023-10-09T14:47:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8047"
+}

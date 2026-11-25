@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this is possible using a script without writing an entirely new ProgressBar implementation.",
+    "format": "legacy",
+    "workaround": "As far as I can tell, no. I've tried using custom drawing on the ProgressBar node and it does not seem to work."
+  },
+  "assignees": 0,
+  "closedAt": "2019-12-21T23:43:29Z",
+  "comments": 5,
+  "createdAt": "2019-12-19T23:22:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 322,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Custom text in progress bars",
+  "up": 6,
+  "updatedAt": "2020-04-29T22:04:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/322"
+}

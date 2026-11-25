@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Warnings must be implemented in the GDScript compiler. Also, this is about improving overall GDScript usability for beginners and experienced users."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-09-11T16:20:35Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.x",
+  "number": 3285,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a GDScript warning when performing floating-point comparison with `==` or `!=` (due to precision errors)",
+  "up": 17,
+  "updatedAt": "2023-02-24T05:09:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3285"
+}

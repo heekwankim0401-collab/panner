@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Post Process is very useful for realistic graphic games, if without it it would be very bad, this is for 3D AAA studio games (of course the core)",
+    "format": "legacy",
+    "workaround": "......."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-14T18:52:59Z",
+  "comments": 8,
+  "createdAt": "2020-08-17T05:44:09Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 1382,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve post-process color correction by supporting 3D LUTs instead of a single Gradient",
+  "up": 11,
+  "updatedAt": "2021-02-14T18:53:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1382"
+}

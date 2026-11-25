@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Seems like many plugins that use scenes can benefit from this.",
+    "format": "form",
+    "workaround": "Yes, I'm currently using something along these lines as a workaround, but it only works for main screen plugins:\n\n```cs\n    public static bool IsRunningAsPlugin(Node node)\n    {\n        foreach (var mainScreenChild in EditorInterface.Singleton.GetEditorMainScreen().GetChildren())\n        {\n            if (mainScreenChild is MyPluginMainPanel && mainScreenChild.IsAncestorOf(node))\n            {\n                return true;\n            }\n        }\n        return false;\n    }\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-26T13:22:13Z",
+  "comments": 4,
+  "createdAt": "2023-10-21T08:59:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.3",
+  "number": 8216,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `Node.is_being_edited()` as an equivalent of `Engine.is_editor_hint()` for editor plugins",
+  "up": 8,
+  "updatedAt": "2024-04-26T13:22:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8216"
+}

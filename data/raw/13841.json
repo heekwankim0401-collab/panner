@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Creating this as an addon would likely require using a different/custom `print()` method, whereas this proposal aims to make it as seamless and integrated as possible.",
+    "format": "form",
+    "workaround": "I would expect it to require more than a few lines. A custom `print()` method which scans for node references and wraps them before passing them along to `print_rich()` could be used, although I'm not sure about how the engine would then navigate to that node when the link is clicked."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-12-11T20:43:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13841,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Convert node string representations in Output panel to links",
+  "up": 1,
+  "updatedAt": "2025-12-12T00:19:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13841"
+}

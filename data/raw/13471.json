@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement requires extending the **GDScript export system** and the **editor’s property reflection logic**. Add-ons cannot change the semantics of export annotations or modify how the Inspector flattens properties, so this needs to be implemented at the **core engine level**.",
+    "format": "form",
+    "workaround": "Yes, it can be done using `_get_property_list()`, `_get()`, and `_set()`. However, this approach is verbose and repetitive across scripts, making it harder to maintain and less efficient for widespread use."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2025-10-26T09:06:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13471,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@export_array` syntax to GDScript for flat editable array properties (equivalent to C++ `ADD_ARRAY_COUNT`)",
+  "up": 12,
+  "updatedAt": "2026-02-24T00:14:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13471"
+}

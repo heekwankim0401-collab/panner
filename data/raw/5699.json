@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about avoiding to workaround the own engine.",
+    "format": "form",
+    "workaround": "I don't think it can be worked around since my project is almost entirely based on, so adding a flag in every script would be a hassle."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2022-11-01T15:09:13Z",
+  "down": 1,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5699,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `manual_focused` signal for `Control` nodes",
+  "up": 3,
+  "updatedAt": "2023-04-25T17:04:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5699"
+}

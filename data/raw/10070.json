@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot be implemented without changes to the engine. Additionally, allowing Godot's `Control` nodes to work with local multiplayer is a feature that could benefit a wide variety of games/developers.",
+    "format": "form",
+    "workaround": "No, there's no way to work around these issues without reimplementing the concept of focus and player-specific actions. Note that player-specific actions can be created for in-game actions, but `Control` nodes use hard-coded, built-in UI actions that cannot be split amongst players."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2024-06-29T01:32:51Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10070,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve local multiplayer support by tracking `InputEvent`s and UI focus per player",
+  "up": 23,
+  "updatedAt": "2026-04-18T21:27:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10070"
+}

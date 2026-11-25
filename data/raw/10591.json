@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Why leave the process up to the user when it's so easy to automate, while still retaining the flexibility and freedom for a manual implementation?\n\nAgain, nine times out of ten, when the user is making use of the texture_click_mask property, they're going to want button clicks to not interact with transparent pixels in the image. Might as well do it for us, without requiring us to write another script, or to create a Bitmap manually...",
+    "format": "form",
+    "workaround": "I mean, sure. The solution that I'm submitting is a simple work around. That's why it should probably come standard. The time investment to implement the solution is low, and it's the most common use-case for a ClickMask."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-29T10:49:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10591,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a property to automatically use the TextureButton's texture alpha channel as a click mask",
+  "up": 0,
+  "updatedAt": "2024-08-31T03:11:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10591"
+}

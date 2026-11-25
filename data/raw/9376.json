@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This has to be implemented into core - needs to be drawn at a specific place in the tree code, and options need to be added to the theme cache.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-03-24T21:55:06Z",
+  "down": 1,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9376,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement alternating background colours for tree items",
+  "up": 17,
+  "updatedAt": "2025-08-05T09:56:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9376"
+}

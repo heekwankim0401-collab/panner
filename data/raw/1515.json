@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is a fundamental optimization that is recommended for all Android applications to implement",
+    "format": "legacy",
+    "workaround": "No, this is a rendering-engine level optimization"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-09-15T15:09:01Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "platform:android",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 1515,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add pre-rotation optimization for Vulkan rendering on Android",
+  "up": 0,
+  "updatedAt": "2024-06-24T17:12:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1515"
+}

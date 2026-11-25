@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the project manager.",
+    "format": "form",
+    "workaround": "Yes. This is a very minor usability improvement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-08T03:18:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10687,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Project manager: If there is text in the \"Filter Projects\" field, use that text as a title for a new project",
+  "up": 0,
+  "updatedAt": "2024-09-11T18:34:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10687"
+}

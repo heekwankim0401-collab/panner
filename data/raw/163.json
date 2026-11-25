@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This wouldn't work as an add-on.",
+    "format": "legacy",
+    "workaround": "This would be used often by anyone who uses match statements to set a variable."
+  },
+  "assignees": 0,
+  "closedAt": "2019-10-18T07:45:54Z",
+  "comments": 3,
+  "createdAt": "2019-10-17T14:38:56Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 163,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "New Keyword: \"matchset\"",
+  "up": 0,
+  "updatedAt": "2020-08-05T08:03:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/163"
+}

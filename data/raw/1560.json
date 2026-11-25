@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core script parser feature.\n\nThis seems like it should work, since you can say \"This `animal` is a `dog`\", and it makes perfect sense.\nEven though `dog` is a \"subclass\" of `animal`, it's still a logically correct statement.\n\nIt would just be simpler if the `is` keyword worked this way, so that the user doesn't have to remember to override `get_class()` and check that every time.",
+    "format": "legacy",
+    "workaround": "I've been working around this issue by overriding `get_class()` in each of the child classes, and then using:\n\n```\nmatch __character_object.get_class():\n\t\t\"Player\":\n\t\t\t< Player code >\n\t\t\"NPC\"\n\t\t\t< NPC code >\n\t\t_:\n\t\t\t< Error, forgot to override get_class() >\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-28T18:09:15Z",
+  "comments": 17,
+  "createdAt": "2020-09-24T05:42:40Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1560,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Allow `self` type checking of child classes using the `is` keyword",
+  "up": 4,
+  "updatedAt": "2026-10-28T18:09:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1560"
+}

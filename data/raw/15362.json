@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-08-11T14:39:40Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15362,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "[Core]: Provide a way to keep non-refcounted pointer valid for a short time",
+  "up": 1,
+  "updatedAt": "2026-08-11T14:44:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15362"
+}

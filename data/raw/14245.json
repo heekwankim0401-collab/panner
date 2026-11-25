@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": "2026-03-06T11:49:09Z",
+  "comments": 6,
+  "createdAt": "2026-02-16T03:54:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:macos",
+    "topic:editor",
+    "topic:platforms",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 14245,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Suggest closing Magnet app on macOS if detected",
+  "up": 3,
+  "updatedAt": "2026-03-06T11:49:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14245"
+}

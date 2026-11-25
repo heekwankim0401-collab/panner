@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is exposing an engine functionality to scripting - it is not possible to create a script, including GDExtension scripting, that replicates this functionality.",
+    "format": "form",
+    "workaround": "No - this is an engine functionality that is not currently exposed to scripting. While the number of projects using this improvement might be limited, those projects requiring this functionality will likely be using it extensively."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-18T06:54:23Z",
+  "comments": 2,
+  "createdAt": "2023-10-18T01:14:08Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8175,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose get_packet function in ENetPacketPeer to scripting",
+  "up": 0,
+  "updatedAt": "2023-10-18T07:03:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8175"
+}

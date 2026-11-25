@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript core feature",
+    "format": "form",
+    "workaround": "I, in this specific usecase, could add specific support for arrays assuming that all the contents of the array would want to be used in the network  \nHowever I believe this should be a feature for consistencies sake... I was under the assumption that NodePaths could access all the variables of a given node, except this is not true"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-07-06T21:20:51Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7221,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support Arrays with NodePaths in `get_indexed`",
+  "up": 6,
+  "updatedAt": "2026-10-31T16:52:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7221"
+}

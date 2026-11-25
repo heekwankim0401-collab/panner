@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Pretty sure this is something that needs to be built into the GUI layer",
+    "format": "form",
+    "workaround": "We'd have to write our own anchoring code, completely throwing out all the existing anchoring hard work already done."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-11-22T22:10:37Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5829,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add offset_h and offset_v to Control Nodes (Like the offset in Camera node) ",
+  "up": 1,
+  "updatedAt": "2022-11-23T06:18:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5829"
+}

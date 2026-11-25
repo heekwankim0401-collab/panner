@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this feature is useful and it wouldn't weight down the core bny more than a few kilobytes",
+    "format": "form",
+    "workaround": "It may be too slow if implemented in gdscript, but it is possible to be implemented in gdextension"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-09-17T04:42:28Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 13193,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add KCP protocol support",
+  "up": 0,
+  "updatedAt": "2026-03-18T03:16:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13193"
+}

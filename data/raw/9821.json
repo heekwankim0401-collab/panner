@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be part of the engine, it's a small but useful feature",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-05-25T15:28:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9821,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add search when selecting a directory in the project manager",
+  "up": 0,
+  "updatedAt": "2024-10-05T08:01:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9821"
+}

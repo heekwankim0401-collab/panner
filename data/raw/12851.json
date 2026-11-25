@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's not a good solution and not convenient to sync with latest Godot changes\nIn my opinion, it's inappropriate to use an add-on to make a built-in feature work properly.",
+    "format": "form",
+    "workaround": "Yes, copy every required lines from every required `.po` files from Godot's source code"
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-24T15:26:27Z",
+  "comments": 1,
+  "createdAt": "2025-07-24T02:26:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 12851,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Include some localized strings to exported project",
+  "up": 0,
+  "updatedAt": "2025-07-24T15:34:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12851"
+}

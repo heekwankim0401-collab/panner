@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core: UX issue of a core feature.",
+    "format": "markdown",
+    "workaround": "Cannot be worked around, and I'd argue this happens fairly frequently, as little UI pieces are often implemented in `#ffffff` , so they can easily be modulated through Godot itself.\n\nI do get that adding this feature might be harder than it seems, and that the issue can still be worked with by looking at the variables or the lines on the background. However, I saw it fit to open a proposal for it either way. I am also sure this issue is also present in other (Texture editing) parts of the engine. If I find any, I'll post them in the comments below."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-15T14:58:33Z",
+  "comments": 1,
+  "createdAt": "2021-01-13T14:47:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2113,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the Lines in the TextureRegion Dock contrast the Texture's Color",
+  "up": 3,
+  "updatedAt": "2021-01-15T14:58:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2113"
+}

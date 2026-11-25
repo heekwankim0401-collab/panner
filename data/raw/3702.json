@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be an added function in the Input singleton.",
+    "format": "form",
+    "workaround": "Currently you can either Input.get_axis() 3 times or Input.get_vector() and Input.get_axis() for the third axis.\n```gdscript\nvar horizontal_input : Vector2 = Input.get_vector(\"fly_left\",\"fly_right\",\"fly_forward\",\"fly_back\")\nvar vertical_input : float = Input.get_axis(\"fly_down\",\"fly_up\")\nvar combined_input = Vector3(horizontal_input.x, vertical_input, horizontal_input.y)\ntransform.origin += combined_input \n```"
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-22T01:19:07Z",
+  "comments": 5,
+  "createdAt": "2021-12-20T13:12:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3702,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `Input.get_vector()` for Vector3",
+  "up": 1,
+  "updatedAt": "2021-12-22T01:19:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3702"
+}

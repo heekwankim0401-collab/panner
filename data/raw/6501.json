@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "```gdscript\nclass_name FocusAutoReleaseControl extends Control\n\nfunc _input(event):\n\tif not self.has_focus(): return\n\tif not event is InputEventMouseButton: return\n\tif not event.pressed: return\n\tvar control_rect = self.get_rect()\n\tcontrol_rect.position = Vector2.ZERO\n\tvar local_rect = control_rect\n\tif local_rect.has_point(get_local_mouse_position()): return\n\tself.release_focus()\n```\nHowever, this only works if the given Control does not need to be extended by another script, as GDScript lacks multiple inheritance."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2023-03-14T18:09:34Z",
+  "down": 1,
+  "labels": [
+    "topic:gui",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6501,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Controls to automatically release focus when clicked off of",
+  "up": 22,
+  "updatedAt": "2024-12-09T15:46:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6501"
+}

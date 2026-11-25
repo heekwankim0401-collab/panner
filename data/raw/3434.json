@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's not possible",
+    "format": "form",
+    "workaround": "It's not possible"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-16T06:35:10Z",
+  "comments": 2,
+  "createdAt": "2021-10-15T19:51:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3434,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement pressing the Stop button a second time to reset the animation to the start in the AnimationPlayer editor",
+  "up": 0,
+  "updatedAt": "2021-10-16T10:02:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3434"
+}

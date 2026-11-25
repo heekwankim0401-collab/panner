@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "can't be done as an addon",
+    "format": "form",
+    "workaround": "Using for/while"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-06T15:11:34Z",
+  "comments": 2,
+  "createdAt": "2022-11-04T11:29:58Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 5719,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `String.split(\"\")` split a string by characters",
+  "up": 4,
+  "updatedAt": "2022-11-06T15:11:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5719"
+}

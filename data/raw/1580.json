@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It could not be easily done by an add-on, and it could be implemented parallel to #1045, so that both gdscript and the number input use the same syntax.\n\n**I am able to make a pull request for this, at least for a basic numbers only version.**",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": "2022-05-11T14:58:33Z",
+  "comments": 0,
+  "createdAt": "2020-09-28T09:55:38Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1580,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": " Add exponentiation operator (`**`) to the Expression parser",
+  "up": 7,
+  "updatedAt": "2022-05-11T14:59:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1580"
+}

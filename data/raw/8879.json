@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is just an unimplemented feature of the 'print_rich' method, which is relatively obscure and not essential. If it needs to be implemented, an interface needs to be exposed in the 'EditorInterface' to connect the URL click signal.",
+    "format": "form",
+    "workaround": "Seems impossable.  I can visit root editor control, try to get EditorLog Node, but the node are named automatic every time it create.\n\n```gdscript\nvar control = EditorInterface.get_base_control()\n```\n\n![image](https://github.com/godotengine/godot-proposals/assets/1620585/94689ac2-7fff-4213-a36b-99b3f97d58e5)\n\nSo I can't deal with gdscript."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-16T10:16:10Z",
+  "comments": 2,
+  "createdAt": "2024-01-14T14:29:25Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.3",
+  "number": 8879,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `print_rich` url tag  support meta_click.",
+  "up": 3,
+  "updatedAt": "2024-01-16T10:16:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8879"
+}

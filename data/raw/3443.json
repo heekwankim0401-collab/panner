@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think that this should be in core because it fixes a problem of textures being \"locked\" into material files, and thus only useable in Godot, and that the fix would be very lightweight (since Godot already has the ability to write PNG/JPEG files, so it would just be a case of applying that functionality in this situation).",
+    "format": "form",
+    "workaround": "You could write a Godot script that could read the ImageTexture in those materials and save it as a PNG, but this is not very convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-10-19T13:02:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3443,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to export textures included in .material files as PNG/JPEG",
+  "up": 4,
+  "updatedAt": "2023-02-17T14:11:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3443"
+}

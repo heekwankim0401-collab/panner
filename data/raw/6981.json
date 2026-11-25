@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-30T12:56:50Z",
+  "comments": 10,
+  "createdAt": "2023-05-30T11:34:37Z",
+  "down": 1,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6981,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Asign `Node`s directly to a `Joint2/3D` instead of their `NodePath`",
+  "up": 0,
+  "updatedAt": "2023-05-30T13:03:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6981"
+}

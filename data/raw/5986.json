@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This needs to be core because it involves the underlying gdshader and VisualShader node implementation.",
+    "format": "form",
+    "workaround": "This can be worked around by understand how the visual shader node is implemented but, this creates a lot of friction for those who are unfamiliar with how to achieve what the node is doing or it's intended purpose. I believe that the current implementation is a huge oversight in terms of consistency and usability."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-12-24T00:47:42Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5986,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement newly added visual shader functions in text-based shaders",
+  "up": 0,
+  "updatedAt": "2022-12-24T01:15:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5986"
+}

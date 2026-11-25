@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this can be solved properly using plugins because it's plugin related.",
+    "format": "markdown",
+    "workaround": "If you have the problem above, you need to manually disable plugins in \n`project.godot` which is no so handy."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-05T10:13:51Z",
+  "comments": 16,
+  "createdAt": "2021-04-21T01:03:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.4",
+  "number": 2628,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to disable all plugins when opening a project (safe mode)",
+  "up": 26,
+  "updatedAt": "2025-01-05T10:14:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2628"
+}

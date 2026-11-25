@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "Hi to all the Dragons in the room, I am excited to share with you my pitch for trackpad integration as a core feature due to these specific points I'd be willing to discuss each in detail and answer any questions that might arise during this pitch. I would like to begin by outlining the above details that interacting with technology is not always as easy and intuitive as we would like to think, we get used to bugs and limitations and adapt around them whilst developing our software. - but today I am happy to explain how multi-trackpad integration can be a more intuitive and productive way to interact with GODOT engine in particular. Here is my top 10 \n\n1. Natural Interaction: Multitouch trackpads enable more natural and intuitive interactions with the 3D environment. Users can use gestures like pinch-to-zoom, swipe, and rotate, which mimic real-world movements, making it easier to navigate and manipulate objects within the editor. \n2. Precise Control: Multitouch gestures allow for finer control over the 3D scene compared to traditional input methods like a mouse or keyboard. This precision is crucial when positioning objects, adjusting camera angles, or sculpting terrain.\n3. Efficient Workflow: Multitouch trackpads can streamline workflows by providing quick access to essential functions. Gestures might even become customizable to perform common tasks, such as panning, zooming, or rotating the view, reducing the need for complex keyboard shortcuts or menu navigation, specifically in the absence of an additional mouse, and with the standard inclusion of a multitouch trackpad.\n4. Multi-Finger Gestures: Multitouch technology allows for multi-finger gestures, which can be harnessed for unique editor features. For example, three-finger swipes could switch between different editor views, or a four-finger pinch could trigger a global undo/redo function (I'm not completely sure those are the set in stone answers, but they might help you think about those possibilities).\n5. ",
+    "format": "form",
+    "workaround": "I believe this enhancement will be just a few lines of code (for the experienced coder) to implement, but because it fundamentally changes interaction with godot to be more UX friendly and build on a universal intuition I believe including this feature can set GODOT apart from their competitors.  And give it a competitive edge specifically in the portability"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-26T15:56:41Z",
+  "comments": 1,
+  "createdAt": "2023-09-26T08:10:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7871,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Multitouch touchpad navigation",
+  "up": 5,
+  "updatedAt": "2023-09-26T15:57:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7871"
+}

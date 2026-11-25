@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is really common functionality that practically every game wants to use. Taking screens without the HUD as well as pointing a 3D cursor on a terrain are really common use cases. It makes sense to provide a high-level abstraction to simplify this especially for novices.",
+    "format": "form",
+    "workaround": "The work arounds right now are really hacky. You have to use viewports and wait for post frame or write a lot of boilerplate low level code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-08-27T15:12:15Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13081,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add high-level ScreenCopyNode and DepthCopyNode helpers",
+  "up": 0,
+  "updatedAt": "2026-05-10T13:04:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13081"
+}

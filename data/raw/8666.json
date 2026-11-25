@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AFAIK GDExtenstions cannot introduce new shader built-in variables? In this case it would be `INSTANCE_CUSTOM_2` that should be introduced\n\nOverall, 8 floats per instance is pretty low amount of data and limits creativity with instancing a lot",
+    "format": "form",
+    "workaround": "Only packing per instance data more densely but this is not few lines"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-12-16T02:26:39Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8666,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow specifying more custom instance data for MultiMesh",
+  "up": 16,
+  "updatedAt": "2026-09-05T15:21:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8666"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The audio stream relates deeply to the core.",
+    "format": "form",
+    "workaround": "Creating a controller is not that difficult, but combining it with AudioTrack is difficult."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-23T11:25:19Z",
+  "comments": 4,
+  "createdAt": "2022-08-23T10:58:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 5231,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement AudioStreamRoundRobin",
+  "up": 0,
+  "updatedAt": "2022-08-23T11:26:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5231"
+}

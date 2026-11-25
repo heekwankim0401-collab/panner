@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Basic editor usability improvement",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-25T10:22:01Z",
+  "comments": 4,
+  "createdAt": "2024-02-17T11:41:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9114,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't show the `Search Results` bottom panel button until you search for something",
+  "up": 24,
+  "updatedAt": "2024-03-25T10:22:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9114"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It needs to modify how 3D gizmo plugin works.",
+    "format": "form",
+    "workaround": "* Create a custom `EditorNode3DGizmo` and add a `initial_value` property.\n* In `_set_handle()`, check if `initial_value` is ever set. Save the current handle value when not.\n* In `_commit_handle()`, clear `initial_value`.\n\nThis is hacky I think because it relies on `_commit_handle()` always being called, so a \"begin\" state can be detected."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-03T13:04:06Z",
+  "comments": 2,
+  "createdAt": "2022-10-28T09:33:41Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.2",
+  "number": 5669,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow EditorNode3DGizmoPlugin to get initial handle value",
+  "up": 0,
+  "updatedAt": "2023-08-11T11:57:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5669"
+}

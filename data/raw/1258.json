@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Probably the same applies: font rendering is something fundamental in the engine.",
+    "format": "legacy",
+    "workaround": "I don't see a work-around, because font rendering is something fundamental in the engine."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-26T09:59:31Z",
+  "comments": 14,
+  "createdAt": "2020-07-25T08:19:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 1258,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve the font rendering quality by using LCD subpixel optimizations",
+  "up": 2,
+  "updatedAt": "2022-08-26T09:59:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1258"
+}

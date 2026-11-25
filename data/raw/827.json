@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having this as per-project plugin will be almost useless because of usability reasons but still possible.",
+    "format": "legacy",
+    "workaround": "> If this enhancement will not be used often\n\nAs often as custom editor feature profiles\n> can it be worked around with a few lines of script\n\nIt is possible to implement as plugin, but right no there are no global plugins. Having this as per-project plugin will be almost useless."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-05-12T15:32:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 827,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Store per-project editor feature profile name in `project.godot` and automatically set corresponding profile as current",
+  "up": 15,
+  "updatedAt": "2023-02-17T12:44:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/827"
+}

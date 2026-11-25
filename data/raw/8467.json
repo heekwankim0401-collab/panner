@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's just one line of code to enable or disable / Single checkmark in the project settings. no additional configurations are needed.",
+    "format": "form",
+    "workaround": "```GDscript\nget_viewport().showInTaskbar = true/false\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-11-18T16:03:44Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 8467,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Window property to make a window not appear in the taskbar and application switcher",
+  "up": 38,
+  "updatedAt": "2026-11-23T21:00:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8467"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's just a small and very useful feature that most people will use when working on UI in 2D games.",
+    "format": "form",
+    "workaround": "I think it will be used quite a bit, for people with specific uneditable textures that want the corner size to be bigger."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-03-27T01:23:58Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4289,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow adjusting corner size in StyleBoxTexture (with margin)",
+  "up": 4,
+  "updatedAt": "2022-03-27T01:47:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4289"
+}

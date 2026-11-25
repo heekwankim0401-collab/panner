@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would make much more flexible the new FoldableContainer, and by making it as an add-on would require to re-implement the complete node, and wouldn´t perform as well as the out of the box node, which was one of the main concerns for adding this node in the first place even thought similar add-ons  alredy existing.",
+    "format": "form",
+    "workaround": "To some very specific scenarios may be possible some work arounds with the clip content property of the regular control node as I did for the examples, but using a regular control node as a container is not ideal and brings more problems, that has no easy solution, even more were it needs to be inside more containers, like multiple FoldableContainers inside a Vbox"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-09-16T03:38:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13183,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow partially unfolding a FoldableContainer (e.g. for animation purposes)",
+  "up": 6,
+  "updatedAt": "2025-09-20T20:38:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13183"
+}

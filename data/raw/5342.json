@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a core feature.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-09-05T11:57:11Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5342,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement updating texture data from a byte array directly",
+  "up": 22,
+  "updatedAt": "2025-09-14T17:02:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5342"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is about improving performance in situations where creating hand-made shapes is not feasible due to lack of time or resources.",
+    "format": "form",
+    "workaround": "This may be feasible with a custom import script, but it will require more than a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-11-26T22:13:38Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:import",
+    "topic:physics"
+  ],
+  "milestone": "4.x",
+  "number": 3603,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a mesh simplification option for TriMesh collision shape generation in the advanced import settings",
+  "up": 23,
+  "updatedAt": "2023-10-02T05:21:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3603"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it's not project specific, it's part of the core Godot IDE",
+    "format": "form",
+    "workaround": "No, but the user can search and select their folder by hand each time"
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-23T12:28:33Z",
+  "comments": 2,
+  "createdAt": "2023-08-23T10:52:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7544,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "New project, store Default directory for next time New Project, or use same folder as last time",
+  "up": 0,
+  "updatedAt": "2023-08-23T12:28:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7544"
+}

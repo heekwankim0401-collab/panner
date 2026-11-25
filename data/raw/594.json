@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a fundamental behavior of GDScript, it can not be modified in any way that I'm aware of other than by changing GDScript it's self.",
+    "format": "legacy",
+    "workaround": "It's impossible to work around this implementation at the moment."
+  },
+  "assignees": 1,
+  "closedAt": "2020-08-04T12:53:50Z",
+  "comments": 7,
+  "createdAt": "2020-03-17T22:09:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 594,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript built-in methods should not call their super implementations automatically",
+  "up": 11,
+  "updatedAt": "2020-08-04T12:54:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/594"
+}

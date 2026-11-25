@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The feature is already implemented in gdscript and would provide the same value for c# users. A generic solution that is independed from the IDE would provide more overall value. It could be used by anyone using c# with any IDE.",
+    "format": "markdown",
+    "workaround": "The required method can be manually added to the c# source file, which is exactly what is required to do now."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-05T20:17:41Z",
+  "comments": 2,
+  "createdAt": "2021-01-05T19:36:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 2078,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Generate c# method when selecting a signal receiver",
+  "up": 0,
+  "updatedAt": "2021-01-05T20:18:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2078"
+}

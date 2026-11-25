@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I feel like making a GDExtension for something this small would be overkill, so probably not.\n\nSide note: This is like, my third property list related submission in a row so far. Not sure if I should be considered innovative or just weird at this point for using them the way that I have been.\n\n**EDIT:** Okay, turns out I was just accidentally mislabelling some usage flags. Sorry about the confusion haha.",
+    "format": "form",
+    "workaround": "If it can, I'd love to know how.\n\nThis whole thing by the way technically doesn't affect the main functionality of my addon at all, but the junk data's existence still nags at me when I look at it."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-10T13:18:54Z",
+  "comments": 2,
+  "createdAt": "2024-11-10T08:19:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11127,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `PROPERTY_USAGE_NO_STORAGE` to PropertyUsageFlags",
+  "up": 0,
+  "updatedAt": "2024-11-10T19:01:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11127"
+}

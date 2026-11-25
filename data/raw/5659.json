@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it could be part of the core.",
+    "format": "form",
+    "workaround": "Used on new project creation."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-26T18:50:36Z",
+  "comments": 4,
+  "createdAt": "2022-10-26T14:09:20Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5659,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Ask user on new project creation to create `.git/` folder and add first `Initial` commit",
+  "up": 0,
+  "updatedAt": "2022-10-26T18:51:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5659"
+}

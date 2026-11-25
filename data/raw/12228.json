@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The data is stored in engine memory.",
+    "format": "form",
+    "workaround": "This could be done by hard-coding a copy of every enum in `@GlobalScope` (there are only a few), but doing so would kind of defeat the point of automation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-04-13T19:49:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12228,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose methods on ClassDB to read properties of enumerations in `@GlobalScope`",
+  "up": 0,
+  "updatedAt": "2026-03-15T22:27:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12228"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is already in the core. Reimplementing property editors would only lead to repetition and fragmentation.",
+    "format": "form",
+    "workaround": "Very hard to achieve, considering that other custom property editors can be registered by various plugins.\nWe could reimplement every property editor that exists in the core..."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-09T20:36:50Z",
+  "comments": 3,
+  "createdAt": "2024-01-18T12:07:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.4",
+  "number": 8908,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Export `EditorInspector::instantiate_property_editor` for plugin development in the Godot API",
+  "up": 21,
+  "updatedAt": "2024-12-09T20:37:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8908"
+}

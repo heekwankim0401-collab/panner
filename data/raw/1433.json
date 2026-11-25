@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This can definitely be implemented as a C++ module as seen in goostengine/goost#8. If this proposal is not accepted, the PR is going to be merged eventually in Goost, hopefully that's alright considering this feature attracted a lot of 👍 and both projects are MIT licensed, I'll properly add @Daw11 as a co-author and even invite him as a collaborator, if that's the case.",
+    "format": "markdown",
+    "workaround": "GIF is a known format for which there's an existing C library which works reliably for loading GIF images, cannot be possibly implemented via script."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-26T22:23:34Z",
+  "comments": 25,
+  "createdAt": "2020-08-30T13:51:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1433,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for loading (and/or importing) animated images (GIF, APNG)",
+  "up": 26,
+  "updatedAt": "2022-09-18T21:29:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1433"
+}

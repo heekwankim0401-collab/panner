@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "PCK generation is handled by the Godot Engine, so it's the responsibility of the engine to implement it.",
+    "format": "form",
+    "workaround": "I believe it would be used very often for the vast majority Godot 3.x developers.\n\nThis can not be worked around with a script, as the PCK generation is handled by the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-16T23:00:34Z",
+  "down": 0,
+  "labels": [
+    "topic:export"
+  ],
+  "milestone": "3.x",
+  "number": 7696,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Backport PCK encryption to Godot 3.x",
+  "up": 4,
+  "updatedAt": "2023-09-16T23:21:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7696"
+}

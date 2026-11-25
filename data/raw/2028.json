@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There is no way the add-on can interact with this as far as I know, that is the point of this proposal.",
+    "format": "markdown",
+    "workaround": "Not that I know of."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-21T07:35:23Z",
+  "comments": 5,
+  "createdAt": "2020-12-26T16:57:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 2028,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "GDNative: View custom docs from the editor.",
+  "up": 4,
+  "updatedAt": "2024-04-21T07:35:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2028"
+}

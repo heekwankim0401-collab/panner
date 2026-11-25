@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-08-17T08:07:01Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15394,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 3D vertex snap for CSGPolygon3D vertices",
+  "up": 9,
+  "updatedAt": "2026-08-17T18:34:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15394"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is directly linked to 3D gizmos, those are created and set up in core also, directly linked to improving the usability of the 3D editor in situations which have till now turned finding the handles slightly more complex.",
+    "format": "form",
+    "workaround": "It will be used often. Similarly to how the scaling operation in 3D was broken for a long time without any reports, I believe the main reason why this hasn't been brought up yet is the relatively small user base of 3D users. Which has by now potentially learnt to live with the current ux quirks."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2021-09-20T08:26:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 3322,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a darker outline to 3D gizmos to ensure better visibility",
+  "up": 18,
+  "updatedAt": "2024-03-14T16:59:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3322"
+}

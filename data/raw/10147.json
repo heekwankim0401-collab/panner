@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The **AudioStreamMP3** function is part of the Godot core, and this has a direct impact on the results of the **play()** function. It seems complicated to me to make it a library if Godot itself doesn't directly return errors related to mp3 file playback.",
+    "format": "form",
+    "workaround": "I haven't found a way around this problem."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-07-07T18:55:30Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 10147,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add return error to the function play() of AudioStreamMP3.new()",
+  "up": 0,
+  "updatedAt": "2026-04-02T21:58:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10147"
+}

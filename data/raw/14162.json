@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The current offerings do not include a sufficient baseline of information about a raycast.",
+    "format": "form",
+    "workaround": "It will be used all the time, in every project, and no - it requires a lot of code and complex math."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-09T23:28:56Z",
+  "comments": 0,
+  "createdAt": "2026-02-06T02:51:02Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 14162,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve Raycasting/Shapecasting for Character Movement and usability/discoverability",
+  "up": 2,
+  "updatedAt": "2026-02-12T09:43:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14162"
+}

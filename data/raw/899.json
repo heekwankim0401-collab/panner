@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Has to be done in script editor for variables use case, and in the editor itself (possibly Fix Dependencies dialog) for other use case.\n\nOriginal issue: https://github.com/godotengine/godot/issues/3163",
+    "format": "legacy",
+    "workaround": "Nope. (Also I assume it will be used more often the bigger and more complex projects are)"
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-28T23:26:18Z",
+  "comments": 34,
+  "createdAt": "2020-05-26T09:40:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.8",
+  "number": 899,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"refactor\" tooling to rename symbols in the script editor",
+  "up": 475,
+  "updatedAt": "2026-09-28T23:27:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/899"
+}

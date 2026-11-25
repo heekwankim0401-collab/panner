@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As far as I'm aware it's not currently possible to do with an addon.",
+    "format": "form",
+    "workaround": "It might be used by any addon that wants to provide extra help for translators with user generated strings.\n\nAs far as I'm aware a workaround isn't currently possible."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-15T16:46:53Z",
+  "comments": 3,
+  "createdAt": "2024-01-20T10:07:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 8917,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow EditorTranslationParserPlugins to provide comments for POT generation",
+  "up": 6,
+  "updatedAt": "2024-11-15T16:46:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8917"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-06-11T00:17:47Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14996,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Always allow texture copy from RenderSceneBuffersRD color",
+  "up": 0,
+  "updatedAt": "2026-06-11T08:36:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14996"
+}

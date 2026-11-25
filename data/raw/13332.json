@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Stretching audio has comparable status and is deeply linked to pitch shifting and should be part of the engine.",
+    "format": "form",
+    "workaround": "No, for reasons described."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-05T14:57:18Z",
+  "comments": 3,
+  "createdAt": "2025-10-03T20:11:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 13332,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Audio stretch decoupled from pitch-shifting (potential route to implementation)",
+  "up": 6,
+  "updatedAt": "2025-10-05T14:57:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13332"
+}

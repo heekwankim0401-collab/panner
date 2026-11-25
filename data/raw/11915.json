@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "the original proposal, which broke pre 4.4 functionality, was core: https://github.com/godotengine/godot-proposals/issues/6406, so it would be nice for this to be core as well.  but see also the previous section.",
+    "format": "form",
+    "workaround": "this can be partially worked around with an editor plugin, e.g., you could switch between approaches https://github.com/godotengine/godot-proposals/issues/6406#issuecomment-2699552948 -- but in fact it's nice to have both for muscle memory purposes, and not just to switch from one to the other.\n\nthe other reason it shouldn't be an addon/plugin -- it also makes the current functionality easier to understand (e.g., with emulate 3-button mouse), and also clarifies the need to set a shortcut for these primary methods."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-03-05T04:38:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11915,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow secondary customization of 3D navigation methods (orbit, pan, zoom)",
+  "up": 1,
+  "updatedAt": "2025-04-01T15:36:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11915"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Core already contains the code to generate colliders as part of the import process.",
+    "format": "form",
+    "workaround": "Have not found any way to work around it in the runtime. Only thing I can think of is compiling the map from glTF to a scene using an editor build, but I don't know how to do that.\n\nEdit: @jgillich has provided a workout by using `create_convex_collision`/`create_trimesh_collision`, but this requires re-implementing the importer's collider creator manually."
+  },
+  "assignees": 1,
+  "closedAt": "2023-04-25T08:01:57Z",
+  "comments": 10,
+  "createdAt": "2022-08-26T16:43:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import",
+    "topic:physics"
+  ],
+  "milestone": "4.3",
+  "number": 5268,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow importing glTF at runtime with colliders",
+  "up": 3,
+  "updatedAt": "2025-10-18T23:31:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5268"
+}

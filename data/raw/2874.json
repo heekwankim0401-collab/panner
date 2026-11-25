@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I feel like this would be better off as the default for the entire engine (unless I'm missing something, and the sideways capsule is more common.)",
+    "format": "form",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-17T12:14:18Z",
+  "comments": 2,
+  "createdAt": "2021-06-17T07:45:53Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 2874,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change default orientation of the capsule shape to be upright",
+  "up": 0,
+  "updatedAt": "2021-06-17T15:56:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2874"
+}

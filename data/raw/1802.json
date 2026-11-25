@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It looks a lot like rect_min_size, and seems more natural to be integrated.",
+    "format": "legacy",
+    "workaround": "It can be worked around by adding a MarginContainer (SpanLimiter) and use this piece of code\n\n```gdscript\nfunc _on_SpanLimiter_resized():\n\t_limit_span()\n\nfunc _limit_span():\n\tif SpanLimiter.rect_size.x > MAX_SPAN:\n\t\tvar half_margin = (SpanLimiter.rect_size.x - MAX_SPAN) / 2\n\t\t\n\t\tSpanLimiter.set(\"custom_constants/margin_left\", half_margin)\n\t\tSpanLimiter.set(\"custom_constants/margin_right\", half_margin)\n\t\n\telse:\n\t\tSpanLimiter.set(\"custom_constants/margin_left\", 5)\n\t\tSpanLimiter.set(\"custom_constants/margin_right\", 5)\n```\n\nHowever, using it in many scenes is not convenient. Plus, it forces to add a MarginContainer and modify the Nodes hierarchy only for that feature. It is also not really efficient (it stutters and shows black bars when resizing)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-02T07:22:03Z",
+  "comments": 28,
+  "createdAt": "2020-11-10T17:30:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.7",
+  "number": 1802,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `rect_max_size` property to Control nodes",
+  "up": 143,
+  "updatedAt": "2026-04-08T21:13:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1802"
+}

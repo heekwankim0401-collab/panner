@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This is about changing GDScript's behavior to be more strict, encouraging people to write more robust code."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-15T15:48:40Z",
+  "comments": 3,
+  "createdAt": "2021-09-11T15:50:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3283,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disallow type inference for function parameters with default values in GDScript (but allow it elsewhere)",
+  "up": 0,
+  "updatedAt": "2022-03-04T23:44:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3283"
+}

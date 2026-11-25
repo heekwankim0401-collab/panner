@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Must be core.",
+    "format": "form",
+    "workaround": "The workaround is to add methods (or sometimes scripts that weren't necessary) to avoid the editor crashing, but this is meh."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2022-07-10T20:23:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4850,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a connection flag to prevent firing signals from editor",
+  "up": 8,
+  "updatedAt": "2025-01-02T06:56:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4850"
+}

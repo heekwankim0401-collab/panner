@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think GDExtension can access the specifics of the renderer as would be needed, but maybe I am missing something.",
+    "format": "form",
+    "workaround": "Not really."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-02-25T07:32:16Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11844,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add method of getting supported vsync modes",
+  "up": 9,
+  "updatedAt": "2025-03-08T16:25:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11844"
+}

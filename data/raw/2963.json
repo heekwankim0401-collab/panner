@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Rendering is core.",
+    "format": "form",
+    "workaround": "Only one I can think of is making a Sphere that's rendering the sky, but that has it's own issues."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-07-08T13:28:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 2963,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Backport fog aerial perspective to Godot `3.x` / Make Distance Fade use a circular radius instead of linear distance",
+  "up": 1,
+  "updatedAt": "2023-06-26T13:49:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2963"
+}

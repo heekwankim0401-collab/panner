@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "To fit with native godot interface, otherwise the add on should implement a whole wrapper to wrap functions already implemented.",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-15T14:52:37Z",
+  "comments": 2,
+  "createdAt": "2025-01-15T03:27:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11562,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add signal to scene tree when a node entering or exiting group",
+  "up": 0,
+  "updatedAt": "2025-01-15T14:52:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11562"
+}

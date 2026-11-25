@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Everything is already pretty much there, the function only misses an additional parameter.",
+    "format": "form",
+    "workaround": "No. The only workaround is building a separate plugin with the included functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-02T17:06:21Z",
+  "comments": 1,
+  "createdAt": "2024-04-23T14:59:00Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:input"
+  ],
+  "milestone": "4.3",
+  "number": 9582,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement amplitude parameter to `Input.vibrate_handheld`",
+  "up": 6,
+  "updatedAt": "2024-05-02T17:06:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9582"
+}

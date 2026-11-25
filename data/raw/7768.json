@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The Window command menu is *standard*. It is expected to just be there, for all macOS applications. Users should not have to go out of their way to add basic functionality to Godot.",
+    "format": "form",
+    "workaround": "The proposed changes would not effect anyone who decides not to use the new commands, besides from maybe anyone who maybe clicks the Window command menu accidentally whilst trying to click the Help menu, in which case the only repercussion is a moment of delay."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-18T17:36:12Z",
+  "comments": 1,
+  "createdAt": "2023-09-20T18:00:22Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 7768,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the Window command menu on macOS",
+  "up": 2,
+  "updatedAt": "2023-12-19T15:02:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7768"
+}

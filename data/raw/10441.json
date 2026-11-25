@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's similar to the View Owners, extended to nodes in the Scene Tree. Also, it would make sense for a contextual menu in the Scene Tree.",
+    "format": "form",
+    "workaround": "No, the workaround is to guess variable names and Find in Files, then find all nodes using found scripts, with no guarantee."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-14T13:39:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10441,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Scene tree: show node usages aka references to this node",
+  "up": 12,
+  "updatedAt": "2024-08-14T14:10:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10441"
+}

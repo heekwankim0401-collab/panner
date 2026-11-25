@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Given that something like TabContainer's behaviour of setting tab names is part of core already, I think that something that allows those names to be modified without additional script would fit in.\nAlso, given the minor nature of the change I feel that it would be too small to be worth a full on addon.",
+    "format": "form",
+    "workaround": "Yes, however it would often need the creation of a new script, which would only be a `_ready` function with `set_tab_title` calls. Considering the only purpose of the script will be to set static data, I feel it being a property editable in the inspector would fit better."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-16T19:06:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13408,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a default tab titles property to TabContainer",
+  "up": 1,
+  "updatedAt": "2025-10-17T10:21:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13408"
+}

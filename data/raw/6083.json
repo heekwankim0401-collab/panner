@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Self-explanatory",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-08T14:14:17Z",
+  "comments": 15,
+  "createdAt": "2023-01-11T19:22:54Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6083,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "How to synchronize font and font size across different node types collectively now that DynamicFont is gone",
+  "up": 1,
+  "updatedAt": "2023-12-08T14:18:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6083"
+}

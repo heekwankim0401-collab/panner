@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It affects the usability of the whole engine on a very basic level",
+    "format": "form",
+    "workaround": "Nope, it's a huge QOL feature required to be there in the engine"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-07T13:46:54Z",
+  "comments": 3,
+  "createdAt": "2024-10-25T05:56:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 11026,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow toggling of scripts panel in shader editor when a visual shader is open",
+  "up": 6,
+  "updatedAt": "2025-04-07T13:47:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11026"
+}

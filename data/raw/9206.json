@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No value as addon, just creates more duplicate state",
+    "format": "form",
+    "workaround": "Can be worked around easily but with duplicate state."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-02-29T13:03:54Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 9206,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "OpenXR Input - Value change event should send previous value",
+  "up": 0,
+  "updatedAt": "2024-02-29T13:06:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9206"
+}

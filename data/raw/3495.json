@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The function already exists in the engine, it is just a matter of adding bindings for GDScript to access it. Also, I think this is far too small of a feature to constitute an entire add-on. ,",
+    "format": "form",
+    "workaround": "I am currently in the process of converting the C++ code from the engine to GDScript, but since the function already exists in the engine I don't see why it shouldn't be accessible to GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-20T20:54:39Z",
+  "comments": 2,
+  "createdAt": "2021-11-04T04:25:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3495,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `CapsuleShape2D::_get_points()` to GDScript",
+  "up": 0,
+  "updatedAt": "2021-12-20T22:31:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3495"
+}

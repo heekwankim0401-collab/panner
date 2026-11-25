@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "/\n\nMy project:\n[RichTextEditTest.zip](https://github.com/godotengine/godot-proposals/files/9673360/RichTextEditTest.zip)",
+    "format": "form",
+    "workaround": "No, I can't!"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-09-30T00:50:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5517,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `select(from, to)` method to RichTextLabel to programmatically select a range of text",
+  "up": 6,
+  "updatedAt": "2026-05-06T15:35:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5517"
+}

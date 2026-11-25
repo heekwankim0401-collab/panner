@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's probably easier to update the reflection probe system than to refactor it all out.",
+    "format": "form",
+    "workaround": "The current reflection probe system is still perfectly usable. It may or may not perform better depending on the situation.[^w1]\n[^w1]:More likely when the number of probes is smaller, when each cubemap has higher resolution, and when the scene has less triangles."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-23T15:38:59Z",
+  "comments": 0,
+  "createdAt": "2023-01-26T20:47:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6180,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Extend the reflection probe system to use a raytraced equirectangular texture array",
+  "up": 3,
+  "updatedAt": "2023-08-23T16:04:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6180"
+}

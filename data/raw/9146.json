@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It deals with the native warning system and would play nice along the existing",
+    "format": "form",
+    "workaround": "It is difficult to force the parser to ignore some folders without temporarily moving them out of the project... In the case of GUT, it's easier as as long as you don't run GUT tests, GUT scripts won't be parsed, but for other plugins which contain nodes and editor scripts used in the scene, it seems difficult to remove/disable them."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-17T17:03:49Z",
+  "comments": 1,
+  "createdAt": "2024-02-21T15:00:40Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "topic:plugin"
+  ],
+  "milestone": "4.6",
+  "number": 9146,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Project settings: add Debug > GDScript > Warnings parameter to include/exclude specific add-ons",
+  "up": 1,
+  "updatedAt": "2025-11-17T17:03:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9146"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As CollisionObject2D is implemented on core for 2D physics, it would be the same for this proposal, as it can improve in performance than creating a GDScript or even GDNative addon.\nI really think this proposal would benefit a lot of 2D platform projects, top-down games like [Enter the Gungeon](https://www.youtube.com/watch?v=DrYti1nI7aA), and many more that needs 3D rendering with 2D physics.",
+    "format": "form",
+    "workaround": "I think it is possible to create a addon to create these Spatial nodes, but there's a lot to cover in these nodes, like initialization, Physics2DServer resources allocation, Spatial transform update and freeing resources when the node is destroyed.\nSo it seens there's no way to create this proposal in a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-07-03T16:11:21Z",
+  "down": 2,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 4803,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a CollisionObjectSpatial2D implementation",
+  "up": 0,
+  "updatedAt": "2022-07-05T17:21:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4803"
+}

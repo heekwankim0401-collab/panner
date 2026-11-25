@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Geometry shaders are supported since OpenGL ES 3.2 and most devices i ever worked with, even cheap mobile phones from 2019 do support OpenGL ES 3.2+, let alone desktop devices.\nUnfortunately, to have such a tool that provides near 99% of efficiency right in Godot remains only a dream. The chip silicone and graphics APIs has this already implemented but they stay unutilized.",
+    "format": "form",
+    "workaround": "workaround is less efficient"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-26T21:57:02Z",
+  "comments": 1,
+  "createdAt": "2025-03-26T19:35:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12081,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Geometry Shaders support",
+  "up": 0,
+  "updatedAt": "2025-03-26T21:57:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12081"
+}

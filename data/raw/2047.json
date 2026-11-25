@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is inspector itself",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-07T18:44:27Z",
+  "comments": 1,
+  "createdAt": "2020-12-29T14:45:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2047,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an icon indicating that the sub-resource tree is clickable in the Inspector",
+  "up": 10,
+  "updatedAt": "2021-06-07T18:44:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2047"
+}

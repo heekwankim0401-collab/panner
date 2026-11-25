@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-13T02:16:21Z",
+  "comments": 2,
+  "createdAt": "2026-04-09T14:01:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14629,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make gizmos of nodes created in `@tool` scripts visible in the 3D editor",
+  "up": 0,
+  "updatedAt": "2026-04-14T12:51:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14629"
+}

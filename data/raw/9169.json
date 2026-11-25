@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This concerns the architecture of core nodes and resources.",
+    "format": "form",
+    "workaround": "No, it requires quite a bit of custom tooling to work around."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-27T22:17:27Z",
+  "comments": 17,
+  "createdAt": "2024-02-24T23:33:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 9169,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Split out the structural info of Skeleton3D into a Resource class",
+  "up": 2,
+  "updatedAt": "2024-02-27T22:17:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9169"
+}

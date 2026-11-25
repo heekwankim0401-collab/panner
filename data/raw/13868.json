@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this can be done with an add-on?\nIt should be supported by default, anyway.",
+    "format": "form",
+    "workaround": "Yes, but not within Godot, as JSONC files are not shown and cannot be opened."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-15T23:19:49Z",
+  "comments": 7,
+  "createdAt": "2025-12-15T00:24:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13868,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `jsonc` as recognized file extension",
+  "up": 0,
+  "updatedAt": "2025-12-15T23:32:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13868"
+}

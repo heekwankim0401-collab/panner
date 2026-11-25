@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I cannot answer this, please help?",
+    "format": "form",
+    "workaround": "I have abstracted/stubbed out most JSBridge calls with hardcoded return values but i walked past the warning signs of spaghetti 700 lines ago."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-09-15T10:18:51Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10748,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a built-in JavaScript runtime for non-web builds to make JavaScriptBridge functional on all platforms",
+  "up": 3,
+  "updatedAt": "2024-10-09T01:41:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10748"
+}

@@ -1,0 +1,28 @@
+{
+  "answers": {
+    "core": "This is a compatibility-breaking change, and it's about improving usability when developing mobile games.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2022-02-15T19:32:04Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:gui",
+    "topic:input",
+    "topic:platforms",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 3976,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement multitouch in BaseButton to supersede TouchScreenButton",
+  "up": 55,
+  "updatedAt": "2026-06-07T17:43:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3976"
+}

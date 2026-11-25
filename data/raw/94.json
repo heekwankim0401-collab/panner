@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would make 2D animations in godot considerably more flexible and powerful. Not to mention it just makes sense to do it. Forcing all animations to have homogeneous FPS for each of their frames means users have to hack their way around this system if they want something different.",
+    "format": "legacy",
+    "workaround": "Perhaps allow users to override these individual frame speeds with the old FPS system."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2019-09-21T19:42:50Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 94,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to adjust the speed of individual frames on AnimatedSprites",
+  "up": 7,
+  "updatedAt": "2021-11-04T22:01:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/94"
+}

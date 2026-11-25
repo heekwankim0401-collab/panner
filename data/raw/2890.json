@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core.\n\nOriginal issue: https://github.com/godotengine/godot/issues/18695",
+    "format": "form",
+    "workaround": "Nope, can't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-06T14:11:39Z",
+  "comments": 2,
+  "createdAt": "2021-06-19T10:53:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 2890,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve Button->ShortCut->InputEventKey usability",
+  "up": 1,
+  "updatedAt": "2021-07-06T14:11:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2890"
+}

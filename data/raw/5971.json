@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this would require updates in the Android/iOS-specific Godot wrappers, so I don't think an add-on could really achieve this.",
+    "format": "form",
+    "workaround": "From searching Godot documentation, Godot source code/issues, and searching online, I haven't been able to find any existing callback or notification that would allow a user to respond to changes in device screen orientation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-12-21T00:37:37Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 5971,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Notification that is sent whenever device screen orientation is changed",
+  "up": 0,
+  "updatedAt": "2024-09-15T00:14:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5971"
+}

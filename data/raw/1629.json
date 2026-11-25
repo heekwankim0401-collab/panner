@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't believe this can be done as an add-on.",
+    "format": "legacy",
+    "workaround": "The only work around is to not use type definitions."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-08T13:32:05Z",
+  "comments": 2,
+  "createdAt": "2020-10-08T13:15:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1629,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make GDScript cyclic reference checks \"smarter\".",
+  "up": 0,
+  "updatedAt": "2020-10-08T13:32:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1629"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is adding to workflows, and would be also create a standard for implementing editor hidden functions, allowing for an easy to understand concept, current convention is non existent, and using a single underscore conflicts with other conventions for functions intended to be overridden\n\nBy default this does not change anyone's workflow, but can help with cleaning up workflow and auto-exposure of functions when making interconnected systems, and if we call them as exposure-limited or hidden instead of private, it will not be confused with C# convention",
+    "format": "form",
+    "workaround": "No, this would require modifying several parts of the editor code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-01-12T03:38:08Z",
+  "down": 3,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8868,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Standardize naming convention for limited-exposure variables in GDScript",
+  "up": 0,
+  "updatedAt": "2024-01-13T10:53:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8868"
+}

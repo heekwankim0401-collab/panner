@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This method should be a feature that someone would except to be directly into the engine, having to recreate the behaviour from scratch makes almost no sense.",
+    "format": "form",
+    "workaround": "You could recreate the behaviour from `ShapeCast2D/3D` by using the direct space states' `cast_motion` and `get_rest_info`, and then get the rest info's rid from the returned dictionary, but it's basically recreating the `ShapeCast2D/3D` behaviour from scratch, which is not ideal for the end user."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-02T17:57:49Z",
+  "comments": 0,
+  "createdAt": "2022-11-01T18:07:55Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 5703,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method for getting the collider's RID from a ShapeCast2D/3D",
+  "up": 3,
+  "updatedAt": "2022-11-02T17:57:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5703"
+}

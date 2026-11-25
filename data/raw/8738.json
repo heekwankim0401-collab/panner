@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this will affect most themes, so it should be core. Even the default theme has rounded corners, so is pretty common that you need transparent backgrounds in popups.",
+    "format": "form",
+    "workaround": "It can be worked arround, but is very inconvenient, i think is a common use case."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-07T22:27:24Z",
+  "comments": 3,
+  "createdAt": "2023-12-28T15:55:40Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 8738,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow a way to set transparent background to popups in themes.",
+  "up": 7,
+  "updatedAt": "2025-01-07T22:27:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8738"
+}

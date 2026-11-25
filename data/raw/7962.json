@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is something that is quite essential in many situations and should be part of the core.",
+    "format": "form",
+    "workaround": "I don't think this can be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-02T15:51:42Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7962,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a secondary UV channel(UV2) for 2d shaders(canvas_item shader type)",
+  "up": 7,
+  "updatedAt": "2024-08-23T21:07:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7962"
+}

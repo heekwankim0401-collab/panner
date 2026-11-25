@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Adding inbuilt functions to sample and reuse stages of glsl pipeline is core. It might potentially be useful as a starting point for moving the inbuilt light calculations into a more reusable space and allowing users to tap into the built in light functions.",
+    "format": "form",
+    "workaround": "No workaround exists."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-01-13T02:12:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8872,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "New inbuilt function, Sample Directional Shadows in Vanilla Godot Light Function",
+  "up": 10,
+  "updatedAt": "2026-08-05T17:33:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8872"
+}

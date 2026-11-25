@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's adding features to existing core functionality.",
+    "format": "form",
+    "workaround": "Preprocessor is core functionality, so not easily."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-08-02T19:11:10Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5062,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Shader Preprocessor Improvements",
+  "up": 14,
+  "updatedAt": "2025-01-07T19:36:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5062"
+}

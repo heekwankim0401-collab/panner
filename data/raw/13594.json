@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The functionality already exists in the Engine.",
+    "format": "form",
+    "workaround": "No, GDScript can't directly access the Clipper2 library."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-11-07T18:32:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13594,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `Geometry2D.merge_many_polygons()` to the scripting API",
+  "up": 9,
+  "updatedAt": "2025-11-24T19:26:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13594"
+}

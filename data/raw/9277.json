@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "range() is core function",
+    "format": "form",
+    "workaround": "Yes"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-12T04:06:12Z",
+  "comments": 2,
+  "createdAt": "2024-03-11T02:40:51Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9277,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `range()` return `Array[int]` instead of an untyped Array",
+  "up": 0,
+  "updatedAt": "2024-03-12T12:15:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9277"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "most people who either are starting out with godot, or have been working on a project for a while will most likely be using whatever format is by default built in, and will continue using it until they eventually reach some point where they do need to get the length of the video or seek the video, in this case there's only a few options, either get a GDExtension that implements these functions and then re-encode all of their videos, completely pivot their idea to no longer need that functionality, or move completely away from godot as functionality like this is present in other engines.\n\nfor the most part beginners in this situation will be inclined to move to a new engine",
+    "format": "form",
+    "workaround": "As per documentation this can be worked around using a separate GDExtension that implements it's own format"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-22T17:22:16Z",
+  "comments": 8,
+  "createdAt": "2024-07-08T04:10:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 10148,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement `get_stream_length()` for built-in supported video formats",
+  "up": 3,
+  "updatedAt": "2025-05-22T17:24:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10148"
+}

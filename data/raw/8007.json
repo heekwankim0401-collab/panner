@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It additional node that improves quality of life.",
+    "format": "form",
+    "workaround": "I couldn't find a way to achieve this with script. (Maybe I could swap animation tracks names? I'm not sure.)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-10-06T15:29:51Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 8007,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an animation node that will mirror animation on a skeleton",
+  "up": 19,
+  "updatedAt": "2025-12-06T21:51:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8007"
+}

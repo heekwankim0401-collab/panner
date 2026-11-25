@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It is very minimalistic, it is a .gd with few lines of code so it can be a core feature.",
+    "format": "form",
+    "workaround": "It will be very useful for RTS games that need paning and/or zooming features."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-09-04T13:08:22Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:dotnet",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5326,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"RTS Camera\" script template for `Camera2D`",
+  "up": 0,
+  "updatedAt": "2024-04-18T01:09:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5326"
+}

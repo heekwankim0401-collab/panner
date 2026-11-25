@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "~~The data is right there just let me have it~~\nThe engine already does the work to chunk the shapes, it feels wasteful to re-implement a feature that already exists.\nI also personally feel like \"magic\" data that the engine creates, shows you that it creates, and doesn't allow you to use except for the canonical use case goes against the engine's philosophy and strengths",
+    "format": "form",
+    "workaround": "It can be worked around, although with more than few lines of script:\nChunk the available tiles in the tilemap,\nCollect the polygon data for each tile -> tile data,\nUse `Geometry2D` functions to merge and decompose the polygons (although the specific `Geometry2D` functions used in the chunker implementation are also not exposed, so that also means extra legwork)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-15T17:10:14Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 12612,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to get chunked tile polygons",
+  "up": 1,
+  "updatedAt": "2025-06-15T19:13:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12612"
+}

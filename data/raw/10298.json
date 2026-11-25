@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is already for an addon and there's no way to get it from it 🙂",
+    "format": "form",
+    "workaround": "I could manually parse preloads from the source code but it won't be a few lines. Given that the `Script` class already provides some very useful methods to inspect scripts (getting methods, properties, etc) it would make sense for it to also expose dependencies as it can be useful for all kinds of editor plugins"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-07-28T13:20:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10298,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose script dependencies to editor plugins",
+  "up": 12,
+  "updatedAt": "2024-07-28T14:41:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10298"
+}

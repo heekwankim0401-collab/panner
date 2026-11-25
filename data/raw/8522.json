@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the interface between gdscript and gdext. If I build a scene in gdext via code. I should be able to ~~see the scene when the class is extended in an editor tool scene.~~ differentiate which child nodes where added by the parent class and which ones were manually added via the scene editor\n```[tasklist]",
+    "format": "form",
+    "workaround": "I don't think this is possible without an engine/editor enhancement"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-11-27T00:12:17Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8522,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `Node.set_scene_inherited_state()` method to set child node as inherited ",
+  "up": 5,
+  "updatedAt": "2023-12-02T22:42:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8522"
+}

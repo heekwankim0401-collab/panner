@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A built in option to mark a node as an editor or debug node would be a convenient feature.",
+    "format": "form",
+    "workaround": "Yes.\n```gdscript\nextends Node\n\nfunc _ready() -> void:\n\tif not OS.get_cmdline_args().has(\"--debug-nodes\"):\n\t\tprint('Removing debug node %s' % get_path())\n\t\tqueue_free()\n\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-15T16:17:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11162,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to mark a node and it's children as editor or debug only",
+  "up": 8,
+  "updatedAt": "2024-11-15T17:42:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11162"
+}

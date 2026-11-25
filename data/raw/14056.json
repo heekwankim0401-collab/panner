@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Same category as why e.g. `DisplayServer.get_display_safe_area()` is in core and not an add-on.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 1,
+  "closedAt": "2026-01-29T16:29:36Z",
+  "comments": 4,
+  "createdAt": "2026-01-24T02:17:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.7",
+  "number": 14056,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `DisplayServer.get_rounded_corner()` method to get the radius of the display's rounded corner on Android devices",
+  "up": 0,
+  "updatedAt": "2026-02-10T22:34:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14056"
+}

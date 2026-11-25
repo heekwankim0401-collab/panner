@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement would greatly increase the ease of creating Tutorials, Dialogue, and many other things.",
+    "format": "form",
+    "workaround": "While there *are* ways that this can be implemented with Scripts, they frequently are unwieldy and prone to breakage."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-02-20T03:10:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9138,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement \"trigger bbcodes\" in RichTextLabel",
+  "up": 0,
+  "updatedAt": "2024-02-20T12:12:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9138"
+}

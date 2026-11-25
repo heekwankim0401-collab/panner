@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, I'm aware of https://github.com/godotengine/godot-git-plugin/\nThe main reason why it has to be added to core - it's meant to be mainly informational feature (plus \"revert block\" function).\nDespite functionality that it may suggest - I personally don't need it, as prefer to interact with Git via CLI or, in complicated cases, something UI-based, like SmartGit.",
+    "format": "legacy",
+    "workaround": "I don't think there are a \"few line solution\" for this. Also - suggested enhancement will be used on constant basis."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-06-19T15:33:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1089,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add color status and gutters for VCS",
+  "up": 11,
+  "updatedAt": "2026-06-01T08:29:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1089"
+}

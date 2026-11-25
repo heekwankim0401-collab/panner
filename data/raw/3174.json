@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "Theres no way to do that with asset lib (as i know)",
+    "format": "form",
+    "workaround": "I don't know for sure"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-03T11:07:45Z",
+  "comments": 3,
+  "createdAt": "2021-08-21T02:50:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "platform:ios",
+    "topic:export",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3174,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Check if its exporting for release or debug by the code on Android/iOS Plugin",
+  "up": 0,
+  "updatedAt": "2021-09-03T12:14:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3174"
+}

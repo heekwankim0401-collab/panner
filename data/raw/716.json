@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Gizmos Icons are one of the first sources of information users have access to, I think getting them right is important for ease of use.",
+    "format": "legacy",
+    "workaround": "Maybe it can be done with a plugin substituting all the gizmos materials, but not in a \"few lines of script\" that's for sure."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-20T18:44:58Z",
+  "comments": 6,
+  "createdAt": "2020-04-15T22:02:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 716,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Draw Gizmos Icons always on top",
+  "up": 3,
+  "updatedAt": "2021-02-20T18:45:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/716"
+}

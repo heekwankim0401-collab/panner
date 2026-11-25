@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I found some addons that offer different approaches to the current parallaxing in Godot, however they couldn't fill my needs in some regards.",
+    "format": "form",
+    "workaround": "Probably not \"a few\". I've searched for some implementations but wasn't able to find what I was looking for, even with more lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-12-17T14:20:05Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8680,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for previewing ParallaxBackground and ParallaxLayer movement in the editor",
+  "up": 2,
+  "updatedAt": "2023-12-18T12:09:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8680"
+}

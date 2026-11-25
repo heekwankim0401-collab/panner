@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This could probably be an add-on script, I need to see first if it's possible to stop the export dialog from running after one of the export buttons is pressed and before the verification dialog is finished just using scripts.",
+    "format": "form",
+    "workaround": "I'm not sure if it's possible to prevent the export dialog from running before displaying the verification dialog using scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-04-08T10:50:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 9475,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add verification step in the Export system",
+  "up": 0,
+  "updatedAt": "2024-04-08T11:33:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9475"
+}

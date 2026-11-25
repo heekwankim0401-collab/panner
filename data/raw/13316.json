@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core functionality that affects anyone who uses explicit typing.",
+    "format": "form",
+    "workaround": "The user can declare a new variable to circumvent this, but it creates unnecessary bloat : \n\n<img width=\"697\" height=\"300\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/cb1848c9-3ccc-455f-b941-e8c8ffb15363\" />"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-01T22:12:23Z",
+  "comments": 5,
+  "createdAt": "2025-10-01T14:00:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13316,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disable unsafe property/method access warning after type checks",
+  "up": 3,
+  "updatedAt": "2025-10-01T22:12:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13316"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is a source of confusion and not logical, looping should be an option in the AudioStreamPlayer only",
+    "format": "form",
+    "workaround": "No because the AudioStreamPlayer looping option has no effect on audio assets imported with looping turned on in the import settings"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-16T10:17:27Z",
+  "comments": 12,
+  "createdAt": "2021-08-11T23:14:52Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:audio",
+    "topic:import"
+  ],
+  "milestone": "4.3",
+  "number": 3120,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move Loop from an import option to a property in the AudioStreamPlayer nodes",
+  "up": 34,
+  "updatedAt": "2026-07-01T09:32:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3120"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Engine core",
+    "format": "form",
+    "workaround": "Engine core"
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-10T13:08:17Z",
+  "comments": 2,
+  "createdAt": "2022-04-10T09:00:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4372,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `find_ancestor` node function",
+  "up": 0,
+  "updatedAt": "2022-04-10T17:14:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4372"
+}

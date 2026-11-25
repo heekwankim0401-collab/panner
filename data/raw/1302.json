@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core feature.",
+    "format": "legacy",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-02T13:22:57Z",
+  "comments": 30,
+  "createdAt": "2020-08-03T16:01:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.2",
+  "number": 1302,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to get the editor's Camera2D/Camera3D nodes",
+  "up": 30,
+  "updatedAt": "2023-10-02T13:22:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1302"
+}

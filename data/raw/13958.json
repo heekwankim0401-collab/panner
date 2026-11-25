@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "i dont think addon can add this support.",
+    "format": "form",
+    "workaround": "No easy workaround. :\n\nParticles: Can't control individuals.\n\nMultiMesh: Requires complex compute shader code(im still trying to figure out how to use RenderingDevice, we dont have much tutorial for it as of now), indirect draw setup—far more than \"a few lines of script.\" This proposal packages that complexity into a ready-to-use node."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-05T17:10:22Z",
+  "comments": 1,
+  "createdAt": "2026-01-05T16:35:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13958,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a new node \"GPUinterpolationNode\" a node in between multiMesh and partical",
+  "up": 0,
+  "updatedAt": "2026-01-06T19:11:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13958"
+}

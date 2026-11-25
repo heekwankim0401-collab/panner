@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the usability of the script editor.",
+    "format": "form",
+    "workaround": "No, I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-07-25T15:35:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12863,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add inlay hints to the script editor",
+  "up": 10,
+  "updatedAt": "2026-01-02T22:05:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12863"
+}

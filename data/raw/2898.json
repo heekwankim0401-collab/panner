@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it's an elemental building block in the API that would complement the corresponding getter.",
+    "format": "form",
+    "workaround": "I don't know of any workaround unless I use individual tiles instead of atlases, but that would take a lot of time and make management of tile resources harder."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-06-21T14:02:27Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2898,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `TileMap::set_cell_autotile_coord()` method",
+  "up": 0,
+  "updatedAt": "2021-06-21T14:16:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2898"
+}

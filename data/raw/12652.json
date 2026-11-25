@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Again. It makes UI more consistent.",
+    "format": "form",
+    "workaround": "I guess so... It's just that your UI is currently quite inconsistent.\n\nWhen displayed texture for button changes it could just run (calculate texture ratio)->(check current height)->(set minimal width to current height * ratio)->(send size_changed signal, but it actually will be sent anyway) \n\nMaybe it is possible to do without coding just with some combination of editor tools and options... I'm not sure... I just used manually calculated min-widths, cause that was the least amount of effort for me. But I'm here mostly to point out inconvenience and inconsistency.\n\nFor horizontal bar with min width instead of min height just flip widths and heights."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-06-22T22:18:24Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12652,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an Expand Mode property to TextureButton",
+  "up": 0,
+  "updatedAt": "2025-06-25T15:53:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12652"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think this can be done with an addon.",
+    "format": "form",
+    "workaround": "As mentioned by @dalexeev, you can cover the viewport with a Control node to stop mouse events."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-07-11T04:28:35Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10170,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a mouse mode that disables mouse input entirely",
+  "up": 4,
+  "updatedAt": "2026-10-23T18:54:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10170"
+}

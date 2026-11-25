@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of an efficient workflow that everyone working with scene inheritance would benefit from.",
+    "format": "form",
+    "workaround": "I think technically it may be possible to re-pack from the scene and override an existing PackedScene asset to mimic that, but there currently are bugs that prevent persisting direct scene inheritance; and there's no API for modifying or persisting SceneState (https://docs.godotengine.org/en/stable/classes/class_scenestate.html), which would probably have less sideffects for most of the required operations than plainly repacking the whole scene."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-07-06T05:40:12Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4820,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor action to apply changes from inheriting scenes to the base scene",
+  "up": 5,
+  "updatedAt": "2026-06-29T18:16:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4820"
+}

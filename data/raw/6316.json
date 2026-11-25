@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's low-level access.",
+    "format": "form",
+    "workaround": "Currently I just call `travel()` and if it fails, I read the output error, which is pretty good in fact. It's just that I cannot control the program flow after that."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-02-18T19:22:25Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6316,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Animation Tree & State Machine: add method to check if animation node exists",
+  "up": 4,
+  "updatedAt": "2024-03-22T13:13:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6316"
+}

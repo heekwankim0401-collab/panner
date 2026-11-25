@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In general i think this sort of thing should be part of the core feature set. It has applications in many different game settings.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-20T21:26:34Z",
+  "comments": 11,
+  "createdAt": "2019-09-15T16:04:25Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 72,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for hullcasting",
+  "up": 9,
+  "updatedAt": "2023-07-20T21:26:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/72"
+}

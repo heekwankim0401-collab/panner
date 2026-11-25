@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "That would improve usability of SpinBox node",
+    "format": "form",
+    "workaround": "Possible solutions:\n1. Creating custom `SpinBox` node from scratch, although this is a cumbersome solution\n2. Modifying internal LineEdit text (works only when adding 2-frame delay before value change, which is not suitable solution)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-10-30T23:02:43Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13515,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a parameter to `SpinBox` to show unary + (plus) sign",
+  "up": 0,
+  "updatedAt": "2025-10-31T09:15:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13515"
+}

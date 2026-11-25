@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this should be in core as it affects the editor itself, will reduce code duplications and will help game developers if they need a `Button` with a customized `Popup` outside of a `Menu`.\n\nIt is also consistent with all the other `Control`s, which are more generic and fit into more usecases.\n`MenuButton` fits to the `Menu` usecase (the default setting also indicate that). It is a much more specialized `Control` and may even get more specialized properties/methods in the future (e.g. mnemonics).",
+    "format": "form",
+    "workaround": "All 'wrongly' used `MenuButton`s needs to be adjusted with at least the following two lines of code in the editor and game code:\n`menu_button.set_flat(false);`\n`menu_button.set_focus_mode(FOCUS_ALL);`\nThat does not fix the issue, that a `MenuButton` does not look like a control with a `Popup`, So a graphic may need to be set as well.\n\nThe code duplication in the editor can not be solved otherwise."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-01-17T22:28:43Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6115,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement `PopupButton` Control as replacement for wrongly used `MenuButton`s",
+  "up": 5,
+  "updatedAt": "2023-01-18T11:21:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6115"
+}

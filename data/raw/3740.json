@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Basic breakpoint management is essential in an editor.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-16T14:09:01Z",
+  "comments": 2,
+  "createdAt": "2022-01-02T13:06:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3740,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a breakpoint list to the editor",
+  "up": 4,
+  "updatedAt": "2022-01-16T14:09:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3740"
+}

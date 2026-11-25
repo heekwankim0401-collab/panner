@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Convenience",
+    "format": "form",
+    "workaround": "A _bunch_ of lines of script.\n\nI believe it's useful for any other editor built on top of graph edit that has conditional paths in the graph (quests, dialogues, maybe visual scripts one day)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-01-26T12:43:02Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11643,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a native way to display a label on top of a GraphEdit connection",
+  "up": 1,
+  "updatedAt": "2025-01-27T18:42:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11643"
+}

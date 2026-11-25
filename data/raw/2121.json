@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core: Addition to functionality of ScrollContainers",
+    "format": "markdown",
+    "workaround": "Not that I know of."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-21T09:55:19Z",
+  "comments": 7,
+  "createdAt": "2021-01-14T14:20:19Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 2121,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow ScrollContainer's ScrollBar to always claim space",
+  "up": 14,
+  "updatedAt": "2024-09-21T09:55:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2121"
+}

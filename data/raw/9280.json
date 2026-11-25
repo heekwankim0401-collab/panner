@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Given the importance of code quality and consistency in game development, a customizable linter would be a valuable addition to the core functionality of the Godot engine. By integrating it into the core, all Godot users would have access to this essential tool, promoting best practices and improving overall code quality across the community.",
+    "format": "form",
+    "workaround": "While some aspects of code consistency and quality can be enforced with manual checks or scripts, a dedicated linter provides a more robust and automated solution. The customizable nature of the proposed linter allows teams to tailor it to their specific needs, providing a more efficient and effective way to maintain code quality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-03-11T08:29:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9280,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add GDScript warnings to detect code style issues not fixable by a code formatter",
+  "up": 2,
+  "updatedAt": "2024-03-13T21:59:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9280"
+}

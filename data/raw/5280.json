@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think being able to debug easily by just the editor itself should be accessible without any add-on. That's how I saw and used most of the editors and IDEs out there till now.",
+    "format": "form",
+    "workaround": "I think as an alternative for this feature, what we can do is putting some code snippet which enables us to ask for input on the fly. But, I'm inclined to believe that having a nicely builtin debug console would definitely be perfect for all the developers."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-28T14:52:49Z",
+  "comments": 2,
+  "createdAt": "2022-08-28T10:39:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5280,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Interactive debug console for easy debugging",
+  "up": 2,
+  "updatedAt": "2022-08-28T14:52:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5280"
+}

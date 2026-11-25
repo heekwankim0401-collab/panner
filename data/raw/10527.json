@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It needs to modify the compilation rule of shader language. I cannot image how it can be replaced by an add-on.",
+    "format": "form",
+    "workaround": "No.\n\nThe workaround I found for current version is quite complex and unrobust:\n1. Copy all meshes and use a custom shader which output mid-data with DIFFUSE_LIGHT. \n2. Use a sub-viewport to render these copied meshes. \n3. Get mid-data from the viewport texture.  \n\nIn short, I need a two-pass rendering for achieve the effect just like mentioned in #484 \n\nIf the proposal is adopted, the complex workaround can be easily achieved by using a varying to store the mid-data."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-08-22T06:15:05Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 10527,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow assigning a varying in shader light function",
+  "up": 5,
+  "updatedAt": "2025-02-12T03:35:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10527"
+}

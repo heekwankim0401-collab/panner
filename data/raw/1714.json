@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would be good for 3d block based games",
+    "format": "legacy",
+    "workaround": "I don't want to have to attach a script to every mesh just to do something a material should do."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T19:41:31Z",
+  "comments": 12,
+  "createdAt": "2020-10-24T00:45:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1714,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to repeat 3D materials based on texture ",
+  "up": 0,
+  "updatedAt": "2024-01-01T16:18:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1714"
+}

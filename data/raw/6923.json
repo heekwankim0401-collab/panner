@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "core UI change",
+    "format": "form",
+    "workaround": "Ideally, any UI change here wouldn't add any extra clicks or submenus. This change may require the default sizes of the left panels to change to accomidate an additional panel, but that new panel could be relatively short (by default) to minimize any extra scrolling needed in the other panels."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-05-21T09:11:15Z",
+  "down": 5,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6923,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Relocate top bar and open scenes",
+  "up": 4,
+  "updatedAt": "2023-05-22T17:43:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6923"
+}

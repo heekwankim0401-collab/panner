@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Technically speaking, there's nothing stopping someone from creating a GDNative plugin for cjson, however since JSON is so integral to gamedev--especially online games as mentioned before, I believe that this makes the most sense as an enhancement to core.",
+    "format": "legacy",
+    "workaround": "No. JSON is a core feature"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-11-13T22:54:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1833,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use cJSON for JSON (un)marshalling instead of a custom implementation",
+  "up": 14,
+  "updatedAt": "2025-08-12T16:19:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1833"
+}

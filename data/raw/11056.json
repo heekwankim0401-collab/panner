@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It might be possible to implement a server in this fashion as separate project, but it would kind of destroy the idea of consistency between internal and external editors.\n\n[^1]: I have been prototyping with this a bit, the main problems still to solve at the moment: recursive data types require some special solution; I've been using std::variant for `or` types, since Godot's `Variant` doesn't really fit the job; The spec is based on typescripts type system so I'll still need a solid strategy to handle nullability\n\n[^2]: See the last paragraph of the [Language Server Protocol overview](https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/#languageServerProtocol)\n\n[^3]: https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/#lifeCycleMessages",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-10-31T13:36:26Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11056,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Refactor the GDScript Language Server to improve maintainability",
+  "up": 8,
+  "updatedAt": "2026-04-08T19:31:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11056"
+}

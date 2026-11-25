@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In the gaming industry, it's used in [ Nintendo Switch](http://www.nintendo.com/switch/), [ Unity](https://unity.com/), [ Hitman 3](https://www.pcgamer.com/how-hitman-3s-devs-shrank-the-entire-trilogys-install-size-by-over-80gb/), [ Death Stranding](http://www.kojimaproductions.jp/en/death_stranding.html), [ Battlefield 4](https://www.battlefield.com/battlefield-4), [ Guild Wars 2](https://www.guildwars2.com/), [ Crytek](http://www.crytek.com/), [ Black Ops 3](https://www.callofduty.com/fr/blackops3), [ Black Ops Cold War](https://youtu.be/DkspHgt27Io?t=712), [ FIFA](https://www.easports.com/fr/fifa), [ Sine Mora](https://www.sinemoragame.com/) and [ 1000 Tiny Claws](https://www.youtube.com/watch?v=wjN9vkWKZIU). (source: https://lz4.org/#lz4usedby).\n\nAlso, `PackedByteArray.compress`, `PackedByteArray.decompress` and `FileAccess.open_compressed` couldn't be used.",
+    "format": "form",
+    "workaround": "No, although if we ignore usage with builtin utility functions `PackedByteArray.compress`, `PackedByteArray.decompress` and `FileAccess.open_compressed`, it can probably be implemented as a GDExtension."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-12-28T10:16:00Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11434,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add LZ4 compression support",
+  "up": 7,
+  "updatedAt": "2025-05-06T15:32:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11434"
+}

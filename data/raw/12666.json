@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Navigation is core.",
+    "format": "form",
+    "workaround": "Can be hardly worked around in script as pathfinding is very performance costly so scripted solutions do not scale well with project size."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-25T20:02:21Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 12666,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Dubins-Path pathfinding algorithm for navmesh path queries to better support vehicles and animals",
+  "up": 16,
+  "updatedAt": "2025-06-25T23:29:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12666"
+}

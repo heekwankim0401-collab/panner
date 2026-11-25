@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "- An add-on would be overkill for this\n- The suggested helper is adding methods to primitive types",
+    "format": "form",
+    "workaround": "Yes, the function itself can be written but:\n- it's likely to be needed in many places within a project\n- it might have a slight performance impact compared to native\n- it may require to write various variants of the same function (one for `float`, one for `Vector2`, and one for `Vector3`)"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-24T20:02:18Z",
+  "comments": 21,
+  "createdAt": "2024-05-22T09:44:53Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9803,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Provide a smooth move_toward",
+  "up": 27,
+  "updatedAt": "2025-09-28T16:14:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9803"
+}

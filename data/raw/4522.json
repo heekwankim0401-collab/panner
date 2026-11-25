@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Navigation is core.",
+    "format": "form",
+    "workaround": "Godot has a bake option for NavigationMesh for a good reason as no one wants to update so many Navigation Objects constantly by hand ... also Navigation is core.\n\nIt can be done only with brute force with scripts as I did for the screens and animation. The RVO World can not be directly edited with GDScript. For the small demo I used the \"stupid\" approach with a Path Node around my NavigationMesh and script placed StaticCollisionShapes with ObstacleAgents along the path. This is like 10000% overhead for what RVO requires which is just planes and radius. I think a more skillful C++ developer than me can reduce the performance cost down to a no longer noticeable fraction."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-10T08:28:59Z",
+  "comments": 11,
+  "createdAt": "2022-05-09T21:53:29Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.1",
+  "number": 4522,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add RVO NavigationMesh Obstacle Planes for NavigationAgent2D/3D Avoidance",
+  "up": 16,
+  "updatedAt": "2023-05-10T08:28:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4522"
+}

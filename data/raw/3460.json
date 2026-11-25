@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Restarting, like Quitting a game, is a core functionality of a game engine, and is something that is quite useful for creating settings and applying them when they require a restart to take effect.",
+    "format": "form",
+    "workaround": "There are a few ways to do this, but none that are very clear to new people, and aren't as clean."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-01T14:49:21Z",
+  "comments": 1,
+  "createdAt": "2021-10-22T12:04:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3460,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to easily restart a project",
+  "up": 12,
+  "updatedAt": "2022-08-01T14:49:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3460"
+}

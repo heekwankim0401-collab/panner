@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "We are talking about modifications to plugins so it has to be core",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-28T16:46:49Z",
+  "comments": 16,
+  "createdAt": "2020-06-26T17:59:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1124,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Modifying Godots Plugin system",
+  "up": 2,
+  "updatedAt": "2020-06-30T07:50:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1124"
+}

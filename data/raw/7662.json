@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I do not know by which principles it is decided whether or not a feature is ultimately added to the Core engine, so I'm not qualified to answer this objectively.\n\nI will say there are probably many other uses for this than my own individual use case that was described.  I can imagine cool \"kaleidoscope of repeating 3D objects\" effects, or even fractal-like effects (if Mimic3D can mimic other Mimic3D objects, each scaling down, etc) which would be easy to do with this proposed feature with significantly less scripting needed than would currently be required.",
+    "format": "form",
+    "workaround": "Yes, this scripting \"workaround\" is what I'm currently doing now, but calling it a \"few lines\" is wishful thinking!!\n\nIterating through way more DungeonCell3D nodes than the 20x20 actual cells in a dungeon, is something that is prone to mistakes.  Especially once I begin implementing the addition of columns soon (which will be yet another separate grid of 3D objects which are placed in the 3D dungeon scene, each depending on whether or not any wall touches a given point between the edges of four actual cells in the Dungeon data structure), then the current strategy of faking the wraparound effect, as it is being implemented now via scripting, is going to get increasingly complex.\n\nMaybe another option is to use non-euclidean shader+camera tricks, like those seen in games like Portal or Superliminal, although my personal experience/know-how with that sort of thing is pretty much zero and would thus add a burdensome amount of \"trial-and-error on one feature\" time to development.  I could always find a freelancer to help with that, I guess.\n\nIn my original version of this game, this was all achieved through very old, pre-3.0 OpenGL -- aka \"immediate mode\", so wrap-around was just a trivial consequence of using simple modulo operations in the rendering loop.  But that is not the \"modern\" way of doing game graphics anymore;  certainly not in Godot (or any other similar engine)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-09-14T04:29:29Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7662,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Mimic\" and \"Mimic3D\" node type",
+  "up": 0,
+  "updatedAt": "2024-02-10T18:51:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7662"
+}

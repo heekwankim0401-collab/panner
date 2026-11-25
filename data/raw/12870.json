@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would greatly improve script-level and editor-level usability of `PackedScene`.",
+    "format": "form",
+    "workaround": "I do not believe this can be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-07-26T07:20:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12870,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Type Hints for PackedScene based on the root node type",
+  "up": 33,
+  "updatedAt": "2025-11-25T10:49:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12870"
+}

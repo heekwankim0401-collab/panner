@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be part of the core OS module.  There is a downside, I'll admit: every time you recompile the binary output would be a few bytes different.  I don't know if there is an easy work-around.  It could be one of the export options.",
+    "format": "markdown",
+    "workaround": "While we're here, a `get_isodatetime_from_datetime()` would be quite handy.  Or, since it can probably done using a string % operator in one complicated line, why not include that line in the docs in lieu of giving us the function?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-03-16T10:01:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2469,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `OS.get_datetime_build()` function to help track versions",
+  "up": 0,
+  "updatedAt": "2021-03-16T14:29:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2469"
+}

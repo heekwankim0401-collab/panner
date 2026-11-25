@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Expose the extension points in importers requires work.",
+    "format": "legacy",
+    "workaround": "We want to expose an interface that is gdscriptable."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-05T03:07:12Z",
+  "comments": 2,
+  "createdAt": "2020-09-04T23:11:16Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 1463,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Import / Export Workflow",
+  "up": 0,
+  "updatedAt": "2022-01-05T17:04:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1463"
+}

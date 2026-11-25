@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I assume the required changes are a bit lower-level than what an asset add-on could do.",
+    "format": "form",
+    "workaround": "To be comprehensive throughout the whole editor? I doubt it. It is likely that many small things and edge cases need to be adjusted and handled, specifically because of the desire to support a narrow editor layout to make portrait mode work. For just the “tabbed single-view” mode, probably little needs to be done beyond putting the dock nodes in the main central view, adding the corresponding buttons to the title bar, and wrapping the title bar in a ScrollContainer (while also making sure everything inside is set to MOUSE_FILTER_PASS)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2026-01-03T03:04:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13945,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Mobile Editor UX: Add an optional tabbed single-view layout mode and refactor UI for narrow width",
+  "up": 0,
+  "updatedAt": "2026-01-14T19:41:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13945"
+}

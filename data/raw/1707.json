@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Skipping since doesn't make sense this question in this proposal",
+    "format": "legacy",
+    "workaround": "Almost no one use now 32 bit editor and Godot 4.0 support for Vulkan(GLES 2 and 3 I don't think that will be available in it) will cause that probably 0 computers with 32 bit OS will be able to run it."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-07T15:47:46Z",
+  "comments": 4,
+  "createdAt": "2020-10-22T17:28:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:buildsystem",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1707,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Drop support for 32-bit machines",
+  "up": 0,
+  "updatedAt": "2020-12-07T15:47:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1707"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be used to tie the scene closer to scripts for static typing",
+    "format": "markdown",
+    "workaround": "yes it would and I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-20T05:09:13Z",
+  "comments": 37,
+  "createdAt": "2021-04-15T23:51:16Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2612,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove class_name in favor for registering scenes as types",
+  "up": 0,
+  "updatedAt": "2021-04-21T01:39:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2612"
+}

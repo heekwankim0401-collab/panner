@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Too small feature with common usage feature to be used as addon.",
+    "format": "form",
+    "workaround": "Idea mostly improves code clarity."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-06-03T17:46:36Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12546,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add method to just call function on variable change",
+  "up": 0,
+  "updatedAt": "2025-06-03T19:08:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12546"
+}

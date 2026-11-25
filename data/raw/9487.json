@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While I don't believe this method of snap scaling is common outside of Unreal Engine, it makes prototyping and level designing much more usable and enjoyable without being limited to CSGBox3d. I think having this option core allows level design and environment art professionals coming from software like Unreal Engine to embrace Godot as a serious competitor and encourages all users to stay inside Godot instead of reaching for 3rd party tools to handle the level design phase.",
+    "format": "form",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-09T23:48:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9487,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option for grid-friendly \"additive\" snap scaling like Unreal Engine",
+  "up": 2,
+  "updatedAt": "2025-10-19T03:40:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9487"
+}

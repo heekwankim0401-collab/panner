@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think that it would bring more contributors to the project since it would be easy to build. At least for me it was always a challenge to build from source a new project especially in windows os.",
+    "format": "form",
+    "workaround": "."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-28T10:49:01Z",
+  "comments": 1,
+  "createdAt": "2021-12-28T09:22:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 3724,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Build from source using Docker",
+  "up": 0,
+  "updatedAt": "2021-12-28T10:49:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3724"
+}

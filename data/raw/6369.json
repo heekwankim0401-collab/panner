@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Unless it's been done before, it needs to be added to Godot's core.",
+    "format": "form",
+    "workaround": "No, it cannot. I've tried many different ways like covering the entire window with a panel, stopping process functions, but none of them have worked at all.\n\nprocess functions test [(Reddit Post)](https://www.reddit.com/r/godot/comments/d2yvq0/how_to_disable_input_in_a_node/)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-02-28T02:28:23Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6369,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for WindowDialogs to stop receiving input.",
+  "up": 1,
+  "updatedAt": "2023-03-01T00:30:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6369"
+}

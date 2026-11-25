@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature would speed up the (re)import workflow by allowing users to resize their textures automatically and seamlessly, without having to manually scale them or worry about the resolution. This would save time and effort, as well as improve the visual quality and performance of their projects.",
+    "format": "form",
+    "workaround": "A workaround is to resize the textures outside Godot and importing them after."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-02-18T21:45:24Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9126,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to make the Size Limit import processing work correctly on repeating textures",
+  "up": 2,
+  "updatedAt": "2026-02-04T02:07:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9126"
+}

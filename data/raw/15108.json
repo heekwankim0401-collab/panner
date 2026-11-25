@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2026-06-30T20:52:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 15108,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make PopupMenu search sort items based on relevance, or allow disabling fuzzy search",
+  "up": 1,
+  "updatedAt": "2026-09-11T17:17:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15108"
+}

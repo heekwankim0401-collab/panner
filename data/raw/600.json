@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I have never heard of any software asking for users to install an add-on in the asset library to see what item out of a list of search results they are in. I personally struggle to see the issue from this perspective, since I consider this a basic feature. I am surprised this seems to be the first time the issue has been raised, though, given how important I assumed this was.",
+    "format": "legacy",
+    "workaround": "Not by me. Yet."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-29T12:35:53Z",
+  "comments": 2,
+  "createdAt": "2020-03-18T20:56:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 600,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Find in script: Mention the current match number (e.g. \"X of 14 matches\")",
+  "up": 6,
+  "updatedAt": "2022-04-29T16:27:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/600"
+}

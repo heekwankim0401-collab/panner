@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Annotations feel like they should be core, al though I don't even know whether annotations can be added through addons? That would be cool.",
+    "format": "form",
+    "workaround": "One not-so-easy workaround I have found is to add a new export variable to a script without overwriting the old data and then write an editor tool that finds all applicable objects and manually places the data of the old exported variable into the new."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 25,
+  "createdAt": "2024-09-03T14:46:53Z",
+  "down": 5,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10644,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an `@exported_previously_as()` annotation to avoid losing data",
+  "up": 33,
+  "updatedAt": "2026-02-17T14:20:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10644"
+}

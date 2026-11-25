@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I believe this requires changes to `EditorExportPlatformAndroid`.",
+    "format": "form",
+    "workaround": "I believe this requires changes to `EditorExportPlatformAndroid`."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-20T12:43:37Z",
+  "comments": 1,
+  "createdAt": "2024-11-15T17:13:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 11163,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow changing the Gradle build type for Android Gradle exports",
+  "up": 0,
+  "updatedAt": "2024-11-21T14:34:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11163"
+}

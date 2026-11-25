@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is pretty basic feature and it needed for dedicated servers",
+    "format": "form",
+    "workaround": "Unfortunately systemd doesn't allow to run process like `/ath/process &` it fails on this construction"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-01-24T19:56:58Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 8957,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a command line argument to run a project in the background (\"daemonize\")",
+  "up": 4,
+  "updatedAt": "2024-01-24T22:03:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8957"
+}

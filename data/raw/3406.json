@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "![image](https://user-images.githubusercontent.com/7548288/136655125-5d65b164-3908-40a5-b7c4-505c2dc5d8c9.png)",
+    "format": "form",
+    "workaround": "Import script that takes the mesh from the 3D file and gives the mesh the same name as the 3D file, then optionally deletes the 3D file.\nEdit: My solution ended up being a Tool script that finds every MeshInstance in the scene, renames them, reparents them under the scene root, and then deletes the scenes they were taken out of."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-10-09T11:11:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3406,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Include all MeshInstances in scene when exporting MeshLibrary (and not just the direct children of the scene root)",
+  "up": 7,
+  "updatedAt": "2023-04-30T15:14:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3406"
+}

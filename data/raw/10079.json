@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This requires a core implementation.",
+    "format": "form",
+    "workaround": "This requires a core implementation."
+  },
+  "assignees": 1,
+  "closedAt": "2025-01-03T15:15:35Z",
+  "comments": 2,
+  "createdAt": "2024-06-30T01:02:06Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:xr"
+  ],
+  "milestone": "4.4",
+  "number": 10079,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add OpenXR Metal support",
+  "up": 1,
+  "updatedAt": "2025-01-03T15:26:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10079"
+}

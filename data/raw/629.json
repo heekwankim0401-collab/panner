@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having Vector4 in core would allow engine functions to use it as a built-in type whenever it's necessary to work with four numbers. An analysis of how many engine functions could benefit from this would be a good idea first. Again, this proposal is mostly for discussion.\n\nIt might indeed be a better idea for this to be an add-on, but [this isn't possible in GDScript](https://github.com/godotengine/godot-proposals/issues/279).",
+    "format": "legacy",
+    "workaround": "Yes-ish. I have a C# implementation [here](https://github.com/aaronfranke/GodotExtraMath/blob/master/ExtraMath/Vector4.cs). It's not really feasible to make within GDScript, but the real solution there would be to allow custom structs in GDScript: #279"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-25T09:13:30Z",
+  "comments": 22,
+  "createdAt": "2018-08-11T07:48:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 629,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Vector4 to the engine",
+  "up": 45,
+  "updatedAt": "2022-07-29T01:00:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/629"
+}

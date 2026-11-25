@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A task, for example, chasing a player sounds very simple and can be in demand in many games, it's a pity that the engine does not provide such an opportunity \"out of the box\".",
+    "format": "form",
+    "workaround": "Yes, probably. By writing my own implementation of avoidance."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-10T08:29:00Z",
+  "comments": 2,
+  "createdAt": "2022-01-17T00:50:16Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.1",
+  "number": 3812,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to select an obstacle or an agent as a target",
+  "up": 5,
+  "updatedAt": "2023-05-10T08:29:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3812"
+}

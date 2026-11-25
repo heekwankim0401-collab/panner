@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Admitidly I am new to Godot, but I don't think an add-on could change this behaviour.",
+    "format": "form",
+    "workaround": "Not that I am aware of, and it would be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-02-21T20:36:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9147,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Include specific error in Stack Trace when warnings as error is enabled",
+  "up": 2,
+  "updatedAt": "2024-05-17T11:02:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9147"
+}

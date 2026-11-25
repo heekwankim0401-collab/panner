@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because it helps people know what members it has and also encourages good code",
+    "format": "legacy",
+    "workaround": "yes it can be added but static typing should be encouraged as works well with auto complete"
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-26T20:41:27Z",
+  "comments": 2,
+  "createdAt": "2020-10-26T07:22:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1726,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make signals generate static typed parameters and returns",
+  "up": 1,
+  "updatedAt": "2020-10-26T20:44:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1726"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be done with an asset library i don't think. These type of features usually get cast to the wayside in my experience as \"not necessary for most games\" but i was kind of baffled to find out you can't make the window's visible = false.",
+    "format": "form",
+    "workaround": "There is no way i could find to work around it. The closest I got was to set the window borderless and 0 in height, but the program still appears on the hotbar. I also considered using headless godot but the problem then becomes you cannot make the window visible if a crash does happen, as there is no window."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-05-08T05:37:12Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": "3.x",
+  "number": 6829,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"hide\" and \"show\" functions to the window in Godot 3.x",
+  "up": 3,
+  "updatedAt": "2025-03-03T16:21:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6829"
+}

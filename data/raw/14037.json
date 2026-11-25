@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "InputEvent is core",
+    "format": "form",
+    "workaround": "There does not seem to be a way to generically check the strength to my knowledge, but a script could be created to do it."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-07T03:13:37Z",
+  "comments": 3,
+  "createdAt": "2026-01-20T06:52:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 14037,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add 'InputEvent::get_strength' to complement 'get_action_strength'",
+  "up": 1,
+  "updatedAt": "2026-02-10T00:25:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14037"
+}

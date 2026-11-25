@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Mobile platforms should be first-class, and this is an important aspect of mobile development.",
+    "format": "form",
+    "workaround": "I don't think it's possible on iOS to set the orientations at runtime.  I think it is possible on Android, but I think Godot doesn't expose that API."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-01-26T16:42:43Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6175,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow specifying orientation for tablets separately from phones",
+  "up": 1,
+  "updatedAt": "2023-01-26T19:21:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6175"
+}

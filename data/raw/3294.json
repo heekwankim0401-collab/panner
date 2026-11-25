@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a major problem that devs have to deal with too often for it not to be in the core engine.",
+    "format": "form",
+    "workaround": "This enhancement will be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-09-13T09:58:34Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3294,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Don't deselect a node when you try to move it and there is another node in front of it",
+  "up": 0,
+  "updatedAt": "2021-09-13T13:06:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3294"
+}

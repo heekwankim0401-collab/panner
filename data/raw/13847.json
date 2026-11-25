@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "1. Fundamental Feature: Type safety is a core pillar of the C# ecosystem. This feature bridges the gap between C# type safety and Godot's resource system.\n\n1. Editor Integration: Implementing this as an add-on requires complex EditorInspectorPlugin hooks that can be unstable or conflict with other plugins. Native support ensures consistent behavior across all C# projects.\n\n1. Performance: A native implementation (C++ side checking of SceneState) is significantly faster than a managed add-on reflecting over resources every time the Inspector updates.",
+    "format": "form",
+    "workaround": "It can be worked around, but it is not trivial and prone to error. Currently, we must write custom validation logic for every single exported field, often involving reflection or parsing SceneState.\n```c#\nprivate PackedScene _scene;\n[Export]\npublic PackedScene MyScene\n{\n    get => _scene;\n    set\n    {\n        if (value != null) {\n            var state = value.GetState();\n            // Complex logic to parse state.GetNodePropertyValue(0, \"script\") ...\n            if (!IsTypeMatch(state, typeof(MyType))) {\n                GD.PrintErr(\"Invalid type\");\n                _scene = null;\n                return;\n            }\n        }\n        _scene = value;\n    }\n}\n```\nThis is too much friction for a feature (Type Safety)."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-12T16:20:56Z",
+  "comments": 1,
+  "createdAt": "2025-12-12T15:54:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 13847,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add PackedScene<T> generic support for C# to enforce scene root node type safety",
+  "up": 0,
+  "updatedAt": "2025-12-12T23:51:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13847"
+}

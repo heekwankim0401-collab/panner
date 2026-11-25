@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about the core animation system.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-08-29T15:30:43Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7578,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add amount option to animation track filter",
+  "up": 4,
+  "updatedAt": "2024-09-20T07:02:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7578"
+}

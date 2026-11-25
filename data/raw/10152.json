@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would have to be built in to be practical as it would otherwise be a custom shader without the built in inspector.",
+    "format": "form",
+    "workaround": "It would be used often"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-14T18:39:13Z",
+  "comments": 6,
+  "createdAt": "2024-07-08T14:09:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 10152,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Saturation and Value/Brightness random options to particles in addition to Hue",
+  "up": 7,
+  "updatedAt": "2025-01-16T16:42:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10152"
+}

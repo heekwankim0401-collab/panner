@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a must have feature for any medium/large scale multiplayer game with a hefty amount of networked objects.",
+    "format": "form",
+    "workaround": "No, currently if you try to make variables mentioned above high enough, it means that no changes will ever be dispatched, since current code is entirely reliant on constant polling and comparing of networked properties."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-19T12:39:40Z",
+  "comments": 1,
+  "createdAt": "2024-08-19T12:31:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 10495,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "`MultiplayerSynchronizer` allow for manual dirtying",
+  "up": 0,
+  "updatedAt": "2024-08-20T00:52:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10495"
+}

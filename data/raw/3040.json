@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Cannot be achieved by scripting alone (either GDScript, GDNative or even module) as it requires changes in `VisualServer` and rasterizer.",
+    "format": "form",
+    "workaround": "As proposed, no. In some cases the visual results can be achieved by adding the material as second pass to every surface in the mesh and manually adding several animation tracks in every model where the effect is expected, but in the case where the model is externally provided and unknown (such as the VTuber project) it would be even more cumbersome, if possible at all."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-03T00:03:38Z",
+  "comments": 6,
+  "createdAt": "2021-07-25T10:15:17Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 3040,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an overlay material property to GeometryInstance rendering on top of active materials for the entire geometry",
+  "up": 22,
+  "updatedAt": "2022-05-03T00:03:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3040"
+}

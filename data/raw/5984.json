@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "For this to work efficiently, I believe it needs to be built into the render pipeline and accessible in the core shader language.",
+    "format": "form",
+    "workaround": "This could potentially be worked (but a huge hassle) around to some degree but it really becomes a huge barrier in terms of implementing certain SFX in a similar manner to other game engines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-12-24T00:24:12Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5984,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement 3D SDF generation and usage within shaders (without going through GPUParticlesCollisionSDF3D for baking)",
+  "up": 41,
+  "updatedAt": "2025-07-01T06:58:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5984"
+}

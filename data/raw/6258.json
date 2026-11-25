@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This requires making changes to core C++ files, which is impossible to do with an add-on.",
+    "format": "form",
+    "workaround": "No. If you want to run a separate simulation in its own SceneTree at the same time as the application, you've no choice but to use a second SceneTree."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-02-09T22:02:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6258,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add back the ability to simulate multiple SceneTrees in Godot 4",
+  "up": 32,
+  "updatedAt": "2026-06-04T00:55:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6258"
+}

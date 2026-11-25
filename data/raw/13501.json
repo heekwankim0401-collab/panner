@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The engine is overly controlling of the ways you can use render targets, so yes if it's addressed it should be done so at the core.",
+    "format": "form",
+    "workaround": "Depends on the use case, in my example, I am able to apply my materials using the viewport texture atlas with my custom path and setting it as the packed node's surface material override instead of on the mesh."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-10-29T09:46:19Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13501,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow non-local ViewportTexture",
+  "up": 0,
+  "updatedAt": "2026-05-10T12:49:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13501"
+}

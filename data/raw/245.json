@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "All programmers are lazy by nature, so are game'devs ^^ So we need it shipped with the code editor !",
+    "format": "legacy",
+    "workaround": "It's not really a function used within the dev's code, but an editor tool for programmers to code faster. I think it will be used very often, like moving a line with alt-up and such."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-06T06:58:43Z",
+  "comments": 15,
+  "createdAt": "2019-11-20T15:11:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 245,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow text multi-selection in the code editor",
+  "up": 201,
+  "updatedAt": "2023-10-31T18:10:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/245"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "yes",
+    "format": "form",
+    "workaround": "Sure, these are 2 ways to do it in gdscript:\n\n```gdscript\n# doing it with find.\n\nvar path: String = \"path/to/file.png\";\nvar findDot: = path.rfind(\".\");\n\nif findDot != -1: # disgusting!\n  print(path.left(findDot) + \".svg\");\n```\n\n```gdscript\n# doing it with get_extension\n\nvar path: String = \"path/to/file.png\";\n\n# compact, but still horrible to see.\nprint(path.left(findDot.lenght() - findDot.get_extension().lenght()) + \".svg\");\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-30T20:28:08Z",
+  "comments": 2,
+  "createdAt": "2023-01-30T19:46:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6209,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Functions to replace an extension from a string file path.",
+  "up": 0,
+  "updatedAt": "2023-01-30T20:35:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6209"
+}

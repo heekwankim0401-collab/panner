@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "Used often"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-16T00:13:10Z",
+  "comments": 1,
+  "createdAt": "2022-11-15T23:54:52Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 5791,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Avoid API methods returning StringName or NodePath",
+  "up": 0,
+  "updatedAt": "2022-11-16T00:16:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5791"
+}

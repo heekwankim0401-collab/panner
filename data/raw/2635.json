@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This seems like a feature that should be standard and everyone would use when designing 3D games.",
+    "format": "markdown",
+    "workaround": "I think this could be done with a viewport node, but isn't as clean of a solution as it would be required for every scene with a camera."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-04-22T21:25:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2635,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow previewing 2D/control nodes in 3D camera preview",
+  "up": 41,
+  "updatedAt": "2025-05-29T23:59:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2635"
+}

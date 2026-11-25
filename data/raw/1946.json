@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "becaus with current camera gridmap is not usable for actual levels and not 10x10x10 demo \n\nVideo example down below:\nhttps://imgur.com/a/kMqczqF",
+    "format": "markdown",
+    "workaround": "For now I have to \n1 switch from gridmap,\n2 position camera,\n3 switch back to gridmap, \n4 add few tiles, \n5 repeat"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-23T13:52:04Z",
+  "comments": 4,
+  "createdAt": "2020-12-06T18:33:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1946,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Gridmap actually usable camera",
+  "up": 0,
+  "updatedAt": "2025-04-23T13:52:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1946"
+}

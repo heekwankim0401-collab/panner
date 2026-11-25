@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is core functionality, and existing warnings are also implemented within the engine.",
+    "format": "form",
+    "workaround": "Yes, this would not take much code, just a couple of if statements and a new warning to render."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-06T14:36:14Z",
+  "comments": 2,
+  "createdAt": "2023-06-09T01:20:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 7048,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add in editor warning if PCK encryption is enabled for Android, but APK expansion is not",
+  "up": 16,
+  "updatedAt": "2025-07-06T14:36:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7048"
+}

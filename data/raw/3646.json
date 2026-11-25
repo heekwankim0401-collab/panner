@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As this solves a viewport navigation limitation this will benefit a lot of users and is not limited to a single project use case.",
+    "format": "form",
+    "workaround": "It will be used by everyone who likes the Unity style navigation and want to use Godot without having to relearn navigation"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-27T22:17:10Z",
+  "comments": 3,
+  "createdAt": "2021-12-08T13:10:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 3646,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow two modifier keys for mouse navigation in the 3D editor viewport",
+  "up": 4,
+  "updatedAt": "2024-08-27T22:17:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3646"
+}

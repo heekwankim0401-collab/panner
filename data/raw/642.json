@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The solution is related to appearance (displaying) of outer layers of GUI, and does not affect the inner core layers.",
+    "format": "legacy",
+    "workaround": "Although the problem would be missed every time by a work-around by the user, I think this can harm the usability of the toolbar, as this problem with UI would happen very frequently."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-03-27T22:33:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 642,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Script Toolbar’s Dropdown menu Issue",
+  "up": 0,
+  "updatedAt": "2020-03-29T14:57:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/642"
+}

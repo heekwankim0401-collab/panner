@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "linux export template is part of the official export templates, it's better to make it official",
+    "format": "form",
+    "workaround": "yes but it's less convenient"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-03-21T15:21:30Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 6547,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `.desktop` file generation to Linux export template",
+  "up": 8,
+  "updatedAt": "2023-03-21T17:01:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6547"
+}

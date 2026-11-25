@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about exposing an already existing core feature to piped stderr, I don't think an addon would make much sense for this.",
+    "format": "form",
+    "workaround": "I think the only workaround would be to regex stderr to find and color the text."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-05-27T10:30:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12507,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Godot to always print stderr colors",
+  "up": 0,
+  "updatedAt": "2025-05-27T11:25:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12507"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would be more consistent with the rest of the editor",
+    "format": "form",
+    "workaround": "I guess a custom solution is to make my own output panel / dock, and attach it how I want it"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-29T11:06:30Z",
+  "comments": 2,
+  "createdAt": "2022-01-29T03:25:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3886,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make bottom_panel and other docks interchangeable",
+  "up": 0,
+  "updatedAt": "2022-01-29T11:06:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3886"
+}

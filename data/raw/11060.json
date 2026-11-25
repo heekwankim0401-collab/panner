@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- This is a very core feature for editor usability.\n- Would be very useful for debugging if implemented properly like suggested above.\n- Specially useful if you're dealing with physics interpolation, or any 1-frame glitches.\n- All sorts of projects can benefit from being able to see things happening frame-by-frame and/or tick-by-tick.\n- Unity has it out-of-the-box. This would help adaptation when coming from Unity.\n- I assume it would be somewhat simple to implement?",
+    "format": "form",
+    "workaround": "An editor plugin *might* be able to implement this?\nBut I have no idea if it would be easy/feasible to make it integrate properly with the other debugging tools."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-11-01T01:59:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11060,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Start Paused button to the editor run bar",
+  "up": 3,
+  "updatedAt": "2024-11-01T23:56:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11060"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Enhancement of existing feature.",
+    "format": "form",
+    "workaround": "You can adapt to existing UI/UX and deal with it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-06-18T13:13:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2880,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve usability of script create dialog when using \"Extend Script\" scene tree dock option",
+  "up": 1,
+  "updatedAt": "2021-06-25T19:05:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2880"
+}

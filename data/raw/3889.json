@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "InputMap is a core thing",
+    "format": "form",
+    "workaround": "Yes, it can. For example:\n```gdscript\nfunc get_actions(event: InputEvent) -> Array:\n\tvar actions := []\n\tfor action in InputMap.get_actions():\n\t\tif InputMap.event_is_action(event, action):\n\t\t\tactions.push_back(action)\n\treturn actions\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-01-29T11:33:27Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3889,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `InputMap.get_actions(event: InputEvent)` method overload",
+  "up": 6,
+  "updatedAt": "2022-01-29T16:18:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3889"
+}

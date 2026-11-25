@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's (sort of) an extension of an already core feature.",
+    "format": "markdown",
+    "workaround": "One can have a file with Scripts in some folder and copy and paste them, so yeah."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-03-05T06:57:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 2402,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement saving and loading code snippets in the script editor",
+  "up": 1,
+  "updatedAt": "2026-03-06T08:50:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2402"
+}

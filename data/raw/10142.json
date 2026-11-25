@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This could potentially be done with an add-on, but this is about addressing a UX shortcoming, so should ideally be done in Godot itself.",
+    "format": "form",
+    "workaround": "This could potentially be done with a tool script, but this is about addressing a UX shortcoming, so should ideally be done in Godot itself."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-02T10:21:36Z",
+  "comments": 1,
+  "createdAt": "2024-07-07T12:57:37Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.4",
+  "number": 10142,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add buttons to Animation dock for moving cursor to next/previous keyframe",
+  "up": 6,
+  "updatedAt": "2024-09-02T10:32:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10142"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Given community feedback over the years, particle collision is quite commonly desired by users. While Godot 4.0 will provide a good implementation of particle collision, it still requires a bit of manual work which may be too high of a barrier of entry (especially in complex indoor levels). Also, many users will stick to `3.x` for their current 3D project.",
+    "format": "form",
+    "workaround": "This can already be implemented with a custom shader as linked above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-01-30T21:43:19Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3898,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement depth buffer-based collision for GPUParticles3D",
+  "up": 18,
+  "updatedAt": "2026-01-20T17:59:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3898"
+}

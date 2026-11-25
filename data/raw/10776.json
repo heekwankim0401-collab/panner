@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Default ScrollContainer behaviour is turning any content into 1px strip that you can't even scroll. This makes scrolling containers very counter-intuitive to make in Godot.",
+    "format": "form",
+    "workaround": "You can use `custom_minimum_size` parameter to force minimum size for ScrollContainer\nBut then your UI has hardcoded sizes and is not adaptive"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-18T10:03:41Z",
+  "comments": 2,
+  "createdAt": "2024-09-18T09:24:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10776,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "ScrollContainer Expand behaviour",
+  "up": 0,
+  "updatedAt": "2024-09-18T10:05:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10776"
+}

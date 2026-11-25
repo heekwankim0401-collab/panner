@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Particle systems are a part of Godot.",
+    "format": "form",
+    "workaround": "yes, though it can get cumbersome when a project has lots of different particles used in different scenarios."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-12-05T19:29:12Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 8590,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Emit on Load\" to particles",
+  "up": 9,
+  "updatedAt": "2024-05-31T14:23:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8590"
+}

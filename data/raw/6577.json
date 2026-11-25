@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It makes themes most customizable",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 1,
+  "closedAt": "2025-09-22T18:38:50Z",
+  "comments": 5,
+  "createdAt": "2023-03-27T03:46:58Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": "4.6",
+  "number": 6577,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add seperate focus style to controls for keyboard/gamepad and mouse/touch",
+  "up": 11,
+  "updatedAt": "2025-09-22T18:40:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6577"
+}

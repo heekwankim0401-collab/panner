@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There are many free resources and animations that expects that the offset / center can be changes per spritesheet / animation.\nResources made for Gamemaker could not be easily used without asset changes or special game code to take the different origin point into account.",
+    "format": "form",
+    "workaround": "This issue has many workarounds, but many involves converting the spritesheet or mass changes on the game´s code."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-02T19:12:43Z",
+  "comments": 1,
+  "createdAt": "2024-12-24T21:36:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 11417,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add offset propriety for each animation on the Spriteframes resource, used on AnimatedSprite2D node",
+  "up": 0,
+  "updatedAt": "2025-01-02T19:12:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11417"
+}

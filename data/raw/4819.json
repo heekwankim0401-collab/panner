@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "RPCs are already core",
+    "format": "form",
+    "workaround": "- It will be used often (at least for me)\n- It makes nodes even more powerful\n- It makes elegant RPC code more possible"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-07-06T04:19:02Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4819,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow sending node references through RPC (node paths internally)",
+  "up": 11,
+  "updatedAt": "2025-04-03T23:39:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4819"
+}

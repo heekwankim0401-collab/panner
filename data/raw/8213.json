@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I am unaware of any methods to manipulate `@export` notation outside of modifying Godot's source code.",
+    "format": "form",
+    "workaround": "It's possible to work around it by storing the exported variable as 100 times the preferred value, adding the argument `\"suffix:%\"`, and dividing it by 100 when it should be used. This changes a simple `damage * damage_modifier` to `damage * damage_modifier / 100`.\n\nThis is similar to what you might do if the `\"radians\"` argument did not exist. You would have to store the value in degrees and use `deg_to_rad` whenever you'd like to use it. For example, you'd have to type `Vector2.RIGHT.rotated(deg_to_rad(angle))`.\n\nUltimately, it's much easier to intuitively convert between numbers and percentages than it is to convert between radians and degrees. `\"radians\"` is closer to quality-of-life, while `\"percent\"` would be closer to syntactic sugar. I believe percentages are a common enough unit to be worth adding anyway; any more and I would honestly just suggest adding some sort of \"display multiplier\" field to replace all of them. (Perhaps that should be a separate proposal?)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-10-20T22:24:25Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8213,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `percent` (or similar) argument to `@export_range`",
+  "up": 10,
+  "updatedAt": "2025-01-06T21:38:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8213"
+}

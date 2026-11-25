@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "How do you even change how the print function globally works from a script?"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-20T16:35:10Z",
+  "comments": 1,
+  "createdAt": "2021-09-20T15:19:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3323,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Logging(`print`, `push_warning`, etc.) should also tell what script or what object it came from and when",
+  "up": 1,
+  "updatedAt": "2021-09-20T16:35:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3323"
+}

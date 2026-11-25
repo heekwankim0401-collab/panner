@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Would require changes to core `object.h` and `marshalls.cpp`.",
+    "format": "form",
+    "workaround": "While we can, and do, marshal our bytes back and forth in between RPC calls now, it's inconvenient and produces less readable code as you're not sure what data is expected to come to that RPC."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-09T17:19:10Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 13603,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow custom objects to provide custom marshalling to reduce RPC boilerplate",
+  "up": 4,
+  "updatedAt": "2025-11-11T00:10:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13603"
+}

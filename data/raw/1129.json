@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it's core.",
+    "format": "legacy",
+    "workaround": "No, would be many lines."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-28T11:42:00Z",
+  "comments": 5,
+  "createdAt": "2020-06-27T23:05:55Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 1129,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Autocreate same instance with other name when instancing the same scene multiple times in code",
+  "up": 0,
+  "updatedAt": "2020-06-28T12:16:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1129"
+}

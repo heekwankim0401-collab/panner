@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No. This comes to keyboard mapping as a core feature.\nThis feature is also widely present in other engines, which justifies the need for it as a core feature",
+    "format": "form",
+    "workaround": "No. This comes to keyboard mapping as a core feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-03T19:37:04Z",
+  "comments": 1,
+  "createdAt": "2024-01-03T19:29:56Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8786,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add left/right ctrl/alt/shift keycode",
+  "up": 0,
+  "updatedAt": "2024-01-03T19:37:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8786"
+}

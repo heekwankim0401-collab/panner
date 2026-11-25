@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be core IMO because it affects everyone working on non-trivial games with Godot and an external editor, which should be a significant percentage of overall users.",
+    "format": "form",
+    "workaround": "This could potentially also be implemented \"from the outside\" as a Rider or Visual Studio plugin?"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-28T10:44:50Z",
+  "comments": 4,
+  "createdAt": "2022-05-28T00:54:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4598,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement a way to allow renaming and moving script files outside of Godot without breaking the project",
+  "up": 6,
+  "updatedAt": "2022-05-28T13:21:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4598"
+}

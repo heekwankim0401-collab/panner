@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "see above",
+    "format": "form",
+    "workaround": "It's part of the engine"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-09-06T18:57:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5358,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Visual Shaders: Add an option to promote a texture/curve as a parameter",
+  "up": 7,
+  "updatedAt": "2022-09-12T15:17:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5358"
+}

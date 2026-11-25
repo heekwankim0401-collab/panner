@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Godot is an excellent engine but it is still immature on Android. Having a tablet or phone to craft out a physics scene while on lunch break, away from a laptop or PC, on the road, etc, Android just makes sense for quick prototyping to grab the inspiration while it's still hot.",
+    "format": "form",
+    "workaround": "This is Android specific. Daily use."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-05T11:19:28Z",
+  "comments": 23,
+  "createdAt": "2025-05-01T11:33:35Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 12348,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve SplitContainer drag on Android Editor",
+  "up": 0,
+  "updatedAt": "2025-06-05T11:19:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12348"
+}

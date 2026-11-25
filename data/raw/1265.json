@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is as basic as it gets. I'm surprised that it doesn't exist yet.",
+    "format": "legacy",
+    "workaround": "Oh, man, I'm sure there is a very good reason for filtering being the default, as it is also a problem in Gamemaker, but cmon. People use these types of engines for pixel games. And it's not a loud minority. If there is overwhelming proof that the vast majority (and not 50:50) like blurry and ugly assets in their games, then I wanna see that statistic."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-23T21:23:24Z",
+  "comments": 4,
+  "createdAt": "2020-07-27T08:05:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 1265,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a toggle for globally disabling \"filter\" so people don't have to re-import their assets constantly",
+  "up": 0,
+  "updatedAt": "2021-01-23T21:23:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1265"
+}

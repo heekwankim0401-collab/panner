@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think that error handling should be improved for `Time`. If you have read my initial issue, you can't distinguish between an invalid date (methods return `0`) and converting to unix 1970-01-01.",
+    "format": "form",
+    "workaround": "Yes, create a function that does the described behaviour in the second point."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-30T15:15:08Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7414,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve `Time` error handling for invalid dates",
+  "up": 4,
+  "updatedAt": "2023-08-04T08:19:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7414"
+}

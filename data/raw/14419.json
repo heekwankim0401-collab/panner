@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-03-10T17:50:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14419,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "TileSet: Allow users to control overlap value for hexagonal tiles. (Allow control of the angle for pointy hexagon side)",
+  "up": 1,
+  "updatedAt": "2026-03-11T13:29:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14419"
+}

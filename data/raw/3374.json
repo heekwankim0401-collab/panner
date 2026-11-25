@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Platform support is a core feature.",
+    "format": "form",
+    "workaround": "This won't be used often, and it could be worked around with a few edits to the SCons files, but it would make sense to merge these changes into Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-16T16:21:39Z",
+  "comments": 19,
+  "createdAt": "2021-10-01T19:46:11Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:core",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 3374,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for the RISC-V open source CPU architecture",
+  "up": 30,
+  "updatedAt": "2024-10-31T18:44:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3374"
+}

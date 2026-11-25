@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be an addon as it requires changing the input handling in the godot source code.\n\nSince I need my game to support hats I have already implemented most of the necessary changes locally. If this proposal gets approved I will make a pull request.",
+    "format": "form",
+    "workaround": "This is an issue with how godot handles hat input and cannot be worked around without changing the godot source code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-05-30T10:50:49Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 9850,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `InputEventJoypadHat`",
+  "up": 10,
+  "updatedAt": "2025-07-14T15:29:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9850"
+}

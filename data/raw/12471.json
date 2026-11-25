@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Unification of all screens allows to simplify the internal code of the editor. The buttons Distraction-free mode, Expand bottom panel, move file system dock bottom, separate \"Make Float\" buttons in Script Editor and Shader Editor are no longer needed. Managing the docks will become more intuitive.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2025-05-21T13:01:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12471,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Turn main screens/bottom panels into docks and implement maximizing docks",
+  "up": 17,
+  "updatedAt": "2025-12-15T17:13:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12471"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a nice quality-of-life feature that isn't too difficult to implement (especially option 1) that can save a lot of headaches for people working with SubViewports.",
+    "format": "form",
+    "workaround": "I tried to create an EditorPlugin to do this, but I wasn't able to make it work. I'm sure it's possible, but it would be tedious and require a more in-depth understanding of the way the editor works."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-12-21T23:08:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13901,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to control whether to automatically switch main screens based on the selected node",
+  "up": 0,
+  "updatedAt": "2025-12-22T00:18:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13901"
+}

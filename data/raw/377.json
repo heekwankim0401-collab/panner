@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this should be in the demo repo, and a link provided in the docs.",
+    "format": "legacy",
+    "workaround": "not impacting."
+  },
+  "assignees": 0,
+  "closedAt": "2020-01-12T20:55:42Z",
+  "comments": 1,
+  "createdAt": "2020-01-12T20:51:48Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 377,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "High Perf Optimization Demo, showing batch 3d object workflow from Script",
+  "up": 0,
+  "updatedAt": "2020-01-12T20:55:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/377"
+}

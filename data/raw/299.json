@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "SizeFlags is a core feature.",
+    "format": "markdown",
+    "workaround": "I think Control nodes are used very often, so making them less confusing is good."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-10T21:13:28Z",
+  "comments": 14,
+  "createdAt": "2019-12-11T16:04:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 299,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Refactor the SizeFlags enum of Control nodes",
+  "up": 12,
+  "updatedAt": "2022-02-10T21:13:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/299"
+}

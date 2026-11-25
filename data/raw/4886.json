@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having it as an addon sounds impractical.",
+    "format": "form",
+    "workaround": "see above in `Describe the problem` section"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-07-16T14:35:06Z",
+  "down": 10,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4886,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `await time`",
+  "up": 18,
+  "updatedAt": "2022-07-17T16:46:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4886"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Since most people will have to export to windows, I assume all Linux/MacOS users will need this so it should not be an option, it should be a mandatory feature.",
+    "format": "form",
+    "workaround": "I am sure Linux/MacOS users go threw pain assigning an icon on their Windows builds, so it will be used often.\n\nThe solution cannot be done with a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-22T16:48:50Z",
+  "comments": 1,
+  "createdAt": "2025-02-22T13:35:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:windows",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 11831,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Cross platform support for generating an icon for Windows exported EXE available WITHOUT using Wine, rcedit, or a windows host.",
+  "up": 3,
+  "updatedAt": "2025-02-24T20:09:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11831"
+}

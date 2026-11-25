@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would require modifying the gdscript interpreter to have pointers\n\nand also who doesn't love pointers",
+    "format": "form",
+    "workaround": "It can currently be worked around by returning the modified object, but it takes memory that could be otherwise used in functions that get called a lot.\nOther approaches are to make a wrapper class that holds an array of length 1 with the object in it because arrays are pass-by-reference in gdscript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-07-31T04:04:10Z",
+  "down": 5,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12906,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Pointers and stricter pass-by-value/pass-by-reference control",
+  "up": 0,
+  "updatedAt": "2025-08-02T08:46:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12906"
+}

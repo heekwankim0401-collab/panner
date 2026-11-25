@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "1. I expected Godot to just have this function so maybe I am not alone.\n2. Imho add-ons are flaky and always will be.",
+    "format": "form",
+    "workaround": "No, it requires a ton of time to gather necessary knowledge and the solution will likely be a few more lines."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-15T23:22:21Z",
+  "comments": 8,
+  "createdAt": "2025-12-13T12:49:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13854,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Render viewport function",
+  "up": 0,
+  "updatedAt": "2025-12-15T23:22:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13854"
+}

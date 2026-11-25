@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "File copying as part of a build process is fairly common, and helps prevent issues with propagating changes made to these files to the exported version. Since it could be argued that this is an advanced use case that may lead unaware users away from the  .pck structure of Godot, it could be made an advanced option.",
+    "format": "form",
+    "workaround": "This can be worked around by either manually copying files into the output directory, or writing an external script to do it for you. These are not major tasks, but are annoying nonetheless."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-06-18T16:24:47Z",
+  "down": 0,
+  "labels": [
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 12628,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Copy files to target directory when exporting",
+  "up": 0,
+  "updatedAt": "2025-06-19T11:08:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12628"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "should be part of editor.",
+    "format": "legacy",
+    "workaround": "Will be used very often if not exclusively as opposed to CMD-W (on Mac) or RightClick and choose  close"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2019-11-10T01:58:51Z",
+  "down": 3,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 218,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"close\" button next to each open script file name",
+  "up": 10,
+  "updatedAt": "2020-07-27T12:15:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/218"
+}

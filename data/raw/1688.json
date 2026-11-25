@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "From the core it will always be faster.",
+    "format": "legacy",
+    "workaround": "Yes, it can be fixed but adding this mode will make things easier for developers."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-18T21:04:59Z",
+  "comments": 1,
+  "createdAt": "2020-10-18T20:17:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1688,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "SetCellRange",
+  "up": 0,
+  "updatedAt": "2020-10-18T21:05:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1688"
+}

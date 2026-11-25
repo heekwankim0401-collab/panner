@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Jolt Physics and Godot Jolt are destined to be more than only be a simple add-on in the asset library.",
+    "format": "form",
+    "workaround": "One does not simply maintain a physics engine with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-11T13:53:59Z",
+  "comments": 88,
+  "createdAt": "2023-07-17T20:11:05Z",
+  "down": 0,
+  "labels": [
+    "meta",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": "4.4",
+  "number": 7308,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Recognize \"Godot Jolt\" (Jolt Physics) as an officially endorsed add-on for 3D physics",
+  "up": 311,
+  "updatedAt": "2025-04-22T10:33:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7308"
+}

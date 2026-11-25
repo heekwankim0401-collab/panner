@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, because without that, ragdolled parts are stretching and partially ragdolling skeleton makes stretched noodles, the lower your physics FPS, the longer stretch, what you see on screenshots and video is 120 physics FPS and relatively low speeds.",
+    "format": "markdown",
+    "workaround": "Maybe I'll figure it out, right now stuck on it.\nI had an idea to ragdoll pelvis bone too and manipulate it into correct position, however all PhysicalBone has is add_central_impulse and add_impulse, so I cannot easily change it's rotation or interpolate it into correct position."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-22T14:51:01Z",
+  "comments": 3,
+  "createdAt": "2020-12-21T09:24:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2008,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability for PhysicalBone to follow unragdolled parent stiffer",
+  "up": 0,
+  "updatedAt": "2020-12-22T14:51:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2008"
+}

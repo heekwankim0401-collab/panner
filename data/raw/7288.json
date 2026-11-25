@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "For much easier way of scaling the viewport on runtime with only one variable responsible for that",
+    "format": "form",
+    "workaround": "I haven't found a way yet, I was trying to make the [official method](https://godotengine.org/asset-library/asset/586) work in Godot 4.X by fixing errors and trying slightly different approaches (even changing the order of nodes changes the result for some reason), but the result wasn't unequivocal, it was broken in different ways (for example, it scales in a bigger way, but when scaled back it changed the viewport size on the screen, not scale)\n\nSo I think it's technically possible to implement in Godot 4.X in some way, but I'm sure it won't be made in just _a few lines_ of script"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-07-15T11:41:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7288,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make `stretch_shrink` (in SubViewportContainer) work in both ways: shrink and expand",
+  "up": 2,
+  "updatedAt": "2023-07-15T18:58:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7288"
+}

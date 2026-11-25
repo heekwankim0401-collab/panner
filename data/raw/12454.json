@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- Performance: Core integration avoids bindings overhead.\n- Ecosystem: First-party support attracts C++ developers.\n- Consistency: Avoid fragmentation (e.g., everyone uses different GDNative setups).",
+    "format": "form",
+    "workaround": "No. Current workarounds:\n- GDExtension: Requires manual setup, breaks editor tooling.\n- C#: Still slower than native C++, depends on Mono/.NET."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-18T12:41:35Z",
+  "comments": 2,
+  "createdAt": "2025-05-18T11:07:59Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12454,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "First-class C++ support (alongside GDScript/C#) for high-performance scripting",
+  "up": 0,
+  "updatedAt": "2025-05-18T12:41:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12454"
+}

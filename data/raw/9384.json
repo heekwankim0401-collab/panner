@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "core already",
+    "format": "form",
+    "workaround": "used often, can't be worked around"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-22T07:29:55Z",
+  "comments": 2,
+  "createdAt": "2024-03-26T11:14:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9384,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display the godot version instead of a warning sign in the project manager",
+  "up": 17,
+  "updatedAt": "2024-05-22T07:29:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9384"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can't be done via add-on from what I know.",
+    "format": "markdown",
+    "workaround": "No. To not get a specific error/warning printed you can disable in settings, but this is not what the problem in question is here."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-10T03:07:38Z",
+  "comments": 2,
+  "createdAt": "2021-03-10T02:35:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2442,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Group errors, warnings, prints in debugger output",
+  "up": 0,
+  "updatedAt": "2026-05-02T16:42:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2442"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Setting things like label colours, etc should be simple and intuitive",
+    "format": "markdown",
+    "workaround": "Only if you know how and remember not to make any spelling mistakes"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2020-12-18T00:16:16Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2000,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add getters and setters to control nodes' theme items",
+  "up": 0,
+  "updatedAt": "2021-12-16T12:32:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2000"
+}

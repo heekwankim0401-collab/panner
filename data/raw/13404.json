@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This inherently involves core-level changes.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-26T22:49:31Z",
+  "comments": 7,
+  "createdAt": "2025-10-16T16:03:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:export"
+  ],
+  "milestone": "4.6",
+  "number": 13404,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to export only the difference between two files",
+  "up": 11,
+  "updatedAt": "2025-11-26T22:49:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13404"
+}

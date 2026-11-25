@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't see how a plugin is going to alter the core behavior of a game's physics engine.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-29T20:16:30Z",
+  "comments": 1,
+  "createdAt": "2023-09-29T20:05:13Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7923,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move assigning PhysicsMaterials from Rigidbody to CollisionShape",
+  "up": 0,
+  "updatedAt": "2023-09-29T20:44:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7923"
+}

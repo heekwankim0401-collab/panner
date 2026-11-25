@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-11-13T04:08:57Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15765,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make working with mesh vertex data and faces easier by exposing more internal methods and classes",
+  "up": 1,
+  "updatedAt": "2026-11-17T17:37:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15765"
+}

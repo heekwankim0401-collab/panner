@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-04-27T22:39:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 14750,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add default text to controls when adding Control-derived nodes (and Label3D) in the editor",
+  "up": 6,
+  "updatedAt": "2026-04-27T23:30:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14750"
+}

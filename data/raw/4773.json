@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Changing the build system of Godot Engine is difficult to most people.",
+    "format": "form",
+    "workaround": "No! This is a buildsystem change to Godot Engine."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-11T22:44:07Z",
+  "comments": 10,
+  "createdAt": "2022-06-28T17:04:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:buildsystem",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4773,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Build Godot Engine as a shared library",
+  "up": 22,
+  "updatedAt": "2023-02-11T22:44:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4773"
+}

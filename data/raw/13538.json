@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it requires an internal change",
+    "format": "form",
+    "workaround": "Yes, but it would be much more difficult to understand how the engine would work in order to modify it externally."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-01T18:29:28Z",
+  "comments": 8,
+  "createdAt": "2025-11-01T16:03:19Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 13538,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `CanvasItem` an extendable class.",
+  "up": 0,
+  "updatedAt": "2025-11-01T19:26:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13538"
+}

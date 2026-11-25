@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This makes more sense as a built in feature for the core video player.\n\nrelated link. [18337](https://github.com/godotengine/godot/issues/18337)",
+    "format": "legacy",
+    "workaround": "Should not impact cases of video playback without alpha channel."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-25T20:32:13Z",
+  "comments": 3,
+  "createdAt": "2020-06-16T09:58:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1070,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support WebM videos with alpha channel/transparency",
+  "up": 15,
+  "updatedAt": "2021-10-25T20:32:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1070"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Everything MIDI is built into core.",
+    "format": "form",
+    "workaround": "The proposal is about the way these MIDI related methods and constants are exposed, so no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-12-31T17:23:49Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "5.0",
+  "number": 8761,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move MIDI-related constants and methods away from the GlobalScope and into a singleton or class",
+  "up": 5,
+  "updatedAt": "2025-12-05T15:07:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8761"
+}

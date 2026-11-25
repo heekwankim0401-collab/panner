@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Theme constant and theme font size handling are core",
+    "format": "form",
+    "workaround": "No. Since theme constants are the only way to configure nodes like HBoxContainer, such nodes can't have float constants"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2024-04-19T15:19:09Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9559,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make theme constant and font size use float instead of int",
+  "up": 3,
+  "updatedAt": "2026-08-11T23:32:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9559"
+}

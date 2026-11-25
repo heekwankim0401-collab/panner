@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a very useful feature which makes editing code a lot faster.",
+    "format": "form",
+    "workaround": "No, as this is a script editor feature. \n(And the autocomplete suggestions don't even work when the Node's type is set with static typing)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-23T15:00:22Z",
+  "comments": 8,
+  "createdAt": "2024-01-25T00:48:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8962,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add autocomplete for $Node / get_node() properties",
+  "up": 2,
+  "updatedAt": "2024-09-23T15:00:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8962"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This could potentially be done with an add-on, but this is about addressing a UX shortcoming, so should ideally be done in Godot itself.",
+    "format": "form",
+    "workaround": "This could potentially be done with a tool script, but this is about addressing a UX shortcoming, so should ideally be done in Godot itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-07T12:28:04Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10141,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow \"Make Unique\" on multiple animations at a time in the animation library editor",
+  "up": 1,
+  "updatedAt": "2024-07-07T13:18:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10141"
+}

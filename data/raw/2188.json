@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It does open the window for new workflows and editing, if the decal node comes by default, I would see no reason why multimasking of decal-like shaders for meshes would be something unwanted.",
+    "format": "markdown",
+    "workaround": "Editing godot source code allows quite easily to skip opacity masking for normal and orm textures in decal nodes by skipping the mix functions in scene_forward.glsl around line 2120, but further features will require more work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2021-01-26T17:24:43Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2188,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add mesh decals and multi-opacity decals",
+  "up": 34,
+  "updatedAt": "2026-02-07T20:05:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2188"
+}

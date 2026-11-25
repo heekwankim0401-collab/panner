@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Enums are a core part of the gdscript module of godot.",
+    "format": "form",
+    "workaround": "1. technically, yes, but it's inconsistent with godot's syntax\n2. writing the entire enum name + optionally the containing class name,which wouldn't be very good and may be unreadable in certain cases\n3. Godot flags are already there,but they require bitwise operations which maybe confusing at times for beginners, and for bitsets,they don't exist"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-26T15:52:05Z",
+  "comments": 5,
+  "createdAt": "2024-09-26T14:24:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10832,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve enums and make them more modern with different syntax, enum infer, more enum types",
+  "up": 0,
+  "updatedAt": "2024-09-26T15:52:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10832"
+}

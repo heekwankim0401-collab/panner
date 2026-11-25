@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be in core as this could be used in other things as well, such as making a high level network system and creating new references for the object themselves. This would also allow anyone to turn the global scope functions into actual callables and not have to use a static method to bypass this limitation.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-11-09T21:20:32Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8385,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a function to acquire the global scope singletons, functions and constants",
+  "up": 2,
+  "updatedAt": "2023-11-09T21:55:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8385"
+}

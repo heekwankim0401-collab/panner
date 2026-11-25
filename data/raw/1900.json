@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This touches the engine core so I don't think it suits as an add-on.",
+    "format": "markdown",
+    "workaround": "Not applicable here."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-27T21:57:19Z",
+  "comments": 12,
+  "createdAt": "2020-11-27T21:25:11Z",
+  "down": 7,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1900,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Adopt Swift as the scripting language",
+  "up": 2,
+  "updatedAt": "2021-06-10T17:38:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1900"
+}

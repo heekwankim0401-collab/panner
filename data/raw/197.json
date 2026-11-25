@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2019-11-02T19:01:17Z",
+  "comments": 3,
+  "createdAt": "2019-11-02T06:39:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 197,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript normalized vector of length 0==vec(0), docs does not mark this",
+  "up": 0,
+  "updatedAt": "2020-04-29T22:44:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/197"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's simple but helpful feature,",
+    "format": "form",
+    "workaround": "Not really, Godot doesn't have an option to read .binary files via GDScript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-03-10T17:55:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4205,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `ProjectSettings.reload()` method to reload project settings after loading a resource pack containing `project.godot` or `project.binary`",
+  "up": 8,
+  "updatedAt": "2022-07-21T15:41:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4205"
+}

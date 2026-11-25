@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Since it directly touch the main core/feature of the ineherited scene and I think a lots of fellow developpers needs to rename some nodes, it could prevent lost of works and improve the workflow.",
+    "format": "legacy",
+    "workaround": "Can be work \"by hand\" by opening the tscn file in a IDE and rename all by hand"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-06-01T13:06:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 986,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Renaming a Node in parent scene should sync all scene that ineherit from it",
+  "up": 4,
+  "updatedAt": "2020-06-01T20:18:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/986"
+}

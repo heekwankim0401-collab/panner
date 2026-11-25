@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This may be feasible with an editor plugin, but this is about improving editor usability for people who switch between themes to make the editor as readable as possible depending on lighting conditions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-06-29T13:18:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 2938,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Split the script editor syntax theme setting into two \"dark\" and \"light\" settings",
+  "up": 11,
+  "updatedAt": "2024-08-31T03:21:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2938"
+}

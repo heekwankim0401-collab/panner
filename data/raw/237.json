@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be useful in the general evolution of godot for handling file versions and migrations to newer versions of godot. If something in one version was different in another, when upgrading, such differences can be highlighted.",
+    "format": "legacy",
+    "workaround": "No, this would have to be a fundamental change in how the engine saves data files"
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-24T18:28:20Z",
+  "comments": 4,
+  "createdAt": "2019-11-16T19:13:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 237,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Save the exact Godot version number to `project.godot` and display it in the project manager",
+  "up": 3,
+  "updatedAt": "2021-11-24T18:28:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/237"
+}

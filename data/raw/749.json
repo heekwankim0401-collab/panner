@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Having different passwords [is recommended][1].\n\n[1]: https://developer.android.com/studio/publish/app-signing#generate-key",
+    "format": "legacy",
+    "workaround": "If you haven't yet published the app with a key meeting this criteria, you can generate one with the same password for both cases."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-18T13:03:26Z",
+  "comments": 4,
+  "createdAt": "2020-04-24T22:43:17Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 749,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support different passwords for keystore and key (Android export)",
+  "up": 2,
+  "updatedAt": "2023-04-18T13:03:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/749"
+}

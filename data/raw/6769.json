@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be a alternative way to use godot and would be easier to work with\nAlso people are already looking for a way to tie scenes and scripts together this might be one of the ways to do it",
+    "format": "form",
+    "workaround": "I would probably be used more often then scripts to tell you the truth\nCons:\n- Can't be edited in external editor\n- Can't be dynamically attached and removed\nPros: \n- Strong coupling of code with scene\n- Less filesystem bloat\n- Can't be removed so it can be used as a interface\n- It's easier to work with for beginners due to working with less components"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T19:21:39Z",
+  "comments": 17,
+  "createdAt": "2023-04-28T20:10:43Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6769,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow us to extend a scene instead of a script",
+  "up": 0,
+  "updatedAt": "2024-01-01T16:20:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6769"
+}

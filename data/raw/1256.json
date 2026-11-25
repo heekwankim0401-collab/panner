@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The scale options are part of the core functionalities of Godot : Node2D, Spatial and Control nodes",
+    "format": "legacy",
+    "workaround": "I don't think you can use scripts to fix this problem."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-30T17:53:33Z",
+  "comments": 4,
+  "createdAt": "2020-07-25T00:04:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1256,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Support for Applying Scale",
+  "up": 0,
+  "updatedAt": "2023-10-30T17:53:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1256"
+}

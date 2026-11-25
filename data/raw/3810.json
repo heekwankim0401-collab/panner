@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Basic functionality/intuition.\n\nThanks!!",
+    "format": "form",
+    "workaround": "Technically it just required that the user is aware of the behavior and the correct property to set."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-01-16T18:31:00Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3810,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Warn when users attempt to set position on RigidBody",
+  "up": 3,
+  "updatedAt": "2022-01-17T03:41:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3810"
+}

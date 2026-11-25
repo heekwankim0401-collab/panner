@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a rather straightforward feature but the +250k godot-tools users on VSCode might welcome the fact that they're thought of, appreciated and supported <3",
+    "format": "form",
+    "workaround": "## Workaround for the user\n- Hold-Ctrl Drag'n Drop the node into some random script (make sure it's not a project relevant file)\n   - onready variable instruction will be created\n- Cut the onready variable instruction out\n- Paste the instruction into VSCode"
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-30T15:05:29Z",
+  "comments": 3,
+  "createdAt": "2023-11-23T08:49:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8504,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Copy onready variable instructions to clipboard for use in external editors",
+  "up": 0,
+  "updatedAt": "2023-11-30T15:18:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8504"
+}

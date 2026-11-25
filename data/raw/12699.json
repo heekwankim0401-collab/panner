@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-01T02:39:44Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12699,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use anisotropy in fog accumulation calculation for more natural results",
+  "up": 5,
+  "updatedAt": "2025-07-01T14:23:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12699"
+}

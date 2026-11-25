@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Absolutely. It should be a core feature. Doesn't make sense as an add-on asset library.",
+    "format": "form",
+    "workaround": "Not really, you'd have to go back into the project file and manually edit it."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-25T15:59:41Z",
+  "comments": 11,
+  "createdAt": "2025-11-16T21:11:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": "4.6",
+  "number": 13648,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Double click on input map name should be able to rename it, or right click rename",
+  "up": 0,
+  "updatedAt": "2025-11-25T15:59:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13648"
+}

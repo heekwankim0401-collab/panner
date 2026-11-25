@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is very difficult, nigh impossible, to modify New Node Wizard from within the Editor by a plugin. Theoretically, it _could_ be done, but it's too difficult (for me). And no, I can not implement this myself, because I don't understand how Godot works under the hood.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2019-10-04T08:34:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 124,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add node source selection box into New Node Wizard",
+  "up": 4,
+  "updatedAt": "2019-11-25T21:59:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/124"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a feature of Godot's core rendering tech.",
+    "format": "form",
+    "workaround": "I presume not."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-01-08T23:51:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13979,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Fill voxelized manifold meshes in VoxelGI to reduce light leaking",
+  "up": 5,
+  "updatedAt": "2026-01-15T12:16:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13979"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core lightmapping functionality which can't be supplied by an add-on.",
+    "format": "form",
+    "workaround": "No, as the lightmapper and default scene shader need to be modified."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-20T16:29:53Z",
+  "comments": 8,
+  "createdAt": "2021-08-02T22:58:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.8",
+  "number": 3078,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use light direction information for specular lobes when baking lightmaps",
+  "up": 17,
+  "updatedAt": "2026-08-20T16:29:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3078"
+}

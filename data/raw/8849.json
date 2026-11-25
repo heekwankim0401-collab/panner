@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is very important to assemble the project for 2 types of architectures",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-10T18:27:54Z",
+  "comments": 0,
+  "createdAt": "2024-01-10T07:57:05Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8849,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Is it possible to support mono c# to build for x86 architecture in the near future for android/ios?",
+  "up": 0,
+  "updatedAt": "2024-01-10T18:28:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8849"
+}

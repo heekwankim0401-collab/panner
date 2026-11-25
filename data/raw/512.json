@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.\n\nPS. I can work on the implementation myself, if needs be. Seems within my knowledge of the project.",
+    "format": "legacy",
+    "workaround": "It can be partially turned into an editor plugin, as I was able to do this mock-up \"in engine\". However, I feel like this can improve overall user experience going forward, and is not the only step to improve in regard to listed concerns."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 27,
+  "createdAt": "2020-02-23T14:26:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 512,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move Script List to docks",
+  "up": 48,
+  "updatedAt": "2024-03-14T20:51:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/512"
+}

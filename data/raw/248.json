@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Could perhaps be made as an add-on (I'm not familiar with making IDE add-ons) but the consensus was that we should put it up here as a proposal as it might be widely useful functionality.",
+    "format": "legacy",
+    "workaround": "It will probably be useful quite often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2019-11-21T19:00:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.x",
+  "number": 248,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add triangle / vertex count display for MeshInstances",
+  "up": 15,
+  "updatedAt": "2024-04-23T20:17:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/248"
+}

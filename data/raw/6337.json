@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It affects the behavior of a fundamental node.",
+    "format": "form",
+    "workaround": "This feature would be invaluable for organizing complex node hierarchies, and it's non-trivial to implement manually."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-02-22T08:06:15Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6337,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Group Children property to CanvasItem",
+  "up": 11,
+  "updatedAt": "2025-07-30T05:23:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6337"
+}

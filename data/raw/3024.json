@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "SDFGI is core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-07-21T09:45:15Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3024,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement caching in SDFGI to avoid stuttering when the camera is moving",
+  "up": 6,
+  "updatedAt": "2024-04-10T17:41:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3024"
+}

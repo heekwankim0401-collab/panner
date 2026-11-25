@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving core multiplayer by exposing an existing variable from C++, to GDScript",
+    "format": "form",
+    "workaround": "Yes. Each player has a `Dictionary<int, Node>` and the server dictates the Network ID (or the owner of the node?)\nBasically make a boilerplate/wrapper within every single RPC, which registers the Network ID. Usually by always having a new parameter in all RPC functions, with that parameter being the Network ID.\nIn my case, knowing the game format, I know the network IDs in advance because of the following technique:\n\nMy game has max 12 players. Each player controls 1 \"hero\". Whatever is spawned from that \"hero\" (e.g. projectile, buff etc) has a Network ID of the player id, multiplied by 10000. So a spawned object of player1 starts at 10000. The next one will be 10001. If player5 creates a projectile, it starts at 50000. So when an RPC of a new projectile arrives at the server and clients, from its owner (client), the Network ID is already pre-known - an increment of +1 since the RPCs I use are \"unreliable_ordered\".\n\nBut I am lucky for having a relatively small game state and knowing exactly what I want in advance. So the boilerplate isn't much of a chore. But such boilerplates make me wonder why RID of the server isn't synced as the Network ID itself, but thats offtopic"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-10-29T12:44:16Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 11044,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose Unique Network ID to GDScript",
+  "up": 11,
+  "updatedAt": "2025-04-11T17:36:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11044"
+}

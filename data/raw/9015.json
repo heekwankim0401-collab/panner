@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a refactoring of the core",
+    "format": "form",
+    "workaround": "Never"
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-04T19:31:16Z",
+  "comments": 0,
+  "createdAt": "2024-02-03T00:59:50Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": "4.3",
+  "number": 9015,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rework Skeleton3D for IK, MotionTracking and etc. to robustly resolve process order issues with AnimationMixer",
+  "up": 14,
+  "updatedAt": "2024-04-04T19:31:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9015"
+}

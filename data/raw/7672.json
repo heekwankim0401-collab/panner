@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of the physics engine.",
+    "format": "form",
+    "workaround": "No. Or it could but it's not trivial and won't be accurate."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-09-15T13:47:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7672,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose get_reaction_force and get_reaction_torque from 2D Joints (and break_force and break_torque possibly)",
+  "up": 7,
+  "updatedAt": "2023-09-15T16:27:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7672"
+}

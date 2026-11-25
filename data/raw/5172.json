@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. It is a workflow integration, so the less steps the more it benefits the user-developers.",
+    "format": "form",
+    "workaround": "Implementing quantization, open-cl GPU acceleration and gltf spec is not a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-08-14T21:39:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5172,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Filter gltfs via gltfpack",
+  "up": 4,
+  "updatedAt": "2022-08-16T19:18:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5172"
+}

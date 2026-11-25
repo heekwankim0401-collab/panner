@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Don't think so.",
+    "format": "form",
+    "workaround": "n/a"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-31T21:13:38Z",
+  "comments": 4,
+  "createdAt": "2022-07-31T19:33:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5037,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Warn when void function's result is assigned to a variable",
+  "up": 0,
+  "updatedAt": "2022-07-31T21:14:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5037"
+}

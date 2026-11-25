@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an extension of an existing core feature, offering it as an external add-on would therefore have the aforementioned overhead and a sub-par editor implementation.",
+    "format": "form",
+    "workaround": "This can be worked around by creating a new resources extending Texture3D that takes four different noises and then internally generates the associated NoiseTexture3Ds. Each noise texture is then copied to a different color channel of the actual texture. This however still creates internal overhead due to the need of additional Texture3Ds, and is not as well integrated in the editor because texture previews don't work for custom Texture3Ds."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-07-08T23:07:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7246,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to set a different noise source for each RGBA color channel in NoiseTexture2D and NoiseTexture3D",
+  "up": 0,
+  "updatedAt": "2023-08-21T03:40:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7246"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It probably could, but it should be pretty easy to just add this into the core node anyway.",
+    "format": "form",
+    "workaround": "It'd be hard to do this as an addon or extra script without a bunch of workarounds to still get the same polygon editor."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-23T19:04:10Z",
+  "comments": 5,
+  "createdAt": "2025-08-08T03:34:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 12964,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow navigation mesh/polygon baking to specify a root node",
+  "up": 1,
+  "updatedAt": "2025-08-23T19:13:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12964"
+}

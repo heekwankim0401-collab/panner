@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As the feature this aims to expand is already part of the 4.5 beta, this would make more sense to implement directly.",
+    "format": "form",
+    "workaround": "As this has to do with gpu-optimization it's probably out of the reach of code. In the case of needing 2 channels, the remapping could be used in combination with the normal map RGTC-compression. but that compression mode also seems to reduce the bit-depth of the resulting channels. So in cases where that is important or only a single channel is needed it's not ideal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-07-18T19:11:04Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12811,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow imported textures to be reduced to any number of channels",
+  "up": 1,
+  "updatedAt": "2025-07-20T18:03:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12811"
+}

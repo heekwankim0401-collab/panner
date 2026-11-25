@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This necessitates the prevention and/or delay of packets at the PacketPeer level, before the packets can be evaluated by higher-level networking components, so this functionality cannot be achieved without modification of the core.",
+    "format": "form",
+    "workaround": "This enhancement should be utilized during the development process of most networked programs, and does not have a convenient workaround. This proposal would implement nicely to the base packet transmission/retrieval system of Godot, to then effect all network communications."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2022-09-14T04:59:55Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 5417,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add Network Emulation features (latency, packet loss, throttling)",
+  "up": 35,
+  "updatedAt": "2025-05-31T23:53:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5417"
+}

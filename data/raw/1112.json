@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It must be adjusted in the engine",
+    "format": "legacy",
+    "workaround": "No, it's part of the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-06-23T15:16:53Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 1112,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Mono: Improve engine methods object parameters (and use/allow structs?)",
+  "up": 3,
+  "updatedAt": "2021-06-05T05:40:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1112"
+}

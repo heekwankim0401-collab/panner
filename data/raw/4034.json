@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's just an extension method.",
+    "format": "form",
+    "workaround": "It can, but those few lines of script took an hour or so to figure out with plenty of trial and error and probably deserves a line of comment explaining why it's necessary due to the inconsistent results of the built-in methods. This would remove the confusion involved."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-22T14:05:47Z",
+  "comments": 17,
+  "createdAt": "2022-02-19T15:29:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4034,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `is_scene_root` method for Nodes",
+  "up": 2,
+  "updatedAt": "2022-02-22T15:14:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4034"
+}

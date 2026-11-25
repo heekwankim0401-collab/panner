@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should be a core function of Gridmap alongside tile rotation",
+    "format": "form",
+    "workaround": "It would probably be used with more frequency than the current 'rotate' options, since rotated tiles will show seams in ways that mirrored tiles will not."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-12-01T08:36:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 5883,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add flip/mirror option to GridMap",
+  "up": 7,
+  "updatedAt": "2022-12-08T04:33:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5883"
+}

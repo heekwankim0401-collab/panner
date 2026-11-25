@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Already part of core, too late. 😛\n\nNote that it's totally fine to leave everything as-is, I personally invite people who need specific features to use the aforementioned module which does provide an extensive solution. I've just created this proposal upon some requests I've received from the community.",
+    "format": "legacy",
+    "workaround": "Some methods can be removed, but it's quite difficult to reimplement them via script, given the performance is quite critical when it comes to clipping polygons at 60 FPS."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2020-05-26T23:39:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 913,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enhancements regarding polygon boolean and polygon deflating geometry methods",
+  "up": 10,
+  "updatedAt": "2023-01-23T06:45:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/913"
+}

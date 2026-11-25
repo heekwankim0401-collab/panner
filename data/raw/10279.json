@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think it's possible to do something like this in an addon.  I believe BBCode can only be modified/improved in the core.",
+    "format": "form",
+    "workaround": "The work around would be getting the base font number via script, and then use string formatting to place the adjusted number where the [font_size] bbcode is being used, which is cumbersome and makes for way more complicated."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-07-25T14:48:04Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10279,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way for RichTextLabel BBCode to set relative `font_size` instead of absolute numbers (e.g. `[font_size=+2]` or `[font_size=-4]`)",
+  "up": 8,
+  "updatedAt": "2025-04-07T16:02:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10279"
+}

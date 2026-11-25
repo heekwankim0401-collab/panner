@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this needs to be part of Godot's core functionality, to make a clear distinction for the user between different node types:\n- Native nodes, that carry core engine system functionality\n- Custom nodes, that carry systems functionality (i.e. AI system provided by a plugin)\n- Scripted nodes, that carry game logic",
+    "format": "form",
+    "workaround": "I would say, no."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-24T18:29:36Z",
+  "comments": 5,
+  "createdAt": "2023-09-28T19:27:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.4",
+  "number": 7905,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enforce that custom nodes/resources keep their original type (assigned script)",
+  "up": 11,
+  "updatedAt": "2024-10-24T18:43:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7905"
+}

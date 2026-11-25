@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "UIDs are recommended for references, so it would be consistent to have the IDE itself use it.",
+    "format": "form",
+    "workaround": "There is a plugin https://github.com/atlasapplications/uid-explorer-plugin that only works with strings."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-01-06T18:45:35Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13963,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use UID in Inspector and Resource-Files",
+  "up": 0,
+  "updatedAt": "2026-02-16T20:14:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13963"
+}

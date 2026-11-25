@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can only be done in core.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 1,
+  "closedAt": "2024-01-30T16:49:56Z",
+  "comments": 53,
+  "createdAt": "2020-06-02T08:57:48Z",
+  "down": 1,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 990,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for the Wayland display server",
+  "up": 193,
+  "updatedAt": "2024-01-30T16:52:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/990"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires either altering an existing godot class, or accessing internal compositor functionality.",
+    "format": "form",
+    "workaround": "For my current case, I was able to pass atlas origin ID and tile size and use that to compute the current frame based off the UV coords, but this is information that would only be accessible at the shader level and I don't see how you would ever be able to access the frame number at the scripting level."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-26T17:58:01Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 13477,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Method to access the runtime frame for an animated tile in TileMapLayer",
+  "up": 3,
+  "updatedAt": "2025-10-27T16:16:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13477"
+}

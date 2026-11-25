@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it makes more sense to be implemented into SurfaceTool, as the standard for mesh generation is to use a index array along with the vertices array.",
+    "format": "form",
+    "workaround": "Not so simple, it would be possible but would require complex knowledge of vector mathematics."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-09-24T15:16:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3344,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "SurfaceTool: Add a method to generate a surface based on vertices and index arrays",
+  "up": 1,
+  "updatedAt": "2022-01-06T01:10:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3344"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Could be a plugin, not sure. Core makes more sense",
+    "format": "form",
+    "workaround": "Nope"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2021-08-27T17:00:43Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3213,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add debug draw modes to display UV1 and UV2 (lightmap) texel density in the 3D editor",
+  "up": 20,
+  "updatedAt": "2022-06-23T16:13:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3213"
+}

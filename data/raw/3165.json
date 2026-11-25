@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Must be a core engine change."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-03T21:10:37Z",
+  "comments": 24,
+  "createdAt": "2021-08-20T00:10:25Z",
+  "down": 12,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3165,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove the requirement for node paths to be unique",
+  "up": 0,
+  "updatedAt": "2021-11-03T21:10:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3165"
+}

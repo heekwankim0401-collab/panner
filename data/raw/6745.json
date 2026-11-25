@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "drawing functions are already part of the engine this would just be a addition",
+    "format": "form",
+    "workaround": "It would be used in cases built in nodes do not cut it and we need to draw a nine patch"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-23T20:14:36Z",
+  "comments": 0,
+  "createdAt": "2023-04-23T20:10:22Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6745,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "draw_nine_patch",
+  "up": 0,
+  "updatedAt": "2023-04-23T23:05:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6745"
+}

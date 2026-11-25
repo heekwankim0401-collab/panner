@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "na",
+    "format": "form",
+    "workaround": "**What I am not proposing:**\n\nI am not proposing to change the node highlighted, when you click on a script icon. So it wouldn't be a functionality change but rather a UI to assist user to identify which nodes have the edited script attached,"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-14T02:08:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10436,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Highlight node script icons an open script is attached to",
+  "up": 4,
+  "updatedAt": "2024-08-14T22:08:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10436"
+}

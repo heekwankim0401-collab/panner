@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This should be accessible to everyone who is working with GDExtensions by default",
+    "format": "form",
+    "workaround": "It can be done manually, but it would be better if everything was in one whole package. Main feature of GDExtension is that you dont have to rely on the source code of the engine to make your own extensions, and having to deal with a separate repo just for a single file feels like an oversight."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-04T12:37:34Z",
+  "comments": 3,
+  "createdAt": "2024-08-30T09:59:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:windows",
+    "topic:buildsystem",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10605,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Copy Godot's `.natvis` file in godot-cpp for datatype visualization in Visual Studio",
+  "up": 4,
+  "updatedAt": "2026-04-28T04:13:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10605"
+}

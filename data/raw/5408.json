@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "NavigationServer currently only takes inputs and returns the optimal path result, and I believe it would be greatly empowered if it could explain why that path is optimal.",
+    "format": "form",
+    "workaround": "The custom AStar could be sped up by writing in a compiled language, but this is more difficult than GDScript.\n\nCalculating the total travel cost could be done by doing having the node perform an elaborate simulation by sending an invisible copy of itself along the entire route and recording how long it takes. This would not be a few lines of code. It requires movement and terrain to already be fully implemented, and simulations are magnitudes less efficient than a mathematical abstraction of the route."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-09-12T12:59:59Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 5408,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Get total pathfinding costs (travel and enter) between two positions from NavigationServer / Navigation2DServer",
+  "up": 17,
+  "updatedAt": "2022-09-12T13:00:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5408"
+}

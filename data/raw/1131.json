@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It will help a lot some groups of people which edits a lot of images or want to look at picture with full resolution(which mostly isn't possible with inspector)",
+    "format": "legacy",
+    "workaround": "It should be very often used.\nScripts which modify editor, aren't so popular and this implementation will take more than a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-28T21:31:31Z",
+  "comments": 1,
+  "createdAt": "2020-06-28T12:17:19Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1131,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to open and edit images in external app",
+  "up": 2,
+  "updatedAt": "2020-06-28T21:31:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1131"
+}

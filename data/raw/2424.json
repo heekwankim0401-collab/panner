@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There could be a lot of FileSystem plugins which would use Filesystem selection.",
+    "format": "markdown",
+    "workaround": "Not a few lines:\nFirst you need to get FileSystem Tree control (which is already hacky)\nSecondly get all selected items\nFinally convert each item to path"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-14T22:38:09Z",
+  "comments": 1,
+  "createdAt": "2021-03-07T18:19:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.0",
+  "number": 2424,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `EditorInterface.get_selected_paths()`",
+  "up": 2,
+  "updatedAt": "2022-11-14T22:38:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2424"
+}

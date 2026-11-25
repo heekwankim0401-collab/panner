@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It fits with the current `trim_whitespace_on_save` setting that is already present.",
+    "format": "form",
+    "workaround": "This can be worked around with an editor plugin, but it is a general quality of life improvement to the script editor."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-30T09:50:54Z",
+  "comments": 4,
+  "createdAt": "2024-01-12T03:09:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 8867,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an editor setting to trim final newlines when saving a script",
+  "up": 4,
+  "updatedAt": "2024-05-30T09:50:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8867"
+}

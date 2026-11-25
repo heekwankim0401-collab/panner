@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the project structure and how files and folders are handled by the search function",
+    "format": "form",
+    "workaround": "It would be difficult to find a workaround with a script, since this suggestion represents an intervention in the file system filtering"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-03-18T00:39:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9321,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create 'Hidden/private folders' from FileSystem and search results via naming conventions",
+  "up": 2,
+  "updatedAt": "2024-03-18T13:22:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9321"
+}

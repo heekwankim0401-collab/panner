@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Knowing what you clicked and haven't clicked is commonly needed when developing advanced UI. I commonly see people ask questions like \"How can I tell which Control node I clicked?\" and \"How can I know when the user has clicked OUTSIDE of a button?\", there isn't a simple way of doing this without workarounds.\n\nA popular workaround is creating a `Rect2` the same size and position as a Control node and seeing if the mouse event is inside it, but this doesn't respect `mouse_filter` so you'd have to implement code checking if the mouse is over it anyways.\n\nIn conclusion, I think being able to know which Control nodes got clicked and which ones weren't is very useful when building complex UI. Being able to get Control nodes at a given position is a good, generic way of creating this mechanic.",
+    "format": "form",
+    "workaround": "It's hackier than a usual workaround, but I [added a component that handles right clicking of each node in a specific group](https://godotforums.org/d/37467-is-there-a-global-way-to-get-the-control-node-im-clicking/11). This isn't intuitive or performant."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-11-12T21:58:58Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8408,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a function to get all Control nodes at a specific position",
+  "up": 14,
+  "updatedAt": "2025-05-24T02:57:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8408"
+}

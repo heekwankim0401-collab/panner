@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm a beginner programmer yet I see how Enums in rust is so much powerful. Add support for Enums and match statement in GDScript will enhance coding experience in Godot.",
+    "format": "form",
+    "workaround": "Yes it very possible to script anything with what we have in GDScript for now but this enhancement will make GDScript much powerful."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-15T16:21:22Z",
+  "comments": 2,
+  "createdAt": "2023-09-15T11:05:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7671,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enum and match statement like Rust lang have to write Robust code by eliminating null references",
+  "up": 0,
+  "updatedAt": "2023-09-15T16:21:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7671"
+}

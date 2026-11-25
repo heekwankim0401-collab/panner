@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-03-24T18:18:31Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14526,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Persist the selected animation in Animation Track Editor when closing and opening scenes",
+  "up": 5,
+  "updatedAt": "2026-03-24T22:50:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14526"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core editor/documentation system functionality.",
+    "format": "markdown",
+    "workaround": "No, as this is core editor/documentation system functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-12T15:25:20Z",
+  "comments": 0,
+  "createdAt": "2020-12-28T20:25:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": "4.2",
+  "number": 2041,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add descriptions/tooltips to properties in the Import dock",
+  "up": 8,
+  "updatedAt": "2023-07-12T15:32:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2041"
+}

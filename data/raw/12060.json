@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Game workspace is core.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-10T23:52:51Z",
+  "comments": 1,
+  "createdAt": "2025-03-24T13:58:40Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 12060,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move embedded window sizing buttons from main Game workspace toolbar to sub-menu",
+  "up": 3,
+  "updatedAt": "2025-11-10T23:53:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12060"
+}

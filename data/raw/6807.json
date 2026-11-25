@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "We can't implement a rollbackable AnimationTree by inheriting.",
+    "format": "form",
+    "workaround": "We can't manipulate private properties of AnimationTree in script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-05-04T04:41:22Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6807,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose low-level properties of AnimationTree",
+  "up": 0,
+  "updatedAt": "2023-05-22T16:46:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6807"
+}

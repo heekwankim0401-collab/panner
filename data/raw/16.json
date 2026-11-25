@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2019-09-04T18:19:50Z",
+  "comments": 2,
+  "createdAt": "2019-09-04T17:11:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 16,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow ScrollContainer to be dragged from the inside with mouse inputs (right now it is touchscreen only)",
+  "up": 0,
+  "updatedAt": "2020-04-29T22:15:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/16"
+}

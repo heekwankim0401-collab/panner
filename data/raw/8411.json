@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The CSGPolygon3D already does a very nice job of building swept polygons around paths, and the code is not small. Replicating it in a separate asset would mean significant duplication of code, and the corresponding maintenance issues later.",
+    "format": "form",
+    "workaround": "There appears to be no way to suppress this, or easily delete it from the ArrayMesh after construction."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-11-13T03:16:44Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8411,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add CSGPolygon3D option to suppress end-caps",
+  "up": 5,
+  "updatedAt": "2023-11-13T11:07:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8411"
+}

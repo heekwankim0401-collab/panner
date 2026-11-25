@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "It can be worked around using `_get_property_list`:\n```gdscript\nextends Node\n\nvar data: Array\n\nfunc _get_property_list():\n\t# Export `data` property, but don't show it in inspector.\n\t# (`data` property will be saved in the scene file.)\n\tvar serializable = [\n\t\t{\n\t\t\tname = \"data\",\n\t\t\tusage = PROPERTY_USAGE_NO_EDITOR,\n\t\t\ttype = TYPE_ARRAY,\n\t\t},\n\t]\n\treturn serializable\n```"
+  },
+  "assignees": 1,
+  "closedAt": "2024-02-27T20:23:35Z",
+  "comments": 13,
+  "createdAt": "2023-09-22T09:43:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.3",
+  "number": 7794,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to declare exported properties that are not shown (aka hidden) in inspector",
+  "up": 21,
+  "updatedAt": "2024-02-27T20:24:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7794"
+}

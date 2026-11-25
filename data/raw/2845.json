@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'd use it all the time, instead of the wait, in seconds . . .",
+    "format": "form",
+    "workaround": "I'm not sure, atm one can't input a flt in the wait box, so I'll have to constantly calculate, what say 17 frames is, at 60 FPS, instead of just making a constant, and divide by 60 . . .\n\n![2021-06-09 1243](https://user-images.githubusercontent.com/83387915/121340862-5a890e00-c920-11eb-8861-51ab2ff92268.gif)\n\nI'm starting to understand, that I have so little experience, with Visual script, in 'any' engine that, I don't really know what's best . . . I guess my question is, can something be done, so one can work accurately in frames, to get more ' control ' over, the code, Thx . . . :OO"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T16:16:57Z",
+  "comments": 3,
+  "createdAt": "2021-06-09T10:45:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 2845,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a waitx_frames node to visual script . .",
+  "up": 0,
+  "updatedAt": "2022-08-24T16:16:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2845"
+}

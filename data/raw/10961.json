@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would involve a GDScript language change.",
+    "format": "form",
+    "workaround": "There does not seem to be any existing clean solution for this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2024-10-13T09:04:21Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10961,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow scripts to export static variables, and allow them to be assigned in the editor",
+  "up": 2,
+  "updatedAt": "2026-09-09T10:48:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10961"
+}

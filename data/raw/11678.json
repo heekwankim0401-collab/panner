@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The whole advantage would be that it's in C++ and fast. So core.",
+    "format": "form",
+    "workaround": "In the case of my script, the amount of work to manually manage the static body and collider was a burden. I am also not sure the collider is properly updating, so there are unknowns."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-02-01T07:58:59Z",
+  "down": 1,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 11678,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Adopt use_collision from CSG into MeshInstance",
+  "up": 1,
+  "updatedAt": "2025-02-02T09:24:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11678"
+}

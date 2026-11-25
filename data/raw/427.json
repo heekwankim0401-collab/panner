@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, because it's about the project manager.",
+    "format": "legacy",
+    "workaround": "No, because it's about the project manager."
+  },
+  "assignees": 1,
+  "closedAt": "2021-11-24T18:28:20Z",
+  "comments": 2,
+  "createdAt": "2019-08-03T00:02:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 427,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a system for storing, displaying, and warning about incompatible features in the Project Manager",
+  "up": 19,
+  "updatedAt": "2021-11-24T18:28:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/427"
+}

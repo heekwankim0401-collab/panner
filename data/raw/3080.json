@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Auto exposure is an essential feature and is already part of core.",
+    "format": "form",
+    "workaround": "Not really. For this to run decently it needs to be done as a shader and run every frame."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-08-03T10:17:45Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3080,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Modernize and overhaul auto exposure",
+  "up": 7,
+  "updatedAt": "2025-05-10T16:32:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3080"
+}

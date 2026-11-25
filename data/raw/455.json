@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this is one of the very basic behaviors expected from the core UI functionality, so fixing it right in the window code would be most suitable. Also, I don't think anyone would miss the current behavior (but that has yet to be confirmed).",
+    "format": "legacy",
+    "workaround": "Workarounds include:\n- either setting rect_min_size manually once, which is not a good idea in case something changes,\n- or checking the window size on each update and fixing it if necessary, which might be fairly complex (I don't even know how would I do that \"in a good way\" - that's too hard)."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T14:39:43Z",
+  "comments": 5,
+  "createdAt": "2020-02-08T11:41:50Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 455,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Dialog windows should not resize below the minimal size of their children",
+  "up": 7,
+  "updatedAt": "2023-12-31T14:39:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/455"
+}

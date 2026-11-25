@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-03-08T07:47:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14403,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor option to allow `print_debug()` to output on a single line",
+  "up": 5,
+  "updatedAt": "2026-03-11T19:43:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14403"
+}

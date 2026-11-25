@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "plugin system related",
+    "format": "markdown",
+    "workaround": "plugin system related"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-26T17:27:49Z",
+  "comments": 3,
+  "createdAt": "2021-01-09T02:44:18Z",
+  "down": 0,
+  "labels": [
+    "topic:plugin"
+  ],
+  "milestone": "4.0",
+  "number": 2090,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Prohibit creating a plugin without specifying a subfolder",
+  "up": 0,
+  "updatedAt": "2025-10-26T17:27:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2090"
+}

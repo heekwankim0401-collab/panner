@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because its a complete rewrite of how drawing works something on the asset library would not be able to do so.",
+    "format": "form",
+    "workaround": "Yes it can for instance update() can be replaced with the user placing the drawing funcs inside _process()"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-04-28T16:43:42Z",
+  "down": 1,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4459,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using drawing functions outside _draw():",
+  "up": 0,
+  "updatedAt": "2022-04-28T16:48:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4459"
+}

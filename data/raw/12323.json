@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "Nope."
+  },
+  "assignees": 1,
+  "closedAt": "2026-08-28T10:38:12Z",
+  "comments": 10,
+  "createdAt": "2025-04-26T15:14:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12323,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Core: Add first-class `Object` types, replacing (most of) `ClassDB`",
+  "up": 74,
+  "updatedAt": "2026-08-31T13:40:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12323"
+}

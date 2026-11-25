@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is a most basic way to import a new animation into godot",
+    "format": "form",
+    "workaround": "All of the process is not suitable for comfortable work with animation-skeleton retargeting"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-11T11:45:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13610,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve workflow for importing large amounts of animations at once",
+  "up": 0,
+  "updatedAt": "2025-12-27T08:28:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13610"
+}

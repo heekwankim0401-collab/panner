@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this is a general feature many projects might benefit from.",
+    "format": "form",
+    "workaround": "Not that I know of without creating unnecessary copies or performing unnecessary iterations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-01-15T12:49:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11566,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow removal of item in array while iterating over it in contexts where order is not important with remove-swap-like method",
+  "up": 0,
+  "updatedAt": "2026-02-28T04:58:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11566"
+}

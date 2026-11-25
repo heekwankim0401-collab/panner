@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In theory this can be a gdnative plugin, but ies profiles are an important visual tool in lighting a scene.\n\n**Other**\n\nI am not working on IES lights import, feel free to take on the task.",
+    "format": "legacy",
+    "workaround": "No, the convenience of dragging a profile to be a light projector is the feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 26,
+  "createdAt": "2020-04-15T20:24:42Z",
+  "down": 0,
+  "labels": [
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 715,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add IES light profile import for realistic light projectors",
+  "up": 30,
+  "updatedAt": "2025-01-06T18:17:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/715"
+}

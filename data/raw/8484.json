@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It involves core functionality around loading assets.",
+    "format": "form",
+    "workaround": "This would be used frequently by many Godot users I suspect, as many level-based games want to maintain references to each other. \n\nCurrently I’m keeping a string as a path to the next room, but this is fallable, as a room could be renamed or moved. Another more robust solution can be seen [here](https://x.com/the_duriel/status/1726608201309896962), but this is a bit ugly and not very convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-11-21T00:08:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8484,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement an `@export_lazy_resource` export annotation",
+  "up": 14,
+  "updatedAt": "2024-10-11T18:32:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8484"
+}

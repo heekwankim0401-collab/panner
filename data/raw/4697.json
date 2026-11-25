@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving performance without decreasing quality too much when FSR is too expensive on a given GPU.",
+    "format": "form",
+    "workaround": "No, but you can use a second Viewport to display 2D elements at a higher resolution while still using nearest-neighbor filtering. However, by doing so, you lose on some performance compared to using a single Viewport for everything."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-02T17:34:00Z",
+  "comments": 8,
+  "createdAt": "2022-06-18T23:30:40Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.7",
+  "number": 4697,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a nearest-neighbor scaling option to Viewport's Scaling 3D Mode property",
+  "up": 67,
+  "updatedAt": "2026-04-02T18:10:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4697"
+}

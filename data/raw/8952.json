@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "As tilesets are core, it's afaik not possible to modify the values they send to shaders without modifying the core.",
+    "format": "form",
+    "workaround": "It's possible to pass whatever data to the shader using the tile modulation color, however doing so obviously loses the ability to modulate tile colors. This provides an additional data channel following an established access pattern."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-30T23:40:32Z",
+  "comments": 2,
+  "createdAt": "2024-01-24T04:47:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8952,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose tile custom data to shader ala INSTANCE_CUSTOM",
+  "up": 2,
+  "updatedAt": "2024-01-31T11:41:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8952"
+}

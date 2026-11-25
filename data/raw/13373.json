@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes. This is a usability and workflow improvement at the heart of the Godot editor. Consistent and synchronized behavior between the core panels is essential for a smooth experience. Especially for new users or users who are not exclusively working with godot, e.g. indie developers who also manage all the graphics themselves and put more time into it.\nMaking this available as a built-in option ensures it works reliably and intuitively.",
+    "format": "form",
+    "workaround": "Not easily. This affects editor UI behavior, not runtime code."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-14T17:37:53Z",
+  "comments": 1,
+  "createdAt": "2025-10-12T17:43:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13373,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve editor consistency: synchronize selected node with script editor, inspector and 2D/3D view (optional)",
+  "up": 2,
+  "updatedAt": "2025-10-14T20:56:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13373"
+}

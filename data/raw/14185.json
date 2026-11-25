@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It clarifies the error message",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-02-09T12:05:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 14185,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Print the expected indentation level in errors",
+  "up": 3,
+  "updatedAt": "2026-02-09T12:11:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14185"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This could be done as an add-on, I suppose. Displaying controls is pretty key for accessibility, though, so I think it would be good to figure out.\nThis type of display is also becoming fairly ubiquitous in gaming, so I guess I feel like it should be an Engine capability.",
+    "format": "form",
+    "workaround": "N/A (Just don't use the control...?)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-01-17T23:35:03Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3817,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add action mapping `Control` for displaying input bindings",
+  "up": 4,
+  "updatedAt": "2022-03-08T22:14:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3817"
+}

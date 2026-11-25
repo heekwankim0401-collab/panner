@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core rendering functionality.",
+    "format": "form",
+    "workaround": "This is core rendering functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-11-09T09:57:28Z",
+  "down": 0,
+  "labels": [
+    "requires core feedback",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8380,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose OpenGL API through wrapper object",
+  "up": 3,
+  "updatedAt": "2023-12-19T04:44:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8380"
+}

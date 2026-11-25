@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes! This is a must have feature for all game engines! (All other cool guys do it!)",
+    "format": "markdown",
+    "workaround": "No possible workarounds. One workaround that comes in mind is to use Unity engine."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-10T23:52:43Z",
+  "comments": 34,
+  "createdAt": "2020-11-26T18:29:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 1896,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add global crash handler/logger",
+  "up": 64,
+  "updatedAt": "2025-11-10T23:52:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1896"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Serialized presets modifies how presets are serialized to disk and is a core functionality change.",
+    "format": "legacy",
+    "workaround": "Serialized presets modifies how presets are serialized to disk and is a core functionality change."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-05T03:36:26Z",
+  "comments": 1,
+  "createdAt": "2020-09-25T15:43:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1567,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create and serialize import presets",
+  "up": 6,
+  "updatedAt": "2022-01-05T16:58:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1567"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It adds consistency between editor and in game?\nIt also makes simple animations like this easier to make, if someone doesn't want it to happen in game they can just click the checkbox and disable it when they are done making the animation.",
+    "format": "form",
+    "workaround": "idk.\nI am having a hard time manually placing the keyframes, animations are complex."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-02-12T03:07:31Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 3954,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Please make snap actually effect the animation playback in game",
+  "up": 0,
+  "updatedAt": "2022-02-17T21:08:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3954"
+}

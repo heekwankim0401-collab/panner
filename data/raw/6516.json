@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This can be provided by an add-on, but making it core will improve performance in large and complex RichTextLabels (as there won't be a need to call a GDScript function for every glyph within a `[pulse]` tag every frame).\n\nRichTextLabel already offers a few built-in effects like `[wave]`, `[shake]` and `[rainbow]`, but these are arguably *far* more situational.",
+    "format": "form",
+    "workaround": "The following script's resulting class can be added to a RichTextLabel's **Custom Effects** property:\n\n```gdscript\n@tool\nextends RichTextEffect\nclass_name RichTextPulse\n\n# Syntax: [pulse color=#ffffff33 freq=1.0 ease=-2.0 height=0][/pulse]\n\n# Define the tag name.\nvar bbcode = \"pulse\"\n\nfunc _process_custom_fx(char_fx):\n\t# Get parameters, or use the provided default value if missing.\n\tvar color = Color(char_fx.env.get(\"color\", Color(1, 1, 1, 0.2)))\n\tvar freq = char_fx.env.get(\"freq\", 1.0)\n\tvar param_ease = char_fx.env.get(\"ease\", -2.0)\n\tvar height = char_fx.env.get(\"height\", 0)\n\n\tvar sined_time = (ease(pingpong(char_fx.elapsed_time, 1.0 / freq) * freq, param_ease))\n\tvar y_off = sined_time * height\n\tchar_fx.color = char_fx.color.lerp(char_fx.color * color, sined_time)\n\tchar_fx.offset = Vector2(0, -1) * y_off\n\treturn true\n```\n\nThis script was added to the documentation in https://github.com/godotengine/godot-docs/pull/6991. However, blinking text is arguably one of the more common animated effects in game UIs. See also the potential performance concern below."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-12T13:23:02Z",
+  "comments": 0,
+  "createdAt": "2023-03-16T17:13:00Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.2",
+  "number": 6516,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `[pulse]` built-in effect to RichTextLabel",
+  "up": 5,
+  "updatedAt": "2023-07-12T13:28:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6516"
+}

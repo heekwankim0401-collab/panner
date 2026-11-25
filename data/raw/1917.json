@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it is core",
+    "format": "markdown",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2020-12-01T16:35:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1917,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to load DLL modules without using GDNative/GDExtension",
+  "up": 19,
+  "updatedAt": "2025-06-13T03:59:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1917"
+}

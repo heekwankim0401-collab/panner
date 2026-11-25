@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "imo it is a feature that enhances the plugins creation experience",
+    "format": "form",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-23T23:03:27Z",
+  "comments": 6,
+  "createdAt": "2021-10-14T06:17:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:export",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3423,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make changes to `AndroidManifest.xml` using android plugin `.gdap` file ",
+  "up": 2,
+  "updatedAt": "2024-06-24T17:11:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3423"
+}

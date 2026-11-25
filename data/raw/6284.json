@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The same as above.",
+    "format": "form",
+    "workaround": "The export workflow is in the core code, we can't change it in script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-02-14T11:07:24Z",
+  "down": 0,
+  "labels": [
+    "topic:export",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 6284,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to add files after exporting all files in an EditorExportPlugin",
+  "up": 3,
+  "updatedAt": "2023-02-15T15:17:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6284"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is supported in core for Windows. It seems weird to have it be built in for one platform but an add-on for a different platform.",
+    "format": "legacy",
+    "workaround": "Not as far as I'm aware."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-04T13:21:53Z",
+  "comments": 5,
+  "createdAt": "2019-11-03T13:41:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 198,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support --no-window on linux",
+  "up": 11,
+  "updatedAt": "2020-06-07T20:54:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/198"
+}

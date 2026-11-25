@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This could be an asset in the AssetLib but this also makes upgrading godot 3 projects using this node requiring an external asset.",
+    "format": "form",
+    "workaround": "This can be worked around with hiding every node it's supposed to affect and/or making VisibleOnScreenNotifier from scratch but neither of these are convient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-11-17T17:07:03Z",
+  "down": 2,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8458,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow VisibleOnScreenNotifier to work when hidden",
+  "up": 1,
+  "updatedAt": "2023-11-17T18:17:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8458"
+}

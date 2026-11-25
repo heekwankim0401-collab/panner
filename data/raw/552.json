@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is not possible to be done as a plugin.",
+    "format": "legacy",
+    "workaround": "No there is no way to work around this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-03-04T04:12:37Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 552,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add OS time to InputEvent (input timestamp)",
+  "up": 35,
+  "updatedAt": "2026-11-21T04:32:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/552"
+}

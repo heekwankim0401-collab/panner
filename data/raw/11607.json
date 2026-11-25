@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "While it's possible to design as a native asset using GDExtension to read direct hardware input, it would involve bypassing Godot's core systems and break the patterns for handling input.  It would be best to handle this in the platform setup for projects, so that it can be integrated and seamless for application development.",
+    "format": "form",
+    "workaround": "No easily, as it requires implementing a different way of reading input from the system."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-19T18:51:57Z",
+  "comments": 2,
+  "createdAt": "2025-01-19T05:15:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 11607,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Keylogger Mode for accepting Input when app is in background",
+  "up": 0,
+  "updatedAt": "2025-01-19T18:52:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11607"
+}

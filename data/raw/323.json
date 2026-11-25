@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It has to be a core enhancement.",
+    "format": "legacy",
+    "workaround": "It can not be worked around with a script and would require the engine to background the tasks (which they already are back grounded), but visually push them to the background. It can be worked around by opening a second instance of the Godot IDE as noted by @reduz but that is not a good solution for my portable laptop which only has 4GB of RAM and a super slow hard drive (swap is painful even on Linux), but would be perfectly acceptable for my Gaming Laptop and Desktop."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2019-12-20T02:15:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 323,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to export projects in the background",
+  "up": 6,
+  "updatedAt": "2022-07-07T16:22:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/323"
+}

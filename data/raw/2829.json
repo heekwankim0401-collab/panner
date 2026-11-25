@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Matters dealing with hardware may be best implemented at core level.\n\n\nI'm personally willing to work on developing this feature myself, but it's been a few years since I've programmed anything, and I'm not sure whether core changes or modules are the better way to go about this.\nI imagine a combination of both has the most longevity. Separating GMH into a module is definitely more reasonable. However, one might argue that the entire gyro functionality might be superfluous for many users and should be modular.\nI'm making this proposal mostly to gauge support and get some advice from godot developers on what to do first, before I start doing something completely wrong. Mainly whether module or core should be the focus.\n\nThanks for reading this far, and also thanks to JibbSmart for making so many tools for motion control development.",
+    "format": "markdown",
+    "workaround": "This enhancement cannot be achieved without changes to godot."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-27T21:28:28Z",
+  "comments": 56,
+  "createdAt": "2021-06-04T22:13:32Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.7",
+  "number": 2829,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for controller-based motion controls (gyroscope, accelerometer, …)",
+  "up": 101,
+  "updatedAt": "2026-01-27T21:29:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2829"
+}

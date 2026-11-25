@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think you can add a core property to all Nodes with an add-on?",
+    "format": "form",
+    "workaround": "It can be worked around, yes. But it's a pain. One example of a bug I encountered because I didn't have this is that I was sticking all of my pooled objects in the same physical location - this was causing damaging ones to hit vulnerable ones, and so the \"on area entered\" signal would fire as soon as the objects were retrieved from the pool and kill the newly restored object."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-01-31T01:36:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14118,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Pool Object\" boolean property to all Nodes",
+  "up": 0,
+  "updatedAt": "2026-02-01T02:25:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14118"
+}

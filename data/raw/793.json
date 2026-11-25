@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I thing it would be impossible to implement this in assets library because of it’s size.\n\nThanks,\nMaratonec",
+    "format": "legacy",
+    "workaround": "No, I am sure many users will be very happy if you implement it so it will be used very much and sadly for you this implementation of .NET core will not be few lines of code for you."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-18T20:48:46Z",
+  "comments": 22,
+  "createdAt": "2020-05-03T10:41:38Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.0",
+  "number": 793,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add .NET Core support",
+  "up": 88,
+  "updatedAt": "2022-12-13T10:25:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/793"
+}

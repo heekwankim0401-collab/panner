@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "considering that `basis.z` is the engine standard way for getting the forward vector of a node, and that this is a commonly used value in game development, barring the inclusion of access properties like those listed below, `basis.z` and `global_basis.z` are appropriate compromises.\n\neg.\n- forward, global_forward\n- right, global_right\n- up, global_up\n\n\nedit:\nI will be making this change for myself regardless. Therefore if this is approved with enough support there should already be a PR more or less ready to go.\n\nhere is a link to the branch where the changes are implemented for anyone who would like to verify what changes were necessary to accomplish this proposal.\nhttps://github.com/qaptoR/godot/tree/master_node3d_global_basis",
+    "format": "form",
+    "workaround": "the workaround is obvious. But the usability of this change is equally so."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-18T07:32:26Z",
+  "comments": 0,
+  "createdAt": "2023-02-03T17:27:08Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "4.2",
+  "number": 6229,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Include 'global_basis' as Transform3D access property for Node3D class",
+  "up": 6,
+  "updatedAt": "2023-08-18T07:32:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6229"
+}

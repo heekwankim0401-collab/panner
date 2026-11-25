@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving syntax highlighting out of the box.",
+    "format": "form",
+    "workaround": "This enhancement would be used all the time by pretty much everyone."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-19T06:20:13Z",
+  "comments": 8,
+  "createdAt": "2022-07-14T17:09:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 4874,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve unary operator highlighting",
+  "up": 10,
+  "updatedAt": "2022-08-22T16:41:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4874"
+}

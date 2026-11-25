@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "People expect the matrix view functionality to be integrated into the core.",
+    "format": "legacy",
+    "workaround": "The matrix view cannot be worked around in a few lines of script. The matrix will at least take a few pages of GDScript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-06-29T20:25:56Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1142,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an attribute editor",
+  "up": 6,
+  "updatedAt": "2021-06-03T00:33:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1142"
+}

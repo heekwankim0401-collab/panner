@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Loading GDExtensions is a core feature and it probably should be expected that a missing extension is a problem, perhaps if we could conditionally detect its existence and do things differently without errors this would be a bit more moot, but as it stands we can't do that so it is minimally guaranteed to produce errors. If the intent is to allow optional libraries, the current system is not very clean to do it.",
+    "format": "form",
+    "workaround": "It could be in an autoload that checks if each line of `res://.godot/extension_list.cfg` is in `GDExtensionManager.get_loaded_extensions`, more detail on the specifics can likely be evaluated on that basis however it would require functionally re-implementing much of whats in `GDExtension.cpp`, which is a quite a bit of a hassle."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-06-02T02:53:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 7001,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Alert the user if a GDExtension library file is missing",
+  "up": 1,
+  "updatedAt": "2025-05-27T21:06:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7001"
+}

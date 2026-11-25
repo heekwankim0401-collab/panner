@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about expanding the capabilities of the AnimationBlendSpace nodes with more options that have real applications as nearly all game characters are organic and not robots. It's also a lightweight addition that is in line with existing options.",
+    "format": "form",
+    "workaround": "No. To be able to use the existing animation tree features, the only option is to use builtin interpolation methods."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-02T02:26:54Z",
+  "comments": 2,
+  "createdAt": "2024-04-01T13:21:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 9429,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add bicubic interpolation BlendMode to AnimationBlendSpace1D and AnimationBlendSpace2D",
+  "up": 0,
+  "updatedAt": "2024-04-02T02:31:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9429"
+}

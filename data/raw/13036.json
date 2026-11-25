@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is most applicable to GDExtensions and custom modules and only pertains to core containers which can't be changed by addons. Since its often recommended that a change in godot-cpp should sync up first with godot, optimally godot's version of the types should be changed first.",
+    "format": "form",
+    "workaround": "It can be worked around by const_cast'ing away the const or templating/duplicating the iterator code. However these are suboptimal solutions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-20T12:32:19Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 13036,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add implicit conversion of container `Iterator`s to `ConstIterator`s",
+  "up": 0,
+  "updatedAt": "2025-08-20T12:35:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13036"
+}

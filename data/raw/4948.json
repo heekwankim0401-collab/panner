@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It changes core functionality of StyleBoxFlats.",
+    "format": "form",
+    "workaround": "I think it will be used often, but if not it still can be done with shaders. It's just a little more complicated. If I do end up making shaders to do these I will post them here."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-07-22T02:48:12Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4948,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more configuration options to shadows and borders in StyleBoxFlat",
+  "up": 5,
+  "updatedAt": "2026-06-25T15:10:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4948"
+}

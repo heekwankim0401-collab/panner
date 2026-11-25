@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It has to be part of the engine to work.",
+    "format": "legacy",
+    "workaround": "No, it can't."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-05-29T19:44:19Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 963,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting to display a full stack trace for errors and warnings",
+  "up": 50,
+  "updatedAt": "2026-01-29T11:58:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/963"
+}

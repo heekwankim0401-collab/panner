@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-04T14:46:37Z",
+  "comments": 14,
+  "createdAt": "2020-11-17T15:48:49Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": "3.x",
+  "number": 1852,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Script -> JavaScript interface to improve calling JavaScript code from Godot",
+  "up": 29,
+  "updatedAt": "2022-08-24T20:40:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1852"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Many people creating a new Godot project with git for VCS will start with this `.gitignore` file, so it's not wrong to improve it a bit.",
+    "format": "form",
+    "workaround": "One can just change the `.gitignore` file themselves, it's not really a big problem. It's just an inconsistency."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-12-15T14:37:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13874,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change `.godot/` to `/.godot/` in `.gitignore` template to be consistent with `/android/`",
+  "up": 1,
+  "updatedAt": "2025-12-16T13:39:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13874"
+}

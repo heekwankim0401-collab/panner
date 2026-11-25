@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Very common behavior, simple to implement. Technically the whole thing is already implemented, just needs API method.",
+    "format": "form",
+    "workaround": "You can do your own raycast, but its a couple of extra steps and defeats the purpose of there being a builtin object picking feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-29T00:46:16Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13090,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `get_picked_objects()` to PhysicsServer for continuous mouse picking",
+  "up": 1,
+  "updatedAt": "2025-08-29T15:44:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13090"
+}

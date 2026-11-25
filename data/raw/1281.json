@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's a requirement to be able to update your TSCN and reimport without your scenes breaking basically, so we need a good solution to this problem above, the merge driver is but one, but I think it's practical if we even started with a simple bash script to do the work in the beginning to prototype a few 'merge tool solutions' this IMHO would bridge the 'reimport breaks things' problem in Godot and make 3D more practical when you have thousands of assets.",
+    "format": "legacy",
+    "workaround": "- nope"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-05T22:57:32Z",
+  "comments": 4,
+  "createdAt": "2020-07-30T19:56:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1281,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": ".TSCN merging tooling (git merge but for TSCN changes on reimport...)",
+  "up": 7,
+  "updatedAt": "2024-02-05T22:57:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1281"
+}

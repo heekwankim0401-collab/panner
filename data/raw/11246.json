@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Cuz this is Engine dependent.",
+    "format": "form",
+    "workaround": "if (arg == \"--help\" && internal.stripdebug == false) {\n    print_help();\n    return 0;\n}\n\nIdk im not a C++ Dev, i just know what to comment out due to ChatGPT."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-11-27T23:02:32Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11246,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Disable debugging-related command line arguments in release export templates",
+  "up": 5,
+  "updatedAt": "2026-01-20T18:00:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11246"
+}

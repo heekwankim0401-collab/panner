@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a minor enhancement to existing concepts; I do not think it makes sense to develop it as add-on.",
+    "format": "legacy",
+    "workaround": "The current workaround is as follows:\na) take the SpatialMaterial, convert it to a ShaderMaterial\nb) change the ShaderMaterial to make it process INSTANCE_CUSTOM_DATA as highlight\nc) use Multimesh.SetInstanceCustomData to highlight selected multimeshes\n\nThe most inconvenient thing about this workflow is that it requires to re execute steps a) and b) whenver the material is changed using an external editor. I am open to other suggestions."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-27T20:29:03Z",
+  "comments": 2,
+  "createdAt": "2020-05-27T19:36:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 926,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Multimesh instance highlight",
+  "up": 0,
+  "updatedAt": "2020-06-11T14:01:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/926"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "With the addition of `GDExtensions`, I think it may be conceivable *for the most part* to do it (the `TypeServer` singleton, the many `TypeOperator` variations, the `TypeHandle` abstraction). However...\n\n1. You wouldn't be able to have the property hint which would somewhat complicate the implementation of the necessary `EditorInspectorPlugin` code.\n2. You would have to write the `DirectoryMonitor` logic yourself, effectively maintaining a duplicate of the `EditorFileSystem` class's functionality in two places. You then also run the risk of accidentally instantiating **two** objects that continuously watch, process, and cache data about all resource files in the project (not ideal).",
+    "format": "form",
+    "workaround": "A long time ago, I once made a very poor attempt at implementing something like this. It was [nearly a thousand lines of code](https://github.com/godot-extended-libraries/godot-next/blob/master/addons/godot-next/references/class_type.gd) and very messy. And that doesn't even include any of the logic you'd need for a corresponding `EditorInspectorPlugin` to hack your way to a decent UI with it. It also didn't account for the flexibility of segregating the implementations of handling type operations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-09-18T07:52:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5444,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add improved abstractions for collecting, caching, and handling type information.",
+  "up": 12,
+  "updatedAt": "2022-09-18T18:59:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5444"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "this will give better results in second camera rendering",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-05T15:27:15Z",
+  "comments": 1,
+  "createdAt": "2022-07-05T04:06:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4813,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "add reflection probe support as an option to subviewport camera",
+  "up": 0,
+  "updatedAt": "2022-07-05T15:27:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4813"
+}

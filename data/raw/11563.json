@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this is part of CodeEditor and GDscript and I think cannot change with an add-on",
+    "format": "form",
+    "workaround": "it is possible with script templates but for each class and each change, the scripts need to be changed or create new one"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-15T10:39:41Z",
+  "comments": 2,
+  "createdAt": "2025-01-15T08:35:18Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 11563,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add auto-completion for overwriting custom functions of inherited classes.",
+  "up": 1,
+  "updatedAt": "2025-01-15T10:39:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11563"
+}

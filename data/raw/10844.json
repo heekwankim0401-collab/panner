@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't know if it could be implemented with an asset library with like GDExtension, this adds functionality to the core control class.",
+    "format": "form",
+    "workaround": "I don't believe there is a reasonable workaround that I've been able to figure out, and I think this is something that makes sense to be added as a small quality of life feature for controls."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-28T18:17:20Z",
+  "comments": 5,
+  "createdAt": "2024-09-28T03:20:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10844,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a `grab_focus_no_signal` option to controls",
+  "up": 0,
+  "updatedAt": "2024-09-28T22:29:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10844"
+}

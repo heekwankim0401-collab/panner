@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "When it comes to implementation of things that involve scopes, that needs to be a language level detail.",
+    "format": "legacy",
+    "workaround": "For the case of the `class` keyword, yes. You can create a new file and use the new `class_name` keyword to have a global reference to the class. For `enum`, the best you can do is copy and paste the definition every time you want to reference it."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-04T18:06:28Z",
+  "comments": 15,
+  "createdAt": "2019-11-18T03:37:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 240,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow enums and local classes to be used outside of the file they are defined",
+  "up": 20,
+  "updatedAt": "2026-02-04T18:06:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/240"
+}

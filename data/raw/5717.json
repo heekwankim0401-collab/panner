@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Editing signal connections is a fundamental engine operation, so it makes more sense to put it in core.",
+    "format": "form",
+    "workaround": "The proposed solutions could be implemented as an EditorPlugin, except for the docs refactor and method rename."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-11-03T16:45:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5717,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show incoming signal connections on editor's Signals panel and as a Node icon on the tree",
+  "up": 5,
+  "updatedAt": "2024-08-02T14:42:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5717"
+}

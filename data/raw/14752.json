@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2026-04-28T03:52:00Z",
+  "down": 1,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14752,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Built-in Object Pool Nodes for Efficient Reuse of Frequently Spawned Objects",
+  "up": 0,
+  "updatedAt": "2026-07-17T13:46:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14752"
+}

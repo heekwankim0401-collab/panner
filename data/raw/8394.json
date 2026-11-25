@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The proposed testing approach is essential for the fundamental reliability and stability of the Godot Engine's asset importing and exporting capabilities. As such, it needs to be integrated at the core level to ensure that all updates and changes to the engine maintain a high standard of compatibility and functionality. An add-on would not provide the same level of comprehensive testing and would not be as effective in preventing regressions and compatibility issues.",
+    "format": "form",
+    "workaround": "This enhancement is integral to the engine's core functionality and cannot be adequately addressed with a script. It requires integration into the engine's main repository and CI system to be effective."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-11-10T16:10:22Z",
+  "down": 0,
+  "labels": [
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 8394,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add unit testing for importers and exporters",
+  "up": 2,
+  "updatedAt": "2023-11-10T16:52:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8394"
+}

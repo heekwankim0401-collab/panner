@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about renaming core functions.",
+    "format": "form",
+    "workaround": "You can use the current, confusing names."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-02-04T20:28:50Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6236,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename PackedByteArray compression methods to be consistent with their usage",
+  "up": 5,
+  "updatedAt": "2023-02-04T20:30:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6236"
+}

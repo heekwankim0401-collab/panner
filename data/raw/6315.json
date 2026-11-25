@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think for the sake of consistency and usability, there should be a way to select an item via script just like you can with an ItemList.",
+    "format": "form",
+    "workaround": "I have not found a way to work around it other than using something other than a Tree class."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-18T18:31:39Z",
+  "comments": 2,
+  "createdAt": "2023-02-18T18:25:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6315,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a function to select item from a Tree class",
+  "up": 0,
+  "updatedAt": "2023-02-27T21:40:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6315"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think this is possible with a plugin",
+    "format": "form",
+    "workaround": "it can't"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-11T03:18:01Z",
+  "comments": 17,
+  "createdAt": "2021-12-11T08:33:45Z",
+  "down": 3,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3655,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to add custom signals to nodes from the editor",
+  "up": 6,
+  "updatedAt": "2022-06-11T10:29:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3655"
+}

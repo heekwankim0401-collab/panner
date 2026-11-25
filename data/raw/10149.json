@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Must be core. Editor setting can disable.\n\nCaveats: \n\nAnyone who has OS screen edge mouse events may or may not  be able to use. E.g. OS task manager and menu pop ups on the vertical edge of screen.",
+    "format": "form",
+    "workaround": "not possible"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-07-08T06:24:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10149,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow mouse pointer to toggle on/off Distraction Free Mode (Dock Hiding) when pushed off the left or right screen edges.",
+  "up": 0,
+  "updatedAt": "2024-07-08T19:05:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10149"
+}

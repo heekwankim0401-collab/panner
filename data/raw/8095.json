@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since this is also mentioned in the [official GDScript style guide](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html#functions-and-variables) I believe there should be an option in the engine by default.",
+    "format": "form",
+    "workaround": "This could probably be worked around by adding a `push_warning` statement to the setter function of some variables, but this could become cumbersome for scripts containing many private variables."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-14T12:03:14Z",
+  "comments": 6,
+  "createdAt": "2023-10-13T09:25:54Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8095,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add optional warnings when accessing properties and methods whose name starts with an underscore from other scripts.",
+  "up": 2,
+  "updatedAt": "2023-10-14T12:04:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8095"
+}

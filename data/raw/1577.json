@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think there may be an opportunity to explore this across both areas. It would be interesting to explore if the Vulkan instance can also be exposed through GdNative Libraries, such that other compute applications can also leverage the underlying vulkan instance/appliction. Similarly, it would be useful for developers that want to use GPU acceleration for compute specific tasks, to have some best practices or guidelines when performing these integrations. The initial results integrating Vulkan Kompute has provided some workflows that could be abstracted for individuals that are interested to integrate it into their game development workflows",
+    "format": "legacy",
+    "workaround": "It would be possible to extend the current implementation to enable for CPU specific implementation of the compute backend, however it would depend on what level of abstraction this is to be introduced."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-09-27T16:55:30Z",
+  "down": 1,
+  "labels": [
+    "topic:gdextension",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1577,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement the Vulkan Kompute framework for GPU-accelerated machine learning and advanced data processing",
+  "up": 6,
+  "updatedAt": "2021-10-25T20:57:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1577"
+}

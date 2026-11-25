@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It just feels like the current set of math methods is missing this.",
+    "format": "legacy",
+    "workaround": "This is used quite often. But yes, can be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-24T03:14:51Z",
+  "comments": 8,
+  "createdAt": "2020-10-24T20:19:38Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1719,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add method to get vector from angle",
+  "up": 10,
+  "updatedAt": "2023-02-24T03:16:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1719"
+}

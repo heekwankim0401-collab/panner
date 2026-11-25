@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the default editor experience.",
+    "format": "form",
+    "workaround": "It would be used often."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-28T14:42:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11253,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add filename label to Inspector preview of textures",
+  "up": 4,
+  "updatedAt": "2024-11-28T19:26:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11253"
+}

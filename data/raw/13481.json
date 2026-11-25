@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "NoiseTexture2D is often the basis for most shader effects. Meaning a lot of Godot game are/will be hit with this same issue. This seems like low hanging fruit that could significantly make shader heavy Godot games feel smoother.",
+    "format": "form",
+    "workaround": "It can be worked around by script but is far from ideal. This snippet tricks the NoiseTexture2D into using threads to generate the texture on init by suppling a 1x1 placeholder texture first and then resetting the size for the desired dimensions.\n\n```gdscript\nvar noise = FastNoiseLite.new()\nvar noise_texture = NoiseTexture2D.new()\nnoise_texture.width = 1\nnoise_texture.height = 1\nnoise_texture.noise = noise\nawait get_tree().process_frame # or await noise_texture.changed\nnoise_texture.width = 1024\nnoise_texture.height = 1024 \n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-27T09:35:25Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13481,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a NoiseTexture2D property to generate it in the background (with a placeholder shown during generation)",
+  "up": 2,
+  "updatedAt": "2025-10-27T17:26:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13481"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Skeleton3D and Skeleton2D are core.",
+    "format": "form",
+    "workaround": "You could write IK implementations as nodes."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-15T18:24:34Z",
+  "comments": 6,
+  "createdAt": "2022-07-12T17:50:10Z",
+  "down": 0,
+  "labels": [
+    "requires core feedback",
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 4863,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove SkeletonModificationStack and convert IK solvers to nodes.",
+  "up": 21,
+  "updatedAt": "2023-01-15T18:24:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4863"
+}

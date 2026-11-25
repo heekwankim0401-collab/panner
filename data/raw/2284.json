@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I mean, it could be an asset library thing, but I think a feature like this is just better off being a core thing. I think that's more of a matter of opinion more than anything else though.",
+    "format": "markdown",
+    "workaround": "It could. But, at least in the way I implemented it, it's very messy, because as far as I know there is no way to \"compile\" textures, models, or what have you without going through the export menu."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-13T21:46:44Z",
+  "comments": 1,
+  "createdAt": "2021-02-13T21:27:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2284,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Multiple pack export",
+  "up": 0,
+  "updatedAt": "2021-02-13T21:47:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2284"
+}

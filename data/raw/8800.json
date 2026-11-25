@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "**PackedScene** is a core class.\n\n[^1]: Honestly, `pack()` should be renamed to `repack()` and `pack()` should become the static method. _But we cannot do that now, without breaking compatibility.",
+    "format": "form",
+    "workaround": "Yes, actually. You can have a helper function if you're so bothered by it.\n```GDScript\nfunc get_packed_scene(from: Node):\n    var scene = PackedScene.new()\n    scene.pack(from)\n    return scene\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-01-04T19:11:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8800,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add static method to PackedScene to return a new PackedScene from a Node",
+  "up": 0,
+  "updatedAt": "2024-01-04T20:42:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8800"
+}

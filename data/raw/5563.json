@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Add-ons are not capable of adding per-pass uniforms to shaders to my knowledge.\n\nFurthermore, it is replacing a single uint which is currently being passed as padding anyway. It requires no additional processing to gather, but greatly expands the creative potential of 3D graphics in godot.",
+    "format": "form",
+    "workaround": "No, that information is not currently available to shaders in any form and cannot be passed per-rendering-pass (and if it could, it would be extremely slow).\n\nThe only workaround is to have two meshes with different materials occupy the same space anytime you need to switch based on active camera with each mesh on a different layer. This works for a small number of objects, but can quickly get out of control when you have either a lot of meshes that need this behavior or if you have objects with more complex states that need to be synchronized e.g animations, transforms, and parameters."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-04T23:09:55Z",
+  "comments": 4,
+  "createdAt": "2022-10-09T04:00:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 5563,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Pass currently-rendering camera's cull mask to shaders",
+  "up": 6,
+  "updatedAt": "2022-12-04T23:09:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5563"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "While a custom shader could do, it's more convenient to reuse the existing Light2D node and since Blending Mode is an enum, internal code is the best place to add a new value.",
+    "format": "form",
+    "workaround": "No, I can write my own shader to grab to the max value of some combination of values but that won't be simple. I used stencil once to make custom masks but I'm not sure you can use multiple values of them."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-06-05T17:09:44Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7026,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Light2D Blend Mode: Min and Max",
+  "up": 14,
+  "updatedAt": "2025-09-23T21:57:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7026"
+}

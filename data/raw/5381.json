@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "LSP is core"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T12:59:50Z",
+  "comments": 4,
+  "createdAt": "2022-09-09T04:09:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5381,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Remove definition location from LSP hover",
+  "up": 0,
+  "updatedAt": "2026-07-28T12:59:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5381"
+}

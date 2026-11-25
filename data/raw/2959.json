@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves core functionality.",
+    "format": "form",
+    "workaround": "You can theoretically use const Dictionaries as enums (basically what 3.x does, but explicitly), but it's rather unfortunate that enums exist and I can't use them due to such limitation."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-17T11:43:11Z",
+  "comments": 12,
+  "createdAt": "2021-07-07T23:22:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 2959,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to get list of value names from enum",
+  "up": 23,
+  "updatedAt": "2021-12-17T12:00:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2959"
+}

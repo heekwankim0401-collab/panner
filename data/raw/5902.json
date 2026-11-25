@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not endless GDExtensions can hook debug messages.",
+    "format": "form",
+    "workaround": "It would probably be core, unless GDExtension can hook debug messages."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-06T15:06:05Z",
+  "comments": 2,
+  "createdAt": "2022-12-06T07:51:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5902,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "GDScript 2.0 debug changed name hints",
+  "up": 0,
+  "updatedAt": "2022-12-06T15:06:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5902"
+}

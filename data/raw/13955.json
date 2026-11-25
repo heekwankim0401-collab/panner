@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a change to how the core editor UI works, and shouldn't be necessary to install a separate add-on (especially in each project) for.",
+    "format": "form",
+    "workaround": "Not to my knowledge, and it will be used very often (when people have enough scenes open)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-01-04T23:39:59Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13955,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow TabBar/TabContainer tabs to be smoothly scrolled and partially shown",
+  "up": 18,
+  "updatedAt": "2026-01-09T01:16:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13955"
+}

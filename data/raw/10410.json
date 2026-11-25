@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "To save time",
+    "format": "form",
+    "workaround": "Can be worked around with a Physics library, but out of the box is more convenient"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-09T18:24:19Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10410,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an alternative mode to calculate center of mass of a 2D polygon",
+  "up": 5,
+  "updatedAt": "2024-08-28T18:34:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10410"
+}

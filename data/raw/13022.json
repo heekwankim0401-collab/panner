@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "ditto",
+    "format": "form",
+    "workaround": "The code that this is related to is not exposed to GDExtension or supported script languages, it is strictly internal editor behavior."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-08-18T15:15:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13022,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Attempt to find an editor icon in the `@icon` annotation before trying project paths",
+  "up": 1,
+  "updatedAt": "2025-08-18T19:25:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13022"
+}

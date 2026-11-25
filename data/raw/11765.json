@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "need gdscript parser modification",
+    "format": "form",
+    "workaround": "Its a stylistic preference"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-02-13T11:47:58Z",
+  "down": 7,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11765,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatic default Variant allowing single typed Dictionaries in GDScript",
+  "up": 0,
+  "updatedAt": "2025-03-14T15:03:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11765"
+}

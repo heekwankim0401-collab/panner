@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core functionality, an add-on couldn't address this",
+    "format": "form",
+    "workaround": "Technically, yes; the situation I described is admittedly niche & a fixed-point system should ideally have plenty of designated and isolated classes/functions in its own right (hell, one [already exists](https://gitlab.com/snopek-games/sg-physics-2d)). But as far as working around the inherent truncation from ints to Vector2i/Rect2i/etc, absolutely not"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-07-05T23:57:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7210,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expand `precision=double` to ints",
+  "up": 7,
+  "updatedAt": "2023-07-08T23:11:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7210"
+}

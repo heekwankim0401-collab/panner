@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The ffmpeg pipe can be gd extension but I wanted to type a design for review.",
+    "format": "form",
+    "workaround": "It has soft-realtime performance constraints and cannot be gdscript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2022-06-20T19:26:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4710,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Export Godot Engine movies to ffmpeg pipe (nut server)",
+  "up": 15,
+  "updatedAt": "2026-10-23T04:19:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4710"
+}

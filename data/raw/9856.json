@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be part of the core as these are core types used in many places inside godot.",
+    "format": "form",
+    "workaround": "All the missing methods are implementable as free functions by the user, but is not rare for them to be used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2024-05-31T19:46:11Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9856,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Packed*Arrays API more consistent with Arrays",
+  "up": 8,
+  "updatedAt": "2026-04-19T08:27:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9856"
+}

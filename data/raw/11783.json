@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a benefit for any game using spritesheets and custom shaders, which is quite common.",
+    "format": "form",
+    "workaround": "Yes it does by coding a spritesheet sampler, which can be annoying depending on the complexity of the spritesheet (borders, margins..)"
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-22T17:43:27Z",
+  "comments": 3,
+  "createdAt": "2025-02-16T11:47:18Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:shaders"
+  ],
+  "milestone": "4.5",
+  "number": 11783,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a spritesheet frame UV built-in to CanvasItem `fragment()` shaders",
+  "up": 0,
+  "updatedAt": "2025-08-22T17:43:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11783"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about changing a default property for better usability out of the box, especially for beginners.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-28T12:40:54Z",
+  "comments": 1,
+  "createdAt": "2022-05-08T21:59:01Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 4515,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the default Global Illumination Mode from Disabled to Static on GeometryInstance3D",
+  "up": 7,
+  "updatedAt": "2022-06-28T12:41:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4515"
+}

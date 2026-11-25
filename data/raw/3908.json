@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core rendering functionality.\n\n*PS: Kudos to the [Tesseract rendering pipeline](https://github.com/Calinou/tesseract-renderer-design) document for pointing to this DICE presentation, otherwise I would never have thought this is possible :slightly_smiling_face:*",
+    "format": "form",
+    "workaround": "No, as shadow rendering is implemented in built-in GLSL shaders and shadow object culling is performed in the engine's C++ code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-02-02T16:50:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3908,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use bounding box/sphere-based directional shadow splits instead of view depth",
+  "up": 12,
+  "updatedAt": "2023-03-29T02:53:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3908"
+}

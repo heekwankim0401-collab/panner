@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's about a core workflow.",
+    "format": "form",
+    "workaround": "it cannot be worked around with scripting"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-25T05:41:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8249,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Always create a new `ShaderMaterial` when dropping a `Shader` on a material property in the inspector",
+  "up": 2,
+  "updatedAt": "2023-10-25T10:00:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8249"
+}

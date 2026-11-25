@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This proposal would provide for a very new and useful form of networked programming that is much less common than the usual socket-based approach but is still quite interesting like the WebRTC multiplayer stack.",
+    "format": "form",
+    "workaround": "No, Bluetooth must be carefully integrated with different API usages for each platform."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-04-17T04:10:15Z",
+  "down": 0,
+  "labels": [
+    "topic:network",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6711,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Bluetooth server and module",
+  "up": 7,
+  "updatedAt": "2026-11-18T16:17:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6711"
+}

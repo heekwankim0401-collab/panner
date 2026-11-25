@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a must have feature. There aren't many options for the shadow property so this would be great",
+    "format": "form",
+    "workaround": "It will be used a lot and I think it can be done with a few lines of script"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-22T21:58:55Z",
+  "comments": 2,
+  "createdAt": "2023-04-22T20:35:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6740,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to change the length of DirectionalLight2D's shadow",
+  "up": 0,
+  "updatedAt": "2023-04-30T18:03:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6740"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be just two functions, that doesn't do much on itself, maintaining it would be harder than it being core.",
+    "format": "form",
+    "workaround": "Yes. But we have, for example the Plane constructor `Plane(a: float, b: float, c: float, d: float)` which is almost the same as `Plane(normal: Vector3, d: float)` but without the `Vector3`, having a `AABB(box: BoxShape3D)` would be just as handy in general"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-01-31T16:23:33Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 11674,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create a function that creates a `AABB` from `BoxShape3D` and vice versa",
+  "up": 0,
+  "updatedAt": "2025-01-31T16:58:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11674"
+}

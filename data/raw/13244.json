@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core signal.",
+    "format": "form",
+    "workaround": "It can be worked around, but it is inefficient and \"hacky\".\n\nSee the code in the limitation section.\n\nRegardless, bringing Project and Editor settings into functional alignment would be great."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-07T16:37:22Z",
+  "comments": 2,
+  "createdAt": "2025-09-23T07:04:01Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.6",
+  "number": 13244,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Added ability to get list of Project Settings changed, similar to Editor Settings functionality",
+  "up": 2,
+  "updatedAt": "2025-11-07T16:44:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13244"
+}

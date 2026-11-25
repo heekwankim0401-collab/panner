@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Will require updating how the Godot 2D editor works.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-11T18:27:25Z",
+  "comments": 1,
+  "createdAt": "2026-02-11T05:56:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14197,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow the editor to override the display width/height when editing particular scenes",
+  "up": 0,
+  "updatedAt": "2026-02-11T18:27:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14197"
+}

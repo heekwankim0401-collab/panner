@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about making preload constants more resilient to changes in the filesystem.",
+    "format": "form",
+    "workaround": "I think it will be used often and a workaround seems inconvenient to me."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-07T21:19:41Z",
+  "comments": 3,
+  "createdAt": "2025-02-03T12:17:55Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11694,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace the file path with the UID when using Ctrl + drag and drop",
+  "up": 0,
+  "updatedAt": "2025-03-07T21:19:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11694"
+}

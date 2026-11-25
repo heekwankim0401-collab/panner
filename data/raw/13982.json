@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "These are primitive shapes. Just a nice QOL improvement.",
+    "format": "form",
+    "workaround": "You can import an asset called 'circle.png', 'triangle.png', 'star.png', or whatever, then you can use that in a texture property. You could also write your own '_Draw' override to get the shapes that you want. You could write a shader to generate the shape for you. Lots of ways to do it, but none of them are as smooth as, for example, instantiating a 'ColorRect'. I'm proposing that it should be that simple."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-09T19:31:41Z",
+  "comments": 5,
+  "createdAt": "2026-01-09T16:37:07Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 13982,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "ShapeRenderer",
+  "up": 0,
+  "updatedAt": "2026-01-09T19:31:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13982"
+}

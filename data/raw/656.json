@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's already in core.",
+    "format": "legacy",
+    "workaround": "It could be easily solved if you find a reliable 3rd-party library but it's already in Godot, isn't it?"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-09T23:47:27Z",
+  "comments": 13,
+  "createdAt": "2020-03-31T21:25:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 656,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose Octree to the scripting API",
+  "up": 11,
+  "updatedAt": "2023-09-23T08:01:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/656"
+}

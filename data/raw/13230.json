@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be a part of GD script",
+    "format": "form",
+    "workaround": "This can be worked around with a more cumbersome syntax like so:\n\n```\nfunc g() -> Array[T]:\n\treturn f + ([T.new()] as Array[T]) + ([T.new()] as Array[T])\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-09-21T10:59:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13230,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Infer Array type after the \"+\" operator in return statements, i.e. [T] + [T] --> Array[T]",
+  "up": 2,
+  "updatedAt": "2025-09-21T11:25:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13230"
+}

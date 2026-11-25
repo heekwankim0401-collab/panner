@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would allow users to write tool scripts that rely on the editor gizmo in a more intuitive way.",
+    "format": "form",
+    "workaround": "This might be done with an editor plugin, but it doesn't seem straightforward. \n\nhttps://docs.godotengine.org/en/stable/classes/class_editornode3dgizmo.html#class-editornode3dgizmo\n\nhttps://docs.godotengine.org/en/stable/classes/class_editornode3dgizmoplugin.html#class-editornode3dgizmoplugin\n\nhttps://docs.godotengine.org/en/stable/tutorials/plugins/editor/3d_gizmos.html"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-11-16T15:40:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8445,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method that returns whether the 3D editor manipulation gizmo is currently being used",
+  "up": 0,
+  "updatedAt": "2023-11-16T16:59:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8445"
+}

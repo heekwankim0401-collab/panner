@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Good Asset Management is a core responsibility of the game engine and relying on addons to offer that is imho not the correct approach.",
+    "format": "form",
+    "workaround": "I know its possible to create a lot of import script tooling and maybe its easy but it's a rabbit hole I did not dive into as of yet.\n\nSo maybe."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-21T19:48:04Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13438,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add texture import configuration options to the Advanced Import Settings dialog",
+  "up": 0,
+  "updatedAt": "2026-11-09T15:47:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13438"
+}

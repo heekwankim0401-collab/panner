@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core renderer functionality.",
+    "format": "legacy",
+    "workaround": "Meshes with a global illumination mode set to **Baked** can be made visible before baking the VoxelGI, then hidden after baking. This is rather cumbersome to do, but it can be used to reduce light leaking. For best results (especially in reflections), the meshes' material should be adjusted to have a similar color to the wall/floor it is \"thickening\". This requires further manual work. On the bright side, this can be done with any object shape, not just AABBs or boxes.\n\nIf VoxelGI had a post-bake signal implemented, an editor plugin could likely be written to make this process more convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-08-16T22:46:25Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1380,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a node to exclude specific areas from being affected by GI",
+  "up": 14,
+  "updatedAt": "2023-10-23T20:17:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1380"
+}

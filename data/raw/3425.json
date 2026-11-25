@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because requires internal physics and idle processing behaviour change.",
+    "format": "form",
+    "workaround": "Nope, there is currently no way to change internal processing behaviour."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-14T12:53:20Z",
+  "comments": 3,
+  "createdAt": "2021-10-14T12:33:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3425,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Time scale individual for each node",
+  "up": 2,
+  "updatedAt": "2021-10-14T12:54:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3425"
+}

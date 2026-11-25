@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Audio encoding is a fundamental feature for real-time audio applications, including VoIP, streaming, and multiplayer games. Since the encoding methods are already part of Godot's core, exposing them would align with the engine's existing design and expand its out-of-the-box capabilities. Making this a core feature ensures better integration with Godot's audio systems and avoids the need for third-party dependencies.",
+    "format": "form",
+    "workaround": "No, this cannot be efficiently worked around. Implementing audio encoding algorithms like QOA or IMA-ADPCM from scratch in GDScript is impractical due to their complexity and computational demands. While external tools could be used, this introduces additional dependencies and complicates workflows. Exposing the engine's built-in functionality provides an optimal solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-01-11T13:46:01Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 11539,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose audio encoding methods to GDScript",
+  "up": 0,
+  "updatedAt": "2026-02-05T18:03:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11539"
+}

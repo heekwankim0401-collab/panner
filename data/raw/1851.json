@@ -1,0 +1,28 @@
+{
+  "answers": {
+    "core": "It's the inability to workaround this issue that is driving this proposal.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-11-17T09:52:40Z",
+  "down": 2,
+  "labels": [
+    "topic:3d",
+    "topic:core",
+    "topic:editor",
+    "topic:physics",
+    "topic:rendering",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 1851,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add engine scale parameters to specify the scales of 3D units",
+  "up": 10,
+  "updatedAt": "2021-05-24T17:20:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1851"
+}

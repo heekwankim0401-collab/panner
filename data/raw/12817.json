@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this involves 2 core types that in order to change would require a complete engine recompile.",
+    "format": "form",
+    "workaround": "Not really, the work around is copying the creation macro, and editing it by basically hard coding the new types that can't be supported."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-07-20T17:19:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 12817,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Enums to be used as TypedArray and TypedDictionary indicies/key",
+  "up": 3,
+  "updatedAt": "2025-09-15T00:17:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12817"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a quality of life improvement that can greatly reduce the time needed to prototype something. For example, a developer might not have any art assets on them right that instance, but adding this will enable them to quickly test out their idea before they incorporate their art.",
+    "format": "form",
+    "workaround": "This can be easily worked around with having a placeholder texture, so like a 16x16 all-white texture."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-04-15T04:26:10Z",
+  "down": 4,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6700,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Placeholder textures for Sprite2D nodes by default",
+  "up": 3,
+  "updatedAt": "2023-04-19T18:20:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6700"
+}

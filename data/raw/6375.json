@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about adding new Camera node. If it's possible to made as an add-on it's cool. But I didn't find anything, I think it's something that should be and work out-of-box.\n\nScreenshot I made. As You can see, both player looks through one camera, even though they are both have their own. Like I said, it happens because when new player comes to the scene, his camera becomes current.\n\n![multiplayer_camera](https://user-images.githubusercontent.com/31252907/221968847-df182358-cfd7-4c94-9e37-a821a777db4c.jpg)\n\nThanks!",
+    "format": "form",
+    "workaround": "Godot starts to become more and more popular, and I think a lot of developer will start to look to create their multiplayers projects using Godot."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-02-28T20:15:50Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 6375,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "C# | New Special Camera Node for writing Multiplayer with separate dedicated server",
+  "up": 0,
+  "updatedAt": "2023-06-11T22:01:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6375"
+}

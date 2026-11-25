@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving execution speed out of the box with minimal overhead",
+    "format": "form",
+    "workaround": "it can be implemented with editor plugin but Its less convenient"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-01T13:36:34Z",
+  "comments": 1,
+  "createdAt": "2022-08-01T13:30:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5043,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "compiled GDScript with LLWM for better performense",
+  "up": 4,
+  "updatedAt": "2022-08-01T13:37:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5043"
+}

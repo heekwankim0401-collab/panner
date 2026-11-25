@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would make working with graph nodes much easier if there was built-in logic for fetching connections",
+    "format": "markdown",
+    "workaround": "It could be done by making a system and updating at GraphNode connection callback"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-01-17T20:13:21Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2140,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make GraphNode aware of its connections",
+  "up": 8,
+  "updatedAt": "2021-05-09T07:58:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2140"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not sure, it just is quite confusing, the way it's been named . . .\n\nADD : By the time I make the controller, character moves . . It already moves, and with bit physics, sort-of slides . . That's where I don't understand, why I want to then add move_and_slide(), well get confused why that's needed, since the character, well already moves, and slides, if one adds bit acceleration, thanks . . . :-OO . . It's just the name, the code itself runs well, <3",
+    "format": "form",
+    "workaround": "I can't do this <3"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-10T22:41:14Z",
+  "comments": 9,
+  "createdAt": "2021-11-20T11:30:50Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 3576,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename move_and_slide() to something more ' explanatory ' . .",
+  "up": 0,
+  "updatedAt": "2022-05-10T22:41:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3576"
+}

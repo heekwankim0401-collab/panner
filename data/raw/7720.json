@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I think this would make the 2D tileset usage a lot easier for developers.",
+    "format": "form",
+    "workaround": "This is for editor UI so can't be worked around with script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-09-17T23:44:39Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core",
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 7720,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Tileset: Make physics layers nameable",
+  "up": 31,
+  "updatedAt": "2023-09-19T02:55:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7720"
+}

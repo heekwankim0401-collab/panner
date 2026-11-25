@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Frankly I would be ashamed to request this, if it wasn't for the fact that Auto Brace Complete already exists, and is core.",
+    "format": "legacy",
+    "workaround": "It can be worked around in exactly 2 button presses. But placing that final `)` can be worked around in 1, so... 😄"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-11-08T22:52:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1794,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Auto-Complete ':' on Func line if Auto Brace Complete is on",
+  "up": 3,
+  "updatedAt": "2020-11-09T10:15:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1794"
+}

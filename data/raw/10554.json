@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Simplicity, compatibility and high demand of utility are the keys to propose this post. \nFirst, this modification happens only on `CircleShape2D`, so no extra additions of new shape classes, which saves the space for other potential class definition and keeps minimal addition to the size of the software.\nSecond, since this happens on `CircleShape2D`, it means compatibility, which means that the version without this implementation can be smoothly updated to this version, without extra cost or lost.\nThird, I believe not only me, but also other devs are thinking of this feature or enhancement, as this is very very very common to use, but sadly it's not implemented yet",
+    "format": "form",
+    "workaround": "As `Shape2D` can be extended, ofc we can create a new class named `SectorShape2D` for this use. However, it needs more lines of code to be implemented rather than just a few lines."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-02T12:09:25Z",
+  "comments": 1,
+  "createdAt": "2024-08-25T07:22:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10554,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "[Physics] Enhancement of `CircleShape2D`: Enables it to be a sector",
+  "up": 0,
+  "updatedAt": "2026-04-02T18:08:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10554"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The proposal would change core editor functionality.",
+    "format": "form",
+    "workaround": "It is possible to work around it and there are several ways to do so.\n\n- Team members can share their personal editor settings files and keep them in sync that way.\n- Onboarding documents cover all the necessary settings and instruct new project members how to apply them.\n- Git hooks check the validity of all committed script files and reject them if they don't meet the coding convention."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-24T11:51:23Z",
+  "comments": 1,
+  "createdAt": "2022-10-24T10:55:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5649,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Per-project editor settings",
+  "up": 1,
+  "updatedAt": "2022-10-24T12:20:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5649"
+}

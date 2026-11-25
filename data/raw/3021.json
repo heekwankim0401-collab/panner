@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This can be worked around with a custom shader, but this means you will have to deal with a less convenient interface to modify the material. This is because a StandardMaterial3D to a custom ShaderMaterial gets rid of the inspector section folding and property hints."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-07-20T22:32:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3021,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow StandardMaterial3D Proximity Fade to fade surfaces when they are far away from other solid surfaces",
+  "up": 12,
+  "updatedAt": "2021-07-20T22:32:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3021"
+}

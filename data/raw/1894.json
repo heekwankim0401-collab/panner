@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's just a getter that goes along with an existing setter",
+    "format": "markdown",
+    "workaround": "I could write a singleton that handles setting custom cursors, but that kind of defeats the purpose of the Input class"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-11-26T04:05:19Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 1894,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `get_custom_mouse_cursor()` method to Input class",
+  "up": 3,
+  "updatedAt": "2020-12-09T13:08:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1894"
+}

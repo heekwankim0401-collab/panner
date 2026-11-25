@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This could allow the creation of several more useful icons for the scene tree, so I think most people would benefit of it being on core than an addon.",
+    "format": "form",
+    "workaround": "I suppose it can. I'm really not familiar with using addons to hack parts of the editor UI that are not meant to be changed, but I have a hunch it could be done with an addon."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-06-12T14:19:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9951,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create an editor setting for selecting which icons get shown in the scene tree view",
+  "up": 4,
+  "updatedAt": "2024-06-13T19:20:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9951"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Godot already uses Clipper.",
+    "format": "form",
+    "workaround": "n/a"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-02T09:30:21Z",
+  "comments": 4,
+  "createdAt": "2023-01-23T04:38:03Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 6146,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace Clipper with more performant Clipper2 for Geometry2D operations",
+  "up": 2,
+  "updatedAt": "2024-12-02T10:25:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6146"
+}

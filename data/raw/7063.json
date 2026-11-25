@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The same reason why it doesn't have short-code workarounds, it simply needs attention on the source code itself.",
+    "format": "form",
+    "workaround": "This isn't only possible with few lines of code, but needs significant rework on the Godot's source code itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 40,
+  "createdAt": "2023-06-11T06:43:06Z",
+  "down": 5,
+  "labels": [
+    "topic:core",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 7063,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Randomise/scramble class bindings in production export templates",
+  "up": 12,
+  "updatedAt": "2023-07-08T08:23:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7063"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This type of progress bar can be very useful, especially when creating retro-like games. Beginners and new users may aim for a game like this to learn to use the engine and not finding a node that does this for them may not be the most appealing.",
+    "format": "legacy",
+    "workaround": "The best workaround I can think of is creating a custom Control node with this behaviour. A NinePathRect which is only drawn a percentage of it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-02-14T10:37:13Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 474,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Tiled Progress Control node",
+  "up": 21,
+  "updatedAt": "2024-08-16T12:36:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/474"
+}

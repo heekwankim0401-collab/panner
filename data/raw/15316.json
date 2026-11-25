@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-08-03T17:47:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15316,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Don't collapse `Inspector` dropdowns when duplicating nodes",
+  "up": 9,
+  "updatedAt": "2026-08-13T03:30:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15316"
+}

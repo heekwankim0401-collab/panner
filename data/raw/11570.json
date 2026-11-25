@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the path editor usability, especially to make the common use case (creating smooth paths) quicker.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-28T13:39:51Z",
+  "comments": 1,
+  "createdAt": "2025-01-15T15:14:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 11570,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Always drag curve handles outwards when initially making a point smooth in the Path2D and Path3D editors",
+  "up": 4,
+  "updatedAt": "2025-03-28T13:39:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11570"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This changes how the editor interacts with the packed scene which is core functionality.",
+    "format": "legacy",
+    "workaround": "This is not few lines of script. Well.. It's a few lines of c++."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-09-02T15:02:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1449,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Locking the node in the inherited scene for teams",
+  "up": 3,
+  "updatedAt": "2020-10-07T16:41:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1449"
+}

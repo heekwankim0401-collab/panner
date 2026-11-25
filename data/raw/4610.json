@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core:\nWith inheritance this can lead to several if condition calls per one body/area entered signal through a script in comparison to one condition check in the core, this can be a lot less typing as well as less performance costly if done in core.\nSince the functionality already exists on RayCast it can be a bit confusing why one collision detection node has it while the other one not.\n\nI don't think add-on is a way for already existing node(?).",
+    "format": "form",
+    "workaround": "Yes, it can.\n\nCheck if node is parent in the body/area entered signal. But this has to be checked perhaps more often than it should, in case of inheritance let's say you have an inheritance tree like this:\nNode A -> Node B -> Node C\n\nIf A has a method OnBodyEntered/OnAreaEntered and B and C override it while calling the base (A's) method to add more functionality then you will need 3 if conditions to check for the parent.\n\nIf you have deeper inheritance then you suddenly need an if condition per every node which inherits and extends the OnBodyEntered/OnAreaEntered.\n\nSo if you override the method and call the base you are calling the same condition multiple times per one body entered/area entered event, it's not just about typing the same condition several times but also about several exections of it.\n\nThis is very cumbersome and prone to mistakes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-06-01T10:14:45Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 4610,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Adding exclude parent to Area node.",
+  "up": 7,
+  "updatedAt": "2022-06-01T11:30:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4610"
+}

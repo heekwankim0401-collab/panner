@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Because it is a refactoring of some of the most basic native types: `Node2D` and `Transform2D`.\n\n# Very long description of the proposal follows...\n\nThis is a long report on my own impressions on `Basis`, `Transform`/`Transform2D`, `Vector2`, `Node2D`, etc. I have known Godot just for a few weeks. And I have just learned how to make an app that draws a polygon. So, I am sorry if I got many things wrong! :-)\n\nIf this proposal gets interest, maybe it should become a wiki, because it is just a sketch, it is too big and it needs collaboration to reach consensus and be finished.\n\n\nMathematical classes, like `Transform2D` and `Transform3D` need to be very well defined and mathematically correct. It seems that there is a lot of [cargo culture](https://en.wikipedia.org/wiki/Cargo_cult_programming) involved in the use o these mathematical tools. I think that precise definitions and concise behaviour can avoid this from happening. Why do I do this an not the other way? Because I have tested it, and it gave me the result I was expecting. The user tends to adjust parameters in some sort of trial and error approach. I catch my self doing this a lot! :-)\n\nI was very surprised when I realized that `Node2D`, instead of simply using `Transform2D`, it uses `pos` (position), `angle`, `_scale`, `skew` and a `Transform2D _mat` variables! This is a lot of redundant information to deal with.\n\nI will talk about `Transform2D` since the 3D case is analogous. The first thing that needs to be stated clearly, is the fact that `Transform2D` represents a [affine transformation](https://en.wikipedia.org/wiki/Affine_transformation) of a plane.\n\n## How to interpret it / motivation\n\nThis section is not the proposal. Most of what is here is already implemented. It is just an introduction to describe what it is all about. In special, what is the role `Basis` and `Transform` in Godot. It is a long introduction... feel free to skip it!\n\nImagine we start with an empty canvas. Or an empty sheet of paper if",
+    "format": "markdown",
+    "workaround": "It will be used very often. Of course any one can live without it, though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2021-05-18T03:50:21Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:2d",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "5.0",
+  "number": 2738,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Transform2D, Basis2D, Node2D (also 3D): clarify, organize, make mathematically correct and uniformize",
+  "up": 25,
+  "updatedAt": "2023-02-24T03:23:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2738"
+}

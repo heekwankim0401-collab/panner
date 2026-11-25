@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it involves the interface for creating add-ons.",
+    "format": "form",
+    "workaround": "The only workaround I can see is to have my ScriptLanguageExtension or ScriptExtension store pointers to all ScriptInstances that are created, and use that to do casting."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-08T15:05:09Z",
+  "comments": 8,
+  "createdAt": "2023-07-03T21:20:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": "4.2",
+  "number": 7199,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `get_script_instance()` to GDExtension",
+  "up": 3,
+  "updatedAt": "2023-08-08T15:08:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7199"
+}

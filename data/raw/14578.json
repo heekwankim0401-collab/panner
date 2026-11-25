@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-03-31T01:22:14Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14578,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Promoting the separate thread model for rendering (road to making this the default option)",
+  "up": 31,
+  "updatedAt": "2026-08-01T21:15:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14578"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core (because the Resource code needs to be changed)",
+    "format": "form",
+    "workaround": "`(Engine.get_main_loop() as SceneTree).current_scene` makes possible to navigate through the scene tree, but there's no short way to get a node that contains the resource."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-24T17:06:14Z",
+  "comments": 12,
+  "createdAt": "2024-09-23T11:33:36Z",
+  "down": 8,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10814,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `get_node()` function to Resource",
+  "up": 0,
+  "updatedAt": "2024-10-12T22:46:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10814"
+}

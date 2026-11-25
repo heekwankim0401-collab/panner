@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is usability and should therefore be build in.",
+    "format": "form",
+    "workaround": "As far as I know the  create dialog can not be hijacked via an addon."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-15T00:35:47Z",
+  "comments": 10,
+  "createdAt": "2021-11-18T10:36:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3568,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Node2D (named) option to create node dialog",
+  "up": 0,
+  "updatedAt": "2022-05-15T00:36:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3568"
+}

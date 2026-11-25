@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would have to be done in core.",
+    "format": "markdown",
+    "workaround": "This could not easily be added with a few lines of code and would be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-31T11:14:11Z",
+  "comments": 25,
+  "createdAt": "2021-01-28T08:08:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2196,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create a more powerful and customizable workflow for custom post-processing effects",
+  "up": 55,
+  "updatedAt": "2026-08-31T21:51:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2196"
+}

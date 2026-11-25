@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core aspect of godot's hardware abstraction layer",
+    "format": "form",
+    "workaround": "I am not aware of workarounds apart from making a separate program that would start the game with CLI arguments"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2023-03-04T07:54:46Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6423,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement changing RenderingDevice at runtime",
+  "up": 54,
+  "updatedAt": "2025-07-07T21:02:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6423"
+}

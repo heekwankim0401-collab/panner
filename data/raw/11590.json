@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is core.\n\nI'm not sure how this idea will be received as it is a change to something that has remained the same for a long time, but I do believe it would be an improvement. Thank you all for your consideration! :)",
+    "format": "form",
+    "workaround": "It will be used often. I will instead use this section to discuss the potential downsides:\n1. The main reason to not implement this that I can think of is that people are used to the old way instead. I'd argue that this change is small enough to not be disruptive/confusing to people experienced with Godot but helpful enough to make the experience easier for newer users (and all users in general due to the reduced clicks).\n2. There may also be concerns about this taking up more screen space as one dock is being split into two. However, this change will free up more screen space than it takes, and importantly, it will free up space in an area where information is listed, and instead use space where there is currently only whitespace for 99% of Godot users."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-24T16:28:05Z",
+  "comments": 2,
+  "createdAt": "2025-01-17T04:19:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 11590,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace 'Node' dock with 'Signals' and 'Groups'",
+  "up": 14,
+  "updatedAt": "2025-11-24T16:34:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11590"
+}

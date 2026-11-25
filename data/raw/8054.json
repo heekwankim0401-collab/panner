@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Godot's dynamic body gravity calculation is already in core, we just need to make it available for all bodies and expose it.",
+    "format": "form",
+    "workaround": "~~No, you would have to either reimplement the entire gravity system, which is unacceptable, or make all objects RigidBody(2D/3D) nodes, but I would really prefer to use CharacterBody(2D/3D) since they are designed for characters.~~\n\nAs pointed out below, it is actually possible to work around this using a physics API that I did not know about before."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-05T14:05:04Z",
+  "comments": 7,
+  "createdAt": "2023-10-10T05:25:58Z",
+  "down": 1,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.3",
+  "number": 8054,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow all physics bodies to use the built-in gravity system",
+  "up": 26,
+  "updatedAt": "2024-02-05T14:05:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8054"
+}

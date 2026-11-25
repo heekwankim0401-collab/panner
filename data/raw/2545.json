@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "VS is Core, and this is a Fundamental improvement.\n\nAlso Side Note - Nodes of Great Importance should be Highlighted or something (Condition, Type Cast, Iteration, While, the Newly proposed Instance) and in the description say why they're Important (Why they'd be used often by most users).. possibly worthy of creating another Proposal on VS UX improvements.",
+    "format": "markdown",
+    "workaround": "Yes, Create Engine Singleton -> turn to ClassDB -> Drag out Instance, However That isn't obvious to Beginners, and it would Probably be used Very often as plenty of Nodes can only be obtained using it."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-20T20:10:58Z",
+  "comments": 1,
+  "createdAt": "2021-04-02T06:41:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 2545,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an Instance Node to Visual Script",
+  "up": 0,
+  "updatedAt": "2021-12-20T21:54:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2545"
+}

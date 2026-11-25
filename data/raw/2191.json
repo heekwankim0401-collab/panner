@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is the core functionality.",
+    "format": "markdown",
+    "workaround": "This will be used often and it's a core feature enhancement, no workaround available."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-01-26T21:59:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2191,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Highlight the connected input/output port in Visual Script when the user hover the cursor over the port",
+  "up": 8,
+  "updatedAt": "2022-08-24T20:27:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2191"
+}

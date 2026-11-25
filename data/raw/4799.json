@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Optimizations Should be Core.",
+    "format": "form",
+    "workaround": "For Meshes Yes, for Meshlets, unknown as they aren't a thing in Godot yet."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-07-03T06:35:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4799,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement Subpixel Culling (for Meshes, and later Meshlets)",
+  "up": 1,
+  "updatedAt": "2022-07-03T19:21:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4799"
+}

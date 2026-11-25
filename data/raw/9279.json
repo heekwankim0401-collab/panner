@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a new project setting.",
+    "format": "form",
+    "workaround": "Maybe some complicated EditorScript-extending script that will traverse and report unwanted filenames. I don't know."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-11T12:24:48Z",
+  "comments": 1,
+  "createdAt": "2024-03-11T06:17:38Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 9279,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add \"Script name casing\" to Project settings editor/naming",
+  "up": 0,
+  "updatedAt": "2024-03-11T12:24:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9279"
+}

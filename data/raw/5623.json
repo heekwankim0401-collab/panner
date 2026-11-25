@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is really short to code. This is a 'must'. It does not need to be a separate add-on.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-10-19T18:42:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5623,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow multiple different resource types to be copied to the editor internal clipboard (for resource pasting)",
+  "up": 3,
+  "updatedAt": "2022-10-19T20:21:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5623"
+}

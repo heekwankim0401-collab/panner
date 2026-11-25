@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "maybe there is no reason for it to be a core feature.",
+    "format": "form",
+    "workaround": "I think it can be worked around with lines of script, but the effects of it can only be seen when the game starts."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-02T22:26:17Z",
+  "comments": 3,
+  "createdAt": "2021-12-25T12:44:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3716,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rotation for tiles on GridMap",
+  "up": 4,
+  "updatedAt": "2022-05-02T22:26:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3716"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This cannot be achieved by an addon (including gdextension)",
+    "format": "form",
+    "workaround": "I didn't find any workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-14T22:29:51Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8121,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `Material::get_shader_rid()` to scripting",
+  "up": 11,
+  "updatedAt": "2024-08-28T07:13:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8121"
+}

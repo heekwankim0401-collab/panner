@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "there is no way to implement this with an add-on\n\n*Bugsquad edit (keywords for easier searching): tooltip*",
+    "format": "legacy",
+    "workaround": "No, It would be a great usability improvement and can't be worked around with the script."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-16T18:17:07Z",
+  "comments": 19,
+  "createdAt": "2020-08-20T06:20:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 1393,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement script editor description hint on hover a symbol/word",
+  "up": 128,
+  "updatedAt": "2024-12-16T18:17:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1393"
+}

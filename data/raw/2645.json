@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is in the core code.",
+    "format": "markdown",
+    "workaround": "It should be easy enough to change this logic and the documentations. Let me know if you want me to implement it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-04-24T16:30:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2645,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change `BaseButton.keep_pressed_outside` behavior to reflect the signal emission in addition to visual appearance",
+  "up": 2,
+  "updatedAt": "2021-07-23T11:17:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2645"
+}

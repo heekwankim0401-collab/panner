@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It already exists in the source code, it seems like it would be wasteful to build it from scratch as an addon.",
+    "format": "legacy",
+    "workaround": "No, as it requires adding in new nodes."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-18T18:48:31Z",
+  "comments": 2,
+  "createdAt": "2021-01-23T21:42:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2168,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose the Completion properties and functions for text_edit",
+  "up": 1,
+  "updatedAt": "2021-06-18T18:48:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2168"
+}

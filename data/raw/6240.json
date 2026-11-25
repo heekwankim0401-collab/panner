@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires extending ZIPPacker",
+    "format": "form",
+    "workaround": "I could just delete the file after using it, but I think it would be useful to take advantage of OS features that let you skip having to manually manage this.  You also have to pick a file path before you start which could cause problems with write permissions or collisions with already existing files.  Temporary or memory files will avoid these problems."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-02-05T08:08:18Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6240,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide way for ZIPPacker to create archives with temporary files",
+  "up": 3,
+  "updatedAt": "2023-03-16T20:02:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6240"
+}

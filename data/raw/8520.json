@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core GDScript",
+    "format": "form",
+    "workaround": "This should be part of HTTPRequest"
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-07T20:26:56Z",
+  "comments": 3,
+  "createdAt": "2023-11-26T11:21:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 8520,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for multipart form data in HTTPRequest",
+  "up": 4,
+  "updatedAt": "2026-11-09T12:54:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8520"
+}

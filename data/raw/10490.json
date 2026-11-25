@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Other IDE's offer this function as a built-in thing, so why shouldn't Godot do the same?",
+    "format": "form",
+    "workaround": "I don't know, as I have not found a method to change the behavior of the editor itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-08-19T02:58:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10490,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Place cursor at end of collapsed block",
+  "up": 1,
+  "updatedAt": "2024-08-19T18:49:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10490"
+}

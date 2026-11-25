@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It fundamentally changes the way that inputs are parsed in the engine itself.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-02-09T18:22:13Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 9064,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an `InputHandler` abstract/virtual class to allow for multiple input drivers",
+  "up": 1,
+  "updatedAt": "2026-02-13T06:32:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9064"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "So that all screenshots and tutorials have easy to discover version numbers, and it's easier to tell if something might have changed since the tutorial was made.",
+    "format": "form",
+    "workaround": "It's information that tutorial makers could include, but many don't."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-07-08T17:28:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7243,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display version number somewhere that will be visible in screen-caps",
+  "up": 0,
+  "updatedAt": "2023-09-28T09:31:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7243"
+}

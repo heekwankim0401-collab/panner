@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core: Adjustment of Core Resource `StyleBox`",
+    "format": "markdown",
+    "workaround": "It can be worked around in various different ways. But all of them feel like significantly quirky workarounds. This definitely isn't the most important feature request, but everytime I bump into such an issue I wish I could just adjust the Stylebox as described above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2021-02-03T16:41:56Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2233,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "StyleBox's `expand_margin` and  `content_margin` should allow negative values",
+  "up": 27,
+  "updatedAt": "2026-04-18T00:13:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2233"
+}

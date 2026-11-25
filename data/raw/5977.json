@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See-above",
+    "format": "form",
+    "workaround": "This enhancement will simplify a very important feature of the engine. It should probably not be an optional add-on,"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-12-22T21:08:29Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 5977,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move \"Radius\" from NavigationMesh to NavigationAgent to allow agents of different sizes to use the same NavigationArea",
+  "up": 5,
+  "updatedAt": "2023-02-08T14:14:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5977"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This makes 2D skeleton animation systems even better, and Polygon2D being in the sub-tier of 2D skeleton is a common practice in the industry",
+    "format": "form",
+    "workaround": "I've tried setting the top_level property to achieve a similar effect, but this property breaks all inheritance and display hierarchies, which prevents other scenes from moving when using this animation, and Polygon2D stays at its origin"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-12-07T08:42:29Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 11308,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Polygon2D, as a sublevel of the 2D skeleton, is not affected by both transformation and bone weight",
+  "up": 0,
+  "updatedAt": "2024-12-08T14:05:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11308"
+}

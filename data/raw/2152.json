@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This change only pertains to the core C++ code.",
+    "format": "markdown",
+    "workaround": "No, as this change only pertains to the core C++ code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2021-01-19T17:06:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2152,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Define C++ StringName class constants to use as signal/theme item names instead of using string literals",
+  "up": 9,
+  "updatedAt": "2026-07-14T18:29:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2152"
+}

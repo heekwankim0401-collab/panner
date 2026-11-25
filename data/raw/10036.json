@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is not intrusive and would be useful to most Windows users when working with the Windows filesystem and Godot.",
+    "format": "form",
+    "workaround": "This would require editing the functionality of [PR #90421](https://github.com/godotengine/godot/pull/90421) and the Editor Settings, and any other places in the editor that give you OS file paths to copy, which would involve editing the C++ source of the Godot Engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-06-24T20:31:31Z",
+  "down": 1,
+  "labels": [
+    "platform:windows",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10036,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to use '\\' instead of '/' as a file path separator when using \"Copy Absolute Path\" in the editor's FileSystem dock",
+  "up": 0,
+  "updatedAt": "2024-06-24T22:24:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10036"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`flex-wrap` is part of the CSS standard library, and so I believe this should be part of the Godot standard library.",
+    "format": "form",
+    "workaround": "I found some code here which might make this work:\n\nhttps://godotforums.org/discussion/21875/flex-flow-wrap-container-layout-plugin"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-18T19:52:14Z",
+  "comments": 5,
+  "createdAt": "2021-06-20T11:39:08Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2893,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a container for flex-wrap style component positioning",
+  "up": 11,
+  "updatedAt": "2022-01-18T19:52:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2893"
+}

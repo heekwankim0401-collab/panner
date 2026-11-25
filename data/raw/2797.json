@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can only be implemented as core.\n\n#### Short Q&A:\n\n**Q:** Does this not affect discoverability?\n**A:** The feature needs to appear in the documentation, but custom command line arguments are game specific, so it has no relation to discoverability.\n\n**Q:** What if I add an editor plugin, can I make it appear on the command line?\n**A:** No, when running godot --help, the major part of the engine is not initialized, so plugins won't load anyway. \n\n**Q:** Is it really too difficult to parse all arguments together, engine and command line?\n**A:** Yes, because otherwise error reporting becomes very difficult (unknown options, malformed arguments, or even guessing the amount of arguments following a `--option <args>` syntax. Separating between engine and editor/game options is the cleanest possible way to do and standard in Unixes for this task.",
+    "format": "markdown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-01T05:53:15Z",
+  "comments": 12,
+  "createdAt": "2021-05-29T15:08:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2797,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Separate command line arguments from engine and game/editor",
+  "up": 14,
+  "updatedAt": "2022-08-01T05:53:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2797"
+}

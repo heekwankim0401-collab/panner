@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I suppose this feature wouldn't be too different from the OpenAI GPT Chat plugin already available as an add-on, but this feature would incorporate the context of the godot editor, which may require some core integration.\n\nI know its a big ask, but I believe this feature would put godot ahead of every other game development engine alive today. Dealing with bugs and errors is the biggest force causing would-be developers to give up. If that was easy, it would clear the tightest bottleneck in the game development process.",
+    "format": "form",
+    "workaround": "This will be used every time if it existed because it solves error messages."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-27T10:59:59Z",
+  "comments": 8,
+  "createdAt": "2023-11-25T04:36:16Z",
+  "down": 23,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8514,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use AI language models to summarize error messages in the console to facilitate the resolution of bugs",
+  "up": 0,
+  "updatedAt": "2025-08-23T18:32:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8514"
+}

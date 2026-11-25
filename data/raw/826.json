@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's not just about adding the Text node but also cleaning up nodes. The engine will be easier to use and **code easier to maintain** with this new node replacing the old ones.",
+    "format": "legacy",
+    "workaround": "1. I think showing gui text is something developers do a lot.\n2. My workaroud: I made a custom text node (.tscn) that consists of Label as the scene root and RichTextLabel as the child. In the root I add clean text (without bbcode) to let the node figure out it's margins, size, etc. and in the child I add the whole text (with bbcode). Then I make Label invisible (self modulate alpha set to 0). That way I can have Label's margins, grow directions and auto-wrap, and RichTextLabels' bbcode.\nThis sort of works. But it's clearly too much fiddling for such a simple thing as _showing text on the screen_."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-05-11T21:45:23Z",
+  "down": 1,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 826,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a universal Text node to supersede Label and RichTextLabel",
+  "up": 38,
+  "updatedAt": "2021-07-08T18:29:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/826"
+}

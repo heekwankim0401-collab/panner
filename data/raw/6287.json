@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It improves the out-of-the-box experience of TileMaps. It is a very intuitive and expected behavior and I am surprised that it doesn't yet exist",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-14T19:41:58Z",
+  "comments": 1,
+  "createdAt": "2023-02-14T19:21:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6287,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a snapping grid to TileMap polygon editors",
+  "up": 1,
+  "updatedAt": "2023-02-14T19:42:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6287"
+}

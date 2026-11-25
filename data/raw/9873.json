@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I can’t imagine a situation where we have to set the second argument to true for one node, but not on other nodes, it’s convenient to use it for all nodes at once, in testing, and this should become part of the engine.",
+    "format": "form",
+    "workaround": "Yes, but if we release the project to production, we will need to rewrite all the add_child functions, convenient? I don't think."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2024-06-02T16:05:08Z",
+  "down": 2,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9873,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to the project settings for quick testing in “Remote” mode",
+  "up": 0,
+  "updatedAt": "2024-06-03T05:17:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9873"
+}

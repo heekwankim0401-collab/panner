@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "It's a setting... so no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-11-27T12:16:40Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8527,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the 800ms UndoRedo merge interval customisable in Settings",
+  "up": 11,
+  "updatedAt": "2025-04-07T21:16:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8527"
+}

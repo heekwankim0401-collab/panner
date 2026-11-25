@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "it seems suitable as a built in feature",
+    "format": "form",
+    "workaround": "Well yes, but it becomes messy really fast, not to mention the overhead with all the viewports"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-06T09:45:41Z",
+  "comments": 2,
+  "createdAt": "2021-12-26T11:35:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3721,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow setting a World2D to be used for rendering in CanvasItem",
+  "up": 0,
+  "updatedAt": "2022-03-06T16:27:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3721"
+}

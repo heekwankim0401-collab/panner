@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core condition of how the engine operates in headless mode and lies within the abstraction layer of the engine.",
+    "format": "form",
+    "workaround": "No, there needs to be a handling structure to asign network authority specifically to only one existing client.\nThis also introduces a necessary peer to peer structure into games that might want to be entirely server client, which may cause instability and further networking problems."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-16T14:36:25Z",
+  "comments": 1,
+  "createdAt": "2022-11-08T10:27:40Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 5745,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a project setting to enable full Input loop in headless mode",
+  "up": 1,
+  "updatedAt": "2023-04-16T14:53:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5745"
+}

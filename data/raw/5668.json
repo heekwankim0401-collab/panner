@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Object is literally the base of any object.",
+    "format": "form",
+    "workaround": "If one dislikes the name so much they could write a wrapper method around it. \n\n```GDScript\nfunc notify(what):\n    notification(what)\n```\nMore performance overhead, which is kind of against what notifications are meant to be, but it is what it is."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-10T14:48:31Z",
+  "comments": 1,
+  "createdAt": "2022-10-28T08:12:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5668,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Rename `Object.notification()` to `notify()`",
+  "up": 17,
+  "updatedAt": "2023-01-10T14:48:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5668"
+}

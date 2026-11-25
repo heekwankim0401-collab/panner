@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-21T21:28:53Z",
+  "comments": 1,
+  "createdAt": "2026-08-18T12:40:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15401,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability for viewport stretch mode to use anti-aliasing to smooth out the appearance of fractional scale factors",
+  "up": 0,
+  "updatedAt": "2026-08-21T21:29:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15401"
+}

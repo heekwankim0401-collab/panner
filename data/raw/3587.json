@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "if this should be an Add-On, please make it as an Add-On.\n\nbut i personally believe that this feature is very small and lightweight so that it won't make performance any worse\nso that this could be a core feature.\n\nbut i also could be wrong\nand maybe it Is so inefficient that it has to be an Add-On.\n\ni don't know because software development is generally very complex and full of surprises.",
+    "format": "form",
+    "workaround": "i don't know if this is possible.\nif it is, please make that Add-On."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-11-22T17:44:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3587,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow specifying initials to display in render/physics layer inspector properties",
+  "up": 4,
+  "updatedAt": "2021-11-22T18:05:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3587"
+}

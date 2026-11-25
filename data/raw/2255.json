@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Would have to create an addon importer from scratch.",
+    "format": "markdown",
+    "workaround": "No it can't."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-07T00:09:07Z",
+  "comments": 3,
+  "createdAt": "2021-02-06T22:54:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2255,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a configuration file listing addon/plugin files and directories to ignore during installation (.godotignore)",
+  "up": 0,
+  "updatedAt": "2021-02-07T23:52:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2255"
+}

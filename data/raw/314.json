@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because this is a core layer problem",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2019-12-17T16:34:41Z",
+  "comments": 4,
+  "createdAt": "2019-12-17T15:26:05Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 314,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add supports to build Godot with google angle on Android and iOS platform for gles 2 renderer",
+  "up": 0,
+  "updatedAt": "2019-12-17T16:43:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/314"
+}

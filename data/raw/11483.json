@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature directly affects the usability of a core Godot tool (GridMap editor). Including it in the core ensures consistent behavior and accessibility for all users. As it involves editor-level changes, implementing it as a plugin would be cumbersome and less efficient compared to integrating it into the engine’s core functionality.",
+    "format": "form",
+    "workaround": "No, this enhancement cannot easily be worked around. Gridline rendering is handled internally by the GridMap editor, and there is no direct way to adjust the gridline color or visibility without modifying the core editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-01-03T19:38:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11483,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Color Customization and Visibility Toggle for GridMap Editor Gridlines",
+  "up": 4,
+  "updatedAt": "2026-02-11T18:21:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11483"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Makes autotiles more platformer-friendly, so it's like general usage (?).",
+    "format": "legacy",
+    "workaround": "Probably doable with a script, not sure how many people would use it, but maybe they don't know yet that they need it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2019-12-16T21:25:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 310,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Special TileMap edge mode for autotiles",
+  "up": 6,
+  "updatedAt": "2023-03-09T01:00:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/310"
+}

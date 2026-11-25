@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be in core because the main purpose of exporting a `NodePath` is to access a `Node` in the scene tree later.\n\nThe issue with attaching Node access to the `NodePath` export variables is that the `NodePath` is really only useful in the editor while the actual node is what we really want when the game is loaded. Moreover, in code, it's far more likely you have access to a node instance rather than it's relative NodePath to another node.\n\nWhat we actually want to do it set a `NodePath` for the editor but then Godot should automatically lazily cache the actual Node when the export variable is accessed for `get`.",
+    "format": "legacy",
+    "workaround": "This will be used often. I can't really think of many reasons to export a `NodePath` if it's not going to be used to access a node in the scene tree either, so why not streamline the process for the programmer?"
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-17T20:44:07Z",
+  "comments": 2,
+  "createdAt": "2020-10-17T17:25:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1681,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Node Export Hint Syntactic Sugar",
+  "up": 1,
+  "updatedAt": "2020-10-17T20:44:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1681"
+}

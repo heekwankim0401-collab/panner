@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not sure this could be done as a plugin properly (without some hacks).",
+    "format": "markdown",
+    "workaround": "you could just use scripts for that, but often this is inconvenient and leads to cluttering of the project with script files."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-02-26T02:08:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2359,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add TabContainer items editor",
+  "up": 6,
+  "updatedAt": "2021-02-26T09:03:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2359"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I could imagine some parts of this could be emulated in an addon/plugin combination if an `annotation` API were added to the core `Object` and/or `Script` interface(s) and if a few extra signals were added to the SceneDock to make tracking changes to it easier. But this is also a pattern that is central to node trees in the first place since every node has the potential to become a context for other nodes below it. It just converts what would otherwise have been a lot of boilerplate, tooling, and/or explicit searching/assigning into an implicit, configuration-based relationship that reduces boilerplate.",
+    "format": "form",
+    "workaround": "As has been described, there are several different steps and details to the pattern, along with complex editor logic, and the logic is often something that occurs across many different types of hierarchical relationships in node trees, so the \"few lines of script\" that do get written are often duplicated across many different classes with slight alterations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-08-16T05:51:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3147,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add cascading Node properties to auto-populate values and statically check ancestral dependencies",
+  "up": 2,
+  "updatedAt": "2021-08-17T00:07:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3147"
+}

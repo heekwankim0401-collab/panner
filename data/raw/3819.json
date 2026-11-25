@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It could just be a check box when exporting to wasm.",
+    "format": "form",
+    "workaround": "Splitting the wasm file's start into initialize and start is probably hard, error prone, and will break on GoDot updates."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-01-18T01:01:00Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 3819,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an HTML5 export option to pre-initialize a faster but larger file with wizer",
+  "up": 0,
+  "updatedAt": "2022-06-29T16:43:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3819"
+}

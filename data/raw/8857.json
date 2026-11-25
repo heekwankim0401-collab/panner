@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript and the way it is interpreted is core.",
+    "format": "form",
+    "workaround": "Yes. Yes, of course. As I explained above, though, this may not always be desirable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-01-10T21:00:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8857,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript: Allow lambda functions to be declared and assigned to local variables implicitly",
+  "up": 9,
+  "updatedAt": "2024-02-13T15:07:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8857"
+}

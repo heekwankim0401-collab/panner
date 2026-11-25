@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure. it could be an add-on? Just feels a bit weird if we'd have to download one for this type of issue.",
+    "format": "legacy",
+    "workaround": "The way to work around this issue is making a lot of different scenes. This would require us to save all the components of the UI before we actually know if we want to keep them."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-28T16:41:24Z",
+  "comments": 9,
+  "createdAt": "2020-11-07T23:22:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1793,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a horizontal scrollbar to the Scene tree dock",
+  "up": 21,
+  "updatedAt": "2021-07-04T03:26:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1793"
+}

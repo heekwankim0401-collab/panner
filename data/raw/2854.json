@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-06-11T16:47:16Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2854,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose engine enums as scoped enums (to allow getting them as strings etc.)",
+  "up": 22,
+  "updatedAt": "2024-03-09T14:44:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2854"
+}

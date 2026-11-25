@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-07T10:43:05Z",
+  "comments": 1,
+  "createdAt": "2026-08-29T04:41:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:navigation",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 15455,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add cancellable jobs for asynchronous navigation mesh baking",
+  "up": 0,
+  "updatedAt": "2026-09-07T10:43:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15455"
+}

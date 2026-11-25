@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an essential operation I would think most would expect to be part of a 3D math library.",
+    "format": "form",
+    "workaround": "Yes, but it is inconvenient and makes the code harder to read."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2023-12-10T21:44:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8633,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `+` and `-` operator overloads to Basis",
+  "up": 0,
+  "updatedAt": "2023-12-11T19:41:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8633"
+}

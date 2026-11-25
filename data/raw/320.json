@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This proposal deals with the networking system and I believe the add-on would be replacing the entire networking system.",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-23T17:27:01Z",
+  "comments": 2,
+  "createdAt": "2019-12-19T14:34:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 320,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Warn if sending an rpc/rset that would be invalid",
+  "up": 2,
+  "updatedAt": "2021-07-23T17:28:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/320"
+}

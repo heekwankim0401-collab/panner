@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I don't think a change like this could be made with an add-on.",
+    "format": "form",
+    "workaround": "It unfortunately can't be worked around with a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 24,
+  "createdAt": "2022-07-09T21:22:09Z",
+  "down": 1,
+  "labels": [
+    "platform:linuxbsd",
+    "platform:windows",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 4846,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add an editor setting to enable border-less mode on Windows and Linux (client-side decorations)",
+  "up": 61,
+  "updatedAt": "2026-04-25T07:40:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4846"
+}

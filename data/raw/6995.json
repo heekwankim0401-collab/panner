@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a very generic usecase affecting every person building pixelart games with smooth camera scrolling. A lot of people are unaware of how to fix the jittering to begin with, causing them to simply use Nearest filter.",
+    "format": "form",
+    "workaround": "As explained in this proposal, there is a solution already but it is not very scalable nor user-friendly, as a custom `ShaderMaterial` has to be attached to every single node that uses pixelart textures."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2023-06-01T09:20:38Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6995,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a jitter-free texture filter for pixelart games (sharp bilinear)",
+  "up": 46,
+  "updatedAt": "2024-12-16T23:32:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6995"
+}

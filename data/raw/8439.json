@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It regards gdscript, not any specific project",
+    "format": "form",
+    "workaround": "nope it's impossible to do this with code. In my example there's a workaround because it's a `const` anyways:\n```gdscript\n## Path to input control\n@export_node_path(\n\t\"CheckBox\",\n\t\"CheckButton\",\n\t\"OptionButton\",\n\t\"Submit\",\n\t\"LineEdit\",\n\t\"TextEdit\",\n\t\"ItemList\",\n\t\"Slider\",\n\t\"SpinBox\",\n\t\"GraphEdit\"\n) var input_path: NodePath\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-17T08:48:46Z",
+  "comments": 2,
+  "createdAt": "2023-11-15T16:28:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8439,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow for arrays to be passed into annotations",
+  "up": 2,
+  "updatedAt": "2023-11-17T11:30:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8439"
+}

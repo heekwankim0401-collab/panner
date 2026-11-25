@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An add-on would need to copy+paste code from `Editor::run` every time the function changes.",
+    "format": "form",
+    "workaround": "`Editor::run` is ~200 lines and will probably get more complex over time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-22T19:22:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10810,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a function to get editor run arguments",
+  "up": 1,
+  "updatedAt": "2024-09-23T11:09:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10810"
+}

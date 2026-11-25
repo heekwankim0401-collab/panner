@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I assume this is doable with plugin but it would be much better to have it by default as it is something very small that most users will use.",
+    "format": "form",
+    "workaround": "No, person would have to make a plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2022-02-11T21:28:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 3953,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Signals draggable onto the SceneTree tab",
+  "up": 19,
+  "updatedAt": "2025-03-21T10:39:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3953"
+}

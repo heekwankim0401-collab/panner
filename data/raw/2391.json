@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a small and central change to Godot's functionality and affects a big portion of games created with it.",
+    "format": "markdown",
+    "workaround": "The only workaround I found is to create another viewport inside a ViewportContainer and use that to scale up the drawing. I don't think it's a reasonable workaround, and there are plenty of pixel art games made in Godot that can't make use of custom drawing as it is."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-03-03T07:10:05Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2391,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Give an option to scale custom drawing like the rest of the viewport",
+  "up": 4,
+  "updatedAt": "2023-01-20T11:53:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2391"
+}

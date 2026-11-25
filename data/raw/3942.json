@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In the Scene Tab, you can right click a node to get a context menu with a Duplicate option.\nIn the FileSystem Tab, you can right click a file to get a context menu with a Duplicate... option.\nIn the Animations Tab for AnimatedSprite, you can NOT right click an animation to get a context menu with a Duplicate option.",
+    "format": "form",
+    "workaround": "Some animations are really complicated, which is why there is a dedicated tool to edit them. To have a new animation with just 1 change, you currently have to restart from scratch for each animation which can take a long time for a single animation, let alone if you have to do this 20 times."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-03T09:54:57Z",
+  "comments": 5,
+  "createdAt": "2022-02-09T18:56:11Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 3942,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Duplicate button and context menu to the SpriteFrames editor",
+  "up": 9,
+  "updatedAt": "2024-09-03T09:58:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3942"
+}

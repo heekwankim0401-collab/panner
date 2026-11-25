@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the script editor's usability, leveling the playing field with the external code editors which already provide this feature.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-21T14:55:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12825,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add rectangle/block selection to TextEdit",
+  "up": 9,
+  "updatedAt": "2026-06-25T16:10:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12825"
+}

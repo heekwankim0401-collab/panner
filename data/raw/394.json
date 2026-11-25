@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not really, assuming it's possible to make such an asset. Though I don't know how.\n\n**Edit:** Forgot to mention that the screenshot isn't the project I mentioned above.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-28T07:23:03Z",
+  "comments": 5,
+  "createdAt": "2020-01-19T23:19:47Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 394,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for dragging and dropping materials and textures onto MeshInstances and CSG shapes",
+  "up": 21,
+  "updatedAt": "2022-07-28T07:23:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/394"
+}

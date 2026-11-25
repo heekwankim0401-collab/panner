@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it is a relatively logical feature. It can become visible on hover, why not having a \"always visible\" flag?",
+    "format": "form",
+    "workaround": "I don't see any property or method to make it always visible by myself."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-16T10:52:18Z",
+  "comments": 2,
+  "createdAt": "2024-01-16T08:13:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8895,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "SplitContainer add a DraggerVisibility to have the dragger always visible",
+  "up": 1,
+  "updatedAt": "2024-01-16T10:53:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8895"
+}

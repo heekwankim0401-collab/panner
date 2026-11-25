@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is supposed to be a chage in the core.",
+    "format": "legacy",
+    "workaround": "Using dynamic typing skirts around this, but breaks consistency. Plugins would make it opaque, where it is required to be implicit."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-07T12:49:04Z",
+  "comments": 5,
+  "createdAt": "2020-08-17T19:44:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 1383,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Narrowing conversion from float to int must be reported as a warning",
+  "up": 0,
+  "updatedAt": "2022-03-07T13:01:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1383"
+}

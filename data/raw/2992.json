@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't even think it's possible to make it an add-on. But even if it can it should be a core functionality.",
+    "format": "form",
+    "workaround": "Technically you can loop every frame in an autoloaded singleton to check if the window position changed which is what i am doing currently but this seems overkill."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-07-14T21:56:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2992,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"window position changed\" signal",
+  "up": 4,
+  "updatedAt": "2021-07-15T00:07:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2992"
+}

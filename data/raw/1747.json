@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Doesn't seem like the type of thing one would write an add-on for.",
+    "format": "legacy",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-10-29T15:08:58Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1747,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to check for high shader precision support from scripting",
+  "up": 0,
+  "updatedAt": "2021-04-22T17:45:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1747"
+}

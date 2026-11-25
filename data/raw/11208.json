@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "1. I have the required research\n2. Integration into a blender - gltf pipeline would be highly usable\n3. Inverse kinematics with constraints (translation and rotation) is a commonly requested feature in the core Godot Engine",
+    "format": "form",
+    "workaround": "Writing bone constraints is a significant challenge. Epic Games has been known to buy an ik-related company every summer since 2016.\n\nA bone constraint (rotation and translation) system would not be a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-11-21T19:03:39Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 11208,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a bone constraint SkeletonModifier3D",
+  "up": 7,
+  "updatedAt": "2024-11-22T19:20:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11208"
+}

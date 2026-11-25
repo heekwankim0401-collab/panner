@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a direct change to a current engine feature. While one of Godot's greatest strengths is the diversity in ways to solve problems, one of its other greatest features is its ease of use for first-time users. I believe that focusing more on `override.cfg` as the \"best practice\" for saving project settings would provide the most developer-friendly experience possible. Ultimately, I feel like this function is more of a nice-to-have, rather than an ultra-critical feature request. However, since it's a relatively small addition, I think it would fit in the engine.",
+    "format": "form",
+    "workaround": "While I expect this enhancement would be used with virtually every future project that involves end users changing settings, it will always remain possible for one to use an alternative solution with a few lines of script. As it stands, you can verbatim recreate this function in GDScript. It's actually how this function started out. However, I believe that by directly integrating my proposal with the editor, that most common settings headaches can be avoided with next to no effort on the part of any developer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-07-16T17:20:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10229,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add function that creates a ProjectSettings setting entry if it doesn't exist, while returning default value",
+  "up": 2,
+  "updatedAt": "2024-07-19T19:29:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10229"
+}

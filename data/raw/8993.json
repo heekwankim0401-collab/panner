@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The reason why this shouldn't be an add-on is because it's a small quality of life feature and won't really fit as an add-on. It can also be implemented in the base Godot Engine easily and will benefit all developers in my opinion.",
+    "format": "form",
+    "workaround": "It can be worked around in a few lines of code but I think it is much better if this is in the core, it will save the process of remaking the method and it will take up less memory and processing power than the work around method."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-30T17:42:19Z",
+  "comments": 2,
+  "createdAt": "2024-01-30T15:50:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8993,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Finding child node by type",
+  "up": 0,
+  "updatedAt": "2024-01-30T17:42:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8993"
+}

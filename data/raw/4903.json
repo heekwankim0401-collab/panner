@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of the editor behavior, so it can't be changed with an addon.",
+    "format": "form",
+    "workaround": "The workaround would be to not define a main scene and use F6 to start the game. But it is often convenient to have a main scene that is used for testing while working on a different scene, which would make using F6 not feasable."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-18T16:45:48Z",
+  "comments": 3,
+  "createdAt": "2022-07-18T08:24:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4903,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make loading the main scene on editor startup toggleable",
+  "up": 5,
+  "updatedAt": "2022-07-18T16:49:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4903"
+}

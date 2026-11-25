@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, this is a enhancement to the already implemented export arrays, which makes them easier to edit.",
+    "format": "legacy",
+    "workaround": "Possibly, for example by making a new export var and, in code, inserting that var to the export array at the index you want, but the point of exports are to be able to change it through the inspector right?"
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-15T12:01:31Z",
+  "comments": 3,
+  "createdAt": "2019-09-05T03:21:20Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 23,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to change order of elements in export (Array)",
+  "up": 25,
+  "updatedAt": "2021-07-15T12:01:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/23"
+}

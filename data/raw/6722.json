@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This seems like a useful enough feature to be part of the engine and it can be added without breaking compatibility. It would resolve a pain point that I'm sure many developers have run into and would make it even easier to create responsive UIs.",
+    "format": "form",
+    "workaround": "It can be worked around, but the workaround is creating an entire system yourself that copies the behavior of ButtonGroup with one minor tweak. While it's not that hard, it seems unnecessary given the engine already has a system that's 99% of the way there."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-24T14:50:24Z",
+  "comments": 1,
+  "createdAt": "2023-04-20T03:28:26Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.1",
+  "number": 6722,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow unpressing all buttons in a ButtonGroup",
+  "up": 13,
+  "updatedAt": "2023-04-24T14:50:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6722"
+}

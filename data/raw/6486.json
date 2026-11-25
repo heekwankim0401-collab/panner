@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In my experience as an environment artist I have worked with multiple engines. Both publicly available and in-house.I never worked on a 3d project that does not require vertex color for some aspect of the workflow.",
+    "format": "form",
+    "workaround": "It could be, but it will be ugly and not performant. The best way would be to be a part of either the MeshInstance3D or the mesh resource itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-03-12T07:06:33Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6486,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement persistent MeshInstance3D vertex colors on a per-instance basis",
+  "up": 10,
+  "updatedAt": "2023-06-16T18:48:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6486"
+}

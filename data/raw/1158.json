@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should definitely be core, and also be a feature for when you create any new object, not just animations.",
+    "format": "legacy",
+    "workaround": "I feel like everyone would enjoy this, but maybe not. I imagine it would be easy to turn off."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-07-03T19:38:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1158,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Adding a new animation to an AnimatedSprite node should select the animation's name so it can be edited immediately",
+  "up": 1,
+  "updatedAt": "2020-08-05T15:13:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1158"
+}

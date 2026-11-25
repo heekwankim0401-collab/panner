@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Is a core function that should be part of the engine.",
+    "format": "form",
+    "workaround": "You would need to implement your own custom functions for this, which does not make a lot of sense considering there is already a good API for applying forces or impacts at a custom point. Reading this values is as important as modifying them."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-22T21:28:41Z",
+  "comments": 3,
+  "createdAt": "2023-08-11T12:06:31Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.8",
+  "number": 7480,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement methods to get the velocity of a RigidBody in a given point",
+  "up": 15,
+  "updatedAt": "2026-07-22T21:28:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7480"
+}

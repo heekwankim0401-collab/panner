@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There's no particular reason why this should be part of the core. This can be implemented via plugin/module. Performance is the only reason why this might be needed for core. Some engines like Unity already provide similar functionality though, also the mentioned PhysX library.\n\nIn fact, given the same logic, the existing `RayCast` nodes *can* also be re-implemented via script.\n\nIf you think it's worth adding an entire `ShapeCast2D/3D` to Godot core and you feel like the described implementation is logical/fits the requirements, I can make a PR, but additional work is needed to port this to 3D.",
+    "format": "markdown",
+    "workaround": "Cannot be worked around with a *few lines* of script."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-29T06:08:14Z",
+  "comments": 39,
+  "createdAt": "2020-04-14T22:02:20Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 710,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ShapeCast3D node for collision sweep and immediate overlap queries (already implemented in 2D)",
+  "up": 38,
+  "updatedAt": "2022-07-29T06:08:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/710"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Given that it could be commonly used in `EditorImportPlugin` extensions, it makes sense to add it to core since it will facilitate the development of those extensions.",
+    "format": "form",
+    "workaround": "This function could be commonly used in `EditorImportPlugin` extensions.\n\nIt can be worked around, but not with just a few lines. See the script above."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-23T23:45:50Z",
+  "comments": 3,
+  "createdAt": "2021-08-23T22:45:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3192,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose simplify-path",
+  "up": 0,
+  "updatedAt": "2021-08-23T23:45:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3192"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Quality of life, basic feature, hard to integrate as a plugin. It's a recurring problem when your project starts having more than a few shaders, especially when you design a library for other people to use. Besides, as seen in the linked issue, it has been requested and PRed several times.",
+    "format": "legacy",
+    "workaround": "No. You might be able to setup a tool pipeline with a plugin to make shader inclusion working, but it's a significant amount of work and I'm not sure if it will integrate well. It requires shader resources to have defined dependencies and plugins cannot add that. All they can do is to define different types of non-shaders for which they have to recode a whole editor for, and would bake final shaders which would then be read-only and not modifiable in realtime."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-22T22:02:34Z",
+  "comments": 17,
+  "createdAt": "2020-05-28T17:33:30Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 944,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for sharing and preprocessing shader code (through `#include`, `#if`, `#ifdef`, …)",
+  "up": 49,
+  "updatedAt": "2023-03-19T03:17:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/944"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would ease beginners asking questions in site that prefer text, do not support images, or frown upon images. Such as godotengine.org/qa, stackoverflow.com and gamedev.stackexchange.com - Thus, I believe it should be available without the need of an add-on.\n\nTo copy and paste the code of a relevant script is not issue at all. However, often scripts reference other nodes, and it can be difficult or impossible to answer question is the situation where the relevant portion of the scene tree is not included (which is something a beginner might not realize). Somewhat more experienced developers would take steps to produce such text representations of the scene tree (there are many examples in the aforementioned sites). I would like to see the friction to generate them reduced. I want to be able to describe the steps to produce such tree to a beginner in a few words (e.g. \"Right click on the node, select 'copy as text' and paste it on the question\").",
+    "format": "form",
+    "workaround": "I believe the scene tree is accesible via add-on. I'm not sure how extensive the code would be."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-07-06T12:43:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2953,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a context menu option to copy the scene tree as text in the Scene tree dock",
+  "up": 4,
+  "updatedAt": "2026-05-29T13:53:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2953"
+}

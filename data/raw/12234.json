@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about changing a rendering default setting.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-27T20:51:33Z",
+  "comments": 7,
+  "createdAt": "2025-04-14T22:47:03Z",
+  "down": 3,
+  "labels": [
+    "platform:windows",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": "4.6",
+  "number": 12234,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use Direct3D 12 rendering driver by default on Windows",
+  "up": 8,
+  "updatedAt": "2026-09-03T17:40:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12234"
+}

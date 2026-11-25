@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Gridmap is core.",
+    "format": "form",
+    "workaround": "Often used for 3d levels."
+  },
+  "assignees": 1,
+  "closedAt": "2026-06-26T13:55:24Z",
+  "comments": 0,
+  "createdAt": "2025-07-24T10:41:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 12853,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically change editing plane when orthographic view aligns with editing plane in the GridMap editor",
+  "up": 4,
+  "updatedAt": "2026-06-26T13:57:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12853"
+}

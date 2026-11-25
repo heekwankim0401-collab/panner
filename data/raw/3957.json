@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a changed behavior from Godot 3.x, so I want it back in core.",
+    "format": "form",
+    "workaround": "I know I could pan with the middle mouse button, but that feels awkward."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-12T14:59:51Z",
+  "comments": 2,
+  "createdAt": "2022-02-12T11:38:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3957,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot 4, 2d editor pan with right mouse button",
+  "up": 5,
+  "updatedAt": "2022-02-12T15:38:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3957"
+}

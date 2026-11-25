@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's difficult to make as an addon.",
+    "format": "form",
+    "workaround": "Not really. It involves some hacking."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-10T12:32:48Z",
+  "comments": 9,
+  "createdAt": "2023-08-18T09:50:53Z",
+  "down": 2,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 7521,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Copy Absolute Path\" to filesystem folders",
+  "up": 9,
+  "updatedAt": "2024-04-10T12:32:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7521"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Gdscript syntax feature that may hopefully be used often.",
+    "format": "markdown",
+    "workaround": "not possible now."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-08T19:32:08Z",
+  "comments": 9,
+  "createdAt": "2020-12-15T20:49:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1990,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to avoid creating callbacks when connecting signals",
+  "up": 0,
+  "updatedAt": "2021-03-08T19:47:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1990"
+}

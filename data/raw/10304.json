@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would need to be a modification to the engine, if I'm understanding correctly. Because Godot doesn't quite handle these type compatibilities itself, and puts the responsibility of approving of connections in the hands of the user (via the `ConnectionRequest` event), then the user should be able to define what requests make it to the `ConnectionRequest` event in the first place. There is a pretty core step here that is left out of the developer's hands, which can really limit the capabilities of those who might not be well-versed in advanced type reflection and whatnot",
+    "format": "form",
+    "workaround": "Possibly if every GraphNode has `ignore_invalid_connection_type` set to true. Without that, it seems to me like I would need to reflect on every type each type is derived from and cache that value in memory for performance. This seems like it would be a common use case for someone designing a node editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-28T22:01:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10304,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Override GraphEdit's is_valid_connection_type ",
+  "up": 1,
+  "updatedAt": "2024-07-29T08:44:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10304"
+}

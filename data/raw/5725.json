@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "All specific states on nodes and nested scenes such as having group or signal accompanied with icon or color in scene tree. So there is inconsistency with \"Load As Placeholder\" option",
+    "format": "form",
+    "workaround": "You can just remember that some nested scenes are actually placeholders."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-11-05T10:48:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5725,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add special icon/color to scenes with \"Load As Placeholder\" option enabled",
+  "up": 5,
+  "updatedAt": "2023-02-16T09:35:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5725"
+}

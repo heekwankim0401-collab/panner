@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is an addition to the built in Godot C# functionality and mimics existing GDScript behavior.",
+    "format": "markdown",
+    "workaround": "There is currently a workaround, but it makes the code messier and does not match existing GDScript syntax.\n\n```c#\nprivate MyOtherNodeClass _otherNode;\npublic override void _Ready() {\n    _otherNode = GetNode<MyOtherNodeClass>(\"OtherNode\");\n    ...\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2021-03-08T00:19:57Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.x",
+  "number": 2425,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add OnReady annotation to C#",
+  "up": 65,
+  "updatedAt": "2024-08-25T19:47:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2425"
+}

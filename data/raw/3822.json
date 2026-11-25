@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a convenience issue, which, I believe, should be in the editor by default.\n\nIn my admittedly worthless opinion this short-cut should be default across all text editors ever,\nsimply because it makes intuitive sense to have CTRL+[Comment Character] as the hotkey for un-/commenting a line.\n\nThank you for your scaringly valuable time.",
+    "format": "form",
+    "workaround": "My proposal is related to the editor.\nMy apologies if this is not the correct place.\nIf so, please point me to where it belongs."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-04T15:40:35Z",
+  "comments": 21,
+  "createdAt": "2022-01-18T10:37:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 3822,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the default Toggle Comment shortcut from Ctrl + K to Ctrl + #",
+  "up": 1,
+  "updatedAt": "2024-01-04T15:40:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3822"
+}

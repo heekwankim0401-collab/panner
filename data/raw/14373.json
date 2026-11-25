@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 1,
+  "closedAt": "2026-04-10T15:38:32Z",
+  "comments": 20,
+  "createdAt": "2026-03-03T13:25:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.7",
+  "number": 14373,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Shader Code variable previewer",
+  "up": 74,
+  "updatedAt": "2026-04-10T17:34:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14373"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an improvement to make the built in `Input` methods more useable for local multiplayer, which is likely a common use case.",
+    "format": "form",
+    "workaround": "This will be used often for local multiplayer games, and will not affect the simplicity of the `Input` API for single player games. One workaround to this are defining input actions separately for each device (`jump_player1`, `jump_player2`, etc.) This is tedious and can quickly become unmaintainable if your game has many controllers and/or many actions. Another common solution is to handle these inputs in the `_input` function, as `InputEvent`s have a `device` attribute that can be checked. This works, but requires more complex code to manage analog directional input (`get_vector` is not available on `InputEvent`, and thus this requires tracking state for directional inputs.)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2024-09-28T22:04:37Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10852,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `device` parameter to `Input` action methods",
+  "up": 12,
+  "updatedAt": "2025-04-09T22:44:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10852"
+}

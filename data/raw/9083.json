@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be part of the C# module / extension. I think it primarly affects the glue code and a few lines of code within earshot of Godot.Marshaling.",
+    "format": "form",
+    "workaround": "The extra memory allocation has a significant impact that, to my knowledge, cannot be worked around at the moment. Because the internal API of Multimesh is so strict, arrays of larger length (with unused elements at the end) cannot be submitted, so a workaround using ArrayPool<float> or something similar just isn't feasible, because that only returns arrays of a minimum size, not an exact size. Going through `Span<float>`s is the right way here, and the backing Native interop API already uses them. They are just not exposed to the user of GodotSharp."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-26T20:27:59Z",
+  "comments": 5,
+  "createdAt": "2024-02-13T09:48:14Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 9083,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "`Span<float>` and `Memory<T>` overloads for RenderingServer.MultimeshSetBuffer",
+  "up": 10,
+  "updatedAt": "2025-03-26T20:30:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9083"
+}

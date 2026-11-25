@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "its part of the build",
+    "format": "form",
+    "workaround": "It would be desirable to disable the PCH option when doing development on headers in the PCH files. Changes to the PCH headers will cause a rebuild of all source files that use that pch, however since we took the top used headers there is not much difference in things to rebuild when changing some of these headers."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-09-23T22:22:59Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 3342,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make optional use of precompiled headers (PCH) to improve build speed",
+  "up": 7,
+  "updatedAt": "2024-03-02T17:29:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3342"
+}

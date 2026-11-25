@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a very common use case.",
+    "format": "form",
+    "workaround": "It can be worked around easily, however if it would be added it could be used in virtually any kind of project."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-24T12:39:05Z",
+  "comments": 5,
+  "createdAt": "2024-03-20T16:27:16Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9342,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to instantiate a node and add it as a child to a parent node in the same function call",
+  "up": 0,
+  "updatedAt": "2024-03-24T12:43:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9342"
+}

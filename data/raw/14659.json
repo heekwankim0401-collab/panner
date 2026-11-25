@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-31T14:12:33Z",
+  "comments": 3,
+  "createdAt": "2026-04-13T10:29:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 14659,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve algorithm for automatically determining focus neighbors for `Control` nodes",
+  "up": 23,
+  "updatedAt": "2026-08-31T14:12:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14659"
+}

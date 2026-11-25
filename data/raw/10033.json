@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the usability of `LineEdit` out of the box in situations where secret information needs to be input.",
+    "format": "form",
+    "workaround": "I think the shortcut to toggle visibility can be added using script.  The ability to exclude characters from the secret replacement would be really cumbersome to set up via scripting.  As for the button, I guess that could be done by adding a Button manually using code, but again it would be a bit cumbersome to get everything lined up, and internally it would be pretty easy to share the same logic from the clear input button."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-06-24T18:53:45Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10033,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add More Secret Capabilities to LineEdit",
+  "up": 2,
+  "updatedAt": "2024-06-24T18:54:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10033"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since UIDs are a core part of Godot’s resource system, maintaining their integrity directly within the editor aligns with its design philosophy and benefits the broader user base, rather than leaving it as an optional enhancement.",
+    "format": "form",
+    "workaround": "While it’s technically possible to work around this issue with a script, I believe this \"Refresh UIDs\" feature should be a core functionality in Godot due to its frequent utility."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-26T17:53:54Z",
+  "comments": 5,
+  "createdAt": "2025-03-26T16:30:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12079,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add button to refresh .uid files for missing and outdated files",
+  "up": 0,
+  "updatedAt": "2025-03-26T17:54:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12079"
+}

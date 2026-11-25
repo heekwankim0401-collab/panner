@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The use of Color inputs throughout the editor makes me feel like this should be a core part of the engine.\n\nThank you!",
+    "format": "legacy",
+    "workaround": "I haven't found a way to properly adjust Color references throughout a project, and I think this will be used a lot by developers that use Control nodes in their projects, as those are the places that Color inputs are most often needed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 30,
+  "createdAt": "2020-10-27T05:03:53Z",
+  "down": 2,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1734,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Color resource to adjust a specific color through all instances where it is used",
+  "up": 37,
+  "updatedAt": "2025-08-05T04:03:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1734"
+}

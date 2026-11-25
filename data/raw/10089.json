@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because being able to store a lot of bools/flags efficiently should be just as simple and straightforward to do as with any other `PackedArray` type, and probably won't be much of a hurdle to implement as more advanced features. `bool` is a fundamental data type, and it's not unlikely that you will end up having to store a lot of them (>8) at once at some point. Having this in core means that you can easily optimize parts of your game without needing to install an add-on for each project that needs it, and you don't have to do whole implementation of it yourself each time.",
+    "format": "form",
+    "workaround": "If this isn't used often, for whatever reason, another approach is to just use some of the bit manipulation logic I used above directly on a `PackedByteArray`:\n```gdscript\n# Get bit\nfunc get_bit(data: PackedByteArray, index: int) -> bool: \n\tif (index < 0 or index > len(data) * 8 - 1) or len(data) == 0): return\n\t\n\t# Get the value directly\n\treturn bool(data[index / 8] & 1 << (index % 8))\n\n# Set bit\nfunc set_bit(data: PackedByteArray, index: int, new_value: bool) -> void:\n\tif (index < 0 or index > len(data) * 8 - 1) or len(data) == 0): return\n\t\n\t# Mask out the value and set it\n\tvar mask = 1 << (index % 8)\n\tif value: data[index / 8] |= mask\n\telse: data[index / 8] &= ~mask\n```\nThis approach works fine as well, but it is much less straightforward as an Array since it requires you to manually control the size of `data` in order to use it properly, which is what by `BitArray` class automates. A proper implementation of this in the engine code will do the same thing."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-04T13:06:46Z",
+  "comments": 7,
+  "createdAt": "2024-07-01T22:21:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10089,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for a BitArray/PackedBoolArray data type for storing a large amount of bools in a small amount of space",
+  "up": 0,
+  "updatedAt": "2024-07-04T13:08:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10089"
+}

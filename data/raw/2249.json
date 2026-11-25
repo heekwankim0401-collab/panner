@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a Basic function that Godot currently doesn't have, and any addons would probably have to resolve it in some rather hacky ways",
+    "format": "markdown",
+    "workaround": "Yes, by using blender and exporting the primitives from there, but it's not a very fast and efficient method (compared to just having the option to do the conversion)"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-20T13:04:08Z",
+  "comments": 14,
+  "createdAt": "2021-02-05T16:19:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2249,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to create ArrayMesh from any Mesh resource",
+  "up": 7,
+  "updatedAt": "2023-07-20T13:04:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2249"
+}

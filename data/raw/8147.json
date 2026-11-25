@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is very much in the similar vein as the above mentioned PRs\nhttps://github.com/godotengine/godot/pull/77533\nhttps://github.com/godotengine/godot/pull/78803\nand is very much and improvement to the core importer!",
+    "format": "form",
+    "workaround": "I don't think it can be worked around with scripts. \n\nMy example is of course just one example of many many many that this can be used for."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-16T13:47:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 8147,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose node \"group\" setting to the nodes in the import window",
+  "up": 4,
+  "updatedAt": "2023-10-16T15:54:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8147"
+}

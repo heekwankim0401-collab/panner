@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Due to its very nature this is about the development process behind the Godot Core.",
+    "format": "legacy",
+    "workaround": "n/a"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 24,
+  "createdAt": "2020-09-30T11:38:19Z",
+  "down": 6,
+  "labels": [
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 1586,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Require contributors to write unit tests for pull requests",
+  "up": 10,
+  "updatedAt": "2021-05-06T22:01:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1586"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a part of internal editor logic.",
+    "format": "legacy",
+    "workaround": "No, it's not a part of user space."
+  },
+  "assignees": 0,
+  "closedAt": "2019-12-06T12:32:40Z",
+  "comments": 6,
+  "createdAt": "2019-12-04T11:53:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 283,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Folded state in Node tree should not be stored in .tscn",
+  "up": 4,
+  "updatedAt": "2019-12-08T13:32:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/283"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "legacy",
+    "workaround": "This feature might be doable with a custom shader, but it will require you to override the default shader to benefit from it. This will make interpolation more difficult to reuse in a project, especially if you have other custom shaders to apply on top.\n\nYou could also interpolate the flipbook manually in an image editor, but this will increase memory and storage requirements (on top of requiring manual work if you're not versed with ImageMagick or similar). Also, even if you interpolate to 60 FPS, it will never look completely smooth on high refresh rate monitors."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-10-08T20:11:23Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 1636,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a frame interpolation option for particle flipbook animation",
+  "up": 9,
+  "updatedAt": "2022-02-01T22:07:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1636"
+}

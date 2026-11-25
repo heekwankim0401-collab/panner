@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is native editor behavior",
+    "format": "form",
+    "workaround": "No, it is native editor behavior"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-30T13:03:48Z",
+  "comments": 2,
+  "createdAt": "2024-10-29T15:16:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11046,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Animation panel: extend selection rectangle from the initial corner when mouse scrolling during multi-key drag selection, instead of moving the rectangle origin",
+  "up": 0,
+  "updatedAt": "2024-10-30T15:25:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11046"
+}

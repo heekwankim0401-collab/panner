@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a core engine usability feature.",
+    "format": "markdown",
+    "workaround": "This is core to the engine and cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-18T18:39:18Z",
+  "comments": 7,
+  "createdAt": "2021-03-22T18:06:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2493,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add thumbnails for 3D scenes to the FileSystem dock",
+  "up": 3,
+  "updatedAt": "2021-08-18T18:39:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2493"
+}

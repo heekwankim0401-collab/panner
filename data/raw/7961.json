@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core",
+    "format": "form",
+    "workaround": "These are qol methods and can be worked around but not very convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-02T15:23:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7961,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `max_custom` and `min_custom` functions to `Array`",
+  "up": 1,
+  "updatedAt": "2023-10-03T03:50:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7961"
+}

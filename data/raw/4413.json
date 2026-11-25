@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AFAIK cannot be an addon.",
+    "format": "form",
+    "workaround": "You can change the mode at run-time but not really during launch as proposed.\n`DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_EXCLUSIVE_FULLSCREEN)`"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-21T16:56:53Z",
+  "comments": 5,
+  "createdAt": "2022-04-17T12:58:30Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 4413,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a project setting to enable exclusive fullscreen on Windows",
+  "up": 0,
+  "updatedAt": "2022-09-21T16:56:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4413"
+}

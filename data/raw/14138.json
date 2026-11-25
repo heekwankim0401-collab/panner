@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be core because as an editor in the front end it feels inconsistent to have windows close, and it's a fairly integral part being in the dock window area. For most of my needs there should only be one Sprite Frames window, and I need to cross-reference it very often with other items, such as other nodes or the Animation Player. Aside from the floating I demonstrated in the video, it's been an issue for multiple 4.x versions.",
+    "format": "form",
+    "workaround": "Maybe a tool button that auto-selects the highest AnimatedSprite node?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-02-03T07:27:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14138,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow SpriteFrames dock window to pin and not close when selecting other nodes",
+  "up": 0,
+  "updatedAt": "2026-02-03T23:23:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14138"
+}

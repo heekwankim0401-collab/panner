@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, this method uses internal methods to retrieve a list of unsaved scenes.",
+    "format": "form",
+    "workaround": "As far as I know, there is no current workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-23T18:09:32Z",
+  "comments": 1,
+  "createdAt": "2025-12-08T19:25:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.7",
+  "number": 13813,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create `EditorInterface::get_unsaved_scenes()`",
+  "up": 4,
+  "updatedAt": "2026-02-23T18:09:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13813"
+}

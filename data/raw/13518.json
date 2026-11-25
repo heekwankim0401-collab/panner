@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a very small change that would make a very big difference when testing libraries in gdextension, would make it much faster and enjoyable.",
+    "format": "form",
+    "workaround": "just have a variable that stores the current editor library to use, instead of hardcoding it to platform.debug.\nin the drop down menu you just scan the .gdextension file and show every library compatible with the system"
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-09T07:11:58Z",
+  "comments": 3,
+  "createdAt": "2025-10-31T09:32:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 13518,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a GUI to edit `.gdextension` files",
+  "up": 0,
+  "updatedAt": "2026-04-09T07:11:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13518"
+}

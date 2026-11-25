@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about the project manager, so it can't be an add-on in the asset library.",
+    "format": "legacy",
+    "workaround": "It can be worked around by creating the project elsewhere, then closing Godot, then copying the files to the desired location, then opening Godot and browsing to the new location."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-16T09:19:08Z",
+  "comments": 1,
+  "createdAt": "2020-11-12T03:04:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1811,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow creating projects in non-empty folders with a confirmation popup",
+  "up": 7,
+  "updatedAt": "2020-11-16T09:19:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1811"
+}

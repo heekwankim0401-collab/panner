@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There is no way for an external library to control render order",
+    "format": "form",
+    "workaround": "There is currently no work around for this I have tried creation order and forcing bounding boxes and all existing methods like render priority and sort offset have problems with interacting with the scene around them"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-04-11T03:58:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12214,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add RenderingServer methods to control transparency sorting of instance groups",
+  "up": 0,
+  "updatedAt": "2025-04-11T22:36:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12214"
+}

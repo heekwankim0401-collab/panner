@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This improves the usage of export variables in C# by reducing the restrictions placed on them, and isn't a major change to how they operate.",
+    "format": "form",
+    "workaround": "This can be worked around simply by not marking values as readonly. Alternatively, custom setters could be written to only allow values to be written once when export variables are applied."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-21T21:00:59Z",
+  "comments": 5,
+  "createdAt": "2023-11-23T06:26:40Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8502,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "C#: Allow read-only fields and properties to be export variables",
+  "up": 29,
+  "updatedAt": "2025-07-28T17:09:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8502"
+}

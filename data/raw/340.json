@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know that I'm qualified enough to state with certainty whether this particular feature could be implemented as a plugin or not. That being said, I feel as though the indexing of properties for animation purposes is something baked into the core of Godot and would certainly make sense to be implemented in the core.",
+    "format": "legacy",
+    "workaround": "As stated above, this can be worked around but leads to a disjointed and clunky workflow when animating things that contain both visual and aural elements/effects that change over time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2019-12-28T11:43:11Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 340,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add animation/keyframe support for Audio Bus / Audio Effects",
+  "up": 13,
+  "updatedAt": "2022-06-13T21:13:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/340"
+}

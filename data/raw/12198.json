@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`ShaderMaterial.set_shader_parameter()` is core.",
+    "format": "form",
+    "workaround": "You could pass in the properly typed values and pass `0.0` instead of `0` when its supposed to be a `float`, but dumb mistakes happen all the time and I spent a good amount of time debugging this issue. This would fall in line to how GDScript itself works, letting you pass `int` when a `float` is expected.\n\nFor the type checking, you could keep another copy of the parameters you pass to a `ShaderMaterial` and check if the types match whenever you call `set_shader_parameter()`, but that is a bit clunky and requires duplicating every shader uniform."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-04-09T02:23:30Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 12198,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `int`/`float` implicit type conversion and type checking to `ShaderMaterial.set_shader_parameter()`",
+  "up": 5,
+  "updatedAt": "2025-04-09T04:46:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12198"
+}

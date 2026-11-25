@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "because we will use it while making the plugins themselves and there's no docs or auto-completion and even we cant use them as type-hints in `gdscript`",
+    "format": "form",
+    "workaround": "for Plugins Creators who wants to access the 2d and the 3d editors then surely yes"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-19T02:26:45Z",
+  "comments": 3,
+  "createdAt": "2022-01-26T02:38:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3868,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add CanvasItemEditor and SpatialEditor to the docs for EditorPlugins usage",
+  "up": 0,
+  "updatedAt": "2024-09-20T15:26:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3868"
+}

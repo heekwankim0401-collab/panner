@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature should have been there from the beginning",
+    "format": "form",
+    "workaround": "If you do it through code, it will be very long and very inconvenient"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2022-05-31T01:35:13Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 4607,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Modify newly generated custom shaders on AnimatedSprite3D to preserve built-in spritesheet animation",
+  "up": 22,
+  "updatedAt": "2025-06-14T18:14:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4607"
+}

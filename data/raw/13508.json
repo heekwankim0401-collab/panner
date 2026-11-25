@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is not a issue exclusive to buttons. Every control-based node face the same issue, HSliders, VScrollBars, FoldableContainers, Fixing them all for a game would be very time consuming and could potentially bring many issues as optimization, lack of highlightning the node, etc.\n\n(Another reference to the static motion system):\nhttps://github.com/user-attachments/assets/ea88bef5-47fd-4b32-80b1-5d3896fcd9ab",
+    "format": "form",
+    "workaround": "I don't know exactly. But it shouldn't be too hard, i suppose."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-29T17:09:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 13508,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"Static Motion\" mode for Control objects that works like a button/Slider/Etc",
+  "up": 0,
+  "updatedAt": "2025-10-30T02:02:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13508"
+}

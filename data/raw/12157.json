@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. This is fundamentally a language-level improvement. It involves syntax (decorators), variable tracking, and internal signal binding behavior. While some approximation can be done via an addon, true value comes from tight integration with the GDScript parser and engine runtime. Making it native enables optimal performance and native editor tooling (autocompletion, validation, etc.).",
+    "format": "form",
+    "workaround": "Yes, it can be approximated using custom setters and manual signal management, but it requires boilerplate, introduces more room for error, and lacks elegance and modularity. Making this native improves readability, scalability, and developer productivity."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-04-05T09:30:05Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12157,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add reactive variables and derived signals to GDScript",
+  "up": 3,
+  "updatedAt": "2025-04-06T20:53:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12157"
+}

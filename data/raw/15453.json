@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-07T15:34:12Z",
+  "comments": 1,
+  "createdAt": "2026-08-28T23:46:03Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:plugin"
+  ],
+  "milestone": "4.8",
+  "number": 15453,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add access for instance properties and fields on JavaObject",
+  "up": 0,
+  "updatedAt": "2026-09-07T15:34:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15453"
+}

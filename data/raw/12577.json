@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This limitation is hard-coded into the engine.",
+    "format": "form",
+    "workaround": "No. This limitation is hard-coded into the engine. You would have to clone the engine, increase the hard-coded limit within the renderer your project is using, and recompile it.\n\nhttps://github.com/user-attachments/assets/adf08450-2949-410a-8cca-61ed1b1abc98"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-06-10T00:03:42Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12577,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove limitation for / allow max number of lightmaps in scene to be changed in project settings",
+  "up": 8,
+  "updatedAt": "2026-02-16T19:12:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12577"
+}

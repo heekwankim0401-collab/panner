@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the editor. Editor settings like the code editor used should ideally persist between game projects, something an addon cannot achieve right now.",
+    "format": "form",
+    "workaround": "This cannot be worked around with a few lines of script, as it would likely need various C++ APIs that are not available from the GDscript side. A GDExtension could be used, but since this affects the editor and should ideally persist between projects, a GDExtension is not ideal (Also, the editor would be applied for all contributors!)"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-12T04:26:41Z",
+  "comments": 7,
+  "createdAt": "2025-09-07T17:21:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13140,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for embedding custom code editors within the main Godot editor",
+  "up": 1,
+  "updatedAt": "2025-12-12T14:10:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13140"
+}

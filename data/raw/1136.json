@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "With no warning about the potential lag caused by having 'Auto Switch To Remote Scene Tree' enabled, this could make a lot of people think that they have an optimization problem when they don't.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-17T19:06:59Z",
+  "comments": 1,
+  "createdAt": "2020-06-28T23:03:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 1136,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add warning for 'Auto Switch To Remote Scene Tree' setting",
+  "up": 0,
+  "updatedAt": "2024-09-17T19:07:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1136"
+}

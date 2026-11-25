@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a general purpose feature.",
+    "format": "form",
+    "workaround": "It is not an easy to implement feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-18T10:26:15Z",
+  "comments": 14,
+  "createdAt": "2022-06-03T03:12:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.3",
+  "number": 4619,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow controlling fog intensity with traditional start/end distance and curve in Godot 4",
+  "up": 18,
+  "updatedAt": "2024-02-20T05:22:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4619"
+}

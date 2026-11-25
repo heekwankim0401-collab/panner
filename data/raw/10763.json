@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If you could change the Callable Editor Property viewer with an addon, you may as well just add it directly into the codebase.",
+    "format": "form",
+    "workaround": "It's obscenely annoying to work around this. For starters, we can't get a bird's eye view of Callables like we can with references and primitives, so to get a full grasp of something, we have to\n- print both the function's name and arguments to get its full signature and expected context, or\n- let it run, crash, and see what's going on in the stack trace. (Which only works for things that we already called)\n\nDivorcing inspector previewing of Callables from its actual runtime would help improve building and debugging functional programming oriented, and bring it closer to par with data/primitives, even if we can't literally set things in the inspector.\n\nIf Godot's not capable of Callables being fetched by the inspector during debugging for one reason or another, then this would be a good reason why they should be. I must also stress that functional programming has excellent potential in building more flexible and powerful codebases with less code, and having the tooling to support functional techniques only makes Godot better prepared as the general programming paradigms start integrating its practices in. Godot's already been adapting to it, after all, so this relatively small enhancement would add a lot of debugging assistance as \"callables visible in inspector\" become more prevalent."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-16T21:53:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10763,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display meaningful Callable previews in inspector",
+  "up": 6,
+  "updatedAt": "2024-09-18T15:53:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10763"
+}

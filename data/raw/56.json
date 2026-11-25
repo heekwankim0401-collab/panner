@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "legacy",
+    "workaround": "I think just about everyone will be very pleased with this addition; however, in the meantime, it's not too bothersome to avoid the issue.  Instead I'll give my class an `id: String` property and loop through an array.  I assume this isn't as efficient as using dictionaries, but I likely won't notice a real performance hitch.  Nonetheless, it's a shame exported dictionaries can't be more useful.\n\nhttps://github.com/godotengine/godot/issues/25157"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-06T20:58:58Z",
+  "comments": 95,
+  "createdAt": "2019-09-10T20:06:43Z",
+  "down": 2,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.4",
+  "number": 56,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add static type hints for dictionary members",
+  "up": 648,
+  "updatedAt": "2025-01-15T19:52:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/56"
+}

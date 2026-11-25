@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It cannot be done with plugins, obviously.",
+    "format": "form",
+    "workaround": "I could not find a way around it. You just have to manually change every export template one by one."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-22T18:23:43Z",
+  "comments": 6,
+  "createdAt": "2023-10-21T20:09:13Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8221,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to change export options from a plugin / ability to put project settings as export options",
+  "up": 0,
+  "updatedAt": "2023-10-22T18:24:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8221"
+}

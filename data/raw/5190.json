@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-30T12:47:43Z",
+  "comments": 1,
+  "createdAt": "2022-08-17T18:55:36Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 5190,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename CanvasItem's `update()` to `redraw()` for Godot 4",
+  "up": 15,
+  "updatedAt": "2022-08-30T12:47:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5190"
+}

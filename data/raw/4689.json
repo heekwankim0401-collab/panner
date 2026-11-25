@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It modifies a core TileMap feature to solve a regression in functionality from 3.x",
+    "format": "form",
+    "workaround": "I think it would be useful to many people using TileMap terrains. Can't be worked around too well in most cases, too."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-06-18T13:42:58Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4689,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow multiple terrain types as a tile's peering bits",
+  "up": 16,
+  "updatedAt": "2023-01-31T07:22:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4689"
+}

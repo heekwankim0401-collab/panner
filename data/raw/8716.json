@@ -1,0 +1,28 @@
+{
+  "answers": {
+    "core": "For Educational and Creative purposes Godot users should have the ability to use a Webcam within the Godot environment as described in the documentation.",
+    "format": "form",
+    "workaround": "No current workarounds to my knowledge."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-23T16:33:15Z",
+  "comments": 1,
+  "createdAt": "2023-12-23T12:03:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "platform:linuxbsd",
+    "platform:web",
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 8716,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add camera support on Windows and Linux",
+  "up": 4,
+  "updatedAt": "2023-12-23T16:33:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8716"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Edited: Could be done by a plugin but makes more sense to have it on core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-07-07T23:07:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2958,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add selection to undo stack",
+  "up": 8,
+  "updatedAt": "2026-07-04T12:18:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2958"
+}

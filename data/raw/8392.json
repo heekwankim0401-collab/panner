@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Integrating this feature directly into the core of Godot would ensure a smoother, more efficient workflow for all developers working with polygon shapes. An add-on might not be able to offer the same level of integration and ease of use, and having this as a core feature would make it more accessible, especially for new or less technically inclined users.",
+    "format": "form",
+    "workaround": "While it may be possible to create a script or an editor plugin for this purpose, it would probably be complex and not as seamlessly integrated as a native feature. Additionally, this functionality is likely to be broadly useful for a wide range of projects, making it a valuable addition to the core Godot engine."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-10T17:14:15Z",
+  "comments": 1,
+  "createdAt": "2023-11-10T15:32:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8392,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enhanced Polygon Editing: Multi-Point Selection and Modification in Godot",
+  "up": 0,
+  "updatedAt": "2023-11-10T17:14:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8392"
+}

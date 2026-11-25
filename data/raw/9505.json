@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- This is a modification to the API of an existing class.\n- I expect that undesirable leaks are very common with the current implementation of ResourceLoader, as there isn't a natural way to avoid them.",
+    "format": "form",
+    "workaround": "I see ways to work around this, but do not believe any of those are desirable or reasonable solutions to lacking this functionality in the official implementation.\n\nFirstly, many users are not likely to realize this leak exists in the first place, so won't know to avoid it. The documentation does not indicate that a resource that is requested but not picked up by a `load_threaded_get` call will be held indefinitely as a leak.\n\nSecondly, any ad hoc workaround based on keeping the requesting node around until a request completes and `load_threaded_get` is called is a bit cumbersome, unnatural, and error prone.  Simply calling `change_scene_to_packed` while such a node exists in the current scene is enough to cause this issue.\n\nThirdly, any more systemic workaround based on wrapping the ResourceLoader in something like a custom LeaksafeResourceLoader autoload that manages the requests and ensures the correct number of gets is always called (while managing its own equivalent of LoadTokens in a way that allows this cancellation) seems like it shouldn't be necessary given a complete implementation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-11T22:06:38Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9505,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Avoid leaking resources in ResourceLoader if they are not picked up by the requester",
+  "up": 4,
+  "updatedAt": "2024-10-03T22:23:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9505"
+}

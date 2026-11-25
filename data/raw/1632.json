@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe one has to rewrite/adapt the `ResourceLoader` and the import mechanism for this to work, which is pretty core.\n\nI believe implementing this proposal could solve a lot of reported issues, and even some specific loading functions could be unexposed that way.",
+    "format": "markdown",
+    "workaround": "Currently, you have to use `File` and various `load()`, `load_from_file()`, `load_from_buffer()` exposed methods scattered in various classes like `Image`, `AudioStreamSample` to replicate the import process to some degree (difficult to account for various peculiarities inherent to parsing files), so none of those existing methods provide a way to import those resources ***exactly*** like in the editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 50,
+  "createdAt": "2020-10-08T14:10:56Z",
+  "down": 1,
+  "labels": [
+    "topic:core",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1632,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to import and load external assets at run-time (in exported projects, without extra PCK files)",
+  "up": 143,
+  "updatedAt": "2024-08-04T14:10:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1632"
+}

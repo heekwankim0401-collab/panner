@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal regulates how path prefixes are handled. It makes future code maintainence easier, since more and more file prefixes are adding in, like mem:// and csharp://.\nThis proposal also is a prerequisite for the resource mounting stack described above.",
+    "format": "form",
+    "workaround": "It can, but this proposal regulates how path prefixes are handled. It makes future code maintainence easier, since more and more file prefixes are adding in, like mem:// and csharp://."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-10-26T06:09:45Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11032,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a FileSystemProtocol to handle the path prefixes instead of doing it hard-coded in FileAccess",
+  "up": 6,
+  "updatedAt": "2024-10-27T09:00:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11032"
+}

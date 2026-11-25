@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "For a game engine that's trying to support two different programming languages, I just find it weird that Animation Tree State Machine Advance Expressions can only be written in GDScript. It just alienates people who only use C# (i.e. people from Unity, people with prior C# knowledge). If you're going to support two languages, might as well go all the way, right?",
+    "format": "form",
+    "workaround": "Yes, workarounds are possible. I've been told that there are functions for GDScript scripts to interface with the C# scripts and vice versa. I could try to access my C# variables using those functions within the Advance Expressions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-12-30T08:57:06Z",
+  "down": 3,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 13931,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Please allow us to write Animation Tree State Machine Advance Expressions in C#",
+  "up": 0,
+  "updatedAt": "2025-12-31T15:55:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13931"
+}

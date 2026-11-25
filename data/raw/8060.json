@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about sensible defaults.",
+    "format": "form",
+    "workaround": "You can change the shortcut itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-10-10T13:25:53Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8060,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Revert code duplication shortcut to Ctrl+D",
+  "up": 10,
+  "updatedAt": "2023-10-14T22:13:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8060"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves the user experience with Resources by a lot (imo)",
+    "format": "legacy",
+    "workaround": "The feature proposal: https://github.com/godotengine/godot-proposals/issues/18 might help to limit this by a lot for most of my cases, but i still think its much better for everyone if the resource context got improved in its useability."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-15T14:01:29Z",
+  "comments": 5,
+  "createdAt": "2020-05-15T12:00:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 842,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve Resource-Creation context in inspector",
+  "up": 0,
+  "updatedAt": "2020-05-16T06:12:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/842"
+}

@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "It's tied directly to a core function of the AnimatedSprite2D.",
+    "format": "form",
+    "workaround": "Changing the fps is done every time an AnimatedSprite2D is used, I don't see any reason why it would need to be a script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-21T15:04:54Z",
+  "comments": 3,
+  "createdAt": "2025-07-21T04:57:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12820,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Set default animation speed for AnimatedSprite2D",
+  "up": 2,
+  "updatedAt": "2025-07-21T15:04:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12820"
+}

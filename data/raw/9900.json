@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It seems to me that this should be implemented in the editor.",
+    "format": "form",
+    "workaround": "I think it is not possible"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2024-06-06T08:40:44Z",
+  "down": 4,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9900,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Disable the 2D ruler by default",
+  "up": 0,
+  "updatedAt": "2024-06-11T16:34:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9900"
+}

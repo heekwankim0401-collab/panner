@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This behavior is hardcoded in the editor.",
+    "format": "form",
+    "workaround": "There is no setting to control it."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-02T14:54:18Z",
+  "comments": 0,
+  "createdAt": "2024-11-11T12:20:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 11134,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add setting to stop the Debugger panel from switching to the Stack Trace",
+  "up": 2,
+  "updatedAt": "2024-12-02T14:54:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11134"
+}

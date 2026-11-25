@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feels in line with current implementation of anchor preset.  Often, you will want to sync anchor preset with pivot offset. Having similar interface feels crucial.",
+    "format": "form",
+    "workaround": "This can be achieved by few lines of scripts, but the point of the proposal IS to remove the need to add script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-11-15T01:51:23Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8435,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Pivot Offset presets to Control nodes. ",
+  "up": 12,
+  "updatedAt": "2023-11-15T11:05:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8435"
+}

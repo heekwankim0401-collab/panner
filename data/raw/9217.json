@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot be an add-on, as it requires a modification to the way GDScript itself is implemented.",
+    "format": "form",
+    "workaround": "When it's necessary to specify that a variable contains no value, a way to flag that without using nullable types is to either maintain a parallel variable indicating the value is not valid or picking a specific value that is understood to mean the value is invalid. This, in my opinion, increases code complexity and makes it more prone to errors."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-02T16:41:52Z",
+  "comments": 2,
+  "createdAt": "2024-03-02T07:49:57Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 9217,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Nullable static types",
+  "up": 0,
+  "updatedAt": "2024-03-02T16:41:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9217"
+}

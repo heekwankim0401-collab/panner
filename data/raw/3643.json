@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This significantly improves the current state of shadows in Vulkan. As of `v4.0.dev.calinou [c1ed695f3]`, the lighting and shadows don't work as intended, but from screenshots that I have seen, the Vulkan shadows could really get some upgrades. There is a lot of dithering and soft shadows are extremely grainy. Additionally, adding such feature via an add-on might be impossible and or severely impact performance.",
+    "format": "form",
+    "workaround": "No. This feature is not simple enough to be implemented with only a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-07T22:49:13Z",
+  "comments": 4,
+  "createdAt": "2021-12-07T21:54:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3643,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Contact hardening soft shadows / Percentage-Closer Soft Shadows",
+  "up": 0,
+  "updatedAt": "2021-12-08T00:16:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3643"
+}

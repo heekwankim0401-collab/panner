@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Arrays are core, we all use them",
+    "format": "form",
+    "workaround": "Can't be worked around and arrays are used a lot"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-01-16T02:07:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8894,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make tab cycle vertically through array elements in the editor inspector",
+  "up": 2,
+  "updatedAt": "2024-01-18T11:21:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8894"
+}

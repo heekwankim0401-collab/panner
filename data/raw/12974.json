@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. Rhythm, dance, and music-synced games are a popular genre made with Godot, and precise beat-based animation editing is a core need for them. While an add-on could provide some functionality, only a built-in solution can integrate seamlessly with AnimationPlayer’s UI, snapping, and marker system. This would ensure consistent usability, performance, and accessibility for all users without requiring them to install external tools.",
+    "format": "form",
+    "workaround": "It can be partially worked around by writing scripts that convert BPM to seconds and then manually placing keyframes at those positions. However, this is not efficient, requires constant recalculation when adjusting BPM or time signatures, and does not provide visual beat markers in the AnimationPlayer editor. The lack of an integrated visual workflow makes precise alignment more difficult and error-prone, especially for complex or long music-based animations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-08-10T05:22:54Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 12974,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add marker/BPM-based AnimationPlayer time format",
+  "up": 13,
+  "updatedAt": "2026-06-02T00:20:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12974"
+}

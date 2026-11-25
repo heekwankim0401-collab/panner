@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "coar",
+    "format": "form",
+    "workaround": "Can be worked around by adding a `class_name`."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-03T16:00:04Z",
+  "comments": 14,
+  "createdAt": "2022-12-02T00:14:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 5886,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make @icon work on non classy scripts.",
+  "up": 2,
+  "updatedAt": "2026-08-03T16:00:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5886"
+}

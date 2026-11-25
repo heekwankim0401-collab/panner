@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it would be a pretty typical use of `@export_flags`, seems a waste for it to be implemented without having this functionality.",
+    "format": "form",
+    "workaround": "I think it will be used quite often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-10-06T19:47:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3395,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using a variable of type `Array[String]` as an argument to `@export_flags()`",
+  "up": 0,
+  "updatedAt": "2024-06-23T21:29:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3395"
+}

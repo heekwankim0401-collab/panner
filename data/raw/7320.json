@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is important to distinguish when a button is enabled or not, no matter if it is focused.",
+    "format": "form",
+    "workaround": "I assume it could be done."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-07-18T14:32:44Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7320,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Different style for disabled focused button",
+  "up": 4,
+  "updatedAt": "2025-09-13T15:55:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7320"
+}

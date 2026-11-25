@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Intuitive workflow. Easy to implement. Shouldn't change current code as if someone needs to add_child and don't do anything with node itself, he discards return value.",
+    "format": "form",
+    "workaround": "Just as I do right now, create node in one line, add_child in second."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-03-16T08:58:06Z",
+  "down": 1,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9309,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make add_child return reference to Node it adds",
+  "up": 1,
+  "updatedAt": "2024-03-16T15:03:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9309"
+}

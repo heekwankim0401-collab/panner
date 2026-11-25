@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The main use case would be for tools to help users set up projects, downloading an additional add-on just to assist with that seems like overkill, plus the add-on would most likely be unused after setting up a project.",
+    "format": "form",
+    "workaround": "It requires quite a bit of code to do a manual workaround, take a look at the methods [`open_asset_library()`](https://github.com/GodotVR/godot_openxr_vendors/blob/eadac11d90af84e530db3964446e2a3ffb2ef0e5/plugin/src/main/cpp/editor_plugin.cpp#L113), [`open_project_settings()`](https://github.com/GodotVR/godot_openxr_vendors/blob/eadac11d90af84e530db3964446e2a3ffb2ef0e5/plugin/src/main/cpp/editor_plugin.cpp#L176), and [`open_export_dialog()`](https://github.com/GodotVR/godot_openxr_vendors/blob/eadac11d90af84e530db3964446e2a3ffb2ef0e5/plugin/src/main/cpp/editor_plugin.cpp#L247) in the current implementation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-25T15:48:09Z",
+  "down": 0,
+  "labels": [
+    "topic:assetlib",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 13702,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods for easier access to project settings, export dialog, and asset library",
+  "up": 2,
+  "updatedAt": "2025-11-25T15:49:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13702"
+}

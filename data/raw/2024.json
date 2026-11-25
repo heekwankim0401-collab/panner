@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "If such things were possible to implement with an addon, this wouldn't have been a problem in the first place. :)",
+    "format": "markdown",
+    "workaround": "We can create \"Settings\" dialogs in each plugin, and find a way to let the user find them easily, while the user is not even intuitively aware that there are more settings than in the editor settings menu. Then we have to code a shortcut picker, which has no way to detect clashes with other registered shortcuts. This is more then \"a few lines\", but it's possible."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-14T20:28:38Z",
+  "comments": 14,
+  "createdAt": "2020-12-26T03:22:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.6",
+  "number": 2024,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow plugins to register shortcuts in the editor menu",
+  "up": 44,
+  "updatedAt": "2025-11-14T20:30:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2024"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Dragging image files into the 2D editor is core and can't be modified by an add-on.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-02-03T23:29:15Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3912,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Snap Sprite preview when dragging image file into 2D editor",
+  "up": 5,
+  "updatedAt": "2022-02-03T23:48:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3912"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Modulate is core so i think that its blending modes should be core too, but i'm not against an add-on.",
+    "format": "form",
+    "workaround": "I think blending modes would help achieving many little but common effects easily. \nIt is already possible to achieve this with shaders, but it can get clunky especially if the target already has a shader on it like in my case.\n\n EDIT:\ni forgot to say that modifying a parameter in a shader modifies all the sprites with the same shader unless i make it unique for each sprite."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-06T14:08:36Z",
+  "comments": 2,
+  "createdAt": "2021-06-06T11:16:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2834,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Modulate blending modes",
+  "up": 1,
+  "updatedAt": "2021-12-17T21:19:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2834"
+}

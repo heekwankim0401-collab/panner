@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the editor a little bit.",
+    "format": "form",
+    "workaround": "It's a quality-of-life improvement.\n\nI can force Godot to use addons from a different place, basically, this feature could make easier this."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-24T10:54:04Z",
+  "comments": 2,
+  "createdAt": "2023-02-24T10:41:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 6350,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Global and project based add-on handling",
+  "up": 0,
+  "updatedAt": "2023-02-24T16:16:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6350"
+}

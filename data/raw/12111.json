@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving default import usability",
+    "format": "form",
+    "workaround": "This can be done with a plugin but it is not at all convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-03-30T02:04:27Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12111,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose image downscaling algorithms in the import dock",
+  "up": 4,
+  "updatedAt": "2025-04-12T03:11:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12111"
+}

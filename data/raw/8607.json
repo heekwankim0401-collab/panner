@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is an essential usability feature for the editor since it impacts multitasking, power usage and gpu resource allocation (not to mention the unnecessary fan noise). I feel this should be available by default and an implementation outside the core may be prone to bugs, limitations and breaking.",
+    "format": "form",
+    "workaround": "It is a core part of the editor's rendering and I'm not aware if this is functionality exposed to editor extensions or if it would require recompilation. So for the vast majority of uses, this isn't something that can be worked around, since external fps limiting may work for some but not all, such as myself."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-08T02:22:49Z",
+  "comments": 8,
+  "createdAt": "2023-12-07T15:52:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8607,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow limiting editor 3D viewport fps",
+  "up": 6,
+  "updatedAt": "2023-12-08T13:24:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8607"
+}

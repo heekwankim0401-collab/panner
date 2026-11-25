@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It needs to directly modify the internal shaders and Multimesh logic",
+    "format": "form",
+    "workaround": "At the moment you could only at the most use a 2d transform which is still 8 words per-instance as apposed to the potential 4 with this change."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-09-25T20:04:27Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13271,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add MULTIMESH_TRANSFORM_SKIP to reduce memory usage",
+  "up": 0,
+  "updatedAt": "2025-09-26T23:19:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13271"
+}

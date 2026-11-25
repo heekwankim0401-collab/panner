@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be core so not only VR games use this, but also othet games for things such as racing, steering a car for example is another use case for the controller's gyroscope.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-20T20:33:53Z",
+  "comments": 1,
+  "createdAt": "2023-07-20T20:30:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 7342,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a function to get the controller orientation info.",
+  "up": 0,
+  "updatedAt": "2023-07-20T20:33:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7342"
+}

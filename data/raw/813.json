@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not possible to do as a library as far as I can figure.",
+    "format": "legacy",
+    "workaround": "Not possible."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2020-05-10T02:02:38Z",
+  "down": 0,
+  "labels": [
+    "topic:network",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 813,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for WebRTC MediaStreams for real-time voice chat",
+  "up": 27,
+  "updatedAt": "2022-10-26T04:19:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/813"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, since i dont remember any GDExtension plugin be able to know whenever `print()`, `push_warning()` or `push_error()` is called.",
+    "format": "form",
+    "workaround": "No, due to extended modification of existing code to work with the logging plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-07-19T12:41:08Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7328,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Logging to have a signal for any logging",
+  "up": 2,
+  "updatedAt": "2024-05-21T22:21:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7328"
+}

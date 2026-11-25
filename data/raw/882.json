@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is core functionallity.",
+    "format": "legacy",
+    "workaround": "This is used very often in Godot Mono."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-05-24T18:56:05Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 882,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Managed exception (from C#) should be printed to Output",
+  "up": 3,
+  "updatedAt": "2020-05-26T07:46:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/882"
+}

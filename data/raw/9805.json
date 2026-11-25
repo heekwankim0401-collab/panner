@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it would be consistent with the rest of the engine to have this sort of node. We currently have equivalents for almost any node between the 2D and 3D workflows, so transferring knowledge of the engine from one workflow to the other is very intuitive and simple. You don't have to relearn anything and most concepts apply across both modes.\n\nAdding this node would serve to make the two workflows even more similar and fix an annoying \"hole\" in the 3D capabilities of the engine that currently has to be worked around.",
+    "format": "form",
+    "workaround": "Not really - most solutions require the utilization of Viewports and ViewportTextures, which is time-intensive and non-intuitive compared to the simplicity of having a dedicated node, like Label3D.\n\nWhile this type of node isn't strictly necessary for any game, the same could technically be said about the normal RichTextLabel node."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 17,
+  "createdAt": "2024-05-22T17:51:09Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9805,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a RichTextLabel3D node",
+  "up": 29,
+  "updatedAt": "2025-09-20T00:33:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9805"
+}

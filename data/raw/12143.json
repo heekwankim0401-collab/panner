@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Ternary operator is a syntax-level feature. It affects how code is written and parsed, which can’t be handled by an external asset or plugin. Add-ons can't modify core language grammar or introduce new operators.",
+    "format": "form",
+    "workaround": "Workarounds:\n\n`variable = \"foo\" if is_active else \"bar\"`\n\n```\nvar variable\nif is_active:\n  variable = \"foo\"\nelse:\n  variable = \"bar\"\n```\n\nboth options are harder to read compared to a proper ternary, especially when chaining or nesting conditions. So while it’s technically possible to work around it, the current alternatives are more cluttered and break code flow"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-04T17:16:10Z",
+  "comments": 19,
+  "createdAt": "2025-04-02T15:03:18Z",
+  "down": 12,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12143,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a new ternary operator to complement the existing `... if ... else ...`",
+  "up": 10,
+  "updatedAt": "2026-09-17T13:18:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12143"
+}

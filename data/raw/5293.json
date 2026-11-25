@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "OS is a core class, and this feature would be used for another core feature.",
+    "format": "form",
+    "workaround": "This would need multiple workarounds, one for each supporting platform. They would also not be as portable as modifying the native API calls directly."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-23T19:10:58Z",
+  "comments": 2,
+  "createdAt": "2022-08-30T13:23:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5293,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow specifying environment variables for spawned processes",
+  "up": 0,
+  "updatedAt": "2022-11-23T19:13:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5293"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This facility would be widely useful for triggering custom logic based on setting tiles",
+    "format": "form",
+    "workaround": "I have spent time investigating and researching how this could otherwise be achieve and I couldn't find a way to do it"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-09-12T21:56:45Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5412,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Tilemap functionality that allows setting multiple layers at once",
+  "up": 0,
+  "updatedAt": "2022-09-25T11:27:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5412"
+}

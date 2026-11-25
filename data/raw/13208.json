@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core feature/QOL.",
+    "format": "form",
+    "workaround": "This seemed to be the best I could figure:\n```gdscript\nif (anim_player.current_animation_position > 0.0 && anim_player.current_animation_length - anim_player.current_animation_position > 0.1):\n```\n\nEdit: Looking at the engine code, both pause() and stop() call _stop_internal() and there's nothing that distinguishes a pause from a stop which is why there's no straightforward way to check if it was paused!"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-07T22:20:08Z",
+  "comments": 0,
+  "createdAt": "2025-09-18T04:08:19Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.6",
+  "number": 13208,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `is_paused()` method to AnimationPlayer",
+  "up": 4,
+  "updatedAt": "2025-10-07T22:20:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13208"
+}

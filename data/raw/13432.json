@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There is no reason why this *has* to be core. It could very well just be a static method provided by a library.\nHowever, if this were to be included in core we could bypass the need to instantiate a visual mesh just to convert a concave collision shape to convex collision shapes",
+    "format": "form",
+    "workaround": "Yes it can be worked around, but not with a \"few\" lines of script.\nBelow is code that goes through every collision shape within an `Area3D` and replaces all `ConcavePolygonShape3D` with `ConvexPolygonShape3D`.\nExcuse the large amount of indenting. I like using Godot Editor's type constricting using `is`, but it is really finicky.\n```gdscript\nextends Area3D\n\nfunc _ready() -> void:\n\tfor child in get_children():\n\t\tif child is CollisionShape3D:\n\t\t\tvar shape: Shape3D = child.shape\n\t\t\tif shape is ConcavePolygonShape3D:\n\t\t\t\tvar array: Array = []\n\t\t\t\tarray.resize(Mesh.ARRAY_MAX)\n\t\t\t\tarray[Mesh.ARRAY_VERTEX] = shape.get_faces()\n\t\t\t\tvar mesh: ArrayMesh = ArrayMesh.new()\n\t\t\t\tmesh.add_surface_from_arrays(Mesh.PRIMITIVE_TRIANGLES, array)\n\t\t\t\tvar mesh_instance := MeshInstance3D.new()\n\t\t\t\tmesh_instance.mesh = mesh\n\t\t\t\tmesh_instance.create_multiple_convex_collisions()\n\t\t\t\tvar static_body := mesh_instance.get_child(0)\n\t\t\t\tfor sub_child in static_body.get_children():\n\t\t\t\t\tstatic_body.remove_child(sub_child)\n\t\t\t\t\tchild.add_sibling(sub_child)\n\t\t\t\t\tsub_child.transform = child.transform\n\t\t\t\tremove_child(child)\n\t\t\t\tmesh_instance.free()\n\t\t\t\tchild.free()\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-20T20:31:48Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13432,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose a variation of `MeshInstance3D::create_multiple_convex_collisions` on `ConcavePolygonShape3D`",
+  "up": 0,
+  "updatedAt": "2025-10-21T15:26:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13432"
+}

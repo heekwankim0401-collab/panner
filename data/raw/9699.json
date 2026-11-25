@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A small QOL editor feature",
+    "format": "form",
+    "workaround": "Not in a few"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-21T09:24:10Z",
+  "comments": 3,
+  "createdAt": "2024-05-08T07:56:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9699,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create an `AudioStreamPlayer` when an `AudioStream` is dropped into the scene",
+  "up": 6,
+  "updatedAt": "2024-05-21T09:24:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9699"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "N/A (this is godot-cpp)",
+    "format": "form",
+    "workaround": "Only operator new can be overridden."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-02T21:32:53Z",
+  "comments": 0,
+  "createdAt": "2024-09-02T19:04:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10637,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "[godot-cpp] Use C++17's std::memory_resource to override how memory is allocated/deallocated by C++",
+  "up": 0,
+  "updatedAt": "2024-09-06T00:14:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10637"
+}

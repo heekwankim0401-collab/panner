@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is about changing build-time options for official editor and export template binaries.",
+    "format": "form",
+    "workaround": "No, as this is about changing build-time options for official editor and export template binaries."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-31T00:08:35Z",
+  "comments": 2,
+  "createdAt": "2022-02-08T22:24:34Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3932,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable SSE 4.2 in Embree to improve occlusion culling (and CPU lightmapper) performance",
+  "up": 16,
+  "updatedAt": "2025-05-31T00:08:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3932"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't know how deep an asset or plugin can dig into the core. Would it be possible to write a debugger for Godot as an add-on?\n\nIf so, that might be great because it would allow to have two or three such projects and then pick best of breed.",
+    "format": "form",
+    "workaround": "I was thinking about a function which allows to save local state but that would make the code messy since you would need it in a lot of places.\n\nAn interesting approach would be a function accepting a boolean which would create a test (using the local scope again) when the condition is true. That would make it much easier to select a local state."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-10-19T21:05:14Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 3448,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make it as easy as possible for game developers to unit test their games",
+  "up": 3,
+  "updatedAt": "2022-07-29T13:34:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3448"
+}

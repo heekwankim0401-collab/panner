@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "**PhysicsMaterial** is a core class.",
+    "format": "form",
+    "workaround": "Not really."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-06T13:52:41Z",
+  "comments": 4,
+  "createdAt": "2022-08-21T09:25:26Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5221,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Rename PhysicsMaterial to PhysicsSettings (or something else)",
+  "up": 3,
+  "updatedAt": "2022-09-06T13:52:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5221"
+}

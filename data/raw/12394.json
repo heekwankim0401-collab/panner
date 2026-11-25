@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is something that can be used by every dev that uses the Godot script editor, regardless of the game they're making.",
+    "format": "form",
+    "workaround": "I believe it will be used pretty often, especially if someone tends to use a lot of `@export` variables. Yes, you can instead just write the line manually and then attach the reference afterwards, but it takes a bit more time."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-20T18:47:30Z",
+  "comments": 1,
+  "createdAt": "2025-05-08T20:12:53Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12394,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add drag-and-drop to `@export` variables (similar to `@onready`)",
+  "up": 16,
+  "updatedAt": "2025-09-20T18:50:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12394"
+}

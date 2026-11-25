@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe everyone will benefit if it's in core system.",
+    "format": "form",
+    "workaround": "No. The boot splash occurs before user scripts and scenes are initialized. Any workaround requires showing a fake loading screen after the splash boot screen."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-20T22:28:20Z",
+  "comments": 2,
+  "createdAt": "2026-02-06T15:01:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14166,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Option to use a scene as the boot splash screen",
+  "up": 6,
+  "updatedAt": "2026-07-20T22:28:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14166"
+}

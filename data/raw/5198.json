@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving project debug-ability and troubleshooting. Let's make \"my code doesn't work\" moments a bit less frustrating :slightly_smiling_face:",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-05T07:00:34Z",
+  "comments": 2,
+  "createdAt": "2022-08-18T15:35:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 5198,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Tweak dictionary printing to avoid confusion with arrays",
+  "up": 9,
+  "updatedAt": "2022-10-05T07:00:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5198"
+}

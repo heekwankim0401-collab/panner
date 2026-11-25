@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Besides not being sure whether this could be implemented as an add-on, I think features like this greatly improve the add-ons that can be created avoiding nested dependencies and lowering the barrier towards making useful add-ons.",
+    "format": "form",
+    "workaround": "The first issue (the EditorInspector signals not bubbling) can be worked around in my specific case: I simply auto-update the UI every 100ms or so. However, this can be extremely resource intensive if the usecase requires updating more resource-intensive UI.\n\nThe second issue cannot be worked around without a lot of digging through the editor UI, which would be very inconvenient and could theoretically change in-between versions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-02-01T22:34:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14128,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improvements to EditorInspector",
+  "up": 2,
+  "updatedAt": "2026-03-09T11:29:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14128"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is not applicable to the scope of this request.",
+    "format": "legacy",
+    "workaround": "This enhancement will be used often, and the only workaround is to hard-code constants (such as TAU above) which does not promote good programming standards."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-23T20:21:32Z",
+  "comments": 3,
+  "createdAt": "2020-06-30T21:32:03Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 1147,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support expressions and constants in `export` ranges",
+  "up": 5,
+  "updatedAt": "2024-06-24T17:13:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1147"
+}

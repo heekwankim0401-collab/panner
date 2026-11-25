@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is no reason (that I can see) that a developer would ever want the extents to be negative, and allowing them leads to bugs.",
+    "format": "form",
+    "workaround": "It can be worked around by not making a mistake and setting the extents to negative values, but if it happens it can be very confusing."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-22T14:35:36Z",
+  "comments": 3,
+  "createdAt": "2021-08-14T10:21:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3136,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Throw an exception when shape extents are set to negative values",
+  "up": 0,
+  "updatedAt": "2022-02-22T14:35:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3136"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a feature which would improve the ability for developers to add subtitle systems to their games. Subtitles are a very basic, crucial element for game accessibility. Without subtitles, many games made with Godot are unplayable for anyone who is hard of hearing or deaf. This small change would open up worlds of possibility for accessibility features in games, not just limited to my personal subtitle addon project.",
+    "format": "form",
+    "workaround": "This enhancement can be reproduced through my already mentioned work-around, however, every single AudioStreamPlayer would be running the process function every frame. The other work-around is to make an extended script, but that would break the intention of the addon, which is to integrate with any custom AudioStreamPlayers which may be introduced with other addons, such as [Godot-SFXR](https://github.com/tomeyro/godot-sfxr), an addon which extends AudioStreamPlayer to produce new and interesting playback options."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2022-02-15T19:56:12Z",
+  "down": 2,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3977,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add AudioStreamPlayer \"play_start\" signal",
+  "up": 10,
+  "updatedAt": "2025-06-19T05:27:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3977"
+}

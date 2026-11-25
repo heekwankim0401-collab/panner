@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core feature of a GDScript function.",
+    "format": "form",
+    "workaround": "As said above, it can totally be worked around easily. But only if you know the math of how to do this. And if you do not know how to do it, it can take a while of googling before you know how to do it. Just like all of the other standard GDScript functions, they can easily be worked around with some simple math. But the whole point of them, is to make scripting user friendly, and easy to use. If you need to use a base, you should be allowed to do so, in the way that any user would expect.\n\nThis has been discussed [before](https://github.com/godotengine/godot/issues/9317), before it was closed due to moving from Godot 2 to Godot 3, but as far as I can see, hasn't been requested since. \n\nIn the above linked old issue, someone mentions adding such a feature would clutter the API. I cannot see how this would clutter significantly, nor how that would be a good argument to not improve the user experience, over what seems like a relatively simple expansion to a core math function."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-04-06T23:34:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6652,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an optional `base` argument to `log()`",
+  "up": 5,
+  "updatedAt": "2025-05-27T01:30:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6652"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this would be super beneficial to people that want to make modding a core part of their game while keeping gdscript as the language to be used without relying on imbedding another language in the engine. This way specific apis can be defined that can be interacted with in the game as well as disallow people from creating malicious code that will interact with the end users computer in a way outside of what the game intends.",
+    "format": "form",
+    "workaround": "atm i really font know how i could make a restriction like this with gdscript as every engine api is available in every script. The only other way i could do this is create my own custom language for the application or imbed a javascript/lua/whatever engine using c#/c++ and make a custom api from there"
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-15T16:17:06Z",
+  "comments": 3,
+  "createdAt": "2022-12-15T15:26:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5940,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement a sandbox node",
+  "up": 0,
+  "updatedAt": "2022-12-15T16:18:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5940"
+}

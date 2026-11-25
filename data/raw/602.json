@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is an [add-on already actually](https://godotengine.org/asset-library/asset/53), but it is old. In my opinion, programmers in general are used to task lists, so they expect this functionality when they arrive in a new system. The task list is like a basic feature, so I think it should not be relegated to be an add-on that you have to search for.",
+    "format": "legacy",
+    "workaround": "I think it will be used often, all the time actually."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-21T16:23:15Z",
+  "comments": 8,
+  "createdAt": "2020-03-19T16:05:51Z",
+  "down": 4,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 602,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement a task list (TODO list) in the editor",
+  "up": 5,
+  "updatedAt": "2022-07-21T16:23:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/602"
+}

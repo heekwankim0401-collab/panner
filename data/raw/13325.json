@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Tooltips are a core feature of the engine.",
+    "format": "form",
+    "workaround": "I am personally convinced that practically every project will want their own custom tooltips, even if that tooltip is just replacing the default `Label` with a `RichTextLabel`.\n\nThe workaround is described above in problem though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-10-02T23:35:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13325,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Custom tooltip project setting and Viewport-wide custom tooltip option",
+  "up": 16,
+  "updatedAt": "2025-10-03T23:07:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13325"
+}

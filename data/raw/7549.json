@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think giving the user the option to disable UI elements should be considered. Making the grid infinite, custom backgrounds and dragging/zoom smoothing are probably things that shouldn't be integrated into core but at least should not require messing with internal nodes. :)",
+    "format": "form",
+    "workaround": "Almost everything mentioned above is possible by messing with internal nodes. Haven't looked at dragging/zoom smoothing just yet."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-23T19:35:40Z",
+  "comments": 0,
+  "createdAt": "2023-08-23T19:07:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7549,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make GraphEdit more flexible",
+  "up": 0,
+  "updatedAt": "2023-08-23T21:01:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7549"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See the potential problem above. It might be preferable if global plugins is supported.",
+    "format": "form",
+    "workaround": "Overriding the locale should be simple. But I guess extra work needs to be done adapting the UI updates."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-11-27T09:15:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 13728,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow setting the language of builtin docs independently",
+  "up": 4,
+  "updatedAt": "2026-07-26T11:55:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13728"
+}

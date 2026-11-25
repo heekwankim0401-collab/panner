@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-26T13:40:11Z",
+  "comments": 3,
+  "createdAt": "2026-02-25T23:37:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14335,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a project setting for tuning VMA/D3D12MA preferred heap block size",
+  "up": 0,
+  "updatedAt": "2026-02-26T19:00:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14335"
+}

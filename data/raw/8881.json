@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an improvement to a core component, not really a separate feature.",
+    "format": "form",
+    "workaround": "You can work around the margin issue in some cases by prefixing items with whitespace, and the inability to put a stylebox on all items by adding a script to add a custom background for each item, but both of these solutions introduce needless complexity on the user side."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-01-14T21:53:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8881,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ItemList unselected_item stylebox",
+  "up": 5,
+  "updatedAt": "2024-02-14T23:58:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8881"
+}

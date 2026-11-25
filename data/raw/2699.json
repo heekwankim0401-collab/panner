@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It makes godot easier to use",
+    "format": "markdown",
+    "workaround": "It would be used a lot.\nalso I'm not sure but its not easy to do if it can be worked around"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T19:34:36Z",
+  "comments": 8,
+  "createdAt": "2021-05-08T19:17:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2699,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow passing in packed scene or node to variable as long as it has that script. also allow exporting it",
+  "up": 2,
+  "updatedAt": "2024-01-01T16:19:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2699"
+}

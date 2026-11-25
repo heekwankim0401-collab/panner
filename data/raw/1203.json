@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Unity has it although unity's version is editor only so it has its limitations\nIt also makes things alot easier to update and easier is always better as long as it doesn't sacrifice control which this doesn't",
+    "format": "legacy",
+    "workaround": "This would be very useful and would be used quite often especially if it worked exactly how I described.\nThis kinda can be worked around but requires either implementing a changed signal for every single property or updating everything in _process.\n\nhowever even with the changed signal way it doesn't update for non properties and both ways require a tool script to be used in the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T19:47:52Z",
+  "comments": 1,
+  "createdAt": "2020-07-15T23:45:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1203,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Validate signal and hook for Objects",
+  "up": 0,
+  "updatedAt": "2024-01-01T16:18:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1203"
+}

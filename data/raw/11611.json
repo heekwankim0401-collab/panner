@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This enhances the workflow with subviewports, improving the ability to visualize what will be displayed by the camera.",
+    "format": "form",
+    "workaround": "This can be achieved with a ReferenceRect that is replaced during when in-game. However, if the camera has functions that run like tool or animations, these also need to be added to the ReferenceRect to allow testing within the editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-01-19T20:10:19Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11611,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a property to change the Camera2D view rectangle gizmo's size",
+  "up": 0,
+  "updatedAt": "2025-01-20T03:13:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11611"
+}

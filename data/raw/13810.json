@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This functionality is internal to Godot",
+    "format": "form",
+    "workaround": "No, this functionality is internal to Godot"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-02T19:07:11Z",
+  "comments": 2,
+  "createdAt": "2025-12-08T16:13:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13810,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[HDR output] Add \"is manual luminance supported?\" methods",
+  "up": 0,
+  "updatedAt": "2026-02-02T22:48:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13810"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's about a core feature itself.",
+    "format": "markdown",
+    "workaround": "It's something internal, so no."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-04T11:22:39Z",
+  "comments": 2,
+  "createdAt": "2021-03-27T19:44:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2514,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the TabContainer node use Tabs internally, instead of its own implementation",
+  "up": 6,
+  "updatedAt": "2022-03-04T11:22:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2514"
+}

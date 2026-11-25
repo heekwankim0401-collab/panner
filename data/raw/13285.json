@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's parser & analyzer",
+    "format": "form",
+    "workaround": "Cannot be worked around"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-09-27T02:04:30Z",
+  "down": 7,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13285,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript: Add `@read_only` annotation for variables",
+  "up": 7,
+  "updatedAt": "2026-10-29T22:41:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13285"
+}

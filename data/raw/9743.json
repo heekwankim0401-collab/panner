@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Doing this as an add-on would require completely replacing Godot's built-in controls & themes with custom versions, and would remove the Godot-made-with-Godot dogfooding of Godot's own UI.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-05-14T16:09:54Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9743,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use a cascading style system for Control theming",
+  "up": 19,
+  "updatedAt": "2025-04-20T02:53:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9743"
+}

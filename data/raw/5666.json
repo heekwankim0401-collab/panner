@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This behavior changes the side effects when autoloads are enabled and disabled, which is core functionality.",
+    "format": "form",
+    "workaround": "This can be worked around by adding a different `class_name` to the script, but this is not ideal as the name the user would search for in the help viewer would be different from the name they would use in their scripts to interact with the autoload."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-10-28T00:22:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 5666,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Autoloads to appear in the built in help viewer",
+  "up": 3,
+  "updatedAt": "2022-10-28T16:17:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5666"
+}

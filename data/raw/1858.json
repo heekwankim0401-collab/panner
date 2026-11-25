@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is meant to improve the workflow of programmers  working on the engine itself, also will allow people to more easily create editor plugins using modules",
+    "format": "legacy",
+    "workaround": "This is meant to improve the workflow of programmers working onthe engine itself, also will allow people to more easily create editor plugins using modules"
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-28T17:56:32Z",
+  "comments": 5,
+  "createdAt": "2020-11-18T22:42:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1858,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Generate (core) Editor widgets from tscn files",
+  "up": 16,
+  "updatedAt": "2026-06-28T23:53:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1858"
+}

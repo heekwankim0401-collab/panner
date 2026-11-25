@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Deep Integration Required: WebAssembly support is not a simple plug-in feature but rather requires deep integration with the Godot Engine's core. This includes the need for a runtime environment that can load, execute, and interface with WebAssembly modules, manage memory safely, and interact with Godot's existing systems and APIs",
+    "format": "form",
+    "workaround": "The enhancement to add full WebAssembly support within the GDExtension framework in Godot is not something that can be worked around with just a few lines of script due to the complex nature of the integration required. The implementation of such support would involve significant changes to the engine's core to handle WebAssembly modules, including memory management, interfacing with Godot's scene and resource systems, and exposing Godot's APIs to the WebAssembly modules."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-02-26T00:55:39Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:gdextension",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 9177,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Full WebAssembly Support for GDExtension in Godot Engine",
+  "up": 11,
+  "updatedAt": "2024-06-23T19:26:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9177"
+}

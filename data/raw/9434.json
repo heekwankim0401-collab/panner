@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is an option that Blender supports in its UI when exporting a scene as glTF but it is currently hardcoded in Godot. Whilst I am aware that in glTF the world should be Y-up, the fact that the Godot implementation uses glTF as an intermediate step to import Blender files is an implementation detail and the user should therefore have the same freedom as in Blender to disable the rotation.",
+    "format": "form",
+    "workaround": "There is currently no way to do this in a plugin as there are no hooks to do so prior to starting the import. Hooks do exist after the import but that would mean iterating over all the meshes and rotating them back, which takes a significant effort compared to the proposed pull request and is also a lot slower."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-05T09:56:54Z",
+  "comments": 7,
+  "createdAt": "2024-04-02T09:34:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9434,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an import option to disable Y-up conversion when importing `.blend` scenes",
+  "up": 3,
+  "updatedAt": "2026-06-23T14:17:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9434"
+}

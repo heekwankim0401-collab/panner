@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Renderer settings are core features.",
+    "format": "form",
+    "workaround": "This is a common feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-22T09:57:39Z",
+  "comments": 5,
+  "createdAt": "2024-11-22T01:35:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:windows",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11211,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change default renderer to D3D11 for Compatibility Mode on Windows.",
+  "up": 0,
+  "updatedAt": "2024-11-23T16:37:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11211"
+}

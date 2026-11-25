@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Lightmap baking is core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-21T05:23:37Z",
+  "comments": 2,
+  "createdAt": "2024-08-19T02:40:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 10489,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement lightmap antialiasing for static shadows",
+  "up": 0,
+  "updatedAt": "2024-08-21T05:23:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10489"
+}

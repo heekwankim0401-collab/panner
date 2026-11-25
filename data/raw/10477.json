@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, since there is no way to modify external type hierarchies.",
+    "format": "form",
+    "workaround": "No work arounds — no way to modify external type hierarchies."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-17T17:45:33Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10477,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add common base type `InputEventJoypad` for `InputEventJoypadButton` and `InputEventJoypadMotion`",
+  "up": 0,
+  "updatedAt": "2024-08-18T17:14:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10477"
+}

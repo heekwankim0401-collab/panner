@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be useful even in a small game and it needs to be closely integrated with a several base Godot's tools.",
+    "format": "form",
+    "workaround": "No, it can't be implemented with a few lines of code in most cases. Official documentations [suggests](https://docs.godotengine.org/en/stable/tutorials/scripting/singletons_autoload.html#custom-scene-switcher) to write a custom scene switcher and store it in the autoload. It's not very nice solution, 'couse it makes all logic of this type 'global' for a whole game. Autoloaded nodes can't be deleted from scene and it also breaks the hierarchical structure of Godot's programming style and turn a scene tree structure into mess.\n\nIt have a workaround with instantiating a scene switcher not as authoload but as a child of some node on a scene. It's a really good solution with a two big disadvantages:\n1. We can no longer test scenes separately from the whole game since needed scene change logic not loaded. We would need to change autoload every time we want to test it or turn the game from scene where the necessary node exists or creates.\n2. It would require to write nearly the same logic few times and it also requires to watch for compitability with a build-in scene changing system, because if we change the scene that is cuurent_scene inside SceneTree than we need to update it's `current_scene` variable manually.\n\nAnother possible workaround is to make the projects separately, but it certanly crazy solution: it would be hard to develop and kinda overkill - opening a separate project would probably create a new Vieport and OS objects and all other stuff we don't need."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-05-11T12:21:18Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12410,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a hierarchical SceneTree nodes system (or other hierarchical scene manager)",
+  "up": 0,
+  "updatedAt": "2025-05-12T06:37:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12410"
+}

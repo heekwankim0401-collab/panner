@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "StringNames are core",
+    "format": "form",
+    "workaround": "It can be worked around using the StringName.length() function which does the same thing. However using len is the most common method and unexpectedly breaks for StringNames where all other string functions are shared between the two."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-02T14:17:27Z",
+  "comments": 0,
+  "createdAt": "2024-01-02T05:50:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.3",
+  "number": 8774,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for StringName in len function",
+  "up": 2,
+  "updatedAt": "2024-01-02T14:17:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8774"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Changes to core editor nodes/systems like the SpriteFrames and the AnimatedSprite are a bit impractical for addons to tweak.",
+    "format": "markdown",
+    "workaround": "Not really, this would be implemented as a core editor functionality, however it is entirely optional to use, because if the values are left in the default state (no cropping, no offset) they do not affect the outcome in any way"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-01-02T17:05:37Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2060,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Cropping and Offset fields for single Animations or Frames of Animations in the SpriteFrames Resource",
+  "up": 21,
+  "updatedAt": "2026-02-24T16:58:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2060"
+}

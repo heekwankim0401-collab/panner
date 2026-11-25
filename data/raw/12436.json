@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Its a small quality of life feature that improves the delight of working in godot :)",
+    "format": "form",
+    "workaround": "I'm not familiar enough with the editor tools to know if this could be built on top of what's already there but having it built in would be most convenient."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-26T16:30:28Z",
+  "comments": 0,
+  "createdAt": "2025-05-16T11:53:38Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 12436,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Go to function definition on Ctrl+Click in AnimationPlayer editor",
+  "up": 5,
+  "updatedAt": "2025-05-26T16:35:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12436"
+}

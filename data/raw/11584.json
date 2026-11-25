@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the editor usability out of the box.",
+    "format": "form",
+    "workaround": "I do not know if this can be worked around with an editor plugin. It seems to be hardcoded on a deeper level so I would hazard to guess this limitation cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-16T22:54:38Z",
+  "comments": 3,
+  "createdAt": "2025-01-16T20:51:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11584,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow all docks to be movable",
+  "up": 2,
+  "updatedAt": "2025-01-16T22:54:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11584"
+}

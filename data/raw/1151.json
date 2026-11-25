@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this kind of implementation really depends on the engine low-level process and I guess it needs an alternative thread to run this implementation. Maybe a C++ plugin could do that ? I'm not advanced enough to know.",
+    "format": "legacy",
+    "workaround": "There's no way to get absolute time and we need to check for approximations, which is ok for music playback and simplistic rhythm games but becomes hard when we want to deeply sync rhythm and game mechanics."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2020-07-01T11:36:01Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1151,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an absolute time (DSP time) feature to play audio effects at specific intervals",
+  "up": 74,
+  "updatedAt": "2025-04-18T02:01:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1151"
+}

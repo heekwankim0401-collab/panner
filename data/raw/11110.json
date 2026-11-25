@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the VCS ability of Godot projects.",
+    "format": "form",
+    "workaround": "No, as this is built-in editor behavior that can't be overridden.\n\nOne way to circumvent this would be to generate dummy data in place of the file paths expected by your project, but it's a lot of work to do and would be best done using system-specific scripts as opposed to an editor plugin. It would also not ensure the user is warned when opening scenes with missing baked data (as the editor would see \"valid\" baked data, even if incorrect)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-11-07T14:14:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11110,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make it possible to open projects in the editor if their bake data is not present on the filesystem (for version control usage)",
+  "up": 4,
+  "updatedAt": "2025-11-14T19:09:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11110"
+}

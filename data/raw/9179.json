@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The error message is part of core",
+    "format": "form",
+    "workaround": "No workaround"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-02-26T11:40:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9179,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change `is_inside_tree()` error message to be more user-friendly",
+  "up": 6,
+  "updatedAt": "2025-08-11T17:48:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9179"
+}

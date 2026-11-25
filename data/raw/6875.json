@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a Godot editor feature.",
+    "format": "form",
+    "workaround": "I can't be worked around with a few lines of script. It can however be worked around by marking the line and then deleting it."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-13T13:24:26Z",
+  "comments": 3,
+  "createdAt": "2023-05-13T13:03:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6875,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add code editor shortcut to delete a whole line",
+  "up": 0,
+  "updatedAt": "2023-05-13T20:05:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6875"
+}

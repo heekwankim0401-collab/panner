@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Is too low-level to be an asset library.",
+    "format": "legacy",
+    "workaround": "For now, it can be used with an outside image utility like GIMP or ImageMagik"
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-12T08:44:56Z",
+  "comments": 4,
+  "createdAt": "2020-06-11T17:53:47Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 1039,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add INTERPOLATE_NONE option for Image class resize()",
+  "up": 0,
+  "updatedAt": "2020-06-16T15:44:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1039"
+}

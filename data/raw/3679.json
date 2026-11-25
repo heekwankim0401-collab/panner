@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I guess similarly to Rect2i for Rect2, the AABBi counterpart of AABB should most likely be core.\nAnd it would be easier to use as a built-in Variant type.",
+    "format": "form",
+    "workaround": "I guess a AABBi extending `Object` type could be created using a script, but it would not provide the same ease of use as built-in types."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-12-16T19:58:41Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "4.x",
+  "number": 3679,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an AABBi type",
+  "up": 24,
+  "updatedAt": "2024-05-23T01:52:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3679"
+}

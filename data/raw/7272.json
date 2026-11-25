@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature would give developers a tool to enforce error handling. Developers can mark functions that might fail as a `Result` type and enforce anyone who calls it to be wary that it might fail.",
+    "format": "form",
+    "workaround": "Can't be done through scripts since this will have to be an editor feature for there to be any pre-runtime checks/warnings"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-07-13T20:39:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7272,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Rust-Styled Result value type for better error handling",
+  "up": 14,
+  "updatedAt": "2023-07-14T13:44:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7272"
+}

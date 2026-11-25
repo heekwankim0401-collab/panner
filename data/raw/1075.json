@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can an add-on change the editor GUI behaviour?",
+    "format": "legacy",
+    "workaround": "Probably not."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-06-17T03:25:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 1075,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Close editor WindowDialogs only when [X]/Close/Save are clicked",
+  "up": 0,
+  "updatedAt": "2021-08-13T21:17:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1075"
+}

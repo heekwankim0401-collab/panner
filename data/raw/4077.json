@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Since gdscript plugins cannot currently add animation nodes that are automatically exposed to the editor \"Add Node\" submenu.",
+    "format": "form",
+    "workaround": "This cannot currently be done with script or c++ modules alone due to the way the animation nodes are exposed to the animation node tree editor.\n\nA much bigger (but also relevant) task here would be to allow for gdscript plugins and c++ submodules to add any arbitrary subclass of AnimationNode and have that automatically be exposed to the editor for addition / removal of the custom node."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-02-22T02:51:37Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 4077,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "AnimationTree: Animation Phase Node (and a discussion on custom animation nodes as modules / gdscript) ",
+  "up": 12,
+  "updatedAt": "2023-08-24T07:00:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4077"
+}

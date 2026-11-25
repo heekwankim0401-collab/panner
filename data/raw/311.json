@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a small feature, and (AFAIK) wouldn't be easy to fix without forking the engine.",
+    "format": "legacy",
+    "workaround": "There is no easy workaround that I know of, besides just right clicking on the doc tabs individually and closing them.\n\nNote: you can select the bottom most tab and repeatedly press Ctrl-W, but the most recently opened tab will be re-focused each time, so this is still tedious and error-prone."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-18T16:15:54Z",
+  "comments": 3,
+  "createdAt": "2019-12-17T02:45:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.1",
+  "number": 311,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a \"Close Doc Tabs\" context menu option in script editor tab list",
+  "up": 0,
+  "updatedAt": "2023-04-18T16:16:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/311"
+}

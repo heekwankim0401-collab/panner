@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is part of core editor functionality, it doesn't seem reasonable to expect users to install an asset for something like this.",
+    "format": "form",
+    "workaround": "Not with a script. As mentioned before, I can manually edit the theme resource file, but it's not intuitive and has error potential.\n\n(Also, in my opinion, a graphical interface should provide a GUI-based solution to interactions.)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-05-02T15:54:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6792,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Theme Editor: Allow renaming of theme types from editor",
+  "up": 4,
+  "updatedAt": "2023-10-01T17:35:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6792"
+}

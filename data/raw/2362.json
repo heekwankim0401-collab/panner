@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Do addons allow creating something of this sort? Lack of my own knowledge prevents me from answering this core question.",
+    "format": "markdown",
+    "workaround": "I haven't touched enough of addon code to know whether this is doable with a few lines of script. If it is, let me know!"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2021-02-26T13:03:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2362,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show `user://` in the FileSystem dock",
+  "up": 46,
+  "updatedAt": "2025-06-09T03:32:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2362"
+}

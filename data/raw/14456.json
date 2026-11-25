@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-16T21:12:28Z",
+  "comments": 2,
+  "createdAt": "2026-03-14T12:43:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 14456,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "TwoBoneIK contains a regression from SkeletonIK3D, as it lacks controlled rotation of the End bone.",
+  "up": 1,
+  "updatedAt": "2026-03-17T17:44:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14456"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a safeguard against loss of work. Which is priceless IMHO.",
+    "format": "legacy",
+    "workaround": "Once one realizes that the blunder happens, it is often too late. Best solution would be NOT to save the scene (it is so easy to hit Ctrl-S and not obvious to perceive the live change), close Godot and edit the .gd file using an external editor. This requires awareness of the destructive calls happening beforehand."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2019-11-22T13:16:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 250,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Protection against accidental, script-triggered node deletion in tool mode (loss of work danger!)",
+  "up": 5,
+  "updatedAt": "2019-12-02T09:19:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/250"
+}

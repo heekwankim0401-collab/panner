@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This edit is to the 3D node Physical Bone in Godot's C++ code. An asset library could work but we would be reimplementing all the physical bone functionality in Godot already. I imagine this works and will try it but I think for such a small change and such a large quality of life improvement it should be incorporated into Godot's codebase.",
+    "format": "form",
+    "workaround": "There is no workaround as the current Physical Bone does not work unless its parent is a skeleton which requires it to be a child of the skeleton node. The only workaround I see is building a GDNative addon that implements a new node called the GlobalPhysicalBone which has all the same Physical Bone code + this feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-06-13T06:56:41Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 4664,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose PhysicalBone's skeleton parameter to allow physical bones outside the tree of the skeleton node",
+  "up": 2,
+  "updatedAt": "2024-08-28T14:48:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4664"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No, godot exits before any add-on would have a chance to run",
+    "format": "form",
+    "workaround": "No, godot exits before any script would have a chance to run"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-23T22:59:20Z",
+  "comments": 3,
+  "createdAt": "2024-10-21T19:31:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11008,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show error message to user if shader compiling fails",
+  "up": 0,
+  "updatedAt": "2024-10-23T22:59:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11008"
+}

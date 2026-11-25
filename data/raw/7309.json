@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is too small of an addition to be an addon in the asset library and simultaneously too big of an issue to not do something about it. You either put up with ugly circle or waste 10 minutes on your own implementation when it could be an argument.",
+    "format": "form",
+    "workaround": "For something so simple, and quite frankly essential for custom drawing, the user has to write their own implementation with GDScript which is extremely annoying so yes it can be easily worked around with a script but this is about quality of life."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-18T11:02:18Z",
+  "comments": 8,
+  "createdAt": "2023-07-17T20:34:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7309,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a resolution argument to `CanvasItem.draw_circle()`",
+  "up": 7,
+  "updatedAt": "2026-07-19T07:54:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7309"
+}

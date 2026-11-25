@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the engine's loading system and formats itself.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-03T02:43:28Z",
+  "comments": 4,
+  "createdAt": "2025-02-18T16:43:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.6",
+  "number": 11802,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove `load_steps` in text resource formats",
+  "up": 13,
+  "updatedAt": "2025-12-03T02:44:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11802"
+}

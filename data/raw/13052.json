@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "After using the clipping function for nodes of the \"Godot, Control\" type, if the rotation angle is adjusted, there will be issues with the clipping area.",
+    "format": "form",
+    "workaround": "Card games"
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-22T23:34:52Z",
+  "comments": 1,
+  "createdAt": "2025-08-22T23:20:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13052,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Optimize the cropping function",
+  "up": 0,
+  "updatedAt": "2025-08-22T23:34:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13052"
+}

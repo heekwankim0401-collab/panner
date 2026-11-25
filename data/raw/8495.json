@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The Sprite3D node has perfect functionalities for creating interactive icons in a 3D environment, among other uses. And now that in Godot 4, the use of different types of fog is more common, it should have this functionality to adapt to various current uses.",
+    "format": "form",
+    "workaround": "I don't know how to create a shader that is not affected by different types of fog."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-22T18:51:47Z",
+  "comments": 3,
+  "createdAt": "2023-11-22T18:27:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8495,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Affect Fog\" to Sprite3D",
+  "up": 0,
+  "updatedAt": "2023-11-22T19:21:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8495"
+}

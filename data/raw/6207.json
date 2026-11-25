@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think both the shader preprocessor and renderer functionality that would be needed are part of the core.",
+    "format": "form",
+    "workaround": "As discussed above you can work around this by making multiple shader versions for different renderers, but it has drawbacks as noted above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-01-30T16:32:41Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6207,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add renderer feature support flags to shader preprocessor",
+  "up": 9,
+  "updatedAt": "2023-02-04T19:41:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6207"
+}

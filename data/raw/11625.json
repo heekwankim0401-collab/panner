@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires changes in the GraphNode source.",
+    "format": "form",
+    "workaround": "Perhaps, but not a few. Many languages support serialization routines for all objects. It's like this could be written into the \"Control\" node or such like."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-01-23T19:00:39Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11625,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make GraphNode serializable to JSON",
+  "up": 0,
+  "updatedAt": "2025-01-23T22:30:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11625"
+}

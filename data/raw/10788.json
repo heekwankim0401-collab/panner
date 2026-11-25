@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would be part of the buildsystem itself",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-20T13:41:52Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10788,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide information about how the engine was built (compiler, OS, etc.) to the engine",
+  "up": 7,
+  "updatedAt": "2024-09-20T17:29:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10788"
+}

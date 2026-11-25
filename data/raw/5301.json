@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There would be no way to make this an addon\n\n**TL;DR**\nN/A",
+    "format": "form",
+    "workaround": "This can be worked around with a simple PowerShell script that can be executed post-install via scoop, like this (will require Administrator access):\n```ps1\n$GodotInstallDir = $args[0]\n$hkcrExists = Get-PSDrive -PSProvider Registry -Name HKCR -ErrorAction SilentlyContinue\n\nif ($hkcrExists) {\n    Write-Output \"HKCR Exists\"\n} else {\n    Write-Output \"HKCR Needs Creation\";\n    New-PSDrive -PSProvider registry -Root HKEY_CLASSES_ROOT -Name HKCR\n    $hkcrExists = Get-PSDrive -PSProvider Registry -Name HKCR -ErrorAction SilentlyContinue\n    if ($hkcrExists) {\n        Write-Output \"HKCR Was Created\"\n    } else {\n        Write-Output \"Failed to create HKCR\"\n    }\n}\n\n# Create registry entries\n\n$mainKey = 'HKCR:\\Directory\\shell\\Godot'\n\nif (-not (Test-Path $mainKey)) {\n    Write-Output \"Creating key '${mainKey}'\"\n    New-Item -Path $mainKey -Force | Out-Null\n    Write-Output \"Creating key '${mainKey}\\command'\"\n    New-Item -Path \"${mainKey}\\command\" -Force | Out-Null\n}\nNew-ItemProperty -Path $mainKey -Name 'Icon' -Value \"$GodotInstallDir\\godot.exe\" -PropertyType String -Force\nNew-ItemProperty -Path $mainKey -Name '(Default)' -Value \"Open with &Godot\" -PropertyType String -Force\n\nNew-ItemProperty -Path \"${mainKey}\\command\" -Name '(Default)' -Value \"$GodotInstallDir\\godot.exe -e --path `\"%V`\"\" -PropertyType String -Force\n\n$bgKey = 'HKCR:\\Directory\\Background\\shell\\Godot'\n\nif (-not (Test-Path $bgKey)) {\n    Write-Output \"Creating key '${bgKey}'\"\n    New-Item -Path $bgKey -Force | Out-Null\n    Write-Output \"Creating key '${bgKey}\\command'\"\n    New-Item -Path \"${bgKey}\\command\" -Force | Out-Null\n}\nNew-ItemProperty -Path $bgKey -Name 'Icon' -Value \"$GodotInstallDir\\godot.exe\" -PropertyType String -Force\nNew-ItemProperty -Path $bgKey -Name '(Default)' -Value \"Open with &Godot\" -PropertyType String -Force\n\nNew-ItemProperty -Path \"${bgKey}\\command\" -Name '(Default)' -Value \"$GodotInstallDir\\godot.exe -e --path `\"%V`\"\" -PropertyType String -Force\n\n$submenuKey = 'HKCR:\\Directory\\ContextM"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-08-31T22:59:54Z",
+  "down": 1,
+  "labels": [
+    "platform:windows",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 5301,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Windows File Explorer Context Menu Entries for Godot",
+  "up": 0,
+  "updatedAt": "2022-09-01T16:04:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5301"
+}

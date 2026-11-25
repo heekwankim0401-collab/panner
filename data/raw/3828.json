@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Too simple to work around it with code compared to downloading the add-on, too useful to have to write the code",
+    "format": "form",
+    "workaround": "Yes but I think it would be a worthwhile GUI option, probably would be used often"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-19T16:01:18Z",
+  "comments": 3,
+  "createdAt": "2022-01-19T15:23:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 3828,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Animationplayer: bezier curve from arbitrary positions(etc.) into animation's first positions",
+  "up": 0,
+  "updatedAt": "2022-01-19T16:03:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3828"
+}

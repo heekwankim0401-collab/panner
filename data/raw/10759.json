@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is an enhancement of the TileSet editor, which is core to the engine. Since it's an improvement of the UI of the feature, I believe it should be core to the editor.",
+    "format": "form",
+    "workaround": "These are UI enhancements. I don't know if scripts can alter the editor UI this way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-09-16T14:24:23Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10759,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "UI/UX improvements for setting up animated tiles in the TileSet editor",
+  "up": 0,
+  "updatedAt": "2024-09-18T15:51:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10759"
+}

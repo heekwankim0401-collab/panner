@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's already part of the engine.",
+    "format": "form",
+    "workaround": "I've spent a few weeks now trying to work around this. Nothing has worked so far. The closets solution was to try and hash the images after `gltf_state.set_handle_binary_image(GLTFState.HANDLE_BINARY_EMBED_AS_UNCOMPRESSED)` to only find non duplicate textures in the collection and then run append_from_buffer just on those, to pull in the texture to the filesystem and then once more run over the entire collection muti-threaded with append_from_buffer and the same `base path`  in the res:// dir, but since the textures are already there it sees that and does not try to multi-thread write to the filesystem the second time around and I can import a large collection this way multi-threaded. but this does not seem to work for all collections. In part being that I can not replicate what the engine is doing to hash the images."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-04-29T05:46:25Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12331,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make GLTFDocument append_from_buffer() multi-thread friendly",
+  "up": 1,
+  "updatedAt": "2025-04-29T17:23:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12331"
+}

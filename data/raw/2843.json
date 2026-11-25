@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's based on a core functionality and affects all physics nodes.",
+    "format": "form",
+    "workaround": "It can be done only with cumbersome workarounds, and the goal is to make it easy to use in any project."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-30T18:37:06Z",
+  "comments": 5,
+  "createdAt": "2021-06-09T00:19:10Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 2843,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add properties to control physics nodes' behavior when paused",
+  "up": 18,
+  "updatedAt": "2021-06-30T18:37:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2843"
+}

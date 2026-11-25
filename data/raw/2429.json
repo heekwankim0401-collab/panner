@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Godot is targeting to multiple platforms including smartphones where \"drag to scroll\" is very common operation in user interfaces so I think this option should be part of scrollable Control Nodes",
+    "format": "markdown",
+    "workaround": "It can be implemented fairy simply (or at least scrolling only),\nI'm not sure why I need to divide relative value by 2, same code in `func _input(event)` works without it O_o\n```\nextends ItemList\n\nfunc _ready():\n\tconnect(\"gui_input\", self, \"_gui_input\")\n\nfunc _gui_input(event):\n\tif event is InputEventScreenDrag:\n\t\tvar relative : Vector2 = event.relative\n\t\tvar scroll : VScrollBar = get_v_scroll()\n\t\tscroll.value -= relative.y/2\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-03-08T15:44:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2429,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow scrolling Controls with touch/drag events",
+  "up": 10,
+  "updatedAt": "2026-02-17T10:02:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2429"
+}

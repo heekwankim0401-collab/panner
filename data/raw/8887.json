@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The functionality seems already there it's just invisible to the user. This would make games that make heavy use of UI and rely on windows and tabs much straight forward to make.",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-28T14:48:37Z",
+  "comments": 0,
+  "createdAt": "2024-01-15T13:07:16Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 8887,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Flexible dragging for TabBar",
+  "up": 0,
+  "updatedAt": "2025-05-28T14:48:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8887"
+}

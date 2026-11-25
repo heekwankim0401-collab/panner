@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Core functionality.",
+    "format": "form",
+    "workaround": "Will be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-18T01:17:08Z",
+  "comments": 1,
+  "createdAt": "2024-02-18T00:05:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9117,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change Mesh Instance Lightmap Scale to a Decimal Multiplier",
+  "up": 2,
+  "updatedAt": "2024-02-18T01:17:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9117"
+}

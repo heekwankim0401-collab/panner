@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a modification to a core class",
+    "format": "form",
+    "workaround": "As previously noted, yes it can be worked around easily. This would just serve as a convenience function, to cover a common use case and remove extra lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-09-02T03:52:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13114,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `XMLParser` method for getting node attributes as `Dictionary`",
+  "up": 0,
+  "updatedAt": "2025-09-03T11:17:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13114"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "More complex mathematical functions should be on its own library- we should not convert Godot's Math into numpy, but I think these 3 functions SPECIALLY due to the lightness of its implementation and maintenance, should have its place on globalscope. I will myself add all documentation changes needed.\n\nThe only issue I can see is that, because non-virtual builtin methods cannot be shadowed, those projects that have implemented those functions on their own to overcome the issue  will see an error on their projects. However, while this could mean the the deployment should happen on a major release, I think it is one of those regressions that is \"worth it\".",
+    "format": "form",
+    "workaround": "Yes, I added the lines of script- but as I said before, the issue is not that they are not there, the issue is the inconsistency with only being partially implemented. I would be ok with removing all hyperbolic functions, but that would make no sense and would make GDScript inconsistent with C++, C# and its own shader language."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-01T14:10:51Z",
+  "comments": 8,
+  "createdAt": "2023-06-18T13:47:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.2",
+  "number": 7110,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add inverse hyperbolic functions asinh(), acosh() & atanh()",
+  "up": 8,
+  "updatedAt": "2023-09-01T14:39:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7110"
+}

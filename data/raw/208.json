@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is not a \"new feature\" like those found in the asset library; it is just an expansion of an existing feature that makes logical sense.",
+    "format": "legacy",
+    "workaround": "It can be worked around with one line; however, it should in theory be used just as often as the `class_name` keyword itself if implemented. It is also an easy fix to an inconsistency."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-25T15:19:30Z",
+  "comments": 1,
+  "createdAt": "2019-11-05T23:03:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 208,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow setting of GDScript `class_name` property through the Create Script menu",
+  "up": 15,
+  "updatedAt": "2023-09-25T15:19:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/208"
+}

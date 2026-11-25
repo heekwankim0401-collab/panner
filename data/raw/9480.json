@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a change to GDScript and makes some key modifications to how it interfaces with important types. It also aligns well with the philosophy of GDScript, that being to make game scripting simple to parse, even for beginner programmers.",
+    "format": "form",
+    "workaround": "It can be worked around with a few lines of script, but it becomes much slower if the operations are being performed thousands of times a frame. Yes, I’m doing this in a project.\n\nI think the “most important” reason why it can’t be worked around is because the brackets feature is literally an addition to the syntax that ints can be used with in GDScript.\n\nFor many of the abstraction functions, I don’t think they realistically need to be included. Sure, they’re nice-to-have’s, but they do broaden the scope of @GlobalScope functions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-04-08T15:09:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9480,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enhance integer bit operations with abstractions",
+  "up": 0,
+  "updatedAt": "2024-04-08T15:10:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9480"
+}

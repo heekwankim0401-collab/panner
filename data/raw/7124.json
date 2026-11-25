@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because this is a core engine option, to be compiled with the engine's code, not changed at runtime.",
+    "format": "form",
+    "workaround": "No, it's supposed to already be compiled with the engine itself."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-20T23:13:27Z",
+  "comments": 2,
+  "createdAt": "2023-06-20T16:34:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7124,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Max Lights per object\" or \"Per Cluster\" option to Vulkan backend for mobile platforms",
+  "up": 0,
+  "updatedAt": "2023-06-21T21:02:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7124"
+}

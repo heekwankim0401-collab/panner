@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I personally expect this to be present on the core level, yet again it's not necessary for those methods to be exposed to scripting in the first place.",
+    "format": "legacy",
+    "workaround": "Not a few lines. It's a matter of copy-and-pasting existing implementations if talking about C++ specifically, but additional work is required to port this to GDScript. But mostly, these are not even necessary to expose, it would be enough that those methods can be simply moved to core without exposing them to scripting if they are too specific for most users."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-30T12:06:30Z",
+  "comments": 3,
+  "createdAt": "2020-04-16T14:15:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 719,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move String case conversion methods to core (snake_case, PascalCase, camelCase etc)",
+  "up": 16,
+  "updatedAt": "2022-08-30T12:06:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/719"
+}

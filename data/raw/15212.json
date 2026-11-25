@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-18T05:46:54Z",
+  "comments": 1,
+  "createdAt": "2026-07-18T04:54:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15212,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Triplanar Texture Optimization: Single-Sample Rendering and Draw Call Reduction",
+  "up": 0,
+  "updatedAt": "2026-07-19T19:34:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15212"
+}

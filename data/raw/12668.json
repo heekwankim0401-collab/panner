@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Godot navigation is core.",
+    "format": "form",
+    "workaround": "Avoidance sim is core and has a high performance cost with many agents involve, so does not scale with scripting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-26T00:05:21Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 12668,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add avoidance support for rectangular shapes",
+  "up": 11,
+  "updatedAt": "2025-06-26T00:05:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12668"
+}

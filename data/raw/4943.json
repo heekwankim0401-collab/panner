@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Hello, you can use the UWP API to generate xbox output, why doesn't Godot support it if you are developing a version for mono and dotnet?",
+    "format": "form",
+    "workaround": "https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide\nIt might be useful for many developers coming to Godot from other game engines, I don't have enough knowledge to add it to Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-21T17:54:11Z",
+  "comments": 1,
+  "createdAt": "2022-07-21T17:38:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:uwp",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 4943,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "UWP on Godot",
+  "up": 0,
+  "updatedAt": "2022-07-21T17:56:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4943"
+}

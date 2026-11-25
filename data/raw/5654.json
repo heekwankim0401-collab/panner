@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Every game having hitches in it isn't really a good look for Godot, and fixing that should be the default behavior.",
+    "format": "form",
+    "workaround": "I imagine any larger project is going to want to use this.  It *can* be worked around, but it's more than a few lines of script, requires a lot of data setup, and it's very difficult to determine why shaders are being built.  I had to actually hack the engine to output what shaders were being compiled, and even with that, it was a challenge, because all the comments, blank lines, etc. are removed from the godot shader before being passed in there."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-07T09:22:10Z",
+  "comments": 2,
+  "createdAt": "2022-10-26T00:37:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5654,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to precompile specific shader permutations and identify shaders compiled during gameplay",
+  "up": 2,
+  "updatedAt": "2022-11-07T11:52:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5654"
+}

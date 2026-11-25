@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "core ux",
+    "format": "form",
+    "workaround": "used all day long by some people"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-21T17:30:15Z",
+  "comments": 1,
+  "createdAt": "2023-09-17T08:05:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 7702,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reorder shader editor header to match the script editor's",
+  "up": 8,
+  "updatedAt": "2026-07-21T17:30:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7702"
+}

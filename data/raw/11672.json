@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be an extension of an existing system, and better facilitate the new core UID system.",
+    "format": "form",
+    "workaround": "Do not know if this could be done trivially with a script or not."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-01-30T23:09:53Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11672,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a script editor context menu option to convert `res://` paths to `uid://` paths and vice versa",
+  "up": 4,
+  "updatedAt": "2026-02-02T17:57:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11672"
+}

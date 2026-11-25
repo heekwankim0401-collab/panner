@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If I provide a function to manually inform my plugin that the `InputMap` has changed, the user has to remember to call it every time they update the `InputMap`.  If they use another plugin that also cares about the contents of the `InputMap`, that plugin will have to implement the same functionality, and the user will need to remember to call that function too.  If they use yet another plugin that modifies the `InputMap` itself, they would need to modify that plugin to make it aware of all the other plugins.\n\nIf this is core functionality, any user code and/or plugin that cares about the contents of the `InputMap` can connect to a single signal.",
+    "format": "form",
+    "workaround": "I can provide a function to manually inform my plugin that the `InputMap` has changed, but this is not ideal (see below)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-03-29T01:53:20Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 9402,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add actions_changed() signal to InputMap",
+  "up": 4,
+  "updatedAt": "2024-03-30T07:03:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9402"
+}

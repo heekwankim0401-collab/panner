@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it is useful for every project.\n\n*Bugsquad edit (keywords for easier searching): python, args, kwargs*",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-09T22:12:42Z",
+  "comments": 43,
+  "createdAt": "2020-06-10T21:56:02Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.5",
+  "number": 1034,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for variadic functions (varargs) to GDScript",
+  "up": 214,
+  "updatedAt": "2025-06-09T22:36:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1034"
+}

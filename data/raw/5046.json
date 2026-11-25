@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improve editor and Godot UX for VFX Artists, out of the box.",
+    "format": "form",
+    "workaround": "Yes it can, but it's about good built-in materials.\nPlus, it enables \n> GPUParticles should be auto-assigned a process material and an appropriate mesh+material when created (link to proposal(s))\n\nfrom https://github.com/godotengine/godot-proposals/issues/5044"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-08-01T14:24:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5046,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ParticleRenderMaterial (built-in material for particles that works for the most common particle usecases)",
+  "up": 19,
+  "updatedAt": "2024-01-09T10:36:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5046"
+}

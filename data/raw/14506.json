@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-03-20T16:07:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14506,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expand tween's (s)lerp to handle GLOBAL quaternions",
+  "up": 0,
+  "updatedAt": "2026-03-20T20:05:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14506"
+}

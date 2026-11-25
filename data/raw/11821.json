@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This enhancement will be used often because its in the core math module.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-02-21T17:43:02Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11821,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Optimize `Projection::determinant()`",
+  "up": 6,
+  "updatedAt": "2025-03-06T15:10:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11821"
+}

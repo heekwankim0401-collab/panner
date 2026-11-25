@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In Unity, by including a *.jslib file that describes emscripten's mergeInto() in the project, when compiled, JS code can be written out in the compiled JS code, JS functions can be called with DllImport, and It is also possible to call C# functions from JS, and I would like to have this feature in Godot as well.\nSince it goes through compilation, I would like it to be a core feature rather than an asset library.",
+    "format": "form",
+    "workaround": "Implementing it using the existing eval() function is not impossible, but it is much more difficult to debug."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-09-23T11:52:38Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 7815,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable JS code to be exported by including a *.js file containing the emscripten function mergeInto() in the Web Export project.",
+  "up": 1,
+  "updatedAt": "2023-09-23T13:07:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7815"
+}

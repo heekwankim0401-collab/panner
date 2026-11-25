@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, obviouosly.",
+    "format": "form",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-29T18:11:29Z",
+  "comments": 16,
+  "createdAt": "2025-07-23T14:18:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12846,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for creating `@onready` functions",
+  "up": 2,
+  "updatedAt": "2025-07-29T18:17:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12846"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improvements to core lightmapper.",
+    "format": "form",
+    "workaround": "It cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-20T15:29:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9788,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove ray count limit in lightmapper",
+  "up": 4,
+  "updatedAt": "2024-05-20T23:14:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9788"
+}

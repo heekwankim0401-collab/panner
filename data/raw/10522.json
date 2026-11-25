@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be useful and I don't think would be too hard to implement.",
+    "format": "form",
+    "workaround": "I can do this via RPCs, but it is less clean than with MultiplayerSynchronizer. I cannot think of a real solution that also uses MultiplayerSynchronizer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-08-22T02:39:47Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 10522,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": " Add a signal that runs before a value is synchronized via the MultiplayerSynchronizer",
+  "up": 2,
+  "updatedAt": "2024-08-22T14:56:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10522"
+}

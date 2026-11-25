@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, as this enhancement enhances the core nodes of Godot to meet behaviour that is common across other applications - for example the web browser you are currently using.",
+    "format": "legacy",
+    "workaround": "While a few of these can be worked around with a few lines of script, they should not even require that. Most of them however can not be adjusted solely in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-28T17:58:38Z",
+  "comments": 6,
+  "createdAt": "2019-10-04T17:08:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 125,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "LineEdit and TextEdit enhancements",
+  "up": 6,
+  "updatedAt": "2022-05-28T17:58:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/125"
+}

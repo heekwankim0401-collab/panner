@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "As the use cases of this cover other animation needs, it makes sense to have this as core functionality",
+    "format": "form",
+    "workaround": "Unless we introduce a way to create blend tree nodes from GDScript or GDExtension, no."
+  },
+  "assignees": 1,
+  "closedAt": "2025-10-20T02:54:22Z",
+  "comments": 3,
+  "createdAt": "2023-12-13T02:14:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 8645,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a skeleton-based retargeting animation blend tree node for XR",
+  "up": 5,
+  "updatedAt": "2025-10-21T15:37:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8645"
+}

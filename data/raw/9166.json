@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Must be added as core because it is part of the editing.",
+    "format": "form",
+    "workaround": "Will be used heavily by anyone designing 2D layouts and Tilemaps"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-02-24T04:14:02Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9166,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Scroll the 2D editor viewport automatically when dragging something past its bounds",
+  "up": 2,
+  "updatedAt": "2024-06-03T17:54:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9166"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe this UI design workflow suites better as default way to design UI in Godot.",
+    "format": "form",
+    "workaround": "a work around would be to assign hotkeys to set these things. and in the meantime I plan to implement a plugin to do so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-11-17T14:18:06Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8454,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change default anchor presets and Container sizing to fill parent.",
+  "up": 4,
+  "updatedAt": "2023-11-17T16:58:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8454"
+}

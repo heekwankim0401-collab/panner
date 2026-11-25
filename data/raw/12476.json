@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's part of the editor.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-21T22:50:50Z",
+  "down": 1,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 12476,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow closing the autocompletion box using arrow keys",
+  "up": 5,
+  "updatedAt": "2025-05-31T01:10:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12476"
+}

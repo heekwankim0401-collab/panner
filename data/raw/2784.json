@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Implementing this LOD system in C++ would lead to better performance when using large amounts of reflection probes (hundreds or more).",
+    "format": "markdown",
+    "workaround": "Kind of. It's possible to play with reflection probe intensity and visibility with a script, but see the caveats above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-05-26T20:48:59Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2784,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a level of detail system for ReflectionProbe",
+  "up": 8,
+  "updatedAt": "2022-10-15T23:32:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2784"
+}

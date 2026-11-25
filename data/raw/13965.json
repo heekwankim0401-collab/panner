@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's tied to core editor system.",
+    "format": "form",
+    "workaround": "No. The only way to document the dynamic properties is to mention them in the class description or description of its setters/getters (since they are are documented methods that take index and value as parameters). They can't show in tooltips though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-01-06T23:10:13Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": null,
+  "number": 13965,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add documentation support for property array members",
+  "up": 6,
+  "updatedAt": "2026-03-23T22:12:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13965"
+}

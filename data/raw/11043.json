@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Performance. C++ code runs much, much faster than GDScript code especially for calculations. Many nodes may use PID Controllers in your scene EACH FRAME which can tank performance pretty easily. The thing is, it's such a generic tool that adding it would benefit everyone and it's not super specific to some projects either. I mentioned how I use it for movement and rotation for RigidBodies but PID Controllers can be used for basically any value in your game which needs to be controlled dynamically.",
+    "format": "form",
+    "workaround": "It can be worked around pretty easily by just getting a plugin for it or copy pasting an already done PID Controller implemention from somewhere on the web (sometimes with a few modifications if it's not written in your desired scripting language). But since this concept is so widely used, the user shouldn't have to copy paste or download the same plugin for all his projects every time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-10-29T10:43:39Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11043,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a built-in PID controller class",
+  "up": 4,
+  "updatedAt": "2026-01-17T22:57:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11043"
+}

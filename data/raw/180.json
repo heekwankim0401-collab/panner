@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Again, every game needs to save data. Having a simplified system never hurts. and literally every user will benefit from it. Many users are making small, minimalistic games on Godot, but every time they have to save some data, they are required to write a lot more code. Please don't think that this feature will promote 'bad practices' in coding, it will just simplify the work for many.",
+    "format": "legacy",
+    "workaround": "It will basically lessen code and save time in small games.\nBut literally every game at some point need saving data, and having a simplified save system like will save users from one  small game-making head ache :)"
+  },
+  "assignees": 0,
+  "closedAt": "2019-10-24T14:06:03Z",
+  "comments": 4,
+  "createdAt": "2019-10-24T11:47:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 180,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow one line save and load",
+  "up": 0,
+  "updatedAt": "2020-04-29T22:11:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/180"
+}

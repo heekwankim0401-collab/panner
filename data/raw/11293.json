@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the 3D editor user experience.",
+    "format": "form",
+    "workaround": "This is the behavior of the editor and cannot be adjusted by a user script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-12-05T21:38:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11293,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve panning behavior in orthogonal 3D viewports",
+  "up": 4,
+  "updatedAt": "2025-01-13T15:46:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11293"
+}

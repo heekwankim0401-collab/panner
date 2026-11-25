@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The userbase of the 3d features is steadily growing and allowing users to tweak the scale and rotation of spawned meshes would enable the users of the engine to create much better looking effects without having to learn either particle shaders or particle visual shaders.\n\nBenefits of implementing this in core:\n- easier to achieve higher quality effects\n- reusability of assets (one mesh useable for a variety of effects where only its dimensions require a change)\n\n\nexamples of plausible effects with the addition of the proposed features:\n- confetti\n- rotating spirals\n- bullet casings flying out of a gun\n- simulating objects falling down the cliff in the background with enough realism to trigger the suspension of disbelief\n\n\nI believe that exposing these properties, will allow users to create beautiful effects, without having to resort to learning particle shader code or visual shader nodes.",
+    "format": "form",
+    "workaround": "It is onto my understanding that this is completely feasible if one writes a particle shader."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-02-11T19:52:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3951,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 3D options to rotation, velocity and angular velocity in ParticlesMaterial",
+  "up": 33,
+  "updatedAt": "2025-03-22T07:14:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3951"
+}

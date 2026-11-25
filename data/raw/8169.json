@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Localization is already a critical component of the engine that is supported out of the box. I believe that it needs a few rounds of QoL to make it easier to use before it becomes second nature to add localization in one's game.",
+    "format": "form",
+    "workaround": "I believe this can be worked around with an editor plugin. However, having it so it updates the key list dynamically might need some kind of editor hook."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-17T16:54:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 8169,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement selecting translation keys in the editor instead of entering them as strings",
+  "up": 1,
+  "updatedAt": "2025-02-11T14:37:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8169"
+}

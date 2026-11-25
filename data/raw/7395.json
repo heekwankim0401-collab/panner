@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core part of SceneTreeTween",
+    "format": "form",
+    "workaround": "Yep. It absolutely can be worked around. \nHowever, I think signals are such core functionality of GDScript, that Tweens should integrate nicely with them. This also fits nicely with the recently proposed [Tweener that awaits signal](https://github.com/godotengine/godot-proposals/issues/7337)"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-28T09:47:42Z",
+  "comments": 2,
+  "createdAt": "2023-07-27T17:09:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7395,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `tween_emit_signal()` method to SceneTreeTween",
+  "up": 0,
+  "updatedAt": "2023-07-28T09:49:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7395"
+}

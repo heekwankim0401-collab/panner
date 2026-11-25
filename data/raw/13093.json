@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think there is a need to not include it as an internal tool, since it is practically \"the same\" as not running it, the project is more debuggable.",
+    "format": "form",
+    "workaround": "No estoy seguro"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-08-29T18:49:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13093,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow splitting the Game main screen to be viewed side-by-side with other main screens",
+  "up": 0,
+  "updatedAt": "2025-08-29T19:40:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13093"
+}

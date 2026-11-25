@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Core editor functionality.",
+    "format": "form",
+    "workaround": "Nope, you need to implement an entire grid system yourself, which is generally much more confusing to people using the plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-08-22T14:34:04Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10529,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a way for EditorPlugins to get 2D Editor Grid Snap",
+  "up": 4,
+  "updatedAt": "2025-01-03T16:26:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10529"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "Using a USB cable works as well as ADB"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-22T22:31:08Z",
+  "comments": 2,
+  "createdAt": "2025-09-22T08:02:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 13236,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to Android remote debugging using Wi-Fi",
+  "up": 3,
+  "updatedAt": "2025-09-22T22:31:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13236"
+}

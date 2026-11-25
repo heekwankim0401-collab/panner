@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This cannot be implemented as an add-on",
+    "format": "form",
+    "workaround": "Sometimes I create a new scene, then in the plugin script (for example in `_enter_tree()` I create an instance of this scene and add it as a child.\nBut this often requires some boilerplate code to set it up in a convenient way"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-08-17T23:51:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3154,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow using scenes as plugins",
+  "up": 8,
+  "updatedAt": "2021-08-17T23:58:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3154"
+}

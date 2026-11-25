@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This change will *make it possible* to implement things as addons instead of core.",
+    "format": "markdown",
+    "workaround": "This change can enable a lot of \"yes\"-es here.\n\nThe only \"workaround\" is \"give up and don't use the filesystem dock\" - and instead *create another one yourself*:\n- To edit text files, you can open the editor, click \"File - Open\", *change the extension filter* and find your file\n- To make an editor, you can implement your own interface for opening files in a similar bothersome way\n- There is no easy way to implement your own filesystem dock if you want to highlight items or add menu items\nStill, being able to use the normal filesystem dock for everything would improve the user experience."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-27T13:36:56Z",
+  "comments": 4,
+  "createdAt": "2020-12-26T06:50:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2025,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose more of the FileSystemDock to GDScript",
+  "up": 2,
+  "updatedAt": "2020-12-27T13:43:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2025"
+}

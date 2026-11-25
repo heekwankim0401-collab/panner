@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yep, image decoding looks like a part of core",
+    "format": "form",
+    "workaround": "nop"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2021-12-29T02:49:19Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3726,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support of QOI images",
+  "up": 16,
+  "updatedAt": "2026-07-06T20:04:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3726"
+}

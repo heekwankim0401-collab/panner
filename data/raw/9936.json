@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because an addon cannot presently synchronize the script's help when it changes via any binding.",
+    "format": "form",
+    "workaround": "No, currently the EditorHelp integration is tightly coupled with `ScriptEditor` and this contract is limited and not completely exposed to GDExtension for godot-cpp to actually implement a `ScriptEditor` implementation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-06-09T23:58:15Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:editor",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 9936,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `ScriptExtension` documentation to be synchronized",
+  "up": 0,
+  "updatedAt": "2024-08-15T14:34:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9936"
+}

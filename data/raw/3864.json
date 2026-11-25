@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "That's a good question, and you already know the answer. 🙂\n\nI'm not saying that [Goost](https://goostengine.github.io/) should be officially maintained, nor implying that Godot does not accomplish its mission. I'm simply saying that there's a *\"A Whole New World\"* out there and it's reasonable to think about supporting and/or recognizing third-party extensions for Godot on respectable terms, because I do believe we have the same mission in common: providing solutions for game development needs, from people to people.",
+    "format": "form",
+    "workaround": "Because a lot of features:\n- rely on performance;\n- reuse built-in functionality;\n- require out-of-the-box experience;\n- require workarounds;\n\nthere's no practical way to work around this other than forking the engine...\n\nWith GDExtension, there will still be a problem of not being able to distribute libraries *as part of an official Godot build*, because according to recent discussions, GDExtension will be limited to a specific project when extensions are used, and there will be no global plugins implemented (will be restricted to editor-only):\n\n- #831\n- #577\n- #1205\n\nSee also:\n\n- https://github.com/goostengine/goost/discussions/135\n\nThis means that *every* Godot project would need to:\n- fetch source code from external resource\n- activate and/or compile it\n\nWe'd like to avoid this to achieve out-of-the-box experience Godot currently has. We are aware of the limitation that pertain to having libraries available globally (like missing dependencies), but this is already the case when using *static* modules that basically embed all features into one executable, therefore we don't see this as a limitation but as a feature:\n\n- goostengine/goost#173\n\nWe just need the same built-in experience with binary dynamic libraries, since they will be distributed as Godot + Goost (officially distributed by the core Godot team as an executable, and the extension library developed by us). Unfortunately, we have to distribute our own custom Godot builds just to be able to achieve the requirements outlined above.\n\nThis *is* one of the major reason why numerous Godot proposals get rejected and pull requests not merged (talking about new features only, of course), because I've seen a lot of people expressing the desire of not having to download anything extra just to do X or Y."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2022-01-25T15:45:46Z",
+  "down": 0,
+  "labels": [
+    "meta"
+  ],
+  "milestone": null,
+  "number": 3864,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Promote development of extensions for Godot",
+  "up": 29,
+  "updatedAt": "2023-12-14T11:42:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3864"
+}

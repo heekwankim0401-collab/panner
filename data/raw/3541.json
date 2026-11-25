@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't know if it's possible",
+    "format": "form",
+    "workaround": "Yes, it is possible, but it is also possible to use code to emulate the current behavior of the animationPlayer node."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-13T15:45:57Z",
+  "comments": 2,
+  "createdAt": "2021-11-13T10:46:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3541,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "animationplayer based in fps option",
+  "up": 0,
+  "updatedAt": "2021-11-13T16:26:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3541"
+}

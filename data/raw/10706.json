@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would establish a standard practice for plugin developers to provide script templates and remove the need for custom solutions.",
+    "format": "form",
+    "workaround": "There is no simple workaround for this"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-09-09T19:25:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10706,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow plugins to register script templates",
+  "up": 18,
+  "updatedAt": "2024-11-27T10:50:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10706"
+}

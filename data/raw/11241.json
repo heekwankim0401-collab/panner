@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core.",
+    "format": "form",
+    "workaround": "No, it is core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2024-11-27T13:55:20Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11241,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Optimize `String` with Small String Optimization (SSO)",
+  "up": 1,
+  "updatedAt": "2025-01-25T11:06:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11241"
+}

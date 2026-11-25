@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A basic rendering feature like this should be part of Godot, not a workaround or an add-on.\n\nIt would be likely very difficult to make this kind of additional feature an addon, difficult to maintain that addon, and an unnecessary burden for users to install that addon for this kind of basic rendering feature. Likewise an unnecessary burden for users to come up with some kind of workaround to this problem, assuming there is one.\n\nThe only workaround I can imagine is using actual mesh shapes instead of alpha scissor transparency, so for eg: individual leaves instead of alpha transparent images of tree branches, which would likely impact performance for scenes with a lot of foliage and require substantially more work.\n\nIt's a fairly standard feature which is found in most other modern game engines. This feature would likely be useful to basically everyone making a 3D game, given how common alpha transparent surfaces are in 3D graphics. Given this kind of feature should be relatively simple to implement for someone familiar with C++ experience and knowledge of how MSAA sampling works, and the huge benefits in visual quality to a broad number of games, I think it would be exceptionally worthwhile for Godot to have this as part of it's core.",
+    "format": "legacy",
+    "workaround": "I can foresee myself using this in every 3D project I create in Godot, and certainly any time I create any kind of surface that relies on alpha transparency and alpha scissor. It could visually improve the quality of many types of assets. Eg: Trees, metal grates, wire fences, nets, floating text, etc.\n\nI consider this a general quality improvement for Godot.\n\nI do not see how this could be easily implemented with a script or shader code. At the very least, doing so is beyond my ability to do so."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-03T06:50:49Z",
+  "comments": 5,
+  "createdAt": "2020-07-29T03:03:33Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 1273,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add alpha-to-coverage support (MSAA for alpha-tested materials)",
+  "up": 1,
+  "updatedAt": "2020-11-03T06:51:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1273"
+}

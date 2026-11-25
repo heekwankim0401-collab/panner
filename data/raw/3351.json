@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Add-ons can't modify the Group Editor, and the Group Editor is a built-in part of Godot.",
+    "format": "form",
+    "workaround": "The Group Editor can't be modified with a script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2021-09-25T20:58:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3351,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use a scene tree in the Group Editor instead of a list",
+  "up": 12,
+  "updatedAt": "2024-01-08T16:49:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3351"
+}

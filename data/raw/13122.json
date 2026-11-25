@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core behavior of the engine.",
+    "format": "form",
+    "workaround": "Apparently this actually works in the exported build:\n\n```gdscript\n\tvar level_file_list := ResourceLoader.list_directory(\"res://levels\")\n\tfor level_file_name in level_file_list:\n\t\tvar extension := level_file_name.get_extension()\n\t\t# For editor builds\n\t\tif (extension == \"tscn\"):\n\t\t\tall_levels.append(level_file_name.get_basename())\n```\n\nI just didn't have the \"res://\" on the directory, but this kind of goes to show the importance of consistency between editor and exported builds.  It's much harder to debug the exported builds, so when things aren't behaving the same, it's very time consuming to fix.\n\nAlso, you can strip the \".import\" and \".remap\" off of the directory list."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2025-09-04T05:01:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 13122,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make consistent behavior for DirAccess list of res:// files and ResourceLoader.list_directory between editor and packed release/exported builds",
+  "up": 4,
+  "updatedAt": "2026-03-04T14:47:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13122"
+}

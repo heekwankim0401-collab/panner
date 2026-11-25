@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Making a document like this can help people realize that most of their feature and enhancements proposals can (or rather **should**) be implemented via modules, plugins, addons (it may not be the case now, but I hope that this can become a reality in the future). Having a clear set of criteria regarding core development philosophy can help people accept the way the engine chooses what features are essential to realize its vision (which may or may not be in alignment with each individual's vision), and save the time it takes to implement them for core.\n\nIt shouldn't be all about attracting contributors from all around the world and taking advantage of the work they do for free, it's about defining Godot's core values and giving correct expectations to people. This way, the Godot project will respect people's own values and expectations. Otherwise, I'm afraid that existing approach may backfire against Godot as a project, leading to division of community caused by conflict of interest rather than mutual understanding that not every problem can be solved by Godot Engine.",
+    "format": "markdown",
+    "workaround": "I think that [Contributing](http://docs.godotengine.org/en/latest/community/contributing/index.html) and [Godot's design philosophy](http://docs.godotengine.org/en/latest/getting_started/step_by_step/godot_design_philosophy.html) pages might give some answers to this on some level, but I honestly feel like there should be a dedicated document which just translates what seems to be hidden gems inside the minds of geniuses in the form of text. I know it may be difficult to describe a particular way of thinking, but please consider this option. If the vision is not yet complete, lets call the document \"The Future of Godot\", because we all need to share the same vision to make the development process as smooth as possible for everyone involved: #1333."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 50,
+  "createdAt": "2020-03-11T13:45:35Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": null,
+  "number": 575,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Godot Engine's vision and development philosophy should be better formalized or easily accessible",
+  "up": 48,
+  "updatedAt": "2022-02-03T14:17:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/575"
+}

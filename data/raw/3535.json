@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "* The Bullet physics engine is part of the Godot engine itself, so it makes sense that the proposed method exposure be done from within the Godot engine itself, instead of an addon.",
+    "format": "form",
+    "workaround": "* Using C++/C# to attempt to hack into the Bullet library and access the `getRestLengthScale` and `setRestLengthScale` methods leads to a lot of complexity, requiring lots of time and energy that I would rather spend elsewhere.\n* As shown in the code above, `SoftBody` objects break when their scale is directly changed, whereas I would like the soft body to remain stable as it grows and shrinks.\n* Please let me know if there is already a way to call the `getRestLengthScale` and `setRestLengthScale` methods found in the Bullet physics engine from within GDScript, and if so, how."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-11-11T20:59:46Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3535,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose the `RestLengthScale` for soft bodies to GDScript",
+  "up": 3,
+  "updatedAt": "2021-11-12T00:04:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3535"
+}

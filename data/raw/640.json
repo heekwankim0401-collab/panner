@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is mostly inspired by godotengine/godot#30736, so I guess it makes sense to refactor this similarly in core.\n\nThis would also be a nice opportunity to move implementation details outside of the header file `geometry.h` to `geometry.cpp`/`geometry_2d.cpp`/`geometry_3d.cpp` which can prevent rebuilding most of the engine on the slightest change.\n\n## List of dependencies:\nThese issues/PRs need to be reviewed first before any work can be done on this.\n\n- [ ] Use namespaces instead of underscore prefix for core bind classes godotengine/godot#26990.",
+    "format": "legacy",
+    "workaround": "One could create a `class_name` global class wrappers over the `Geometry` singleton."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-29T10:10:38Z",
+  "comments": 4,
+  "createdAt": "2019-11-09T12:22:33Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 640,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Resolving method naming inconsistencies in Geometry singleton for 2D and 3D",
+  "up": 3,
+  "updatedAt": "2020-08-05T07:56:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/640"
+}

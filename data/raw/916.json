@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not possible to do via add-on due to parser changes.\n\nOriginal issue: https://github.com/godotengine/godot/issues/24785\n\nIIRC this is not covered in @vnen's GDScript rework.",
+    "format": "legacy",
+    "workaround": "Nope, requires core changes (parser)"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-23T09:32:58Z",
+  "comments": 48,
+  "createdAt": "2020-05-27T07:03:25Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 916,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Unicode characters in GDScript identifiers",
+  "up": 17,
+  "updatedAt": "2024-09-06T00:13:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/916"
+}

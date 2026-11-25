@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "DTLS is part of the core of Godot now, so this should be part of the core.",
+    "format": "markdown",
+    "workaround": "No idea, but I doubt it."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-09T14:20:03Z",
+  "comments": 10,
+  "createdAt": "2020-12-16T04:26:39Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.0",
+  "number": 1993,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Specify hostname for self-signed certificates for ENet clients",
+  "up": 0,
+  "updatedAt": "2022-06-18T18:04:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1993"
+}

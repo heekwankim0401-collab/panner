@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a change on core node.",
+    "format": "markdown",
+    "workaround": "Easiest solution would be to add a child Label node set to Full Rect, and modify it on bar value change.\n\nIt would be hard to make this proposal cover all cases, and it's better to use custom label at that point, as mentioned in #322. But I believe that the 2 cases above are quite common, and shouldn't cause any performance issues or add too much complexity."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2021-03-04T18:26:00Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2399,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more progress text styles to ProgressBar node",
+  "up": 36,
+  "updatedAt": "2022-07-12T17:16:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2399"
+}

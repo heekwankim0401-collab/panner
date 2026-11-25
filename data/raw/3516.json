@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Improves usability of 3d Editor. Most of the 3d features have shortcuts, so it would make sense for this feature among several others to have at least the option to bind a key to it.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-08T23:17:32Z",
+  "comments": 3,
+  "createdAt": "2021-11-08T16:23:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 3516,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Backport node grouping and locking shortcuts to `3.x`",
+  "up": 0,
+  "updatedAt": "2021-11-08T23:17:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3516"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In my opinion you shouldn't have to install a plugin for such a basic feature.",
+    "format": "form",
+    "workaround": "It could probably be an editor plugin but it would be better to have it built in."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-02T01:13:47Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12710,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add face-to-face snapping to the 3D editor",
+  "up": 0,
+  "updatedAt": "2025-07-08T16:42:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12710"
+}

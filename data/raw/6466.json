@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While I have learned it is possible to implement this myself using a editor module, the nature of the module system makes it impossible to use for a plugin.\nI cannot ask every user of the plugin to compile the engine themself just to have an engine compatible with my plugin.\nOther than that, the generation of the audio preview waveform data is too complex to re-implement in GDscript.",
+    "format": "form",
+    "workaround": "No. For more on that, see below."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-03-09T13:54:37Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 6466,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose AudioStreamPreview to GDscript",
+  "up": 7,
+  "updatedAt": "2023-03-17T10:30:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6466"
+}

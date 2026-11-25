@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "nothing",
+    "format": "form",
+    "workaround": "still in think （another math calcuate to get this <small float>/<big float> get a true float in godot）"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-14T15:04:23Z",
+  "comments": 1,
+  "createdAt": "2023-07-14T15:01:27Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7283,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "about division truncation in godot (math problem)",
+  "up": 0,
+  "updatedAt": "2023-07-14T15:39:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7283"
+}

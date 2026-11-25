@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This can't be worked around with an add-on efficiently (see above).",
+    "format": "form",
+    "workaround": "This can be worked around by disabling **Use Denoiser** in LightmapGI and calling the above command line, but it must be done manually every time after baking lightmaps. Using [watchexec](https://github.com/watchexec/watchexec) can improve this somewhat, but you still need to start it every time you open the project in the editor.\n\nIf you do this, the lightmap texture will also be imported twice by the Godot editor (once in its non-denoised form, once in its denoised form). This further slows down the lightmap baking process, especially if VRAM compression is enabled on the lightmap texture. Writing the non-denoised lightmap to a temporary location prevents this issue, but it can't be done from the Godot editor itself."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-11T20:54:00Z",
+  "comments": 9,
+  "createdAt": "2023-09-11T14:03:50Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.2",
+  "number": 7640,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use OpenImageDenoise via the command line to benefit from GPU-based LightmapGI denoising",
+  "up": 7,
+  "updatedAt": "2023-10-11T20:54:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7640"
+}

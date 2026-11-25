@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Quite obvious - its an build-in editor feature.",
+    "format": "legacy",
+    "workaround": "No it can't. Workaround is not using Godot code editor or not closing code tabs at all."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-07T20:34:35Z",
+  "comments": 5,
+  "createdAt": "2019-09-05T19:56:16Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 37,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Preserve script state (breakpoints, bookmarks, folding) after closing a script in the editor",
+  "up": 4,
+  "updatedAt": "2021-10-07T20:34:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/37"
+}

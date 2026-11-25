@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-11T01:12:38Z",
+  "comments": 0,
+  "createdAt": "2026-02-16T13:48:50Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": "4.7",
+  "number": 14247,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Specify if physics solver settings are overriden by Jolt physics in documentation",
+  "up": 0,
+  "updatedAt": "2026-03-11T10:15:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14247"
+}

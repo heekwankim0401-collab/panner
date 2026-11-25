@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "/",
+    "format": "form",
+    "workaround": "No, this is the built-in shading pipeline."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-10-09T15:01:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8050,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement single pass lighting in the Compatibility rendering method",
+  "up": 4,
+  "updatedAt": "2025-02-12T01:11:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8050"
+}

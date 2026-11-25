@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "To have a solid UX and UI, using streamlined shortcuts (just like Command + Q quits the editor)",
+    "format": "form",
+    "workaround": "It is used all the time for navigation and closing tabs and windows"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-04T19:45:11Z",
+  "comments": 2,
+  "createdAt": "2022-03-09T22:26:29Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 4195,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use the standard macOS shortcut for closing scene and script tabs (Command + W)",
+  "up": 3,
+  "updatedAt": "2024-03-04T19:45:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4195"
+}

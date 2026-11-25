@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There is no real reason this can't be an add-on but I could see people wanting to mix Control node anchor resize power with node positions.",
+    "format": "form",
+    "workaround": "This enhancement might not be used often and it's a fairly simple fix, I just think it might be helpful for others in the base engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-03-10T17:52:45Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6473,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Repositioning child \"Node2D\" for resized Control nodes.",
+  "up": 0,
+  "updatedAt": "2023-12-31T14:53:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6473"
+}

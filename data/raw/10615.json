@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I doubt it is possible",
+    "format": "form",
+    "workaround": "yes, but we need a new script for each unique node"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-16T16:20:02Z",
+  "comments": 4,
+  "createdAt": "2024-08-31T06:40:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10615,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to overwrite built-in set-get in own parent script",
+  "up": 1,
+  "updatedAt": "2026-02-16T16:23:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10615"
+}

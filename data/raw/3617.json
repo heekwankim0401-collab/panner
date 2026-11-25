@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As it has to do with the syntax of GDScript it would be cleaner and more consistent for this to be core.",
+    "format": "form",
+    "workaround": "Equivalent code to the one in my example would be:\n```\nenum E {FIRST, SECOND, THIRD}\nvar d = {E.FIRST: 1, E.SECOND: 2, E.THIRD: 3}\n\nfunc _ready():\n\tvar result = []\n\tfor key in d:\n\t\tif key!=E.SECOND:\n\t\t\tresult.append(d[key] * 2)\n\tprint(result)\n\nOUTPUT: [2, 6]\n```\nwhich is more verbose (the functional version could be even leaner if the lambdas didn't require an explicit return keyword, but that topic should probably go in its own feature proposal), uses an auxiliary variable, and personally feels less readable."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-30T22:51:05Z",
+  "comments": 1,
+  "createdAt": "2021-11-30T21:21:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3617,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add map/filter methods for iterable types",
+  "up": 0,
+  "updatedAt": "2021-11-30T22:53:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3617"
+}

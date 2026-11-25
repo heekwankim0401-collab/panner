@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a standard audio effect in modern sound production, and should definitely be included in the built-in audio effect arsenal. It's more commonly-used than bit-depth reduction, which the engine already provides. Additionally, given Godot's popularity for pixel-art games, the engine should definitely provide this audio effect, as it is used heavily in retro-inspired audio.\n\n----------------------------------------------------------------------",
+    "format": "form",
+    "workaround": "Apart from hand-coding low-level audio systems in an AudioStreamGenerator, no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-11-19T02:22:04Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 5810,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an audio effect to reduce the sample rate of processed audio",
+  "up": 19,
+  "updatedAt": "2022-12-19T00:47:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5810"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It concerns a core rendering feature.",
+    "format": "form",
+    "workaround": "A workaround for this would be to use NVIDIA DSR or AMD VSR to fake a higher resolution, then set FSR 2 scaling to 1.0 in Godot. The driver then takes care of downscaling to the native monitor resolution.\n\nObviously this is a very roundabout and not user friendly way of achieving higher than native FSR 2 antialiasing. Not to mention the resolutions available in DSR or VSR tend to be limited."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-12T17:27:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8086,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow FSR 2 to downscale from a higher internal resolution",
+  "up": 0,
+  "updatedAt": "2023-10-12T18:54:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8086"
+}

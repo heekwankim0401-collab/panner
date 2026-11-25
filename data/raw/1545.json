@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is just the functionality of the editor.",
+    "format": "legacy",
+    "workaround": "I think not, you still have to copy it twice."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-21T22:33:24Z",
+  "comments": 2,
+  "createdAt": "2020-09-21T14:41:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1545,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace Category and Name with a single property Name field in the Project Settings",
+  "up": 10,
+  "updatedAt": "2021-05-14T11:17:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1545"
+}

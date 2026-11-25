@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this feature is tied to the core functions.",
+    "format": "form",
+    "workaround": "I'm probably gonna have to write a method of doing this in c++... after I learn how to use c++. or I'll need to write a whole new Astar method altogether.\n\nthis probably won't be used often unless you have large 3D Astar maps."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-06-12T02:44:03Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 4658,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a function like `MultiMesh.set_as_bulk_array()` for AStar",
+  "up": 2,
+  "updatedAt": "2024-08-07T16:27:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4658"
+}

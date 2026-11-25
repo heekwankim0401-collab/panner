@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core system change.",
+    "format": "form",
+    "workaround": "No, this is a core system change."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-03-30T10:12:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9416,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rework the Configuration Warning system",
+  "up": 4,
+  "updatedAt": "2024-08-31T11:38:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9416"
+}

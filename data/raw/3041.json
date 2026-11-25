@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The Godot CLI is part of the core.",
+    "format": "form",
+    "workaround": "It can (as described above), but it is merely a hack around the current limitation and probably not very stable for future versions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-07-25T11:44:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3041,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a command line argument to enable specific editor plugins",
+  "up": 0,
+  "updatedAt": "2021-07-25T13:38:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3041"
+}

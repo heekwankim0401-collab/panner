@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Interfaces are built-in to other languages, I think this would make sense to be a core part of GDScript and not some external tool. It's akin to classes, functions, variables, etc. so I think it deserved first-class citizenship.",
+    "format": "form",
+    "workaround": "Technically it can be worked around with the current duck-typing approach. But I think it would make the code cleaner and safer to use explicit Interfaces. It's also easier and faster to write because we would have explicit checks and auto-completion. It's safer because it's more resilient to changes too (e.g. renaming a function wouldn't be flagged if the function is referenced as a string)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 62,
+  "createdAt": "2022-07-14T13:44:43Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4872,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow explicitly defining interfaces in GDScript",
+  "up": 598,
+  "updatedAt": "2026-09-30T21:02:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4872"
+}

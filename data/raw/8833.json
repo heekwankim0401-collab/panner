@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't believe an addon can do this.",
+    "format": "form",
+    "workaround": "I think you currently have to rebuild godot."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-08T18:00:34Z",
+  "comments": 4,
+  "createdAt": "2024-01-08T17:46:55Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8833,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add way  to optimize release builds for size",
+  "up": 3,
+  "updatedAt": "2024-01-08T21:07:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8833"
+}

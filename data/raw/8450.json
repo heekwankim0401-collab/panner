@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It might be possible to override the styling of these buttons with a plugin, but since it effects editor UX and accessibility I think everyone should get this enhancement.\n\nI'm definitely willing to look into this if it sounds helpful for everyone, but some advice on how best to approach it would be appreciated! Also let me know if you have any suggestions for different colors/transparency levels in the mockups I showed above. Thanks :)",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-20T18:38:49Z",
+  "comments": 6,
+  "createdAt": "2023-11-17T02:49:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 8450,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add hover highlight background to editor MenuButtons",
+  "up": 4,
+  "updatedAt": "2024-02-20T18:38:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8450"
+}

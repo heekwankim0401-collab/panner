@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it is a Very common feature in games, so a Game engine having a Default implementation would be great.",
+    "format": "markdown",
+    "workaround": "Yes, option 1 can be implemented in a handful of lines, and a single line for each sub-scene that gets instanced that needs to be saved to change owner to be saved when packing a scene, and every variable that is to be saved has to be declared with export"
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-25T15:18:40Z",
+  "comments": 21,
+  "createdAt": "2021-02-28T11:57:41Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2377,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Godot Save/Load System",
+  "up": 0,
+  "updatedAt": "2021-04-25T15:18:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2377"
+}

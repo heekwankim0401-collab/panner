@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think add-ons can solve this problem.",
+    "format": "form",
+    "workaround": "I may be wrong but I believe it's impossible to work around this problem."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-03-02T00:09:11Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 9214,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Option to not delete nodes created by MultiplayerSpawner when its authority peer disconnects",
+  "up": 20,
+  "updatedAt": "2024-10-07T08:59:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9214"
+}

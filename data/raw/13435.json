@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's related to gdscript and editor functionality.",
+    "format": "form",
+    "workaround": "a work around is hard to implement using plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-10-21T07:31:38Z",
+  "down": 1,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13435,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "add `@nodiscard` annotation for discarded return values",
+  "up": 4,
+  "updatedAt": "2025-10-21T15:24:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13435"
+}

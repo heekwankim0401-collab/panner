@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is the common use case/expected behavior, really.  I'd say it should just behave in the way that's intuitive out of the box.",
+    "format": "form",
+    "workaround": "It can be worked around, but it took an experienced dev several days, multiple forum posts, discussions on discord, and help from twitch chat to figure out how to do it.\n\nThis is ultimately what I ended up with:\n\n```\nfunc _ready():\n\tget_viewport().connect(\"size_changed\", self, \"_on_viewport_size_changed\")\n\tUpdateUIViewports()\n\n\nfunc _on_viewport_size_changed():\n\tUpdateUIViewports()\n\n\nfunc UpdateUIViewports():\n\tvar TheFinalTransform := get_viewport().get_final_transform()\n\tvar RootViewportSize := get_viewport().size\n\tvar RectScale := Vector2(TheFinalTransform.x.x, TheFinalTransform.y.y)\n\tvar InvRectScale := Vector2.ONE / RectScale\n\tViewportUI.size = RootViewportSize\n\tViewportContainerUI.rect_scale = InvRectScale\n\tViewportUI.get_child(0).rect_scale = RectScale\n\t# This part isn't as critical, but I have another viewport acting as an accumulation buffer for a glow effect:\n\tViewportUIGlow.size = RootViewportSize\n\tViewportContainerGlow.rect_scale = InvRectScale\n\tViewportUIGlow.set_clear_mode(Viewport.CLEAR_MODE_ONLY_NEXT_FRAME)\n```\n\nNot a lot of code, but it took a while to figure out + a lot of finagling with the controls on the menu to make sure they were positioned correctly within the viewport."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-09-08T08:37:21Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5372,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to automatically scale viewport resolution to match window resolution",
+  "up": 10,
+  "updatedAt": "2022-11-29T09:33:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5372"
+}

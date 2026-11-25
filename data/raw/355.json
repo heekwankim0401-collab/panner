@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be core because of the large number of possible use cases, including :\n- Using it as a true 3D perspective background in a 2D game\n- Using it as a skybox with animation and dynamic properties\n- Using it as a 3D background with 3D games\n- Dynamic muiti-layered background effects using more than one background scene\n\nAdditionally this is a very common feature in commercial game engines (camera layers)",
+    "format": "legacy",
+    "workaround": "As far as I know it's impossible because there is no simple way to render \"panoramic backgrounds\" and use them as background of camera.\nThe simplest workaround I can imagine would be to render the 6 faces of a cubemap, build a cubemap texture, convert it to an equirectangular projection (via a shader ?) and then use it as a background sky.\nThis is not doable in a few lines of script, and the performance would probably be really poor ..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2020-01-04T19:03:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 355,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "New scene instance type : Background",
+  "up": 3,
+  "updatedAt": "2023-08-03T17:37:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/355"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I am not sure if this can be achieved with an add-on, but I think the built-in text editor is a great idea and should be executed as well as possible. I like Godot because it has so much to offer out of the box, unlike Unity, and features like this definitely help to maintain that.",
+    "format": "markdown",
+    "workaround": "No, you cannot modify the built-in text editor using scripts, right?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-01-16T22:46:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2133,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Find and Replace should automatically fill in token under the caret without having to select it",
+  "up": 0,
+  "updatedAt": "2021-01-17T12:53:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2133"
+}

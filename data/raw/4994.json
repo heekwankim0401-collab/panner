@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 92,
+  "createdAt": "2022-07-27T11:58:00Z",
+  "down": 34,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": "5.0",
+  "number": 4994,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Remove the anchors and margin workflow from Control nodes, and move the feature to containers",
+  "up": 28,
+  "updatedAt": "2026-01-27T15:47:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4994"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-29T16:51:49Z",
+  "comments": 2,
+  "createdAt": "2026-03-26T16:16:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 14547,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to run particle AABB generation over an arbitrary amount of time",
+  "up": 2,
+  "updatedAt": "2026-04-29T19:57:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14547"
+}

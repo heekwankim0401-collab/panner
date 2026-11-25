@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Animated tile is a core feature of tilemap that is not easy to implement with plugins.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-20T01:59:14Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 10252,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "tilemap support add any place tile as animated tile.",
+  "up": 0,
+  "updatedAt": "2024-07-20T08:09:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10252"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't know",
+    "format": "legacy",
+    "workaround": "the module can be used as is."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-03T17:59:53Z",
+  "comments": 7,
+  "createdAt": "2020-10-03T01:01:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1601,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "C++ Module integration in Godot for a connection with Arduino via Serial",
+  "up": 0,
+  "updatedAt": "2020-10-03T21:45:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1601"
+}

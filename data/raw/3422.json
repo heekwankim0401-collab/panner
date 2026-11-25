@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This method provides functionality to create amazing add-ons, but its implementation depends on things only available in the core, like access to the SVG parser and rasterizer library (nanosvg).",
+    "format": "form",
+    "workaround": "No, we can load **SVGs** from file at runtime with [Image::load](https://docs.godotengine.org/en/stable/classes/class_image.html#class-image-method-load), but there is no option to load it at different scales, the scale 1.0 is implicit and cannot be modified.\n\n**Edit**: According to https://github.com/godotengine/godot-proposals/issues/3422#issuecomment-942560151, **SVG** is only available in editor builds, so even the [Image::load](https://docs.godotengine.org/en/stable/classes/class_image.html#class-image-method-load) won't work for exported projects."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-12T13:23:01Z",
+  "comments": 20,
+  "createdAt": "2021-10-13T16:36:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.2",
+  "number": 3422,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to load SVG files from buffer at an adjustable scale",
+  "up": 8,
+  "updatedAt": "2023-07-12T19:26:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3422"
+}

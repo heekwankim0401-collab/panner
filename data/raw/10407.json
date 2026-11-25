@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-10T00:47:28Z",
+  "comments": 1,
+  "createdAt": "2024-08-09T16:43:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:codestyle",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10407,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `std::initializer_list` constructors for containers",
+  "up": 0,
+  "updatedAt": "2024-08-10T00:47:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10407"
+}

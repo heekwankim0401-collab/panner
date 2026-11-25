@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's an editor inspector enhancement.",
+    "format": "form",
+    "workaround": "Used often if managing array items in inspector."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-29T10:54:56Z",
+  "comments": 0,
+  "createdAt": "2023-08-14T13:46:02Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.2",
+  "number": 7495,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add buttons to reorder inspector array items without dragging",
+  "up": 5,
+  "updatedAt": "2023-08-29T10:54:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7495"
+}

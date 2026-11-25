@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Multiple issues were made on a few of the bugs, and a few issues were  made on features :\n\nhttps://github.com/godotengine/godot/issues/95869\nhttps://github.com/godotengine/godot/issues/101195\nhttps://github.com/godotengine/godot/issues/49747\nhttps://github.com/godotengine/godot-proposals/issues/685",
+    "format": "form",
+    "workaround": "As already said, the user should be able to enable and disable said new features"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-01-24T22:26:34Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 14061,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Clamp Camera2D smoothing speed at low framerates to avoid overshooting",
+  "up": 4,
+  "updatedAt": "2026-01-27T00:24:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14061"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This simply cannot just be a addon. See above.",
+    "format": "form",
+    "workaround": "No, this is a structural change that has to not only be implemented in the editor (which also, while possible to support the additions to the editor ui via plugin, would be a very janky implementation given how the editor interface works now) but also in the asset db itself."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-10T22:09:36Z",
+  "comments": 1,
+  "createdAt": "2025-02-28T17:57:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:assetlib",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 11873,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Asset lib dependency managment and bundling",
+  "up": 0,
+  "updatedAt": "2025-07-10T22:09:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11873"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Should be aout of the box",
+    "format": "form",
+    "workaround": "In many workflows (level design, terrain editing), ortho views are essential.\nCurrently, objects vanish unpredictably in ortho due to visibility ranges, making those views unusable.\nOther engines (e.g., Unreal, Unity) handle this by either ignoring culling ranges in editor orthographic views or allowing camera movement along axis."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-08-30T10:32:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13098,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow moving camera along projection axis or disable visibility range when using orthographic cameras in the 3D editor",
+  "up": 2,
+  "updatedAt": "2025-09-20T06:15:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13098"
+}

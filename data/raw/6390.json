@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "EXRs are used a lot in the animation/VFX industry, and it provides a ton of data that can be used in post production. Having support for exporting to EXR seems to make a ton of sense. Also, not sure how well this would be supported outside of the core.",
+    "format": "form",
+    "workaround": "If this isn't used, then it will likely have to be exported via GDExtensions, if GDExtensions supports arbitrary outputs from the movie mode."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-03-02T03:39:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6390,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement OpenEXR output for Movie Maker mode",
+  "up": 4,
+  "updatedAt": "2023-03-03T20:47:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6390"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot touts that is is collaboration friendly but this seems to be a major hurdle for working with others simultaneously.",
+    "format": "form",
+    "workaround": "I'm not familiar enough with Godot to know if it is possible to circumvent the Id assignments but I feel this would be something like manually loading each resource using a script instead of building scenes using the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-19T20:52:29Z",
+  "comments": 1,
+  "createdAt": "2022-07-19T20:49:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4921,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Use GUID for Scene Resource Ids to prevent collisions when collaborating on the same scene file",
+  "up": 0,
+  "updatedAt": "2022-07-19T20:54:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4921"
+}

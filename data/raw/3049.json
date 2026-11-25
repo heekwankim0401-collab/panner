@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is an essential feature found on all operating systems and most file managers.",
+    "format": "form",
+    "workaround": "No, this should be a core feature, as it is used often enough."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-07-27T11:21:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3049,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to straight up delete a file from the File System panel",
+  "up": 4,
+  "updatedAt": "2024-05-06T19:48:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3049"
+}

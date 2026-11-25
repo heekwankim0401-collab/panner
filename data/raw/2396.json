@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AFAIK add-ons can't meddle with the compiler.",
+    "format": "markdown",
+    "workaround": "Potentially some sort of GDScript transpiler, though I'd prefer not to go there..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-03-04T09:21:06Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2396,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement string template inlining to improve string formatting performance when using `%` formatting",
+  "up": 0,
+  "updatedAt": "2023-04-23T19:54:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2396"
+}

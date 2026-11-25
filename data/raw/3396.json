@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be more convenient as a core feature.",
+    "format": "form",
+    "workaround": "I am not sure if you can implement the array part, but here's the rough idea:\n\n1. An autoload (singleton?) script, after the game loads, pause everything and\n2. go through the array, displaying custom splashes in order.\n3. When done, switch back to the main scene specified in the project settings."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-11T19:14:28Z",
+  "comments": 3,
+  "createdAt": "2021-10-06T23:07:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3396,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "More advanced options for splash or intro logos",
+  "up": 0,
+  "updatedAt": "2022-01-11T19:14:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3396"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would require adding code to the GDScript interpreter/linter.",
+    "format": "form",
+    "workaround": "I'm not experienced enough with the engine to determine this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-06-12T21:31:16Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12595,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a GDScript warning when a `match` statement has unhandled cases",
+  "up": 7,
+  "updatedAt": "2025-06-24T14:36:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12595"
+}

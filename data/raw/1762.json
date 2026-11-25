@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a matter of exposing what's already there in the engine, else you have to dig into the engine source and expose a list of constants yourself, not trivial.\n\nI can implement this proposal myself.",
+    "format": "legacy",
+    "workaround": "You have to manually rewrite all color constants back into a script. I want to avoid doing exactly that, because there are *a lot* of them."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-31T21:21:51Z",
+  "comments": 3,
+  "createdAt": "2020-11-02T22:42:21Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1762,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a method to return a list of `Color` constants",
+  "up": 2,
+  "updatedAt": "2021-02-24T14:22:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1762"
+}

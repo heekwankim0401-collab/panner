@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the default behaviour of the animationplayer.",
+    "format": "form",
+    "workaround": "This would be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-11-26T14:31:55Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11234,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow panning/scrolling into negative time for easier Bezier handle editing in the animation editor",
+  "up": 5,
+  "updatedAt": "2024-11-26T22:09:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11234"
+}

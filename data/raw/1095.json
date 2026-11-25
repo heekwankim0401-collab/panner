@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No reason for it to be an add-on.",
+    "format": "legacy",
+    "workaround": "It will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-06-20T15:51:12Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1095,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `font_color_selected_focus` theme item to ItemList",
+  "up": 0,
+  "updatedAt": "2023-10-06T03:05:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1095"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Providing these getters makes the list of tweens returned by `get_processed_tweens()` more useful.\n\nThe `SceneTreeTween` already has a `loops` member that could be used to implement this functionality, there just isn't any way to access it from GDScript.",
+    "format": "form",
+    "workaround": "The simplest workaround (as [suggested by](https://github.com/godotengine/godot-proposals/issues/5141#issuecomment-1211282860) @SilencedPerson) is to manually add metadata to infinitely looping tweens."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-26T20:29:57Z",
+  "comments": 8,
+  "createdAt": "2022-08-10T20:47:39Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.1",
+  "number": 5141,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "SceneTreeTween: Add a way to identify looping tweens",
+  "up": 4,
+  "updatedAt": "2023-03-26T20:54:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5141"
+}

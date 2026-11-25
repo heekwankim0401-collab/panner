@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would be really nice as an extra option for asset makers to be able to have text that asset users can read without a) using the tooltip or b) looking at the code / readme / docs",
+    "format": "form",
+    "workaround": "yes. you can obviously use editor scripts to do this kind of thing, but I'd love this to be a part of the godot ecosystem as a standardised feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-07-13T17:30:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10201,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "@export_label - read-only text object for the inspector",
+  "up": 7,
+  "updatedAt": "2025-07-01T21:29:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10201"
+}

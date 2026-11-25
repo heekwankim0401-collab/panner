@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature will be useful when you want to write more code in the same function for a lot of the scripts that will extend from another script. Like maybe when you for example want to write more code in the `_ready` or `_physics_process` but from an extended script or even add more code to the scripts that you made like for example adding more code to the 'attack' function for every enemy and more and more things.",
+    "format": "form",
+    "workaround": "For a thing like the `_ready` function, it will be easy to solve by just using the 'ready' signal itself. but I don't know how to make it for `_physics_process` function other than calling a signal from it."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-23T00:43:25Z",
+  "comments": 5,
+  "createdAt": "2022-02-22T22:27:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4085,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "_ready function doesn't call when the script is extended extends.",
+  "up": 0,
+  "updatedAt": "2022-02-23T16:49:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4085"
+}

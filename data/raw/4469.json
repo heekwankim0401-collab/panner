@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The shading language can't be modified by a script or add-on, and this would improve the performance of shaders because the extra float value for alpha wouldn't have to be included when it isn't needed.",
+    "format": "form",
+    "workaround": "Using a `vec4` instead of a `vec3` and ignoring the alpha value."
+  },
+  "assignees": 1,
+  "closedAt": "2022-05-01T08:23:42Z",
+  "comments": 1,
+  "createdAt": "2022-04-29T21:57:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 4469,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Shading language: Allow using `hint_color` with `vec3` to designate a uniform as a color with no alpha",
+  "up": 8,
+  "updatedAt": "2022-05-01T08:24:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4469"
+}

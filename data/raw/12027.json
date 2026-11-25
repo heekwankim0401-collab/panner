@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "To have feature parity with the spatial editor (3D view) and the Canvas editor (2D view).",
+    "format": "form",
+    "workaround": "There is no work around to my knowledge. I would love to know!"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-03-19T20:48:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 12027,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `CONTAINER_GAME_EDITOR_MENU` to CustomControlContainer",
+  "up": 0,
+  "updatedAt": "2025-03-20T00:05:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12027"
+}

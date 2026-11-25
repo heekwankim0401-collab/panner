@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The `project.godot` file is serialized with `Object` variants for key events.",
+    "format": "form",
+    "workaround": "This simple PR has the changes https://github.com/godotengine/godot/pull/92102"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-20T16:05:08Z",
+  "comments": 6,
+  "createdAt": "2024-05-19T02:29:33Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 9774,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Object text-based serialization more readable and VCS-friendly",
+  "up": 12,
+  "updatedAt": "2026-07-20T16:05:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9774"
+}

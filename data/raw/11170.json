@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Importing scenes is core functionality in the editor.\nThis would improve the modularity of imported assets when using them as part of larger physics objects.",
+    "format": "form",
+    "workaround": "I'm not sure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-15T23:04:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11170,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve/add new collision import options around indirect CollisionShape children (depends on godotengine/godot#77937)",
+  "up": 1,
+  "updatedAt": "2025-05-03T04:09:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11170"
+}

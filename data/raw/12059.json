@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, a lot of stylized games would look great with cheap SSAO and could still run on a potato. It's better that the builtin SSAO at least works rather than giving an error and forcing you into using Forward+. This solution would actually be **_a lot faster_** than directional shadows which actually look terrible in a lot of stylized games and is the reason artists sometimes avoid them entirely (especially in certain isometric games). Pre-Baked AO was generally used a lot in retro games, however it would nice to also have a generalized real time solution to save artists and programmers time.",
+    "format": "form",
+    "workaround": "You can write a shader to do it yourself, but since Godot doesn't yet support MRT, it's kind of hard to do the blur pass."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-01T18:13:57Z",
+  "comments": 9,
+  "createdAt": "2025-03-23T21:56:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.6",
+  "number": 12059,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement SSAO in the Compatibility rendering method",
+  "up": 7,
+  "updatedAt": "2025-11-01T18:13:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12059"
+}

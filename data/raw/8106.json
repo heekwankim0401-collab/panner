@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This already can be done in editor and it can really help if some users want to reuse particle without copying it for each node with mesh.",
+    "format": "form",
+    "workaround": "If doing precise emission points then it can't be worked around as far as i understand, i checked godot source code editor\\plugins\\gpu_particles_3d_editor_plugin.cpp and this file has ~400 lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-13T19:39:21Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8106,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to use editor particle function \"Create Emission Points From Node\" in code during runtime",
+  "up": 5,
+  "updatedAt": "2025-02-11T06:31:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8106"
+}

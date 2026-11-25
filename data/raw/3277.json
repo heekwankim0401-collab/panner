@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about making Godot extensible and easily workable on any platform.",
+    "format": "form",
+    "workaround": "No. The only solution right now is to compile a different `thread.cpp` instead of the core one, and add `#ifdef` every time `thread.h` is included in the engine."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-16T19:45:26Z",
+  "comments": 5,
+  "createdAt": "2021-09-11T04:38:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3277,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Let platforms set their own Thread implementation again (support was removed in 3.3)",
+  "up": 1,
+  "updatedAt": "2021-09-16T19:45:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3277"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be beneficial next time when security actually gets added to Godot.",
+    "format": "form",
+    "workaround": "No, as there is currently no way of unregistering it from a language."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-05-29T20:59:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6979,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Open up ScriptLanguage to the global scope.",
+  "up": 1,
+  "updatedAt": "2023-05-30T17:06:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6979"
+}

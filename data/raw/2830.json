@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This appears a small change with potentially major impact on readability, usability and I believe it could get a lot of use. The docs will correctly explain that `int`, `float`, `bool` and `string` are simply there for convenience as a shorthand way of writing the full typing syntax `var : type` and only these 4 types get a shorthand. GDScript only.",
+    "format": "markdown",
+    "workaround": "It can be worked around simply by using current typing GDScript typing syntax."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-01T18:12:54Z",
+  "comments": 17,
+  "createdAt": "2021-06-05T02:55:48Z",
+  "down": 21,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2830,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "int, float, bool, string keywords as shorthand to var : type syntax used by GDScript",
+  "up": 3,
+  "updatedAt": "2021-09-01T18:13:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2830"
+}

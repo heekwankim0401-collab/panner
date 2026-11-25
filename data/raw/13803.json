@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be a core change for GDScript.\n\n---\n\nI'd be willing to implement this myself if this were to be accepted.",
+    "format": "form",
+    "workaround": "It can't really be worked around very easily other than using `@export_custom` as described above. Doing that once would be fine, however this is something I'd see myself using on almost every exported variable, which would make the scripts very messy."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2025-12-07T13:24:00Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13803,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Simplify adding suffixes to normal `@export` variables",
+  "up": 16,
+  "updatedAt": "2026-05-06T17:54:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13803"
+}

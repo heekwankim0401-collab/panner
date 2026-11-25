@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "It can technically be done if a script is attached to every `AudioStreamRandomizer`, but I believe the aforementioned features to be basic usability."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-08-13T16:53:41Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10431,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add quality-of-life controls to `AudioStreamRandomizer` inspector",
+  "up": 10,
+  "updatedAt": "2026-05-14T02:36:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10431"
+}

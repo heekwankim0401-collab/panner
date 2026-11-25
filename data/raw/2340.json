@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It can't be an add-on.",
+    "format": "markdown",
+    "workaround": "It could be under rosetta, but native is always better for something critical like a game engine."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-24T10:37:01Z",
+  "comments": 2,
+  "createdAt": "2021-02-23T23:57:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:macos",
+    "topic:platforms"
+  ],
+  "milestone": "3.x",
+  "number": 2340,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Release official 3.2.3 binaries for ARM-based Macs",
+  "up": 0,
+  "updatedAt": "2021-02-24T10:37:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2340"
+}

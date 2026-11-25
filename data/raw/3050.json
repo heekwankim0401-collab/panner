@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a small feature on a core node.",
+    "format": "form",
+    "workaround": "This has one work-around, where you have to attach a script to each text box that captures and implements the TAB key, but it's pretty ugly, especially if you have many editor boxes.\nhttps://www.reddit.com/r/godot/comments/fvtwey/how_to_avoid_textedit_capturing_tab/\n\n```GDScript\nfunc _input(event):\n\tif event.is_action_pressed(\"ui_focus_prev\") and has_focus():\n\t\tif focus_previous != \"\":\n\t\t\tget_node(focus_previous).grab_focus()\n\t\tget_tree().set_input_as_handled()\n\telif event.is_action_pressed(\"ui_focus_next\") and has_focus():\n\t\tif focus_next != \"\":\n\t\t\tget_node(focus_next).grab_focus()\n\t\tget_tree().set_input_as_handled()\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2021-07-27T14:48:35Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3050,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a property to LineEdit and TextEdit to make it not capture `KEY_TAB` (= ui_focus_next)",
+  "up": 0,
+  "updatedAt": "2026-04-28T01:14:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3050"
+}

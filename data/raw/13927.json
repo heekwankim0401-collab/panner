@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This improves the developer experience of using a core functionality",
+    "format": "form",
+    "workaround": "Just have to do it in 2 lines as mentioned above"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-03T10:40:55Z",
+  "comments": 6,
+  "createdAt": "2025-12-29T18:10:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13927,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `Object.connect()` flag that runs the connected method immediately",
+  "up": 6,
+  "updatedAt": "2026-01-07T12:59:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13927"
+}

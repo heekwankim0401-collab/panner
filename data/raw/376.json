@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Restating the asterisked section above:\n\n> If you make it an addon that other addons would use as a dependency, then the UX of the concept drops considerably. If it isn't a built-in feature, then designing plugins that expect users to have the other plugin installed becomes much more difficult.\n> It's also slightly awkward since the functionality itself, \"being able to use dependency injection to plug in a class for a script's logic,\" is incredibly basic functionality that, due to the variety of class constructs in Godot, is far more complicated than it should be. Users shouldn't have to go through extra effort like an addon just to use dependency injection consistently. It should be a built-in feature.",
+    "format": "legacy",
+    "workaround": "Whether it is used often or not depends on whether someone...\n\n1. uses tools written by someone else (which are using dependency injection).\n1. how many people are on their team (if they write tools for other team members that use dependency injection).\n1. is busy writing the tools for other people to use (my use case).\n\nSo, *some* people may not use this feature at all, but *most* stand to benefit from it since dependency injection is a core programming principle that spans all scripting languages and software development paradigms.\n\nAnd no, it is anything but a few lines of script. My `class_type.gd` script is nearly a thousand lines of code by itself (probably could be shortened to around 800 lines of code if the spaces, inlined docs, and bloat are removed). Then you'd have to add all the editor tools on top of that which is probably another few hundred lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-01-12T17:31:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 376,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve dependency-injected classes for addons, plugins, and modding tools",
+  "up": 6,
+  "updatedAt": "2020-10-14T20:23:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/376"
+}

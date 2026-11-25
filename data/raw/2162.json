@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The way this is currently handled is inconsistent. An overhaul would benefit all users of `GDScript` (which are a overwhelming majority of Godot users).",
+    "format": "markdown",
+    "workaround": "At the moment the only way to emulate the desired behavior is to write custom functions that will be called from `_process`, etc. and being custom functions can be overridden properly. \n\nHowever this workaround is messy and inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-22T14:58:19Z",
+  "comments": 3,
+  "createdAt": "2021-01-22T14:43:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2162,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Standardize function overrides in GDScript",
+  "up": 0,
+  "updatedAt": "2021-01-22T17:07:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2162"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, improves the performance of all games, shaders effect everything.\nIt's simple to implement with somewhat of a big payoff.",
+    "format": "form",
+    "workaround": "Not really no, the current `#include` preprocessor is slow, duplicates code, and does not allow semantic analysis in the shader code editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-11T13:15:11Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 13363,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add shader libraries with shared linking",
+  "up": 0,
+  "updatedAt": "2025-10-13T19:40:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13363"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a thing with the audio server to fix it is having a modified fork",
+    "format": "form",
+    "workaround": "It might not be used that often but I use it cuz I have my own audio implementation with mini audio and steam audio\n \n I get you can use dummy driver but you are still allocating and running an audio thread that isn't in use so your wasting a thread doing work \n \n Like maybe could just be an option to disable the audio server loop the memory allocations are not the end of the world the audio thread running is much worse but it would be nice if it can just completely disable the audio system and not do memory allocations"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-09-08T00:56:13Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7625,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting to disable audio output without having to change the driver name to Dummy",
+  "up": 7,
+  "updatedAt": "2023-10-27T08:12:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7625"
+}

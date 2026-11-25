@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2026-08-28T14:23:41Z",
+  "down": 4,
+  "labels": [
+    "performance",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 15451,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Deprecate `set_script` to make object's types deterministic",
+  "up": 26,
+  "updatedAt": "2026-09-24T16:13:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15451"
+}

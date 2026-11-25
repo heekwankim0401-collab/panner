@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Documentation+integration tests are core",
+    "format": "form",
+    "workaround": "Not without tool script hacking."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-07-16T16:35:42Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": null,
+  "number": 4888,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automated editor interaction for documentation screenshots and integration tests",
+  "up": 0,
+  "updatedAt": "2022-07-16T16:39:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4888"
+}

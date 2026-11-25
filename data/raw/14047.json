@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core mod.",
+    "format": "form",
+    "workaround": "This more provides a workaround for a range of blockers that might not need official support or a custom fork, while still making it very explicit about safety and lack of support (and an opportunity for telemetry for data on what native vars are used) .\n\nThe specific froxel example can be calculated based of a copy of the env settings. Still a poor solution and coupled to the underlying implementation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-01-22T03:19:46Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 14047,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose shader internals for advanced use cases",
+  "up": 1,
+  "updatedAt": "2026-01-22T21:43:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14047"
+}

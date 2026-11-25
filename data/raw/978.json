@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "markdown",
+    "workaround": "It is a core usability feature for general scene editing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-05-31T06:39:39Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 978,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to hide parent node/mesh but keep children nodes visible",
+  "up": 8,
+  "updatedAt": "2021-08-11T23:17:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/978"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "You can't control this part of the engine without access to source code afaik. Maybe you do some hacky custom inspector plugin which doesn't actually export the array itself, but it should be an engine feature.",
+    "format": "form",
+    "workaround": "The actual persistence of the open state of the resources in the array can't be worked around, Not using the actual arrays of resources can be avoided, but this is a bad reason to avoid it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-07-31T17:43:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12910,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Keep open resources in `@export` array open when switching between inspectors",
+  "up": 5,
+  "updatedAt": "2025-09-29T12:42:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12910"
+}

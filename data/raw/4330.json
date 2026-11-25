@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The add-on would essentially need to re-create Line2D functionality, with this enhancement added on, and would need to be maintained alongside the existing Line2D code. This would result in unnecessary duplicated work on the part of whomever developed/maintained such an add-on.",
+    "format": "form",
+    "workaround": "Sometimes.\nFor example, if the line has a solid fill, it may be possible to select a different place for the start and end to meet. If both points share the same position and tangent, with no caps, it may look sufficiently like a smooth line.\nIt can be difficult to select an appropriate place however, especially for lines based on Curve2D baked points, and if gradients, width curves, and textures are applied."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-16T19:27:23Z",
+  "comments": 2,
+  "createdAt": "2022-04-01T21:28:08Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": "4.2",
+  "number": 4330,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `closed` property to Line2D",
+  "up": 14,
+  "updatedAt": "2023-09-16T19:27:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4330"
+}

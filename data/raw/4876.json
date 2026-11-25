@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it's a basic feature like in Unity",
+    "format": "form",
+    "workaround": "It will be used often because it's the main part of Model working and importing."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-14T22:22:24Z",
+  "comments": 1,
+  "createdAt": "2022-07-14T21:32:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4876,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Reload scene when importing 3d model change",
+  "up": 0,
+  "updatedAt": "2022-07-14T22:22:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4876"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I suppose it is possible to have an add-on that performs macros in shader codes. But in my opinion, #include is just a cleaner and better solution.",
+    "format": "markdown",
+    "workaround": "As far as I understand, no."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-30T04:41:06Z",
+  "comments": 1,
+  "createdAt": "2021-04-30T04:13:19Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 2674,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "#include statement in shader language",
+  "up": 2,
+  "updatedAt": "2021-04-30T04:41:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2674"
+}

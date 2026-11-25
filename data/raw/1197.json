@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I agree that anything beyond these fundamental building blocks makes better sense as game specific tools (possibly publihsed as a 3rd party addon in the asset lib), however these two things are so ubiquitous for large, open world games, that other engines are also taking a similar approach. As one example, see the upcoming large open world features in the Unreal Engine.\n\nI should also note that, at least for 3D, this feature doesn't make much sense until 4.0 when the rendering pipeline has been overhauled. The performance of 3D in godot simply isn't sufficient to run a large open world game, even with such optimizations such as level streaming, in any by the lowest-poly of games.",
+    "format": "legacy",
+    "workaround": "Technically speaking, these two fundamental components _can_ be implemented as `EditorPlugin`s using things like `Area2D` /`Area` nodes, but I worry about the performance of such an approach, not only from the performance characteristics of GDScript, but also the fact that `Area(2D)` nodes aren't designed for such a use case and their performance might not be up to the challenge. Something more tailored would be more ideal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-07-15T06:19:42Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1197,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add level streaming and stitching tools for creating large open worlds",
+  "up": 100,
+  "updatedAt": "2021-06-17T20:42:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1197"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core API change.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-11-27T15:45:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13736,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move translation related data away from `Object`",
+  "up": 6,
+  "updatedAt": "2026-05-06T11:40:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13736"
+}

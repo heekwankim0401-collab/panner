@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is to improve low-level ENet connections, which are currently being worked on in Godot 4.0.",
+    "format": "form",
+    "workaround": "In theory, one could create a dictionary that looks like {\"address:port\" -> ID)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-20T19:31:27Z",
+  "comments": 2,
+  "createdAt": "2022-11-20T12:54:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 5819,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose the peer ID in ENetConnection",
+  "up": 1,
+  "updatedAt": "2022-11-21T09:15:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5819"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this is an essensial feature for working with animation state machine, animation debugging or understanding how engine works.",
+    "format": "form",
+    "workaround": "I tried calculating it from start and end signals but it only works if there are no looped animations and all animation SwitchModes are At End. So no, not a straight forward way."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-03T23:36:40Z",
+  "comments": 1,
+  "createdAt": "2023-10-03T19:49:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7977,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to get whether AnimationTree StateMachine is currently in a Transition",
+  "up": 0,
+  "updatedAt": "2023-10-03T23:38:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7977"
+}

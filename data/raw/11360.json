@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "TileMapLayer is core",
+    "format": "form",
+    "workaround": "It can, but the solution (adding alternative tiles and just typing in their ID on the parameter) doesn't scale well"
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-16T04:46:45Z",
+  "comments": 1,
+  "createdAt": "2024-12-16T03:43:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 11360,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add easier transpose/flip access to tiles for TileMapLayer",
+  "up": 0,
+  "updatedAt": "2024-12-16T22:47:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11360"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a simple minor change that will improve the functionality offered by EditorScenePostImport for everyone.",
+    "format": "form",
+    "workaround": "It can technically be worked around by just saving all the animation resources to a single unified directory.\nOr by making a custom import script for each directory needed.\nAll solutions that aren't really super great."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-11T22:32:40Z",
+  "comments": 2,
+  "createdAt": "2023-09-17T20:42:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7718,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Pass File Path to EditorScenePostImport's",
+  "up": 0,
+  "updatedAt": "2023-11-12T11:56:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7718"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature can be implemented via a GDScript plugin, even a GDExtension, but the control of signals emission is a big problem that blocks the simplify of the plugin. So it could be better for it to become a built-in feature",
+    "format": "form",
+    "workaround": "Yes, it can be. However, as the project grows, it'd be more confusing for developers to maintain."
+  },
+  "assignees": 0,
+  "closedAt": "2026-04-02T12:03:41Z",
+  "comments": 0,
+  "createdAt": "2023-10-27T14:36:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8273,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an optional property to cache collisions of `AreaXX` when the `CollisionShapeXX` in other area or body is changed because of the removal/addition/change of `shape`",
+  "up": 0,
+  "updatedAt": "2026-04-02T18:07:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8273"
+}

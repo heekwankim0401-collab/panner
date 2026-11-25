@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This proposal modifies a core component.",
+    "format": "form",
+    "workaround": "Any work-around would likely not yield the desired performance."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-14T08:27:50Z",
+  "comments": 1,
+  "createdAt": "2021-07-09T07:55:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2966,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement batching in ResourceLoader",
+  "up": 13,
+  "updatedAt": "2022-09-18T21:37:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2966"
+}

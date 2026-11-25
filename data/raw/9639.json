@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Part of core editor loading system\n\n_Bugsquad edit:_ Fix formatting.",
+    "format": "form",
+    "workaround": "There may be other ways of writing this, but this is about reducing 10 lines of script to about 5"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-04-30T20:39:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9639,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically wait for ready before running `set` on exported properties on tool scripts in the editor",
+  "up": 6,
+  "updatedAt": "2024-05-01T08:11:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9639"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "RTL is core.",
+    "format": "form",
+    "workaround": "Yes. I can currently do this by looping through the entire string and calling `get_character_line()` for every character but for longer dialog scripts this can be inefficient."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-16T18:17:02Z",
+  "comments": 0,
+  "createdAt": "2024-12-15T14:24:30Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 11358,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `get_line_range()` to RichTextLabel",
+  "up": 1,
+  "updatedAt": "2024-12-16T18:17:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11358"
+}

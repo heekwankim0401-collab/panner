@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "- signals are core functions\n- godot sidebar need to be enhanced to match new way not only scene specific synals\n- godot sidebar need to support GDScript\n- GDScript need to have new signal way and manager that could be enabled and disabled",
+    "format": "form",
+    "workaround": "Not the issue\nit's not about how much bigger the code is, but it's about the usability of signals and less wornigs"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-06T17:21:15Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10673,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enhance signals for global scripts",
+  "up": 1,
+  "updatedAt": "2025-03-01T17:05:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10673"
+}

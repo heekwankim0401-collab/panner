@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the appearance of text when using system font aliases.",
+    "format": "form",
+    "workaround": "Similar to how it's worked around on the web platform, this can be worked around by specifying a list of fonts with appropriate fallbacks for all platforms."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-11-12T18:20:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5767,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use a modern font stack in aliases used for system font loading (`serif`, `sans-serif`, …)",
+  "up": 7,
+  "updatedAt": "2026-07-28T08:11:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5767"
+}

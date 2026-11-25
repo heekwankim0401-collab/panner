@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires changes to the shader preprocessor.",
+    "format": "form",
+    "workaround": "Yes, there is an existing workaround. See above."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-10T18:19:54Z",
+  "comments": 4,
+  "createdAt": "2024-09-17T02:36:01Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.4",
+  "number": 10764,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a shader preprocessor #define for the renderer (Compatibility, Forward+, or Mobile)",
+  "up": 5,
+  "updatedAt": "2024-11-10T20:13:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10764"
+}

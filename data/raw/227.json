@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "Not being a feature that's available out-of-the-box would defeat the purpose of being a beginner-friendly feature. \n\nUsability is one of the core pilars of Godot and this feature makes the learning curve less steeper for new users, providing them with a familiar workflow without disturbing in any way the workflow of experienced users. It is also relatively simple to implement, being mostly a variation of EditorExportPlatform::save_zip",
+    "format": "legacy",
+    "workaround": "The same end result can be achieved with an external tool and probably with a plugin but not the same user experience."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-11T21:38:36Z",
+  "comments": 10,
+  "createdAt": "2019-11-13T00:43:46Z",
+  "down": 3,
+  "labels": [
+    "platform:android",
+    "platform:linuxbsd",
+    "platform:macos",
+    "platform:windows",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 227,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose \"Download Project Source\" option on platforms other than HTML5",
+  "up": 15,
+  "updatedAt": "2025-01-11T21:39:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/227"
+}

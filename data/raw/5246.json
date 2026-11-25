@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Format specifier are core already.\n\n[GDScript format strings](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_format_string.html#gdscript-format-strings)",
+    "format": "form",
+    "workaround": "I think it will be used often. As output of arrays during development is quite common and easier than looking into them in debug."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-08-24T12:56:00Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5246,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Format specifier for output of arrays via \"%#...\" by using known type specifiers when printing",
+  "up": 3,
+  "updatedAt": "2023-09-07T14:24:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5246"
+}

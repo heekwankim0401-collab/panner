@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's the only sane way to use webrtc.",
+    "format": "form",
+    "workaround": "i am no expert on this matter by any means but what i found out is :\nnot in a reliable OR a good way. but it's possible to \n1. wait a second or two and assume the ICE candidates have been fully gathered. \n2. send the gathered ICE candidates to the remote peer. hope the remote peer can connect. \n3. if the remote peer fails and ICE candidates count has changed so far, retry again with the new collection."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-27T11:13:25Z",
+  "comments": 1,
+  "createdAt": "2021-09-22T15:27:06Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 3334,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose WebRTC's ICE gathering state",
+  "up": 0,
+  "updatedAt": "2022-10-27T15:57:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3334"
+}

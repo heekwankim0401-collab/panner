@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, there is a huge reason: Deep Core Access and Performance. >\nIf you make this as a plugin (like Orchestrator), it's always 'fighting' against the API limits. For something like Voxel generation or massive AI, every millisecond counts. A core feature like GodoPrint can use the engine's internal memory management and C++ optimization much better than any addon.\nAlso, if it's core, it becomes a standard. Plugins break when the engine updates, but a native GodoPrint would be stable for professional teams. If we want Godot to compete with big engines in high-performance tasks, we need a high-speed visual bridge that is part of the engine's DNA, not just an extra download that might stop working tomorrow.",
+    "format": "form",
+    "workaround": "Performance and integration. A plugin is always limited by the API. A core system (GodoPrint) has direct access to the engine's internals (Core), which is necessary for the speed required by Voxel games and complex systems. Also, it makes the engine more professional and complete out of the box"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2026-01-07T17:23:59Z",
+  "down": 2,
+  "labels": [
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 13972,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Proposal for GodoPrint: High-performance Visual Scripting (C++/GDExtension based)",
+  "up": 0,
+  "updatedAt": "2026-03-01T21:09:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13972"
+}

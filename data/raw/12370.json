@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same as the Mute Game feature, a nice addition to Game view QoL testing tools.",
+    "format": "form",
+    "workaround": "I don't know how network works in godot in the background, maybe the addon/script need to modify something on every network related node in the scene tree? which might be complicated, and a native solution would be really helpful."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-05-05T04:11:28Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 12370,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a toggle button to simulate disabled Internet connection on Game view",
+  "up": 1,
+  "updatedAt": "2025-05-06T15:08:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12370"
+}

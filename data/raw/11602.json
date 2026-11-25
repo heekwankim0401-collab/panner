@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's prohibitive to make a CSGShape3D gdextension for add-ons.",
+    "format": "form",
+    "workaround": "I am having trouble workarounding missing exposed internal methods via conversion to ArrayMesh.\n\nIt's like having a property that's a CSGMesh3D and extracting the ArrayMesh so we can process it and put it back into the CSGMesh3D as an array mesh for the next node in the csg tree.\n\n```gdscript\nextends MeshInstance3D\n\nfunc _ready():\n\tawait get_tree().process_frame\n\tvar parent_node = get_parent()\n\tif not parent_node or not parent_node.has_method(\"is_root_shape\") or not parent_node.is_root_shape():\n\t\tprint(\"Error: Parent is not a CSGMesh root node.\")\n\t\treturn\n\tvar meshes = parent_node.get_meshes()\n\tif meshes.size() > 1:\n\t\tvar combined_mesh = meshes[1]\n\t\tif combined_mesh:\n\t\t\treplace_with_processed_mesh(parent_node, combined_mesh)\n\telse:\n\t\tprint(\"Error: Not enough meshes in the root node.\")\n\nfunc process_array_mesh(array_mesh: ArrayMesh):\n\tprint(\"Processing ArrayMesh with surface count: \", array_mesh.get_surface_count())\n\tvar vertex_count = 0\n\tfor i in range(array_mesh.get_surface_count()):\n\t\tvar surface_array = array_mesh.surface_get_arrays(i)\n\t\tvar vertices = surface_array[Mesh.ARRAY_VERTEX]\n\t\tvertex_count += vertices.size()\n\tprint(\"Total number of vertices: \", vertex_count)\n\nfunc replace_with_processed_mesh(root_node, processed_mesh):\n\tprocess_array_mesh(processed_mesh)\n\tvar mesh_instance = MeshInstance3D.new()\n\tmesh_instance.mesh = processed_mesh\n\tmesh_instance.global_transform = root_node.global_transform\n\tif not root_node.get_parent():\n\t\treturn\n\troot_node.get_parent().add_child(mesh_instance)\n\troot_node.queue_free()\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-01-18T16:20:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 11602,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Expose CSGShape3D",
+  "up": 2,
+  "updatedAt": "2025-01-19T16:09:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11602"
+}

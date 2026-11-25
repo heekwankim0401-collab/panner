@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This tools(algoritms) is very usability and probality allways use in games and it can be used to make cool stuff\nExample -\n2D Regularized Boolean Set-Operations\n2D Boolean Operations on Nef Polygons\n2D Boolean Operations on Nef Polygons Embedded on the Sphere\n2D Polygon Partitioning - _The algorithms can produce results with the minimal number of polygons_\n2D Visibility Computation - very usable in game industry\n2D Placement of Streamlines\nTriangulated Surface Mesh Segmentation - if combine with Deformation, and procedual skeletal(bones) generation, split surfaces for materials ...\nTriangulated Surface Mesh Simplification - auto LOD?\nTriangulated Surface Mesh Deformation - this soft word \"deform\"...\nTriangulated Surface Mesh Shortest Paths\nOptimal Distances\n.... and many others useful algoritms from this library.\nP.S. and this solve problems with CSG",
+    "format": "legacy",
+    "workaround": "Often, and this algoritms need native speed and direct access to raw internal data(avoid overhead and copy-paste data, vertex, meshes (core -> C#/GDScript/GDNative -> core) )"
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-13T23:41:18Z",
+  "comments": 10,
+  "createdAt": "2020-06-29T00:53:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1137,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Integrate CGAL to replace the built-in CSG module",
+  "up": 0,
+  "updatedAt": "2020-09-13T23:41:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1137"
+}

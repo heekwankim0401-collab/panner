@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "i think that initialization order would be a useful tool at least for advanced users, and help smooth the experience of using `class_name` in cases like these",
+    "format": "form",
+    "workaround": "this would be a change to the way the engine loads user classes in a systematic way - barring incidental changes to initialization order due to leveraging engine knowledge no other way exists to my knowledge(eg using preloaded consts to force a dependency and therefore load the class)"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-20T17:48:38Z",
+  "comments": 6,
+  "createdAt": "2025-05-19T16:36:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12463,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to manually determine class initialization order in engine",
+  "up": 0,
+  "updatedAt": "2025-05-20T18:39:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12463"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a Logical Correction to a Core setting.",
+    "format": "form",
+    "workaround": "Yes, you can set it in a Material, for each one."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-08-13T18:05:40Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 3134,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Set default 3D material sampling method to Linear Mipmap Anisotropic",
+  "up": 13,
+  "updatedAt": "2025-04-15T06:53:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3134"
+}

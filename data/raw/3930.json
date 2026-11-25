@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "everyone that scripts layers would benefit.",
+    "format": "form",
+    "workaround": "You could write your own function and put it in a singleton. But this adds unnecessary complexity."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2022-02-07T21:28:09Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3930,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable using layer names instead of int for setting collision layers",
+  "up": 38,
+  "updatedAt": "2024-09-25T13:32:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3930"
+}

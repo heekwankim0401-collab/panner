@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would improve compatibility with older hardware running X11, as software rendering for Vulkan is part of Mesa.",
+    "format": "form",
+    "workaround": "It can, but it will be used very often.\n\nIn an autoload:\n```\nfunc _enter_tree() -> void:\n\tif OS.has_feature(\"linux\"):\n\t\tif RenderingServer.get_video_adapter_type() == RenderingDevice.DEVICE_TYPE_CPU:\n\t\t\tOS.set_restart_on_exit(true, [\"--rendering-driver\", \"opengl3\", \"--rendering-method\", \"gl_compatibility\"])\n\t\t\tget_tree().quit()\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2026-01-15T22:50:08Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14018,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement falling back to hardware OpenGL if the system only supports Vulkan through software rendering",
+  "up": 0,
+  "updatedAt": "2026-01-27T17:42:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14018"
+}

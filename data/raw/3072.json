@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be a Godot setting.",
+    "format": "form",
+    "workaround": "No, it would be a Godot setting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2021-08-01T11:50:53Z",
+  "down": 2,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3072,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting to make subresources unique when creating new resources",
+  "up": 10,
+  "updatedAt": "2024-08-01T10:50:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3072"
+}

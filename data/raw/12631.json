@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not sure if an addon could do this.",
+    "format": "form",
+    "workaround": "Not that I'm aware of, since there is no option to run a script during VoxelGI bake or anything like that."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-06-18T19:06:48Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12631,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a VoxelGI Material override for MeshInstance3D",
+  "up": 2,
+  "updatedAt": "2025-11-15T11:22:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12631"
+}

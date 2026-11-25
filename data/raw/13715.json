@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "While not a huge step to make a plugin out of, This could benefit the CSG system and work alongside MeshInstance + CollisionShape Baking",
+    "format": "form",
+    "workaround": "It can be achieved with a basic class in GDScript (as shown above)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-26T20:23:27Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13715,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Convert to Polygon\" to CSGBox3D and CSGCylinder3D",
+  "up": 3,
+  "updatedAt": "2026-02-26T20:12:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13715"
+}

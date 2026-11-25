@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes.\nThis should be part of the engine because the current limitations are related to the core rendering and input systems of Godot.\nThe performance issues with Image, the lack of proper alpha blending, and the incomplete multitouch behavior in SubViewport cannot be fully solved through GDScript or add-ons — they require deeper engine-level optimization.\n\nWhile an add-on can offer workarounds, it would still depend on the same slow APIs and limited input behavior.\nFor smooth, professional drawing or editing apps (and even for in-game painting or map editors), these features need to be reliable and efficient at the engine level.",
+    "format": "form",
+    "workaround": "Not really.\nIt’s not possible to properly work around this issue with just a few lines of script.\nDrawing performance, alpha blending, and multitouch accuracy depend on how Image and CanvasItem are handled internally by the engine.\nAny GDScript solution ends up being slow, especially on mobile, because it has to loop through pixels or simulate blending manually.\n\nEven existing community examples or plugins suffer from the same performance and blending issues, since they all rely on the same internal functions."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-10-15T16:49:15Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13393,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve Image and CanvasItem usability for drawing and painting apps (especially on mobile)",
+  "up": 0,
+  "updatedAt": "2025-10-15T21:20:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13393"
+}

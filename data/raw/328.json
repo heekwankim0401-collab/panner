@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same as above",
+    "format": "legacy",
+    "workaround": "Plugins are per project. It will be tedious to set image editor in each project"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-21T19:57:27Z",
+  "comments": 15,
+  "createdAt": "2019-12-22T11:22:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 328,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow opening sprites and other files in external editor/default program",
+  "up": 17,
+  "updatedAt": "2023-01-21T19:59:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/328"
+}

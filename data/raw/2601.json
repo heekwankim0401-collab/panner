@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It directly address issues on how to increase asset store activity, although as addressed above, it is potentially implementable as a plugin.\n\nfootnote: This was directly motivated by discussions in the new `grand-auditorium` in the godot discord server.",
+    "format": "markdown",
+    "workaround": "#### Assume this is the question: \"If this enhancement will not be used often, can it be worked around with third-party tools?\"\n\nYes possibly, an \"asset store\"-ish plugin, might be able to implement it."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-24T18:14:55Z",
+  "comments": 6,
+  "createdAt": "2021-04-13T21:40:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:assetlib"
+  ],
+  "milestone": null,
+  "number": 2601,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a point-based bounty system to Godot, without involving money.",
+  "up": 0,
+  "updatedAt": "2021-12-24T18:17:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2601"
+}

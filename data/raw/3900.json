@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, because it's about loops and any inner loop always needs to run as fast as it possibly could.\n\nThe inability to use already declared variables as for-loop-counters is limiting, not helping.",
+    "format": "form",
+    "workaround": "See above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-01-31T08:55:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3900,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Using pre-defined variables for for-loops.",
+  "up": 2,
+  "updatedAt": "2022-05-21T09:14:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3900"
+}

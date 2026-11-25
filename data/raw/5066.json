@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can actually be written in gdscript (to an extent) - I've been writing preliminary version in gdscript due to ease of testing / debugging, with the intention to later convert to c++. However as a potential bottleneck it will run much faster in core, and be able to be more tightly linked to the data.\n\nWe could of course expose the navmesh data more fully in the API (which I would recommend doing anyway) and allow this fully from addons, however this type of sliding / queries are fairly standard and will run much faster in core.\n\n## Discussion\nThis is an alternative to https://github.com/godotengine/godot-proposals/issues/4522 .\nFixes https://github.com/godotengine/godot/issues/48025 .\n\nI've already started implementing this. I've written such code several times before when working with navmeshes and have a couple of old implementations I wrote for reference (one using fixed point) but it makes sense to do something godot specific here.\n\nI first started writing directly in c++ in the Navigation module but it has proved easier for debugging to write a testbed in gdscript, get the code perfected then convert to c++.",
+    "format": "form",
+    "workaround": "It will likely be used very often, and requires some hundreds of lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2022-08-03T12:45:21Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 5066,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add NavigationMesh-based collision detection / sliding (NavPhysics)",
+  "up": 20,
+  "updatedAt": "2025-08-26T11:53:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5066"
+}

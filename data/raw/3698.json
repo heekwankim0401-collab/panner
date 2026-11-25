@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a part of the editor, and it only makes a process that already exists a bit faster and more convenient.",
+    "format": "form",
+    "workaround": "Yes, you can use the current workflow of going to Project Settings -> AutoLoad and finding the file there."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2021-12-19T21:55:44Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3698,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an \"Add AutoLoad\" button to the FileSystem right-click menu for scene and script files",
+  "up": 10,
+  "updatedAt": "2022-02-14T18:43:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3698"
+}

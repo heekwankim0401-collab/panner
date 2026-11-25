@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a change part of the core editor.",
+    "format": "legacy",
+    "workaround": "Not unfortunately because you still need a `Node3D`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-10-16T08:01:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1674,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 3D gizmos for Node",
+  "up": 0,
+  "updatedAt": "2023-02-24T02:59:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1674"
+}

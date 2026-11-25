@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, for several reasons:\n\t•\tThe feature is tightly coupled with AnimatedSprite2D, a core engine node.\n\t•\tIt requires deep integration with the animation editor and rendering pipeline.\n\t•\tAn add-on cannot easily or cleanly extend the frame editor UI to this level.\n\t•\tSimilar systems exist in other 2D engines and tools (e.g. image points in Construct 2/3), demonstrating a common and recurring need.\n\nAs a core feature, this enhancement would benefit a wide range of 2D games (combat, platformers, narrative games, etc.) and fit naturally within Godot’s ecosystem.\n\n<img width=\"1000\" height=\"793\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a9d4a21b-8453-474d-9c21-a45aab06144e\" />",
+    "format": "form",
+    "workaround": "While partial workarounds are possible via scripting, they require far more than a few lines of code:\n\t•\tManual tracking of frame indices.\n\t•\tSynchronization between animation state and gameplay logic.\n\t•\tFrequent updates whenever animation assets change.\n\t•\tDuplication of similar logic across multiple characters or animations.\n\nSuch approaches scale poorly and introduce maintenance and reliability issues."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-01-29T12:32:00Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 14098,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for dynamic tracking points on AnimatedSprite2D",
+  "up": 2,
+  "updatedAt": "2026-10-20T00:17:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14098"
+}

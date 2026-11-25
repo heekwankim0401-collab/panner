@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It could be an optional addon instead of core.",
+    "format": "form",
+    "workaround": "It can be worked around with the current system."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-03T15:27:57Z",
+  "comments": 5,
+  "createdAt": "2021-07-11T02:59:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2977,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Autoload and scene tree should be combined into a unified system",
+  "up": 0,
+  "updatedAt": "2022-07-03T15:28:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2977"
+}

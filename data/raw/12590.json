@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Using `AnimationPlayer` to handle gameplay logic comes as a natural and **very** versatile solution to many problems, in my opinion. This would enhance that and give developers a very strong tool out-of-the-box to control gameplay logic over a timeline more easily, which I think is almost a requirement for certain types of games.",
+    "format": "form",
+    "workaround": "Even making a plugin or an addon to handle this is not viable; much of the objects that make up `AnimationPlayer` and its interfaces are not well exposed to the end-user, so one would have to re-engineer a lot of functionality that already exists within the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-06-12T02:40:45Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12590,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow invoking custom behavior on AnimationPlayer through \"clips\"",
+  "up": 0,
+  "updatedAt": "2026-03-29T04:12:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12590"
+}

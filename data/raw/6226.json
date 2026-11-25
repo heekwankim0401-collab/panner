@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "see above.",
+    "format": "form",
+    "workaround": "no, it cannot. Particles don't expose their random. And for using a modulus on the indexes, it requires to make the process material as a shader, losing all the configuration and flexibility on it. Furthermore, it would be easier if it was managed by the particle node itself rather than the  process shader."
+  },
+  "assignees": 1,
+  "closedAt": "2025-01-13T19:29:02Z",
+  "comments": 1,
+  "createdAt": "2023-02-03T12:04:30Z",
+  "down": 0,
+  "labels": [
+    "topic:particles",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.4",
+  "number": 6226,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow optional seed specifying for particles",
+  "up": 5,
+  "updatedAt": "2025-01-13T19:29:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6226"
+}

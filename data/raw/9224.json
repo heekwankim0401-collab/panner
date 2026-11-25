@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Rect2, Rect2i and AABBs are all core. This feels like something that should be possible out of the box",
+    "format": "form",
+    "workaround": "This can be achieved by clamping the individual axes of the point to be within the bounds. However this is quite tedious to write out in gdscript, as one must consider the size and offset of the bounds, and do so on 2-3 axes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-03-03T09:26:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9224,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add functions to clamp a point to a Rect2, Rect2i or AABB",
+  "up": 0,
+  "updatedAt": "2024-08-23T16:41:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9224"
+}

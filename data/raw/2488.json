@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving interoperability with third-party software.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-04T09:26:14Z",
+  "comments": 0,
+  "createdAt": "2021-03-21T13:31:24Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 2488,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the file extension for Godot text shaders from `.shader` to `.gdshader` for better recognition by third-party software",
+  "up": 25,
+  "updatedAt": "2021-06-04T09:26:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2488"
+}

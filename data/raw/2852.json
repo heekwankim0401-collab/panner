@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Well, this would impact visual script, but also work in visual shaders, and I think there's a new node based particle emitter system . . . These things don't really matter, for 30 - 60 minutes work, but for making a small AA game, tons of work in all these editors, well it adds up, to 'head-ache', thanks . . Again, it's already looking amazing, hope you will consider making the graph editor more 'customizable', these small things add, to a ' premium ' feel, imo . . :OO . . .",
+    "format": "form",
+    "workaround": "Can't re-write the engine, atm . . :OO . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T16:16:51Z",
+  "comments": 6,
+  "createdAt": "2021-06-11T11:17:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 2852,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add options to customize graph nodes further in Godot 4 . . ",
+  "up": 0,
+  "updatedAt": "2022-08-24T16:16:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2852"
+}

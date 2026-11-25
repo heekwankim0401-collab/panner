@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Export vars are core to the engine",
+    "format": "markdown",
+    "workaround": "I don't know how"
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T12:17:07Z",
+  "comments": 4,
+  "createdAt": "2021-03-12T05:44:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2451,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Exporting integer variables should be able to set min value without setting max value",
+  "up": 1,
+  "updatedAt": "2026-07-28T12:17:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2451"
+}

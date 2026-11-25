@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This makes sense to be a core feature of gdscript because this feature will be used very often and it is so simple that it makes sense for gdscript to have this feature.",
+    "format": "form",
+    "workaround": "It can be worked around by adding an warning ignore annotation for every instance where it is needed, but this is very inconvenient and makes code harder to read."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-30T22:08:25Z",
+  "comments": 2,
+  "createdAt": "2024-10-30T21:43:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11053,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Option for script-wide warning ignores",
+  "up": 0,
+  "updatedAt": "2024-10-31T00:26:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11053"
+}

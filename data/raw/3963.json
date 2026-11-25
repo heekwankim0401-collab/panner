@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's pretty core to how the audio engine works, I'm not sure that this could be done in a plugin.",
+    "format": "form",
+    "workaround": "I dont believe so. I also believe this will be very useful to developers. Almost every developer I've shown the inner workings of SPRAWL to has asked me how we managed to do the music system and when we showed them how to work with the Unreal Quartz Subsystem they have looked to incorporate that in their own."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-02-12T20:55:42Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3963,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Audio playback quantisation support",
+  "up": 20,
+  "updatedAt": "2023-09-23T19:36:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3963"
+}

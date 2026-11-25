@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Refer to previous section.",
+    "format": "legacy",
+    "workaround": "Absolutely not. This can only be implemented in core."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-20T11:58:23Z",
+  "comments": 2,
+  "createdAt": "2020-11-20T00:30:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1863,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement Oblique near clipping plane for cameras",
+  "up": 3,
+  "updatedAt": "2023-02-21T15:49:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1863"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhances the core feature, I'm not sure add-on can achieve that (other than having a different copy of a RichTextLabel with only a small difference in behavior).",
+    "format": "form",
+    "workaround": "Not to my knowledge, the information is not available anywhere."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-09-20T21:53:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5463,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "RichTextLabel's meta_clicked should provide more information about the click event",
+  "up": 0,
+  "updatedAt": "2022-09-21T09:53:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5463"
+}

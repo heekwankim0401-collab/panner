@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This cannot be an addon due to the inability to:\n\nModify the export preset UI\nInsert custom modal confirmations before the built-in export triggers\nBlock export until user input is handled",
+    "format": "form",
+    "workaround": "I'm not qualified to answer this question in depth. Probably a few lines of code for the seasoned user, but not the average Joe."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-05-08T13:57:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 12391,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add “Force Version Confirmation Before Export” option in export settings window",
+  "up": 0,
+  "updatedAt": "2025-07-08T14:02:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12391"
+}

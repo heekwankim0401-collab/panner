@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I suppose it could be an add-on, but it would be more optimal if handled in C++, and it's something I feel should \"just work\".",
+    "format": "legacy",
+    "workaround": "It can be done in script, but it's a bit complicated.  Seems like the type of thing that should \"just work\"."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-10-02T13:51:35Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 1596,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use most intense rumble if `Input.start_joy_vibration()` is called multiple times",
+  "up": 4,
+  "updatedAt": "2020-10-02T17:05:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1596"
+}

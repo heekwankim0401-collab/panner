@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not sure how you could expand basic gdscript functionality as an addon.  I don't know enough about the structure of Godot.\n\n\nNaming is unimportant..  call it search_custom, call it find_custom.  whatever makes sense to the implimenter.  I think 'find' would make the most sense, as it would parallel the find command.",
+    "format": "legacy",
+    "workaround": "I would expect any data heavy application to use something like this quite often.  I'm rather surprised that this basic functionality was not implemented, especially since there is a custom binary search method... but this method requires sorting."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-17T09:49:53Z",
+  "comments": 1,
+  "createdAt": "2020-06-26T04:53:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1120,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `Array.find_custom(Variant value, Object obj, String func, int from=0)`",
+  "up": 11,
+  "updatedAt": "2023-09-17T10:34:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1120"
+}

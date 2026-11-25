@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "IMO, it was basic method, should be core.",
+    "format": "form",
+    "workaround": "no, i can't."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-08-30T02:44:27Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10599,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a get_random_position&is_position_in_area method for Area2D/Area3D",
+  "up": 4,
+  "updatedAt": "2024-08-31T13:53:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10599"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an engine feature.",
+    "format": "form",
+    "workaround": "Set once and forget"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-01-05T23:14:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11501,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an editor setting to disable quick preview of materials on 3D meshes when dragging them over the 3D view",
+  "up": 2,
+  "updatedAt": "2025-06-24T13:11:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11501"
+}

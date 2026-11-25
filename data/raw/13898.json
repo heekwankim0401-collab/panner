@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this requires modifying the editor's internal UI (script_editor_debugger.cpp). I don't think the Errors tab is exposed to add-ons or scripts—there's no API to change its font or theming from outside the engine. Related proposal: [#12904](https://github.com/godotengine/godot-proposals/issues/12904) requests monospace for the expression evaluator in the Debugger. This proposal addresses the same inconsistency in a different part of the Debugger panel.",
+    "format": "form",
+    "workaround": "**No practical workaround exists.**\n- As far as I can tell, the Errors tab UI is internal to the editor and cannot be modified by add-ons\n- Outputting to the Output panel instead works visually, but users don't see it because the Debugger panel auto-opens on errors\n- Stripping the diagnostic formatting and outputting plain text loses the visual context that makes these errors useful"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-12-21T16:08:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13898,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use monospace font in Debugger → Errors tab for proper diagnostic alignment",
+  "up": 3,
+  "updatedAt": "2025-12-28T00:51:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13898"
+}

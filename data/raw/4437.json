@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would improve iteration time of GDExtension significantly and shouldn't interfere with other features.",
+    "format": "form",
+    "workaround": "I could add a post compile script for my DLL that copies it to the extension directory with a unique name then edits the .gdextension file to point to it (the workaround I mentioned above). Kinda hacky though."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-22T10:26:37Z",
+  "comments": 5,
+  "createdAt": "2022-04-24T04:40:22Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": "4.2",
+  "number": 4437,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement live reloading in GDExtension",
+  "up": 25,
+  "updatedAt": "2024-01-22T10:26:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4437"
+}

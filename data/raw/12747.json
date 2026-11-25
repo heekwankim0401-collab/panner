@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. This enhancement is meant for contributors working on the **Godot Engine source code**, not for game developers using the editor. Since it improves the development workflow for the engine itself, it belongs in the core repository—not the asset library, which is focused on runtime features and game development tools.",
+    "format": "form",
+    "workaround": "While setting up the build environment can be scripted, it still requires manual installation of dependencies across platforms, which varies between Linux, macOS, and Windows. A Docker-based setup offers a **single, consistent, cross-platform solution** that scripts alone can’t fully achieve. It reduces environment-related issues and streamlines onboarding, especially for first-time contributors or CI/CD pipelines."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-16T19:57:58Z",
+  "comments": 4,
+  "createdAt": "2025-07-08T11:14:27Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 12747,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Dockerize the Godot Engine repository to simplify local development and contribution",
+  "up": 1,
+  "updatedAt": "2025-07-16T20:14:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12747"
+}

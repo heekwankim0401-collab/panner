@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "may be hacked as an addon. It's about improving the core experience.",
+    "format": "form",
+    "workaround": "it cannot be worked around"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-03-24T12:04:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9371,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow dropping a scene on the theme editor to open it as an additional preview scene",
+  "up": 5,
+  "updatedAt": "2024-03-24T13:31:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9371"
+}

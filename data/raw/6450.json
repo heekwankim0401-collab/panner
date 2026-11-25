@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This will improve scripting workflow for most Linux users immediately.",
+    "format": "form",
+    "workaround": "One workaround would be to use an external text editor, which beats the purpose of the many enhancements added in Godot 4 to the GDScript editor.\n\nSecond would be building a custom version of Godot with the aforementioned flag changed."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-03-07T11:43:30Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6450,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to disable middle-click paste in the GDScript Editor on Linux",
+  "up": 13,
+  "updatedAt": "2026-08-11T15:14:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6450"
+}

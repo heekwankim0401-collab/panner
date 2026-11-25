@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is part of the text editor.",
+    "format": "form",
+    "workaround": "Not that I can think of."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-30T16:03:40Z",
+  "comments": 3,
+  "createdAt": "2022-06-05T21:48:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 4629,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a text editor setting to enable or disable dragging and dropping text with the mouse",
+  "up": 8,
+  "updatedAt": "2022-06-30T16:03:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4629"
+}

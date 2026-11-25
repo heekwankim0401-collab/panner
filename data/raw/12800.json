@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "1. **Performance**: Clipping is a fundamental rendering operation. To be efficient and useful, it must be implemented in the core engine's C++. An add-on solution written in GDScript would be far too slow for any real-world use case.\n\n2. **Fundamental UI Pattern**: This is not a niche feature. Framed panels with shadows and clipped content are a foundational element of modern UI design found in countless applications and games. It's a basic building block that developers should not have to fight the engine to create.\n\n3. **Engine Cohesion**: The feature is a direct enhancement of the core Control, StyleBox, and 2D rendering systems. It belongs within the core to ensure seamless integration, stability, future-proofing, and availability to all users without requiring an external dependency.",
+    "format": "form",
+    "workaround": "This enhancement will be used very often, as it addresses a fundamental pattern in UI design. Furthermore, it cannot be worked around with a few lines of script. The clipping behavior is a low-level function of the core 2D rendering engine. It is not exposed to GDScript in a way that would allow for this modification. Any attempt to replicate this with scripts, such as using a ShaderMaterial to manually perform clipping, would be far more complex, less robust, and significantly less performant than the current nested-node workaround, let alone a native engine solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-17T06:56:28Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12800,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to make CanvasItem Clip Children ignore StyleBox shadow and border",
+  "up": 3,
+  "updatedAt": "2026-03-09T23:45:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12800"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Already a lot of software asks you before quitting and it's a very simple feature.\nAlso why was it removed in the first place? Did it become a setting I just cannot find?",
+    "format": "form",
+    "workaround": "Possibly this can be done with a EditorPlugin."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-21T22:15:32Z",
+  "comments": 4,
+  "createdAt": "2023-10-21T20:44:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8222,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Bring back exit prompt",
+  "up": 1,
+  "updatedAt": "2023-12-23T13:28:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8222"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AnimatedSprite and AnimatedSprite3D are core.",
+    "format": "form",
+    "workaround": "One easy way to do it is append a custom Script to the **AnimatedSprite**, override `play()` and add a `backwards` property on your own.\nA bit hacky but more contained, I use a *meta* property, to check if my charge animation is being undone."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-07T11:09:38Z",
+  "comments": 3,
+  "createdAt": "2022-03-21T14:19:14Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 4252,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose AnimatedSprite's `playing_backwards` property",
+  "up": 0,
+  "updatedAt": "2022-05-07T15:47:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4252"
+}

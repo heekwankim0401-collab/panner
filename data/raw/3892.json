@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The problem is quite small and does not deserve to add an add-on to a project for this (just time-consuming).",
+    "format": "form",
+    "workaround": "Yes, open the `.tscn` file in a text editor and hard-typing the bone name."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-27T16:12:51Z",
+  "comments": 3,
+  "createdAt": "2022-01-29T18:30:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3892,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Scroll to the selected option automatically when pressing a letter to search in OptionButton",
+  "up": 2,
+  "updatedAt": "2025-01-27T16:34:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3892"
+}

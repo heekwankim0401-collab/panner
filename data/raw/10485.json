@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core API.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-19T15:16:46Z",
+  "comments": 1,
+  "createdAt": "2024-08-18T13:23:12Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:physics"
+  ],
+  "milestone": "4.5",
+  "number": 10485,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `center_of_mass` or make documentation more clear",
+  "up": 14,
+  "updatedAt": "2026-01-20T22:12:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10485"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This must be core to Godot Engine because it requires a lot of low-level hooks to do it right, and other extensions need to be able to build on these features.",
+    "format": "form",
+    "workaround": "For the general case, no. It would take many thousands of lines of script. For a more narrow case, it could be done with less, but the goal here is to implement a system that is extendable and allows animating many properties."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-19T14:15:32Z",
+  "comments": 7,
+  "createdAt": "2024-07-10T10:41:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation",
+    "topic:import"
+  ],
+  "milestone": "4.4",
+  "number": 10164,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement KHR_animation_pointer in GLTF for animating custom properties",
+  "up": 0,
+  "updatedAt": "2025-05-24T13:23:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10164"
+}

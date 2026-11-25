@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it may be a worthy interface improvement for all users.",
+    "format": "form",
+    "workaround": "No, I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-17T02:23:40Z",
+  "comments": 3,
+  "createdAt": "2022-05-11T09:25:27Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": "4.1",
+  "number": 4528,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Nest shader inspector when shader editor is opened from another resource",
+  "up": 4,
+  "updatedAt": "2023-07-17T07:20:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4528"
+}

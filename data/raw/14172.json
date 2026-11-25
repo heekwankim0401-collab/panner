@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "In my experience, sharing the same spring bone settings across multiple bone chains is a really common occurance, so this proposal would significantly improve the feature usability in most cases, potentially saving hours of work, especially when sharing the Settings files across multiple characters.",
+    "format": "form",
+    "workaround": "It can (probably) be worked around by making a plugin that copies all the values from the first bone chain to the rest of the chains, and also allows to transfer those from one node component to another.\n\nWithout that plugin, inside the editor it can be worked around by a lot of manual labor: the user will have to copy-paste every field of the settings one by one for every identical hair strand.\n\nIt is possible to copy paste the whole Settings at once by opening the scene with notepad and copying one Settings block to the rest of the chains and replacing the indices for every field line\n(for example replacing 0 in \"settings/0/radius/value = 0.02\" to make it \"settings/1/radius/value = 0.02\", \"settings/2/radius/value = 0.02\", ...)\n\nHowever in both cases it significantly slows down the workflow, and if someone wants to quickly tweak something just to check if it looks better with the new values, by the time they are done copy-pasting they would forget how it looked before the changes.\nAnd if they like the changes but would like to tone them down a little bit they would have to repeat the whole process again."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-02-07T14:52:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 14172,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make it possible for different SpringBoneSimulator3D chains to share the same settings",
+  "up": 0,
+  "updatedAt": "2026-04-06T13:11:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14172"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This change has to be made within the engine just so the enumerations are available on `EditorImportPlugin`.",
+    "format": "form",
+    "workaround": "It will be used often in custom `EditorImportPlugin` that require other resources to be loaded first."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-23T17:32:45Z",
+  "comments": 0,
+  "createdAt": "2021-07-23T02:05:15Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 3034,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Define enum for `get_import_order()` of Resource importers",
+  "up": 0,
+  "updatedAt": "2021-07-23T17:32:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3034"
+}

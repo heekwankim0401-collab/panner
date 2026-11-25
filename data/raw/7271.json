@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The whole scene property idea would have to be part of packed scene and the scene inheritance hierarchy.\n\nIf it's implemented user side that means that the script can be removed from the logic node and the idea is to think of a way to couple scenes and logic together in a way that can create a interface and can't be messed with outside the packed scene.",
+    "format": "form",
+    "workaround": "As far as I'm aware Godot currently cannot simulate a script on a node it's not actually attached to.\nThis means it doesn't fulfill the interface part of the suggestion.\n\nAlso no."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-31T19:20:48Z",
+  "comments": 4,
+  "createdAt": "2023-07-13T04:23:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7271,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add logic node and scene properties",
+  "up": 0,
+  "updatedAt": "2023-12-31T19:21:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7271"
+}

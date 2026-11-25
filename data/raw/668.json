@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Exactly the same reason: if you can't get the information from the beginning you can't create a plugin doing it. Or I am missing something here, which is possible.",
+    "format": "legacy",
+    "workaround": "Not as far as I know, because I can't get the information about the update."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-04-04T16:05:49Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 668,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Custom behavior in tool mode when tilemap is edited from editor",
+  "up": 0,
+  "updatedAt": "2020-04-06T09:37:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/668"
+}

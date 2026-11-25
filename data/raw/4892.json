@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a simple feature and it would be consistentish with `:` blocks\n```\nfunc a():  \n    pass \n```  \n\n```\nfunc b():  pass \n```",
+    "format": "form",
+    "workaround": "It would be used when people prefer...\n```\nvar a =\n{\n\n} \n``` \n\nover... \n```\nvar b = {\n\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-16T21:21:48Z",
+  "comments": 3,
+  "createdAt": "2022-07-17T05:35:03Z",
+  "down": 6,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4892,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow Newline for arrays and dictionaries",
+  "up": 0,
+  "updatedAt": "2022-12-16T21:21:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4892"
+}

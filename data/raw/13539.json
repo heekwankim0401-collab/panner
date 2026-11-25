@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The setting(s) is a core change.",
+    "format": "form",
+    "workaround": "The first part of the issue I stumbled upon can be worked around by manually setting a script that would find the camera and apply relative offset to the parallax nodes based on the global position of both. Perhaps a similar workaround can be made to account for the motion."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-11-01T17:36:14Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 13539,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more versatility to `Parallax2D` nodes for making individual depth-based objects",
+  "up": 4,
+  "updatedAt": "2025-11-08T14:47:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13539"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is an editor functionality.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-06-03T22:09:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7014,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add linked flags to Control size properties (allows resizing from the inspector without changing the aspect ratio)",
+  "up": 1,
+  "updatedAt": "2023-06-07T00:52:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7014"
+}

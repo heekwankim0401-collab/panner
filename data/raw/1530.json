@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I did not find API for working with scripts undo history, so I think for now it is impossible to implement this using a plugin without hacky workarounds and pitfalls",
+    "format": "legacy",
+    "workaround": "No it can't"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-09-18T12:01:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1530,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to keep undo history after closing scripts",
+  "up": 0,
+  "updatedAt": "2020-09-18T13:38:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1530"
+}

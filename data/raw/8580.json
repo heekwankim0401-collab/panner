@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a pretty standard implementation of long distance volumetrics and would enable several other add-ons which would help the overall godot ecosystem. It could be made into an add-on if the ability to read the values from a fog volume at an exact position was added however the complexity of doing it in a script would make it very difficult compared to exposing it natively.",
+    "format": "form",
+    "workaround": "No, since it is not currently possible to read the contents of fog volumes from user facing shaders or scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-12-03T13:05:56Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 8580,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement ray marched volumetric fog as an extension of the current froxel-based solution",
+  "up": 0,
+  "updatedAt": "2025-05-14T13:42:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8580"
+}

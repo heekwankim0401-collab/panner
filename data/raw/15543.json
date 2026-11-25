@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-25T15:55:39Z",
+  "comments": 1,
+  "createdAt": "2026-09-18T09:22:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.8",
+  "number": 15543,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "(C++) Replace implicit conversions from `Variant` with `.to<T>()`",
+  "up": 13,
+  "updatedAt": "2026-09-25T15:59:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15543"
+}

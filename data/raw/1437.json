@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would lower the string manipulation memory resources used.",
+    "format": "legacy",
+    "workaround": "If there would be a property or public method for \"getting\" a StringBuilder object which contains the text of the control,\nit would be already enough\n\ne.g \n\n```\npublic class TextEdit\n{\n   public StringBuilder StringBuilder { get; }\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-31T11:30:38Z",
+  "comments": 2,
+  "createdAt": "2020-08-31T11:18:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 1437,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GodotSharp / TextEdit Control should use StringBuilder and should contain Methods for Inserting, Appending and Clearing Text",
+  "up": 0,
+  "updatedAt": "2020-08-31T11:31:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1437"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Microsoft Excel is used by more than 99,9% of all user who work on any tabulary data, thus i believe that nearly every user will experience this bug when creating their first translation for their game. This fix could prevent similar bug reports, where users dont know how to fix this issue.\n\nhttps://github.com/godotengine/godot/issues/86491#issuecomment-1872913849",
+    "format": "form",
+    "workaround": "While i am quite unsure on the length of this potential feature, i believe there should be other programming languages which already implemented some kind of fix.\nI the workload needed is bigger than expected, a simple hint on the official Godot documentation should be a good option to prevent other users experiencing this bug."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-01T11:17:58Z",
+  "comments": 8,
+  "createdAt": "2023-12-31T11:10:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8757,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add support for importing MS Excel .csv files to Godot",
+  "up": 0,
+  "updatedAt": "2024-01-01T11:18:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8757"
+}

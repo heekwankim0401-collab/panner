@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a basic operation that the engine should provide.",
+    "format": "form",
+    "workaround": "( I think it would be faster than and more used than \"Open in File Manager\" as its faster to work with the keyboard. )\n\nDoubling down on this it would be a nice to have I guess. Maybe having a triple-click open the system dir, would be kinda neat,"
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-18T13:57:39Z",
+  "comments": 5,
+  "createdAt": "2022-08-30T08:47:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5292,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to \"Copy System Path\" to Editor",
+  "up": 0,
+  "updatedAt": "2025-08-18T14:00:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5292"
+}

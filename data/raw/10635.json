@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The use case is common enough and the amount of time saved is big enough that I think it is justified to have this feature in core.",
+    "format": "form",
+    "workaround": "It is possible to write a tool script that provides the same functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-04T23:01:47Z",
+  "comments": 2,
+  "createdAt": "2024-09-02T16:15:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10635,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add scene tree context menu option \"Replace with scene\"",
+  "up": 0,
+  "updatedAt": "2024-09-04T23:02:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10635"
+}

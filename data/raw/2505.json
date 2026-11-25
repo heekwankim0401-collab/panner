@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is an improvement over the core editor plugin.\n\n-----\n\nThe work on this proposal is ongoing, but there is no PR yet. Everyone is welcome to experiment with the code, if you can build it yourself, from my in-dev branch: https://github.com/pycbouh/godot/tree/theme-editor-better-previews.\n\n-----\n\nMost of the other problems voiced in the related issues require changes in the Theme resource itself or theming system in general. I will list my proposals for them below as a small bonus, but they are not a part of this here issue, and are instead ideas for going forward.\n\nFor example, it would be good to make \"node types\"/\"types\" depend on one another, thus making chains that can be used to extend one type with another type. This would allow for the custom types to extend basic types (\"CustomLabel\" depending on \"Label\", falling back on it for definitions it lacks). This means that when fetching a Theme item dependencies would need to be walked through until the first match is found. So this would be a somewhat breaking change to how theming works. It would make sense to clean up the names of items as well, so that you could depend two existing types one on another and something like `font_color` could be found in both of them.\n\nAnother problem users noted is lack of global overrides, like setting the default color for everything. Themes currently expose default font (and font size in 4.0), but that's it. Some way to interact with the default properties would be beneficial. A way to set theme item to the default value explicitly, whatever that value may be, can also be an interesting idea (kind of like \"inherit\" in CSS).\n\nThen I also like the idea of theme states for controls (#2498). If implemented, it should fit nicely into the new Theme editor.",
+    "format": "markdown",
+    "workaround": "This is a part of the editor UX, not a user-editable feature."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-14T22:13:21Z",
+  "comments": 9,
+  "createdAt": "2021-03-25T16:09:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2505,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improved Theme Editor",
+  "up": 66,
+  "updatedAt": "2021-06-14T22:13:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2505"
+}

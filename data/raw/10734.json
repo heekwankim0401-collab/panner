@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think that not permitting a SubViewport to contain the informations regarding the light management of its scene is a big limitation.",
+    "format": "form",
+    "workaround": "I have not found a way to do it with a workaround. Thought about duplicating the scene and render it only with normal maps, or calculating the lights vectors impacting the viewport in real time to add a corresponding light in the 2D scene, but these solutions are inefficient and performance demanding."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-14T08:46:58Z",
+  "comments": 2,
+  "createdAt": "2024-09-13T16:55:58Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10734,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "When using a SubViewport to show 2D scenes the normal map information is lost.",
+  "up": 0,
+  "updatedAt": "2024-09-14T08:47:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10734"
+}

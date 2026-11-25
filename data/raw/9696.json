@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The Advance Expression feature already has an interface, I think this proposal makes sense as core since it seeks to increase the quality of an already existing core feature.",
+    "format": "form",
+    "workaround": "I suppose I could try to open all the .tmp files in an external code editor and try to make the edits that I want with the features present in that editor, but those files aren't very readable, and I worry about potentially corrupting them."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-08T03:24:31Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9696,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add More Editing Functionality to AnimationTree's Advance Expression Interface",
+  "up": 3,
+  "updatedAt": "2024-05-08T11:02:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9696"
+}

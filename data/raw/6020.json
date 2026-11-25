@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is essential because it directly affects the quality of the project organization.\nThe current organization leaves something to be desired.\nIt's not practical to deal with \"multiples open configuration lists infinite scrollbars\".\nMuch better each configuration in its proper folder, node or group.\nThe possibility of grouping layers also is not possible in this old system.",
+    "format": "form",
+    "workaround": "It is possible to use several Tilemaps as layers, as many do. \nHowever, this is bad practice. It is better to use what is simpler and more suitable."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-30T00:16:24Z",
+  "comments": 0,
+  "createdAt": "2022-12-30T00:11:14Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6020,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "TileMap Layers 2.0 - Enhancements",
+  "up": 0,
+  "updatedAt": "2022-12-30T00:16:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6020"
+}

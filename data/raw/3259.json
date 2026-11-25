@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a part of the built-in Image class, which can't be modified by add-ons.",
+    "format": "form",
+    "workaround": "I think it would be used often enough to justify adding it to the Godot API, but there are two ways in which this could be done now:\n\n1. Create an Image, set its size to the size of your fill Rect2, fill the image with a color, and use `blit_rect` on the original image with the new image. \n``` gdscript\nfunc fill_rect(image: Image, rect: Rect2, color: Color) -> void:\n\tvar fill_image: = Image.new()\n\tfill_image.create(rect.size.x, rect.size.y, false, Image.FORMAT_RGBA8)\n\tfill_image.lock()\n\tfill_image.fill(color)\n\timage.blit_rect(fill_image, rect, rect.position)\n```\n\n2.  Use for loops to set each individual pixel.\n``` gdscript\nfunc fill_rect(image: Image, rect: Rect2, color: Color) -> void:\n\tvar rect_position: = rect.position\n\tfor x in rect.size.x:\n\t\tfor y in rect.size.y:\n\t\t\timage.set_pixel(x + rect_position.x, y + rect_position.y, color)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-24T15:34:02Z",
+  "comments": 2,
+  "createdAt": "2021-09-05T22:33:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3259,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `fill_rect()` method to Image class",
+  "up": 10,
+  "updatedAt": "2021-11-24T15:34:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3259"
+}

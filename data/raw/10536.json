@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The plugin manager already allows us to place addons in a different folder but they don't show up on the addons list in project settings.",
+    "format": "form",
+    "workaround": "It would be used with C# devs and people with ocd"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-08-23T04:44:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10536,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow us to rename the addons folder to Addons",
+  "up": 3,
+  "updatedAt": "2024-09-18T14:02:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10536"
+}

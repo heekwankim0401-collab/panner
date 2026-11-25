@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't know if something like this COULD be added as an addon?\nAnd I think simply having a stencil buffer seems like a reasonable thing to want as a core feature.\n\nI know the plan is to add custom buffers or something in 4.0 but I'm making this as a request for at least a stencil buffer to be ported into 3.x. I'm one of the people who doesn't want to move to 4.0, this would be my one sole reason to do that and I don't think its worth the trouble.",
+    "format": "form",
+    "workaround": "No, I can't find a single way to do this with the tools godot provides."
+  },
+  "assignees": 1,
+  "closedAt": "2023-06-28T21:47:48Z",
+  "comments": 39,
+  "createdAt": "2021-10-01T14:59:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3373,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for stencil buffer",
+  "up": 55,
+  "updatedAt": "2023-09-20T13:43:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3373"
+}

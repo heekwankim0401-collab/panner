@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This should be built-in to the editor.",
+    "format": "form",
+    "workaround": "It will be used often, especially on laptops or on mice that don't have scroll wheels."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-10-14T00:05:48Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10965,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow controlling 3D editor freelook movement speed with laptop trackpads",
+  "up": 3,
+  "updatedAt": "2026-06-24T13:34:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10965"
+}

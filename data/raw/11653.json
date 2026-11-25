@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an extension to a pre-existing DirAccess method.",
+    "format": "form",
+    "workaround": "Well I tried it and I'd gotten up to 18 lines before realising that the wildcard problem did not have a trivial solution.\n\nFurthermore having it implemented in engine would give godot more safeguards over preventing a recursive directory search from getting stuck in an infinite loop if implemented by a less experienced developer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-01-27T19:14:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11653,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an optional search pattern parameter to `DirAccess.get_files_at()`",
+  "up": 0,
+  "updatedAt": "2025-02-01T10:13:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11653"
+}

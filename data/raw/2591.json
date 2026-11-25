@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Including this improvement in core will accomplish two things:\n\n1. Make the implementation more efficient\n2. Make extensions of the wind force to other physics objects much simpler",
+    "format": "markdown",
+    "workaround": "I think that it *can* be worked around, but perhaps not satisfactorily. Consider the video here: https://www.youtube.com/watch?v=4EB9xHmqGFs\n\nSuch an approach--and others like it that you can dream up--is not going to accomplish the desired physical simulation. Requiring developers to settle for a workaround like this increases the lead time for development and produces a less satisfactory result."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-21T09:08:58Z",
+  "comments": 12,
+  "createdAt": "2021-04-12T01:39:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 2591,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add jet force nodes to enable wind forces on SoftBody",
+  "up": 20,
+  "updatedAt": "2024-04-08T21:00:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2591"
+}

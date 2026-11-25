@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If it's not possible as an addon I would like it to be core",
+    "format": "form",
+    "workaround": "Workaround is verbose and lots of repeated code\n\nSomething like this would almost work:\n\n```gdscript\nwatch(Global.game_changed, func(game):\n\tprint(\"Game is now \", game)\n\twatch(game.map_changed, func(map):\n\t\tprint(\"Map is now \", map)\n\t)\n)\n```\n\nBut the map_changed signal wouldn't be properly disconnected if the game changes.\n\nEdit: Another issue with this workaround is it doesn't immediately fire with the current value (e.g. for UI updates), and passing that would be tedious."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2022-07-13T18:52:15Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4868,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an elegant way to listen to property changes",
+  "up": 15,
+  "updatedAt": "2024-12-27T21:27:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4868"
+}

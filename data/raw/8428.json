@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is core functionality.",
+    "format": "form",
+    "workaround": "Probably not."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-14T14:02:56Z",
+  "comments": 1,
+  "createdAt": "2023-11-14T13:58:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8428,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically add array item when dragged onto array",
+  "up": 0,
+  "updatedAt": "2023-11-14T14:02:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8428"
+}

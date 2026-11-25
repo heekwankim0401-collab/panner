@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Addons cannot implement the infrastructure for adapters. However the maintenance burden of adapting existing package managers will lie upon addon support rather than core support.",
+    "format": "form",
+    "workaround": "Scripting is not able to change how file paths are resolved in gdextensions, resource files or import files"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-10-12T10:45:12Z",
+  "down": 0,
+  "labels": [
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10955,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an abstract PackageManagerAdapter class that gdextension and plugin authors may implement.",
+  "up": 1,
+  "updatedAt": "2024-10-26T09:36:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10955"
+}

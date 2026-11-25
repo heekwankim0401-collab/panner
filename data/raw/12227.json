@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement improves a built-in node by using the existing functionality of Jolt. It does not introduce new features that could be packaged as an add-on",
+    "format": "form",
+    "workaround": "Softbody3D is not used often, but changing rest length produces a noticeable effect that can be used artistically to create cloth with pronounced tension and combined with other parameters. It cannot be worked around in script, since it needs direct access to the physics engine"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-27T14:50:42Z",
+  "comments": 3,
+  "createdAt": "2025-04-13T17:23:32Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.5",
+  "number": 12227,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a parameter to scale the rest lengths of Softbody3D edge constraints",
+  "up": 3,
+  "updatedAt": "2025-05-27T15:02:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12227"
+}

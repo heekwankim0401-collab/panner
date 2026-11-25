@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As stated above, it is possible but it would greatly hinder usability.",
+    "format": "form",
+    "workaround": "As the prototype shows, a lot can be written in GDScript and could be offered as a plugin however the one part that can't be done is making this use Godots material system. That is important so that godot build in shader editor can be used, and that even visual shaders would be a possibility. Both would greatly improve usablity"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-09-25T02:19:56Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7849,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a material-based post processing pass",
+  "up": 87,
+  "updatedAt": "2025-05-14T14:32:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7849"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The script editor is core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-15T17:37:20Z",
+  "comments": 1,
+  "createdAt": "2021-08-07T18:59:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 3104,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Give escape characters a different color in the script editor",
+  "up": 17,
+  "updatedAt": "2022-01-15T17:38:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3104"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An add-on would have to use the above described work around.",
+    "format": "form",
+    "workaround": "The current work around is to save the certificate to a temp file, read it as as text, then delete the temp file. To load requires saving the PEM string to a temp file, loading the certificate from the file, then deleting the file."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-13T12:29:40Z",
+  "comments": 3,
+  "createdAt": "2022-05-24T12:29:45Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4585,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add methods `save_to_string()` and `load_from_string(String x509str)` to X509Certificate",
+  "up": 0,
+  "updatedAt": "2023-06-13T12:29:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4585"
+}

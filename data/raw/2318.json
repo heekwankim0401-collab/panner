@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this could be useful; this is a good UX practice; many modern GUI frameworks have an option to set tab headers fixed width.",
+    "format": "markdown",
+    "workaround": "It seems, creating a custom container with fixed tab size is the only right option, which is not a few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-02-19T17:42:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2318,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to set fixed tabs width in TabContainer",
+  "up": 13,
+  "updatedAt": "2024-07-06T12:31:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2318"
+}

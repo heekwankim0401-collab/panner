@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "To my knowledge, I am unable to implement it using plugins.",
+    "format": "form",
+    "workaround": "To my knowledge, this is difficult to achieve"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T07:53:33Z",
+  "comments": 4,
+  "createdAt": "2025-03-13T08:39:24Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:audio",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11977,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Implementing background audio playback for Android",
+  "up": 9,
+  "updatedAt": "2026-01-28T07:53:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11977"
+}

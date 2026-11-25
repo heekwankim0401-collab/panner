@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As mentioned above this is code editor behaviour and I also believe this should be default editor behaviour as seen in Unreal Engine as is something that has been incredibly useful to me both during the development of SPRAWL and during my day job at a large studio.",
+    "format": "form",
+    "workaround": "I dont believe so, this is pretty core to how the editor handles copy pasting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-10-25T03:45:51Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5651,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Pasted Node reference rerouting.",
+  "up": 1,
+  "updatedAt": "2022-10-25T18:04:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5651"
+}

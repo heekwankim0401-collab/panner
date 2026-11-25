@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`ScrollContainer` is a core component and `custom_step` is already exposed to normal `ScrollBar`s.",
+    "format": "form",
+    "workaround": "One can write a custom `ScrollContainer`. \nBut since `custom_step` is already exposed to normal `ScrollBar`s, I don't see why the `ScrollContainer` shouldn`t.\n\n```\nextends ScrollContainer\n\n@export var custom_step_vertical: float = -1\n@export var custom_step_horizontal: float = 1-\n\nfunc _ready() -> void:\n\tget_v_scrollbar().custom_step = custom_step_vertical\n\tget_h_scrollbar().custom_step = custom_step_horizontal\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-08T11:57:16Z",
+  "comments": 0,
+  "createdAt": "2023-01-03T09:36:11Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.1",
+  "number": 6038,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[`ScrollContainer`] Expose horizontal/vertical `custom_step` of internal `HScrollBar` and `VScrollBar`.",
+  "up": 4,
+  "updatedAt": "2023-05-08T11:57:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6038"
+}

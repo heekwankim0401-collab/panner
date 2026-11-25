@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See reasoning above.",
+    "format": "form",
+    "workaround": "This cant be worked around, since none of the internals of the resource cache is exposed in a public API form, while being able to remap files is an already present editor-only feature that simply offers poor performance and does not scale well."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-27T17:29:19Z",
+  "comments": 1,
+  "createdAt": "2025-11-27T13:30:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13732,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose 'Resource::set_resource_id_for_path'",
+  "up": 1,
+  "updatedAt": "2025-11-27T17:29:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13732"
+}

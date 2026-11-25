@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Before deciding whether this should be a core feature or an add-on, I would like to poll the community to gauge its importance. If it is deemed critical for improving the quality of 3D models, it should be integrated into the core. Otherwise, it could be developed as an add-on gdextension.\n\nThere is a cost to adding the manifold library to Godot Engine, so I want to ask.\n\nWe could remove CSG from core and point to this official as an extension too.",
+    "format": "form",
+    "workaround": "Given the 20-30 issues on GitHub related to CSG quality, it is clear that there is a need to improve this aspect of the Godot Engine."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-29T21:10:58Z",
+  "comments": 5,
+  "createdAt": "2024-05-09T07:42:55Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": "4.4",
+  "number": 9711,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve CSG Quality with `elalish/manifold`",
+  "up": 22,
+  "updatedAt": "2024-11-29T21:10:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9711"
+}

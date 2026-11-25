@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves UX and opens wide 3D creation out of the box, and it would be to tied to the core for being an addon I think",
+    "format": "form",
+    "workaround": "There is maybe a way of doing that via Gizmo plugins, but at this state the docs are quite confusing and the whole thing would be sooo difficult to setup for just a \"small\" feature. If it's out of the box, is something everyone could take advantage."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-12-11T08:00:32Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8634,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to have 3D Widgets / Gizmo on @tool @export  vector or transform variables",
+  "up": 7,
+  "updatedAt": "2024-06-20T11:39:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8634"
+}

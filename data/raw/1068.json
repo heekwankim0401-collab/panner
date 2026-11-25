@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "i dont know if it can implemented in add-on",
+    "format": "legacy",
+    "workaround": "yes i think it will beacuse every time i have to make new tileset i have to disable the grid snapping and re enable it when i done with collision layer"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-06-15T21:40:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1068,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a shortcut to toggle grid snapping in the TileSet editor ",
+  "up": 0,
+  "updatedAt": "2020-06-16T22:35:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1068"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it's part of the Godot Editor interface.",
+    "format": "form",
+    "workaround": "Absolutely not."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-10T22:15:07Z",
+  "comments": 8,
+  "createdAt": "2021-06-29T23:02:29Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2939,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disambiguate \"Editor Settings\" and \"Project Settings -> Editor\"",
+  "up": 0,
+  "updatedAt": "2022-05-10T22:15:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2939"
+}

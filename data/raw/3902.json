@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This needs to be core to be useful to newcomers, who are the most likely to run into this problem.",
+    "format": "form",
+    "workaround": "Script converters like https://github.com/godotengine/godot/pull/51950 only resolve this problem for existing projects, not new projects where users paste code from outdated online resources.\n\nNot all third-party documentation resources can be updated. Their author may be inactive, the resource may be a physical book, etc."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-31T15:04:39Z",
+  "comments": 3,
+  "createdAt": "2022-01-31T12:43:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3902,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Print an error message pointing to the renamed function when trying to use a function with its old name",
+  "up": 9,
+  "updatedAt": "2023-01-31T15:04:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3902"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's part of the core UID system.",
+    "format": "form",
+    "workaround": "I can use the file path instead."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-21T20:39:25Z",
+  "comments": 1,
+  "createdAt": "2025-05-21T19:00:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 12473,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Document ResourceLoader.get_resource_uid() doesn't work in exported builds, or make it work",
+  "up": 0,
+  "updatedAt": "2025-05-21T20:39:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12473"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it would make the text edit more usable.",
+    "format": "form",
+    "workaround": "-maybe in 4.0 with a custom syntax highlighter\n-using a different symbol color instead of a color_region would also change the color of symbols in the main text"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-06-10T09:44:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2848,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow color_region to be overwritten in TextEdit",
+  "up": 0,
+  "updatedAt": "2021-06-10T15:09:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2848"
+}

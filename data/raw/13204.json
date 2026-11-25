@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't actually know if this can be done as an add-on or not as I do not know if add-ons from the asset library can interject themselves into the import process in the Godot editor. Even if they could though, I imagine to make this work as an add-on would require writing an entirely independent import process, whereas the actual algorithm to do this is right there in the Godot Engine right now, it's just fully automatic instead of offering a manual clamping value to override the automatic detection of that value.",
+    "format": "form",
+    "workaround": "_Technically_, this can be worked around with just a single line of script in third-party image-editing software, with the right plugins installed and knowing how to code that line. However, it took me several hours to not only figure out what software and plugins to use, but to learn how to code that line in the first place, as no tutorials exist on how to do this and many people using Godot are not going to be well versed enough in how HDR images work to be able to figure this out on their own accord."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-09-17T23:37:23Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13204,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the HDR Clamp Exposure import option adjustable",
+  "up": 0,
+  "updatedAt": "2025-09-19T12:08:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13204"
+}

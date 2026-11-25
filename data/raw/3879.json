@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's a key part of the TileMap workflow.",
+    "format": "form",
+    "workaround": "The workaround would be getting familiar with the systems, which arguably isn't a massive price to pay to use the systems. If it's possible to cut down on misunderstandings by renaming, that still seems preferable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-27T14:30:27Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:2d",
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": "5.0",
+  "number": 3879,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Resolve ambiguous naming of 'layers' in TileSets",
+  "up": 3,
+  "updatedAt": "2024-06-28T09:42:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3879"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AnimatedSprite is clearly missing this.",
+    "format": "legacy",
+    "workaround": "It can be worked around with 3 lines of script, but that script could've not existed in the first place."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-27T10:08:49Z",
+  "comments": 7,
+  "createdAt": "2020-08-19T20:16:06Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1390,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `autoplay` property to AnimatedSprite",
+  "up": 9,
+  "updatedAt": "2024-08-09T15:14:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1390"
+}

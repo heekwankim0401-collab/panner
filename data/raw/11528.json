@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I didn't find any way to handle errors via GDScript. FileAccess.get_open_error() has exactly this feature **but** I think loading a resource via ResourceLoader can have errors which are different from FileAccess under the hood. (EG: The resource file values mismatch, the file is not of type resource, etc...)",
+    "format": "form",
+    "workaround": "For now the only way I have found to handle errors without much control over it is:\n\n```gdscript\nvar resource: Resource = load(\"user://my_resource.tres\")\n\tif resource == null:\n\t\tprinterr(\"An unhandled error occured!\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-01-09T14:56:14Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11528,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve ResourceLoader error handling",
+  "up": 6,
+  "updatedAt": "2025-09-22T22:33:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11528"
+}

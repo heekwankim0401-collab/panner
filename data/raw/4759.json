@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving editor usability, and it probably can't be done with an add-on anyway.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-21T14:15:30Z",
+  "comments": 35,
+  "createdAt": "2022-06-26T23:37:58Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4759,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ThumbnailCamera2D and ThumbnailCamera3D nodes to use for editor scene thumbnail generation",
+  "up": 15,
+  "updatedAt": "2023-11-21T14:16:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4759"
+}

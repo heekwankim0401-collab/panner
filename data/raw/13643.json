@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GLTFDocumentExtension is also core, this would be extending functionality for it.",
+    "format": "form",
+    "workaround": "*Technically* you can work around it, but the workaround depends on each persons use-case for storing the data in the scene component in the first place. In addition, you'd only be able to workaround it if you can also workaround it in whatever GLTF vendoring software is putting the data in the scene component. If you can modify the vendor, then Yes, otherwise No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-11-15T21:09:33Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13643,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to import/export scene extensions to GLTFDocumentExtension",
+  "up": 1,
+  "updatedAt": "2025-11-17T22:56:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13643"
+}

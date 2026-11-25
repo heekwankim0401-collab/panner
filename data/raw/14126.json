@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I do not think this could be implemented without engine modifications.",
+    "format": "form",
+    "workaround": "This could be done as is using viewports, where each new light mode requires an additional subviewport additively blended. The cost of this would increase with each new light mode, and be higher overall, than the static cost of passing in an int to each light pass which could be ignored if not needed, or perhaps even excluded automatically if it is not used or defined, if it had any significant cost. This could also result in some lights having shadows calculated more than once."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2026-02-01T20:19:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 14126,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Light Tagging for Non-RGB Light Use",
+  "up": 1,
+  "updatedAt": "2026-06-26T05:28:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14126"
+}

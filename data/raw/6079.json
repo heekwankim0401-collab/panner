@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "For performance reasons and discoverability, as it is frequently used functionality that will even ease a new user's experience.",
+    "format": "form",
+    "workaround": "It can be worked around in code, but as this is very frequently used functionality that currently requires boilerplate code and now has 2 methods to cover basically the same case, it's a prime candidate for improving at the engine level."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-01-11T13:39:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6079,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add set_parent(parent_node, keep_transform) method",
+  "up": 20,
+  "updatedAt": "2024-07-09T23:48:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6079"
+}

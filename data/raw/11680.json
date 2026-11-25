@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This overhauls the base functionality of the SubViewportContainer.",
+    "format": "form",
+    "workaround": "This enhancement would be as much as used as `stretch_factor`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-02-01T22:05:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11680,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Replace `SubViewportContainer.stretch_shrink` with `SubViewportContainer.stretch_factor`",
+  "up": 4,
+  "updatedAt": "2025-02-03T15:45:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11680"
+}

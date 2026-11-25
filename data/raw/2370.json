@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "To make it easier (and a little bit more performant) for everyone by default.",
+    "format": "markdown",
+    "workaround": "Only one part can be worked around; if a user defined method is used to only prepend the word 'parameters/', performance stays the same or is even worsened a tiny bit more; a little bit is gained in not having to repeat the word in code though."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-02-27T16:26:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2370,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "AnimationTree - Shorten parameter reference paths",
+  "up": 4,
+  "updatedAt": "2023-04-16T11:01:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2370"
+}

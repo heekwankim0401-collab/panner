@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "PopupMenu is core.",
+    "format": "markdown",
+    "workaround": "No, you need to use a different node."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-04-28T21:45:30Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2663,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to grab focus on PopupMenu items",
+  "up": 3,
+  "updatedAt": "2021-09-23T23:09:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2663"
+}

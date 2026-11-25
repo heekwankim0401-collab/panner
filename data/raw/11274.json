@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Using compute shaders in Godot should be a pleasant default experience without requiring external plugins/add-ons, IMHO. Enabling the use of standard GLSL source code and tools is a big enough usability/quality of life improvement to justify being in core.\n\nThe code burden is also quite low: +255 lines of code net for my prototype, and I aimed for readability/maintainability rather than \"clever\" compact code. The change is isolated to the internals of a single class, and the +255LoC includes full backwards compatibility with existing shaders. This seems like a small price to pay in exchange for the ability to use standard compliant GLSL source code.\n\n## Proposal changelog\n\n- 2024-12-02: switched pragma/macro prefixes from `gd_` to `godot_`, per [Calinou's suggestion](https://github.com/godotengine/godot-proposals/discussions/10880#discussioncomment-11441808) to make the prefixes match the reserved namespace for C# macros, and [geekley's suggestion](https://github.com/godotengine/godot-proposals/discussions/10880#discussioncomment-11426093) to avoid \"GD\" causing confusion with GDScript and GDShader.\n- 2024-12-10: discussed in rendering meeting. Notes about that are in https://github.com/godotengine/godot-proposals/issues/11274#issuecomment-2532367117, tl;dr no objection to implementing the core proposal, but dropping the file extensions feature for now.",
+    "format": "form",
+    "workaround": "I expect this to be used by anyone writing compute shaders for Godot projects, as well as people writing custom render shaders for advanced uses (or Godot devs hacking on the renderers).\n\nThe only workaround is what some people do today: put the actual shader code in a separate include file, and include it from the non-standard top level GLSL file. This works, but isn't very ergonomic because every time you edit the included shader the editor throws compile errors complaining that there is no `#[blah]` in the include file, and you end up with 2 GLSL files for even a trivial shader.\n\nThe other \"status quo\" workaround of course is to ignore the IDE sadness when editing your shaders, and live without autocomplete/linting/etc. Obviously this \"works\", but it's not a good user experience IMHO."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2024-12-01T22:37:54Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 11274,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Godot GLSL shader files interoperable with standard GLSL tools",
+  "up": 28,
+  "updatedAt": "2025-03-04T19:00:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11274"
+}

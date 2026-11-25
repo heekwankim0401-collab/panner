@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Diagnostic logs should be always available to the user.\n\nPlay & Android Game Engine Support @ Google",
+    "format": "markdown",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-30T18:49:35Z",
+  "comments": 0,
+  "createdAt": "2021-03-29T17:26:55Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 2524,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Fall back to `VK_EXT_debug_report` in Vulkan when `VK_EXT_debug_utils` is not available",
+  "up": 2,
+  "updatedAt": "2021-03-30T18:49:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2524"
+}

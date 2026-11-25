@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The LineEdit is a core component",
+    "format": "form",
+    "workaround": "Well, I guess you could just add a separate clipped Label node on top of the LineEdit node to do the rendering, and have that display the text instead with the clipping, setting the line edit to render the text transparent. But this would be complicated to keep synced with the caret moving, selection and scrolling in the field. And it feels very much like a hack for something that should be a standard feature of the LineEdit."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-01-11T08:41:43Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8860,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Clip LineEdit overflow characters instead of trimming for improved usability",
+  "up": 3,
+  "updatedAt": "2024-01-11T16:54:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8860"
+}

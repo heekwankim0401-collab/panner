@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think custom animation for `BoxContainer` is a common scene.",
+    "format": "form",
+    "workaround": "Write a own `BoxContainer` node and specific resort algorithm would work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-14T02:24:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10437,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to make BoxContainer sort itself only when manually requested, and provide custom sorting logic",
+  "up": 0,
+  "updatedAt": "2026-05-21T14:06:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10437"
+}

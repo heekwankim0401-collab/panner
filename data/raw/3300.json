@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I do not believe editor flags can be added as an add-on. \n\nSince this proposal tries to use as little of Godot as possible outside the GDScript language server, this could even be implemented as a stand-alone executable, but I think more external text editor users will benefit from it were it a flag argument implemented in the engine core instead.",
+    "format": "form",
+    "workaround": "Any work-around will depend on the LSP client being used. In my case, using Sublime Text's LSP package, I found two work-arounds, but neither of them are ideal. \n\n1. Configure your LSP client to launch Godot's editor itself, which means your text editor instance is always tied to your engine editor instance. \n**Why this is insufficient.** The engine editor must always be running while writing GDScript, even if you don't need it. On low-end machines in particular this is a problem. And if you have to restart your text editor, your engine will restart too.\n2. Configure your LSP client to launch nothing, and always run the engine editor alongside your text editor. \n**Why this is insufficient.** Your engine editor must always be running while writing GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-19T05:36:11Z",
+  "comments": 8,
+  "createdAt": "2021-09-15T20:08:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3300,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a command line argument to start the GDScript language server without starting the editor",
+  "up": 2,
+  "updatedAt": "2022-08-19T14:34:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3300"
+}

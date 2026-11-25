@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Realtime audio processing is a necessity for some game genres. Additionally, VoIP is a common requirement or usecase in many multiplayer games.\n\nWhile VoIP itself might not be desirable as a core feature, this proposal would be needed as core, as it would enable the creation of VoIP frameworks as a custom module or built using a combination of GDScript and GDNative and distributed via the Asset Library.",
+    "format": "markdown",
+    "workaround": "The closest workaround is to mis-use the AudioEffectRecord for this purpose. It is a misuse because the primary function of AudioEffectRecord is to record to a file on disk.\n\nAudioEffectRecord is also unreliable and even crash-prone, as it was not designed for infinite length data streams, and was also not designed for data to be polled in real time.\n\nWe have found no other way to access the audio bus in a safe way. Even when considering usage of a Godot module to provide this functionality, we would need at a minimum, the implementation of AudioEffectCapture"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-02T21:14:59Z",
+  "comments": 2,
+  "createdAt": "2020-12-23T08:13:50Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.0",
+  "number": 2013,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "AudioEffectCapture: attach a scriptable audio processing pipeline to a bus.",
+  "up": 4,
+  "updatedAt": "2021-02-02T21:15:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2013"
+}

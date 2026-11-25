@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Being able to rescale textures using a Texture2D resource would be very useful for anyone using assets at higher resolutions than convenient for their game's window size, as it would free up the `scale` property of graphical nodes to be used for other purposes. This would also be in line with the intended usage of Control nodes, making it easier to comply with the recommended design approach of keeping their `scale` at `Vector2(1, 1)` normally.",
+    "format": "form",
+    "workaround": "This enhancement cannot be fully implemented in GDScript. (Believe me, I tried. That's where the screenshot comes from.) While some of the functionality of ScaledTexture can be implemented as a custom plugin, it still falls short of being usable as a proper Texture2D resource in a few ways:\n\n- The method `Texture2D._is_pixel_opaque()` is not bound to its C++ counterpart, making it impossible for a plugin version of ScaledTexture to check the opacity of its source texture without constantly calling `Texture2D.get_image()`—which is something [the documentation specifically recommends against.](https://docs.godotengine.org/en/stable/classes/class_texture2d.html#class-texture2d-method-get-image)\n  - This has already been reported on the main repository as godotengine/godot#98315.\n- Certain objects such as the NinePatchRect node and the StyleBoxTexture resource don't use any of the three draw calls implementable in GDScript, instead opting to directly call `RenderingServer.canvas_item_add_nine_patch()` using the results of `get_rect_region()`—and the latter method isn't bound to anything in GDScript and thus can't be overridden. This makes it impossible to implement ScaledTexture in a way that works with these objects using pure GDScript.\n\nAdditionally, while there does exist a `size_limit` property for importing textures, it isn't suitable for this use case. Using `size_limit` to import a texture results in importing a permanently resized version of the texture instead of the original texture at its base resolution. If a texture is scaled down to half its size this way, a project running at double resolution with the `canvas_items` stretch mode would display a scaled-down-then-scaled-up version of the texture, resulting in a somewhat foggy look.\n\nTechnically this can be worked around by refactoring the entire project to use a higher base resolution, but that would be an *extremely* inconvenient solution at best and has the potential to introduce bugs wherever pixels are"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-03-22T23:40:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12056,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a scaled texture resource (akin to AtlasTexture but for rescaling)",
+  "up": 3,
+  "updatedAt": "2026-11-05T16:47:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12056"
+}

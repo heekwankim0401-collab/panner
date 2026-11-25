@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I am unsure how to implement this behavior (affecting the visibility of Marker nodes at runtime) as an add-on.",
+    "format": "form",
+    "workaround": "This will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2022-10-03T01:40:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5533,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Debug -> Visible Markers option",
+  "up": 40,
+  "updatedAt": "2026-07-19T08:44:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5533"
+}

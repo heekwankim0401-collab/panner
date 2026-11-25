@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't capably be added to ItemList in an add-on, an add-on could be made that completely copies ItemList and just adds extra methods to either estimate item properties or request calculating the ItemList without drawing. (basically caching it for later) A calculation request would take longer to finish first time but it could be cached if the object doesn't change. Or you could just try to use the existing calculations, falling back on just recalculating it all should that be impossible which it already does when the shape changes anyway. At best there is a moderate reduced loss in efficiency compared to hacking with it, it the best scenario you construct the ItemList's new list ahead of the next draw, in the worst case you just double the algorithm's inefficiency regarding constructing the ItemList for every time you request it. (in my case I'd only need to request it once after adding some objects) In such a case, you lose nothing implementation or performance wise (least without specific use of the feature, and only marginally by itself) and increase flexibility of ItemList.",
+    "format": "legacy",
+    "workaround": "No, it would require either rebuilding the vital aspects of the draw to be slightly more efficient, or adding objects to the ItemList until satisfied and then making a draw request. (which will also waste draws to the screen)"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-17T12:48:46Z",
+  "comments": 3,
+  "createdAt": "2019-11-24T08:56:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.2",
+  "number": 254,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement ItemList Pre-Draw Size Calculation",
+  "up": 2,
+  "updatedAt": "2023-09-17T12:48:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/254"
+}

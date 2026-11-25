@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Making this an add-on totally would make this more cumbersome. Also i don't see any reason why it shouldn't be core.",
+    "format": "form",
+    "workaround": "This can be worked around by writing a function that takes a single argument and returns a vector initialized with that value\n\n```\nfunc vector(a: float):\n    return Vector3(a, a, a)\n```\n\nBut again, this is cumbersome"
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-28T21:51:15Z",
+  "comments": 6,
+  "createdAt": "2024-11-28T08:13:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11248,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Vector2/3/4 constructor that takes a single scalar value",
+  "up": 0,
+  "updatedAt": "2024-11-28T21:51:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11248"
+}

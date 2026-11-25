@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a change done on the Godot build configuration.",
+    "format": "legacy",
+    "workaround": "It can't be work around using scripts."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-25T13:02:10Z",
+  "comments": 22,
+  "createdAt": "2020-03-07T10:48:13Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": "4.0",
+  "number": 565,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "C++ Game module",
+  "up": 17,
+  "updatedAt": "2020-05-25T16:39:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/565"
+}

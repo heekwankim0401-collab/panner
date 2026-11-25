@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It has use cases to most of the projects.",
+    "format": "legacy",
+    "workaround": "Yes it can, but is used VERY often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-01-03T19:26:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 349,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to access the parent of the tree and add a child immediatelly",
+  "up": 0,
+  "updatedAt": "2023-08-04T12:09:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/349"
+}

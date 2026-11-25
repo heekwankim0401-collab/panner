@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because there is no way that it would be posable to make an addon to do this.",
+    "format": "form",
+    "workaround": "no, I don't believe there is any way to work around this issue unless you count having untyped dictionaries."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-07-24T21:45:40Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12859,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow creating custom types that force dictionaries to have certain keys and prevent them from having others",
+  "up": 0,
+  "updatedAt": "2025-07-25T16:28:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12859"
+}

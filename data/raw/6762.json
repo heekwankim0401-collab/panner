@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core functionality. If the file removal dialog can be replaced with a custom one via existing add-on capabilities, there is no reason not to do it in an add-on.",
+    "format": "form",
+    "workaround": "It can be easily worked around by doing what I described in the opening paragraph. The main reason to implement this feature would be the time saved compared to that."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-04-26T12:51:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6762,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide option to add dependencies when deleting files",
+  "up": 0,
+  "updatedAt": "2023-04-26T15:58:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6762"
+}

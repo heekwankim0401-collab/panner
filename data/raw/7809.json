@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It could possibly be an addon, but that may require some very difficult hacking into the UI to do that.",
+    "format": "form",
+    "workaround": "It's for the editor UI."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-21T20:16:41Z",
+  "comments": 2,
+  "createdAt": "2023-09-23T02:37:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 7809,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Quick Load should display a preview of the change",
+  "up": 3,
+  "updatedAt": "2025-10-21T20:17:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7809"
+}

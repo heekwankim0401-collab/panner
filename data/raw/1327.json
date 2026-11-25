@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it is probably as users expect.",
+    "format": "legacy",
+    "workaround": "I would presume anyone wanting to change amount will expect the particle system to not reset as it looks awful."
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-13T14:17:59Z",
+  "comments": 6,
+  "createdAt": "2020-08-07T16:24:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1327,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Particle2D should not reset itself when you change amount",
+  "up": 0,
+  "updatedAt": "2021-04-13T14:18:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1327"
+}

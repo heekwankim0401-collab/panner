@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is functionality which takes advantage of Godot's already-existing LOD system.",
+    "format": "form",
+    "workaround": "No - in order to do this, it would require the user to have essentially create their own LOD system which would be redundant and not make use of the in-engine method of LOD switching."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 23,
+  "createdAt": "2022-08-15T09:33:43Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5174,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow specifying custom LOD meshes instead of relying on automatic generation",
+  "up": 51,
+  "updatedAt": "2026-02-17T00:14:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5174"
+}

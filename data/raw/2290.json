@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Moving columns is a common UX practice. It also opens new possibilities like moving multiple columns, sorting columns etc",
+    "format": "markdown",
+    "workaround": "Doable but not efficient and not trivial (certainly not a few lines)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-02-14T20:56:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2290,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `move_column()` method to Tree",
+  "up": 0,
+  "updatedAt": "2021-09-27T00:08:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2290"
+}

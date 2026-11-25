@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would add a new `mouse_filter` type to Control, which can't be done by an add-on, and this has to do with the Control node and input event systems which are built-in.",
+    "format": "form",
+    "workaround": "Yes, but the method to do this is not ideal. Right now, if you want input to continue downward, you have to set the Control node's `visible` to `false` so that it won't be registered when the event is run again, run the same input event again using `Input.propagate_event()`, wait one frame for the input event to have run, then set the Control node's `visible` back to `true` so it can take input again.\n\nHere is an example using left and right click:\n```gdscript\nfunc _gui_input(event: InputEvent) -> void:\n\tif event is InputEventMouseButton:\n\t\tmatch event.button_index:\n\t\t\tBUTTON_RIGHT:\n\t\t\t\taccept_event()\n\t\t\t\t# Do stuff\n\t\t\tBUTTON_LEFT:\n\t\t\t\tvisible = false\n\t\t\t\tInput.parse_input_event(event)\n\t\t\t\tyield(get_tree(), \"idle_frame\")\n\t\t\t\tvisible = true\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-20T04:37:09Z",
+  "comments": 2,
+  "createdAt": "2021-09-19T21:56:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3320,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Control `mouse_filter` mode that behaves like `Ignore` when mouse input is not accepted",
+  "up": 0,
+  "updatedAt": "2021-09-20T09:06:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3320"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the editor experience out of the box.",
+    "format": "form",
+    "workaround": "This could probably be worked around with an addon, but would not be very convenient"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-11T19:35:13Z",
+  "comments": 7,
+  "createdAt": "2024-07-11T09:45:42Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10173,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to copy file name to FileSystem",
+  "up": 1,
+  "updatedAt": "2025-07-11T11:50:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10173"
+}

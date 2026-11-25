@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This probably shouldn't be part of core, but I'd like to understand whether community would find this kind of feature useful in their real-life projects.\n\nYet Godot does display grids in various editors already, like `AnimationTree`, `VisualScript`, `VisualShader` etc, so this alone signifies that a feature like this should be very useful for plugin creators (say `FiniteStateMachine`/`BehaviorTree` plugins which are unlikely to be implemented in core, according to previous discussions).\n\nThe node name is up to discussion, of course. I picked `Grid` because that's basically what it would represent (or `Grid2D` may be just fine, but it's unlikely that the 3D part is going to have such a node, it's mostly about GUI). I did implement other class [with the same `Grid2D` name](https://goost.readthedocs.io/en/gd3/classes/class_variantmap.html) in the past (now renamed to `VariantMap`) which works as a general-purpose 2D *data* container (which is different from [`Array2D`](https://github.com/godot-extended-libraries/godot-next/blob/837a9e03d9bd5c956f960855e994139ded92dfff/addons/godot-next/references/array_2d.gd)), so this is also a minor reason why I'd like to discuss this.",
+    "format": "markdown",
+    "workaround": "Sure, it's totally possible."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 30,
+  "createdAt": "2021-04-28T17:05:28Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2662,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `GridRect` node for displaying a two-dimensional grid (for editors/charts)",
+  "up": 15,
+  "updatedAt": "2021-11-17T23:12:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2662"
+}

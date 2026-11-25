@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`open_dominant_script_on_scene_change` is an editor setting, which needs improvement.",
+    "format": "form",
+    "workaround": "*Technically* it might be possible to hack it, but eh."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-11-10T22:11:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11132,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more options for opening dominant scripts of scenes",
+  "up": 3,
+  "updatedAt": "2025-01-03T14:14:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11132"
+}

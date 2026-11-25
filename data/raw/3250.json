@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This can be implemented in an add-on, but core will benefit from it.",
+    "format": "form",
+    "workaround": "No, as there are *thousands* of diacritics to cater for if you want to strip diacritics in a good way. You also need to replace those accented characters with their non-accented versions."
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-28T08:15:51Z",
+  "comments": 1,
+  "createdAt": "2021-09-03T22:29:26Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3250,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a String method to strip diacritics (accents) and return a non-accented String",
+  "up": 11,
+  "updatedAt": "2022-03-04T23:44:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3250"
+}

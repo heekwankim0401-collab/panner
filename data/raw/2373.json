@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The tilemap system is being revamped for 4.0, and I don't know if it could work like this as an add-on. Especially with copy-paste",
+    "format": "markdown",
+    "workaround": "It's possible to recreate, but it would still be awkward. If it's integrated, it can work well with the proposed designation layer"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-23T09:30:00Z",
+  "comments": 5,
+  "createdAt": "2021-02-27T19:49:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2373,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement TilemapGroup node for the new 4.0 Tilemap overhaul",
+  "up": 3,
+  "updatedAt": "2021-10-23T09:50:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2373"
+}

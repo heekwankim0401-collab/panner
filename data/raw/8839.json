@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Maybe can implement in add-on, but I prefer can in core. just like 2D ruler mode",
+    "format": "form",
+    "workaround": "Now, I'm add a meshinstance and set shape to a box mesh. then adjust it xyz then compare."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-12T12:45:14Z",
+  "comments": 9,
+  "createdAt": "2024-01-09T03:19:17Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 8839,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Ruler Mode for 3D",
+  "up": 12,
+  "updatedAt": "2024-12-12T12:45:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8839"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Baking is already provided in the editor, but there is no way to trigger it at runtime.",
+    "format": "form",
+    "workaround": "It would require a script that manually places particle collision shapes to approximate the shapes of the Gridmap. However, I don't think this would be efficient given the high number of collision shapes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-03-09T16:54:01Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6468,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow baking of GPUParticlesCollisionSDF3D at runtime",
+  "up": 1,
+  "updatedAt": "2023-03-09T21:00:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6468"
+}

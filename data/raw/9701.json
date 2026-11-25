@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Area2D/3D are native classes",
+    "format": "form",
+    "workaround": "As described above it can be worked around by disabling the collision shapes of the areas but that is more work, uglier code and more error prone than setting a single property on the area."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-09T10:43:24Z",
+  "comments": 6,
+  "createdAt": "2024-05-08T12:19:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 9701,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add 'disabled' property to Area2D/3D",
+  "up": 0,
+  "updatedAt": "2024-05-09T11:11:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9701"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "I think everything can be recreated in gdscript, but it's unecessary and take time for nothing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2025-09-14T21:30:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13177,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve the CodeEdit node for easier configuration",
+  "up": 2,
+  "updatedAt": "2025-10-07T09:03:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13177"
+}

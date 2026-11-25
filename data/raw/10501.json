@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a small modification to GDScript itself to help find an extremely subtle logic error.",
+    "format": "form",
+    "workaround": "It can be trivially avoided if you already know that there is no pre-increment, but is an extremely subtle logic error if you don't already know."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-20T00:10:37Z",
+  "comments": 1,
+  "createdAt": "2024-08-19T22:13:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10501,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Consecutive unary addition looks like it should be Pre-increment",
+  "up": 0,
+  "updatedAt": "2024-08-20T00:10:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10501"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe this feature is fundamental to the ability to animate `Control` nodes while keeping everything in a rigid layout. Thank you for reading!",
+    "format": "form",
+    "workaround": "A gdscript implementation would be very complex."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-27T15:45:31Z",
+  "comments": 5,
+  "createdAt": "2023-05-11T20:36:37Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.7",
+  "number": 6863,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `rect_position_percent_offset` property to `Control` node.",
+  "up": 5,
+  "updatedAt": "2026-08-27T15:45:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6863"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It cannot be made as an addon",
+    "format": "form",
+    "workaround": "I dont think so as scripts couldnt be able to instantiate the entire game into a floating window, only a specific app"
+  },
+  "assignees": 2,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-03-07T04:32:49Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 11937,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow running multiple instances on Android editor (via splitscreen or floating window)",
+  "up": 3,
+  "updatedAt": "2026-09-11T03:26:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11937"
+}

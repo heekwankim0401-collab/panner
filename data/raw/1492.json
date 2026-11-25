@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's about virtual keyboard which is core implemented",
+    "format": "legacy",
+    "workaround": "must recompile the export templates for each new version of Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-23T14:42:41Z",
+  "comments": 5,
+  "createdAt": "2020-09-11T18:47:17Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:gui",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1492,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make it possible to not automatically open the virtual keyboard in SpinBox \"on text entered\"",
+  "up": 0,
+  "updatedAt": "2020-09-23T14:42:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1492"
+}

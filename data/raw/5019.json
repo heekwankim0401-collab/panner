@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes, like above, these things are very common, and this is such a small (but useful) feature that it really should be built in, and the default.",
+    "format": "form",
+    "workaround": "Yes, but setting up collisions is very common."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-14T13:26:07Z",
+  "comments": 3,
+  "createdAt": "2022-07-30T11:48:18Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.2",
+  "number": 5019,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to move individual CSG faces as opposed to scaling from both sides. (and for CollisionShapes)",
+  "up": 8,
+  "updatedAt": "2023-09-14T13:26:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5019"
+}

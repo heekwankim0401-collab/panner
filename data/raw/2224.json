@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Lights are core.",
+    "format": "markdown",
+    "workaround": "I don't think so, also lights are essentials so they are used often."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-02T11:52:02Z",
+  "comments": 1,
+  "createdAt": "2021-02-02T10:31:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2224,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make attenuation's resulting look closer to its curve",
+  "up": 0,
+  "updatedAt": "2021-02-02T11:53:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2224"
+}

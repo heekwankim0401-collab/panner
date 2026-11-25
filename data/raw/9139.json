@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I can't see a way to make an asset out of something that affects the TranslationServer.",
+    "format": "form",
+    "workaround": "As the fallback mechanism is implemented at the TranslationServer (which can not be overriden), and not the Translation (which can), I don't se a way to feature this empty translations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-02-20T07:29:31Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9139,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add empty string markers for translations",
+  "up": 0,
+  "updatedAt": "2024-08-07T16:07:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9139"
+}

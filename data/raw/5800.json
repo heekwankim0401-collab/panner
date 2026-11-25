@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Same reason as above.",
+    "format": "form",
+    "workaround": "It's a usability feature which needs improvement. Workarounds don't improve usability."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 24,
+  "createdAt": "2022-11-17T14:02:38Z",
+  "down": 11,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5800,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "If the Godot4 user runs a scene with no Light or Environment, run the scene with the Editor Viewport Directional Light and Environment",
+  "up": 34,
+  "updatedAt": "2024-02-02T12:46:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5800"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This reduces friction for newer users, and avoids giving a false indication about how layer nodes should be sorted for rendering.",
+    "format": "form",
+    "workaround": "Core editor UI element."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-31T17:52:00Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11058,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make icons on TileMapLayer Layer Select UI point in more natural directions",
+  "up": 3,
+  "updatedAt": "2024-10-31T18:48:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11058"
+}

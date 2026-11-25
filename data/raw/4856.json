@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "CanvasItem and Node3D already have a visibility toggle, so this just adds the same feature to Window.",
+    "format": "form",
+    "workaround": "You can change the `visible` property in the Inspector."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-08T14:13:32Z",
+  "comments": 0,
+  "createdAt": "2022-07-12T01:49:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 4856,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Window visibility toggle button to the Scene tree",
+  "up": 2,
+  "updatedAt": "2022-08-08T14:13:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4856"
+}

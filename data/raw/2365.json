@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would have to be built in, because it would require adding a new `tracker` section in every `.tscn` file.\nIt would also require automatically calling `save_data()`  whenever a scene is saved, and `load_data()` in the `_ready()` func for tool scripts.",
+    "format": "markdown",
+    "workaround": "No. Also it would require remembering to put function calls in every tool script, and remembering to manually call `save_data()` every time a change is made."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-06T11:20:57Z",
+  "comments": 10,
+  "createdAt": "2021-02-27T09:54:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2365,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a 'tracker' string to .tscn files (for preventing data loss in tool scenes)",
+  "up": 0,
+  "updatedAt": "2022-06-06T12:24:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2365"
+}

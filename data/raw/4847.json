@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's useful when working with animations.",
+    "format": "form",
+    "workaround": "It requires editor modifications."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2022-07-10T18:29:06Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4847,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an easy way to change target path in AnimationTrack",
+  "up": 67,
+  "updatedAt": "2026-08-30T09:42:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4847"
+}

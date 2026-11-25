@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's possible to create a plugin which could provide the aforementioned `Input` global class with static methods that use `InputFilter` under the hood, but the burden of having to go to the asset library in hopes that you find such a utility class far outweighs a relatively trivial change in core.",
+    "format": "legacy",
+    "workaround": "As most changes in the 4.0, this still requires some refactoring in existing projects as well, so more or less yes. But does this change really justify the added usability and readability issues to existing projects?\n\nAlso, there's no actual way to use some kind of aliases in GDScript as in other languages. It's also possible to create an `Input` global `class_name` script to act as a wrapper over `InputFilter` singleton, but I don't think it's worth it.\n\nI would personally prefer if we could implement #104, at least to some extent."
+  },
+  "assignees": 0,
+  "closedAt": "2020-04-28T14:20:21Z",
+  "comments": 18,
+  "createdAt": "2020-03-26T16:27:22Z",
+  "down": 1,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 639,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `InputFilter` singleton back to `Input`",
+  "up": 11,
+  "updatedAt": "2020-04-29T14:10:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/639"
+}

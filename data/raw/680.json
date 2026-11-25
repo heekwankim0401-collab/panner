@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "While I can imagine an extremely hacky plugin that is able to do it, I'd prefer it to be the default experience for everyone using the editor. But I do think it is doable as a plugin, in some form.",
+    "format": "legacy",
+    "workaround": "It cannot be solved by a simple script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-04-08T13:56:40Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 680,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Disallow deletion of the root node in editor Scene dock",
+  "up": 1,
+  "updatedAt": "2020-04-08T16:45:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/680"
+}

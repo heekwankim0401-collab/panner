@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The animation player needs to be coded in Vulkan and have editor integration.",
+    "format": "legacy",
+    "workaround": "The complexity is not a few lines."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-17T22:27:00Z",
+  "comments": 4,
+  "createdAt": "2020-07-01T03:36:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1149,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Play AnimationPlayer using GPU compute features",
+  "up": 7,
+  "updatedAt": "2020-12-17T22:34:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1149"
+}

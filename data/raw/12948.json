@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "**Yes** — because it directly relates to how the Godot editor saves and manages project files, including scripts and scenes. File EOL handling is a **core responsibility of the editor**, not something that should be left to plugins.\n\nThis setting affects:\n- Code editor compatibility\n- Git diffs and merges\n- Developer workflow consistency\n\nHaving **EOL** control built-in would align with industry practices (e.g., **VS Code**, JetBrains editors), and eliminate external tooling or workarounds. It's a small yet essential quality-of-life feature for developers, especially those working on **Windows** or in cross-platform teams.",
+    "format": "form",
+    "workaround": "**Partially** — but only for _advanced_ users.\n\nIt is possible to write external scripts (e.g., PowerShell or Git hooks) to convert files to CRLF after every Godot save or run. However, this is not a clean or scalable solution, especially for new users, teams, or contributors.\n\nRelying on external scripts or manual line-ending conversion makes version control _inconsistent_ across platforms and increases the **risk** of merge conflicts and unnecessary diffs.\n\nAdding a built-in setting ensures cross-platform consistency and improves usability for **Windows** developers using version control systems like Git."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-08-06T11:30:54Z",
+  "down": 1,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12948,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add end of line customization for written files",
+  "up": 2,
+  "updatedAt": "2026-03-06T23:28:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12948"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "3d editing is a core feature.",
+    "format": "legacy",
+    "workaround": "No, the behaviour of the 3d editor cannot be modified through script."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-15T17:16:36Z",
+  "comments": 17,
+  "createdAt": "2020-02-02T15:56:38Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 431,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Objects in 3D or 2D editors should have to be selected before moving",
+  "up": 6,
+  "updatedAt": "2021-06-15T22:39:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/431"
+}

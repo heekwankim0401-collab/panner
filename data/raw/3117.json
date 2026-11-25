@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is part of the standard scene shader.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-23T03:34:46Z",
+  "comments": 1,
+  "createdAt": "2021-08-11T06:08:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 3117,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace \"Force Blinn over GGX\" with \"Use Fast GGX\"",
+  "up": 7,
+  "updatedAt": "2022-02-23T03:34:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3117"
+}

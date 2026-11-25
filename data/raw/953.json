@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core usability feature.",
+    "format": "legacy",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-02T17:57:57Z",
+  "comments": 4,
+  "createdAt": "2020-05-28T21:36:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 953,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a undo/redo history log",
+  "up": 10,
+  "updatedAt": "2022-11-02T17:58:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/953"
+}

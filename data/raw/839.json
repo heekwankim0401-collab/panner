@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-30T09:52:02Z",
+  "comments": 15,
+  "createdAt": "2020-05-14T21:01:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 839,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `z_index` property for Control nodes (like in Node2D)",
+  "up": 51,
+  "updatedAt": "2022-11-30T09:52:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/839"
+}

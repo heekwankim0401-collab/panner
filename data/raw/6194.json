@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "New functionality for a built-in effect.",
+    "format": "form",
+    "workaround": "It might be possible to implement as a shader? But it's far from easy to do."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-01-28T14:38:44Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6194,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement convolution bloom",
+  "up": 8,
+  "updatedAt": "2026-03-05T13:18:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6194"
+}

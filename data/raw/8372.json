@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a simple modification",
+    "format": "form",
+    "workaround": "It will be used often"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-07T14:52:58Z",
+  "comments": 2,
+  "createdAt": "2023-11-08T15:43:40Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 8372,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make \"Open Dominant Script on Scene Change\" disabled by default",
+  "up": 30,
+  "updatedAt": "2024-05-07T14:52:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8372"
+}

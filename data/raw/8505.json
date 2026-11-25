@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Basic accessibility feature",
+    "format": "form",
+    "workaround": "You can make your own editor theme to override those setings, as I did in the screenshot above, but I want to point out that this is a usability issue, not an aesthetics issue. Making those things customizable without requiring a custom theme will make the editor more accessible to people with different screen sizes who want to dive into Godot\n\nFor existing users it will make lives easier too because we won't need to bother with custom themes for something this essential"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-16T11:55:42Z",
+  "comments": 19,
+  "createdAt": "2023-11-23T12:59:16Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 8505,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make editor's dock gaps and trees line heights configurable in editor settings",
+  "up": 67,
+  "updatedAt": "2025-02-25T13:22:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8505"
+}

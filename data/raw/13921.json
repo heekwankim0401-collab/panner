@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The advanced importer cannot be modified in this way with an addon as far as I'm aware.",
+    "format": "form",
+    "workaround": "The only way to work around not being able to see the animations in the advanced importer is either to view them outside of godot or to yolo import and then open the importer back up again and fix all the incorrect settings. Neither is ideal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-12-27T09:26:40Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 13921,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add advanced importer option to always keep Skeleton3D bones visible",
+  "up": 3,
+  "updatedAt": "2025-12-27T23:32:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13921"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is a small quality of life feature that enables missing functionality.",
+    "format": "form",
+    "workaround": "You can not replicate the functionality of a link like that as far as I know. But you can just write `[code]CustomClass[/code]` instead and leave it to the other programmer to find it through the doc search."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T13:42:02Z",
+  "comments": 4,
+  "createdAt": "2025-04-09T22:22:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:docs",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12206,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `[class Class]` BBCode to documentation to allow linking directly to `class_name` of a custom class",
+  "up": 3,
+  "updatedAt": "2026-07-28T13:42:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12206"
+}

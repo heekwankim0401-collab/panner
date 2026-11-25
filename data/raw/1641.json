@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AudioStreamPlayer is a core feature.",
+    "format": "legacy",
+    "workaround": "It can currently be worked around by setting the Stream to not loop automatically and playing the stream again when the `finished` signal is emitted."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-10-09T14:58:26Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 1641,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a signal to AudioStreamPlayer that indicates that the loop has started again",
+  "up": 26,
+  "updatedAt": "2023-01-05T15:16:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1641"
+}

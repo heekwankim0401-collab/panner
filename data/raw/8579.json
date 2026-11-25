@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Just so that people don't have to rewrite or copy paste the actions every time and can be reused easily.",
+    "format": "form",
+    "workaround": "It can be a separate repo if not approved in the godot-cpp-template one."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-06T06:54:18Z",
+  "comments": 4,
+  "createdAt": "2023-12-03T12:06:08Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": "4.3",
+  "number": 8579,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Publish a workflow to build a GDExtension for all platforms on the GitHub Marketplace",
+  "up": 12,
+  "updatedAt": "2024-04-08T22:50:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8579"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "As far as I'm concerned Godot Bullet physics makes up a core engine part and cannot be changed with an add-on in the asset library in a performant way.",
+    "format": "legacy",
+    "workaround": "No, it cannot be worked around easily as this is a real performance limitation to 3D Godot physics, we are limited to one CPU thread. One could use 3D PhysicsServers for multi-threaded access on physics operations, but the 3D PhysicsServer instances still run on the same main thread which does not unlock the power of the additional CPU cores that are potentially idling, as mentioned in #483 (a great proposal to push the 3D physics boundaries as well)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-10T22:53:04Z",
+  "comments": 9,
+  "createdAt": "2020-07-03T12:23:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1155,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make 3D Bullet physics multi-threaded",
+  "up": 24,
+  "updatedAt": "2022-09-18T21:04:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1155"
+}

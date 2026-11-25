@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's already the core.",
+    "format": "form",
+    "workaround": "It's core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-09-17T15:12:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13196,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement complete file-level file change tracking",
+  "up": 7,
+  "updatedAt": "2026-07-12T01:56:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13196"
+}

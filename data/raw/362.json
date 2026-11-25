@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be relatively simple, and it's an addition to the core UX of the engine.\n\nAlso, I love Godot, thanks for everything!",
+    "format": "legacy",
+    "workaround": "Not that I know of."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-08T12:57:44Z",
+  "comments": 1,
+  "createdAt": "2020-01-07T21:02:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 362,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Undo stack should keep focus of active window",
+  "up": 1,
+  "updatedAt": "2020-10-08T12:57:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/362"
+}

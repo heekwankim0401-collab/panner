@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As the ecosystem third-party of `EditorPlugin`s grows, we will want to allow them to act like normal Godot functionality, and so we should provide some \"official\" way to accomplish this",
+    "format": "form",
+    "workaround": "This can sort of be worked around via script - this code works:\n\n```\nvar editor_debugger_node = get_tree().root.find_children(\"*\", \"EditorDebuggerNode\", true, false)[0]\n```\n\n... to get the `EditorDebuggerNode` and than manually call its methods\n\nBut if we do want folks to do this manually in their `EditorPlugin`s, that's pretty nasty, and we should expose it more directly (maybe on `EditorInterface`?). If we don't want folks to do it that way, and have it happen more automatically, then we definitely need to change Godot"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-10T17:04:40Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13607,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow `EditorPlugin`s that update the current scene to also live update the running game",
+  "up": 1,
+  "updatedAt": "2025-11-11T00:19:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13607"
+}

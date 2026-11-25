@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a feature that many of image/model manipulation tool given out of the box, and can be very useful for many cases that require rotation of specific objects around the defined pivot, especially animation.",
+    "format": "form",
+    "workaround": "I can't really think about true solutions beside of creating a new node that will be used for rotation, and it does not work so well on partial selection. It also does not work with armature tool."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-26T13:22:28Z",
+  "comments": 1,
+  "createdAt": "2021-12-17T15:38:17Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 3684,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "An ability to set a temporary \"pivot\" for rotating selected nodes around it in editor.",
+  "up": 5,
+  "updatedAt": "2024-04-26T13:22:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3684"
+}

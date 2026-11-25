@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Godot will likely need to implement native PipeWire support at some point in the future, when PulseAudio hits end of life. Drivers like this are also quite low-level, and will be much easier for me to implement as a core part of the engine.\n\nNote that while PipeWire does replace PulseAudio in some cases, it will not do that here. PipeWire clients cannot interface with the PulseAudio server (to my knowledge). Their compatibility only works the other way around. For this reason, Pulse should stay as the default driver option for Linux/BSD until it is officially deprecated in favour of PipeWire.",
+    "format": "form",
+    "workaround": "Not really. It's probably doable via GDExtension, but it makes much more sense to just make this a core feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-09-12T03:46:59Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:audio",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10723,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Adding a native PipeWire audio driver",
+  "up": 23,
+  "updatedAt": "2026-03-17T11:18:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10723"
+}

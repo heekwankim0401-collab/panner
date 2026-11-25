@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it can't be done as an add-on as far as I know.",
+    "format": "form",
+    "workaround": "Custom Emitter Shapes are not possible to add via GDScript"
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2022-08-01T23:07:10Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5051,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to have skinned Meshes emit particles",
+  "up": 42,
+  "updatedAt": "2026-06-09T16:36:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5051"
+}

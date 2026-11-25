@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a part of the build system",
+    "format": "form",
+    "workaround": "It is for those who enter godot building or just want custom export template so it won't be used much but can't be worked around"
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-29T08:17:51Z",
+  "comments": 2,
+  "createdAt": "2024-03-12T20:30:30Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": "4.3",
+  "number": 9291,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make warnings/notes in build scripts colored",
+  "up": 2,
+  "updatedAt": "2024-04-29T08:17:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9291"
+}

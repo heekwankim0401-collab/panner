@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not sure if using such addon would be handy, if even possible.",
+    "format": "markdown",
+    "workaround": "This could be worked-round using a script like\n`get_ok().text = ..`"
+  },
+  "assignees": 1,
+  "closedAt": "2022-07-13T12:10:38Z",
+  "comments": 7,
+  "createdAt": "2021-03-07T09:02:47Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2419,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `ok_button_text` and `cancel_button_text` properties to `ConfirmationDialog`",
+  "up": 2,
+  "updatedAt": "2022-07-13T12:20:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2419"
+}

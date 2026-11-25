@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "At the point this would take effect, add-ons (and scripts) aren't loaded yet.",
+    "format": "form",
+    "workaround": "See below"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-18T16:46:42Z",
+  "comments": 2,
+  "createdAt": "2024-10-18T15:34:03Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10996,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Truly portable mode (portable.txt, --portable)",
+  "up": 0,
+  "updatedAt": "2024-10-18T18:34:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10996"
+}

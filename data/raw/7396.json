@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It changes the way ReflectionProbes are used out of the box.",
+    "format": "form",
+    "workaround": "The reflection cubemap cannot be accessed or modified by script"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-28T00:33:13Z",
+  "comments": 1,
+  "createdAt": "2023-07-27T17:24:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7396,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow ReflectionProbe cubemap to use a texture resource",
+  "up": 0,
+  "updatedAt": "2023-07-28T00:33:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7396"
+}

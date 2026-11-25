@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "**Yes.** This feature:\n\n1. **Requires engine source modification** - Cannot be implemented externally\n2. **Extends core rendering API** - Natural extension of existing `CompositorEffect` system\n3. **Benefits multiple use cases** - Not specific to one application type\n4. **Follows Godot patterns** - Uses same opt-in design as other `CompositorEffect` features\n\n**Similar existing features in core:**\n- `access_resolved_color` - Opt-in access to resolved color buffer\n- `access_resolved_depth` - Opt-in access to resolved depth buffer\n- `needs_motion_vectors` - Opt-in motion vector access\n\nThis proposal follows the same pattern for DrawList access.",
+    "format": "form",
+    "workaround": "**No.** This requires core rendering engine modifications:\n\n1. Access to active `DrawList` during rendering pipeline\n2. Injection into Forward Clustered renderer's draw call sequence\n3. Exposure of internal rendering state to scripting layer\n\nThese cannot be implemented in GDScript or as an add-on."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-31T16:50:11Z",
+  "comments": 3,
+  "createdAt": "2025-10-16T16:15:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13405,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add DrawList access to CompositorEffect for GPU-driven rendering",
+  "up": 0,
+  "updatedAt": "2025-10-31T20:51:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13405"
+}

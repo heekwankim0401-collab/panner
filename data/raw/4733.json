@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core",
+    "format": "form",
+    "workaround": "It can't be worked around in script"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-06-23T21:54:19Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4733,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add use_texture_arrays project setting for ReflectionProbes",
+  "up": 5,
+  "updatedAt": "2022-06-23T22:33:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4733"
+}

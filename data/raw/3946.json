@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because the implementation needs `HTTPRequest` support.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-10T18:46:40Z",
+  "comments": 1,
+  "createdAt": "2022-02-10T10:42:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 3946,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "HTTPRequest API supports tracing request",
+  "up": 1,
+  "updatedAt": "2022-02-10T18:54:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3946"
+}

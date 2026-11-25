@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot be implemented with an addon.",
+    "format": "form",
+    "workaround": "Remember to check autoloads before deleting any files."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-11-23T12:44:09Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13689,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Warn when deleting a file marked as an Autoload",
+  "up": 8,
+  "updatedAt": "2025-11-24T13:36:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13689"
+}

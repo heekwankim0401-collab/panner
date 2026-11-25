@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-05-03T03:47:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 14774,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose \"ray_pickable\" property when importing a StaticBody as part of a .glb import",
+  "up": 0,
+  "updatedAt": "2026-05-14T22:57:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14774"
+}

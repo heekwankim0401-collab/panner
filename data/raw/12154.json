@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Pretty basic",
+    "format": "form",
+    "workaround": "No, I dont think so."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-14T14:49:42Z",
+  "comments": 4,
+  "createdAt": "2025-04-04T10:04:06Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 12154,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Stopping The Changing of Workspace from Game to (3D or 2D) when selecting node in Scene Tree at *Runtime*",
+  "up": 1,
+  "updatedAt": "2025-05-14T15:09:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12154"
+}

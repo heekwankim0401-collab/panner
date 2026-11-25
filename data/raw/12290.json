@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Changes require internal access",
+    "format": "form",
+    "workaround": "There are 2 ways with their own downsides\n\n## Using different input names\nThis still has the old issue of cluttering input map window\n\n## Reusing single name for all calls\n```gdscript\nif Input.is_action_just_pressed(&\"Interact\") and can_attack():\n    attack()\n```\nas seen here, Interact can be confusing to the reader, possibly mistaking it for an incorrect input action"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-04-22T11:01:41Z",
+  "down": 1,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 12290,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow having multiple names for input actions",
+  "up": 0,
+  "updatedAt": "2025-04-23T12:41:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12290"
+}

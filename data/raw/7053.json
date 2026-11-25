@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe this container is an absolutely crucial addition to the lineup and would personally use it everywhere. Thank you very much for reading!",
+    "format": "form",
+    "workaround": "Though, as shown above, a gdscript implementation is possible, there may be performance concerns when animating. Also that you must add `@tool` to the top of every inheriting class for the container to work as expected in the editor is a minor annoyance."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-06T15:31:47Z",
+  "comments": 23,
+  "createdAt": "2023-06-10T03:56:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7053,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a `TransformContainer` Node",
+  "up": 13,
+  "updatedAt": "2026-03-06T15:32:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7053"
+}

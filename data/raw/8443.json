@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because there's really no reason to make it an asset library, this is closely related to the export phase of a project. That I'm aware of doing this as an add-on won't bring much benefit compared to making it core.",
+    "format": "form",
+    "workaround": "I mean... Yes but not really. A python script could go on and read and edit the export template's `build.gradle` and try to figure out via a config file which repos are private and subsequently add the required credentials. This could totally be done, but since changing this in the engine requires little to no effort, it could really be just better to include it as a feature. Considering there's pretty much support for everything needed there's no really good reason not to include this :)."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T08:20:53Z",
+  "comments": 1,
+  "createdAt": "2023-11-16T14:26:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8443,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "[Android plugins, GDAP file changes]: allow for custom maven repos to be private, accepting a set of credentials for each url",
+  "up": 0,
+  "updatedAt": "2026-01-28T17:18:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8443"
+}

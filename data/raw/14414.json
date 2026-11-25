@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-03-10T10:57:07Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 14414,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add new signals to the AudioServer to know when the buses' effect stacks are modified",
+  "up": 3,
+  "updatedAt": "2026-03-13T09:23:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14414"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "if this exists in the asset library, please point me to the add-on, i will use it.\notherwise i believe this is impossible to make as an add-on.",
+    "format": "form",
+    "workaround": "no, this is new grammar for GDScript"
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-30T06:21:17Z",
+  "comments": 9,
+  "createdAt": "2024-01-02T00:42:41Z",
+  "down": 9,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8771,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add binary `if` statement",
+  "up": 2,
+  "updatedAt": "2025-07-30T06:33:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8771"
+}

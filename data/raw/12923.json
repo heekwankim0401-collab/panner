@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is about avoiding a common performance pitfall I've seen in 3D projects over the years - or at least, making it easier to discover and overcome.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-08-02T20:30:40Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12923,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display a notice in the inspector when a BaseMaterial3D or spatial ShaderMaterial is forced to go through the transparent pipeline",
+  "up": 7,
+  "updatedAt": "2025-11-17T15:15:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12923"
+}

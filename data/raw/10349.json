@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This should be a core feature that improves the Engine as a whole and can lead to significantly easier making local co-op without having to waste time on making a whole system or duplicating input maps per player.",
+    "format": "form",
+    "workaround": "Current solution requires either checking what input type is being pressed and adding a tag of it's ID by the device type. So that each input device has a unique ID. Or by making multiple input maps for each player which is troublesome and just annoying."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-08-03T04:45:00Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10349,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unique Input Device ID",
+  "up": 0,
+  "updatedAt": "2026-02-14T06:35:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10349"
+}

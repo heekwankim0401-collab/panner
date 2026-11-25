@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its so very close to config, it just makes sense that the config would apply this to the text editor (or add the extra config for gdscript specific member variable coloring as I mentioned above). I think downloading an add-on to enable one more color option in the text editor could be comparable to ordering delivery food / Uber Eats solely to get a drink... all that just for a drink? Just drink water and move on (sorry for the bad analogy I hope it makes you laugh) - in this case, drinking water and moving on is dealing with the restricted color highlighting.",
+    "format": "form",
+    "workaround": "~I'm not sure, it would require writing a plugin to do so I imagine, which maybe feels overkill. I would probably just move on with my life.~\n\nBased on my previous edit, I thought I should also note:\n\nThere is a work around. By just using `self.foo` you can get member variable coloring. However, this requires always using `self.` to get the proper coloring and that also feels kinda... bleh. So while I say that there is a way to fix the issue, _it doesn't mean I like it_ 😠"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-11T23:22:38Z",
+  "comments": 0,
+  "createdAt": "2023-03-04T18:55:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.5",
+  "number": 6428,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Apply member variable color syntax highlighting to members within GDScripts",
+  "up": 9,
+  "updatedAt": "2025-06-11T23:22:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6428"
+}

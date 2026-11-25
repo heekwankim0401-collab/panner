@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Given that this proposal directly targets and enhances the core engine's logging functionality, it cannot be an add-on.",
+    "format": "form",
+    "workaround": "It will be used often, and cannot be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-11-03T20:22:14Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8345,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enhanced Error Logging with Node Path (Instance) Information",
+  "up": 2,
+  "updatedAt": "2023-11-03T20:58:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8345"
+}

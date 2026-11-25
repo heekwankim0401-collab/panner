@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about exposing editor functionality to GDExtension classes.",
+    "format": "form",
+    "workaround": "There is currently no way for GDExtension classes to participate in some editor tooling features."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-05-23T00:13:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 9806,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow providing source code editing capabilities for GDExtension classes",
+  "up": 21,
+  "updatedAt": "2025-05-22T14:52:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9806"
+}

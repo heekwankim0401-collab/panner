@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not possible to implement as an add-on in the asset library.",
+    "format": "form",
+    "workaround": "I suspect that this would be used extremely often if supported, certainly by me!\n\nCurrent workarounds include:\n1. Using a \"getter\" function & overriding that value in the subclass (note that this precludes being able to also set `@export`ed values via the inspector)\n2. Manually setting the value in all instances of the subclass\n3. Setting the value during initialisation or ready etc (has subtle quirks relating to initialisation order that can trip you up & also doesn't work well with exported variables & the inspector)\n4. Duplicating a \"template\" resource instance manually before editing\n5. Not using subclassing at all and instead relying on \"duck typing\" without a guarantee that the variable will even exist when used"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-28T12:05:34Z",
+  "comments": 1,
+  "createdAt": "2024-06-28T11:58:41Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10060,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Simple overriding of default variable values in subclassed scripts",
+  "up": 4,
+  "updatedAt": "2024-06-28T12:05:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10060"
+}

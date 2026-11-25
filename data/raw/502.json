@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It has to be core as it's a language level feature of GDScript",
+    "format": "legacy",
+    "workaround": "Yes, but it's much less compact. And so many Godot functions return codes that if left unchecked result in warnings. In order to check them all means lots of extra code bloat:\n```\nvar result := get_tree().change_scene(\"res://actors/fuel_rod/FuelRod.tscn\")\nassert(result != OK)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 23,
+  "createdAt": "2020-02-21T19:37:10Z",
+  "down": 8,
+  "labels": [
+    "breaks compat",
+    "topic:gdscript"
+  ],
+  "milestone": "4.x",
+  "number": 502,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "`assert()` should evaluate its arguments in release, and then no-op",
+  "up": 3,
+  "updatedAt": "2026-02-03T06:34:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/502"
+}

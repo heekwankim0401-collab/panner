@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because confusions like these really shouldn't happen in any circumstances.",
+    "format": "legacy",
+    "workaround": "It's an UI enhancement, i believe it will be used often, if reading the message is to use it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-03-22T17:17:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 620,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add to deletion confirmation a warning for the user to check files inside folder",
+  "up": 3,
+  "updatedAt": "2025-02-26T13:39:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/620"
+}

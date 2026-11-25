@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I dont think that it could be done by an add-on.",
+    "format": "legacy",
+    "workaround": "I don't think."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-25T11:07:24Z",
+  "comments": 4,
+  "createdAt": "2020-09-27T08:58:42Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": "4.0",
+  "number": 1575,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make it possible to change the `.sln` and `.csproj` location in a project",
+  "up": 7,
+  "updatedAt": "2022-08-25T11:07:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1575"
+}

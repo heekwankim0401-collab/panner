@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The functions are already in the core engine, no reason they shouldn't be accessible via script",
+    "format": "markdown",
+    "workaround": "Pretty much impossible to worked around for some of them, like for example `Create CollisionPolygon2D Sibling` can only be worked around if you use custom vectorization algo on the sprite and then converts them to positional points"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2021-01-04T20:09:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2071,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow Sprite's \"Convert to Mesh2D\", \"Convert to Polygon2D\" etc be callable in script.",
+  "up": 4,
+  "updatedAt": "2023-02-17T22:18:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2071"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As mentioned earlier, some engines provide OBB support, some don’t - it’s about 50/50. But adding a clean and well-integrated OBB implementation would improve code clarity and engine flexibility, not clutter it.\n\nIn my current situation, I’ll likely have to implement OBB functionality in Rust - which is not ideal for typical Godot users. One might argue that this feature isn’t relevant for everyday users, but that’s only because the engine doesn’t offer it. In reality, OBB logic is already used deep within the engine through AABB + Transform3D.\n\nIf I’m wrong, feel free to correct me. I don’t expect this to be implemented immediately, but I wanted to raise the point - a modern engine should provide this kind of utility out of the box rather than forcing users to implement it from scratch.\n\n(For example, what makes Godot different from something like Bevy, where the developer writes everything manually? If Godot provides AABB, then having OBB should be a natural extension.)",
+    "format": "form",
+    "workaround": "Yes, OBB collision can be implemented manually in about 200 lines of GDScript, but the performance will be terrible. It will also lead to fragmentation in the community, with everyone implementing their own OBB system in a different way.\n\n[obbTest.zip](https://github.com/user-attachments/files/21255665/obbTest.zip)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-07-16T11:43:03Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12790,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Introduce oriented bounding box support on the same level as AABB",
+  "up": 6,
+  "updatedAt": "2025-07-29T09:42:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12790"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think theres no way to do that on asset library",
+    "format": "form",
+    "workaround": "I don't think so"
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-08T20:22:30Z",
+  "comments": 3,
+  "createdAt": "2021-12-08T20:16:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:assetlib"
+  ],
+  "milestone": null,
+  "number": 3648,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make a way to ignore such files when they are downloaded from Godot Assets",
+  "up": 1,
+  "updatedAt": "2022-07-04T06:25:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3648"
+}

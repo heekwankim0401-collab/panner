@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is related to editor itself, there is no point in having it as an external asset.",
+    "format": "form",
+    "workaround": "This is just a generic QoL improvement, and one that will help people keep up to date Godot version installed"
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-05T23:21:16Z",
+  "comments": 1,
+  "createdAt": "2023-03-05T22:42:49Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6441,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Notify users when There is a newer stable version of Godot",
+  "up": 0,
+  "updatedAt": "2023-03-05T23:22:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6441"
+}

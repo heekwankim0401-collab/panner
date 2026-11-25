@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be a standard part of the script editor for replacing variable name script wide.",
+    "format": "form",
+    "workaround": "It can be worked around by NOT using assigned variable names to text or function names within the same script such as\nvar string = \"This has the word example in it\" or a function func _execute_example() but it is very useful in large script file.\nor giving every variable name and underscore(_) before their names which not everyone does."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-01T10:54:36Z",
+  "comments": 5,
+  "createdAt": "2023-01-31T19:55:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6217,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Smart Renaming of Variable names scriptwide within Replace(CTRL+R)",
+  "up": 4,
+  "updatedAt": "2026-11-22T06:39:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6217"
+}

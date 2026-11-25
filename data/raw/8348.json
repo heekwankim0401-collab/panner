@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I'm aware, it's not possible to extend/modify GDScript itself from an extension or addon, if one wants to use an annotation for this. It would certainly be possible to use a GDExtension adding some extra object type/class to handle this, obviously.",
+    "format": "form",
+    "workaround": "I don't see any simple way around this directly. One would always have to fall back to C# or a GDExtension."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-11-04T11:56:15Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8348,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript: Add a new annotation to make direct calls into native libraries without writing an extension",
+  "up": 7,
+  "updatedAt": "2024-01-24T12:33:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8348"
+}

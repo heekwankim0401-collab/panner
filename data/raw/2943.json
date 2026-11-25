@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This seems like such a basic function when there's already a setter, I was convinced I was just stupid for not being able to find it.",
+    "format": "form",
+    "workaround": "As far as I can tell, there is no easy work around.  If there is, I'd love to hear about it."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-01T10:08:28Z",
+  "comments": 2,
+  "createdAt": "2021-07-01T04:12:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2943,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add get_main_screen_editor() to EditorInterface",
+  "up": 0,
+  "updatedAt": "2025-07-15T22:07:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2943"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "gdscript itself is part of core and no changes to the parser can be made an add-on.",
+    "format": "form",
+    "workaround": "This is a gdscript parser feature. The easiest way to work around it is to use a tool or external script to procedurally generate a fake enum (a named class with a bunch of string constants) with one entry for every dir/file path in the project, and never again use string literals, just the constants in the enum. This way any project refactoring (as long as followed by the regeneration of the enum) will lead to compilation errors due to scripts using inexistent constants in the enum"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-04-13T11:40:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9512,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add resource path string literals in gdscript",
+  "up": 5,
+  "updatedAt": "2025-07-07T10:34:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9512"
+}

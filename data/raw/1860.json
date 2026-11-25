@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Adds function to core functionality.",
+    "format": "legacy",
+    "workaround": "Used fairly often and likely there is a work around but in my opinion 99% when user uses typeof() they want to know a name of type not it  enumerated value"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-03T15:41:36Z",
+  "comments": 2,
+  "createdAt": "2020-11-19T09:10:28Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.2",
+  "number": 1860,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `typeofname()` to get a name of a type rather than its enumerated value",
+  "up": 15,
+  "updatedAt": "2023-10-03T15:41:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1860"
+}

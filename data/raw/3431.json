@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a core shader feature that can't be done with addons.\n\nI've already created a pull request for this here: https://github.com/godotengine/godot/pull/36747",
+    "format": "form",
+    "workaround": "Workarounds are costly, as they require multiple passes."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-01T08:03:57Z",
+  "comments": 47,
+  "createdAt": "2021-10-15T04:25:53Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.3",
+  "number": 3431,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add blend_premul_alpha to SpatialMaterial and shaders",
+  "up": 13,
+  "updatedAt": "2025-03-21T06:59:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3431"
+}

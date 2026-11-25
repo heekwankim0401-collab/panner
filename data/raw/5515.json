@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is the main use case for these methods in user code.",
+    "format": "form",
+    "workaround": "It is possible to add the timezone offset before the method call, but I don't think this is a good solution."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-31T04:47:56Z",
+  "comments": 11,
+  "createdAt": "2022-09-29T16:22:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5515,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add an `utc` parameter to `Time.*_from_unix_time()` methods",
+  "up": 3,
+  "updatedAt": "2024-05-31T09:23:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5515"
+}

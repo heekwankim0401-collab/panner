@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It might be possible to make it an add-on.  Not 100% sure how 4.x handles physics libraries.  I do think it might be useful as a core feature, though, for people running into issues with the Godot physics engine.\n\nMight, at the very least, be worth looking into for reference.",
+    "format": "form",
+    "workaround": "No, this is core functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-13T23:44:18Z",
+  "comments": 1,
+  "createdAt": "2022-08-13T23:07:36Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5160,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add (or at least investigate) Jolt physics engine",
+  "up": 1,
+  "updatedAt": "2022-08-13T23:44:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5160"
+}

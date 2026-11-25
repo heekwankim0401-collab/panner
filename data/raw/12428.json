@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Enums are built into the language.",
+    "format": "form",
+    "workaround": "I would use it constantly.  \n\nSimply writing ToString() or GetKey() vs a helper function in a global singleton where I pass in both the type of the enum and its value is wildly less verbose. \n\nFor the more advanced option of adding a metadata string.  I can build my own custom class to accomplish the task but again, this is dramatically verbose for what I’m trying to achieve which is fast easy type checking on floating strings."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-14T13:25:41Z",
+  "comments": 1,
+  "createdAt": "2025-05-14T09:50:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12428,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a ToString() or GetKey() method to Enums to Retrieve Key as String",
+  "up": 0,
+  "updatedAt": "2025-05-14T13:25:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12428"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Unity is very popular solution and it allows instance of prefabs to be completely editable immediately upon instantiation in the tree, but with the ability to override the actual prefab values.\n\n![Image](https://github.com/user-attachments/assets/f3883b64-93d1-4315-9cd5-0b8d39aca18d)",
+    "format": "form",
+    "workaround": "People did suggest something similar, but there is no out-of-the-box solution."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-21T21:38:09Z",
+  "comments": 2,
+  "createdAt": "2025-05-21T16:55:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12472,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Editable Children in context",
+  "up": 0,
+  "updatedAt": "2025-05-21T21:38:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12472"
+}

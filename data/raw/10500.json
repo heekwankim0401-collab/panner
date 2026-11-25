@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a scripting feature, and I don't think it can be added as an add-on.",
+    "format": "form",
+    "workaround": "I haven't found a way to do this in godot yet."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-08-19T20:47:49Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10500,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `@final` method annotation to GDScript",
+  "up": 5,
+  "updatedAt": "2025-07-01T16:40:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10500"
+}

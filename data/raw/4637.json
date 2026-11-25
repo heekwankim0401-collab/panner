@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is in array.\n\nIts possible to make some kind of hacky function to do it, but as there is already a `remove` function, it should support it.",
+    "format": "form",
+    "workaround": "`pop_back()` is a viable alternative for `-1`, but does not apply to Pool*Arrays, and there are no alternatives to `.remove(-5)`\n`[1, 2].remove([1, 2].size() -1)` is possible, but it's rather verbose."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-09T14:12:24Z",
+  "comments": 7,
+  "createdAt": "2022-06-08T00:22:54Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 4637,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for negative indices in `Array.remove`",
+  "up": 0,
+  "updatedAt": "2025-04-09T14:17:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4637"
+}

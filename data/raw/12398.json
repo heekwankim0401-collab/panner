@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There are draw_* functions for almost everything, therefore a function for drawing a triangle can certainly be a core functionality.",
+    "format": "form",
+    "workaround": "The performance of draw_primitive can not be worked around.  Drawing a triangle should be the most performant option of all the draw_* functions. Furthermore I think it is confusing that there is no draw_triangle function."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2025-05-09T10:57:27Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12398,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `draw_triangle()` method to CanvasItem",
+  "up": 3,
+  "updatedAt": "2025-05-19T08:54:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12398"
+}

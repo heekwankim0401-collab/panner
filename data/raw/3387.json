@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, getting HI-FI, accurate sound is a problem, one might be able to bake something amazing, just from the collisionshapes, but if one included stuff like roughness, metalness, so on, other stuff, one might be able for instance to get a more accurate simulation, of say listening to some sound, through a window, or sort-of grill, etc . . .\n\nIs this even possible, and would it require to be stored in a voxel map, or could one use say TWO normal maps, one that stores the NORMAL, of the audio source, in left ear, and right ear, not sure . . . . <3",
+    "format": "form",
+    "workaround": "I can't do this, it's something for tech - experts, might be the ' sound ' system Godot needs, simply to get better stereo, so if one runs from a room, into a corridor, with say a speaker, it bakes if sound is more left ear, right ear, based on rotation, location, of a listener node, ideally placed sort-of where, the ears are, on kinematicbody, maybe it's possible, thanks . . . <3 <3"
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-18T16:37:31Z",
+  "comments": 8,
+  "createdAt": "2021-10-05T09:35:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3387,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a feature to bake more precise audio based on room-setting, materials . . .",
+  "up": 0,
+  "updatedAt": "2022-10-18T16:37:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3387"
+}

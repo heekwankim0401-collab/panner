@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's simple enough to not be built-in. The PR https://github.com/godotengine/godot/pull/38645 added `filter`/`map`/`reduce`.\n\nI can't do PR due to the repository weight.",
+    "format": "form",
+    "workaround": "How it looks with a workaround:\n\n```gdscript\nvar ArrayHelpers = preload(\"res://gd-libs/array-helpers/lib.gd\")\n\nfunc reduce_right(array: Array, reduce_fn: Callable, initial_value = 0):\n    return ArrayHelpers.reduce_right(array, reduce_fn, initial_value)\n\nvar r = reduce_right ( [[10], [5, 2], [1, 3]], func(a, v): a + v )\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-07T13:15:23Z",
+  "comments": 4,
+  "createdAt": "2021-06-27T16:12:56Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2926,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `some()`, `every()` and `reduce_right()` methods to Array",
+  "up": 5,
+  "updatedAt": "2022-06-07T13:15:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2926"
+}

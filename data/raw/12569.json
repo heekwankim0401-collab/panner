@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about the core Container UI system classes.\n\nThis proposal was made in collaboration with @Ice-Lemon-Wong.\n@chocola-mint has also expressed some interest in this proposal.",
+    "format": "form",
+    "workaround": "You basically have to write your own custom `extends Container` class and reimplement all the layout features you need. Most people will prefer the existing mess over that sort of \"workaround\"."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-11T13:08:43Z",
+  "comments": 14,
+  "createdAt": "2025-06-08T11:46:57Z",
+  "down": 6,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12569,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Consolidate many single-purpose Container nodes into a UniversalContainer",
+  "up": 5,
+  "updatedAt": "2025-06-11T13:12:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12569"
+}

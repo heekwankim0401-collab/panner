@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's an upgrade of something that is already in the core.",
+    "format": "markdown",
+    "workaround": "My current hack is to output my triangles as an STL file. \n https://github.com/goatchurchprime/tunnelvr/blob/master/GUIPanel3D.gd#L143  This loses all the UV mapping and the materials/colours.  One option is to make up my own file format and then use some Python scripts and libraries to generate the gltf file from it.  (I have considered, but rejected, implementing a limited gltf exporter in GDscript.)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-04T18:57:24Z",
+  "comments": 6,
+  "createdAt": "2021-02-01T18:27:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 2219,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose glTF 2.0 exporting from scripting for run-time usage",
+  "up": 0,
+  "updatedAt": "2022-04-22T16:51:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2219"
+}

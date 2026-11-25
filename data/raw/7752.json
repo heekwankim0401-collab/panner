@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "n/a Parser feature",
+    "format": "form",
+    "workaround": "n/a Parser feature"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-19T20:19:58Z",
+  "comments": 1,
+  "createdAt": "2023-09-19T20:18:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7752,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a string quote operator that doesn't process escape characters (e.g. for regex use)",
+  "up": 0,
+  "updatedAt": "2023-09-19T20:20:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7752"
+}

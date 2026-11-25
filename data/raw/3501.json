@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It involves changing the inner workings of the engine for common usage.",
+    "format": "form",
+    "workaround": "No, it changes a core functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-11T22:11:21Z",
+  "comments": 0,
+  "createdAt": "2021-11-05T01:48:59Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 3501,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve physics overrides usability in Area2D / Area3D",
+  "up": 25,
+  "updatedAt": "2021-11-11T22:11:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3501"
+}

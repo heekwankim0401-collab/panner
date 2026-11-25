@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "to achieve the expected darkening in crevaces of models, we need a way to darken metallic surfaces at glacing angles. currently there is no way to affect this.",
+    "format": "form",
+    "workaround": "1- the specular can be easily affected by Ambient Occlusion in a shaderMaterial by multiplying it with the ao map.\n2- but for metallic materials this does not work, even when setting all inputs to dark in a shaderMaterial, a glossy metallic surface will still result in a bright rimlight in the end."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-06-17T13:36:03Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12623,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change the way BaseMaterial3D handles Ambient Occlusion",
+  "up": 3,
+  "updatedAt": "2026-01-30T23:28:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12623"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Displaying text in a 3D world is often done throughout the development of a 3D game. Even if it never ends up being used during actual gameplay, text in the 3D world is sometimes used during level blockouts as well to denote landmarks in the blockout.",
+    "format": "form",
+    "workaround": "This can be done using a custom shader, but it's still quite a lot of work to do manually and expose in a convenient way. Nonetheless, it's still possible to develop this as an add-on."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-25T13:59:11Z",
+  "comments": 5,
+  "createdAt": "2021-08-29T00:05:25Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 3219,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Label3D node to display text in a 3D world using SDF font rendering",
+  "up": 35,
+  "updatedAt": "2022-04-25T13:59:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3219"
+}

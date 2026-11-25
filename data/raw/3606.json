@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Rendering is Core.",
+    "format": "form",
+    "workaround": "No, currently Shadow Casting is Binary, All Lights casting shadows go one of two routes: you cast, or you don't, for all lights lighting an object, no way to tell one group of lights to cast, and others not to cast for a given object."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-24T18:29:36Z",
+  "comments": 10,
+  "createdAt": "2021-11-28T11:31:36Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 3606,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add per-light shadow cull masks to control which objects cast shadows",
+  "up": 30,
+  "updatedAt": "2024-10-24T18:44:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3606"
+}

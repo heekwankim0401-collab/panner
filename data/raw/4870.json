@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would be inefficient to make it run on the cpu",
+    "format": "form",
+    "workaround": "This can't be worked around without writing a ray tracer and displaying it's contents with a sprite"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-14T10:32:06Z",
+  "comments": 3,
+  "createdAt": "2022-07-14T06:52:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4870,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Ray tracing support",
+  "up": 0,
+  "updatedAt": "2022-08-14T13:28:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4870"
+}

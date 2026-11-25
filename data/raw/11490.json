@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a change to GDScript's core implementation.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-07T14:08:01Z",
+  "comments": 3,
+  "createdAt": "2025-01-04T09:30:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11490,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "GDScript compiler optimizations",
+  "up": 11,
+  "updatedAt": "2026-09-07T14:09:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11490"
+}

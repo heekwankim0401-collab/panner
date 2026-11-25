@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I explored the code for a few hours, and I don't think this could be done from the outside.",
+    "format": "form",
+    "workaround": "I tried many dark-magic tricks to achieve this without modifying code inside Godot or godot-cpp without success, so I don't believe it can be worked around easily.\nThe only workaround I found - suggested by TwistedTwigleg on the forum - would be to expose a way to manually clear this data in-editor before saving."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-11-18T12:11:11Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3570,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow private extension of engine classes",
+  "up": 3,
+  "updatedAt": "2021-12-09T13:47:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3570"
+}

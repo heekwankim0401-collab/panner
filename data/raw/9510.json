@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An add-on should be possible, but given this is something that will need to be eventually audited (as it can become an exploitable surface), it is ideal the engine supports it internally.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-30T08:12:28Z",
+  "comments": 33,
+  "createdAt": "2024-04-12T14:00:05Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.4",
+  "number": 9510,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for all engine types in JSON encoding/decoding",
+  "up": 32,
+  "updatedAt": "2024-08-30T08:12:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9510"
+}

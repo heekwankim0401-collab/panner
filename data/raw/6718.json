@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I don't think we can implement this on an add-on",
+    "format": "form",
+    "workaround": "implementation is just adding a button connected to a function that plays/pauses each animation"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-12T15:25:01Z",
+  "comments": 2,
+  "createdAt": "2023-04-18T13:36:45Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": "4.2",
+  "number": 6718,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Added playback control to animations in the Advanced Import Settings preview",
+  "up": 9,
+  "updatedAt": "2023-07-12T15:37:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6718"
+}

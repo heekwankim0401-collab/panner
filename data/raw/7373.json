@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "parsing of code and comment is part of core",
+    "format": "form",
+    "workaround": "Both the comment types are exhaustively used. It will help in readability."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-09T21:29:15Z",
+  "comments": 1,
+  "createdAt": "2023-07-25T20:38:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 7373,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Separate color option for documentation comments",
+  "up": 3,
+  "updatedAt": "2023-10-09T21:30:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7373"
+}

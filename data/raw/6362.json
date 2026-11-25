@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is something related to the editor.",
+    "format": "form",
+    "workaround": "You can rename the signal function argument name."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-02-26T16:22:54Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6362,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename CollisionObject3D input_event signal \"position\" argument to avoid shadowing `Node.position`",
+  "up": 0,
+  "updatedAt": "2024-08-25T21:29:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6362"
+}

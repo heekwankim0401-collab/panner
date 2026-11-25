@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See the previous chapter above.",
+    "format": "form",
+    "workaround": "If possible, a plugin could work, but I don't know if the plugin supports editing the node dock...\nSo maybe yes or not."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-29T03:59:27Z",
+  "comments": 1,
+  "createdAt": "2023-12-17T05:16:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8675,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add node dock category system for better node selection (optimization for `class_name`-ed node classes piling in the main node dock that is led to a mess)",
+  "up": 0,
+  "updatedAt": "2023-12-29T04:57:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8675"
+}

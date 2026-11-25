@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This approach seems vastly more understandable and consistent than the built-in root_scale options, and is also consistent with the import pipeline of other engines.",
+    "format": "form",
+    "workaround": "While an importer script could provide similar functionality, I feel this makes sense as a built-in option since I feel it preferential over the existing approach for the reasons I have laid out, and would I feel it does a better job of encouraging the usage of non-destructive workflows."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-19T06:08:47Z",
+  "comments": 2,
+  "createdAt": "2022-04-10T20:15:13Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 4379,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace root_scale import option with permanent modification to an imported scene's scale",
+  "up": 5,
+  "updatedAt": "2022-09-19T06:08:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4379"
+}

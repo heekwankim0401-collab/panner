@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Item 1 is core code only.",
+    "format": "form",
+    "workaround": "Item 1: No workaround\nItems 2, 3, 4: Workaround requires trapping the about_to_show event to overwrite LineEdit.text, current_dir, and current_path."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-05-20T11:56:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4566,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve FileDialog display",
+  "up": 0,
+  "updatedAt": "2022-05-21T22:30:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4566"
+}

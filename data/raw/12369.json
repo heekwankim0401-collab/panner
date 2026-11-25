@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think godot should natively improve their static analysis tools for gdscript.",
+    "format": "form",
+    "workaround": "You could possibly write a script that loads all the scripts in your project and the errors would print to output. For my solution I would like the window to have clickable links to where the error lies which is not currently enabled in the output panel."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-04T21:39:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12369,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a window to show all identified GDScript errors/warnings",
+  "up": 7,
+  "updatedAt": "2025-05-06T15:04:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12369"
+}

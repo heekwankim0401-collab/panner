@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "no other way of doing it as far as i know\nwithout extra manual work every time i add/modify a function",
+    "format": "form",
+    "workaround": "not as far as i know\nother than some shiddy spereate array"
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-30T15:59:37Z",
+  "comments": 12,
+  "createdAt": "2021-11-30T10:29:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3614,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Get Function Argument Type(s)",
+  "up": 0,
+  "updatedAt": "2021-11-30T15:59:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3614"
+}

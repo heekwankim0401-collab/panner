@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a change of behavior proposal for a core module.\n\nOriginally reported as godotengine/godot#43482",
+    "format": "legacy",
+    "workaround": "The features discussed here occur during the import process and can't be worked around with a script."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-16T22:31:35Z",
+  "comments": 2,
+  "createdAt": "2020-11-17T22:34:21Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 1855,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to opt in to bone name sanitization in GLTF importer",
+  "up": 0,
+  "updatedAt": "2021-03-16T22:31:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1855"
+}

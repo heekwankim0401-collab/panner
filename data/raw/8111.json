@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There seems to be no way to hide the \"newer on disk\" popup via script, so it cannot be achieved through an add-on.",
+    "format": "form",
+    "workaround": "It can be worked around (sort of):\n*Edit: I partially take that back. It's dangerous to do it this way. The content of the script editor is replaced, and if, for whatever reason, the wrong script is open in the editor, the wrong content is displayed.*\n```gdscript\nstatic func reload_script(text_edit: TextEdit, source_code: String) -> void:\n\tvar column := text_edit.get_caret_column()\n\tvar row := text_edit.get_caret_line()\n\tvar scroll_position_h := text_edit.get_h_scroll_bar().value\n\tvar scroll_position_v := text_edit.get_v_scroll_bar().value\n\n\ttext_edit.text = source_code\n\ttext_edit.set_caret_column(column)\n\ttext_edit.set_caret_line(row)\n\ttext_edit.scroll_horizontal = scroll_position_h\n\ttext_edit.scroll_vertical = scroll_position_v\n\n\ttext_edit.tag_saved_version()\n```\n\nAnd setting the `text_editor/behavior/files/auto_reload_scripts_on_external_change` setting to `true`, to prevent the \"newer on disk\" popup from appearing.\n\nI imagine code generation plugins are not a total exotic thing. A bit of research reveals that:\n\n- Searching for \"Godot plugin reload scripts\" leads people to [this Q&A post](https://ask.godotengine.org/134499/how-can-force-godot-script-editor-reload-scripts-source-code) (Godot version 3.4.4) pointing to `_reload_scripts`.\n- There is one other plugin on GitHub currently using `.reload_scripts()`.\n\nI think using the above script as a workaround is fine, but because it is not a full replacement, I would love to see the `reload_scripts()` method being exposed again or something to hide the \"newer on disk\" popup. This is because the mentioned setting will hide the popup for all external code changes, and the user will have to set the setting."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-19T16:24:58Z",
+  "comments": 0,
+  "createdAt": "2023-10-14T09:33:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 8111,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `ScriptEditor.reload_scripts()`",
+  "up": 12,
+  "updatedAt": "2026-02-19T16:24:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8111"
+}

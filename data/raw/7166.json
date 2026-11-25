@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves the godot messaging system",
+    "format": "form",
+    "workaround": "It can be worked around but it requires awkwardly binding a additional argument when signals should already carry that info."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-27T14:50:44Z",
+  "comments": 3,
+  "createdAt": "2023-06-27T03:07:37Z",
+  "down": 9,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 7166,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Objects should send themselves as first argument to any signal",
+  "up": 1,
+  "updatedAt": "2025-05-27T15:00:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7166"
+}

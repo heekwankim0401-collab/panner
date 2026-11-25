@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a core configuration.",
+    "format": "form",
+    "workaround": "You can have a separate script that runs on the condition that the export has the given feature and configures the InputMap by code, but it's rather cumbersome to iterate."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-10-14T12:56:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 5589,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend \"Override For...\" functionality to Input Map",
+  "up": 4,
+  "updatedAt": "2022-10-14T18:49:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5589"
+}

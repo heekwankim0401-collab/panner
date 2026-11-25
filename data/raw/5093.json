@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is a core feature that scripts or plugins can't change.",
+    "format": "form",
+    "workaround": "This is a core feature that scripts or plugins can't change."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-14T02:57:07Z",
+  "comments": 3,
+  "createdAt": "2022-08-06T15:01:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5093,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve EditorScenePostImport/EditorScenePostImportPlugin processing discrepancies",
+  "up": 1,
+  "updatedAt": "2024-09-05T11:31:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5093"
+}

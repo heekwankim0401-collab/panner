@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-31T14:12:32Z",
+  "comments": 3,
+  "createdAt": "2026-04-21T06:40:25Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": "4.8",
+  "number": 14704,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an interface for device orientation to the input for mobile devices",
+  "up": 0,
+  "updatedAt": "2026-08-31T14:12:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14704"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This proposal provides an important API for porting games to current mobile phones.\n\n---\n\nThis also got an issue in the main repository:\nhttps://github.com/godotengine/godot/issues/34466\n\n---\n\n**If this is okay to implement I can work on a PR.**",
+    "format": "legacy",
+    "workaround": "This is an important API required for porting games to mobile devices properly, a possible work around would be to just add margins to the UI. I consider this work around as not optimal because this would add margins to devices without cut-outs or a notch too."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-05T18:08:29Z",
+  "comments": 3,
+  "createdAt": "2019-12-19T19:04:46Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 321,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `OS.get_window_safe_area()` work on Android",
+  "up": 8,
+  "updatedAt": "2021-02-05T18:08:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/321"
+}

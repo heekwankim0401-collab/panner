@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "DocTools is not exposed to the GDExtension interface nor GDScript (and rightfully so), and so it's impossible to provide this feature as an addon.",
+    "format": "form",
+    "workaround": "This enhancement will be used by most GDExtension plugin developers. There's no workaround at the moment without engine modification."
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-23T14:12:55Z",
+  "comments": 4,
+  "createdAt": "2023-10-24T16:25:14Z",
+  "down": 0,
+  "labels": [
+    "topic:docs",
+    "topic:editor",
+    "topic:gdextension"
+  ],
+  "milestone": "4.3",
+  "number": 8245,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "A way to include in-editor class documentation for GDExtension plugins",
+  "up": 4,
+  "updatedAt": "2024-05-23T14:13:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8245"
+}

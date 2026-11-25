@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Modifying graph edit requires core c++. Runtime performance might be a problem in gdscript. This solves a common problem that should be in core.",
+    "format": "legacy",
+    "workaround": "This is not a small number of lines."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-10T19:42:04Z",
+  "comments": 9,
+  "createdAt": "2020-07-24T14:49:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "topic:visualscript"
+  ],
+  "milestone": "4.0",
+  "number": 1253,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement automatic arrangement tools for Nodes in GraphEdit, VisualScript and VisualShaders",
+  "up": 15,
+  "updatedAt": "2022-09-18T21:33:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1253"
+}

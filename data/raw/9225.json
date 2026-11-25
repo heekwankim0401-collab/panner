@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Same as the previous answer",
+    "format": "form",
+    "workaround": "No, because this requires modification or even overhaul on `local_coords` which is in the source code"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-04T15:32:57Z",
+  "comments": 1,
+  "createdAt": "2024-03-03T11:49:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9225,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[Particles2D] Particle enhancement 1: Allows particles to inherit transform in a more detailed manner rather than simply `local_coords`",
+  "up": 0,
+  "updatedAt": "2024-03-04T15:33:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9225"
+}

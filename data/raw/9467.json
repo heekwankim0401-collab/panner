@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The way this is achieved in gscript is an hacky way to solve such simple problem, this is why I think it should be implemented into the engine itself.\nIf this feature gets implemented it will help creating dummy file  into a simple and quick function call.",
+    "format": "form",
+    "workaround": "This a simplified version of what I'm using inside my code, the main problem is that it will create an array in RAM filed with zero and then it will copy each zero into the file.\n```gdscript\nfunc store_empty (file: FileAccess, size: int) -> void:\n    assert(file != null, \"Need a file to write.\");\n    assert(size >= 0, \"Need at least one byte to write.\");\n    \n    var buffer := PackedBytesArray();\n    buffer.resize(size);\n    file.store_buffer(buffer);\n```\nThe problem is that allocating the RAM and then copy from it the number zero is a waste of resources by the computer, at this point it will make slower to make a dummy file.\n\nAnother way it could be calling `store_8` for the amount of bytes we want to create the dummy file but it is agaist the porpouse of making this in a single resize call."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-22T11:02:05Z",
+  "comments": 2,
+  "createdAt": "2024-04-07T11:01:34Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 9467,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a FileAccess method to fill a file with zeros for X amount of times",
+  "up": 1,
+  "updatedAt": "2024-04-22T11:02:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9467"
+}

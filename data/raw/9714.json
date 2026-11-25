@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a native panel.",
+    "format": "form",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-05-09T17:00:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9714,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show Theme panel when selecting any control when using Custom (default) theme or parent theme",
+  "up": 1,
+  "updatedAt": "2024-05-10T16:44:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9714"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-03T20:56:26Z",
+  "comments": 5,
+  "createdAt": "2020-03-28T03:32:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 643,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Open the editor by default when running Godot without any arguments in a project folder",
+  "up": 3,
+  "updatedAt": "2023-10-03T20:56:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/643"
+}

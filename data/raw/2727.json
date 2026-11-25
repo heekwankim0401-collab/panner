@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't be an addon.",
+    "format": "markdown",
+    "workaround": "The point is to avoid these lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2021-05-14T23:47:42Z",
+  "down": 2,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2727,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to define variables inside conditions",
+  "up": 25,
+  "updatedAt": "2026-08-07T12:58:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2727"
+}

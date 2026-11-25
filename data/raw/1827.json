@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is often used in many games.",
+    "format": "legacy",
+    "workaround": "No, the workaround is either complicated or has less performance."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-07T20:38:51Z",
+  "comments": 1,
+  "createdAt": "2020-11-12T22:12:36Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.0",
+  "number": 1827,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add polyphony to allow playing multiple sounds at the same time in AudioStreamPlayer",
+  "up": 15,
+  "updatedAt": "2022-05-10T17:47:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1827"
+}

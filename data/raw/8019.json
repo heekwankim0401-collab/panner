@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This built-in already exists for spatial shaders. It should be added to sky shaders for parity reasons, and simply for the fact that it's useful.",
+    "format": "form",
+    "workaround": "You could run a script that grabs the viewport size and outputs it as a shader global, but the convenience factor isn't high for something that a lot of different types of shaders could use. You would also have to pass in a different size for the radiance cubemap renders."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-10-07T11:47:10Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8019,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose viewport size to sky shaders",
+  "up": 8,
+  "updatedAt": "2026-07-20T22:12:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8019"
+}

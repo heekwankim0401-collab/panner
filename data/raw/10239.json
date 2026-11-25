@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "according to what was said here\n\nhttps://github.com/godotengine/godot-cpp/issues/1523\n\nthis would have to be part of the engine as it's due to how signals are exposed from the engine.",
+    "format": "form",
+    "workaround": "this can be worked around with\n\n```cpp\nclass MyClass : public Node3D{\n       GDCLASS(MyClass,Node3D)\n\npublic:\n      Signal visibility_changed{this,\"visibility_changed\");\n      Signal child_visibility_changed;\n      void _ready() override\n      {\n          childNode = get_node<Node3D>(childNodePath);\n         if(childNode != nullptr){\n          child_visibility_changed = Signal(childNode,\"visibility_changed\");\n       }\n    }\nprivate:\n      Node3D* childNode = nullptr;\n      NodePath childNodePath;       \n};\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-07-17T17:50:24Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10239,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose signals to GDExtension to be more similar to how they're exposed in GDScript",
+  "up": 4,
+  "updatedAt": "2026-04-10T03:37:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10239"
+}

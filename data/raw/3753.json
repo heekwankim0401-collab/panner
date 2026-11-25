@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This feature should be core\nbecause it's a tiny quality-of-life feature that, as far as i know,\ndoesn't have the possibility of getting in the way of people who don't use it.\n\nHaving to set up the feature for every project would get tedious\nwithout a benefit for people who don't use it.",
+    "format": "form",
+    "workaround": "I don't know if it's possible to work around this limitation with a few lines of script, but if it does:\n1. please tell me how\n2. i would have to set it up in Every Godot project"
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-04T20:41:29Z",
+  "comments": 1,
+  "createdAt": "2022-01-04T19:04:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 3753,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make the Context Menu Key (on the keyboard) able to open context menus",
+  "up": 0,
+  "updatedAt": "2022-01-04T20:41:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3753"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "You can't do a core naming change through an add-on.",
+    "format": "form",
+    "workaround": "This is a naming change (or should I say addition) so it's not code related."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-22T17:17:53Z",
+  "comments": 4,
+  "createdAt": "2022-04-05T14:58:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 4350,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Give a consistent name to Godot's shading language",
+  "up": 4,
+  "updatedAt": "2024-09-22T17:17:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4350"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "Now? Yes. If this is not implemented, the a solution (well, perhaps a slightly better built version of the existing solution I gave above, stated above) is already doable. But that's not the point of this request.  The point is to make a explicit divide between the executing of a external program in editor and in game (non-editor) separate, and to provide several quality of life features that not only enrich the usage of external programs for addons but the editor itself.\n\nThere is also a point to be made that this functionality would be used alot if implemented. This would be a better choice to use when calling tools already used when exporting (for example, `rcedit.exe` when exporting for windows)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2025-03-06T21:44:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11933,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add better tools for calling CLI commands in editor",
+  "up": 1,
+  "updatedAt": "2025-03-21T18:49:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11933"
+}

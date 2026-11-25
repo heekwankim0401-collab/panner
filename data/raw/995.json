@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it's good for everyone, not for specific projects.",
+    "format": "legacy",
+    "workaround": "Yes,\n```\nif value <= 3 and value >= 1:\nadd_color_override(\"font_color\", ColorN(\"green\"))\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2020-06-02T16:57:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 995,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support float values in \"if x in range\" expressions",
+  "up": 0,
+  "updatedAt": "2024-10-03T13:55:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/995"
+}

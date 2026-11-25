@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The TileMap editor is already part of the editor.",
+    "format": "form",
+    "workaround": "This is an enhancement on the TileMap editor plugin, so I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-02-13T00:22:17Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6280,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use Shader to Draw TileMap Preview Grid",
+  "up": 0,
+  "updatedAt": "2023-02-13T13:09:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6280"
+}

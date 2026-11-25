@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-07-11T22:19:06Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 15174,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Process only changed dependencies during reimport",
+  "up": 3,
+  "updatedAt": "2026-07-14T18:18:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15174"
+}

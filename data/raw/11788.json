@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires updating built-in classes to support.",
+    "format": "form",
+    "workaround": "I cannot find a way to work around this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-02-17T00:15:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11788,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `font_focus_hovered_color` theme item to BaseButton",
+  "up": 0,
+  "updatedAt": "2025-05-14T14:03:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11788"
+}

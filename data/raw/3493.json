@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AFAIK the export implementation isn't extensible by the asset library, that and this seems like something that is counter intuitive to users",
+    "format": "form",
+    "workaround": "This can be worked around by exporting each preset individually, but this can get inconvenient in even small preset quantities, as Export PCK/Zip requires you to reenter the name of the file you are exporting each and every time you export it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-11-03T19:50:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 3493,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "\"Export All\" should export pcks as well as projects",
+  "up": 2,
+  "updatedAt": "2025-02-27T17:39:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3493"
+}

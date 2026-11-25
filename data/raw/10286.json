@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I'm unsure if plugins can change engine behavior like this.",
+    "format": "form",
+    "workaround": "This feature can be useful for VR games or games that require to draw while minimized.\n\nI've tried to compile a custom godot build to fix this problem, but I can't find what disabled minimized window rendering. (I'm not familiar with C++ neither.)"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-01T01:33:26Z",
+  "comments": 6,
+  "createdAt": "2024-07-26T20:09:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10286,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow the render loop to continue when the window is minimized",
+  "up": 2,
+  "updatedAt": "2024-08-01T01:33:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10286"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is editing the generators for both C# and GD Extension which can not be extended with an asset library",
+    "format": "form",
+    "workaround": "It could be used for refreshing when debugging code in C# but even if it was not used often someone would have to generate the code themself and run there own fork of the engine for this feature"
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-18T07:40:38Z",
+  "comments": 8,
+  "createdAt": "2023-06-24T08:54:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 7150,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose PropertyUsageFlags for External Access from Godot in C# and GDExtension dump",
+  "up": 2,
+  "updatedAt": "2023-08-18T07:41:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7150"
+}

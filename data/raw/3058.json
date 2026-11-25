@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as data structures are part of Godot's core C++ codebase."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-07-29T13:01:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3058,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Godot's data containers STL-compatible for better interoperability with libraries",
+  "up": 20,
+  "updatedAt": "2021-07-29T13:33:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3058"
+}

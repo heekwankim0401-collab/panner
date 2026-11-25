@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "In addition to not being possible currently, I don't think it makes sense from an engineering perspective to give scripts direct, real-time access to the audio server. There would be lots of questions there as to how to quickly marshal the data back and forth between script-world and engine-world.",
+    "format": "legacy",
+    "workaround": "Without access to the AudioServer, there isn't anything a script can do to extend the audio system in this way."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-29T06:03:04Z",
+  "comments": 5,
+  "createdAt": "2020-05-28T20:01:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 949,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "SoundProbe based reverb/attenuation baking and HRTF audio rendering for XR",
+  "up": 5,
+  "updatedAt": "2020-06-11T14:00:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/949"
+}

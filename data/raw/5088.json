@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Making the engine more friendly to artists",
+    "format": "form",
+    "workaround": "Making the engine more friendly to artists"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-08-06T09:32:15Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5088,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Shaders: add hint_position to vec3 uniform so that they spawn a gizmo",
+  "up": 3,
+  "updatedAt": "2022-08-06T09:54:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5088"
+}

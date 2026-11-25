@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about changing a default setting to improve out-of-the-box appearance of particles.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-03T09:38:24Z",
+  "comments": 1,
+  "createdAt": "2022-06-07T16:58:15Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 4633,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disable Local Coords by default in Particle nodes (and use global coordinates instead)",
+  "up": 11,
+  "updatedAt": "2022-08-03T09:38:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4633"
+}

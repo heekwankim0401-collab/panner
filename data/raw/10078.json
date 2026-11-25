@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This requires a core implementation.",
+    "format": "form",
+    "workaround": "This requires a core implementation."
+  },
+  "assignees": 1,
+  "closedAt": "2025-06-09T04:08:38Z",
+  "comments": 2,
+  "createdAt": "2024-06-30T00:56:55Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:xr"
+  ],
+  "milestone": "4.5",
+  "number": 10078,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add OpenXR DirectX support",
+  "up": 2,
+  "updatedAt": "2025-06-09T10:23:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10078"
+}

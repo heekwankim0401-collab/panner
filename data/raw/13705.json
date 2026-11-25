@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because the `FlowContainer` is a core godot class.",
+    "format": "form",
+    "workaround": "I think that this is a fairly common setup for a flow container. It would probably be possible to update the `H Separation` and `V Separation` dynamically each frame via script, but it's cumbersome and it's questionable if it can be done with the existing public API of the `FlowContainer` alone.\n\nThe only real workaround I can think of is to have every second child be a \"spacer\" control which is invisible and set to fill & expand. This, however, clutters the scene tree with otherwise useless nodes, and is difficult to deal with when the children are generated dynamically through a script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-25T18:42:37Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13705,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"space between\" layout option to FlowContainer",
+  "up": 8,
+  "updatedAt": "2025-11-25T22:34:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13705"
+}

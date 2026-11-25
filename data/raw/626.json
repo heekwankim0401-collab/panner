@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well the particle system is a core feature so it should remain core.",
+    "format": "legacy",
+    "workaround": "The scene emitter could be easily made by code, but the improvements at the current particle node and material would be harder i think."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-26T23:31:51Z",
+  "comments": 1,
+  "createdAt": "2020-03-24T11:06:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 626,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Particle improvements and Scenes as Particles",
+  "up": 0,
+  "updatedAt": "2021-09-26T23:32:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/626"
+}

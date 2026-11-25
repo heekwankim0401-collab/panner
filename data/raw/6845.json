@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Node is core.\n\n___\n\nSome extra context from the chat: https://chat.godotengine.org/channel/core?msg=vSRz55ETC33FtAtgk\nThis is mostly a random idea.",
+    "format": "form",
+    "workaround": "The code above, but it would be less convenient to use."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-09T21:16:37Z",
+  "comments": 1,
+  "createdAt": "2023-05-09T15:52:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6845,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `set_parent()` method",
+  "up": 5,
+  "updatedAt": "2023-05-09T21:16:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6845"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core",
+    "format": "form",
+    "workaround": "This is core"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-03T14:19:29Z",
+  "comments": 2,
+  "createdAt": "2022-04-07T13:42:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.1",
+  "number": 4362,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an editor setting to control the TextureRegion editor step value",
+  "up": 3,
+  "updatedAt": "2023-04-03T14:19:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4362"
+}

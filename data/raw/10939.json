@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not that I'm aware of unless asset packs/mods can alter what errors the IDE will alert the developer to.",
+    "format": "form",
+    "workaround": "Not that I'm aware of unless a script can alter what errors the IDE will alert the developer to."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-09T04:37:31Z",
+  "comments": 2,
+  "createdAt": "2024-10-08T21:56:10Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10939,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "IDE should catch when you attempt to use nonexistent key/property names",
+  "up": 0,
+  "updatedAt": "2024-10-09T09:52:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10939"
+}

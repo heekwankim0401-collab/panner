@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is already core, just not exposed properly. Maybe it only needs some cleanup. It also integrates deeper than a plugin could.\n\nAlthough, exposing it alone wouldn't be enough for plugins to make sub-inspectors, as from what I see in `EditorPropertyResource`, a bunch of extra logic is done when editing resource properties, not just creating an inspector, which I am not familiar with. Maybe it needs to have somehow a middle-ground between `EditorResourceProperty` and `EditorResourcePicker`... can't be an InspectorProperty if it's not an actual property of an object, but has to be something that allows editing a resource inside a UI that shows it as a \"value\" field.",
+    "format": "form",
+    "workaround": "No. It needs a LOT of lines of script: https://github.com/Zylann/godot_heightmap_plugin/blob/master/addons/zylann.hterrain/tools/inspector/inspector.gd\nAnd is nowhere near the amount of functionalities and integration provided by `EditorInspector`."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-18T01:18:09Z",
+  "comments": 12,
+  "createdAt": "2023-06-03T15:51:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.4",
+  "number": 7010,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to create Editor Inspectors (for plugin UIs)",
+  "up": 39,
+  "updatedAt": "2026-02-18T01:18:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7010"
+}

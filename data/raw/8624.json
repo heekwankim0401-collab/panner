@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yea. the only way to get this is either scripting every control or modifying the `Control` class.\n\nIf approved i can implement it. It's pretty straighforward.",
+    "format": "form",
+    "workaround": "Trust me. it will be used very often. almost everywhere. In fact it should be on by default."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-09T13:49:10Z",
+  "comments": 2,
+  "createdAt": "2023-12-09T11:43:18Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 8624,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Global gui input handling",
+  "up": 0,
+  "updatedAt": "2023-12-11T15:32:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8624"
+}

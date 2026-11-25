@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Button has the same feature, why not tree? Usually this is pretty basic feature in many GUI libraries.",
+    "format": "form",
+    "workaround": "Hiding is a possibility but it breaks the GUI view.\n\nWorkarounds are overall bad because visually the user still can edit the tree and might wonder why nothing happens. Therefore you need to have a lot of code to present some extra indicator that the selection is disabled and then backtrack the latest change after the `Tree` gets enabled again."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-02-26T22:44:35Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11860,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to disable `Tree` or prevent `Tree` selection",
+  "up": 5,
+  "updatedAt": "2025-03-02T20:05:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11860"
+}

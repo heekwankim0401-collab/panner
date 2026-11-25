@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a basic and simple UI-UX enhancement for a core editor window. Trying to add this as an add-on will probably require creating an alternative animation window which does not make sense.",
+    "format": "markdown",
+    "workaround": "I believe this enhancement will be used often. Since this is basic animation workflow in the editor, I'm not sure how this can be worked around with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-11-29T20:19:56Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1908,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Summary\"/timeline keyframes and node collapsing in animation editor",
+  "up": 40,
+  "updatedAt": "2021-09-13T06:59:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1908"
+}

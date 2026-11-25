@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Most 3D projects with diegetic UI and XR projects will need this at some point to ensure their UI looks good, particularly at lower viewport resolutions (e.g. on Steam Deck).",
+    "format": "form",
+    "workaround": "For materials applied on MeshInstance3D, this can be worked around with a custom shader. However, for Label3D or Sprite3D, this can't be done without a lot of additional work to use the material override."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-07-02T15:30:01Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:gui",
+    "topic:rendering",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 10096,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to use texture supersampling in BaseMaterial3D",
+  "up": 1,
+  "updatedAt": "2025-06-19T17:34:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10096"
+}

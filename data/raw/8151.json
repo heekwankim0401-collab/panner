@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Godot's current structure is such that the instance is managed by the operating system, as a process.\n\nThis would allow multiple godot instances in one process, each with their own settings.\n\n## Other uses\n\nScenarios that could benefit from this have been discussed in the past:\n\n* https://github.com/godotengine/godot-proposals/issues/1473\n* https://github.com/godotengine/godot-proposals/issues/7213",
+    "format": "form",
+    "workaround": "No, this scenario needs some changes to the Godot Engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-10-16T16:59:25Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8151,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Godot instantiable so it can run multiple projects within a single process",
+  "up": 25,
+  "updatedAt": "2023-10-19T10:36:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8151"
+}

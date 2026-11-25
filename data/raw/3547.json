@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Having this as a plugin would also be useful, and I am noting it here to get it on the radar.",
+    "format": "form",
+    "workaround": "I feel like this would be quite a useful implementation for the core as it's something which is very prevalent in society and yet currently it's rather difficult to implement."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-14T20:26:16Z",
+  "comments": 16,
+  "createdAt": "2021-11-14T19:30:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 3547,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement QR code scanning in images for use with camera input",
+  "up": 2,
+  "updatedAt": "2022-04-11T00:21:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3547"
+}

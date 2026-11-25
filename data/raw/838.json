@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think there is a way to add it as an asset... I could be wrong, but this seems kinda like a core thing.",
+    "format": "legacy",
+    "workaround": "I have found no workaround and have been unable to figure one out."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-05-14T21:01:05Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 838,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose a setter for IsEcho on InputEvent or InputEventAction",
+  "up": 1,
+  "updatedAt": "2020-05-15T07:14:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/838"
+}

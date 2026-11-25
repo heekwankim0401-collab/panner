@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because the text rendering is built in, therefore, making an add-on would be very difficult if not impossible without changes to the codebase.",
+    "format": "form",
+    "workaround": "I haven't found any work arounds to set the color of a few characters of text."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-07-21T00:49:15Z",
+  "down": 2,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10257,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add SetColorAtPosition(index, length, color) to TextEdit",
+  "up": 0,
+  "updatedAt": "2024-07-21T02:58:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10257"
+}

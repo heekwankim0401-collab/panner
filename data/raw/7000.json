@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "see above",
+    "format": "form",
+    "workaround": "It can't be worked around with a few lines of script.\nThere is no way to select keys using a plugin or other tool script"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-06-02T01:43:12Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7000,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a menu command to select all keys at playback position in `AnimationPlayer`",
+  "up": 3,
+  "updatedAt": "2023-06-08T08:14:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7000"
+}

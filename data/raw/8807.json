@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Probably possible to be built as an add-on, but since it affects the global experience of different project and different users it would be the best to get the same behavior between projects. As mention by @[RobProductions](https://github.com/RobProductions) in [#8780](https://github.com/godotengine/godot-proposals/issues/8780) i also think this issue help to push a better add-on ecosystems similar what mentioned in [#1205](https://github.com/godotengine/godot-proposals/issues/1205).\n\nPlease let me now that this is helpful and can be done or there some other technical limitation that i not consider yet.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-01-05T21:08:19Z",
+  "down": 0,
+  "labels": [
+    "topic:assetlib",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8807,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Exporting Plugin/AssetLib workflow implementation",
+  "up": 3,
+  "updatedAt": "2024-01-09T00:06:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8807"
+}

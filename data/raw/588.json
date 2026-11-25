@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it will improve quality of life of 2D users, with no drawback that I can think of. Also, this is a fix of an internal value, I don't think it should be an add-on",
+    "format": "legacy",
+    "workaround": "I don't think, but I'm not enough versed into editor scripting to be sure."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-05T09:45:28Z",
+  "comments": 2,
+  "createdAt": "2020-03-15T19:38:15Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 588,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve 2D editor zoom handling for pixel art ",
+  "up": 2,
+  "updatedAt": "2020-06-07T20:57:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/588"
+}

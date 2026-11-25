@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is the core of the editor.",
+    "format": "form",
+    "workaround": "This is the core of the editor. There is no interface for GDScript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-05T14:17:33Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7992,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "When asking for setting main scene, also ask for adding default environment and directional light",
+  "up": 2,
+  "updatedAt": "2023-10-05T20:22:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7992"
+}

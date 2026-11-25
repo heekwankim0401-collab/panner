@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a small syntax change",
+    "format": "form",
+    "workaround": "No functionality will be changed - but it is far more confusing to type:\n\n`$CollisionShape2D.disabled = false`\n\nCompared to:\n\n`$CollisionShape2D.enabled = true`"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-08T20:59:10Z",
+  "comments": 1,
+  "createdAt": "2023-02-08T20:27:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6251,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Rename CollisionShape2D 'disabled' to 'enabled'",
+  "up": 0,
+  "updatedAt": "2023-02-08T20:59:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6251"
+}

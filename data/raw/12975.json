@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be a general QoL improvement, not something project-specific. Importing it into every project would bloat their sizes, and also add unnecessary steps to the workflow of setting up a new project.",
+    "format": "form",
+    "workaround": "It looks like it might possibly be doable with `EditorUndoRedoManager` or `UndoRedo` APIs, but would almost certainly require more work than just incorporating the extra information into the originally generated messages, and also probably be in a duplicate History tab."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-08-10T05:44:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12975,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Increase verbosity of undo and redo action names",
+  "up": 4,
+  "updatedAt": "2025-08-10T16:16:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12975"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The editor hints are built into Godot",
+    "format": "form",
+    "workaround": "I don't know much about the importer, it should be kind of intermediate for anyone who knows about the blender/glb importer."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-26T18:20:30Z",
+  "comments": 0,
+  "createdAt": "2024-08-26T17:50:40Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10563,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Setting up custom node import tags for model imports",
+  "up": 0,
+  "updatedAt": "2024-08-26T18:21:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10563"
+}

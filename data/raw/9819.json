@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Fonts are core",
+    "format": "form",
+    "workaround": "No workaround possible"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-27T12:53:37Z",
+  "comments": 6,
+  "createdAt": "2024-05-25T13:00:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9819,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enabling Font outlines when the outline size is 0 should should show a warning indicator",
+  "up": 0,
+  "updatedAt": "2024-05-27T13:25:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9819"
+}

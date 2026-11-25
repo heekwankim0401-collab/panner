@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it makes debugging really easier.",
+    "format": "form",
+    "workaround": "This could be solved in an editor plugin."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-30T13:40:21Z",
+  "comments": 2,
+  "createdAt": "2025-01-30T12:41:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11666,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add user:// access in the editor",
+  "up": 0,
+  "updatedAt": "2025-01-30T13:40:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11666"
+}

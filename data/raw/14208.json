@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-02-11T18:07:10Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 14208,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Have AnimationMixer show a node configuration warning when there are conflicting track types animating the same property",
+  "up": 1,
+  "updatedAt": "2026-02-12T15:50:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14208"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "`TextEdit` is a core Control Node and `Fit Content Height` one of its properties. Adding a `Fit Content Width` equivalent seems a pretty useful and intuitive tool to have.",
+    "format": "form",
+    "workaround": "I'm currently using this method, which isn't perfect, but simulates pretty accurately how I want/expect the text to behave to \"Fit Content Width\".\n\n\tfunc _resize_text_edit_to_width() -> void:\n\t\tvar font: Font = get_theme_default_font()\n\t\n\t\tvar lines: PackedStringArray = []\n\t\tif text_edit.text.is_empty():\n\t\t\tlines = text_edit.placeholder_text.split(\"\\n\")\n\t\telse:\n\t\t\tfor line_idx: int in text_edit.get_line_count():\n\t\t\t\tlines.push_back(text_edit.get_line(line_idx))\n\t\n\t\tvar max_width: int = 0\n\t\tfor line: String in lines:\n\t\t\tvar str_size: int = font.get_string_size(line).x\n\t\t\tif str_size > max_width:\n\t\t\t\tmax_width = str_size\n\t\n\t\ttext_edit.custom_minimum_size.x = max_width + _font_size_margin\n\nThe result behavior is this:\n\nhttps://github.com/user-attachments/assets/30d95d9a-3993-4d02-96f9-5a646a1175af"
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-15T21:15:11Z",
+  "comments": 2,
+  "createdAt": "2024-10-12T11:37:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10957,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Fit Content Width\" option to TextEdit",
+  "up": 2,
+  "updatedAt": "2024-10-15T21:15:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10957"
+}

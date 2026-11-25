@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a common feature for text editors. (can provide more examples if needed.)",
+    "format": "form",
+    "workaround": "Not to my knowledge (I've not tried to alter the text editor's behaviour in this way)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-23T10:34:38Z",
+  "comments": 3,
+  "createdAt": "2024-04-15T15:09:04Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 9527,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add text editor option to prevent copying current line without a selection",
+  "up": 2,
+  "updatedAt": "2024-09-23T15:15:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9527"
+}

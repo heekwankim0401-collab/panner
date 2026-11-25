@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Tweens are core, and there is no way to extend them with add-on code.",
+    "format": "form",
+    "workaround": "I don't believe so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-02T03:35:15Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12712,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add optional names to Tweens and Tweeners",
+  "up": 1,
+  "updatedAt": "2025-07-10T22:03:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12712"
+}

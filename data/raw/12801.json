@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Unbinding and binding arguments when connecting signals in the editor is already core, this proposal is to allow doing both at the same time in the editor, a feature the engine already supports in code.",
+    "format": "form",
+    "workaround": "It can be worked around with a few lines of code - but those lines are often unique to the signal you need to replace arguments on and, in my case, require me to add a custom script to an object that is otherwise completely composed of generic code."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-13T23:47:56Z",
+  "comments": 1,
+  "createdAt": "2025-07-17T07:57:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12801,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow connecting signals with both unbound and bound arguments in the editor",
+  "up": 2,
+  "updatedAt": "2025-11-13T23:49:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12801"
+}

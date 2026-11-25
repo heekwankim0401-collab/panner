@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The functionality is already in Godot, so it would be nicer to reuse that and have the same behaviour, rather than duplicating the functionality into an addon.",
+    "format": "form",
+    "workaround": "You cannot access this API unless it's exposed, so you'd have to add your own fuzzy search, which would be more than a few lines of code."
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-22T13:34:30Z",
+  "comments": 10,
+  "createdAt": "2025-05-26T11:38:07Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.8",
+  "number": 12502,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose fuzzy searching API to scripting",
+  "up": 8,
+  "updatedAt": "2026-06-22T13:35:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12502"
+}

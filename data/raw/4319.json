@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It integrates seamlessly with the existing SceneTree.create_timer() function without breaking any compatibility and has better performance.",
+    "format": "form",
+    "workaround": "It is possible but less convenient, we will need to implement a global timer to do this, and the performance is not as good as the built-in in heavy usage."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-14T07:44:43Z",
+  "comments": 3,
+  "createdAt": "2022-04-01T08:37:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4319,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow SceneTreeTimer to run in physics frame",
+  "up": 7,
+  "updatedAt": "2024-06-14T07:44:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4319"
+}

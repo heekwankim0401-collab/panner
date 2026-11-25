@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It cannot be an addon.",
+    "format": "markdown",
+    "workaround": "No, this requires a new node type and changes to the volumetric fog shader"
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-03T18:46:41Z",
+  "comments": 20,
+  "createdAt": "2021-02-08T06:47:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 2261,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add fog volumes and fog shaders",
+  "up": 33,
+  "updatedAt": "2023-03-19T16:48:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2261"
+}

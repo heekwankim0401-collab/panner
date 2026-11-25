@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As important as it is, I don't believe an addon is necessary for this.",
+    "format": "form",
+    "workaround": "I could use it like this:\n```\nif OS.is_debug_build():\n    prints(varargs)\n```\nBut it wouldn't be ideal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2024-10-07T10:00:34Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10923,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Print function only in debug mode",
+  "up": 1,
+  "updatedAt": "2024-12-31T07:07:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10923"
+}

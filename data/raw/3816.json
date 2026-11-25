@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "the people who would need this feature the most are beginners, who would not think of looking for such a plug-in\nas they don't realize they're even making a mistake when saving their scenes with a filename in PascalCase instead of snake_case.",
+    "format": "form",
+    "workaround": "It might be possible to implement this behaviour into the engine with your own plug-in,\nbut i'm not sure."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-17T18:33:59Z",
+  "comments": 1,
+  "createdAt": "2022-01-17T18:05:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3816,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reformat the Root Node's name into snake_case before suggesting it as the filename when saving a new scene",
+  "up": 0,
+  "updatedAt": "2022-01-17T18:34:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3816"
+}

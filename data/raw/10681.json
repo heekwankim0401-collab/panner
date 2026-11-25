@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's usability enhancement for built-in code editor.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-02T13:26:08Z",
+  "comments": 2,
+  "createdAt": "2024-09-07T15:17:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.4",
+  "number": 10681,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add argument hint to annotations",
+  "up": 8,
+  "updatedAt": "2024-10-02T13:26:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10681"
+}

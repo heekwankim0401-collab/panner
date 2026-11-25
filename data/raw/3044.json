@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This change needs to happen in the engine because the data users need to inspect is not currently available through GDScript.",
+    "format": "form",
+    "workaround": "User-made shortcuts can be installed with `InputMap` for their own `EditorPlugin` needs, but the problem is that currently it's impossible to tell whether the installed shortcut has been duplicated or not. If the shortcut is a duplicate, entering the shortcut will fire several functions that could have weird side effects that could be hard to debug."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-05T15:24:03Z",
+  "comments": 2,
+  "createdAt": "2021-07-25T20:36:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3044,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Let users inspect Editor `ShortCut` objects to  in `EditorPlugin`",
+  "up": 0,
+  "updatedAt": "2022-09-05T15:24:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3044"
+}

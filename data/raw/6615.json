@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It affects the graphics settings.",
+    "format": "form",
+    "workaround": "Graphics settings are something a lot of games need, so this is nothing that can be easily worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-10T13:18:55Z",
+  "comments": 4,
+  "createdAt": "2023-04-03T11:23:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6615,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make it easier to change graphics settings at runtime",
+  "up": 2,
+  "updatedAt": "2024-04-10T17:46:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6615"
+}

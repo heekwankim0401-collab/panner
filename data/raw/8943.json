@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be a new annotation such as (`@export`, `@onready`, etc) in the core of GDScript.",
+    "format": "form",
+    "workaround": "Currently you can override the functions without but this feature basically enables true interfaces in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-01-23T02:15:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8943,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "@interface annotation to work in conjunction with class_name registration.",
+  "up": 0,
+  "updatedAt": "2024-01-23T09:48:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8943"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because it is a basic function that should be added to the GridMap class. If it is in TileMap, then why isn't it in GridMap if someone like me can easily code it in and add this functionality to the GridMap class?\n\nBy the way, I also edited the GridMap documentation locally on my machine and kept to the same style as the TileMap documentation. I will upload the files I edited here.\n[gridmap_changes.zip](https://github.com/godotengine/godot-proposals/files/5079954/gridmap_changes.zip)",
+    "format": "legacy",
+    "workaround": "It can be worked around with GDScript. I have already done this in the past. But, I feel as if GridMaps lack features that TileMaps have, and that this would improve 3D development for people who like working with Grids instead of scene trees. It's also incredibly strange that this function is not in the class in the first place."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-16T07:06:28Z",
+  "comments": 0,
+  "createdAt": "2020-08-16T04:00:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "3.x",
+  "number": 1375,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `get_used_cells_by_id()` method to GridMap",
+  "up": 0,
+  "updatedAt": "2022-02-16T07:07:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1375"
+}

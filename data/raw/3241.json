@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-25T20:23:04Z",
+  "comments": 3,
+  "createdAt": "2021-09-01T01:10:11Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3241,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Stop node signals outside tree",
+  "up": 3,
+  "updatedAt": "2021-10-25T20:23:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3241"
+}

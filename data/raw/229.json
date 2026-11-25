@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think the debugger can be modified this way with the asset library.",
+    "format": "legacy",
+    "workaround": "This would be a core editor feature and likely cannot be added without modifying the debugger itself."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-29T20:18:14Z",
+  "comments": 0,
+  "createdAt": "2019-11-14T07:47:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 229,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for defining custom perfomance monitors",
+  "up": 10,
+  "updatedAt": "2020-06-29T20:18:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/229"
+}

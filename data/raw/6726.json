@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't think it can be done using an add-on, but if it can be, then I'd implement it through that for sure.",
+    "format": "form",
+    "workaround": "I think this will be used often. It's often the case that parent nodes need access to a scene's child, for a variety of reasons."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-04-20T16:18:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6726,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to set exported NodePaths or Nodes to children of scenes without making the children editable",
+  "up": 2,
+  "updatedAt": "2023-04-20T18:06:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6726"
+}

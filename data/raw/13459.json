@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "JSON serialization and deserialization is part of the engine.",
+    "format": "form",
+    "workaround": "```gdscript\nstatic func variant_to_vector2(variant: Variant) -> Vector2:\n\tif typeof(variant) == TYPE_VECTOR2:\n\t\t# shortcut\n\t\t@warning_ignore(\"unsafe_cast\")\n\t\treturn variant as Vector2\n\t\n\tvar v: Vector2 = Vector2.ZERO\n\t\n\tif typeof(variant) != TYPE_STRING:\n\t\tpush_error(\"Couldn't parse variant type to Vector2 because it's not a string. Type: \", typeof(variant))\n\t\treturn v\n\t\n\t@warning_ignore(\"unsafe_cast\")\n\tvar s: String = variant as String\n\t\n\tif not s.begins_with(\"(\") or not s.ends_with(\")\") or not s.contains(\",\"):\n\t\tpush_error(\"Couldn't parse variant to Vector2 because string format is unrecognized. Value: \", s)\n\t\treturn v\n\t\n\ts = s.substr(1, s.length() - 2)\n\t\n\tv.x = float(s.get_slice(\",\", 0))\n\tv.y = float(s.get_slice(\",\", 1))\n\t\n\treturn v\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-10-24T13:24:00Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13459,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow deserializing vectors in JSON",
+  "up": 1,
+  "updatedAt": "2025-10-27T18:18:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13459"
+}

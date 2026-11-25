@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would formalize an undocumented behavior that has become an implicit standard - already functioning in two implementations of the same feature.\n\nFormalizing this behavior would allow other engine components to rely on it where they might currently break when confronted with it, and enable the development of features and extensions that require the behavior to function across physics engine implementations.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-09T14:14:40Z",
+  "comments": 3,
+  "createdAt": "2025-01-10T11:44:24Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:navigation",
+    "topic:physics"
+  ],
+  "milestone": "4.5",
+  "number": 11531,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Standardize label for holes in heightfield collider data",
+  "up": 3,
+  "updatedAt": "2025-06-09T14:15:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11531"
+}

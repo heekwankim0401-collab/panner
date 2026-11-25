@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of a core class.",
+    "format": "legacy",
+    "workaround": "The work around is manually fiddling with collision layer and collision mask bits which is painful anf error prone."
+  },
+  "assignees": 0,
+  "closedAt": "2020-08-18T07:47:17Z",
+  "comments": 3,
+  "createdAt": "2020-08-16T10:16:28Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1377,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add monitorable/monitoring properties to KinematicBody[2D] node",
+  "up": 0,
+  "updatedAt": "2020-08-18T10:34:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1377"
+}

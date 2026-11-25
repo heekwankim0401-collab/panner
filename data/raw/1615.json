@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It seems that it's core already. According to @lawnjelly , ResourceLoader::import() is used by the lightmap baker.",
+    "format": "legacy",
+    "workaround": "The only workaround is to unfocus the editor and refocus it. Constantly. Otherwise, there is no automatable workaround in my case.\n\nFirst I wondered where to even trigger the import, so I noticed the presence of the `resource_saved(res)` signal in `EditorPlugin`. Unfortunately, that signal only fires when the user saves a resource from the inspector, and not when a resource is saved when the user saves the scene (is that a bug? That behavior feels unfinished). So I thought doing it right inside my saving routine would be the correct place to do that.\n\nThen I looked for functions to actually trigger import, by searching \"import\" in the engine docs... but could not find anything that does what I want.\n\nThe Sketchfab plugin also has a similar need, which was worked around using some undocumented metadata stunt to trigger a scan on the whole project:\nhttps://github.com/sketchfab/godot-plugin/blob/379ad4da6e3f9297ff82efec64fe148a2e2f1017/addons/sketchfab/ModelDialog.gd#L188-L193\nHowever, this will still not work for me because that process is asynchronous, and as said above, the game could be starting already while such scan (and the imports that actually *follow* it) would not be complete. Not mentionning it also looks super slow compared to my needs."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-10-05T19:01:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1615,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Import newly generated resources manually or before the game starts",
+  "up": 16,
+  "updatedAt": "2021-11-09T09:32:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1615"
+}

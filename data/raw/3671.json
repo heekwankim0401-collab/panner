@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If `get_node_or_null` is core then `find_node_or_null` should also be core.",
+    "format": "form",
+    "workaround": "Not really. Except if one manually implements find_node in GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-16T14:14:28Z",
+  "comments": 8,
+  "createdAt": "2021-12-15T07:12:59Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3671,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `find_node_or_null` function that doesn't log an error if the node isn't found",
+  "up": 5,
+  "updatedAt": "2021-12-16T14:14:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3671"
+}

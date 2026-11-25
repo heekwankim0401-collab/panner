@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2026-03-18T17:31:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 14494,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Deprecate CSGCylinder and CSGBox in favor of a new CSGPrism node",
+  "up": 1,
+  "updatedAt": "2026-03-19T20:05:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14494"
+}

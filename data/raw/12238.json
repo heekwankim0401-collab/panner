@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the Multimesh node as the feature to basically zero the source mesh rotation feels a bit non functional making such little change a plug-in would be too much",
+    "format": "form",
+    "workaround": "This can be worked around by tweaking the engine script before compiling but that would be tedious considering it would need to be done for every updated version"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-15T13:51:02Z",
+  "comments": 1,
+  "createdAt": "2025-04-15T00:54:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12238,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Multimesh source mesh rotation improvement",
+  "up": 0,
+  "updatedAt": "2025-04-15T13:51:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12238"
+}

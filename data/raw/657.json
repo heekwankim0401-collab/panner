@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A quadratic mesh simplification style algo has to be in core cpp. I have searched and did nt find an asset lib to do generate lod but perhaps I missed something.\nRefs:\nhttps://docs.unrealengine.com/en-US/Engine/Content/Types/StaticMeshes/HowTo/AutomaticLODGeneration/index.html\nhttps://docs.unrealengine.com/udk/Three/MeshSimplificationTool.html\nhttps://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification\nhttps://doc.cgal.org/latest/Surface_mesh_simplification/index.html\nhttps://software.intel.com/en-us/articles/3d-modeling-and-parallel-mesh-simplification/\n\nkind",
+    "format": "legacy",
+    "workaround": "should be used pretty often"
+  },
+  "assignees": 1,
+  "closedAt": "2020-12-19T02:22:52Z",
+  "comments": 5,
+  "createdAt": "2020-03-31T23:46:18Z",
+  "down": 0,
+  "labels": [
+    "topic:import",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 657,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for automatic LOD generation",
+  "up": 11,
+  "updatedAt": "2020-12-19T02:22:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/657"
+}

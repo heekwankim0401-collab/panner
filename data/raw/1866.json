@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-12T16:26:53Z",
+  "comments": 110,
+  "createdAt": "2020-11-20T17:42:34Z",
+  "down": 28,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1866,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Separate integer and real division operators in GDScript",
+  "up": 63,
+  "updatedAt": "2023-11-04T16:27:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1866"
+}

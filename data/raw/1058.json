@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I only have logic by my side (I hope).",
+    "format": "legacy",
+    "workaround": "No, one must either:\n- stop using __InputEvent_ on CollisionObjects to trigger user inputs into them\n- create a map as CollisionObject (which is probably weven worse than solution above)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2020-06-14T17:41:17Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 1058,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change unhandled InputEvent propagation",
+  "up": 19,
+  "updatedAt": "2025-08-11T22:02:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1058"
+}

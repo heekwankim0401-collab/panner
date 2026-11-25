@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It requires new annotations and changes to the parser and compiler.  It does not require changes to the VM (other than PR 63267), so it could potentially be a plugin to the script language, but not at the current time, from what I can tell from the code.\n\nIf this sort of thing was wildly successful, I would like to grow it to add some features:\n\n- based on the API JSON and additional markup, track which API functions are allowed to be used by worker threads.  Then make the analyzer check for thread safety in cases where the called function can be statically deduced.  \n\n- eventually maybe even annotate the native API functions so that whether something is safe for worker threads is always known and enforced via runtime checks. \n\nThis would make working with threads much safer for Godot users.  Threaded programming is a known problem for people who aren't primarily computer science types, and even for some who are.  Anything that helps find problems faster is worth something.",
+    "format": "form",
+    "workaround": "In its current form, you could simply comment the functions to say they are used by worker threads and then add the code block at the entry of every other function to do the assertion yourself.    Then you could customize syntax highlighting to color your special comments."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-15T10:59:48Z",
+  "comments": 9,
+  "createdAt": "2022-07-21T05:08:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4934,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Thread checking annotations in GDScript",
+  "up": 4,
+  "updatedAt": "2022-09-15T14:11:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4934"
+}

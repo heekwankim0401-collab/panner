@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can't be done as an add-on since it's about GDScript",
+    "format": "markdown",
+    "workaround": "The workaround is to write code that's less clear just to avoid an error that arguably shouldn't appear. (Again, this might be a bug? Dunno)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-28T22:05:11Z",
+  "comments": 10,
+  "createdAt": "2021-04-26T23:47:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2656,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Virtual functions with \"pass\" keyword and optional returns",
+  "up": 0,
+  "updatedAt": "2021-04-28T22:31:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2656"
+}

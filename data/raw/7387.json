@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It doesn't explicitly require core changes, but an add-on implementing this functionality would be much more difficult to create and could quickly become outdated.",
+    "format": "form",
+    "workaround": "It can be worked around in script, but the solution is brittle and totally undocumented (not that I'd be on-board with documenting it anyways, it should not be done!!)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-07-26T22:39:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 7387,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expand on EditorTitleBar and expose it to the script API",
+  "up": 0,
+  "updatedAt": "2023-07-26T22:42:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7387"
+}

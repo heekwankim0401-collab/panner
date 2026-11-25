@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an essential usability feature.",
+    "format": "form",
+    "workaround": "This can potentially be worked around with a plugin but it affects everyone who uses the Movie Maker, as the natural workflow is to take multiple successive takes while testing gameplay. \nThis is infinitely the more common use of Recorders than the \"Cinematic\" use case which is to script a lot of stuff and record one long video."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-12-24T20:27:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5989,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Movie Maker save to new file automatically if chosen file already exists",
+  "up": 9,
+  "updatedAt": "2025-05-31T04:22:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5989"
+}

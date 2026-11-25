@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes.\n\n- This is a build system-level change, not a runtime feature.\n- It affects how binaries are produced, which cannot be modified at runtime or via an asset add-on.\n\n- It benefits all users who need proper debug symbol mapping, not just Firebase Crashlytics users, since --build-id is a widely recognized and standard linker flag.",
+    "format": "form",
+    "workaround": "Yes, users could manually modify SCons scripts or add custom linker flags per project. However, this requires extra manual steps, increases chances of errors, and reduces portability of Godot builds across different environments. Adding it in core ensures consistency and reliability."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-12T20:23:33Z",
+  "comments": 1,
+  "createdAt": "2025-09-12T17:56:15Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.5",
+  "number": 13160,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add -Wl,--build-id linker flag to detect.py for proper debug symbol mapping for Android",
+  "up": 0,
+  "updatedAt": "2025-09-13T21:59:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13160"
+}

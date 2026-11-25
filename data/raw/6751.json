@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It affects the built-in gltf exporter.",
+    "format": "form",
+    "workaround": "Would have to fork godot and patch the gltf exporter myself"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-04-24T18:56:19Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 6751,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Preserve properties when using gltf exporter",
+  "up": 1,
+  "updatedAt": "2023-04-24T23:04:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6751"
+}

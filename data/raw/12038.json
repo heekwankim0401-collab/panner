@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can be worked around, but it seems like such a common design pattern that I think newer devs would benefit from it coming in the base engine. Seeing this option will make someone think about why they would want editor only visuals and create a more readable game in terms of developement. Editor only visuals is like the code comments of the 3D scene.",
+    "format": "form",
+    "workaround": "It can be worked around, but implementing it requires adding scripts to every scene needing to be hidden or a large list to maintain that potentially could result in unwanted visuals making it into the main game."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-21T17:29:06Z",
+  "comments": 3,
+  "createdAt": "2025-03-21T07:48:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12038,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Node is only visible in the editor",
+  "up": 3,
+  "updatedAt": "2025-03-21T17:29:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12038"
+}

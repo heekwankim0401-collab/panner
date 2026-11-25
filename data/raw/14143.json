@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core UX of the engine.",
+    "format": "form",
+    "workaround": "It can probably technically be implemented as a hacky editor plugin which listens to events and tries to prevent the dock from switchig."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-04T17:12:21Z",
+  "comments": 2,
+  "createdAt": "2026-02-03T20:26:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 14143,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Alt-clicking a node should keep the currently active bottom dock open",
+  "up": 3,
+  "updatedAt": "2026-02-04T17:13:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14143"
+}

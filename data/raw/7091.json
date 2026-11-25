@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't know if it can be an add-on or asset.",
+    "format": "form",
+    "workaround": "You can create your own ingame console, but I don't know if you could replicate the editor commands part."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-06-15T17:38:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7091,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability to run console commands",
+  "up": 8,
+  "updatedAt": "2024-11-18T14:46:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7091"
+}

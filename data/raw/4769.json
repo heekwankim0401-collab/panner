@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think it's possible for an addon to add a built-in property to another node.",
+    "format": "form",
+    "workaround": "## Workaround 1\nThis can be worked around partially, but unrealistic and it gets annoying real fast. And it works on playing the scene only, not in the editor.\n```\nfunc _ready():\n\tqueue_free()\n```\n## Workaround 2\n1. Add 1 OmniLight3D at the middle of the model.\n2. Set the light_size to 100m.\n3. Set the light_specular to 0\n4. Set the light_energy lower if needed.\n5. Set the editor_only to true\n\nNot the perfect solution, but it's better than nothing.\n\n## Workaround 3 (Best)\n\n1. Put this script in your WorldEnvironment. It's fully dynamic except for the root scene's name part.\n2. You will need to put the name in the **excluded_node_name_list** if your map's name is other than **map** or **world**.\n\n```\n@tool\nextends WorldEnvironment\n\nvar excluded_node_name_list = [\n\t\"map\", \"world\", \"node3d\"\n]\n\n\nfunc _ready() -> void:\n\tif Engine.is_editor_hint():\n\t\tvar scene_name = get_tree().get_edited_scene_root().get_name()\n\t\tscene_name = str(scene_name).to_upper()\n\t\t\n\t\tfor excluded_name in excluded_node_name_list:\n\t\t\texcluded_name = excluded_name.to_upper()\n\t\t\t\n\t\t\tif scene_name == excluded_name:\n\t\t\t\tqueue_free()\n\telse:\n\t\tqueue_free()\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-06-28T06:19:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4769,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make editor_only property available to the WorldEnvironment",
+  "up": 0,
+  "updatedAt": "2022-06-28T22:20:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4769"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core, because it's a usability setting of an existing feature.",
+    "format": "legacy",
+    "workaround": "Since this is about default values, it would be used every time RigidBody2Ds are used."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-18T08:54:47Z",
+  "comments": 6,
+  "createdAt": "2019-09-23T13:37:39Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 98,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the default gravity settings of the RigidBody2D Node so its physics feel less floaty out of the box",
+  "up": 16,
+  "updatedAt": "2021-05-31T18:03:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/98"
+}

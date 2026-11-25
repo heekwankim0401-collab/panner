@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This affects the architecture for Godot Android apps, and thus cannot be provided via scripts and/or plugins.",
+    "format": "legacy",
+    "workaround": "This affects the architecture for Godot Android apps, and thus cannot be worked around via scripting logic."
+  },
+  "assignees": 1,
+  "closedAt": "2020-07-03T10:10:29Z",
+  "comments": 5,
+  "createdAt": "2020-06-15T05:38:38Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "3.x",
+  "number": 1064,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot Subview Architecture - Android",
+  "up": 18,
+  "updatedAt": "2022-05-23T04:27:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1064"
+}

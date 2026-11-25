@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhancement pertains to the core language functionality of GDScript, influencing how the language handles function return types at a fundamental level. An add-on would not be suitable for this type of language feature as it requires modification of the language's parser and compiler to support implicit type inference.",
+    "format": "form",
+    "workaround": "Currently, developers can either disable the warning or manually annotate each function with void, which is suboptimal for code cleanliness and readability. This change would allow developers to keep the warnings enabled for better practice, without the verbosity."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-11-08T03:28:21Z",
+  "down": 7,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8369,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Infer implicit void return type in GDScript for functions without return values",
+  "up": 7,
+  "updatedAt": "2026-08-22T18:58:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8369"
+}

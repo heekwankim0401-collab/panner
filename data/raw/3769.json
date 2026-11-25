@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It affects the editor's display of project settings.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-01-18T12:40:33Z",
+  "comments": 7,
+  "createdAt": "2022-01-07T11:44:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3769,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename Project Settings, Display, Window width and height, and test_width and test_height settings to match their function",
+  "up": 12,
+  "updatedAt": "2022-01-18T14:09:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3769"
+}

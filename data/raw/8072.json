@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I want to make this as an add-on, but I believe there is no way to achieve this result without some `Proxy` feature or equivalent in GDScript.\n\nOtherwise, it can only be mimicked with either clunky syntax, or lots of repetitive setup code for each property.\n\nI'd be interested in implementing it, but have no idea in which area to look or how doable it is, as I have 0 knowledge of the Godot codebase.",
+    "format": "form",
+    "workaround": "I can't think of any way of doing this without proxies. The alternatives are:\n\n* Users create getters/setters manually for all props, which defeats the purpose\n* Manually creating set/get functions on the reactive class which do what the proxy would do. This works, but isn't seamless to use as now users would have to use `myState.get('someKey')` instead of being able to just do `myState.someKey`"
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-11T17:43:23Z",
+  "comments": 2,
+  "createdAt": "2023-10-11T14:39:29Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8072,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Object proxies (getters/setters with property key parameter)",
+  "up": 0,
+  "updatedAt": "2023-10-11T17:43:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8072"
+}

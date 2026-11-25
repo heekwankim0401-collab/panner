@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think, it ' might ' be worth it, esp. long - term, or so <3 Thx . . . .\n\nAlso, it could be a small step, towards a convert .vs to, .gd, which would REALLY be cool, down, the line <3\n\nif you think it, this only has advantages, for every-one, it's just easier, to maintain, fix, other stuff <3 Thx . . . .\n\nps. if the goal is to have LOWEST possible file - size, I think making the .vs format fully ' readable ' might not, increase size THAT much, like from 4 kb, to 8 - 10 kb :OO and, when publishing the game, it could be ' compiled ', into something much smaller . . if that, is important . . but, I don't think size of .vs files is, what makes or, breaks total size, of games :OO . . . but, there might be a compromise . . also, one could ask question, why not store .gd in a compressed format, like .vs, to save space <3 <3 Sorry, hope this makes sense, might also help find the RSCC bug, bec. you can see, what it is exactly that goes wrong, when ' that ' happens, what ' line ' of code, causes it, if .vs was readable :OO <3\n\nit might seem like a waste of time now, and file - space but, years down the line, it'll have saved 100's of hours, de-bugging, fixing bugs, etc . . that's the reason, I think doing this now, might be a good idea . .\n\nalso, technically one could compress .gd . .\n\nso . .\n\nvar bool player_walk_state\n\nget player_walk_state . .\n\nbecame . .\n\nvar bool \"¤T\"\n\nget \"¤T\"\n\nthis would save characters, anyway, don't see a reason, for doing that, for visual script . . the files might be a bit bigger, but COULD be compressed, when publishing, to say PC, Mac, Android, Linux . . it's at that point, one could do any needed compression :OO . . <3 . .\n\nAny-way, visual scripters are, a bit tired, we don't have an ' update ' variable names, same way written code, can do search-replace . . it might be a ' small ' improvement, but it'd be very nice, to have that feature, may-be it's possible, this way <3",
+    "format": "markdown",
+    "workaround": "I can't do this, as a beginner :OO . . <3"
+  },
+  "assignees": 0,
+  "closedAt": "2021-04-09T12:32:48Z",
+  "comments": 6,
+  "createdAt": "2021-04-09T03:37:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 2574,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improving the visual script .vs file format so it's easier to maintain, add search-replace features . . ",
+  "up": 0,
+  "updatedAt": "2022-08-24T20:36:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2574"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this is a new `Array` method",
+    "format": "legacy",
+    "workaround": "```\nfor i in b.size():\n  a.append(b[i])\n```\nor `push_back()` (it seems marginally faster than `append()`)\nalso `a.resize()` can be used"
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-10T12:53:59Z",
+  "comments": 6,
+  "createdAt": "2020-10-24T19:17:12Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1718,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `extend()` method in Array",
+  "up": 3,
+  "updatedAt": "2020-11-10T12:54:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1718"
+}

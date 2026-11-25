@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Would be nice.",
+    "format": "form",
+    "workaround": "No, its very complicated and the web has a lot of moving parts.\n\nI'm not new to http requests in godot, but I tried to make this myself and couldn't figure it out with very basic http knowledge."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-03-26T16:11:57Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 12078,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a progress indicator signal to HTTPRequest",
+  "up": 1,
+  "updatedAt": "2025-03-31T23:06:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12078"
+}

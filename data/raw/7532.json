@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Downgrading the level of customization that was available before is not great, especially one that a lot of games will want to still have.",
+    "format": "form",
+    "workaround": "To workaround the rounded corners, one would need to `Node.get_popup().transparent_bg = true` via script for every popup, which would be incredible cumbersome.\n\nI don't see how to workaround the cutout shadows, however."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-07T22:27:23Z",
+  "comments": 0,
+  "createdAt": "2023-08-19T22:04:48Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 7532,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve popup customization in Godot 4",
+  "up": 8,
+  "updatedAt": "2025-01-07T22:27:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7532"
+}

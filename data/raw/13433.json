@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Jolt is a thirdparty module which has been implemented into the core so there is no reason for any addon. (Except for lower versions, use the Jolt plugin.)",
+    "format": "form",
+    "workaround": "Yes, it can be but most people don't actually bother changing their Physics Engine & then they ask if there is any other options available for physics."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-21T11:40:55Z",
+  "comments": 3,
+  "createdAt": "2025-10-21T01:47:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13433,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Have Jolt enabled by default as the Physics Engine",
+  "up": 0,
+  "updatedAt": "2025-10-21T11:40:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13433"
+}

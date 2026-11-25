@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is fairly basic functionality that I would have expected to already be in there.",
+    "format": "form",
+    "workaround": "This can be worked around by the user wrapping the custom tag with the built in font tag, however, allowing this would allow greater customization and control over text effects."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-27T22:34:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12883,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to change the font from within a RichTextEffect",
+  "up": 1,
+  "updatedAt": "2025-07-28T11:54:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12883"
+}

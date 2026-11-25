@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "RichTextEffect is not suitable for this due to numerous missing features (and the continuous processing…). If the limitations of \"table\" should be lifted, it requires a new bbcode",
+    "format": "form",
+    "workaround": "It can be worked around with using `table`, but the syntax is not pretty, nor short:\n\n```\n[table=1,baseline,baseline,1][cell][font_size=15]とうじょう[/font_size][/cell][cell]登場[/cell][/table]はここ\n```\n\n![Image](https://github.com/user-attachments/assets/4c5176e3-37c0-49ff-aa0d-d3333fbca049)\n\nImplementing ruby properly, could reduce this to e.g.\n```[ruby rt=\"とうじょう\"]登場[/ruby]はここ```\n\nYou can get a similar effect by using `text.replace()`, thought that won't give you horizontal alignment, nor fixing gaps.\n\nUsing RichTextEffect is not possible, you could at most create a superscript effect…"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-25T17:17:03Z",
+  "comments": 6,
+  "createdAt": "2025-04-25T16:36:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12316,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add bbcode for Ruby in RichTextLabel",
+  "up": 0,
+  "updatedAt": "2025-04-26T16:13:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12316"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It is an addition to the OS..request_attention() methode.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-16T16:24:55Z",
+  "comments": 2,
+  "createdAt": "2021-03-06T20:32:33Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "platform:macos",
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": "4.7",
+  "number": 2414,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for the OS task bar progress API",
+  "up": 9,
+  "updatedAt": "2026-02-16T16:26:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2414"
+}

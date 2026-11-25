@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It changes how the input handling object works.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-02T17:18:26Z",
+  "comments": 3,
+  "createdAt": "2021-06-18T19:26:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 2882,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow scripts to handle unsupported Input devices",
+  "up": 0,
+  "updatedAt": "2021-10-02T17:18:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2882"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It removes the middleman, so to speak, in regards to modifying a key Resource",
+    "format": "form",
+    "workaround": "You could certainly do it via script, from what I'm seeing in the Animation Library documentation"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-12-22T00:07:28Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11406,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Animation Library: Allow direct modification without going through an Animation Player",
+  "up": 6,
+  "updatedAt": "2025-10-21T11:38:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11406"
+}

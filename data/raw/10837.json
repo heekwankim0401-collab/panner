@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a missing feature which should be from the start. Why is left-click hardcoded?",
+    "format": "form",
+    "workaround": "Currently, I have found no way, only seen the following hack which I haven't tried:\nDetect the `InputEventMouse` and once right click is detected, create a duplicate `InputEventMouse` and then changes its right click to left click, and insert it into the input event bus. Then delete the original `InputEventMouse`. This such a hack, its just a bloated solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-09-27T09:06:07Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10837,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Drag Control nodes with Right Click (or another button)",
+  "up": 3,
+  "updatedAt": "2024-09-27T16:28:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10837"
+}

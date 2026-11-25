@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a basic option that every engine should have (and most of them do). It's so simple that it wouldn't be worth making an add-on for it. Also it's pretty darn annoying.",
+    "format": "form",
+    "workaround": "Yes, altough it's not very convinent."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-12-26T13:08:15Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 8728,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add 'dont_require_receiver' argument to 'godot_object.call' method.",
+  "up": 0,
+  "updatedAt": "2023-12-30T21:00:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8728"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-07-03T21:22:07Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 15120,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make ItemList and Tree scroll by a visible page's amount when pressing the Page Up/Down keys",
+  "up": 6,
+  "updatedAt": "2026-07-03T21:22:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15120"
+}

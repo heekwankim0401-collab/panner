@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be uniform with other nodes like Sprite2D and MeshInstance, which has functions to generate collision siblings too.",
+    "format": "legacy",
+    "workaround": "Tool Script, maybe. Could be manually done, too.\nI have seen people making games with just Polygon2D. It would be useful for them too."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-11-11T14:54:28Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1804,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"Create Collision Polygon Sibling\" to Polygon2D",
+  "up": 5,
+  "updatedAt": "2020-11-12T02:17:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1804"
+}

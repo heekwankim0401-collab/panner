@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "ws and http are broken on all current android versions unless this option is enabled.",
+    "format": "legacy",
+    "workaround": "It can be worked around by using a custom android build but would be beneficial to have it as an option in the standard build."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-12T19:07:22Z",
+  "comments": 1,
+  "createdAt": "2020-03-21T19:15:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 614,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Android cleartext support",
+  "up": 0,
+  "updatedAt": "2020-08-05T07:46:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/614"
+}

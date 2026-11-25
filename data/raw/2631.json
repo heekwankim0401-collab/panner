@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't know the answer to this question. I don't know if this is possible with an add-on, I don't have the capability. I don't know who to ask either.",
+    "format": "markdown",
+    "workaround": "No. I can play the animation implemented by the code in the editor by exporting a bool variable, but I can't keep it in sync with the animation implemented with AnimationPlayer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-04-22T11:07:55Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2631,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enables AnimationPlayer to call functions of tool scripts in the editor.",
+  "up": 2,
+  "updatedAt": "2021-08-12T22:57:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2631"
+}

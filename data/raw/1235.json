@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I guess, I'm not sure, it should be engine . . . The problem, a lot of boxes could stop working, deeper in the engine, that are poorly documented, and where the default value ( 4, for max slides ) isn't known or, easily found . . Just, when clicking ' Don't Use Default Args ', keep the default value, until it is changed, by the user, also for Booleans, ie True that, become false, without user asking for it, thx . . .",
+    "format": "legacy",
+    "workaround": "This is not something I can change, atm . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T16:19:23Z",
+  "comments": 2,
+  "createdAt": "2020-07-21T15:59:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 1235,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Keep standard values when disabling default arguments in Visual Script",
+  "up": 2,
+  "updatedAt": "2022-08-24T16:21:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1235"
+}

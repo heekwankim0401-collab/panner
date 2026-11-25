@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a basic core functionality.",
+    "format": "form",
+    "workaround": "No, this is core functionality of the text editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-09-30T09:54:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7929,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add relative path autocompletion to `preload()` in the script editor",
+  "up": 15,
+  "updatedAt": "2024-08-31T04:20:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7929"
+}

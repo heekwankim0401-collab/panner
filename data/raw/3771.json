@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The gltf2 import and export is core.",
+    "format": "form",
+    "workaround": "This is core and debugging existing code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-01-08T04:02:44Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 3771,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve glTF 2.0 specification compliance",
+  "up": 10,
+  "updatedAt": "2022-01-08T20:36:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3771"
+}

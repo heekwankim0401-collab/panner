@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a building block for add-ons.",
+    "format": "form",
+    "workaround": "We can choose to extend `ShaderMaterial` instead. The major downside is that in the editor `ShaderMaterial` will expose all the details of the shader and parameters which can be then arbitrarily modified. Users may get confused and accidentally break it. So it is better to have a dedicated empty base class to work with.\n\nExtending `ShaderMaterial` is the current method I adopt. You can see from the below image that `ShaderMaterial` unnecessarily exposes all the shader parameters which are already presented by the top-level class. Not mention \"private\" parameters such as runtime LUTs (as they are provided by RID `ShaderMaterial` can't even show a value).\n\n![Image](https://github.com/user-attachments/assets/f723a861-fbd2-44fc-bc0c-7284b255598e)\n\n2025-01-09: `ShaderMaterial` stores shaders and shader parameters in its resource. A custom material may not want it, as it may have better way to store them or generate them at runtime."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-01-08T14:48:46Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 11518,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add SkyMaterial base class",
+  "up": 10,
+  "updatedAt": "2025-01-09T04:58:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11518"
+}

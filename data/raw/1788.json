@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The purpose of the enhancement is to make the code self-documenting and make it slightly easier to use. This is helpful for everyone, but especially for newer users, who probably don't have add-ons installed.",
+    "format": "legacy",
+    "workaround": "This enhancement can be worked around by just rotating the basis of the Transform directly. Adding the enhancement would aim chiefly at making the methods of Transform self-document. A newcomer to Godot can't know if `Transform.rotate()` does a local or a global rotation. But if there's also a `Transform.rotate_local()` function, then the purpose of both functions becomes immediately clear."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-24T21:10:55Z",
+  "comments": 10,
+  "createdAt": "2020-11-07T15:38:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1788,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a local rotation function to Transform",
+  "up": 0,
+  "updatedAt": "2023-10-24T21:11:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1788"
+}

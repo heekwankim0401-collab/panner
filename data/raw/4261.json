@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-20T07:46:01Z",
+  "comments": 6,
+  "createdAt": "2022-03-23T11:45:31Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 4261,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change the naming of rendering methods and drivers",
+  "up": 20,
+  "updatedAt": "2022-09-20T07:46:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4261"
+}

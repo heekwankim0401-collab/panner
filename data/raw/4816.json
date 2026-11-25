@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its kinda core already",
+    "format": "form",
+    "workaround": "I would use it often"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-08T09:51:07Z",
+  "comments": 2,
+  "createdAt": "2022-07-05T14:31:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 4816,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for horizontal scrolling in `Tree` using mouse buttons (`WHEEL_LEFT`/`WHEEL_RIGHT`)",
+  "up": 2,
+  "updatedAt": "2022-07-08T09:51:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4816"
+}

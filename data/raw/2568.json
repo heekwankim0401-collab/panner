@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because when on core, it could be optimized to better performance than creating a script to do it. As well it would help to beginners to create a 3D game with 2D physics without needing extra scripts just for this 2D/3D physics interaction.",
+    "format": "markdown",
+    "workaround": "That would require a manual transformation synchronization between a RigidBody and a RigidBody2D, for example, as well could easilly mess with the scene organization, with a bunch of 2D nodes mixed with Spatial nodes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2021-04-08T00:34:38Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2568,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `CollisionShape32D` node",
+  "up": 0,
+  "updatedAt": "2021-12-13T22:29:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2568"
+}

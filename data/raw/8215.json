@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a bit too small to warrant an entirely separate asset library, and I believe that the use of \"localhost\" is standard enough that it would be beneficial for those working with the networking side of Godot.",
+    "format": "form",
+    "workaround": "In this particular case, no, though in many cases \"127.0.0.1\" will be perfectly acceptable as workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-21T05:21:23Z",
+  "down": 0,
+  "labels": [
+    "topic:network",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8215,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow \"localhost\" as valid IP Address",
+  "up": 4,
+  "updatedAt": "2023-10-21T10:11:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8215"
+}

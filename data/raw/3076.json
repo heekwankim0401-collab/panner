@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It affects core GDScript Syntax.",
+    "format": "form",
+    "workaround": "I believe this would be used quite often with scene instances."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-08-02T16:29:04Z",
+  "down": 3,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3076,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add object initializers to GDScript",
+  "up": 16,
+  "updatedAt": "2021-08-03T23:24:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3076"
+}

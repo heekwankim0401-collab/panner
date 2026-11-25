@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires a C++ implementation.",
+    "format": "form",
+    "workaround": "No, since simplex noise is a compute heavy algorithm and should be implemented in C++."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-06-03T17:54:35Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12547,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add OpenSimplexNoise back into Godot so 4d simplex noise is available",
+  "up": 2,
+  "updatedAt": "2025-08-04T02:09:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12547"
+}

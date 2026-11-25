@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Useful core functionality.",
+    "format": "form",
+    "workaround": "I think it can be worked around by iterating through get_property_list() and copying all the properties.\n\nThis covers my basic needs, but is likely incomplete and doesn't have an option for deep copy.\n\n```gdscript\n## Just duplicates a class object properties for now.  May need to be expanded to inclued meta and other data later.\nstatic func duplicate_object(source_object : Object, destination_object : Object) -> Object:\n\tvar properties := source_object.get_property_list()\n\tfor property in properties:\n\t\tvar property_name : StringName = property[&\"name\"]\n\t\tif (property_name != &\"RefCounted\" && property_name != &\"Built-in script\"):\n\t\t\tdestination_object[property_name] = source_object[property_name]\n\treturn destination_object\n````"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-03-06T03:49:05Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11922,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `duplicate()` to the base Object class",
+  "up": 6,
+  "updatedAt": "2025-03-06T20:42:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11922"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about existing core functionality",
+    "format": "legacy",
+    "workaround": "Would be used a lot because duplication of nodes is a very common thing in Godot."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 53,
+  "createdAt": "2019-12-18T11:51:44Z",
+  "down": 1,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 317,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Duplicating a node should result in either a true Instance or true unique copy, not a mix of both",
+  "up": 115,
+  "updatedAt": "2026-11-10T03:07:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/317"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-04-16T22:24:49Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 12261,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "[Core + GDExtension] Pointer template type support for the TypedArray type",
+  "up": 1,
+  "updatedAt": "2025-04-21T22:16:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12261"
+}

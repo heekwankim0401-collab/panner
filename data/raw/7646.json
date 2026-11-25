@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This helps a lot of use cases that aren't possible with regular Godot Physics 2D solution.",
+    "format": "form",
+    "workaround": "No. Except for adding a new node that does the above mentioned functionality, but then users won't be able to use it as a drop in solution."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-26T11:49:21Z",
+  "comments": 1,
+  "createdAt": "2023-09-12T22:13:51Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": "4.2",
+  "number": 7646,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Extend the Pin Joint to have angle limits and motor",
+  "up": 5,
+  "updatedAt": "2023-09-26T11:49:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7646"
+}

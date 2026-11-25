@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-02T09:17:51Z",
+  "comments": 12,
+  "createdAt": "2023-09-23T19:22:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 7827,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Disable the blend file import setting support by default, to prevent the startup warning",
+  "up": 17,
+  "updatedAt": "2024-08-02T14:27:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7827"
+}

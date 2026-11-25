@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core GDScript feature, so it cannot be implemented externally.",
+    "format": "legacy",
+    "workaround": "One workaround is to live with a dynamically typed loop variable, at the cost of losing autocompletion and type checking in the editor.\n\nThe other workaround is to use a helper variable and cast it explicitly:\n\n    for temp_name in names:\n        var name := temp_name as String\n        ..."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-21T17:29:43Z",
+  "comments": 21,
+  "createdAt": "2020-03-25T16:45:25Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.2",
+  "number": 632,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add static typing for loop variables in `for` loops",
+  "up": 137,
+  "updatedAt": "2023-08-21T17:29:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/632"
+}

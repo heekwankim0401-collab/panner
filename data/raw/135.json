@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because Godot's nature is already based on plug'n'play principles that I am striving towards. Plus, I don't want developers to handicap themselves by using our API just to load their assets. I already implemented this in Unity and I already implemented this in UE4, and It works as expected.",
+    "format": "legacy",
+    "workaround": "This needs to be done externally, so developers on their end won't have to write initialization code to hook up their own asset library."
+  },
+  "assignees": 0,
+  "closedAt": "2019-10-09T07:24:14Z",
+  "comments": 3,
+  "createdAt": "2019-10-09T06:59:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 135,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Addition of a project path declaration to Godot's exported executable",
+  "up": 0,
+  "updatedAt": "2020-04-29T22:39:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/135"
+}

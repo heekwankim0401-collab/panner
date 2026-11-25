@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think it can be an add-on.",
+    "format": "form",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-29T10:49:40Z",
+  "comments": 2,
+  "createdAt": "2023-07-29T08:48:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7406,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Var name `_` is forbidden but `__` is not",
+  "up": 0,
+  "updatedAt": "2023-07-29T10:49:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7406"
+}

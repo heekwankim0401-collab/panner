@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-05-08T19:52:29Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 14805,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Warn user when AnimatableBody position change is rejected",
+  "up": 3,
+  "updatedAt": "2026-05-12T01:24:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14805"
+}

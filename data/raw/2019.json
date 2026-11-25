@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If it's a missing feature I'm not sure how it could be added with an add-on.",
+    "format": "markdown",
+    "workaround": "Well, track_set_key_transition() exists. Though I don't know if it works with transform keys, it would be tedious to manually edit every key for every animation with code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-12-24T23:18:52Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "3.x",
+  "number": 2019,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an easing property to 3D transform animation keyframes",
+  "up": 0,
+  "updatedAt": "2021-11-04T10:59:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2019"
+}

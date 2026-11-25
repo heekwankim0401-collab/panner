@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Like I said above, it is 100% possible to make a GDNative/GDExtension that adds this class (I've already done it!).\n\nHowever, this additional class would be very small and very simple, not adding very many bytes to the engine. And it's a shame that GDNative/GDExtension is necessary just to facilitate doing something from GDScript.",
+    "format": "form",
+    "workaround": "It's not possible to implement a new backend for the High-Level Multiplayer API purely from GDScript, it requires GDNative/GDExtension or a custom module."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-23T23:25:30Z",
+  "comments": 6,
+  "createdAt": "2022-07-14T14:32:59Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": "4.0",
+  "number": 4873,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"MultiplayerPeerCustom\" to allow creating High-Level Multiplayer API backends in GDScript",
+  "up": 1,
+  "updatedAt": "2022-07-23T23:25:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4873"
+}

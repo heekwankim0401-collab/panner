@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it would be a pretty simple addition, but it would be used to have finer control over the order of control nodes, in a way that seems in line with the design philosophy of godot.",
+    "format": "form",
+    "workaround": "not currently, using call deferred, simply causes the reparent  to not work correctly, and awaiting a frame, causes a worse jitter effect"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-12-16T14:38:58Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11364,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expand `Node.reparent()` to allow for a node to be reparented at a specific child index",
+  "up": 2,
+  "updatedAt": "2025-02-14T22:26:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11364"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm unsure whether this is revealed to the GDExtension layer, but if it is or isn't, I believe it should still be added since its literally just one line of code and its already written.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-24T21:39:34Z",
+  "comments": 3,
+  "createdAt": "2023-09-21T17:42:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.2",
+  "number": 7789,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implementation of EditorInspector.get_edited_object",
+  "up": 0,
+  "updatedAt": "2023-09-24T21:41:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7789"
+}

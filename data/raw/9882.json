@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No, if this were to be an addon I think it would be completely fine",
+    "format": "form",
+    "workaround": "No, I have been tinkering around a lot around this issue and I have not found any way to go around this.\n\nI found [this](https://stackoverflow.com/questions/61741489/godot-tiles-in-tilemap-sorting-wrong) while searching the internet, but it makes the tile map invert its y-sorting too, so it does not solve the problem."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-10T14:19:30Z",
+  "comments": 8,
+  "createdAt": "2024-06-03T15:47:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d"
+  ],
+  "milestone": "4.3",
+  "number": 9882,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Create an option for TileMapLayer to chose the horizontal alignment",
+  "up": 0,
+  "updatedAt": "2024-06-10T14:19:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9882"
+}

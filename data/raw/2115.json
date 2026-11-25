@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Big fan of write-once, run anywhere. Assuming Godot already does this, I don't see any reason to write it again. An add-on could also become visually out of sync with each new version of the engine.",
+    "format": "markdown",
+    "workaround": "Yes, I can try and mimic Godot's lights. If this proposal is not accepted, a workaround could be to provide a more accurate design with the light pass documentation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-01-14T03:38:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2115,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to skip a specific light in the 3D shader `light()` pass",
+  "up": 0,
+  "updatedAt": "2021-08-14T02:11:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2115"
+}

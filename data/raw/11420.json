@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This will improve code debugging and is a useful resource that  another engines have in your core (just like unity engine), furthermore, there is no plugin on asset store that do it.",
+    "format": "form",
+    "workaround": "While unit tests can be written using scripts manually, writing a custom testing framework would require extra setup and time, and would not be as convenient as having a native solution in Godot. Perhaps a plugin would solve this, but native support would be better. Having built-in support allows for simplified testing and better integration with the editor, making it much more accessible to all developers, not just advanced users."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-12-25T20:07:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:tests"
+  ],
+  "milestone": null,
+  "number": 11420,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for running unit tests directly in the editor",
+  "up": 1,
+  "updatedAt": "2025-01-04T13:10:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11420"
+}

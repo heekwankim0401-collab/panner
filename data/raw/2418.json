@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "—",
+    "format": "markdown",
+    "workaround": "—"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-07T10:31:52Z",
+  "comments": 1,
+  "createdAt": "2021-03-07T08:20:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:codestyle",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2418,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `get_ok()` and `get_cancel()` to  `get_ok_button()` and `get_cancel_button()`",
+  "up": 0,
+  "updatedAt": "2021-03-07T10:32:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2418"
+}

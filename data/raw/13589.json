@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "x-height of a font appears to be a fundamental structural property, it's in all the images of how fonts work, and it makes sense that it is exposed along with the other font properties.\n\nit requires access to the freetype and harfbuzz api's to fetch.",
+    "format": "form",
+    "workaround": "For the x-height of the font itself (if set), I dont think it would be possible. But calculating the x height might be using the glyph functions, and estimating will always work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-11-07T06:29:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13589,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add font_get_x_height to TextServer",
+  "up": 0,
+  "updatedAt": "2025-11-07T10:00:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13589"
+}

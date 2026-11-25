@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core problem.\nAlso somewhat related to #7364.",
+    "format": "form",
+    "workaround": "There is not really a good workaround for this problem.\nAs mentioned earlier, calling `.assign` to reassign the returned array to the properly typed array is one workaround.\nAdditionally, this requires awareness of this problem. It is easy to miss causing an annoying error during runtime.\n\nAnother workaround involves instantiating the given type everytime the function is called to get the name using `get_class()`, but this is rather inefficient.\n\nOne could also pass another parameter to the function containing the class name as string, but this will be duplicate writing effort."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-02-23T16:06:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9160,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose class name in GDScriptNativeClass",
+  "up": 12,
+  "updatedAt": "2025-12-27T21:07:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9160"
+}

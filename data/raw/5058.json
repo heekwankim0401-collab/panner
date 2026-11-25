@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Editor feature.",
+    "format": "form",
+    "workaround": "I think it will be used often. \nI know that I can use the Function Jumplist, which is sorted in my case. So that does NOT help either because it does NOT reflect the order in my source."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-08-02T18:37:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5058,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Editor: Script Text Editor support for shortcut for jump to prev/next function",
+  "up": 0,
+  "updatedAt": "2022-08-02T21:48:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5058"
+}

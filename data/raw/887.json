@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Viewport ui for gizmos is deeply integrated with the editor.",
+    "format": "legacy",
+    "workaround": "Editor ui cannot be easily changed in script."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-08T15:04:07Z",
+  "comments": 3,
+  "createdAt": "2019-07-12T15:34:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 887,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Modify the skeleton bone pose by handles in the 3D editor",
+  "up": 5,
+  "updatedAt": "2020-10-08T15:04:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/887"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a core feature.",
+    "format": "form",
+    "workaround": "It is a core feature."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-09T18:22:13Z",
+  "comments": 2,
+  "createdAt": "2022-11-09T18:07:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5754,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Stop Editor from using GPU when 3d viewport is not visible ( like editing scripts)",
+  "up": 1,
+  "updatedAt": "2022-11-09T18:31:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5754"
+}

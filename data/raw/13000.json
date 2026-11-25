@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The raycast is already done, we just need to expose the raycast length.",
+    "format": "form",
+    "workaround": "A workaround would be to store the wheel position local from the vehicle."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-14T20:51:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13000,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose spring/suspension current length from VehicleWheel3D",
+  "up": 0,
+  "updatedAt": "2025-08-14T22:21:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13000"
+}

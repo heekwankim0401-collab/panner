@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "CSG is very common for prototyping, and is useful for approximate collision shapes of meshes. This should be a core functionality to the physics engine which can be hard to modify in this way, and keep efficiency without custom builds.",
+    "format": "markdown",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-23T13:23:59Z",
+  "comments": 4,
+  "createdAt": "2021-01-07T11:37:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2083,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make CSG nodes able to generate collision using CSG primitives rather than a triangle mesh",
+  "up": 5,
+  "updatedAt": "2021-05-23T13:24:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2083"
+}

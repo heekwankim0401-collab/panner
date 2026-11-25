@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The various variant types are even more low-level than what GDExtensions could possibly access. Therefore, this must be a core proposal and not an asset library proposal.",
+    "format": "form",
+    "workaround": "[TL;DR: no]\n\n* One could cache the extension language counterparts to partially mitigate the redundancy issue, but that explicitly deals with one of the `10` hard things in Computer Science.\n* Extension classes can define an internal property that stashes the extension counterpart’s `userdata` such as an ID.\n  Howëver, this customization is not available to builtin classes and other extensions’ classes, let alone non-`Object` variants. (Unless you tell me that I can open them up willy-nilly this whole time.)\n  * The same strategy applies to `ScriptExtension`s as well and they can even enhance arbitrary `Object`s.\n    But what if said objects already has scripts? Multi-script `Object`s aren’t a thing for the forseeable future, and so aren’t non-`Object` variants with scripts.\n\nAn API universal to all variants also benefits extension classes and `ScriptExtension`s by ~~*extension*~~ inheritance."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-09-28T06:17:15Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 7898,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDExtension Custom Bindings (i.e., `userdata`) for Other Variant Types (in addition to `Object`)",
+  "up": 0,
+  "updatedAt": "2023-10-02T21:21:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7898"
+}

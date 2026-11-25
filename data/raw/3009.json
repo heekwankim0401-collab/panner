@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because I can't find any methods in GraphEdit or GraphNode that lets me drag a port without clicking on it.",
+    "format": "form",
+    "workaround": "I can think of a few:\n1. Adjusting the port offset as well as setting the port texture as a large transparent block. However, I will need to get the texture height right or there will be an awkward situation where by mousing over the edge where the texture doesn't overlap with the area of the GraphNode, the hover effect could appear, but clicking won't work. I would also have to re-adjust the texture's height should more than one line be used.\n2. Restarting the main screen FSM from scratch where instead of using GraphEdit and GraphNode, I use a combination of PanelContainer, LineEdit and Line2D. Please don't make me restart from scratch.\n3. I could also call `draw_line(...)` from GraphEdit when I click and drag from the area I want. However, to match line's style with the connecting line produced from GraphEdit, I have to code it all over from scratch, as GraphEdit's `_draw_cos_line(...)` is not exposed to gdscript."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-15T19:23:08Z",
+  "comments": 6,
+  "createdAt": "2021-07-18T10:53:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3009,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Accessing Port from GraphNode",
+  "up": 0,
+  "updatedAt": "2021-12-15T19:24:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3009"
+}

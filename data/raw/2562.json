@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think being able to handle conversion failure is a basic requirement.",
+    "format": "markdown",
+    "workaround": "This can be worked around by parsing the string manually, but not just a few lines."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-02T03:11:43Z",
+  "comments": 1,
+  "createdAt": "2021-04-07T09:58:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2562,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make string to int/float conversion failure detectable",
+  "up": 2,
+  "updatedAt": "2024-01-02T03:12:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2562"
+}

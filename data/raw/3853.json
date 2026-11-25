@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Doesn't make sense a other way of core.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-01-24T17:43:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3853,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Print the handles gizmos position in Output panel when double-clicking a point",
+  "up": 3,
+  "updatedAt": "2022-03-10T15:43:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3853"
+}

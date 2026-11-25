@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's already core; simply an enhancement.",
+    "format": "form",
+    "workaround": "Sure, you can enter the information in yourself, but it is error prone. I've submitted bugs with 3.2.3 instead of 3.3.2 because of manual entry.\n\nThis would also allow the devs to get more specific information - when someone doesn't fill out system information with a GPU, does it mean they are using integrated graphics, or do the simply not know? This would fix that."
+  },
+  "assignees": 0,
+  "closedAt": "2022-06-23T21:07:23Z",
+  "comments": 6,
+  "createdAt": "2021-07-30T23:38:10Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3063,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make the \"Report a Bug\" menu option autofill the issue template with Godot version and system information",
+  "up": 12,
+  "updatedAt": "2022-06-23T21:14:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3063"
+}

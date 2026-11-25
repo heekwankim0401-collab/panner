@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It needs to expose internal engine mechanisms.",
+    "format": "form",
+    "workaround": "As mentioned before, the end user can shoulder the logic of caching and updating any necessary value to be fetched from a theme, but there's no way for them to create theme overrides. In this way, custom controls are inferior to native ones."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-04-15T14:55:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12250,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `@themed` annotation to register script properties with ThemeDB",
+  "up": 19,
+  "updatedAt": "2025-04-16T14:54:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12250"
+}

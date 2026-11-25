@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "common sense.",
+    "format": "form",
+    "workaround": "no!"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-03T21:24:19Z",
+  "comments": 3,
+  "createdAt": "2023-07-03T18:52:03Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7196,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Mutex try_lock() makes no sense whatsoever.",
+  "up": 0,
+  "updatedAt": "2023-07-03T21:34:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7196"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This can only be implemented in the rendering engine",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-11-30T13:51:50Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 8549,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose CanvasLayer.layer to CanvasItem shaders",
+  "up": 4,
+  "updatedAt": "2024-06-08T23:36:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8549"
+}

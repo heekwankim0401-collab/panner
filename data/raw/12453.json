@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Will improve the GridMap node functionality out of the box.",
+    "format": "form",
+    "workaround": "It is a built in editor change, but maybe I can extend the GridMap Node in an addon with this functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-05-18T08:49:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 12453,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show GridMap cell's MAP and LOCAL position in the editor's 3D view.",
+  "up": 1,
+  "updatedAt": "2025-06-29T17:18:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12453"
+}

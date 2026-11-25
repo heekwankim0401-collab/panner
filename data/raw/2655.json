@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it enhances the overall editor user experience.",
+    "format": "markdown",
+    "workaround": "I don't think that this is possible because you can't override the GradientTexture's `_update` function because it is private."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-25T06:03:35Z",
+  "comments": 1,
+  "createdAt": "2021-04-26T21:53:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2655,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GradientTexture: Add a option to generate HDR (raw) 32-Bit colors",
+  "up": 3,
+  "updatedAt": "2021-08-25T06:03:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2655"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the built-in performance measurement tools, which gives developers more ways to optimize their projects.",
+    "format": "form",
+    "workaround": "For godot-benchmarks' use cases, the workaround I use is:\n\n```gdscript\nresults.idle = maxf(results.idle, Performance.get_monitor(Performance.TIME_PROCESS) * 1000)\nresults.physics = maxf(results.physics, Performance.get_monitor(Performance.TIME_PHYSICS_PROCESS) * 1000)\n```\n\nThis is much less accurate though, as it will only keep the \"worst\" measurement reported during the benchmark's runtime. Each benchmark runs for 5 seconds, and the previous/next benchmarks may \"bleed\" over the measurement, causing it to be even less accurate."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-05-04T10:33:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6809,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to accurately return the time spent in `_process()` or `_physics_process()` for the last frame",
+  "up": 3,
+  "updatedAt": "2025-12-19T18:56:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6809"
+}

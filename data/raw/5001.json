@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The signal connect thingy is defined in the core iirc.....",
+    "format": "form",
+    "workaround": "The work around is as simple as `_on_hsplit_dragged(offset): grid.update()` but this is extremely inconvinient. when i could have done the same with a signal with no arguments."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-28T20:04:35Z",
+  "comments": 5,
+  "createdAt": "2022-07-28T14:44:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5001,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow signals to be called without a argument",
+  "up": 0,
+  "updatedAt": "2022-09-05T15:49:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5001"
+}

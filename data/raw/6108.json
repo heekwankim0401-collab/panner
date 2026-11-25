@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think this is easily done from an add-on, it would become an integral part of any game for it to work through an autoloaded script which isn't desirable.",
+    "format": "form",
+    "workaround": "It will be used all the time"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-16T21:37:23Z",
+  "comments": 2,
+  "createdAt": "2023-01-16T21:35:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6108,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make it possible to run a game without sound",
+  "up": 0,
+  "updatedAt": "2023-01-16T22:03:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6108"
+}

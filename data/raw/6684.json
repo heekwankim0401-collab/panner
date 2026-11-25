@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "We all would benefit of that since almost everybody returns variables from their projects",
+    "format": "form",
+    "workaround": "The dictionary used above, altough it is really hard to read since it take a lot of lines"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-04-12T17:54:04Z",
+  "down": 16,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6684,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for returning multiple values from a function",
+  "up": 28,
+  "updatedAt": "2025-03-10T16:35:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6684"
+}

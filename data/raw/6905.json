@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It makes no sense to use an add-on to add one function to a built-in class.",
+    "format": "form",
+    "workaround": "I did not find a simple workaround, since there is also no way to get the line count with autowrap. If that were possible, the dimensions could be estimated by multiplying the line count with the font size."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-17T20:43:06Z",
+  "comments": 3,
+  "createdAt": "2023-05-17T20:13:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6905,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add the ability to get the dimensions of a Label3D",
+  "up": 0,
+  "updatedAt": "2023-05-17T20:56:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6905"
+}

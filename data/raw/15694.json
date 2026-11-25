@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2026-10-24T11:27:51Z",
+  "down": 1,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 15694,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a shot-based Sequencer (shot lane, camera cuts, nested sequences) for authoring cutscenes and trailers",
+  "up": 5,
+  "updatedAt": "2026-10-25T17:08:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15694"
+}

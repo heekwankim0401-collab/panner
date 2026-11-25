@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think that a lot of godot users will really use this feature, especially if you're having a lot of animations in you're game.",
+    "format": "form",
+    "workaround": "There is a workaround that you can set the `Active` property of the AnimationMixer Node inside a script, however this will interfere with your logic if you're already modifying this property at run-time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2024-02-11T17:08:31Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9072,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to stop the AnimationTree playback inside the editor",
+  "up": 5,
+  "updatedAt": "2025-03-19T01:04:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9072"
+}

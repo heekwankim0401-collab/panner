@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It requiere changes on core (Script class) and GdScript module",
+    "format": "legacy",
+    "workaround": "The workaround is make the entire script a tool script and add barriers in functions you don´t want to use, or implement only the editor functions in a separate script and then inherit that script with a no tool script. This is not possible if you already need to extend a different script (as multiple inheritance is forbidden (and for good reasons)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-04-18T22:42:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 729,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `tool` keyword for functions",
+  "up": 45,
+  "updatedAt": "2021-03-14T15:33:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/729"
+}

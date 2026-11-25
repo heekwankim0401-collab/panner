@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is indeed a fundemental feature in most of 3d tools.",
+    "format": "form",
+    "workaround": "I haven't tried that out yet"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-05-13T02:03:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9733,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Extrude and Intrude (repeat selection) functionality to GridMap editor",
+  "up": 3,
+  "updatedAt": "2024-05-13T19:53:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9733"
+}

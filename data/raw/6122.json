@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I guess this could be an add-on but I don't believe it would be optimal or potentially as performant, in order to have full integration into the engine.",
+    "format": "form",
+    "workaround": "I believe this needs to be worked into the core animation systems. I think some of the bigger blockers are the lack the newer Godot 4 IK system and potentially other animation changes in the works for Godot 4 or 4.*"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 40,
+  "createdAt": "2023-01-18T20:20:55Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6122,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement Motion Matching",
+  "up": 33,
+  "updatedAt": "2024-11-08T10:41:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6122"
+}

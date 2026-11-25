@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is a major lack of proper Godot community find help areas and this system could be majorly improved with trying to get major game type examples for everyday people to learn from.\n\nVery few people want to work on the engine but the vast majority of devs want to make games with the engine. If the engine can have working examples and templates to use and make games from, Godot would be in a much better place. I hope to grow the creative community by asking around and giving great examples of how to make massive multiplayer games. Also the same examples can work well for small scale games. The creative community needs proper developer tools to make big games. Examples and game templates go a long way to help the creative community developers with working game building resources that are open source and forever free.\n\nAnyway back to the question of: How can entities and storage system like chests stored in chunk data like minecraft? Bonus for account linked storage like M.M.O. player inventory and banks / minecraft player account inventory with shulker boxes.",
+    "format": "form",
+    "workaround": "There needs high level multiplayer work it requires skill."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-23T15:51:54Z",
+  "comments": 0,
+  "createdAt": "2024-02-23T05:04:01Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 9156,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Multiplayer Entities And Player Storage Systems",
+  "up": 0,
+  "updatedAt": "2024-02-23T15:51:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9156"
+}

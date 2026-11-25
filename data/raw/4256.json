@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Addons can't change how files are imported.",
+    "format": "form",
+    "workaround": "I don't really think this can be worked around as it relies on import."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-14T20:17:48Z",
+  "comments": 5,
+  "createdAt": "2022-03-22T07:19:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4256,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add option to import simple glTF, FBX and Collada files as Mesh",
+  "up": 3,
+  "updatedAt": "2025-04-04T14:38:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4256"
+}

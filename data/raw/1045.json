@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes. This is available in many programming languages, for example, JavaScript, Python.",
+    "format": "legacy",
+    "workaround": "No, you cannot add your own operators to GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-11T14:58:33Z",
+  "comments": 17,
+  "createdAt": "2020-06-12T11:57:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 1045,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add exponentiation operator (`**`) to GDScript",
+  "up": 24,
+  "updatedAt": "2024-04-08T20:38:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1045"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "can't be an addon",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-10T10:55:08Z",
+  "comments": 6,
+  "createdAt": "2022-07-09T07:23:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4840,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Extend `Resource` ownership functionalities to `preload`s in GDScript",
+  "up": 4,
+  "updatedAt": "2022-07-10T10:56:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4840"
+}

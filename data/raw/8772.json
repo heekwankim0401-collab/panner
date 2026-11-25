@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No external workaround.",
+    "format": "form",
+    "workaround": "No external workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2024-01-02T01:16:29Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 8772,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support a GDExtension that intentionally doesn't work with Windows `FreeLibrary`",
+  "up": 1,
+  "updatedAt": "2024-01-16T19:08:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8772"
+}

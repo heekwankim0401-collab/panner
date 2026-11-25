@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Viewports and Cameras are core features of the engine, so i imagine this needs to be core.",
+    "format": "legacy",
+    "workaround": "I don't know how much viewports are used, but i'm sure that this would improve the work of those using them."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-04-28T16:44:12Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 759,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Camera property for Viewport",
+  "up": 1,
+  "updatedAt": "2020-05-07T08:07:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/759"
+}

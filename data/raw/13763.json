@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Cannot be implemented as an add-on.",
+    "format": "form",
+    "workaround": "I've been using `#include` to be able to make new shaders quickly, and I suppose you could dynamically generate shaders in the same way StandardMaterial3D does (especially if you used GDExtension). However, it's cumbersome to do this for each and every new material you need, and it doesn't integrate as nicely as the simple editing that StandardMaterial3D has."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-01T23:42:16Z",
+  "comments": 1,
+  "createdAt": "2025-11-30T19:02:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 13763,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add user-specified `#define`s in ShaderMaterials",
+  "up": 0,
+  "updatedAt": "2025-12-01T23:42:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13763"
+}

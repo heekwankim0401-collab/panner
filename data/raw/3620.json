@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Default Godot settings provide this type of variables already, I think this should be extended to custom settings as part of the core functionality ;)",
+    "format": "form",
+    "workaround": "In GDScript: I don't think so, this is Project Settings level. However, I believe that reusing the code from default Project Settings should not be difficult, as it already works for some default settings (e.g. for \"Main Scene\"). It would just be a matter of enabling that setting type (more precisely: String type with a proper hint) to custom settings."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-12-01T19:25:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3620,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Introduce new type of custom project setting: file path",
+  "up": 0,
+  "updatedAt": "2021-12-02T19:12:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3620"
+}

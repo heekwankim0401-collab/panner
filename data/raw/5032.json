@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving collecting system info for video games, apps and Godot itself (at least giving Godot the potential to copy&paste system data in github issues - which should be approached in a separate proposal).",
+    "format": "form",
+    "workaround": "Cannot be worked around with a few lines. Would require system calls which are OS-specific."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-11T12:15:52Z",
+  "comments": 1,
+  "createdAt": "2022-07-31T09:04:01Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 5032,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `get_video_driver_name()` and `get_video_driver_version()` methods to RenderingServer",
+  "up": 4,
+  "updatedAt": "2022-10-11T12:16:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5032"
+}

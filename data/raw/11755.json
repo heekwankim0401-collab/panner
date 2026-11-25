@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Mostly full ISO 639-3 compliance and to make it so a addon wouldn't be needed for a seamless workflow.\n\nAlso you guys have eo (Esperanto) support, and Toki Pona is pretty popular in that community.",
+    "format": "form",
+    "workaround": "Not implementing Toki Pona \"tok\" will be *okay*, but the user would need to use a incorrect ISO code, eg. ang, or tpi (Toki Pisin), which isn't really that great of a practice."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-02-12T17:35:39Z",
+  "down": 0,
+  "labels": [
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 11755,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ISO 639-3 Code \"tok\" (Toki Pona) to engine for Translation support.",
+  "up": 0,
+  "updatedAt": "2025-02-12T20:16:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11755"
+}

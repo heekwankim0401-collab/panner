@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is basic functionality that is also available in some programming languages.",
+    "format": "legacy",
+    "workaround": "Maybe. But I think anyone who needs these functions will be happy if these functions are already implemented out of the box."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-11-01T14:53:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1756,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `merge_with()` and `intersect_with()` methods to the Array and Dictionary classes",
+  "up": 26,
+  "updatedAt": "2025-04-14T21:30:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1756"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "CSG is core engine functionality.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-04-26T12:09:41Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4448,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Delay CSG mesh updates with a debounce timer to improve editor responsiveness",
+  "up": 5,
+  "updatedAt": "2022-09-09T17:24:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4448"
+}

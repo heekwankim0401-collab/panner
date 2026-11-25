@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-07T10:43:15Z",
+  "comments": 1,
+  "createdAt": "2026-08-29T04:41:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 15454,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose paused script call stacks to editor plugins",
+  "up": 0,
+  "updatedAt": "2026-09-08T08:01:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15454"
+}

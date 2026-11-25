@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving user experience and avoiding mistakes, so it should be implemented as a core feature.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-09-02T23:52:03Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3247,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Warn if an autoloaded script has the same path as a scene file (minus the extension)",
+  "up": 5,
+  "updatedAt": "2021-09-03T00:35:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3247"
+}

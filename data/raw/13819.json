@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It seems just as central of information as other signals being emitted by Godot relating to OpenXR.",
+    "format": "form",
+    "workaround": "I'm not aware of a way to get an existing class to emit a new signal via scripting.  If there is such a way, I am open to learning!"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-12-09T14:27:44Z",
+  "down": 0,
+  "labels": [
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 13819,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Emit signal when OpenXR tracking confidence changes",
+  "up": 2,
+  "updatedAt": "2025-12-19T12:01:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13819"
+}

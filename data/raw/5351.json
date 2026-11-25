@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Godot is now an engine that competes with Unity Unreal and O3DE so it should have strong optimization features many of them should be in core to be more efficient.",
+    "format": "form",
+    "workaround": "Not a few lines"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2022-09-06T05:34:08Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5351,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement octahedral impostors",
+  "up": 10,
+  "updatedAt": "2025-04-07T05:36:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5351"
+}

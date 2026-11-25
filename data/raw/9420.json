@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The affected controls (`Label`, `RichTextLabel`) are part of core.",
+    "format": "form",
+    "workaround": "No workarounds via script that can address all of the issues are known at this time:\n- Adjusting the positioning of the vscrollbar when a RichTextLabel collapses\n- Generic support for a panel to support all fonts without needing per-font margin properties, Themes, and/or Theme Overrides for on MarginContainer."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-03-31T09:41:16Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9420,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add font-specific alignment customizations for Label rendering",
+  "up": 0,
+  "updatedAt": "2024-04-02T15:12:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9420"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There are different platforms that have different sound recorder classes creating a sound recorder node will allow acess to all those platforms at once without having to rewrite the code for different platforms. A plugin wouldnt be able to manage that\n![Sound1](https://user-images.githubusercontent.com/59492619/82636245-12eef180-9bfa-11ea-967f-d672173e8f90.PNG)\n![Sound2](https://user-images.githubusercontent.com/59492619/82636322-3f0a7280-9bfa-11ea-84fc-c0dbeac15006.PNG)",
+    "format": "legacy",
+    "workaround": "A few lines a code wouldn't cut it"
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-23T17:44:00Z",
+  "comments": 21,
+  "createdAt": "2020-05-22T06:03:16Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 870,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for recording and sending VoIP data",
+  "up": 7,
+  "updatedAt": "2023-10-19T08:40:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/870"
+}

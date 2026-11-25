@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There is a section called Export Template Manager in Godot. It would be better to edit this place. It is not right to set it as a plugin and include it in the project. It's not practical. .",
+    "format": "form",
+    "workaround": "I'm not a software developer, I don't know. I don't think it is necessary to write very long code."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-07T00:48:47Z",
+  "comments": 1,
+  "createdAt": "2023-10-07T00:45:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 8013,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "An offer for separate downloads of build files",
+  "up": 1,
+  "updatedAt": "2023-10-07T00:48:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8013"
+}

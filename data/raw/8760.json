@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "this should be core functionality. If it was a plugin it could easily be broken in updates.",
+    "format": "form",
+    "workaround": "I'm not sure how easy it would be to script, however we can already display thumbnails in GridView, so the code should be there I'd imagine."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-27T16:53:44Z",
+  "comments": 5,
+  "createdAt": "2023-12-31T14:37:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 8760,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Display scene resource thumbnails in the FileSystem dock",
+  "up": 16,
+  "updatedAt": "2024-11-29T11:32:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8760"
+}

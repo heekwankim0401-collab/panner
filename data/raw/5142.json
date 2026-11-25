@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a QoL thing so yeah.",
+    "format": "form",
+    "workaround": "Cannot change default values from script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-15T04:29:45Z",
+  "comments": 1,
+  "createdAt": "2022-08-10T21:56:03Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.6",
+  "number": 5142,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Change default glow mode from Softlight to Screen",
+  "up": 11,
+  "updatedAt": "2025-10-15T16:36:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5142"
+}

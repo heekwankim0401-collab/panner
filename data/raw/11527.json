@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form",
+    "workaround": "A `ReferenceRect` with `@tool` script can achieve this, but it's better to see this as a built-in feature for `Camera2D`s so that we have less node usage and thus less memory usage as well."
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-12T15:38:14Z",
+  "comments": 0,
+  "createdAt": "2025-01-09T14:40:54Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 11527,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow changing `limit_*` of `Camera2D` by dragging the rectangle",
+  "up": 4,
+  "updatedAt": "2025-03-12T15:39:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11527"
+}

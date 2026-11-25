@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes it's very much core of a game engine and everyone uses input map when making new project.",
+    "format": "legacy",
+    "workaround": "You can work around it by suffering having all those inputs there for no reason and it works fine but there is no purpose to it."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-19T10:25:59Z",
+  "comments": 17,
+  "createdAt": "2019-12-13T22:17:39Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 303,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to remove default input map",
+  "up": 17,
+  "updatedAt": "2021-02-19T10:26:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/303"
+}

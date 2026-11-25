@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Opening a scene in the editor with external meshes is basically instant. while opening the same scene with internal meshes takes around 10 seconds on my machine. An improvement to editor performance of this scale should not be left to an asset downloaded separately.",
+    "format": "form",
+    "workaround": "I suspect this might be able to be worked around with an import script, though I'm not certain how I would navigate a node tree, save all the meshes into a user-specified folder (I don't think you can pass parameters into these import scripts, potentially an avenue for another proposal?), and then set these meshes to use the external resources instead."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-06T03:03:18Z",
+  "comments": 3,
+  "createdAt": "2022-11-06T01:07:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5730,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make it easier to save all glTF meshes to external files",
+  "up": 0,
+  "updatedAt": "2022-11-06T16:53:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5730"
+}

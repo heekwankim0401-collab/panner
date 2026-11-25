@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Print-debugging is used all over the place. At least a simple logger would help to solve most of the problems mentioned in the original issue (formatting, categories, destination).\n\n**Original issue:** https://github.com/godotengine/godot/issues/27958",
+    "format": "legacy",
+    "workaround": "I'm pretty sure it would be used quite often."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-19T14:32:28Z",
+  "comments": 1,
+  "createdAt": "2020-05-27T11:00:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 919,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add built-in logging capabilities",
+  "up": 17,
+  "updatedAt": "2023-07-19T14:32:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/919"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This requires changes to the rendering pipeline which cannot be done via script or addons.",
+    "format": "legacy",
+    "workaround": "I don't think it will able to be worked around requiring a few lines of code, and still getting the effect of what a DirectionalLight could be able to accomplish with minimal efforts."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-28T19:09:37Z",
+  "comments": 1,
+  "createdAt": "2020-07-08T13:59:48Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 1173,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "2D DirectionalLight Node for Godot",
+  "up": 12,
+  "updatedAt": "2021-03-28T19:10:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1173"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If the AStar2D is really supposed to be a wrapper for the AStar class which uses 2D vectors, it should  fully support all the methods that the AStar class has.",
+    "format": "legacy",
+    "workaround": "If so, please let us all know of a work around."
+  },
+  "assignees": 0,
+  "closedAt": "2020-04-10T19:57:26Z",
+  "comments": 2,
+  "createdAt": "2020-02-05T20:50:41Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.0",
+  "number": 441,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow AStar2D to override _compute_cost & _estimate_cost like AStar",
+  "up": 0,
+  "updatedAt": "2020-04-29T14:26:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/441"
+}

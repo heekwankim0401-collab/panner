@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't be add-on.",
+    "format": "form",
+    "workaround": "No, this is a UX improvement."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-04T12:45:51Z",
+  "comments": 1,
+  "createdAt": "2022-09-23T16:18:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 5480,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "SceneTreeDialog: better navigation for large scene trees",
+  "up": 2,
+  "updatedAt": "2024-04-04T12:45:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5480"
+}

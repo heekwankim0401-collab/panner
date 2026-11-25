@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it is too much work for one person, to make all these filters, it would also give Godot game makers tools to create any art-style, at least for cut-scenes, or slowly moving images, like slow panning, where fps can be lower, so cut-scenes, or even entire games, could have amazing effects, visuals . . . Here's another example, from Photoshop, but the ones from gIMP are nicer, and open source, could be made part of Godot, since the code is public . . <3\n\n![2020-03-02 0102 Oil paint f24](https://user-images.githubusercontent.com/61069740/75639950-5f4a1700-5c33-11ea-82fd-58070a0ef3c0.jpg)",
+    "format": "legacy",
+    "workaround": "For a beginner, it would take a long time to implement one feature . . But, if Godot added this feature, everyone would benefit, and every single frame could look like a work of art, live, at 60 fps <3"
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-15T08:11:21Z",
+  "comments": 6,
+  "createdAt": "2020-03-02T02:11:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 543,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add GIMP image filters to post-processing node (real-time) ",
+  "up": 0,
+  "updatedAt": "2020-07-15T08:12:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/543"
+}

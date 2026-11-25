@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not sure. I think it is a limitation of the  core so it should go into core I guess.",
+    "format": "form",
+    "workaround": "I don't think so. It's an engine limitation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-11-28T13:53:22Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11252,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make GeometryInstance3D accessible for custom Geometry Scenes",
+  "up": 0,
+  "updatedAt": "2024-11-29T13:18:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11252"
+}

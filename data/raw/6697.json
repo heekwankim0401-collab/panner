@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It feels like a regression even though it was a deliberate design decision. I simply think the amount of usage and overhead this change brought where underestimated.",
+    "format": "form",
+    "workaround": "It depends. You can write an inspector addon that brings these fields back. You probably have to create meta fields (fields that only exist in the UI) because I suspect that you can't simply turn these layout properties back on. But again, I consider this a regression."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-04-14T22:05:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6697,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show offset, anchor, and grow direction of control nodes always when using anchor mode",
+  "up": 5,
+  "updatedAt": "2023-04-17T11:09:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6697"
+}

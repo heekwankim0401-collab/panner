@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The change directly affects a core widget.",
+    "format": "form",
+    "workaround": "The whole tabs widget is in C++ and it is not convenient to extract it for customization in a project."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-24T14:50:29Z",
+  "comments": 0,
+  "createdAt": "2023-03-09T03:09:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.1",
+  "number": 6462,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement hovered tab styles in TabBar and TabContainer",
+  "up": 10,
+  "updatedAt": "2023-04-24T14:50:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6462"
+}

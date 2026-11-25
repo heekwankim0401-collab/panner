@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about the issue template in the main repo.",
+    "format": "form",
+    "workaround": "No. It's about the issue template in the main repo."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-04T13:40:20Z",
+  "comments": 20,
+  "createdAt": "2025-12-02T15:41:17Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "meta"
+  ],
+  "milestone": null,
+  "number": 13774,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make error text optional when submitting an issue if clear reproducible steps are provided",
+  "up": 0,
+  "updatedAt": "2025-12-04T14:02:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13774"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is already internally implemented inside TileSetAtlasSource as `tiles_ids` which can be returned.",
+    "format": "form",
+    "workaround": "It is possible to use get_atlas_grid_size in a loop, but then you would have to check if the coordinates form a bigger tile or if they are standalone tiles which could be perfomance heavy."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-18T14:28:49Z",
+  "comments": 3,
+  "createdAt": "2023-09-28T14:23:47Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7902,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Simplify getting all tile atlas coordinates in a TileSetAtlasSource",
+  "up": 4,
+  "updatedAt": "2023-10-25T14:40:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7902"
+}

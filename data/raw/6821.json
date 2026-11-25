@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the performance troubleshooting and optimization experience for players and developers alike.",
+    "format": "form",
+    "workaround": "The approach described here can be implemented by a script on Linux. However, native APIs must be used on other platforms. Also, such a script will be fairly complex in nature, especially since it would need to integrate GDExtension to interact with native APIs."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-06T23:42:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 6821,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to query CPU hardware properties (core topology, utilization, temperatures, core clocks)",
+  "up": 11,
+  "updatedAt": "2023-06-26T10:48:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6821"
+}

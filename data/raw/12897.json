@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe the behavior of other programs makes more intuitive sense, and it should be how Godot behaves by default.",
+    "format": "form",
+    "workaround": "Probably not in a few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2025-07-30T02:00:16Z",
+  "down": 1,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12897,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Don't display floating dock windows as a separate window in the taskbar",
+  "up": 2,
+  "updatedAt": "2026-03-28T15:08:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12897"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's as core as it can be.",
+    "format": "markdown",
+    "workaround": "No, it needs changes in physics server."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-03T00:04:53Z",
+  "comments": 3,
+  "createdAt": "2021-03-05T16:07:24Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 2407,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an easy way to get the self colliding area in area monitor callback",
+  "up": 3,
+  "updatedAt": "2021-11-03T00:04:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2407"
+}

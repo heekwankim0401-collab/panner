@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This technically _could_ be an addon. However it would be best, in my opinion, to be part of the engine, since\na) open world games are becoming increasingly popular\nb) ideally this world partitioning system would be used in other facets of the engine, since as the networking subsystem to support area of interest.\n\nImplementation aside, this is such a fundamental feature for certain genres now adays, having something built in is expected by many users.",
+    "format": "form",
+    "workaround": "A few lines of script, no. Though it could be an addon, technically, since everything will be happening in new Nodes and Resources. However if it were an addon, it would be best to be a GDExtension for performance reasons."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 47,
+  "createdAt": "2025-02-09T02:21:33Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 11728,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a World Partitioning system",
+  "up": 14,
+  "updatedAt": "2026-01-21T16:56:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11728"
+}

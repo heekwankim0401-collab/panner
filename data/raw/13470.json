@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "The script editor and its functionality is core.",
+    "format": "form",
+    "workaround": "This WILL be used a lot since this is a QOL improvement seen in most IDEs and web browsers so the users will expect the script editor to have this intuitive functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-26T14:34:34Z",
+  "comments": 4,
+  "createdAt": "2025-10-25T23:09:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 13470,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for vertical/horizontal scrolling using an input in the script editor.",
+  "up": 0,
+  "updatedAt": "2025-10-26T19:28:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13470"
+}

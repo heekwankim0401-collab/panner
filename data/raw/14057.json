@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe such enhancement should be available without any plugin, but I understand that adding a new GIMode is a difficult decision.",
+    "format": "form",
+    "workaround": "I think the only way to work around this enhancement is to make a plugin that defines a new lightmapper class. But this means defining a new render algorithm for a feature that should not require one."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-01-24T11:38:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14057,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable static meshes to participate in lightmap baking but not be mapped on texture",
+  "up": 3,
+  "updatedAt": "2026-02-19T09:45:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14057"
+}

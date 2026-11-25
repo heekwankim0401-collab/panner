@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core GDScript.",
+    "format": "form",
+    "workaround": "Due to the demonstrated type safety limitations with type checking, in order to enforce type safety, developers must manually cast variables a lot of the time. The resulting code is less maintainable and readable, due to being more verbose and specifying types manually; essentially a violation of DRY (don't repeat yourself).\n\n```gdscript\nvar foo = 2\nif foo is int:\n    var foo_int := foo as int\n    print(foo_int + 1)\n```\n\n```gdscript\nvar foo = \"string\"\nvar foo_str := foo as String\nif foo_str != null: # This is awful and assumes nullable types\n    print(foo_str + \" which is a string\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2023-05-24T23:05:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6941,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extend `match` syntax to enable safe type narrowing",
+  "up": 46,
+  "updatedAt": "2025-09-03T23:38:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6941"
+}

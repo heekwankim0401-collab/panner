@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The feature already exists for all other platforms that support accent colors.",
+    "format": "form",
+    "workaround": "Not that I'm aware of."
+  },
+  "assignees": 1,
+  "closedAt": "2025-03-14T10:08:44Z",
+  "comments": 2,
+  "createdAt": "2025-03-13T19:26:11Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:platforms"
+  ],
+  "milestone": "4.5",
+  "number": 11980,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement getting the system accent color on Linux",
+  "up": 2,
+  "updatedAt": "2025-03-14T10:08:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11980"
+}

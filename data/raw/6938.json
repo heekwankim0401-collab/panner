@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't really be done via an add-on. Also the change won't require any new logic, just exposing what's already there.",
+    "format": "form",
+    "workaround": "I don't think there is a way to work around this reliably."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-25T07:26:45Z",
+  "comments": 0,
+  "createdAt": "2023-05-24T02:47:28Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.1",
+  "number": 6938,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose method to set a project setting as basic",
+  "up": 2,
+  "updatedAt": "2023-05-31T21:10:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6938"
+}

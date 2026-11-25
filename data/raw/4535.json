@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "These are core class methods.",
+    "format": "form",
+    "workaround": "Helper methods with expected behavior/naming can be added manually (again, and again for each project) but it won't rename/remove confusing built-in methods."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-06T15:30:11Z",
+  "comments": 5,
+  "createdAt": "2022-05-13T08:53:18Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:2d",
+    "topic:3d"
+  ],
+  "milestone": "4.0",
+  "number": 4535,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "`TileMap`/`GridMap`: Rename `map_to_world()`/`world_to_map()` and add complementing methods for global space",
+  "up": 10,
+  "updatedAt": "2022-09-06T15:30:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4535"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Godot co-ordinate system is inverse to shader language so it would be nice if they could be automatically translated.",
+    "format": "legacy",
+    "workaround": "Yes, but why?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2020-11-24T14:21:07Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 1886,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide inverse Y-axis `FRAGCOORD` constant to shader",
+  "up": 2,
+  "updatedAt": "2021-01-21T02:23:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1886"
+}

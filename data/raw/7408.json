@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can't be done with a script.",
+    "format": "form",
+    "workaround": "Can't be done with a script."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-31T10:11:17Z",
+  "comments": 2,
+  "createdAt": "2023-07-29T18:06:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7408,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make invalid callback in call queue error more verbose",
+  "up": 0,
+  "updatedAt": "2023-07-31T10:11:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7408"
+}

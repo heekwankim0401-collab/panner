@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The lack of `icon_offset` and `font_disabled` makes the ItemList's node feel incomplete.\n\nAnd it's a shame to have such a convenient grid-like item selector, yet lack features: like the wrap-around navigation.",
+    "format": "form",
+    "workaround": "For `icon_offset`, there’s currently no way to do this in a simple manner. You could try getting the position of the item and placing a `Sprite2D` manually in front of it, but at that point, you might as well use a `GridContainer` with `Button` nodes instead... Still, the way `ItemList` handles selected indices is so convenient that it’s hard to give up on it.\n\nFor `font_disabled`, you can do something like this:\n```\nfor k in range(list.item_count):\n\tif not list.is_item_selectable(k):\n\t\tlist.set_item_custom_fg_color(k, Color.WHATEVER)\n```\nBut it's odd that other control nodes support a dedicated `font_disabled`, yet `ItemList` does not.\n\nAs for wrap-around navigation, at worst, you can catch the input manually and handle it yourself, but again, at that point, you might as well use a `GridContainer` with `Button` nodes, just like before."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-07-28T18:14:29Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12886,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add missing features to ItemList from other Control + Other ideas",
+  "up": 1,
+  "updatedAt": "2025-07-28T19:18:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12886"
+}

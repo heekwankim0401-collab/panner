@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Unsure if this would be possible as an add-on at all.",
+    "format": "form",
+    "workaround": "From what I can tell, the two workarounds are flawed:\n- `create_from_images` works, but if the resource is saved as part of another resource or scene, it embeds the images as byte arrays instead of re-using the existing image resources (.png files imported as `Image`).\n- Editing the resource or scene file manually to use `ExtResource` is likely not something the Godot developers intend people to do, and doing so appears to be a temporary solution, as the Texture2DArray resource will just switch to embedding the images instead at some point."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2024-08-30T07:18:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10601,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create Texture2DArray resource in editor with separate images",
+  "up": 6,
+  "updatedAt": "2026-03-09T02:54:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10601"
+}

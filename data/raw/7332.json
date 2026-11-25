@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The defect is in a node that has many descendants, so it cannot be part of the asset library. It creates an inconsistency in the naming conventions of functions and properties in Godot 3.\n\nIf you actually knew what part of the code to edit, I imagine this could be a ten-minute, non-breaking change by just wrapping the relevant functions, exposing the new wrappers in code, and editing the docs to reflect the changes.",
+    "format": "form",
+    "workaround": "It can be worked around if you're familiar enough with Control to know the inconsistency, or if you're a careful/slow enough reader to recognize the U in between all of the other letters. No code is technically required, though diagnosing the issue could take anywhere from a few seconds to a multiple hours.\n\nOf course, if you want to actually FIX the inconsistency in your own Godot 3 codebase, you would have to either edit the engine or reimplement Control and everything that derive from it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2023-07-19T20:14:26Z",
+  "down": 4,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "3.x",
+  "number": 7332,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add US spelling of neighbor as an alias for Control nodes and properties",
+  "up": 2,
+  "updatedAt": "2023-07-20T12:51:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7332"
+}

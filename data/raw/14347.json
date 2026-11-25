@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-02-26T16:33:58Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 14347,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow TilemapLayer2D to flip copied / pasted tiles.",
+  "up": 0,
+  "updatedAt": "2026-02-28T04:20:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14347"
+}

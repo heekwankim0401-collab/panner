@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "People would not think to look for this feature until after having already experienced the issue.",
+    "format": "form",
+    "workaround": "as it is a visual enhancement, not really."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-30T22:52:56Z",
+  "comments": 4,
+  "createdAt": "2022-07-29T13:19:56Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5009,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Raycast2D's debug shape more representative of its `cast_to` position",
+  "up": 0,
+  "updatedAt": "2022-07-30T22:53:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5009"
+}

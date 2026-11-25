@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because we both follow and encourage others to follow the standard conventions, without having to make them think and manually \"correct\" it. :)",
+    "format": "markdown",
+    "workaround": "No. The only way to \"fix\" this is to break coding conventions and use snake_case for Node names as well."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-29T08:05:31Z",
+  "comments": 1,
+  "createdAt": "2021-03-29T05:37:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2521,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Default .gd script naming should follow convention",
+  "up": 0,
+  "updatedAt": "2021-03-29T08:05:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2521"
+}

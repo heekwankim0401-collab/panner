@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Rendering is Core, and Shadows are an Extremely common feature of 3D Games.",
+    "format": "form",
+    "workaround": "One could implement this with the new Rendering Device, but it wouldn't be very efficient."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-18T13:19:30Z",
+  "comments": 14,
+  "createdAt": "2021-08-01T12:05:57Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3073,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement on-demand shadow maps in the Vulkan renderer",
+  "up": 0,
+  "updatedAt": "2022-04-18T15:06:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3073"
+}

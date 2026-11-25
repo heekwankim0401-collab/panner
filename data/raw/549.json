@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "just to introduce new people to the idea of queue freeing without needing to reference the internet, i've been using `.free()` in my project and it would be more simple to add `(false)` to all of them instead of adding `queue_` to all of them.",
+    "format": "legacy",
+    "workaround": "I don't think it would change anything unless `queue_free()` becomes outdated in the community."
+  },
+  "assignees": 0,
+  "closedAt": "2020-03-12T12:50:39Z",
+  "comments": 6,
+  "createdAt": "2020-03-03T22:56:28Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 549,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Just a thought, Free() could have a Force/Queue Bool attached to it.",
+  "up": 0,
+  "updatedAt": "2020-03-15T12:52:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/549"
+}

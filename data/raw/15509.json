@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-09-11T06:22:01Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 15509,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "C# Deterministic RefCounted shared lifetime management with new Lease API",
+  "up": 4,
+  "updatedAt": "2026-11-05T17:07:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15509"
+}

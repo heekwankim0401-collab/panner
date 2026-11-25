@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't be fixed with a plugin or asset.",
+    "format": "legacy",
+    "workaround": "It can be worked around, but not in an architecturally clean way. At least not without traits (though that wouldn't be optimal either since it would only work with GDScript and not other languages)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2020-07-25T18:58:33Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1259,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add SceneTree signals for adding/removing a Node to/from a group",
+  "up": 35,
+  "updatedAt": "2026-11-20T02:16:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1259"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't understand how it can work as an add-on. And as described, this functionality is extremely elemental to all game development. It should not be hidden in some add-on.",
+    "format": "legacy",
+    "workaround": "This feature offers in its basics almost exactly the same features as just defining variables in a script, except of course that you don't need a script."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-26T00:27:14Z",
+  "comments": 8,
+  "createdAt": "2020-04-01T19:45:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 661,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow defining custom node variables without scripts",
+  "up": 0,
+  "updatedAt": "2023-01-26T00:27:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/661"
+}

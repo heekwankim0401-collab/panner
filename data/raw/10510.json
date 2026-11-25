@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is fairly reasonable/expected functionality that fits with patterns elsewhere in Godot / IDEs",
+    "format": "form",
+    "workaround": "Could definitely be an editor plugin"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-20T20:04:57Z",
+  "comments": 1,
+  "createdAt": "2024-08-20T18:30:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10510,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Update references to a Timer node upon renaming that node",
+  "up": 0,
+  "updatedAt": "2024-08-20T20:05:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10510"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, since this is affecting a core feature and I don't think an add-on is able to do that. I also believe that the node suffixes should be consistent, so different styles would just make it even more confusing than it already is.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-07T19:44:45Z",
+  "comments": 2,
+  "createdAt": "2020-06-07T19:42:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1025,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make 2D/3D suffix after node name consistent",
+  "up": 0,
+  "updatedAt": "2020-06-07T20:44:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1025"
+}

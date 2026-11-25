@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This is an Editor enhancement.",
+    "format": "form",
+    "workaround": "This is an Editor enhancement."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-20T01:37:37Z",
+  "comments": 18,
+  "createdAt": "2021-08-18T10:19:23Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 3155,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve collision generation usability in the new 3D scene import workflow",
+  "up": 27,
+  "updatedAt": "2025-10-20T01:38:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3155"
+}

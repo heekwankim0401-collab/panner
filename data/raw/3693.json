@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can technically be an add-on, but the point here is that this functionality must be built-in to achieve the desired goal. Players today generally expect games to have their audio muted on focus loss automatically (at least as an option).\n\nSee any page on the PC Gaming Wiki for an [example](https://www.pcgamingwiki.com/wiki/God_of_War):\n\n![image](https://user-images.githubusercontent.com/180032/224398379-9b8e9f55-8b67-4aca-9dab-17b632726f26.png)",
+    "format": "form",
+    "workaround": "Yes, but this is not trivial when you need to restore all audio buses' previous volumes:\n\n(The code sample below is untested, but it should work in theory.)\n\n```gdscript\nvar previous_bus_volumes = []\n\n\nfunc _notification(what: int) -> void:\n\tmatch what:\n\t\tNOTIFICATION_WM_FOCUS_OUT:\n\t\t\tprevious_bus_volumes = []\n\t\t\tfor bus in AudioServer.bus_count:\n\t\t\t\tprevious_bus_volumes.push_back(bus)\n\t\t\t\tAudioServer.set_bus_volume_db(bus, -INF)\n\t\tNOTIFICATION_WM_FOCUS_IN:\n\t\t\tfor bus in AudioServer.bus_count:\n\t\t\t\tAudioServer.set_bus_volume_db(bus, previous_bus_volumes[bus])\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-12-18T18:37:30Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 3693,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a project setting to mute audio when the project window is unfocused",
+  "up": 12,
+  "updatedAt": "2023-03-10T18:40:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3693"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would be part of the standalone command line tools",
+    "format": "legacy",
+    "workaround": "It can be worked around either:\n- With a shell script that loops every `.gd` script and calls `godot check-only -s` every time\n- By having a separate `.gd` script that is not used by the game, but preloads every other script. You can then use `godot --check-only -s` on that script. If an error is found in one of those preloaded scripts, a parse error is thrown."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-11-02T00:43:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1758,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow passing multiple scripts when running in standalone mode with the `--check-only` option",
+  "up": 1,
+  "updatedAt": "2020-11-02T13:53:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1758"
+}

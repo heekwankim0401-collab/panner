@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its makes ui look nicer and allows for encapsulation which improve workflow.",
+    "format": "legacy",
+    "workaround": "I would assume all three could be worked around with a editor script however its difficult to say since there doesn't seem to be much tutorials on implementing things like this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-03-25T19:25:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 635,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve multi-input properties in editor inspector",
+  "up": 0,
+  "updatedAt": "2023-12-31T19:50:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/635"
+}

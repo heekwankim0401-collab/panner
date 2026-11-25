@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "1. Variadic parameters affect how functions are defined and called. This is a syntax-level capability, like match, yield, or await. You can’t simulate true variadic behavior with an add-on, you can only work around it with clunky wrappers or array-passing conventions.\n\n2. Built-in functions like print() already support variadic arguments. But developers can’t replicate that behavior in their own APIs. This creates an inconsistency between core and user-defined functions.\n\n3. An asset library can’t modify how the parser interprets function signatures. You can’t define func log(...) or intercept native argument handling from an add-on. At best, you can offer a helper like logv([\"a\", \"b\"]), which still requires awkward syntax and breaks intuitive usage.\n\nThis isn’t a niche feature, it could benefit mostly any project that uses multiple arguments of an undetermined amount.",
+    "format": "form",
+    "workaround": "Yes, it can technically be worked around, but the workaround is clunky and undermines the clarity and elegance that variadic parameters offer.\n\nCurrently, developers must either:\n\n    a) Wrap arguments manually in an array: console.log([\"Item:\", key])\n\n    b) Define multiple optional parameters: func log(a, b := \"\", c := \"\", ...)"
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-01T01:02:08Z",
+  "comments": 2,
+  "createdAt": "2025-09-01T01:00:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13108,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support for variadic arguments",
+  "up": 0,
+  "updatedAt": "2025-09-01T16:05:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13108"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It modifies the array API of GDScript.",
+    "format": "form",
+    "workaround": "Yeah, it just adds additional lines code at times. This just feels cleaner to me."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-11-17T14:29:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8455,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Array return values for better function chaining",
+  "up": 4,
+  "updatedAt": "2023-11-17T19:18:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8455"
+}

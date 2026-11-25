@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No, this is relating to the math in `tonemap.glsl` and `post.glsl`.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-17T14:37:55Z",
+  "comments": 4,
+  "createdAt": "2025-09-02T20:11:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13117,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make environment effects consistent between HDR 2D enabled/disabled",
+  "up": 2,
+  "updatedAt": "2025-09-17T14:41:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13117"
+}

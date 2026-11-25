@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "If checking of configuration errors in nodes is core, I think checking for them in resources should also be core.",
+    "format": "form",
+    "workaround": "It would be used quite often, I think and right now one would need some custom inspector plugin for every resource that should participate in this system."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-02-15T17:17:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9098,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a configuration warning system for Resources",
+  "up": 37,
+  "updatedAt": "2026-11-03T22:55:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9098"
+}

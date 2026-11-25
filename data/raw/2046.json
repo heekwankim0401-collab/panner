@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Core: modification of a core function",
+    "format": "markdown",
+    "workaround": "As said above, I'm not sure if this is a common setup for translation files. Neither am I sure whether adding such an argument would cause enough of an optimization, to make it worth the effort."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-13T17:07:48Z",
+  "comments": 6,
+  "createdAt": "2020-12-29T12:57:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2046,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add optional `translation_name` argument to `tr()`",
+  "up": 2,
+  "updatedAt": "2023-11-06T13:32:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2046"
+}

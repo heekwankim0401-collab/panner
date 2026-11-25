@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "recommended for core product",
+    "format": "form",
+    "workaround": "A script that has a button to perform the action would be acceptable."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-08T00:35:21Z",
+  "comments": 9,
+  "createdAt": "2022-09-27T23:49:42Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5503,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a Scene tree dock context menu option to swap an instanced scene with another",
+  "up": 1,
+  "updatedAt": "2022-11-08T00:35:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5503"
+}

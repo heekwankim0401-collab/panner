@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Improving an existing script editor feature.",
+    "format": "form",
+    "workaround": "Existing editor feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2022-08-02T18:56:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5061,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Make fold/unfold line shortcut work anywhere within a foldable section, not just on the line with the folding marker",
+  "up": 3,
+  "updatedAt": "2024-05-06T22:09:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5061"
+}

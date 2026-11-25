@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I may be wrong but this seems to me like something to do at core level, i'm not against an add-on though.",
+    "format": "legacy",
+    "workaround": "I guess we could disable the physics process and/or edit physics layers and masks from code, but doing it for more nodes would be a hassle."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-02-04T14:27:22Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 439,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement support for using different physics update rates at the same time",
+  "up": 7,
+  "updatedAt": "2024-05-12T22:32:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/439"
+}

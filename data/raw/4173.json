@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "i believe this specific change cannot be done using an addon, I may be wrong, however the improvement to workflow and its subsequent effect of making a list of items in the inspector easier to read substantiates its place in core.",
+    "format": "form",
+    "workaround": "it's a core part of the inspector workflow, cannot be done using a script afaik"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-21T13:31:03Z",
+  "comments": 4,
+  "createdAt": "2022-03-07T10:15:06Z",
+  "down": 0,
+  "labels": [
+    "implementer wanted",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 4173,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow inspector dropdown items to have a toggle button",
+  "up": 15,
+  "updatedAt": "2025-04-21T13:33:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4173"
+}

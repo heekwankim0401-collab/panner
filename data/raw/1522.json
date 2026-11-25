@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I have to be honest, with the particular `Reference`-based list implementation, there's no reason for this to be in core implemented like that. The engine does have `List` implemented in C++ for internal engine development throughout the codebase but despite this, it's really not trivial to expose the same data structure to scripting. It would be best if the list is implemented as a core `Variant::LIST` type to begin with, I've raised this proposal for discussion purposes, to share my research on this topic, and to indicate what has to be done in order to facilitate the development for modules and plugins.\n\nI feel like goostengine/goost#12 could already solve a lot of problems, so feel free to suggest what could be done there as well, because it's not only about Godot Engine development, it's about solving more or less common needs as requested by people. 🙂\n\nIn any case, I think there are enough of bullet points to solve in this proposal to make it easier for C++ modules developers to implement such a structure more reliably for everyone.",
+    "format": "markdown",
+    "workaround": "It is perfectly possible to implement such a structure via GDScript, certainly not a few lines of code but possible, see https://github.com/willnationsdev/godot-next/commit/72c0f7f72d097cbb27d313fbebf398d80d28e936 for instance. Yet there are existing issues which prevent implementing such a structure to work reliably via script (not mentioning the above limitations when trying to implement the same data structure in C++):\n- [ ] godotengine/godot#31166.\n- [ ] https://github.com/godotengine/godot/issues/6784#issuecomment-480588033."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2020-09-16T18:58:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1522,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Facilitate implementing core data structure such as linked list via modules or plugins",
+  "up": 18,
+  "updatedAt": "2026-11-11T00:36:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1522"
+}

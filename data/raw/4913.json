@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this needs to be compiled in the engine",
+    "format": "form",
+    "workaround": "It would take someone to extend AnimationNodeStateMachineTransition and use that"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-27T05:02:03Z",
+  "comments": 1,
+  "createdAt": "2022-07-19T03:36:30Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 4913,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add easing options to AnimationNodeStateMachineTransition",
+  "up": 1,
+  "updatedAt": "2022-08-29T03:25:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4913"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "PBR material rendering is core.",
+    "format": "form",
+    "workaround": "It would be used by all 3D applications that require real time PBR rendering."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-01T05:54:58Z",
+  "comments": 4,
+  "createdAt": "2022-07-06T00:25:35Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 4818,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Increase Godot shading consistency with other real time PBR rendering software such as Blender Eevee, Unreal Engine, Unity, etc.",
+  "up": 13,
+  "updatedAt": "2022-08-01T05:54:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4818"
+}

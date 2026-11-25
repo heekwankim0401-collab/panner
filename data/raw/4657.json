@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about changing a default setting, and automatically adjusting values to improve out of the box image quality.",
+    "format": "form",
+    "workaround": "Yes, but it's not exactly obvious how mipmap LOD bias interacts with 3D rendering, especially for people less knowledgeable with 3D rendering."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-26T21:11:26Z",
+  "comments": 1,
+  "createdAt": "2022-06-12T00:20:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 4657,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use a negative mipmap LOD bias automatically if FXAA and/or TAA are enabled to improve sharpness",
+  "up": 1,
+  "updatedAt": "2022-08-26T21:11:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4657"
+}

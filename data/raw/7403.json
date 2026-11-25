@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's a tiny UX thing",
+    "format": "form",
+    "workaround": "it's a tiny UX thing, it's not used often but it's absence feels bad"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-07-28T15:46:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7403,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Clear the FileSystemDock's files selection when clicking in an empty space",
+  "up": 4,
+  "updatedAt": "2023-07-28T21:31:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7403"
+}

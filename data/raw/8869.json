@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "set_bone_rest() and set_bone_global_pose_override() already do this for rest poses and global poses. It makes sense to do the same for the bone pose.",
+    "format": "form",
+    "workaround": "I'm unaware of a way to access and set the local transform of each bone directly, and using set_bone_pose_position(), set_bone_pose_rotation() and set_bone_pose_scale() is a workaround in most cases, I'm unsure if it will work as expected for every possible Transform3D."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-02T14:14:46Z",
+  "comments": 4,
+  "createdAt": "2024-01-12T22:21:55Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": "4.3",
+  "number": 8869,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add set_bone_pose(bone_idx : int, t : Transform3D) to Skeleton3D",
+  "up": 4,
+  "updatedAt": "2025-01-08T15:57:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8869"
+}

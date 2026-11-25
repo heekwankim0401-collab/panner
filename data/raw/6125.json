@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is a node class rename.",
+    "format": "form",
+    "workaround": "No, node classes cannot be renamed from script."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-19T15:18:52Z",
+  "comments": 3,
+  "createdAt": "2023-01-19T15:13:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6125,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Rename Tilemap to Tilemap2D and GridMap to Tilemap3D",
+  "up": 0,
+  "updatedAt": "2023-01-19T15:19:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6125"
+}

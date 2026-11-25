@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, because this change affects the fundamental way Godot delivers feedback in headless and automated workflows. Add-ons cannot intercept parser/compiler errors before execution begins, nor can they prevent the interactive debugger from interrupting automation in such cases. This feature is essential for proper CI/CD support, programmatic coding, server-side workflows, agentic development, and even would help accessibility for users who do not or cannot use the Godot editor.",
+    "format": "form",
+    "workaround": "No. These errors happen at parse/compile time, before any user script or tool can run to intercept or reformat the errors. Manual parsing of current output is unreliable, especially as file and line information are sometimes missing or inconsistently formatted, and the debugger prompt blocks all automation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-08-21T20:58:22Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13048,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a structured error output mode for parser/compiler errors in headless mode (filenames/lines + disable interactive debugger)",
+  "up": 1,
+  "updatedAt": "2025-08-22T02:25:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13048"
+}

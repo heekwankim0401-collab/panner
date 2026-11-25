@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it is core.",
+    "format": "form",
+    "workaround": "Just set a theme for the root control node in every scene. It's easy, just a little inconvenient.\n\nSo this is really just an feature request for a not so useful feature."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-21T21:56:34Z",
+  "comments": 2,
+  "createdAt": "2023-04-21T20:41:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6731,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to load resource pack from project settings.",
+  "up": 0,
+  "updatedAt": "2023-04-21T21:57:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6731"
+}

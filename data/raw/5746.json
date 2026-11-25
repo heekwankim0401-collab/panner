@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a modification to a built-in node and a common game feature",
+    "format": "form",
+    "workaround": "It can be worked around using Remote Transforms, but that solution is not modular nor scalable. You can see how that would get ugly and very messy fast\n![image](https://user-images.githubusercontent.com/38141841/200584623-4d4a200a-94c0-431e-9aba-ef13cd271882.png)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-08T17:03:39Z",
+  "comments": 1,
+  "createdAt": "2022-11-08T14:02:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5746,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow for the Collision Object to get shapes from nested children",
+  "up": 1,
+  "updatedAt": "2022-11-08T17:03:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5746"
+}

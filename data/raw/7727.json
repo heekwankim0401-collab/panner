@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Despite every [other](https://github.com/godotengine/godot-proposals/issues/545) [time](https://github.com/godotengine/godot-proposals/issues/843) [someone](https://github.com/godotengine/godot-proposals/issues/1720) [suggested](https://github.com/godotengine/godot-proposals/issues/2048) [changing](https://github.com/godotengine/godot-proposals/issues/2070) [the](https://github.com/godotengine/godot/issues/8946) [axes,](https://github.com/godotengine/godot/issues/17872) [being](https://github.com/godotengine/godot/issues/31066) [rejected](https://github.com/godotengine/godot/issues/8946#issuecomment-378936529), I believe all of them were misguided in a way we are not. They wished for some strange \"Z\" vertical axis, which is clearly wrong.\n\nWe are proposing here that Y remain the vertical axis, only that it be oriented the natural and correct way, as it always should have been!\nIn fact, this is more of [a](https://github.com/godotengine/godot/pull/47259) [bug](https://github.com/godotengine/godot/issues/48832) [report](https://github.com/godotengine/godot/pull/48859) than a proposal.",
+    "format": "form",
+    "workaround": "Everyone will be on-board, so it will be used by everyone, all the time, as it should. No need for scripting, either!"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-18T13:47:37Z",
+  "comments": 6,
+  "createdAt": "2023-09-18T13:13:12Z",
+  "down": 11,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7727,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make 3D use the CORRECT vertical axis!",
+  "up": 0,
+  "updatedAt": "2023-09-18T13:53:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7727"
+}

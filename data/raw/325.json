@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "> non-pluginable",
+    "format": "legacy",
+    "workaround": "It's a change to GDScript, so non-pluginable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 25,
+  "createdAt": "2019-12-20T17:48:37Z",
+  "down": 2,
+  "labels": [
+    "requires core feedback",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 325,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement `onready` setters",
+  "up": 102,
+  "updatedAt": "2026-06-25T14:13:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/325"
+}

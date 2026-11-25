@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because this needs platform dependent implementation. Wait, actually, it's [in SDL anyway](https://wiki.libsdl.org/SDL3/SDL_PenAxis).",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-11T15:17:46Z",
+  "down": 0,
+  "labels": [
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 12981,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add pen barrel roll axis to InputEventMouseMotion",
+  "up": 0,
+  "updatedAt": "2025-08-12T11:43:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12981"
+}

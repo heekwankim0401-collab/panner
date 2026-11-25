@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about providing security-related functionality, which is important to use in the context of multiplayer games. The engine also already provides several `String.strip_*` and `String.*_escape` methods for formats such as JSON and XML.",
+    "format": "form",
+    "workaround": "Yes, as documented on the [BBCode in RichTextLabel](https://docs.godotengine.org/en/latest/tutorials/ui/bbcode_in_richtextlabel.html) page."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-16T05:09:56Z",
+  "comments": 1,
+  "createdAt": "2023-06-16T05:08:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7095,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add methods to return a string with stripped or escaped BBCode",
+  "up": 2,
+  "updatedAt": "2023-06-16T05:09:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7095"
+}

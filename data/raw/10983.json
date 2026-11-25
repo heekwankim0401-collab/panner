@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, this feature should be integrated into the core of Godot, as it deals with fundamental file access on mobile platforms. Integrating it into the core provides the following advantages:\n\n• Cross-platform Consistency: Ensures that file access works consistently across both Android and iOS, without requiring developers to maintain separate plugins.\n\n• Native Integration: Core-level integration ensures full access to native APIs, streamlining permissions and handling OS-level file access features, which are critical for modern mobile applications.\n\n• Improved Maintenance: As mobile platforms evolve, core integration ensures that file access features can be updated and maintained by the Godot development team, keeping up with platform changes and new APIs.",
+    "format": "form",
+    "workaround": "No, this enhancement cannot be worked around easily with a few lines of script. While it may be possible to create platform-specific plugins, integrating native file access directly into the Godot core is the only reliable solution for a seamless user experience. Platform-specific features like permission handling, file URI management, and OS-specific quirks require a deeper level of integration that would be difficult to achieve efficiently through scripts or addons."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-01T02:13:06Z",
+  "comments": 7,
+  "createdAt": "2024-10-17T02:04:24Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.4",
+  "number": 10983,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for Android native file dialogs",
+  "up": 0,
+  "updatedAt": "2024-11-01T22:37:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10983"
+}

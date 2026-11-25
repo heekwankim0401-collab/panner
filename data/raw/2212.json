@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GraphNode is a really powerful concept but has terrible usability outside the static design of visual scripting.",
+    "format": "markdown",
+    "workaround": "It's not few lines and frankly, I've been contemplating making my own GraphNode but that would set me back in making the app."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-02-01T07:46:51Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2212,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make GraphNode connection slots independent from child nodes",
+  "up": 34,
+  "updatedAt": "2024-03-10T11:11:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2212"
+}

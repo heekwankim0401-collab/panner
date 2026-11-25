@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This could be used in other plugins and even games",
+    "format": "form",
+    "workaround": "My current workrounds:\n\n```gdscript\nstatic func get_singletons()->Dictionary:\n    var singletons: = {}\n    var config: = ConfigFile.new()\n    var err: = config.load(\"project.godot\")\n    if err:\n        push_error(\"Error when loading project.godot\")\n        return singletons\n\n    var autoload: = \"autoload\"\n    if not config.has_section(autoload): return singletons\n\n    for key in config.get_section_keys(autoload):\n        var val:String = config.get_value(autoload, key)\n        val = val.trim_prefix(\"*\")\n        singletons[key] = val\n        \n    return singletons\n```\nthe above one works only if the project isn't changed/dirty\n\n\n```gdscript\nstatic func get_autoload_singletons()->Array:\n    var autoload_prop_start = \"autoload/\"\n    var singletons: = []\n    for i in ProjectSettings.get_property_list():\n        if i.name.begins_with(autoload_prop_start):\n            singletons.push_back(i.name.trim_prefix(autoload_prop_start))\n    return singletons\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-12-20T21:04:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3705,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to get autoload singletons paths",
+  "up": 9,
+  "updatedAt": "2021-12-21T00:07:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3705"
+}

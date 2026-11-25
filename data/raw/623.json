@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Its used fairly often in gml I don't see why it wouldn't be in here.",
+    "format": "legacy",
+    "workaround": "Either tediously or by writing a method in another class when organizationally it might not fit as well there"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2020-03-23T17:47:35Z",
+  "down": 2,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 623,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `with(instance)` with constructor syntax in GDScript",
+  "up": 7,
+  "updatedAt": "2026-02-01T14:41:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/623"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It cannot be implemented as an add-on",
+    "format": "markdown",
+    "workaround": "It's not possible AFAIK"
+  },
+  "assignees": 2,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-02-05T02:29:57Z",
+  "down": 0,
+  "labels": [
+    "platform:web",
+    "topic:editor",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 2245,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve web editor homepage UX for a more (web)native feel",
+  "up": 3,
+  "updatedAt": "2021-02-11T06:52:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2245"
+}

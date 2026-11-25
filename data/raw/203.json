@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Already part of the editor, needs minor enhancement.",
+    "format": "legacy",
+    "workaround": "The actions can be renamed in `project.godot` via external code editor but the way they are stored are not that user-friendly:\n```ini\n[input]\n\njump={\n\"deadzone\": 0.5,\n\"events\": [ Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"alt\":false,\"shift\":false,\"control\":false,\"meta\":false,\"command\":false,\"pressed\":false,\"scancode\":16777221,\"unicode\":0,\"echo\":false,\"script\":null)\n, Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"alt\":false,\"shift\":false,\"control\":false,\"meta\":false,\"command\":false,\"pressed\":false,\"scancode\":32,\"unicode\":0,\"echo\":false,\"script\":null)\n ]\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-19T10:25:59Z",
+  "comments": 3,
+  "createdAt": "2019-11-04T17:46:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 203,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Search and filter input map actions in project settings",
+  "up": 7,
+  "updatedAt": "2021-02-19T10:26:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/203"
+}

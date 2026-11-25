@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-02-18T12:15:09Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 14270,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `tween_assign()` for non-interpolated property assignment in `Tween` animations",
+  "up": 6,
+  "updatedAt": "2026-02-18T18:21:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14270"
+}

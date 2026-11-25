@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Basic UX.",
+    "format": "form",
+    "workaround": "Core feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-10-16T15:07:09Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8150,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Don't switch to 2D view when selecting a control node that is child of a SubViewport",
+  "up": 26,
+  "updatedAt": "2026-01-04T20:28:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8150"
+}

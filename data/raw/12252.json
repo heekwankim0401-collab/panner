@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Currently it's not possible to alter gdscript with plugins or extensions",
+    "format": "form",
+    "workaround": "this is a small change that is not necessary at all but i belive it can make working with classes more convenient."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T13:53:41Z",
+  "comments": 5,
+  "createdAt": "2025-04-15T19:14:56Z",
+  "down": 10,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12252,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `super` prefix to function declarations to call the parent of the function as the first action",
+  "up": 0,
+  "updatedAt": "2026-07-28T13:53:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12252"
+}

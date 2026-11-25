@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "OBJ files in 3D projects in widespread in the the Godot community makes this enhancement beneficial, warranting its inclusion in the core rather than as an add-on.",
+    "format": "form",
+    "workaround": "The general utility of improved OBJ import across various types of projects justifies its implementation at the core level. A script workaround might not capture the depth of integration and performance optimization needed."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-10T11:14:40Z",
+  "comments": 1,
+  "createdAt": "2023-12-06T22:52:56Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.3",
+  "number": 8600,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Transition from ArrayMesh to ImporterMesh in OBJ Importer",
+  "up": 5,
+  "updatedAt": "2024-01-10T11:14:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8600"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "So I wanted to introduce this proposal, as this seems helpful for many other use cases since Godot has the powerful multiselect/multiedit features when selecting nodes of the same type. (See my examples above under \"describe the feature\")",
+    "format": "form",
+    "workaround": "The workaround depending on the scene tree can be brutal. For me, I had about 20 nodes, so it was a time saver of 10-15 seconds. But the code change seems small (I'd love to hear a GD dev's feedback on that area)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-22T21:34:45Z",
+  "comments": 6,
+  "createdAt": "2022-02-19T17:00:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 4040,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to filter nodes by type in the Scene tree dock",
+  "up": 6,
+  "updatedAt": "2022-08-22T21:34:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4040"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This improves the Script and Script Editor and makes faster coding",
+    "format": "form",
+    "workaround": "This can work with inspector signals but is hard to manage\nand needs to add a node in the Editor"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-07T14:11:02Z",
+  "comments": 8,
+  "createdAt": "2023-12-22T07:51:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8714,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add autocompletion for connecting signals in the script editor",
+  "up": 11,
+  "updatedAt": "2025-05-07T22:15:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8714"
+}

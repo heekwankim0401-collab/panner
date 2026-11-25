@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Line2D is in core, and no way to do the things it does in 3D out of the box.",
+    "format": "form",
+    "workaround": "It's a relatively major feature, and far from beginner friendly to code (very intimidating)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 33,
+  "createdAt": "2023-01-23T16:15:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6151,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Line3D node",
+  "up": 100,
+  "updatedAt": "2025-07-23T07:25:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6151"
+}

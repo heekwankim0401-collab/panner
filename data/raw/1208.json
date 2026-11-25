@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it would more clearly define how godot is a oop engine and how every object is a class",
+    "format": "legacy",
+    "workaround": "this would be used everytime you make a class and not since it would be a syntax change"
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-17T07:12:25Z",
+  "comments": 1,
+  "createdAt": "2020-07-17T02:19:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1208,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove class_name in favor of class",
+  "up": 0,
+  "updatedAt": "2020-07-17T07:12:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1208"
+}

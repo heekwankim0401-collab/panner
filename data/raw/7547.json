@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it's a core window",
+    "format": "form",
+    "workaround": "No, it's a core window"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-08-23T16:29:35Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7547,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Animation panel: curve editor: add zoom to fit command and shortcut",
+  "up": 15,
+  "updatedAt": "2024-05-30T11:26:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7547"
+}

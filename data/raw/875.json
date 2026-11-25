@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I know this is a highly speculative proposal.  However I don't think it's possible to rule out that it replaces the whole of the physics engine on day.  \n\nI am writing this down to give a heads-up about this technology to the folks who depend on and are developing the physics engine, because too few people know about it at the moment.",
+    "format": "legacy",
+    "workaround": "An early use-case could be for animation.  I am not an animator, but I am astonished at how labour-intensive it seems with every joint and every keyframe needing to be individually moved.  It's like doing artwork pixel-by-pixel before there were any photoshop tools.  \n\nModelica could be used to quickly generate neat pre-calculated animations of [Rube-Goldberg machines](https://en.wikipedia.org/wiki/Rube_Goldberg_machine) akin to the boardgame [Mousetrap](https://en.wikipedia.org/wiki/Mouse_Trap_(game))."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-12T00:02:41Z",
+  "comments": 6,
+  "createdAt": "2020-05-23T11:04:09Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 875,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Integration with the Modelica physics engine",
+  "up": 0,
+  "updatedAt": "2021-08-12T00:03:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/875"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-12T00:52:45Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 9507,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow explicit setting of subgizmo selection from a gizmo plugin",
+  "up": 1,
+  "updatedAt": "2024-04-22T13:33:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9507"
+}

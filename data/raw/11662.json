@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires use of low level rending function.",
+    "format": "form",
+    "workaround": "I don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-29T19:42:52Z",
+  "comments": 2,
+  "createdAt": "2025-01-29T11:16:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11662,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "RenderingDevice texture copy with scaling, e.g. texture_blit using vkCmdBlitImage",
+  "up": 0,
+  "updatedAt": "2025-01-29T21:46:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11662"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "[_gdscript feature_]",
+    "format": "legacy",
+    "workaround": "There are work-rounds, but they all at least obfuscate the code."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-02T02:22:41Z",
+  "comments": 3,
+  "createdAt": "2020-10-15T21:55:35Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1673,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add _script_init() virtual method in GDScript",
+  "up": 0,
+  "updatedAt": "2024-03-21T12:55:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1673"
+}

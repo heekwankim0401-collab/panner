@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This pertains to the official Godot editor distribution.",
+    "format": "legacy",
+    "workaround": "No, as this pertains to the official Godot editor distribution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 24,
+  "createdAt": "2020-08-30T13:29:10Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 1432,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Distribute Windows installers for the Godot editor (in addition to ZIP archives)",
+  "up": 27,
+  "updatedAt": "2026-07-12T08:28:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1432"
+}

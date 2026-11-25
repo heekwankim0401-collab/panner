@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an issue with core godot",
+    "format": "form",
+    "workaround": "Im not familliar with what editor plugins can do and not, but it would not be the best UX"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-15T14:22:13Z",
+  "comments": 1,
+  "createdAt": "2022-03-15T14:11:11Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 4222,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Get a warning when restarting to set a custom theme to avoid loosing unsaved Scenes",
+  "up": 0,
+  "updatedAt": "2022-03-15T14:22:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4222"
+}

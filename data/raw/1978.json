@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Disabling a node from being active is pretty much basic core functionality.",
+    "format": "markdown",
+    "workaround": "No, everything is a hack and disconnecting the signal is not optimal or sometimes with dynamic objects, not always possible."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-25T23:35:44Z",
+  "comments": 2,
+  "createdAt": "2020-12-12T20:56:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1978,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow visibility notifiers to be disabled",
+  "up": 0,
+  "updatedAt": "2021-12-25T23:35:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1978"
+}

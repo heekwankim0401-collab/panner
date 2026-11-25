@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think this is a common operation. Trying to gauge interest.",
+    "format": "form",
+    "workaround": "Will need to write an importer of svg to a packed scene (3d) which is non trivial to workaround. \n\nThe alternative version to make a svg-to-3d-mesh is non trivial https://github.com/V-Sekai/godot_svg_mesh"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-06T20:20:21Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8010,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create a Sprite3D node when drag-and-dropping a SVG file from the FileSystem dock",
+  "up": 2,
+  "updatedAt": "2023-10-06T20:25:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8010"
+}

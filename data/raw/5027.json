@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Maybe this could be done as an add-on, but the feature could be used often",
+    "format": "form",
+    "workaround": "I don't  think it would be a few lines of script.\nAnd I think the feature would be used often"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-14T17:32:36Z",
+  "comments": 0,
+  "createdAt": "2022-07-31T01:46:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 5027,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show tooltip with resource path when hovering the uid in ScriptEditor",
+  "up": 2,
+  "updatedAt": "2025-01-14T17:32:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5027"
+}

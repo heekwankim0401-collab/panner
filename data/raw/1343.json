@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Knowing when and when not to call deferred in order to circumvent edge cases on the physics engines should be down the engine and not the end user.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2020-08-09T21:11:35Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1343,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "GDScript should remove the need for most `set_deferred()` calls",
+  "up": 0,
+  "updatedAt": "2020-08-10T16:11:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1343"
+}

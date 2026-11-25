@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This could be an asset, however I think there can be situations other than my use case. In general for instance:\n```\nIf option 3 happens, option 2 also happens.\nIf option 2 happens, option 3 doesn't happen.\nAnd option 1 only occurs if option is picked.\n```\nIt's mostly weird to me that seemingly I fallthrough wasn't implemented when `match` was first created, but of course that's just a personal preference. Though apparently the issue has been raised before so there is precedence.\nhttps://www.reddit.com/r/godot/comments/b8gqli/match_fallthrough_with_continue_gdscript_help/\n\nI apologies if this is way too long and verbose, but hopefully this can get added to Godot's core ~~and if not someone plz make an addon I will use it ty!~~",
+    "format": "legacy",
+    "workaround": "Using the current `match` you could do this\n```python\nmatch 4:\n    4:\n        print(\"However this is very long, \")\n        continue\n    3, 4:\n        print(\"and if I need to implement say 20 levels \")\n        continue\n    2, 3, 4:\n        print(\"worth of rewards then the list of matches \")\n        continue\n    1, 2, 3, 4:\n        print(\"gets really long the longer it goes.\")\n```\nHowever this runs into a space problem where if it goes on to say value 100 it takes up a tone of space and it still has to run a check through the list of values.\n\nAnother alternative I thought of would be to start from the lowest level and check climbing up using if statements.\n\n```python\nvar lvl = 4\nif(lvl>=1):\n    print(\"But this runs into a problem where \")\n    if(lvl>=2):\n        print(\"the indentation will keep pushing \")\n        if(lvl>=3):\n            print(\"the code furth off to the right \")\n            if(lvl>=4):\n                print(\"which is inconvenient.\")\n```\nThis helps cut back on the number of checks being done, however still runs into a space problem especially with the amount of indentation.\n```python\nfor i in range(1, level + 1):\n    match x:\n        1:\n            print(\"You're done at level 1!\")\n        2:\n            print(\"No you fool, level 2!\")\n        3:\n            print(\"Level 3, actually!\")\n        4:\n            print(\"No more than level 4!\")\n```\nThis is actually the solution that we're using, however it doesn't solve a case where functionally you would like two of the options to be connected, and one to be independent.\n```python\nvar val = 3\nmatch val:\n    case 3:\n        print(\"hello\")\n        val = 2\n        continue\n    case 2:\n        print(\"howdy\")\n    case 1:\n        print(\"whoa\")\n```\nThis now solves the above problem, but requires the changing of the variable `val`. Alternatively the value could be duplicated to a temp value but that would introduce another variable if `fallthrough` was available this could be simplified to:\n\n```python\nvar val = 3\nmatc"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2019-10-15T07:49:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 160,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add fallthrough for `match` cases",
+  "up": 11,
+  "updatedAt": "2025-06-22T09:42:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/160"
+}

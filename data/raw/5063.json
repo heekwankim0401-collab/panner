@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Cleanup should be core feature, the bigger the project is, the more vital good cleanup support is",
+    "format": "form",
+    "workaround": "Cleanup should be built-in feature, and it will be used often"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-08-02T21:02:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5063,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Cleanup tool to delete unused files of any type",
+  "up": 8,
+  "updatedAt": "2026-06-30T15:18:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5063"
+}

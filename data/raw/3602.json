@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I believe It is a core feature.",
+    "format": "form",
+    "workaround": "I believe this is not just a few lines of work."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-27T11:11:02Z",
+  "comments": 6,
+  "createdAt": "2021-11-26T16:28:23Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 3602,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add TCP protocol for high-level multiplayer API",
+  "up": 0,
+  "updatedAt": "2022-10-27T15:58:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3602"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think you could probably get this done via an editor script/plugin. But since this is intended as a way to guide new users just getting used to the idea of attaching scripts, I think that plugin/script would be useless as nobody who would benefit from it would be able to find it.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-06-20T15:52:15Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1096,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Warn me that some members will be inaccessible when I attach a script that inherits from a parent class of the target node",
+  "up": 20,
+  "updatedAt": "2024-09-16T07:01:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1096"
+}

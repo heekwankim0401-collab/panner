@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It doesn't need to be in the core but it does need changes in the editor. VCS plugins require the user to first select which VCS plugin they need and based on that the editor loads up the correct VCS plugin. This rules out making an autoloading GDNative plugin IMO and hence requires the editor to call into the plugin with a few code changes. \n\nHowever, if there are any ideas on completely moving out ALL VCS related classes like `VersionControlEditorPlugin` and `EditorVCSInterface`, it might be for the best and I would love to discuss them.",
+    "format": "form",
+    "workaround": "The VCS plugins are a popular demand from the community but installing it has been a pain for users since it doesn't work like other GDNative plugins."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-04-09T20:10:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "5.0",
+  "number": 4369,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make VCS plugins completely* independent of Godot",
+  "up": 19,
+  "updatedAt": "2026-09-20T16:08:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4369"
+}

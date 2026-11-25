@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`RenderServer` is a core API, there is no way to achieve this outside the core.",
+    "format": "form",
+    "workaround": "It can only be worked around by discarding the cached mesh and creating a new one in the use case described above. While it's not a lot of code, it has performance implications we'd like to avoid."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-05T15:28:34Z",
+  "comments": 2,
+  "createdAt": "2023-09-22T11:42:11Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.5",
+  "number": 7796,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support updating mesh index data via RenderServer",
+  "up": 6,
+  "updatedAt": "2025-06-05T19:30:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7796"
+}

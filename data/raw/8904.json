@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "While looking for a way to do this (before I realised there was no way to do it), I've encountered a few people having the exact same problem. At the very least, it seemed like a common issue, and a thing that people (myself included) just expected to be able to do. Also, I have tried to make an extension for this and did not succed.\n\n(On a last note, I'd be happy to help implement this, but since I'm no good with C++, I feel I'd make more harm than good in that case.)",
+    "format": "form",
+    "workaround": "Not that I know of, I did try to solve it in a somewhat elegant manner in an addon and faild."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-01-17T21:37:09Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8904,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make it possible to copy a collision polygon from a tileset texture to another",
+  "up": 1,
+  "updatedAt": "2024-01-17T22:09:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8904"
+}

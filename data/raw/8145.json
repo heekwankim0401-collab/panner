@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Advantages and costs are described above.",
+    "format": "form",
+    "workaround": "No, it's a language and compiler feature."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-16T13:17:31Z",
+  "comments": 4,
+  "createdAt": "2023-10-16T12:27:29Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8145,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Static check for calling undefined function/property on a typed variable",
+  "up": 5,
+  "updatedAt": "2023-10-16T13:17:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8145"
+}

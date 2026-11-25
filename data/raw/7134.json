@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The export process is part of the core",
+    "format": "form",
+    "workaround": "Maybe with some custom export scripts that modify the xcode project? Or you can do it manually setting these things in XCode"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-09T22:28:32Z",
+  "comments": 1,
+  "createdAt": "2023-06-21T15:03:49Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 7134,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add minimum required OS setting and app category to iOS export",
+  "up": 0,
+  "updatedAt": "2024-03-09T22:28:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7134"
+}

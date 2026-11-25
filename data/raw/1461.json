@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, it'd be a nice feature, wouldn't have to support anything other than exporting all the Godot primitives, or .obj mesh into Blender, as a ' single ' scene . . Not sure, seems nice, or so . .",
+    "format": "legacy",
+    "workaround": "I'm not sure, it makes sense to ' build ' the level in Godot, as it's a game making software, to me . ."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-04T14:32:17Z",
+  "comments": 2,
+  "createdAt": "2020-09-04T13:35:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1461,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "An option, or feature to export a set of Godot primitives to Blender . .",
+  "up": 0,
+  "updatedAt": "2020-09-04T14:32:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1461"
+}

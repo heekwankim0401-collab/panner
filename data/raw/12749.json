@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires modifying Image class.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-08T18:05:36Z",
+  "comments": 1,
+  "createdAt": "2025-07-08T17:49:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12749,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `load_exr_from_buffer()` to Image",
+  "up": 0,
+  "updatedAt": "2025-07-08T18:05:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12749"
+}

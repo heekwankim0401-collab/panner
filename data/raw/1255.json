@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think addons can do such deep injections into the inspector, AND the same NEEDS to apply to remote scene tree debugging, where the issue is exacerbated by also showing non-exposed variables.",
+    "format": "legacy",
+    "workaround": "It can be worked around, but it takes TOO many lines of script (circa 10 per each variable, times 10 variables, that's around 100 lines just for that - and in another project, I have nodes with 20 variables...)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-06T13:24:07Z",
+  "comments": 6,
+  "createdAt": "2020-07-24T18:52:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 1255,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make grouping exported variables easier",
+  "up": 22,
+  "updatedAt": "2022-07-06T13:24:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1255"
+}

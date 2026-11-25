@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot be an addon unless the entire Movie Writer is re-done as an addon.",
+    "format": "form",
+    "workaround": "This cannot be worked around with a plugin, it requires changes in core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-01-04T12:19:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6041,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add setting to disable audio recording in Movie Writer",
+  "up": 6,
+  "updatedAt": "2023-01-05T20:29:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6041"
+}

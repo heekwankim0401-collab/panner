@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "Single and multi-select is a basic feature of an ItemList node.  My project's biggest feature is that it is cross-platform.  I use many multi-select ItemLists in my project to organize inventory.  To the end user, the ItemList's basic select ability needs to operate the same on the Desktop as the mobile.  Any mobile developer hoping to create a game with an ItemList will run into this problem if not fixed.",
+    "format": "form",
+    "workaround": "Multi-select is a basic function/use of an ItemList and will be used frequently."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-06-10T12:30:23Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:gui",
+    "topic:input",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7055,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make ItemList multi-select easy on mobile devices",
+  "up": 2,
+  "updatedAt": "2024-11-18T18:07:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7055"
+}

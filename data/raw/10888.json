@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Curve is a core Resource. This enhancement would increase its flexibility to be more easily applied in a wider range of cases without sacrificing any of its current functions.",
+    "format": "form",
+    "workaround": "Yes. Applying a `inverse_lerp(min, max, value)` where `value` is **X** and `min/max` are the range's min/max limits, respectively, normalizes X to a 0/1 ratio, which can then be sampled on the Curve to obtain the value of **Y**."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-26T22:04:18Z",
+  "comments": 2,
+  "createdAt": "2024-10-03T17:09:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10888,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "In Curve resource: @export Min/Max X values to the Inspector",
+  "up": 5,
+  "updatedAt": "2024-11-26T22:04:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10888"
+}

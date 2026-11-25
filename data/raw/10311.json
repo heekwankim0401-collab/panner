@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the iteration experience while working on level designs, and making sure you don't accidentally export a project with outdated lightmaps that can look broken depending on where the player looks.",
+    "format": "form",
+    "workaround": "No, as there's a lot of stuff to track, some of which isn't serialized to LightmapGIData yet."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-07-29T10:44:28Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10311,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Emit a node configuration warning when LightmapGI properties, project settings or mesh/light data has changed, but lightmaps haven't been re-baked yet",
+  "up": 5,
+  "updatedAt": "2024-07-30T11:47:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10311"
+}

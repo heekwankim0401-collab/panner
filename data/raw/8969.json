@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's the engine that makes the .dmg.",
+    "format": "form",
+    "workaround": "Perhaps it is possible to make a post-export script that unpacks the .dmg?"
+  },
+  "assignees": 1,
+  "closedAt": "2024-02-13T16:28:36Z",
+  "comments": 9,
+  "createdAt": "2024-01-25T17:45:00Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.3",
+  "number": 8969,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Export macOS apps to .app instead of a .dmg with the .app included",
+  "up": 0,
+  "updatedAt": "2025-07-23T04:37:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8969"
+}

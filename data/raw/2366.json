@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Needs access to rooms / portals system internal data, can't be done via add-on.",
+    "format": "markdown",
+    "workaround": "It cannot be worked around with script.\n\nNote that this is a useful small extension to rooms / portals, it is not necessary for rooms / portals to work. This kind of technique is commonly used for managing performance in AAA type games. It does not imply that we *have* to have it in Godot, I'm just bringing up the option."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-22T09:14:24Z",
+  "comments": 3,
+  "createdAt": "2021-02-27T11:43:19Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "3.x",
+  "number": 2366,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add ability to manage activity of objects using PVS / secondary PVS",
+  "up": 3,
+  "updatedAt": "2021-12-22T17:12:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2366"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This should be a core debugging capability, and therefore should be part of the core engine.",
+    "format": "form",
+    "workaround": "Not really, although you can use if DEBUG: do stuff, that code will always be compiled and evaluated at runtime."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-25T05:44:25Z",
+  "comments": 1,
+  "createdAt": "2024-02-25T01:57:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:export",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9170,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "add ability to write debug code blocks that don't get compiled into Releases",
+  "up": 1,
+  "updatedAt": "2024-02-25T05:46:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9170"
+}

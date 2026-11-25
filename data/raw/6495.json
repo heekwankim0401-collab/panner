@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This would be an extension of the core asset handling system.",
+    "format": "form",
+    "workaround": "I believe it can be worked around in a cumbersome way, by only importing SVG textures at runtime through code, but this is obscure and unnecessarily complex."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-24T21:55:48Z",
+  "comments": 14,
+  "createdAt": "2023-03-14T01:20:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 6495,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement lazy-loading of SVG textures",
+  "up": 9,
+  "updatedAt": "2023-06-24T22:07:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6495"
+}

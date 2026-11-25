@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AnimationPlayer functions are the core.",
+    "format": "form",
+    "workaround": "This is core proposal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-30T13:18:50Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 8302,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to animate PackedVector2Array using curves",
+  "up": 0,
+  "updatedAt": "2023-11-07T17:19:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8302"
+}

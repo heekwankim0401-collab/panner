@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Well, not sure, AFAIK nothing has been done about this, so I was quite surprise, when testing it, it's almost gone, and is now similar to Blender, where one needs 4 - 8 pixel bleed, to solve this, I'm thinking, is this well voodoo, thanks . . . .\n\n<img width=\"663\" alt=\"Smart Emoji 04\" src=\"https://user-images.githubusercontent.com/83387915/136131536-6739d91c-d65b-4faa-ab5d-bb821aa89dea.png\">\n\nI think, it looks like it matches Blender, that importing stuff makes bit more sense now, I thought this was ONLY possibly in Godot 4.0, Vulkan, well, don't know if things have gotten better, right now it's 9 / 10, wondering if it might get better, IF possible, thanks . . . :OO Hoping you'll look at this, tbc. I'm some-what impressed, with what has been done, atm . . . . Thx ! ! !",
+    "format": "form",
+    "workaround": "I can't recode rendering, texture stuff . . <3"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-10-06T02:33:33Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3391,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve the mipmap compression lines near UV seams . . .",
+  "up": 2,
+  "updatedAt": "2021-10-06T10:38:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3391"
+}

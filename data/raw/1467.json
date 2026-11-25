@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a Core Feature of the engine.",
+    "format": "legacy",
+    "workaround": "I can't be workarounded by code. It's not exposed in GDScript/C# either."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-09-06T18:40:47Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1467,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose the Filter flag and Linear Interpolation option in ViewportContainer",
+  "up": 6,
+  "updatedAt": "2023-04-12T23:50:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1467"
+}

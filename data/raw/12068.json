@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "If `MarginContainer` belongs to core part then the margin properties should belongs to core part as well. Otherwise we are just removing a feature.",
+    "format": "form",
+    "workaround": "I'm not sure how to code it. For now if I need a padding (which is most of the time I add a box/panel/container) I would have to wrapp all the children inside `MarginContainer`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-03-25T11:28:10Z",
+  "down": 2,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12068,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Replace MarginContainer with Padding properties for theme",
+  "up": 6,
+  "updatedAt": "2025-06-10T04:19:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12068"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It seems more like an oversight to not allow the default to be changed in the default import menu. I'm actually expecting somebody to reply saying \"it's over here actually\" since most import setting defaults options appear exposed already.",
+    "format": "form",
+    "workaround": "I imagine it would be used by all folks who need non-default mesh import settings. Or folks who need to bake lighting, but their meshes aren't setup in pre-production with a 2nd UV."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-13T03:00:53Z",
+  "comments": 6,
+  "createdAt": "2024-07-11T15:36:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 10177,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose Import Defaults control for meshes, lightmap uv, or add way to select more than one mesh at import",
+  "up": 0,
+  "updatedAt": "2024-07-13T18:05:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10177"
+}

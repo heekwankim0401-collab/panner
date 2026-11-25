@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be useful in many projects.",
+    "format": "form",
+    "workaround": "Yes, you could do something like this:\n\n```gdscript\nvar parameters = PhysicsShapeQueryParameters2D.new()\nparameters.transform = transform\nparameters.motion = velocity\nparameters.shape = shape\n# etc...\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-01-13T14:47:17Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8874,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `.create()` for `PhysicsShapeQueryParameters2D`",
+  "up": 3,
+  "updatedAt": "2024-04-30T22:09:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8874"
+}

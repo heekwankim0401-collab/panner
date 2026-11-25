@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In my opinion it's only natural to have DisplayServer.clipboard_set_image(Image) method, as we already have clipboard_get_image() to match it, just as clipboard_get has its matching clipboard_set",
+    "format": "form",
+    "workaround": "I haven't tested this method yet, but if it's possible, the only workaround is to create a C++ Dll / GDExtension, pass DisplayServer.WindowGetNativeHandle(DisplayServer.HandleType.WindowHandle) into it together with the image bytes, dimensions and encoding, and then implement the desired functionality with the help of WinAPI's winuser.h.\nIf this doesn't work, then the only option is to save the WIP texture into a file, then reload this file in the image editing app, then copy-paste it to your actual .psd project to work on it there. \nIt's doable this way, but I expect my tool's users to transfer the WIP texture back and forth at least a few dozens to a few hundred times, so having the ability to directly copy/paste images would save them a lot of time and mental energy."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-01T22:27:06Z",
+  "comments": 1,
+  "createdAt": "2024-01-01T20:48:06Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8769,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add the ability to copy images to clipboard",
+  "up": 10,
+  "updatedAt": "2024-01-01T22:27:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8769"
+}

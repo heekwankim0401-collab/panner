@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This makes setting up the Movie Maker mode more convenient, without requiring the user to write a script. This can improve the feature's accessibility to artists.",
+    "format": "form",
+    "workaround": "Yes, by attaching the following script to the AnimationPlayer node that governs the main action (such as camera movement):\n\n```gdscript\nextends AnimationPlayer\n\n\nfunc _on_animation_player_animation_finished(_anim_name):\n\tif OS.has_feature(\"movie\"):\n\t\tprint(\"Done recording movie.\")\n\t\tget_tree().quit()\n```\n\nThe animation must **not** be set to loop. Otherwise, the `animation_finished` signal will never be emitted."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-27T23:05:20Z",
+  "comments": 0,
+  "createdAt": "2022-06-23T13:26:33Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 4730,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a property to quit the engine when an animation is done playing in Movie Maker mode",
+  "up": 0,
+  "updatedAt": "2022-09-15T18:44:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4730"
+}

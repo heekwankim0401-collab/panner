@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this should be the core since it would update the core editor.",
+    "format": "markdown",
+    "workaround": "there could be an option in the settings to never check for updates."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-08T20:07:59Z",
+  "comments": 2,
+  "createdAt": "2021-01-08T19:13:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2089,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a built-in Editor auto-update functionality",
+  "up": 1,
+  "updatedAt": "2021-01-08T20:08:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2089"
+}

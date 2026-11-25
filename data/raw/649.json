@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it is easy to implement signals like the ones of AnimatedSprite",
+    "format": "legacy",
+    "workaround": "```gdscript\nextends Node2D\n\nvar lifetime\n\nfunc _ready():\n\tlifetime = $Explosion.lifetime\n\t$Explosion.emitting = true\n\nfunc _process(delta):\n\tlifetime -= delta\n\tif lifetime < 0:\n\t\tqueue_free()\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-14T17:00:49Z",
+  "comments": 24,
+  "createdAt": "2020-03-29T21:56:45Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.2",
+  "number": 649,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Particles emit a signal when all particles finished",
+  "up": 42,
+  "updatedAt": "2023-07-14T17:13:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/649"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I feel that needing an add-on in order to disable existing functionality would be counter-intuitive.",
+    "format": "form",
+    "workaround": "No.\n\nThe non-functional debugger can be worked around with a custom in-game debugger, but the delay cannot be."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-09-12T19:44:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5411,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow disabling the debugger entirely",
+  "up": 0,
+  "updatedAt": "2022-09-13T15:54:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5411"
+}

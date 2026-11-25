@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-26T17:46:21Z",
+  "comments": 1,
+  "createdAt": "2026-10-25T04:06:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15697,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Preserve transparent material-chain order when priority and depth tie",
+  "up": 0,
+  "updatedAt": "2026-10-26T17:46:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15697"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I feel like it would be nice for people with less experience. The asset librarby isn't the first place you would look and this feels like the type of thing that should just be here by default.",
+    "format": "form",
+    "workaround": "you can use an array, but it would be a pain to make and would make your code messy."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-10-02T21:39:11Z",
+  "down": 2,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 7964,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an \"after\" operator",
+  "up": 0,
+  "updatedAt": "2023-10-06T15:17:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7964"
+}

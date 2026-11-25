@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. This feature directly improves the project creation workflow in the Godot Editor. Since it happens at project initialization (before scripts or add-ons are in place), it makes more sense as a core/editor feature than an add-on.",
+    "format": "form",
+    "workaround": "Not really. Copying files manually (project.godot, input map, autoload configs) is possible, but it’s not an elegant or integrated workflow."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-03T17:28:51Z",
+  "comments": 3,
+  "createdAt": "2025-10-02T13:32:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13323,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow setting default Project Settings, Input Map and Autoloads (templates for new projects)",
+  "up": 0,
+  "updatedAt": "2025-10-03T17:28:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13323"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Users would expect stability of their node data without needing an add-on.\nIt should \"just work\", and you should be able to quickly set up a scene in the editor for rapid prototyping/testing.\nWe shouldn't have to worry about our scene setup being reset for inexplicable reasons and losing hours (or more) of work.\n\nAlso, this requires a lot of complex code to do manually.\nThe fact that nodes can lose their data because they use tool scripts is dangerous and can be a huge setback.\nThis had me pulling my hair out until I implemented my workaround (which is far from perfect.)",
+    "format": "legacy",
+    "workaround": "This would benefit anyone that uses tool nodes to lay out a scene."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-06-04T21:42:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1012,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Prevent data loss on reloaded instanced scenes (which use tool scripts)",
+  "up": 2,
+  "updatedAt": "2023-02-17T19:55:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1012"
+}

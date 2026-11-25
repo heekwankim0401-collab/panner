@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's linked to the script editor and the separate window feature.",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-16T10:03:03Z",
+  "comments": 1,
+  "createdAt": "2023-07-16T09:30:33Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7298,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Saving a script in a separate window doesn't make the focus on the main window",
+  "up": 0,
+  "updatedAt": "2023-07-16T10:06:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7298"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "At least this particular approach would not be possible without support from GDScript it's self. But other approaches are possible, such as just listing all of the properties using the current inspection methods, and serializing all of them.",
+    "format": "legacy",
+    "workaround": "It can be worked around, it will just be less flexible and elegant."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 53,
+  "createdAt": "2020-08-05T20:42:28Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1316,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow custom GDScript annotations which can be read at runtime",
+  "up": 165,
+  "updatedAt": "2026-02-06T06:55:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1316"
+}

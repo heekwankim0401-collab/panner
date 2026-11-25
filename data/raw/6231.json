@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "These two enhancements are small modifications to split_container.cpp, but greatly improve it's utility.",
+    "format": "form",
+    "workaround": "Extremely difficult to implement in script - all of the visual split bar elements have to be drawn over a split container with dragging disabled, and the script has to set the offset when the overlaid control is dragged."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-17T19:07:04Z",
+  "comments": 7,
+  "createdAt": "2023-02-03T22:06:11Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 6231,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve SplitContainer grab area by adding margin properties and exposing the Control to scripting",
+  "up": 3,
+  "updatedAt": "2024-09-17T19:07:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6231"
+}

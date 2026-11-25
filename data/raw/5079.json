@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Fog was used extensively in Godot 3 and Godot 4 can not achieve the same look in some cases.",
+    "format": "form",
+    "workaround": "This is not a simple feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-08-05T06:45:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5079,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add unshaded mode to volumetric fog rendering",
+  "up": 1,
+  "updatedAt": "2022-08-09T15:11:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5079"
+}

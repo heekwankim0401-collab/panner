@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If #70 is implemented, there's a chance this could be implemented as an add-on. However, command palettes are becoming really popular in creative/productivity software these days. It'd be a shame to pass on this opportunity in Godot :slightly_smiling_face:",
+    "format": "legacy",
+    "workaround": "No, as this is core editor functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-12T21:25:14Z",
+  "comments": 18,
+  "createdAt": "2020-09-01T12:23:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1444,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a command palette to quickly perform operations listed in the editor menus",
+  "up": 29,
+  "updatedAt": "2022-03-04T23:45:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1444"
+}

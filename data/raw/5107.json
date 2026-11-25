@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "i don't see why this can't be an add-on.\n\nthis would help in games with changing level geometry like the voxel game — but many games have fixed levels that don't have invisible 'inner tiles' in the first place, so they don't need this feature",
+    "format": "form",
+    "workaround": "i could setup 2 Gridmaps in the scene:\nthe 'full' version and the 'visible' version.\n\non ready, i use the interior culling algorithm to create the 'visible' version from the 'full' version.\n\nevery time a tile changes, i first change it in the 'full' version before updating the 3×3 surrounding area in the 'visible' version.\n\nthis workaround would be very complex and i would have to change the inner workings of the game completely, but i feel like it Can be done"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-10T13:36:31Z",
+  "comments": 1,
+  "createdAt": "2022-08-08T09:31:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5107,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add automatic GridMap interior culling",
+  "up": 0,
+  "updatedAt": "2022-08-10T13:49:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5107"
+}

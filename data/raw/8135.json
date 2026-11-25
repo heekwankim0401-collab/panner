@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "People are not going to write typesafe code without a basic set of features that enable them to do so. People spoiled by typescript and strongly typed python will be looking at GDscrpit and immediatly see how unsafe the language is due to it's lack of type features. They might still use it anyways because Unity's leadship is so terrible and the rest of Godot is fine.",
+    "format": "form",
+    "workaround": "There is no workaround for not having basic features like this."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-15T21:12:19Z",
+  "comments": 1,
+  "createdAt": "2023-10-15T20:54:21Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8135,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "In 2023, Godot still does not have type unions",
+  "up": 5,
+  "updatedAt": "2025-09-25T20:20:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8135"
+}

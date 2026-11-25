@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Same as above, my understanding is this requires a change to the core code.\n\n\n**Edits**: Made many mistakes in my suggested code. Have been fixing them as I figured out how things are setup",
+    "format": "form",
+    "workaround": "N/A I think? Forgive my ignorance if not. This is editor config, a change to `editor_run.cpp#get_window_placement()` is required I believe."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-06-21T01:16:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12643,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an additional option to keep editor's run window in current spot on reload",
+  "up": 2,
+  "updatedAt": "2025-06-24T15:53:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12643"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The purpose is to expose details about the core locale implementation. You can't do that in an add-on.",
+    "format": "form",
+    "workaround": "Mostly it's informational. You could work around the issue of the wrong locale being set by building up some heuristics and calling `TranslationServer.set_locale()` for specific cases that you know would work incorrectly. However, even then it would be nice to see if `TranslationServer.standardize_locale()` changed when adding defaults. If there was no difference between the two cases when passing in the OS locale, then you would know that Godot was already going to do what you'd expect."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-22T00:12:19Z",
+  "comments": 4,
+  "createdAt": "2024-11-08T17:13:52Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.4",
+  "number": 11119,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose standardized locales with added defaults",
+  "up": 0,
+  "updatedAt": "2024-11-29T11:31:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11119"
+}

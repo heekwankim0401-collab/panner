@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-05-24T09:41:05Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14905,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Update Dotnet external editor default pathing for Rider on linux",
+  "up": 0,
+  "updatedAt": "2026-05-25T14:17:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14905"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it is important.",
+    "format": "legacy",
+    "workaround": "Right now I use the project setting to make custom string field to write my game version and get it using ProjectSettings.get_setting(). But is not so effective because I have to edit it manually whenever I update my app version in export preset."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-04T19:01:16Z",
+  "comments": 15,
+  "createdAt": "2020-01-11T07:46:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 372,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add function to get exported application version / product version",
+  "up": 15,
+  "updatedAt": "2023-08-04T19:01:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/372"
+}

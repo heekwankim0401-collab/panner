@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Ternary statements are a useful tool that all programmers should have immediate access to without having to jump through the hoops of downloading an add-on for something as simple as a single line if/else statement.",
+    "format": "form",
+    "workaround": "This syntax is completely optional and will only serve the purpose of making code easier to write, and cleaner to read."
+  },
+  "assignees": 0,
+  "closedAt": "2023-11-18T10:47:01Z",
+  "comments": 1,
+  "createdAt": "2023-11-17T23:32:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8462,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ternary statement or other single line if/else statement",
+  "up": 0,
+  "updatedAt": "2024-04-22T01:18:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8462"
+}

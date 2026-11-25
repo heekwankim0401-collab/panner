@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would be used by addons.",
+    "format": "form",
+    "workaround": "It's about core editor system, so it can't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-01T23:08:04Z",
+  "comments": 1,
+  "createdAt": "2025-05-15T21:35:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12435,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rework dock management - introduce a Dock class",
+  "up": 14,
+  "updatedAt": "2025-10-01T23:08:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12435"
+}

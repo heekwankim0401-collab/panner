@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about out-of-the-box usability.",
+    "format": "form",
+    "workaround": "In the editor settings, it's possible to change the default colour picker mode and colour picker shape:\n![image](https://user-images.githubusercontent.com/10429871/231570754-be4e8b48-246d-4dd0-a9f0-153a13b6bf0b.png)"
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-19T17:12:24Z",
+  "comments": 2,
+  "createdAt": "2023-04-12T20:47:50Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 6688,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "The Color picker should display an HSV rectangle by default",
+  "up": 9,
+  "updatedAt": "2026-06-19T17:14:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6688"
+}

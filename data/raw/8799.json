@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "More and more devices are starting getting an arm64 architecture on Desktop. Sadly, there are not many native games except for macOS. \nWith this option, it would be a great way to push and support the future-proof architecture.",
+    "format": "form",
+    "workaround": "Sadly not. This is going to be more complicated than that"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-01-04T19:07:44Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:export",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 8799,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "FatELF Support the export of x86_64 and arrm64 in one for Linux",
+  "up": 0,
+  "updatedAt": "2024-01-04T22:19:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8799"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As Godot matures, audio is becoming more important. Doppler tracking customizability is standard in other engines. As games get bigger/more complex, and more detailed, substantial effects like speed of sound delay are necessary.",
+    "format": "form",
+    "workaround": "Doppler tracking \"speed of sound\" adjustments could be altered with some fairly simple engine modification. Speed of sound delay would could be done in GDScript with substantial effort, but is a valuable feature for larger scale games."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-10-02T07:44:36Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 7955,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add speed of sound configuration and delay option to audio doppler tracking",
+  "up": 12,
+  "updatedAt": "2026-09-24T21:24:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7955"
+}

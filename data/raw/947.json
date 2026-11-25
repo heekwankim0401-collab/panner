@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Because it is core Android load functionality",
+    "format": "legacy",
+    "workaround": "Every time when the project is executed on Android device."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-19T12:29:50Z",
+  "comments": 1,
+  "createdAt": "2020-05-28T19:22:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:export",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 947,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Update the default Android loading behavior so that the engine also looks for the exported .pck or .zip file in the assets folder",
+  "up": 0,
+  "updatedAt": "2022-09-19T12:30:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/947"
+}

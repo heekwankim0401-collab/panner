@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I because what's the point in a tile or cell if all it does is solidity checks.",
+    "format": "legacy",
+    "workaround": "I can guarantee this would be used. it would just be a matter of optimizing it.\nWhile it can be worked around it requires to loop though all the tiles/cells and check it and add logic from the map.\nThis is not ideal since godot already loops though these."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-10-24T01:07:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1715,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow gridmaps and tilemaps to contain logic",
+  "up": 7,
+  "updatedAt": "2021-05-13T03:54:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1715"
+}

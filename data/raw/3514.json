@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In fact, I'm writing GDScript with VSCode mostly for this reason. So yes, it is easy to solve externally. Nonetheless it would be nice if the built-in editor would have the feature, because it has become a quasi-standard, and it would be convenient to have it within a quick Godot editor session itself.",
+    "format": "form",
+    "workaround": "It can even be worked around by sheer mental strength :wink:"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-11-07T17:32:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3514,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Ctrl + Tab file switching shortcut to script editor with true last-recently-used semantics",
+  "up": 8,
+  "updatedAt": "2025-06-24T15:50:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3514"
+}

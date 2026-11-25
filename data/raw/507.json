@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's something most games need, at least 3D worlds, so it would be useful to all people working in that genre, also for Godot to appeal to more game makers, in those areas . .\n\nUnity has a very good terrain editor, but there needs to be the last layer, of painting custom decals, to make the world look unique, and possibly bake the combined textures into single textures, like baking a lightmap, when it has all been placed, for faster performance . . :)",
+    "format": "legacy",
+    "workaround": "I don't think so, I'm new to Godot, but I haven't seen this feature, and it takes forever to make all the CollisionShapes, for the custom-made ground, especially for complex terrain . . I think this would improve Godot vastly, for all users . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-23T11:34:27Z",
+  "comments": 2,
+  "createdAt": "2020-02-23T05:48:57Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 507,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Need a solid, strong Terrain and Environment painter tool . . .",
+  "up": 0,
+  "updatedAt": "2020-02-23T11:34:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/507"
+}

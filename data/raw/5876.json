@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because this will open up a lot of possiblities for Japanese games and apps to be developed with Godot. As I said before, this is a must-have tool for Japanese games. Mostly all books have this, even for Japanese native speakers, so this is not only used for japanese learning purposes.\n\nI'm not sure this can be easily integrated as an add-on or plugin, since it is necessary to change the line-height of individual lines within a RichTextLabel and break lines when the word does not fit in the line. Maybe someone with a bit more experience could do this, but for me it was easier to just implement it into the code.",
+    "format": "form",
+    "workaround": "No, this is not something easy to workaround. And I can't think of any way to do this that does not take a lot of hours to implement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2022-11-30T13:43:25Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5876,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `[ruby]` tag for Furigana in RichTextLabel",
+  "up": 26,
+  "updatedAt": "2026-05-13T04:51:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5876"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The Snap, Viewport, and Transform dialogs are already core; this is just UI change.",
+    "format": "form",
+    "workaround": "This cannot be done with a script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-03-01T20:40:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4144,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use an inspector in the Snap, Viewport, and Transform dialogs (2D and 3D)",
+  "up": 2,
+  "updatedAt": "2022-03-02T00:23:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4144"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It involves the GDScript parser and therefore cannot be implemented as an addon.",
+    "format": "legacy",
+    "workaround": "Yes, it can be worked around with a few lines of script, but the proposal itself is about the frequency of needing to do things like this when abstracting multiple nodes under a single node and how cluttered it makes the code. The workaround is what we already have and it is cumbersome."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-01-07T18:55:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 361,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automate delegation of exported properties to internal nodes to improve GDScript abstractions",
+  "up": 10,
+  "updatedAt": "2020-08-29T13:42:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/361"
+}

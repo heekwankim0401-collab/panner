@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This proposal brings minimal functionality to the engine which will enable cel shaders (or other unconventional materials which treat indirect light specially) to be written and published to the asset library. This requires it to be part of core.",
+    "format": "legacy",
+    "workaround": "**This enhancement will be used often**, even outside the case of implementing standards such as VRM. While the \"main directional light\" concept may sound oddly specific, it is the most common case (think outdoor setting).\n\nI can't say definitively about other engines, but this enables porting the vast majority of Unity shaders (many of which are available under an MIT license), as custom ambient sampling (ShadeSH9 in Unity) and dominant light direction are both commonly used in cel shader implementations.\n\n**Neither feature is easy to work around**:\nExposing a \"main directional light direction / color\" may be possible using a global uniform in script. However, it is not immediately obvious how to tell which invocation of light() to treat specially or ignore. Attempting to workaround this by using layers would break shadowing.\n\nSampling ambient cannot be worked around with script, as it varies based on object position: A proper scripted approach would probably involve baking SH9 probes, possibly with compute shaders, but that would not be feasible in dynamic or non-baked environments.\n\nGiven that the needed information is all cleanly available within light(), the solution described in this proposal should be simpler and much lower maintenance."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-08T01:02:16Z",
+  "comments": 2,
+  "createdAt": "2020-11-05T13:40:31Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 1778,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Shaders: custom ambient sampling and main directional light",
+  "up": 0,
+  "updatedAt": "2020-11-08T13:27:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1778"
+}

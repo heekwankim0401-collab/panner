@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is already in the core engine.",
+    "format": "form",
+    "workaround": "Global menu functionality arguably will not be used often, and this is very trivial to work around. However, this is about cleaning up existing functionality in the engine."
+  },
+  "assignees": 1,
+  "closedAt": "2024-03-06T12:26:13Z",
+  "comments": 1,
+  "createdAt": "2023-12-18T14:14:13Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:core",
+    "topic:platforms"
+  ],
+  "milestone": "4.3",
+  "number": 8685,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move global menu functions to a `GlobalMenu` singleton",
+  "up": 7,
+  "updatedAt": "2024-03-06T12:26:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8685"
+}

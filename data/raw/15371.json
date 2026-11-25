@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-08-13T04:49:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 15371,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make ScrollContainer \"Maximize First\" a property instead of a scroll mode",
+  "up": 7,
+  "updatedAt": "2026-08-13T09:31:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15371"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Not exactly, but the asset should have some little modifications in order to be able to install the builders outside of the project.",
+    "format": "markdown",
+    "workaround": "Yes."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-28T21:17:53Z",
+  "comments": 1,
+  "createdAt": "2020-11-28T20:58:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 1904,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve using C++ in projects",
+  "up": 0,
+  "updatedAt": "2020-11-28T21:18:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1904"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AnimatedSprite was created to make animations easier for beginners, adding this feature will make it easy to support common animation transitions using this simple node.",
+    "format": "legacy",
+    "workaround": "Possible workarounds:\n- use custom dictionary state machine and connect to AnimatedSprite's signals. Disadvantages: more cumbersome than AnimationTree, more work, harder to maintain,\n- use AnimationPlayer and sprite sheet instead of single sprite frames and AnimatedSprite. Disadvantages: \n    - requires additional work in order to merge sprite frames into a sprite sheet,\n    - using spritesheets may hurt performance for larger sprites with a lot of frames\n    - setting specific FPS is more difficult (especially when adding/removing frames to the animation),\n- use AnimationPlayer to animate AnimatedSprite properties like \"playing\" or \"animation\". Disadvantages: redundant, weird, confusing and a really bad design."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2020-03-07T13:04:37Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 567,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support using AnimatedSprite and AnimationTree together",
+  "up": 0,
+  "updatedAt": "2022-06-28T17:38:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/567"
+}

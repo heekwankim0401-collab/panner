@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a common GUI use case applicable to developer projects and possible editor enhancements.",
+    "format": "form",
+    "workaround": "While this can be simulated by scripting using the `item_rect_changed` signal on the child `Control`, it is impossible to avoid nasty jittering of the child during resize, especially if the child `Control`changes size in the axis of the scroll after being added to the scene tree."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-04-20T17:27:45Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12280,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "[ScrollContainer] Add option to hold child at maximum scroll value when resized",
+  "up": 2,
+  "updatedAt": "2025-04-25T14:54:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12280"
+}

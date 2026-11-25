@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Its core of the editor",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-18T06:09:17Z",
+  "comments": 7,
+  "createdAt": "2022-08-16T21:10:40Z",
+  "down": 7,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 5187,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Change project file ending from project.godot to project.godot4 (for Godot 4)",
+  "up": 0,
+  "updatedAt": "2022-10-13T10:59:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5187"
+}

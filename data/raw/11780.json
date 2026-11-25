@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It already functionally exists within core, just needs to be exposed.",
+    "format": "form",
+    "workaround": "No, any alternative for same effect would require alot more work than reasonable assuming the viewport exists solely through the rendering server."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-02-16T00:45:31Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 11780,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `RenderingServer.viewport_set_mesh_lod_threshold()` to scripting",
+  "up": 0,
+  "updatedAt": "2025-02-16T14:45:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11780"
+}

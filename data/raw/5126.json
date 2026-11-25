@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Arrays are a core feature.",
+    "format": "form",
+    "workaround": "I believe it would be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2022-08-09T17:38:35Z",
+  "down": 6,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5126,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement `Array * int` and `String * int`",
+  "up": 5,
+  "updatedAt": "2024-10-03T12:01:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5126"
+}

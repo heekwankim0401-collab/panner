@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's not possible to implement outside of core/godot-cpp it seems.",
+    "format": "form",
+    "workaround": "Yes there is a workaround but it is jank and hacky imo. This would allow for a more consistent API between C++ and gdscript when doing autoloads in C++ and also remove the requirement of making a gdscript file and then assigning it as an autoload in the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-16T12:30:58Z",
+  "comments": 5,
+  "createdAt": "2024-10-07T15:46:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 10928,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement registering autoloads in GDExtension",
+  "up": 2,
+  "updatedAt": "2025-07-16T15:19:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10928"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "enums ~~and consts~~ already are this would just make syntax more consistent",
+    "format": "legacy",
+    "workaround": "This would not only be more pythonic but its more consistent."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-06T14:30:33Z",
+  "comments": 6,
+  "createdAt": "2020-11-23T19:42:37Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1878,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use more pythonic syntax with enums",
+  "up": 0,
+  "updatedAt": "2021-09-29T13:37:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1878"
+}

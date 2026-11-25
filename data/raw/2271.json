@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "CSG is Core, and addons aren't for fixing core issues, just for adding functionality it might lack.",
+    "format": "markdown",
+    "workaround": "Possibly, but shouldn't be, as it's a bug fix to core."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-02-11T08:17:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2271,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Detect CSG Missing Triangles & Spike Triangles",
+  "up": 5,
+  "updatedAt": "2021-02-11T15:59:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2271"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "- its a general TSCN/Importer fix we can uniformly fix for all formats.",
+    "format": "legacy",
+    "workaround": "- no"
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-18T16:21:10Z",
+  "comments": 6,
+  "createdAt": "2020-08-21T17:07:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1398,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[3D WORKFLOW / UX] General issue with inherited scenes not compensating for when source assets are updated",
+  "up": 7,
+  "updatedAt": "2020-12-18T17:05:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1398"
+}

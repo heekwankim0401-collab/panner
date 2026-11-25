@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is already so much information to learn about a game engine, and the UI should be careful not to imply incorrect information. The current UI does worse than no information by stating partial information, implying a restriction that does not exist.\n\n It could also make the UI more readable at a glance, separating information to the fields where it is relevant.",
+    "format": "form",
+    "workaround": "This is just a QOL UI change, and requires no work around."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-05T12:53:42Z",
+  "comments": 0,
+  "createdAt": "2024-09-08T19:48:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 10691,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Clarify in AutoLoad project settings UI that PackedScenes can be added as autoloads",
+  "up": 3,
+  "updatedAt": "2026-03-05T12:53:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10691"
+}

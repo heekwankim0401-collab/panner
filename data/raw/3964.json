@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It helps avoid node coupling\nIt could be used in networking too.",
+    "format": "form",
+    "workaround": "It would probably be used in networking if supported, also I think it can be worked around but it requires something like this...\n```gdscript\nextends Node\n\nsignal finished\n\nclass SignalCount:\n\tvar count := 0\n\tsignal complete\n\t\n\tfunc increment(_source:Object, _signal:String)->void:\n\t\tvar err =  _source.connect(_signal, self, \"decrement\", [], CONNECT_ONESHOT)\n\t\tif  err == OK:\n\t\t\tcount += 1\n\t\telse:\n\t\t\tprint(err)\n\t\t\t\n\tfunc decrement():\n\t\tcount -= 1\n\t\tif count == 0:\n\t\t\temit_signal(\"complete\")\n\t\t\t\nvar count := { }\n\nfunc emit_counted(_source:Object, _signal:String, _args:=[]):\n\tvar countedSignals = SignalCount.new()\n\t\n\tfor connection in _source.get_signal_connection_list(_signal):\n\t\tcountedSignals.increment(connection[\"source\"], connection[\"signal\"])\n\n\tcall_deferred(\"emit_signal\", _signal)\n\tyield(countedSignals, \"complete\")\n\temit_signal(\"finished\")\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-02-13T11:18:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3964,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Please allow yielding on signal results",
+  "up": 1,
+  "updatedAt": "2022-02-13T23:48:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3964"
+}

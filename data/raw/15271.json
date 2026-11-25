@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-28T00:22:17Z",
+  "comments": 2,
+  "createdAt": "2026-07-27T09:33:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders",
+    "usability"
+  ],
+  "milestone": "4.8",
+  "number": 15271,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Combine Shader Reload from Disk Message for Multiple Changes",
+  "up": 1,
+  "updatedAt": "2026-07-28T00:22:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15271"
+}

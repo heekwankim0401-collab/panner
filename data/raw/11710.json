@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There's already process start functions in Godot, not having these features severely limits their functionality for specific use cases",
+    "format": "form",
+    "workaround": "This issue can be worked around in C# by using it's process library.  \nIn GDScript, shell commands can be used to change the working directory and environment variables and run the process, but they're OS specific.  \n`sh -c` and `cmd /C` expect the series of commands to be passed as a single argument, requiring escaping logic for paths, environment variables and arguments.  \nOn Linux, `sh` may link to bash, dash, GNU sh or busybox, potentially leading to inconsistent results."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-02-06T15:11:17Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11710,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose a way to change OS.execute working directory and environment variables",
+  "up": 0,
+  "updatedAt": "2025-02-07T19:13:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11710"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "Not a few lines and gets very ugly fast if you have several nodes in a scene that need this."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-24T11:42:59Z",
+  "comments": 1,
+  "createdAt": "2025-05-18T18:17:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 12457,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add property/method to `Node3D` to ignore parent scale",
+  "up": 1,
+  "updatedAt": "2025-05-24T15:07:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12457"
+}

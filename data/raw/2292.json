@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As for gdscript  plugins — now it's impossible to get `ProjectManager` to add buttons or customize it some other way.\nIt could be a plugin like `duplicate current project` — but you need to open the project before duplicating it etc so this is not so convenient",
+    "format": "markdown",
+    "workaround": "You could just do this manually or use some filesystem tools to automate this task but I think it wouldn't be so easy as the option above."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-21T13:31:12Z",
+  "comments": 0,
+  "createdAt": "2021-02-14T22:16:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 2292,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a button to duplicate a project in ProjectManager",
+  "up": 9,
+  "updatedAt": "2025-04-21T13:32:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2292"
+}

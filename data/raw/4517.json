@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It turns the Shadow Rendering (which is core) into \"It just Works\"",
+    "format": "form",
+    "workaround": "Yes, you can set Lights to Reverse Face Cull and Shrink them a little in Blender or using only Base/Standard Material 3D with separate Meshes for Shadows and Normal Rendering."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-17T16:34:05Z",
+  "comments": 5,
+  "createdAt": "2022-05-09T11:59:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 4517,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Change Shadow Rendering Pipeline",
+  "up": 5,
+  "updatedAt": "2024-01-09T15:52:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4517"
+}

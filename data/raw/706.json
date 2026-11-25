@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This will be very frequently used feature, which should be maintained by all community to provide as easy as possible method to update project between versions of Godot.\n\nI have project which can be used to track progress of this utility:\nAll nodes without scripts - [The-worst-Godot-test-project-Without-Scripts.zip](https://github.com/godotengine/godot-proposals/files/4474372/The-worst-Godot-test-project-Without-Scripts.zip)\nAll nodes with scripts - [The-worst-Godot-test-project.zip](https://github.com/godotengine/godot-proposals/files/4474375/The-worst-Godot-test-project.zip)",
+    "format": "legacy",
+    "workaround": "Without project update tool, users will have to spend a lot of time with converting project to bigger version."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-13T23:32:23Z",
+  "comments": 5,
+  "createdAt": "2020-04-14T09:33:23Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 706,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Project update tool 3.2 -> 4.0, 4.0 -> 4.1 etc...",
+  "up": 5,
+  "updatedAt": "2020-09-14T11:49:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/706"
+}

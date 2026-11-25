@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It doesnt make sense to support HFlowContainer left-to-right but not allow right-to-left.",
+    "format": "form",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-02T17:59:37Z",
+  "comments": 5,
+  "createdAt": "2022-04-27T10:48:52Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 4453,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Please add Right-to-left alignment to HFlowContainer",
+  "up": 11,
+  "updatedAt": "2022-11-02T17:59:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4453"
+}

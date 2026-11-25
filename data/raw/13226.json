@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "form",
+    "workaround": "You can do it by hand but it isn't as convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-09-20T21:19:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13226,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add drag and drop variable array key modifier",
+  "up": 0,
+  "updatedAt": "2025-09-21T06:09:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13226"
+}

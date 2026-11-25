@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It doesn't feel like a add-on sort of situation since it's only allowing access to built-in features at an earlier point in the asset pipeline to make projects assets easier to manage.",
+    "format": "form",
+    "workaround": "It can be worked around by creating scenes, or duplicating instances of the glbs with editable children and copying those around, but I think that might even break if I had to layer down the line, make edits to the objects in blender and re-import them? It'd be better to be able to set them in the importer, So that all instances downstream update on their own with the new info and no need to make editable children etc."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-06-11T15:18:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 12584,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for defining node metadata in the Advanced Import Settings dialog",
+  "up": 3,
+  "updatedAt": "2025-06-14T13:31:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12584"
+}

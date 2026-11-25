@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It must be in the core code afaik.",
+    "format": "form",
+    "workaround": "I don't believe so, but please let me know if there's another way to go about this."
+  },
+  "assignees": 0,
+  "closedAt": "2024-10-25T06:23:24Z",
+  "comments": 3,
+  "createdAt": "2023-12-07T18:47:34Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:gdextension"
+  ],
+  "milestone": "4.4",
+  "number": 8609,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose AudioStream + AudioStreamPlayback methods to GDExtension",
+  "up": 34,
+  "updatedAt": "2024-10-25T17:39:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8609"
+}

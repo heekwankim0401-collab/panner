@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This enhances the core UI.",
+    "format": "form",
+    "workaround": "Not that I know of."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-18T05:21:04Z",
+  "comments": 1,
+  "createdAt": "2021-08-21T03:36:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3175,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Autoload Project Page: Make node name and node path order consistent between adding a node and the node list",
+  "up": 1,
+  "updatedAt": "2023-03-19T02:37:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3175"
+}

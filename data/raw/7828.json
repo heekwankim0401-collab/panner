@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves a core feature of the inspector in the editor.",
+    "format": "form",
+    "workaround": "The closest \"script\" work around that I can think of is what I implemented in the end. Instead of having an Array that I would modify in the editor, I put each resource separately in the filesystem and wrote an editor script that I ran manually whenever I changed something to create a resource with the array programmatically. I think it's quite an onerous workaround because it requires people to learn about reading and creating resources programmatically, etc."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-09-23T20:06:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 7828,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Better support for long arrays in the inspector, e.g. filter elements by string",
+  "up": 7,
+  "updatedAt": "2024-04-22T01:25:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7828"
+}

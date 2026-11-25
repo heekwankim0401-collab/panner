@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It seems like a relatively simple addition to the script editor, so it's probably overkill to implement it in a separate asset/plugin.",
+    "format": "form",
+    "workaround": "I'm not sure, I haven't tried extending the editor with scripting yet."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-28T00:27:13Z",
+  "comments": 11,
+  "createdAt": "2022-12-22T08:20:41Z",
+  "down": 4,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 5976,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement \"Close Tabs Below\" in the script editor",
+  "up": 6,
+  "updatedAt": "2025-04-28T00:32:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5976"
+}

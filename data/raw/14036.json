@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes. It is a standard feature in other game engines, requires deep integration with the physics and rendering systems for performance, and is a foundational need for professional-quality visual effects in any 3D game.",
+    "format": "form",
+    "workaround": "No. Workarounds are extremely inefficient (manual raycasting), impractical for complex geometry, or require advanced custom scripting. This is a fundamental system that needs to be built into the engine for performance and accessibility."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-20T17:59:14Z",
+  "comments": 5,
+  "createdAt": "2026-01-19T20:23:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 14036,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "World based collisions for GPUParticles3D",
+  "up": 0,
+  "updatedAt": "2026-01-21T13:23:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14036"
+}

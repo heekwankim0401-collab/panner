@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a simple feature with the existing functionality already (theoretically) exposed to the runtime.  A UI element for it in the editor simply doesn't exist yet, as far as I can tell.",
+    "format": "legacy",
+    "workaround": "Yes.  `TileSet.remove_tile(id)` exists.  It's not clear if the underlying implementation re-orders IDs or just makes the existing one invalid.  It's also unclear if the ID will be \"recycled\" by the built-in TileSet editor."
+  },
+  "assignees": 0,
+  "closedAt": "2020-01-24T01:18:36Z",
+  "comments": 10,
+  "createdAt": "2019-09-14T18:16:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 67,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "TileSet editor:  Be able to delete individual tile IDs",
+  "up": 1,
+  "updatedAt": "2020-04-29T22:21:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/67"
+}

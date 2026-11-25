@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2026-08-08T18:28:27Z",
+  "down": 0,
+  "labels": [
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 15347,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add identifiers (reverse domain style) to plugins and shift away from reliance on names",
+  "up": 3,
+  "updatedAt": "2026-08-10T20:53:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15347"
+}

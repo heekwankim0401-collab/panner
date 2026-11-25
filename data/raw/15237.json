@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-07-23T09:14:56Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 15237,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow making copies of `RenderData.get_render_scene_buffers()` in compositor effects for multipass effects",
+  "up": 0,
+  "updatedAt": "2026-07-29T15:42:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15237"
+}

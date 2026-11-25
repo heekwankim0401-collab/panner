@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Changes Node.",
+    "format": "form",
+    "workaround": "It is currently possible to create this function manually like this:\n```gdscript\nfunc get_child_by_class(parent: Node, class_type: Variant):\n\tfor child in parent.get_children():\n\t\tif is_instance_of(child, class_type):\n\t\t\treturn child\n\treturn null\n```\nbut having it as part of Node in c++ would be superior."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-31T07:43:01Z",
+  "comments": 1,
+  "createdAt": "2024-07-30T22:47:20Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10328,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "get_child_by_class to be added to Node",
+  "up": 0,
+  "updatedAt": "2024-07-31T07:43:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10328"
+}

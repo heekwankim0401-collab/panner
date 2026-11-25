@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDScript editor is a part of Godot, and call hints are already a part of the editor",
+    "format": "legacy",
+    "workaround": "Only workaround is to Read & remember the entire call hint before continuing with coding"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-01T09:36:29Z",
+  "comments": 1,
+  "createdAt": "2020-10-13T13:30:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1655,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a constant Call hint display option",
+  "up": 0,
+  "updatedAt": "2021-08-01T14:50:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1655"
+}

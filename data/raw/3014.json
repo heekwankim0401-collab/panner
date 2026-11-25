@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't know if this can be dealt with without making changes to godot's core.",
+    "format": "form",
+    "workaround": "I don't know if this can be dealt with without making changes to godot's core."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-19T15:19:53Z",
+  "comments": 3,
+  "createdAt": "2021-07-19T14:56:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3014,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[GUI] Add colors to Scene tab to improve readability (complements Inspector color variation for nested sections)",
+  "up": 0,
+  "updatedAt": "2021-07-19T15:23:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3014"
+}

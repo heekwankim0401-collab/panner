@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It enables plugin functionality.",
+    "format": "form",
+    "workaround": "No, there is no way (documented, at least) to replace a resource with a reference to another one automatically."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-31T04:30:32Z",
+  "comments": 1,
+  "createdAt": "2024-07-31T04:09:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 10329,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `ResourceImporterTextureAtlas::import_group_file` and associate methods to make Texture Atlas Plugins easier",
+  "up": 0,
+  "updatedAt": "2024-07-31T23:02:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10329"
+}

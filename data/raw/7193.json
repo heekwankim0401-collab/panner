@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would also help in games where you have to write a number of coins to trade or something similar; or introducing names (without numbers).",
+    "format": "form",
+    "workaround": "I can be solved using regular expressions, see [this example](https://www.reddit.com/r/godot/comments/mza6zm/lineedit_numbers/).\n\nThe `LineEdit` and `TextEdit` nodes have the signal `text_changed `, but with this you get the new text, the workflow is:\n1. User introduces a new character and it is written.\n2. `text_changed` is triggered and in the connected function you have to check if the new text is valid.\n3. If it is not, you have to override the node text (hopefully this doesn't trigger `text_changed`).\n4. You might have to reset caret position."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2023-07-03T13:10:57Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7193,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add to LineEdit and TextEdit a filter for valid input",
+  "up": 11,
+  "updatedAt": "2025-01-27T19:37:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7193"
+}

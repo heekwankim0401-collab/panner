@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the core engine.\n\n\n\nI don't expect this proposal to go anywhere because this change breaks a ton of compatibility, but I feel better just by writing this.",
+    "format": "legacy",
+    "workaround": "technically you work around this by doing nothing but that's not the point"
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-25T16:47:44Z",
+  "comments": 7,
+  "createdAt": "2020-11-24T05:27:12Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1885,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `Node.NOTIFICATION_PATH_CHANGED` to make it not misleading",
+  "up": 0,
+  "updatedAt": "2021-11-25T16:47:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1885"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's about improving the editor out of the box.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-05-18T14:08:38Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12455,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a taskbar icon overlay for the editor window to tell if embedded game window is paused or running",
+  "up": 1,
+  "updatedAt": "2025-05-19T14:27:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12455"
+}

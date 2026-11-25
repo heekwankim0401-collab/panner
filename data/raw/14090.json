@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "An add-on could be a viable approach if supported, but given how deeply this functionality would integrate with project files and current user documentation, it may be an unreasonable expectation. The requirement for both read and write access to project files, along with access to the latest official documentation, suggests that relying solely on an add-on may not be the most appropriate or robust solution.",
+    "format": "form",
+    "workaround": "No, this limitation cannot be addressed with a small code change; it would require a more substantial architectural solution."
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-23T14:52:23Z",
+  "comments": 6,
+  "createdAt": "2026-01-28T16:00:17Z",
+  "down": 37,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 14090,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "LLM tie in",
+  "up": 0,
+  "updatedAt": "2026-10-23T14:54:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14090"
+}

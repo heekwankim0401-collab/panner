@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "If `EditorExportPlugin` can't do it, then this has to be addressed in core.",
+    "format": "form",
+    "workaround": "I tried! I tried to write an editor export plugin that parses the raw `export_presets.cfg` file and auto-increments the version code on every export, but it turns out that export preset properties are cached and the `export_presets.cfg` file gets overwritten when an export is done, so... I couldn't figure out a way.\n\n<details>\n\n<summary>For reference, here's the code in my EditorExportPlugin that could not what this proposal proposes.</summary>\n\n```\n_set_value_in_all_config_options_sections(\"Android\", \"version/code\", version_code + 1)\n\n\nfunc _set_value_in_all_config_options_sections(preset_name_contains: String, option_id: String, option_val: Variant) -> void:\n\tvar config: ConfigFile = ConfigFile.new()\n\tconfig.load(\"res://export_presets.cfg\")\n\tfor options_section: String in _get_options_section(config, preset_name_contains):\n\t\tprint(\"setting \", option_id, \" to \", option_val, \" in \", preset_name_contains)\n\t\tconfig.set_value(options_section, option_id, option_val)\n\tconfig.save(\"res://export_presets.cfg\")\n\n\nfunc _get_options_section(config: ConfigFile, contained_name: String) -> Array[String]:\n\tvar a: Array[String] = []\n\tfor section: String in config.get_sections():\n\t\tif config.has_section_key(section, \"name\"):\n\t\t\tvar section_name: String = config.get_value(section, \"name\") as String\n\t\t\tif not section_name.contains(contained_name):\n\t\t\t\tcontinue\n\t\t\ta.append(section + \".options\")\n\treturn a\n```\n\n</details>"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-28T07:31:12Z",
+  "comments": 10,
+  "createdAt": "2025-10-29T13:52:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 13504,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add \"auto-increment version code\" functionality to Android exports",
+  "up": 10,
+  "updatedAt": "2026-01-28T14:53:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13504"
+}

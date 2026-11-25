@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Asynchronous functions are a fundamental concept and should be part of the cross-language scripting support.",
+    "format": "form",
+    "workaround": "AFAIK it can not be worked around if the GDScript method needs yielded/awaited."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-03T14:32:01Z",
+  "comments": 3,
+  "createdAt": "2022-11-02T14:24:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 5709,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "(C# Godot 3.5) Cross Language Scripting should allow awaiting",
+  "up": 1,
+  "updatedAt": "2022-11-07T19:47:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5709"
+}

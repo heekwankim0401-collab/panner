@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It pertains to every person using the script editor in Godot who would like better readability of line wrapping. It's a very general and fundamental use case.",
+    "format": "form",
+    "workaround": "This is a very fundamental feature, and my guess is that it would be used often. I'm not sure how easy it is in script to do this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-11-11T22:21:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3537,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Have further soft-wrapped lines be darkened to distinguish the same line in the script editor",
+  "up": 3,
+  "updatedAt": "2021-11-11T22:50:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3537"
+}

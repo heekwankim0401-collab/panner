@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not sure, I think it is built into Unity, but I'm not sure, if it's not in Godot already there might be a good reason for it, all it'd have to do was ' play ' the animations, and sounds in sequence, so one could set up a single, linear cinematic, and then be able to store several ones, that one can call, from a meta-code, or visual script box, ' TrackManager ', ' TrackComposer ', or so . . It could make a new place, in the debugger, same way adding an AnimationPlayer, one gets a sort of, well place to add key-frames, same thing, but for cinematics, ie. one can drag animations, sound, camera animations, and effect triggers, and play them, in a simple sequence, with option of having more than one sequence, to make branching animations, or cinematics . .\n\nThanks . .",
+    "format": "legacy",
+    "workaround": "I'm not sure, I have been wanting to make a nice cut-scene, cinematic in Godot, and it's rather confusing, how to even start . . Having a simple, powerful visual editor, where it makes sense, point-click, drag-and-drop, would really help me, get started . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-03T17:51:22Z",
+  "comments": 5,
+  "createdAt": "2020-08-13T04:14:41Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1356,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make a simple cut-scene editor where one can drag-drop animations, sounds, so on . .",
+  "up": 2,
+  "updatedAt": "2022-05-03T17:51:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1356"
+}

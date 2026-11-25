@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Involves changing the gdscript api and it is mandatory for most modern games.",
+    "format": "form",
+    "workaround": "I didn't find a work around for this"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 18,
+  "createdAt": "2024-03-08T15:57:01Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 9267,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an AnimationPlayer method to get the current frame of the timeline position",
+  "up": 1,
+  "updatedAt": "2024-04-28T12:59:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9267"
+}

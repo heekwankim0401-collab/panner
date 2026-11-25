@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If it's a wrapper around `AStar`, then the path cost will still be calculated twice (first when AStar pathfinding, second when wrapper computes it based on the pathfinding result).\n\nIt defeats the purpose of enhancing `AStar` if the plugin provides its own A* implementation.",
+    "format": "form",
+    "workaround": "Iterate through the returned path and repeat the same logic as AStar to compute the total cost."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-10-28T04:33:38Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 5667,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to get path cost from AStar",
+  "up": 37,
+  "updatedAt": "2022-10-28T16:17:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5667"
+}

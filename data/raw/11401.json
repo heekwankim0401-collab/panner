@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about improving the basic functionality of the PinJoint2D node",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-12-21T18:22:21Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 11401,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Replace NodePaths with exported node references in PinJoint2D",
+  "up": 1,
+  "updatedAt": "2024-12-21T21:24:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11401"
+}

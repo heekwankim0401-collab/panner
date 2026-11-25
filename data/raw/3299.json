@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's impossible to rename built-in nodes with GDScript alone.",
+    "format": "form",
+    "workaround": "It can be worked around by registering new types that extend `Listener2D`/`Listener3D`, but don't do anything else. In the end, this just clutters the UI."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-17T10:24:09Z",
+  "comments": 1,
+  "createdAt": "2021-09-15T14:41:56Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": "4.0",
+  "number": 3299,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename `Listener2D`/`Listener3D` nodes to `AudioListener2D`/`AudioListener3D`",
+  "up": 8,
+  "updatedAt": "2021-09-17T10:24:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3299"
+}

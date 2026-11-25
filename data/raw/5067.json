@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The idea is to make the camera not so distorted on the edges, so it could be useful for many 3D games.",
+    "format": "form",
+    "workaround": "This will be useful for FPS shooters at least\nhttps://www.youtube.com/watch?v=jQOJ3yCK8pI"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-03T14:09:15Z",
+  "comments": 2,
+  "createdAt": "2022-08-03T13:38:00Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5067,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a way to minimize camera distortion on the edges",
+  "up": 1,
+  "updatedAt": "2022-08-03T14:10:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5067"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Something like `OS.dark_mode` being an add-on would be totally unexpected. But this could be alleviated by stating it in the documentation page for OS, in a way where you'd find it by [Ctrl][F] searching the term \"dark\".\n\nBut I still think it should be Core because if \"Trivial line of code features like this being Add-Ons only\" pile up,\ninstalling All these Add-Ons every time you install Godot will become really annoying really fast.",
+    "format": "markdown",
+    "workaround": "I don't know of a way to do so,\neven after I searched."
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-29T17:20:06Z",
+  "comments": 9,
+  "createdAt": "2021-01-02T20:05:36Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": "4.0",
+  "number": 2062,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add way to detect system dark mode in GDScript",
+  "up": 18,
+  "updatedAt": "2023-12-29T17:20:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2062"
+}

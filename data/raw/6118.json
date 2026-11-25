@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "yes",
+    "format": "form",
+    "workaround": "```gdscript\nfunc is_white(string: String) -> bool:\n\tfor c in string:\n\t\tif not (c == \" \" or c == \"\\t\" or c == \"\\n\"):\n\t\t\treturn false;\n\treturn true;\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-01-18T15:32:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6118,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Global function for String to check if a string is made of white-space characters only.",
+  "up": 0,
+  "updatedAt": "2023-01-18T21:35:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6118"
+}

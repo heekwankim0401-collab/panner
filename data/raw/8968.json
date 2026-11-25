@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Notarization of exported macOS apps is already 99% there. Seems logical to complete it.",
+    "format": "form",
+    "workaround": "I can continue doing all the steps outside of Godot. Perhaps there is a way to do this with a bash script? I've never done that, but I guess I should look into that."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-01-25T17:28:32Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 8968,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Complete the macOS app notarization result instead of giving the user terminal commands",
+  "up": 0,
+  "updatedAt": "2024-02-06T14:36:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8968"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a sort of core security feature used often in REST APIs.",
+    "format": "legacy",
+    "workaround": "While we only need this for a specific use case, many REST APIs use HMAC for authentication, so to would useful to have in many instances.\n\nI'm not sure what the process now for implementing features is. I wasn't sure if I needed to create this issue and get sign off first, or I could just create a PR and push it through. I'm willing to port my plugin to the main repo if that's alright."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-03T10:08:16Z",
+  "comments": 1,
+  "createdAt": "2020-06-21T09:07:54Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:network"
+  ],
+  "milestone": "4.0",
+  "number": 1098,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose HMAC to GDScript",
+  "up": 0,
+  "updatedAt": "2021-11-06T13:21:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1098"
+}

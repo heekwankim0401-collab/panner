@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature is already in BlendSpace2D; it's reasonable to expect that it's in BlendSpace1D, especially since [the documentation](https://docs.godotengine.org/en/3.1/tutorials/animation/animation_tree.html) implies that the two nodes can be used similarly. Unfortunately, if you're working with sprites, BlendSpace1D is currently almost completely unusable.\n\nFrom a usability perspective, similar problems should have similar solutions. For instance, somebody who knows how to use a BlendSpace2D node for a top-down game should be able to make a similar blend node for a side-scroller — the only difference should be using a BlendSpace1D node instead. Or somebody who knows how to make an idle/walk/run blend node for a 3D game should be able to make an idle/walk/blend node for a 2D game — the only difference should be setting the discrete or carry blend mode.",
+    "format": "form",
+    "workaround": "The existing [reccomendations](https://www.reddit.com/r/godot/comments/o3ojb0/discrete_blend_mode_in_blendspace1d/) are different ways to discretize your input to the blend, so that, for instance, you're only passing in the values -1, -0.5, 0.5, and 1, instead of a range from -1 to 1.\n\nThis is a very brittle workflow. It will break easily, and requires tight coupling between the code and the animation tree."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-31T15:04:11Z",
+  "comments": 0,
+  "createdAt": "2022-12-13T07:24:44Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 5930,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "BlendSpace1D animation node should support discrete and carry blend modes, like BlendSpace2D",
+  "up": 2,
+  "updatedAt": "2023-01-31T15:04:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5930"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "its useful for simulating nodes without duplicating them",
+    "format": "legacy",
+    "workaround": "The would be used in any sort of seamless wrapping game and I don't think it can be worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2020-05-11T21:29:26Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 825,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `simulate_at()` method to Node2D and Node3D",
+  "up": 0,
+  "updatedAt": "2021-08-12T00:01:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/825"
+}

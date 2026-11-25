@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "BitmapFont is a built-in resource",
+    "format": "markdown",
+    "workaround": "Workaround : use the node scale property. Cannot work if you use containers to arrange your UI."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-11T18:25:57Z",
+  "comments": 3,
+  "createdAt": "2021-03-11T18:20:45Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2447,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to set text size for bitmap fonts",
+  "up": 0,
+  "updatedAt": "2024-12-21T19:38:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2447"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The current implementation seems like it only need some small changes to either:\n- Include the keyboard ID\n- Allow user to turn off godot's raw input device\nPlease let me know if I'm missing anything.",
+    "format": "form",
+    "workaround": "I have not found a way to get around this issue yet. The only successful case is not long term, it only get raw input until godot gain focus back.\nI have not tried to separate into another process to handle raw input, but this seems like it can work, since raw input is for 1 window each process."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-08-27T17:08:39Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:input",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 13083,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to get raw keyboard input ID on Windows, to separate different keyboards",
+  "up": 0,
+  "updatedAt": "2025-10-01T23:04:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13083"
+}

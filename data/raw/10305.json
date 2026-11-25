@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because primitive shapes should be in the core so that users can use them to build more complex shapes with them. \nMaybe it even would be good to have the option to manipulate the distribution in some way so that the old distribution can be obtained as well.",
+    "format": "form",
+    "workaround": "No because it affects directly how these primitive shapes work"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-07-28T22:07:30Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 10305,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "The sphere emission shapes for 2D and 3D particle systems are not uniformly distributed ",
+  "up": 1,
+  "updatedAt": "2024-07-31T15:02:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10305"
+}

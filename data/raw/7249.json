@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This should be in Godot's core and not in the asset library because it directly improves upon the tileset/tilemap system.",
+    "format": "form",
+    "workaround": "A workaround to this is to manually place the scene as a child in your level scene, but it quickly becomes tedious to instantiate a child and position it every time you want to place one"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 39,
+  "createdAt": "2023-07-09T09:15:23Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7249,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow changing exported variables of scene tiles",
+  "up": 80,
+  "updatedAt": "2026-10-15T19:25:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7249"
+}

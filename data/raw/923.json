@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It *would* be possible for you to simply create a BitFlag Resource script that has most of these features, and then have exporting it generate an interface similar to that of the existing enum flag export. It's just that, the whole point is to improve the usability of GDScript as a language. And the entire selling point of GDScript *is* its usability, so to leave this idea as an addon rather than a built-in feature kind of defeats the point.",
+    "format": "legacy",
+    "workaround": "I would use it regularly, as I'm sure others would too. It *can* be worked around with a few lines of script (since you can resort to bitwise operations for all of this), but the usability and readability would suffer which is exactly the problem this proposal wants to resolve."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2020-05-27T15:49:00Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 923,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve usability of bitflag fields in GDScript",
+  "up": 42,
+  "updatedAt": "2024-11-04T09:25:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/923"
+}

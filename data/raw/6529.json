@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is already an ability of the engine. Exposing it to gdscript would be nice.",
+    "format": "form",
+    "workaround": "I believe that this would be a very useful feature for people working on teams and for plugin developers.\nIt can be worked around bu putting the unit in the variable name."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-18T17:12:27Z",
+  "comments": 2,
+  "createdAt": "2023-03-18T16:09:19Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6529,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose exporting units for properties to gdscript",
+  "up": 0,
+  "updatedAt": "2023-03-18T17:35:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6529"
+}

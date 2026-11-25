@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Requires extending GDScript.",
+    "format": "form",
+    "workaround": "No.  The Packed*Array classes provide special access to buffers of this data type."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-12-13T23:07:01Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11348,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add PackedFloat16Array and PackedInt16Array to GDScript",
+  "up": 0,
+  "updatedAt": "2024-12-15T14:57:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11348"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The keywords highlight feature is core, and this would just be something to add on top of that and should not be in a plugin.",
+    "format": "form",
+    "workaround": "There isn't really a way to do this in the editor, as far as I know. There does exist plugins that do fully-fledged to-do lists in Godot but that's not the same thing: my issue is that a feature that is already implemented in the engine (highlighting keywords like TODO) seems a bit hollow and would need more to it for it to be actually useful."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-07-13T13:42:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10199,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an indicator of TODO comments in the code editor",
+  "up": 12,
+  "updatedAt": "2024-07-13T15:01:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10199"
+}

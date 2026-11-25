@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core functionality",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-07-29T15:09:13Z",
+  "down": 2,
+  "labels": [
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": "5.0",
+  "number": 12893,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Rename `CheckButton` to `Switch`",
+  "up": 5,
+  "updatedAt": "2025-08-11T11:07:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12893"
+}

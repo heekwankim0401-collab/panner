@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Given that the Icon functionality is there, it should be possible to build on the current implementation to make that work.",
+    "format": "form",
+    "workaround": "I think unique icons for instances of nodes would see quite a bit of use once its visible in the node properties.\nI don't know if this can be worked around, but as it is a purely visual thing, I doubt it has impact on other things."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2023-12-07T12:44:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8603,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to customize the icon used for a given script regardless of its `@icon` annotation",
+  "up": 1,
+  "updatedAt": "2026-09-14T11:47:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8603"
+}

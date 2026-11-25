@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't know how often anyone uses this. It's probably dependent on personal workflow. But I suppose this would fall under core editor functionalities, and as more than just a nice-to-have. And besides, as an addon it would remain mostly obscured, especially to new users, and not be as helpful as it could be.",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-11-12T02:31:20Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1809,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow creating/removing `.gdignore` files using the FileSystem dock",
+  "up": 7,
+  "updatedAt": "2025-01-04T10:58:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1809"
+}

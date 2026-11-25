@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be core because it's a basic feature in blender and editors in general",
+    "format": "markdown",
+    "workaround": "I mean it could because you wouldn't need multiple animation players all at once"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-05-25T22:53:43Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2774,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to hide animation player tracks for better organization",
+  "up": 6,
+  "updatedAt": "2021-05-25T23:40:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2774"
+}

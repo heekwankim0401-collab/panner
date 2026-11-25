@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Rollback netcode has been described as free lag experience for online games.\nAs such It's very beneficial not just for 2D fighters but for more genres that requires netcode, because it gives a free lag experience compared to normal online methods.\nIt should be a core network issue, or at least godot developers should have some discussion to see if they can use some of the ideas of ggpo specifically to improve the godot networking to a level where is a lag free experience to the users.",
+    "format": "legacy",
+    "workaround": "No, this requires integration with the godot engine at some level, specifically the ggpo step of resimulation the engine in a single frame, is not a trivial problem for average users."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-23T18:05:08Z",
+  "comments": 8,
+  "createdAt": "2020-08-07T18:04:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 1328,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement some API for rollback netcode",
+  "up": 0,
+  "updatedAt": "2021-07-23T18:16:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1328"
+}

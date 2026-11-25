@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this could implement just by adding a update region function in ImageTexture class.",
+    "format": "form",
+    "workaround": "I have tried a lot method, none of them work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2025-08-17T02:57:22Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13012,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Readd support for partial texture updates in RenderingServer",
+  "up": 5,
+  "updatedAt": "2025-10-23T06:25:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13012"
+}

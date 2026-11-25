@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I don't think so",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-02T17:28:47Z",
+  "comments": 2,
+  "createdAt": "2023-07-02T17:23:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 7187,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to re-build lightprobes data without baking LightmapGI again",
+  "up": 0,
+  "updatedAt": "2023-07-02T17:35:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7187"
+}

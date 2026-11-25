@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core, as defined in error_macros.h",
+    "format": "form",
+    "workaround": "It cannot be worked around, as it's in core error_macros.h"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-05T08:39:40Z",
+  "comments": 4,
+  "createdAt": "2021-10-04T16:52:41Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3382,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Print useful error messages in release builds",
+  "up": 2,
+  "updatedAt": "2021-10-05T08:39:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3382"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about consolidating 2 nodes with similar functionality and making all of the functionality available in exported projects outside the editor.\n\n----------\n\nI am planning to work on implementing this sometime around next week unless there are any good objections or reasons not to do this that I didn't think of. I made this proposal for more discussion and ideas about this before working on it.",
+    "format": "form",
+    "workaround": "EditorSpinSlider can be reimplemented with a script, but not in a few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-05-24T06:25:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 4584,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add EditorSpinSlider features to SpinBox and remove EditorSpinSlider",
+  "up": 24,
+  "updatedAt": "2024-09-10T16:12:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4584"
+}

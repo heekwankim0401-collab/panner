@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Modifying `scons` is a core change; we want to give better access to this feature. Some very tricky text escaping issues make generating `.pdbs` via llvm-mingw not easy to use.",
+    "format": "form",
+    "workaround": "We would use this every time we build a Godot Engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-11-06T01:14:35Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 11103,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Integrate generating .pdbs with scons and llvm-mingw",
+  "up": 4,
+  "updatedAt": "2026-08-28T13:21:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11103"
+}

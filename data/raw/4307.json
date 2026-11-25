@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "BitMap is core, and most other visual resources (such as Texture, Mesh, Font, Gradient, StyleBox, etc.) have previews in the inspector.",
+    "format": "form",
+    "workaround": "You can create an in-game preview with GDScript, but that doesn't help much in the case of TextureButton/TouchScreenButton click masks."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-26T10:20:08Z",
+  "comments": 10,
+  "createdAt": "2022-03-30T01:56:31Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4307,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a BitMap preview to the inspector",
+  "up": 3,
+  "updatedAt": "2022-04-26T10:20:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4307"
+}

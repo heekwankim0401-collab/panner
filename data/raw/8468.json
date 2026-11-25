@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a engine-side issue.",
+    "format": "form",
+    "workaround": "This can be workaround by disabling multiple windows in editor settings, but is inconvient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-11-18T16:25:44Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 8468,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve Modal Window (Project settings etc.) behaviour on Windows.",
+  "up": 11,
+  "updatedAt": "2026-02-06T22:18:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8468"
+}

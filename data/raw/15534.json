@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-09-16T15:38:13Z",
+  "down": 4,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 15534,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow booleans to automatically act as integers for math",
+  "up": 0,
+  "updatedAt": "2026-10-12T12:27:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15534"
+}

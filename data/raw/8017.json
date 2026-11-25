@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a core feature.",
+    "format": "form",
+    "workaround": "This is a core feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2023-10-07T06:50:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8017,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Dragging properties from inspector into code generates code to get the property",
+  "up": 6,
+  "updatedAt": "2023-10-08T09:47:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8017"
+}

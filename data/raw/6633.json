@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As stated above, unless the post-processing World Environment shader is editable, it can't be done other than as a feature that is directly included in this core node.",
+    "format": "form",
+    "workaround": "Unfortunately there is no way to edit the image post processing GPU shader defined by the World Environment, in the same way that we can edit the Material Shaders (by converting them from Spatial Material to Shader Material is which it is possible to hand edit the shader code), or there would be a potential work around by adding code to that.\n\nThe code that can be used in Unity to implement it is here:\nhttps://github.com/SFraissTU/BA_PointCloud/blob/master/PointCloudRenderer/Assets/Resources/Shaders/EDL.shader"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-11T17:16:55Z",
+  "comments": 4,
+  "createdAt": "2023-04-04T11:39:00Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6633,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement Eye Dome Lighting post-processing effect",
+  "up": 0,
+  "updatedAt": "2023-04-12T00:02:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6633"
+}

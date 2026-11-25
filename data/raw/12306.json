@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The desired workflow and functionality requires changes to the Node class because every Node-derived type must also support components. For example, Node3D/Node2D types must support components in order for their transforms to update properly down the SceneTree.\n\nAn EntityNode could be implemented with GDExtension, however, since it can't be the root of prefab scenes, it prevents the desired workflow from being possible.\n\nA solution could be implemented with GDExtension if the concept of class extensions (similar to .Net C# extensions) were supported. This would allow the user to add a NodeExtension class with the desired functions and properties. Then an editor plugin could be implemented to manage the components at design time. Note that Node's propagated notification-specific functions would also need to be overridden to allow it to call Component's relevant functions (e.g., _process(), _input()).\n\n[Edit: removed redundant/obvious statements. Recorded some things.]",
+    "format": "form",
+    "workaround": "The problem domain of this proposal is nearly identical (if not identical) as the ones described in these proposals.\n\nhttps://github.com/godotengine/godot-proposals/issues/4872\nhttps://github.com/godotengine/godot-proposals/issues/6416\n\nConsidering the community engagement, and the number of users with the same problem/limitation, I would say that this feature would be widely used.\n\nThe current community consensus is for adding Traits, Mixins, or Interfaces. However, as indicated by maintainers on those proposals, these solutions require adding these features to GDScript and effect much of the engine's code. GDExtension would, I imagine, also need to support the new Traits system.\n\nIn contrast, this proposal aims to offer a solution to the problem domain that would require less work/time. It uses the existing functionality of Resource (though a Component class would ideally be inherited directly from Object and have its own unique caching/saving behavior, as Resource's behavior may not be quite in alignment with what is desired here). See the PR. (https://github.com/godotengine/godot/pull/105663) An additional benefit of components is that they can be added/removed at runtime.\n\nEither solution (traits or components) would break backward compatibility with projects."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2025-04-24T00:35:08Z",
+  "down": 25,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12306,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Components to Node",
+  "up": 9,
+  "updatedAt": "2026-11-12T17:43:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12306"
+}

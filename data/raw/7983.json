@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because its a basic function when we use 2D grid (I guess)",
+    "format": "form",
+    "workaround": "Yes, see my code above"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-03T09:29:46Z",
+  "comments": 3,
+  "createdAt": "2023-10-04T13:24:49Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 7983,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `distance_to()` method to Vector2i",
+  "up": 7,
+  "updatedAt": "2024-01-03T09:31:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7983"
+}

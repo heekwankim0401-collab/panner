@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The WebRTC plugin (at least for \"all platforms\" [godotengine/webrtc-native)](https://github.com/godotengine/webrtc-native)) already is in the Asset Library as a plugin.\nI also don't see how one would add this functionallity in a plugin, rather than modifiying (or forking ...) the plugin and re-releasing it _with_ the fix.",
+    "format": "form",
+    "workaround": "I haven't found a way yet to make this work.\nMy best bet is to check the state of the peer (or channel) periodically after a ICE candidate is being added to see if it did connect or not. \nHowever ideally all ICE Candidates should be added at the same time or within quick succession and not delay them and try one-by-one until one works.\n\nWhile this works, it's not practical at all, involves a lot of unncessary polling and timeouts/timers and simply isn't how WebRTC is designed to work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-11-18T16:41:26Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 8469,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method/signal to retrieve the WebRTC selected candidate (ICE) pair",
+  "up": 1,
+  "updatedAt": "2025-03-09T22:55:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8469"
+}

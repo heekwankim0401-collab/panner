@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Shader language improvements must be core.",
+    "format": "markdown",
+    "workaround": "This enhancement will affect anyone who has more than a passing interest in shaders."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-26T23:23:12Z",
+  "comments": 7,
+  "createdAt": "2021-01-24T18:42:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2176,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Particle shaders are 10x as slow as they could be",
+  "up": 0,
+  "updatedAt": "2021-09-26T23:24:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2176"
+}

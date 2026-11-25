@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes, This is a problem that comes up in tons of projects, and makes Godot more intuitive to new users.",
+    "format": "legacy",
+    "workaround": "Examples of workarounds and why they aren't effective\n* Parenting each node so that `Pass` will let the current sibling nodes also read the mouse.\nThis is not a very modifiable or readable approach. This doesn't use parenting for it's intended purpose, and in the case of multiple UI systems acting in unison, it isn't always possible.\n\n* Reading mouse data in `_process`\nReading mouse data in process loses handling of the mouse. As a concrete example, I don't want to trigger `mouse_entered` on the bottom control node if the user is just mousing over the button.\n\n* Adding corner control nodes\nThis works in this simple example, but it doesn't expand, to fix the problem as a whole. Again, it doesn't work if multiple UI systems are working in unison. It also doesn't work if there are multiple layers that want this functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2020-05-12T05:52:59Z",
+  "comments": 8,
+  "createdAt": "2020-05-11T19:05:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 824,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rework mouse_filter system to be more flexible and intuitive",
+  "up": 0,
+  "updatedAt": "2020-05-12T07:23:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/824"
+}

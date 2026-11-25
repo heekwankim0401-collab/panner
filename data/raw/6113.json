@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I am not sure how many people use scene tree timer in their games. But if we can implement this optimization it can also be done for timer node and tweens.",
+    "format": "form",
+    "workaround": "This is possible to implement this system by using an autoload script, one timer and few scripts."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-20T16:56:07Z",
+  "comments": 18,
+  "createdAt": "2023-01-17T08:24:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6113,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Scene Tree Timer Process Optimization",
+  "up": 1,
+  "updatedAt": "2023-01-20T23:45:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6113"
+}

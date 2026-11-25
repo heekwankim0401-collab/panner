@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a straightforward, fundamental improvement to the way that the engine handles appearance, and should not be relegated to an add-on.",
+    "format": "form",
+    "workaround": "Technically possible, but this would vastly improve the process of customizing the editor appearance. The process, as it currently stands, is not very intuitive and does fall into the scope of basic editor functionality."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-01-24T13:11:04Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14058,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to make the \"Default Clear Color\" and relevant values theme-specific, for better legibility in Lighter Modes",
+  "up": 0,
+  "updatedAt": "2026-01-28T23:43:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14058"
+}

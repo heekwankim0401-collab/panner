@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is deeply intertwined with Navmesh generation and Pathfinding",
+    "format": "form",
+    "workaround": "In theory it would be possible to keep the Mesh source(s) of a Navmesh around and do some mesh manipulation and then cutting that part out and creating NavigationRegion3Ds… but that would be really cumbersome, error-prone (do the edges still align so region traversal works??) and generally cause bad performance.\n\nAlternatively, I could frankenstein NavigationObstacle3Ds together and run multiple pathfindings and compare the costs, which I would need to keep doing for as long as this traversable obstacle exists. For all possible traversable obstacles, for all agents…"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-08-08T21:08:47Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": null,
+  "number": 5116,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add NavigationArea to mark areas on NavigationRegion(s) as water, ground, etc.",
+  "up": 10,
+  "updatedAt": "2025-02-01T21:43:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5116"
+}

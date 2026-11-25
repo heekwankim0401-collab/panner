@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "`GridMap` is already core.",
+    "format": "form",
+    "workaround": "A few lines of script are not enough and could be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 30,
+  "createdAt": "2021-11-08T17:57:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3518,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Replace GridMap with an improved TileMap3D node (inspired by the new 2D TileMap)",
+  "up": 228,
+  "updatedAt": "2026-11-14T09:19:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3518"
+}

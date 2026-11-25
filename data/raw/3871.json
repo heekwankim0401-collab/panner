@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would improve the workflow of editing TileSets for most users.",
+    "format": "form",
+    "workaround": "This can be worked around by editing the layers in the inspector instead, but it will likely see use whenever people are setting up a TileSet."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2022-01-26T20:02:42Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.x",
+  "number": 3871,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow adding/editing TileSet layers in the new TileSet editor",
+  "up": 0,
+  "updatedAt": "2023-02-24T03:06:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3871"
+}

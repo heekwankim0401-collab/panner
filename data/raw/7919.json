@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves the overall functionality of the AnimationPlayer, as it would remove a lot of headaches and tediousness of just editing overall animations.",
+    "format": "form",
+    "workaround": "Again Im an artist, so I would not know."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-09-29T15:29:03Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7919,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add editable track groups to the AnimationPlayer editor",
+  "up": 1,
+  "updatedAt": "2023-10-01T00:16:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7919"
+}

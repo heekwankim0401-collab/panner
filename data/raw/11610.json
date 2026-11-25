@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "`TranslationDomain`s were originally created for editor plugins to use, but I think it could be useful outside of there, too.",
+    "format": "form",
+    "workaround": "You can use `_get_property_list` for this, but it would be too complex for some workflows."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-01-19T12:54:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11610,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Node.translation_domain`",
+  "up": 1,
+  "updatedAt": "2025-06-05T05:04:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11610"
+}

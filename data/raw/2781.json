@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Godot famously claim that \"Godot is a Godot game\", yet you can't re-create Godot interface itself with the currently available nodes.",
+    "format": "markdown",
+    "workaround": "I don't think it can be worked around in a few lines... right now the workaround would be litearlly to recreate the inspector from scratch, maybe including C++ code in the same way Godot itself was made."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-26T19:09:53Z",
+  "comments": 2,
+  "createdAt": "2021-05-26T18:57:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2781,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make Inspector related nodes available for use",
+  "up": 0,
+  "updatedAt": "2021-05-26T19:10:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2781"
+}

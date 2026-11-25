@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AudioStreams are core to godot, and volume adjustments at various steps along the way is a common feature of audio workflows.",
+    "format": "form",
+    "workaround": "It would likely be tricky and convoluted to keep track of currently playing AudioStreams and adjust the AudioStreamPlayer's volume to be a sum of all AudioStream volumes. In addition, that would likely not work when polyphony is taken into account."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2025-04-01T06:21:47Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 12133,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add volume control to AudioStream",
+  "up": 19,
+  "updatedAt": "2025-06-03T08:01:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12133"
+}

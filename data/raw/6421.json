@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I'm not sure if this is possible via the asset library.",
+    "format": "form",
+    "workaround": "It can be worked around with a few lines in a `_process()` call, but this would have to either be duplicated between all instances of dynamic translated text, or placed within a Singleton class, which would be cumbersome."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-03T23:22:01Z",
+  "comments": 4,
+  "createdAt": "2023-03-03T23:01:19Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6421,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Signal for change of locale",
+  "up": 0,
+  "updatedAt": "2023-03-04T08:53:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6421"
+}

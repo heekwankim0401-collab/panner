@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it's a feature that should be supported natively since it is a native feature of Android.",
+    "format": "form",
+    "workaround": "I noticed that as of at least Godot 3.5.1 the folder is still created at /sdcard/Android/data/[unique_name]/files/ and that directory IS writable without storage permissions. So i could make it manually put files in that location instead of user:// but that is kind of annoying since I cannot find a way to get the Android unique_name property in gdscript so i have to manually place it in a const and update the const if I change the unique_name."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-12-16T05:43:12Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 5944,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Option to use publicly accessible app data folder on Android",
+  "up": 3,
+  "updatedAt": "2026-01-28T08:32:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5944"
+}

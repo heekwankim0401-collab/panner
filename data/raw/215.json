@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an enhancement which user would use without knowing it, but I think a lot of people would assume that the editor will respect their predefined settings of packed scenes no matter how a variable was named, it would improve the usability of the editor A LOT.",
+    "format": "legacy",
+    "workaround": "maybe currently it can be done by using an out of the box text editor (e.g. vscode) which will also look deeper into the according tscn files."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-05T16:35:35Z",
+  "comments": 8,
+  "createdAt": "2019-11-08T16:50:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 215,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Renaming of exported variables should not delete associated values",
+  "up": 15,
+  "updatedAt": "2021-09-08T12:15:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/215"
+}

@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "core": "1. Because the add-on/asset library developer may not be able to keep up with the new Godot versions.\n2. Lots of people will be so happy if you guys implement this wonderful feature.",
+    "format": "markdown",
+    "workaround": "Unfortunatelly, no."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-07T13:24:58Z",
+  "comments": 2,
+  "createdAt": "2021-05-07T12:59:40Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "platform:ios",
+    "topic:platforms",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 2694,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add advertisement (Unity ads, Admob ads, Facebook ads) support to Godot for mobile platforms (Android and iOS)",
+  "up": 0,
+  "updatedAt": "2021-05-07T13:33:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2694"
+}

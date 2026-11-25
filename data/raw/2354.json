@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "markdown",
+    "workaround": "No, as shadowmapping appearance is handled by the core renderer."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-12T13:18:14Z",
+  "comments": 3,
+  "createdAt": "2021-02-25T23:28:51Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.4",
+  "number": 2354,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement support for subtractive shadowmapping or shadowmasking in DirectionalLight (for use with BakedLightmap)",
+  "up": 33,
+  "updatedAt": "2025-01-11T16:19:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2354"
+}

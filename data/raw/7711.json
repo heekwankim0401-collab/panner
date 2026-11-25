@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The main reason we dont want to use so many addons/plugins for making maps or even outside Program's is very easy.\nIt makes Game Development riskier and you get more bugs or even limitations because of this.\nFor example Tilesetters Dev hasn shown up the last year,this means all bugs and fetueres that are in or not are limitations for the users of his editor. We have enough Limits in Godot already we dont need some more outside of it.\nI used the Hammer++ Editor for example because its clean and easy to use.\nThe Map-editor is always an Core part of every AAA Engine out there.\nPls give us an real 2d or 3d map editor, not an sandbox of it we need to build ourself only to build the real things we want to build only to make and game after all of this ......",
+    "format": "form",
+    "workaround": "it will be used every time,because everyone makes an game that uses maps,tilemaps,open world 3d maps,racetrack maps,sidescroller maps and so on. Right now we just use an bunch of pieces to build the endproduct, we dont really have an 3d or 2d editor to make an Map."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-17T16:59:19Z",
+  "comments": 2,
+  "createdAt": "2023-09-17T14:17:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7711,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an real 3D and 2D Map editor in Godot without the need of any plugin,scripting or addon.",
+  "up": 0,
+  "updatedAt": "2023-09-17T17:00:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7711"
+}

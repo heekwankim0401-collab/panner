@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Given that it concerns the inner workings of a Node and its usage of a method that can only be used internally, an Addon isn't really an option.",
+    "format": "form",
+    "workaround": "the documentation suggests using a texture with transparent padding at the edges to prevent the artifacts from occurring with linear filtering. But that would require adding the padding to every texture, so it isn't a really easy workaround. The other option would be to use a Material and disable repeat there. But using a material on a Sprite3d would also overwrite all other settings of the node, making it not really different from a MeshInstance3d.\nAnd the whole point of Sprite3d is that it doesn't require adding a material and allows easy change of each parameter without affecting other instances that use the same material."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-08-21T18:38:47Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13044,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose texture_repeat on SpriteBase3D",
+  "up": 1,
+  "updatedAt": "2025-08-22T01:09:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13044"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think it's most intuitive behaviour for subwindows audioplayers and it should in core by default.",
+    "format": "form",
+    "workaround": "No, it can't be worked around. Current functionality of Godot can't make subwindows play audios separately.\nI've tried fiddling with AudioBuses, but it's unsuccessful."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-04-12T21:08:04Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12223,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an ability to play sounds from subwindows",
+  "up": 0,
+  "updatedAt": "2025-04-14T22:14:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12223"
+}

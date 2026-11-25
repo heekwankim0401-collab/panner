@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is core editor functionality.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-15T17:06:30Z",
+  "comments": 4,
+  "createdAt": "2024-10-06T07:09:42Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 10910,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "EditorResourcePicker: Add quick access for QuickOpenDialog ",
+  "up": 10,
+  "updatedAt": "2025-08-15T17:06:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10910"
+}

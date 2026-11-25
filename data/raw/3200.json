@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Placing tiles should be easy, this makes a core part of level design easier and more consistent.  To be honest, I don't really understand the current behavior at all.\n\nI know there's a big rework of tiling currently in progress.  However, I didn't see anything specific about autotiles / verbatim pasting so I figured I would suggest this anyway.",
+    "format": "form",
+    "workaround": "I don't think it can be."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-08-25T05:26:13Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3200,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make autotile recalculation more consistent and controllable when using pencil tool/ copy-pasting ",
+  "up": 1,
+  "updatedAt": "2023-01-23T19:55:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3200"
+}

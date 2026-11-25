@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think this can be a GDNative addon in theory. MaterialX is a native code library. Wanted to post the proposal here for review.\n\n**Other**\n\nI am not working on Import MaterialX for procedural materials, feel free to take on the task.",
+    "format": "legacy",
+    "workaround": "Generating shader graphs is non-trivial. Both ux and rendering materials require work."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2020-04-15T20:09:16Z",
+  "down": 0,
+  "labels": [
+    "topic:import",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 714,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Import MaterialX for procedural materials",
+  "up": 37,
+  "updatedAt": "2026-02-02T12:51:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/714"
+}

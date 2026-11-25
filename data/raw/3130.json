@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be a relatively simple addition that would be incredibly useful for those making pseudo-3D pixel art games.",
+    "format": "form",
+    "workaround": "After much research, I have found no way to implement sprite animation into spatial materials (aside from animatedTextures, which doesn't support SpriteFrames and would be extremely inefficient for longer animations.) This means the only way to use the fixed-size feature would be for it to be implemented into the AnimatedSprite3D node itself."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-10T13:50:31Z",
+  "comments": 3,
+  "createdAt": "2021-08-13T02:29:48Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 3130,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Fixed Size property to AnimatedSprite3D and Sprite3D",
+  "up": 3,
+  "updatedAt": "2024-06-10T13:50:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3130"
+}

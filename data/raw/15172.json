@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-07-11T20:47:17Z",
+  "down": 4,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 15172,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow explicitly defining indices in Array initializers (like for Dictionaries)",
+  "up": 0,
+  "updatedAt": "2026-08-23T15:46:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15172"
+}

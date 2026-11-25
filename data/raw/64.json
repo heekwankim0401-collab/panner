@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I can't see why it shouldn't be a standard feature, it would save time and make the workflow more intuitive.",
+    "format": "legacy",
+    "workaround": "It wouldn't need to be worked around, either you click on the Debug Play button or you click the Normal Play button."
+  },
+  "assignees": 0,
+  "closedAt": "2019-11-12T14:13:31Z",
+  "comments": 4,
+  "createdAt": "2019-09-13T23:14:24Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 64,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Debug Play vs Normal Play",
+  "up": 0,
+  "updatedAt": "2020-08-05T08:00:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/64"
+}

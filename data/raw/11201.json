@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In worse case this could expand the core by ~50 lines in return for easier use of the worker threadpool and overall some performance improvements all around when using the worker threadpool. (Allows automatic memory management, or a way of managing memory without freezing the thread it is called from (which also calls 2 functions instead of 1)).",
+    "format": "form",
+    "workaround": "This enhancement can be worked around in a few lines of code, however the current workaround can be clunky and hard to simply write/explain in the docs to someone without coding knowledge, and the usage of WorkerThreadPools is ideally to simplify the multithreading process for people not familiar and or unwilling with implementing it themselves with the Threads class.\n\nWorkaround for checking to see if a task is completed, and then clearing resources:\nIf is_task_completed(tid):\n   wait_for_task_completion(tid)\n\nNote how if you want to prevent memory leaks, and no other code relies on acknowledging that your task is finished you must check to see if a task is completed, and then WAIT on said task completing (although it's already completed).\n\nYou also need to keep an array or list of active task as well, as task management is not automatically done, and there is no way to get a list of all the currently monitored tasks."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 15,
+  "createdAt": "2024-11-21T05:28:49Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11201,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improvements to memory handling for WorkerThreadPools",
+  "up": 15,
+  "updatedAt": "2025-01-26T14:00:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11201"
+}

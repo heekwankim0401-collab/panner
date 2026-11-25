@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The Script Editor is very much core.",
+    "format": "form",
+    "workaround": "Not really."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-02-21T22:18:58Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4073,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Script Editor: In the \"Method Filter\" list, highlight the method the caret is currently inside of",
+  "up": 9,
+  "updatedAt": "2025-10-17T21:39:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4073"
+}

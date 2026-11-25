@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AnimationPlayer is core and needs more usability :)",
+    "format": "form",
+    "workaround": "I don't think an Editor plugin can do that."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-01-30T00:21:23Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6206,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement dragging animation Audio Playback keyframes across tracks",
+  "up": 5,
+  "updatedAt": "2023-01-30T09:24:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6206"
+}

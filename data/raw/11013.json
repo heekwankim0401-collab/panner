@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think we can simplify `TabContainer` code with `ZBoxContainer`.",
+    "format": "form",
+    "workaround": "Yes if only basic functions are needed. e.g., Show/hide child controls that always take the full size of the parent node.\n\nNo for a proper container node. Implementing alignment and min size calculation features described above is not a few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-10-23T07:49:10Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11013,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `ZBoxContainer` that displays only one child control at a time",
+  "up": 1,
+  "updatedAt": "2025-11-13T12:44:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11013"
+}

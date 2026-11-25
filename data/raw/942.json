@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "How would an asset know what and when to pause? IIRC it needs core changes, plus assets can't add to project settings AFAIK.\n\nOriginal issue: https://github.com/godotengine/godot/issues/16397\n\nETA: It seems that the animated sprites and tiles suffer from the same problem, and especially for tiles, the workaround would be very involved.",
+    "format": "legacy",
+    "workaround": "While this is possible by setting emitting to false on particles, it requires attaching a tool script to EVERY particle emitter. The bigger the project, the less feasible this gets."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 13,
+  "createdAt": "2020-05-28T17:10:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.x",
+  "number": 942,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add ability to pause all animated content within the editor (implemented in 3.5, not ported to `master` yet)",
+  "up": 12,
+  "updatedAt": "2024-10-26T19:13:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/942"
+}

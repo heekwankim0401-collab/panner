@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Multi-pass shaders cannot be added with an add-on or asset library.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 29,
+  "createdAt": "2020-02-20T15:05:10Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 496,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add proper and complete support for multi-pass shaders",
+  "up": 229,
+  "updatedAt": "2023-11-17T06:22:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/496"
+}

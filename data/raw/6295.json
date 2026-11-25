@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "To implement this fix in both the editor and all Godot games.",
+    "format": "form",
+    "workaround": "In your own game, this can be worked around by using:\n\n```cs\npublic override void _Notification(int what)\n{\n    switch ((long)what)\n    {\n        case NotificationWMMouseExit:\n            Input.ParseInputEvent(new InputEventMouseMotion());\n            break;\n    }\n}\n```\n\nImplementing this into the editor would be trivial, but making it work at an engine-level would fix the issue for the editor and all games made with Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-15T15:23:48Z",
+  "comments": 2,
+  "createdAt": "2023-02-15T14:46:58Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 6295,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Hide tooltips and clear hover when mouse exits editor window",
+  "up": 0,
+  "updatedAt": "2023-02-15T15:23:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6295"
+}

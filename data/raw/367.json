@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If there's a way to make this into an addon, I don't see why not. But it's not a heavy addition, and only expands upon common text styling options to make `RichTextLabel` more versatile.",
+    "format": "markdown",
+    "workaround": "Probably not. At least, I don't see how you could alter the background color of certain characters within a text node using only scripts."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-25T08:30:35Z",
+  "comments": 3,
+  "createdAt": "2020-01-08T12:59:07Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 367,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "RichTextLabel: highlighting and redacting",
+  "up": 5,
+  "updatedAt": "2021-06-25T09:08:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/367"
+}

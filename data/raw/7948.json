@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a simple mechanic that gets used over and over again by anyone creating animated sprites.  I think it will save a lot of time if it becomes part of the core system.",
+    "format": "form",
+    "workaround": "Probably, I am not too sure."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-01T16:07:00Z",
+  "comments": 1,
+  "createdAt": "2023-10-01T13:54:06Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 7948,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Select Frames dialog horizontal and vertical slice values should default to previously used values",
+  "up": 1,
+  "updatedAt": "2023-10-01T16:07:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7948"
+}

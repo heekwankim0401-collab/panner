@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's GDScript syntax.",
+    "format": "form",
+    "workaround": "It is possible to use unicode value literals:\n\n```gdscript\nvar char := 97  # a\n```\n\nThese can be looked up on sites like [unicodelookup.com](https://unicodelookup.com).\nIt is also possible to use GDScript:\n\n```gdscript\nvar char := \"a\".unicode_at(0)\n```\n\nHowever, this is slow."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2025-02-05T12:24:25Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11704,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Single-character String literal (`int` type)",
+  "up": 2,
+  "updatedAt": "2026-08-10T06:09:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11704"
+}

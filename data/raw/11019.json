@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature is very common, especially when importing multiple images from a large atlas.",
+    "format": "form",
+    "workaround": "Automatic slicing is not necessarily equidistant, so coordinate calculation is not available in some cases and an official interface is required."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-24T12:18:08Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11019,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow selecting AtlasTexture autoslice region from code",
+  "up": 2,
+  "updatedAt": "2024-10-24T21:03:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11019"
+}

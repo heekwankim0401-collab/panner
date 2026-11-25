@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because it looks like obvious changable parameter and we were really surprised when we saw it's not possible to do.",
+    "format": "legacy",
+    "workaround": "I'm too dumb to get an idea on workaround"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-08-02T13:47:37Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1293,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add ability to change AnimationTree OneShot's fadein_time and fadeout_time in real time in game",
+  "up": 1,
+  "updatedAt": "2020-08-02T14:02:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1293"
+}

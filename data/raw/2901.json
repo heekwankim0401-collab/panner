@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form",
+    "workaround": "`tween.stop_all()`\n`tween.emit_signal(\"tween_all_completed\")`\n\nand you would have to set the end value after the yield"
+  },
+  "assignees": 1,
+  "closedAt": "2021-06-24T17:24:19Z",
+  "comments": 2,
+  "createdAt": "2021-06-22T14:57:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2901,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a `Tween.finish()` method",
+  "up": 0,
+  "updatedAt": "2021-06-24T17:24:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2901"
+}

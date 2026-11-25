@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Tweens are core",
+    "format": "form",
+    "workaround": "Working around this is very clunky, requiring keeping a reference to the tween around, signalling whenever `Engine.time_scale` is updated, have the signal trigger an update function that will re-normalize the tween speed, and then clean up once the tween is finished or it won't be automatically freed. Very much goes against \"set and forget\" usage of tweens."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-30T15:08:09Z",
+  "comments": 0,
+  "createdAt": "2024-12-21T21:53:38Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": "4.4",
+  "number": 11404,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option for tweens to ignore `Engine.time_scale`",
+  "up": 3,
+  "updatedAt": "2024-12-30T15:10:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11404"
+}

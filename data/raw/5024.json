@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improving the default values is the better choice in my opinion.",
+    "format": "form",
+    "workaround": "Can probably work with a singleton hooked with certain signals that are emitted after scene loads."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-09T23:24:50Z",
+  "comments": 2,
+  "createdAt": "2022-07-30T17:36:20Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 5024,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Default GI & ambient inject value for volumetric fog should be 1",
+  "up": 0,
+  "updatedAt": "2022-09-09T23:25:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5024"
+}

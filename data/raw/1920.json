@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "CSG nodes are being developed right now and they improved a lot.\nI understand that they are designed for quick use but I think it is a bit strange that  `use collisions` creates a StaticBody like object rather then an actual StaticBody.\nI have also found this old [issue](https://github.com/godotengine/godot/issues/23331)",
+    "format": "markdown",
+    "workaround": "My c++ and engine understanding is poor but the shape is already there, I believe it would need few extra lines to access it\nLooks like the [code](https://github.com/godotengine/godot/blob/dcd11faad3802679a43b27155f1b6bc59aa39b60/modules/csg/csg_shape.cpp) is there, we just need the methods"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-19T14:19:00Z",
+  "comments": 4,
+  "createdAt": "2020-12-02T00:11:55Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core",
+    "topic:physics"
+  ],
+  "milestone": "4.4",
+  "number": 1920,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "There isn't any method to access a CSG node collision shape",
+  "up": 9,
+  "updatedAt": "2024-08-19T14:20:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1920"
+}

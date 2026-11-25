@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Providing command line arguments to godot needs to be done in core (as far as I can see).",
+    "format": "form",
+    "workaround": "This can be worked around by calling the engine repeatedly with the right arguments, at a significant time cost for big projects."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-03-13T00:29:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 11975,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a command line option equivalent to \"Export all\"",
+  "up": 3,
+  "updatedAt": "2025-03-13T13:25:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11975"
+}

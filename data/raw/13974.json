@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The flag exists, but seems to have only one specific use case.",
+    "format": "form",
+    "workaround": "We can bind or capture the object in a lambda, but having an \"official\" way to do it would be great."
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-19T23:26:15Z",
+  "comments": 1,
+  "createdAt": "2026-01-07T20:59:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.6",
+  "number": 13974,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make CONNECT_APPEND_SOURCE_OBJECT work with any signal",
+  "up": 0,
+  "updatedAt": "2026-01-19T23:34:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13974"
+}

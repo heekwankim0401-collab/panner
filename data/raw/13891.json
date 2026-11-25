@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's an issue I deal with EVERY time I deal with RegEx. I'm definitely not the only one. It would be VERY lightweight to add. A few lines.\n\n(if I need to, I'd be willing to add it myself)",
+    "format": "form",
+    "workaround": "# could make a new class with it's own init+compile system.\n\n```\nclass RegExCompile:\n\textends RegEx\n\tfunc _init(regex_string:String):\n\t\tcompile(regex_string)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-21T01:28:26Z",
+  "comments": 2,
+  "createdAt": "2025-12-20T00:24:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13891,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Regex new and compile in a single line.",
+  "up": 0,
+  "updatedAt": "2025-12-21T01:28:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13891"
+}

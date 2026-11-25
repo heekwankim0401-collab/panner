@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The tilemap implementation is part of core.",
+    "format": "form",
+    "workaround": "As far as I know not. The only workaround would be to create an alternative tile for each tile. But the current painting of alternative tiles does not seem to work well with large amounts of tiles from an usabillity point of view."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-20T10:38:38Z",
+  "comments": 3,
+  "createdAt": "2022-03-18T22:26:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4236,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Split Tilemap Layers `enabled` property into `visible` and `enabled` properties",
+  "up": 0,
+  "updatedAt": "2022-03-20T16:08:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4236"
+}

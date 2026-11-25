@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-08-15T18:30:53Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 15387,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Slider property to only allow moving the slider by dragging the grabber (and not by clicking on a position on the slider)",
+  "up": 3,
+  "updatedAt": "2026-10-04T04:55:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15387"
+}

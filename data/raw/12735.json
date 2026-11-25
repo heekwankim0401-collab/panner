@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Displaying time in hours and minutes is _so_ common that I feel it should be included out-of-the-box. Search for \"godot timer minutes\" in a search engine and you'll find many posts asking how to make Timers seconds into milliseconds, minutes and even hours.",
+    "format": "form",
+    "workaround": "It is possible to make a function that converts seconds to minutes, hours and whatnot, here's one I found on [Godot Forums archive](https://forum.godotengine.org/t/displaying-a-timer-count-down-in-a-label-minutes-seconds-milliseconds/10154/2):\n```gdscript\nfunc time_to_minutes_secs_mili(time : float):\n\tvar mins = int(time) / 60\n\ttime -= mins * 60\n\tvar secs = int(time) \n\tvar mili = int((time - int(time)) * 100)\n\treturn str(mins) + \":\" + str(secs) + \":\" + str(mili)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-13T00:08:27Z",
+  "comments": 8,
+  "createdAt": "2025-07-05T14:16:50Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12735,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add function to Timer that returns `time_left` in minutes/hours/etc.",
+  "up": 2,
+  "updatedAt": "2026-02-13T00:31:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12735"
+}

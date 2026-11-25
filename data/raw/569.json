@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Just trying to make awareness of this for other contributors making modules or trying to fix existing limitations, consider this to be a call to action and a potential guide. 🙂",
+    "format": "legacy",
+    "workaround": "I can live with the fact that certain modules can't be disabled. I've made a proposal instead of a general bug report because I've already made some attempts as in godotengine/godot#32272, so just asking whether it makes sense/worth it (either for me or other contributors) to work on making existing modules to be self-contained."
+  },
+  "assignees": 0,
+  "closedAt": "2020-03-12T12:19:38Z",
+  "comments": 5,
+  "createdAt": "2020-03-08T18:51:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:buildsystem",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 569,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot's C++ modules should be self-contained",
+  "up": 4,
+  "updatedAt": "2020-03-12T15:09:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/569"
+}

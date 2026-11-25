@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think it is a good UI usability feature for the editor and games.",
+    "format": "form",
+    "workaround": "I don't think there is a way."
+  },
+  "assignees": 1,
+  "closedAt": "2022-01-31T20:46:08Z",
+  "comments": 1,
+  "createdAt": "2022-01-22T15:57:54Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 3846,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Scroll to newly set `current_tab` in TabContainer and Tabs",
+  "up": 1,
+  "updatedAt": "2022-01-31T20:46:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3846"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Strategy games regularly use a high number of nodes in the tree, so i think it would be beneficial to the engine and its users.\n\nedit:\nadding new ships/fleets actually takes linearly longer depending on the number of nodes in the tree, but for adding single nodes it shouldn't matter how many nodes are in the tree, so it's still an issue.\n\nedit2:\n`queue_free()`, `call_deferred(\"free\")` and probably `get_tree().change_scene()` ,`get_tree().change_scene_to()` effected as well.\nRemoved \"#\" in solutions.",
+    "format": "markdown",
+    "workaround": "I have not found a workaround at all."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-02-27T11:47:30Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2367,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Speed up the \"is node in tree\" check when loading a scene or bypass it in release builds",
+  "up": 0,
+  "updatedAt": "2021-03-03T16:31:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2367"
+}

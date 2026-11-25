@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This helps developers ease into the new Tilemap system, instead of manually replacing the objects and replacing tiles.",
+    "format": "form",
+    "workaround": "Probably, with an editor plugin, it just feels better if developers migrating from 4.2.x are able to get around this newly-depreciated feature."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-27T09:42:18Z",
+  "comments": 7,
+  "createdAt": "2024-08-01T21:13:23Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 10340,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "(4.3 Request) Conversion option from Tilemap to TilemapLayer(s)",
+  "up": 0,
+  "updatedAt": "2024-11-03T15:02:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10340"
+}

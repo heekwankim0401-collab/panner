@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's about default WindowDialogs.",
+    "format": "markdown",
+    "workaround": "This doesn't even need workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-10T22:43:12Z",
+  "comments": 1,
+  "createdAt": "2021-01-26T20:57:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2189,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Replace WindowDialog 'window_title' with 'custom_title'",
+  "up": 0,
+  "updatedAt": "2021-03-10T22:43:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2189"
+}

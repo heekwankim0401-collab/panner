@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal should be included in the core as it is part of the rendering.",
+    "format": "markdown",
+    "workaround": "No. These suggestions cannot be circumvented with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-25T14:08:28Z",
+  "comments": 8,
+  "createdAt": "2020-12-08T04:28:58Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 1952,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Influence of Energy parameter from BakedLightmap on illumination of dynamic objects",
+  "up": 2,
+  "updatedAt": "2020-12-25T14:08:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1952"
+}

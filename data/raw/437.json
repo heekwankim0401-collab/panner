@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It could potentially be implemented as an add-on, but may involve some core pieces of the camera node or rendering process and would be much more convenient now that more ARVR features are being worked in to core.",
+    "format": "legacy",
+    "workaround": "Suggested implementation as a toggle."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-02-04T01:56:06Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 437,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option for Dichoptic Contrast Enhancement (DiCE)",
+  "up": 1,
+  "updatedAt": "2021-02-11T09:53:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/437"
+}

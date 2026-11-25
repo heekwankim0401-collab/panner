@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it is part of the Core Implementation using JavaClassWrapper",
+    "format": "form",
+    "workaround": "I don't think so as it literally crashes the application"
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-25T12:51:21Z",
+  "comments": 2,
+  "createdAt": "2025-01-25T12:47:57Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 11633,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Error when calling exisiting function using JavaClassWrapper",
+  "up": 0,
+  "updatedAt": "2025-01-25T12:51:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11633"
+}

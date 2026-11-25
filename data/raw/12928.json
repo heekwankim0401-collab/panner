@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "Not especially. In fact, this is more-or-less the problem this proposal is aiming to solve. The engine is filled with too many hacky solutions and individual/specialised code written to make specific types function. This proposal aims to unify all of these by moving the logic to a common area."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2025-08-04T01:09:02Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12928,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify the Godot type system by adding a new Type class",
+  "up": 94,
+  "updatedAt": "2026-03-21T00:38:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12928"
+}

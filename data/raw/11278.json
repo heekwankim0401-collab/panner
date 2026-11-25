@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "Nope, Unless you emulate double precision yourself. But implementing double precision is a difficult and it cannot be worked around easily with a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-12-02T14:37:46Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 11278,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the `double` datatype to the Godot shader language",
+  "up": 1,
+  "updatedAt": "2024-12-04T13:20:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11278"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is Core.",
+    "format": "form",
+    "workaround": "Since this is a UX issue this is not something that can be circumvented using some lines of code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-09-13T03:03:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13163,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Duplicate all Resources separately from each other when using Make Unique on a multiple node selection",
+  "up": 3,
+  "updatedAt": "2025-09-14T00:55:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13163"
+}

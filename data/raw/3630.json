@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "There's a perfectly good parser inside of Godot that we don't have access to outside of C++.",
+    "format": "form",
+    "workaround": "Any other option, like Scony's toolkit, requires re-inventing the wheel and comes with other disadvantages, like performance and ease-of-use, not to mention it would be a very large and involved bit of scripting."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2021-12-03T15:54:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3630,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement a code formatter for GDScript in the script editor",
+  "up": 226,
+  "updatedAt": "2026-04-15T07:07:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3630"
+}

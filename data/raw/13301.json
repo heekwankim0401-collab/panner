@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It should be core because it effects every type of game and the current behavior is non-standard and not at all user friendly.\nIt's common enough that it warrants rethinking to align with platform conventions of Mac, Windows, and Linux.",
+    "format": "form",
+    "workaround": "The workaround is not ideal, but you can disable showing the shortcut in the tooltip entirely and format it yourself. However, even the built in input event stringify methods do not have a parameter to leave out the redundancy."
+  },
+  "assignees": 0,
+  "closedAt": "2025-12-03T17:49:49Z",
+  "comments": 7,
+  "createdAt": "2025-09-29T16:35:08Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": "4.6",
+  "number": 13301,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove double nesting and show symbols in shortcut tooltips like \"Help (Question (Unicode))\" for context-aware help",
+  "up": 0,
+  "updatedAt": "2025-12-03T17:51:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13301"
+}

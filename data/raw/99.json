@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It changes how Godot works under the hood, doesn't add bloat, and wouldn't interfere with those who prefer the unsorted autocomplete, assuming it's toggleable.",
+    "format": "legacy",
+    "workaround": "I think it will be used often, but if it wasn't, I assume it's not something that can be added easily."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-28T06:56:28Z",
+  "comments": 4,
+  "createdAt": "2019-09-24T01:06:32Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 99,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Sort autocomplete results in the script editor by class hierarchy",
+  "up": 37,
+  "updatedAt": "2022-03-28T06:57:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/99"
+}

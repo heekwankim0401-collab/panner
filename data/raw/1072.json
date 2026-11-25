@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It *could* be made via an EditorPlugin, but I believe this should be a core feature of the engine as it will benefit most users.",
+    "format": "legacy",
+    "workaround": "It won't be used *very* often, which is why it should be a drop-down \"more\" menu and not change the default behavior of \"Play (F5)\". But it needs to be part of the editor UI."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-06-16T13:13:03Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 1072,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Facilitate testing Release builds while developing",
+  "up": 25,
+  "updatedAt": "2021-04-15T17:42:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1072"
+}

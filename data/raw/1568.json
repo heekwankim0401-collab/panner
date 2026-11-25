@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot has a built in script editor and I think we should utilize it more.",
+    "format": "legacy",
+    "workaround": "IDK how often this would be used but the idea would be that you wouldn't be limited to language plugins.\nI don't think this can be worked around with a few lines of script"
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-30T03:44:27Z",
+  "comments": 10,
+  "createdAt": "2020-09-25T17:33:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1568,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow for language plugins in the godot editor",
+  "up": 0,
+  "updatedAt": "2020-12-05T16:07:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1568"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This info is not exposed at all. It's a pretty small change that can expose more details of expression. These could be useful for debugging purposes as well.",
+    "format": "form",
+    "workaround": "Dependencies could be figured out during execution of the `Expression`."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-03T03:21:19Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6796,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add methods to query the list of methods and properties required to run an Expression",
+  "up": 3,
+  "updatedAt": "2023-05-04T06:44:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6796"
+}

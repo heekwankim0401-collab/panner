@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is further improvement of how missing resources are handled. I suspect this problem is exclusive for mesh libraries. If so, this is more of an issue/bug",
+    "format": "form",
+    "workaround": "I have to open every problematic resource in vim and manually delete the lines referencing them, which is dangerous, and also a chore if you have mass-deleted prototype textures. In this case, its the mesh library resources."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-03T19:57:13Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10890,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Automatically clean up missing resources (for mesh libraries)",
+  "up": 0,
+  "updatedAt": "2024-10-05T10:55:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10890"
+}

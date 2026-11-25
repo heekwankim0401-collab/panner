@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This proposals might be done by addon implementation, but would require some hacks because this is related to resource importing system.",
+    "format": "form",
+    "workaround": "No for the projects using translation files."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-03T14:11:13Z",
+  "comments": 1,
+  "createdAt": "2025-11-03T04:41:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 13566,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Add CSV editor and previewer for translation",
+  "up": 3,
+  "updatedAt": "2025-11-03T14:11:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13566"
+}

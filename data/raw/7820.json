@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "BoneAttachment3D is internal node, and for usability out of the box.",
+    "format": "form",
+    "workaround": "it can be worked around by getting myself the bone transform from the skeleton using the function get_bone_global_pose_no_override(), but it is not convenient, atleast for me."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-23T03:26:04Z",
+  "comments": 1,
+  "createdAt": "2023-09-23T14:24:50Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": "4.3",
+  "number": 7820,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "BoneAttachment3D: Add option to use bone transform without override",
+  "up": 4,
+  "updatedAt": "2024-08-23T03:26:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7820"
+}

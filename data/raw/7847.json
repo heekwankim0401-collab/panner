@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's pretty useful behaviour, I feel. Especially if you're making addon shaders where users will be tweaking parameters.",
+    "format": "form",
+    "workaround": "Not really. You can of course add a comment to the shader, but then the user has to open the shader to see. Alternatively #7846  would help, as they could just be listed in the documentation."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-06T20:25:51Z",
+  "comments": 8,
+  "createdAt": "2023-09-25T01:29:02Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.4",
+  "number": 7847,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add hint_enum to int shader uniforms",
+  "up": 16,
+  "updatedAt": "2026-08-06T20:25:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7847"
+}

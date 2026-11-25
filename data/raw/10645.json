@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "n/a",
+    "format": "form",
+    "workaround": "n/a"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-09-03T15:13:46Z",
+  "down": 9,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10645,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move math functions to it's own class outside of `@GlobalScope`",
+  "up": 3,
+  "updatedAt": "2025-08-04T05:07:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10645"
+}

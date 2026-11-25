@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This improves the flexibility of TileMapLayers allowing a wider range of applications.",
+    "format": "form",
+    "workaround": "One could probably generate the a new TileSet without colliders and occluders from code, but it's not a nice workaround since any updates to the original tileset would also require regeneration of the second one."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-03T12:46:08Z",
+  "comments": 5,
+  "createdAt": "2024-07-05T11:29:49Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d"
+  ],
+  "milestone": null,
+  "number": 10121,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add options to enable/disable a TileMap Layer's collision and occlusion",
+  "up": 2,
+  "updatedAt": "2025-10-04T18:45:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10121"
+}

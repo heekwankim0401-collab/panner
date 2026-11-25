@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Usability",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-05T11:22:14Z",
+  "comments": 1,
+  "createdAt": "2025-05-04T16:28:08Z",
+  "down": 3,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12367,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Zoom with the editor option “use integer zoom by default” enabled shouldn't jump in steps of 100 — they're too large.",
+  "up": 0,
+  "updatedAt": "2025-05-05T11:22:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12367"
+}

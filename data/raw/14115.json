@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is such a small addition so it hardly justifies its own add-on.",
+    "format": "form",
+    "workaround": "Yes, but I think they would let many developer not need to write their own versions of these utilities."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-01-30T18:53:39Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14115,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `pick_random(rng = null)` and `pop_random(rng = null)` to Array",
+  "up": 8,
+  "updatedAt": "2026-01-30T23:49:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14115"
+}

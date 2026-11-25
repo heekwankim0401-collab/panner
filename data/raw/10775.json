@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't know if `Input` could be modified this way in an add-on.",
+    "format": "form",
+    "workaround": "I'm not sure.  I guess you could go through the convoluted process of looking through the entire InputMap, find your action, and use the events to poll.  You'd also have to do all the other under-the-hood stuff like deadzone correction, etc."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-19T12:54:11Z",
+  "comments": 3,
+  "createdAt": "2024-09-18T01:00:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 10775,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add optional device number to Input polling methods",
+  "up": 0,
+  "updatedAt": "2024-09-19T13:17:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10775"
+}

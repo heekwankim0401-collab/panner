@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is a enhancement to the existing microphone system",
+    "format": "form",
+    "workaround": "The only way to workaround it would be including mini audio or something and handling mic input myself"
+  },
+  "assignees": 0,
+  "closedAt": "2024-05-27T15:16:36Z",
+  "comments": 3,
+  "createdAt": "2023-09-06T04:07:55Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 7613,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for multiple audio inputs at once",
+  "up": 4,
+  "updatedAt": "2024-05-27T15:18:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7613"
+}

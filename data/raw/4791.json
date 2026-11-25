@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I believe this would be a quality of life improvement for the editor.",
+    "format": "form",
+    "workaround": "The direct behavior of recursive folding is straight forward to do in script with `call_recursive`, I would like to see this as a feature in the editor in general."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-21T13:39:05Z",
+  "comments": 6,
+  "createdAt": "2022-07-01T13:34:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": "4.0",
+  "number": 4791,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move recursive folding functionality from the Scene Tree dock to the Tree node, so that it can also be used in projects",
+  "up": 2,
+  "updatedAt": "2022-09-21T13:43:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4791"
+}

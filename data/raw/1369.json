@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think, if it was a method under the Timer node, like a ' variable ', with that property, it'd be much easier, for beginners, in general . . .",
+    "format": "legacy",
+    "workaround": "It can worked around, had to make another node, attach a script, send the signal there, and make some weird IF timer true, set boolean TRUE, and set wait_1_frame, then set to FALSE, repeat . . I just find it strange, it's not the other way around, you get a boolean that's TRUE every second, for 1 second timer, then false, that works really well with IF conditions, for instance, and it's simpler to make elegant code, or such . . ."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-23T21:41:51Z",
+  "comments": 11,
+  "createdAt": "2020-08-15T09:15:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1369,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make a Timer node that makes a TRUE-FALSE boolean timer . .",
+  "up": 0,
+  "updatedAt": "2021-01-24T02:23:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1369"
+}

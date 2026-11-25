@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Not possible to be an asset.",
+    "format": "form",
+    "workaround": "This enhancement will be used frequently by anyone writing extensions or working in the engine."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2026-01-14T02:36:15Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 14005,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "C++ API - Allow implicit casting from Variant to Objects like in GDScript. [Code Complete]",
+  "up": 0,
+  "updatedAt": "2026-01-16T15:24:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14005"
+}

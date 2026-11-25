@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot be done with an add-on.",
+    "format": "markdown",
+    "workaround": "No, this requires modifying the Control class and its descendants."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2021-03-23T14:54:18Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2498,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Control` states for more flexible control of theme properties",
+  "up": 36,
+  "updatedAt": "2024-05-14T17:12:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2498"
+}

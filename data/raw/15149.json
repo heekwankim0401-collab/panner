@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-08T17:03:06Z",
+  "comments": 1,
+  "createdAt": "2026-07-08T05:28:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 15149,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Profiler: allow expanding Process Time to show per-node _process / _physics_process timing",
+  "up": 0,
+  "updatedAt": "2026-07-08T17:03:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15149"
+}

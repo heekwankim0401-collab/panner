@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This improve the functionality of the engine's UI.",
+    "format": "form",
+    "workaround": "It can be, but it would need to directly interact with the project's file, which isn't always reliable. Or user can also edit manually, but again, this is a Quality of Life proposal."
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-02T10:35:18Z",
+  "comments": 2,
+  "createdAt": "2025-08-01T14:32:28Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12916,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically rename the root node of newly duplicated scene based on the new scene name (QoL)",
+  "up": 0,
+  "updatedAt": "2025-08-02T10:36:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12916"
+}

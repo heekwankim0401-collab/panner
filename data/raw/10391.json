@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's a change brought to a core function",
+    "format": "form",
+    "workaround": "I don't think so. Not without defining another function with another name\n\n```\nfunc my_move_toward(a, b, delta: float):\n    if typeof(a) != typeof(b):\n        push_error(\"Must be same type\")\n    if a is Vector2 or a is Vector3:\n        return a.move_toward(b, delta)\n    return move_toward(a, b, delta)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-08-07T18:50:05Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10391,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the move_toward(a, b, delta) work with vectors",
+  "up": 0,
+  "updatedAt": "2024-08-11T19:33:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10391"
+}

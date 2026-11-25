@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it's core",
+    "format": "form",
+    "workaround": "Not in few lines and not easy."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-10T16:56:17Z",
+  "comments": 6,
+  "createdAt": "2021-07-11T14:19:34Z",
+  "down": 1,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 2982,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add properties to CharacterBody for more move_and_slide options",
+  "up": 31,
+  "updatedAt": "2021-08-10T16:56:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2982"
+}

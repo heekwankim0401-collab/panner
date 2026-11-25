@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Quick Open is a core feature already.",
+    "format": "legacy",
+    "workaround": "Not applicable."
+  },
+  "assignees": 0,
+  "closedAt": "2020-04-29T12:19:23Z",
+  "comments": 2,
+  "createdAt": "2019-12-22T08:13:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 327,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Prioritize file matches in Quick Open Script / Quick Open Scene / Quick Open over folder matches",
+  "up": 0,
+  "updatedAt": "2020-04-29T13:27:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/327"
+}

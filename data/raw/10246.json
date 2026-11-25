@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot 3 had a feature to ignore all warnings using comments. I think it would be natural for this to not be an addon as it was a feature that was removed in Godot 4 when the warning system moved from comments to annotations.",
+    "format": "form",
+    "workaround": "Depends on the Singleton. In my singleton, I'm using 23 signals, so right now I have 23 `@warning_ignore(\"unused_signal\")`. As you can see in the previous point, it's really cumbersome."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-21T03:15:40Z",
+  "comments": 4,
+  "createdAt": "2024-07-18T17:22:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10246,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `@warning_ignore_all`",
+  "up": 0,
+  "updatedAt": "2024-07-21T03:15:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10246"
+}

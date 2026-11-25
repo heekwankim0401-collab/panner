@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core renderer functionality.",
+    "format": "legacy",
+    "workaround": "No, as this is core renderer functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-31T06:47:05Z",
+  "comments": 2,
+  "createdAt": "2020-08-15T20:14:55Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 1374,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a volumetric cull mask to lights for volumetric fog (and implement an \"additive fog\" option for volumetric lighting)",
+  "up": 7,
+  "updatedAt": "2022-08-31T06:47:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1374"
+}

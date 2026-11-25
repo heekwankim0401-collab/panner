@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because this is about renaming a core class.",
+    "format": "legacy",
+    "workaround": "Technically, I could write a wrapper for Threads to use the word Fork, but that's just bad practice."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-29T13:41:32Z",
+  "comments": 7,
+  "createdAt": "2020-06-29T08:53:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 1140,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename Threads class to Forks",
+  "up": 0,
+  "updatedAt": "2020-07-01T07:50:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1140"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "This could be worked around by having both the base and the extended shader use a shader include."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-28T22:02:27Z",
+  "comments": 5,
+  "createdAt": "2024-04-28T20:07:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9622,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement `#extends \"path\"`",
+  "up": 0,
+  "updatedAt": "2024-04-29T09:39:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9622"
+}

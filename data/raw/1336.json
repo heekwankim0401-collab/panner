@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Mainly to avoid headaches for others.",
+    "format": "legacy",
+    "workaround": "It affects `Transform` / `Transform2D` so the enhancement is probably used often."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-03T05:50:02Z",
+  "comments": 22,
+  "createdAt": "2020-08-08T09:25:06Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1336,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable transform chaining by making scaled/rotated/translated consistent",
+  "up": 16,
+  "updatedAt": "2022-08-03T05:50:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1336"
+}

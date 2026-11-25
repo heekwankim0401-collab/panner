@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's kind of a necessity for 2.5D games",
+    "format": "legacy",
+    "workaround": "it can be worked around even without code but it will be very impractical for certain usage"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2019-11-15T15:20:26Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 234,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Port animation editor autokeying from the 2D editor to the 3D editor",
+  "up": 13,
+  "updatedAt": "2026-06-17T18:01:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/234"
+}

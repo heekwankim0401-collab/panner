@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, this is about core functionality.",
+    "format": "form",
+    "workaround": "Proposal is not adding a feature but preventing the engine from getting into an inconsistent state."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-15T00:24:04Z",
+  "comments": 1,
+  "createdAt": "2021-11-13T10:38:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3540,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add more consistency checks in inherited scenes",
+  "up": 0,
+  "updatedAt": "2021-11-15T00:24:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3540"
+}

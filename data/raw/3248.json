@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The feature is already implemented, the only thing it needs are improvements listed above.\n\n\n_The end result:_\n![final](https://user-images.githubusercontent.com/90044741/132267216-284ea30d-b0be-4770-bb5e-803dbd218264.png)",
+    "format": "form",
+    "workaround": "The alternative is to create an addon that shows the children attributes in the parent's inspector, however that also comes with many problems (editor doesn't save changes to non-editable children and you can't attach metadata to instanced scenes)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 32,
+  "createdAt": "2021-09-03T15:09:05Z",
+  "down": 2,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 3248,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve usability of Editable Children",
+  "up": 120,
+  "updatedAt": "2026-06-29T17:17:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3248"
+}

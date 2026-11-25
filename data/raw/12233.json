@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about improving the Tween class out of the box.\n\n_Edit by the bugsquad: added syntax highlight_",
+    "format": "form",
+    "workaround": "This is the alternative I used in my project: I had to tween a method to lerp the camera’s rotation using the lerpf function and sample my curve as the weight.\n\n```gdscript\n@export var switch_duration: float = 0.5\n\n@export var side_angle: float = -10.0 :\n\tget:\n\t\treturn deg_to_rad(side_angle)\n\n@export var curve: Curve\n\nvar switch_tween: Tween\n\n\nfunc rotate_camera(alpha: float, start_angle: float, angle: float,) -> void:\n\trotation.x = lerpf(start_angle, angle, curve.sample(alpha))\n\nfunc switch_to_2d() -> void:\n\tswitch_tween = create_tween()\n\t\n\tswitch_tween.tween_method(rotate_camera.bind(rotation.x, side_angle), 0.0, 1.0, switch_duration)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2025-04-14T17:09:09Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 12233,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add curve to Tween",
+  "up": 9,
+  "updatedAt": "2026-02-10T19:05:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12233"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "`Environment` and `WorldEnvironment` are already in core.",
+    "format": "form",
+    "workaround": "This will be used very often. The workaround is to just deal with how it's confusing."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2022-05-20T06:18:56Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:rendering"
+  ],
+  "milestone": "5.0",
+  "number": 4564,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Split Environment and WorldEnvironment into 2D and 3D versions",
+  "up": 65,
+  "updatedAt": "2026-11-24T13:52:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4564"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The feature can only be enabled in the core engine.",
+    "format": "form",
+    "workaround": "A workaround would be to copy all the geometry, strip materials, and keep it in sync, but it's not trivial, nor efficient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-03-07T12:19:37Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:export",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6451,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the Lighting Viewport debug draw mode work in projects exported in release mode",
+  "up": 3,
+  "updatedAt": "2024-08-24T16:18:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6451"
+}

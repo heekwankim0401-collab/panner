@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "not something an EditorPlugin can change",
+    "format": "form",
+    "workaround": "Windows users can manually tell Windows how to open .godot files by using `Choose another app -> Choose an app on your PC`  and finding the Godot binary.\n\nHowever I'm not sure where Steam stores the godot binary (I could download the godot binary myself but that defeats the purpose)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-05-24T05:08:06Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 9813,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Open '.godot' files in Godot by default  (Windows / Steam)",
+  "up": 5,
+  "updatedAt": "2026-05-28T10:04:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9813"
+}

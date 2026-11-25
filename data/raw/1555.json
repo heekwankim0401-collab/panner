@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think while it would require some work to implement I also think that many of these features are more desirable then the current ones. for example implicit properties are faster to type and look nicer, c style blocks don't force indentation and are good in some multi dimensional loops, first typed static typing takes less time to type and and also supports typed nulls.\n\nbesides that its more of a personal opinion to me and what I would assume to be other developers that it just overall looks better.\n\nand a while good programmers are not always comfy programmers, comfy programmers are more likely to enjoy like while writing code.",
+    "format": "legacy",
+    "workaround": "I would definitely use it and no you can't not without using a language that doesn't have built in editor support"
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-25T17:25:38Z",
+  "comments": 6,
+  "createdAt": "2020-09-23T22:36:51Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1555,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow opting for C-style syntax in GDScript",
+  "up": 0,
+  "updatedAt": "2020-09-25T18:17:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1555"
+}

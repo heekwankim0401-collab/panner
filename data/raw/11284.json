@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Nullables are a common feature of the language. The idea that something could possibly not exist is pretty fundamental, and deserves first-class support, imo.\n\n_Bugsquad edit:_ Hide too long code block.",
+    "format": "form",
+    "workaround": "Nullables are used all the time. It really is a must-have feature, and no. To get a nullable to export, assuming that you don't want to include an extra bool value, along with the checking logic to check every time, you need to create a resource that can be exported."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-04T14:23:09Z",
+  "comments": 3,
+  "createdAt": "2024-12-04T05:10:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11284,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "G.D. Nullables",
+  "up": 0,
+  "updatedAt": "2024-12-04T14:23:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11284"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This will improve the plugin handling and saving additional configuration values.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-26T13:22:19Z",
+  "comments": 1,
+  "createdAt": "2023-07-18T19:59:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": "4.3",
+  "number": 7324,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Persistent additional data in plugin configuration files",
+  "up": 0,
+  "updatedAt": "2024-04-26T13:23:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7324"
+}

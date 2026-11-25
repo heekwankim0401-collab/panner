@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because its relate to the code of the engine.",
+    "format": "form",
+    "workaround": "it cant without exiting c# to gdscript."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-22T18:44:07Z",
+  "comments": 0,
+  "createdAt": "2025-07-22T18:29:45Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 12837,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make abstract base class in c# allow to have a constructor for inherited class",
+  "up": 0,
+  "updatedAt": "2025-07-23T08:36:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12837"
+}

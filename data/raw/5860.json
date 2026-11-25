@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of the core engine",
+    "format": "form",
+    "workaround": "Building the transition graph is possible on the client side, but I can't find any way to get the state of the transition running."
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-28T02:43:26Z",
+  "comments": 2,
+  "createdAt": "2022-11-27T17:41:03Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 5860,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose more info about state machine transitions",
+  "up": 2,
+  "updatedAt": "2023-09-28T02:43:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5860"
+}

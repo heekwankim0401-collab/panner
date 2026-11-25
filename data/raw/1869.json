@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would make setting up networking easier and is more consistent",
+    "format": "legacy",
+    "workaround": "I would definitely use it. Its much clearer to understand what is going on and it actually makes networking take fewer lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2020-11-25T05:30:04Z",
+  "comments": 16,
+  "createdAt": "2020-11-21T23:18:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 1869,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make networking easier to use",
+  "up": 0,
+  "updatedAt": "2020-11-25T10:41:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1869"
+}

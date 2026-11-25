@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This can't be an add-on, it's part of the script editor.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-23T01:23:38Z",
+  "comments": 8,
+  "createdAt": "2020-03-05T23:37:29Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 558,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Spaces shouldn't be converted to tabs when used for alignment",
+  "up": 4,
+  "updatedAt": "2020-06-23T01:25:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/558"
+}

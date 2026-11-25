@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "C# is a core feature, so I think that would make documentation written in C#'s PascalCase a core feature as well!",
+    "format": "form",
+    "workaround": "Probably not, as it requires changes to the API website as well as the internal documentation."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-08-10T21:06:09Z",
+  "down": 0,
+  "labels": [
+    "topic:docs"
+  ],
+  "milestone": null,
+  "number": 3115,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add C# case conventions to properties and methods in the API documentation",
+  "up": 0,
+  "updatedAt": "2021-08-10T21:16:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3115"
+}

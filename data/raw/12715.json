@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As it's an in built feature in the PC version of godot and not in the android version.",
+    "format": "form",
+    "workaround": "It is not applicable here"
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2025-07-02T08:29:40Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor"
+  ],
+  "milestone": "4.9",
+  "number": 12715,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Android Editor: Add access to tooltips via touch input",
+  "up": 0,
+  "updatedAt": "2026-10-02T07:51:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12715"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Dont know. future is AI. So AI generated glb files should be easily be distributed across clients in multiplayer games.",
+    "format": "form",
+    "workaround": "You can read the new glb from filesystem and send it via rpc() , its possible with GDScript right now. But its not possible to use multiplayerSpawner or MultiplayerSynchronizer then."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-20T16:51:17Z",
+  "comments": 7,
+  "createdAt": "2023-01-20T16:09:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 6132,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "glb distributor",
+  "up": 0,
+  "updatedAt": "2023-01-20T17:04:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6132"
+}

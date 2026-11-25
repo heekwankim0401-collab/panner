@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "PhysicsServer3D is in core.",
+    "format": "form",
+    "workaround": "Users currently cannot work around the multi-threading bugs in the soft body APIs or the lack of ability to control constraints.\nUsers could work around the normal shading problems by directly using `PhysicsServer3D` instead of `SoftBody3D`, and ignoring the normals returned by the physics server and computing normals on their own instead.  That said, this seems rather inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-26T20:19:52Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12670,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improvements to PhysicsServer3D soft body APIs",
+  "up": 6,
+  "updatedAt": "2025-06-26T20:34:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12670"
+}

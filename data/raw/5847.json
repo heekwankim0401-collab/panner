@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It is a good feature that was already in Godot 3 and should be available in Godot 4",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-08T11:57:16Z",
+  "comments": 8,
+  "createdAt": "2022-11-25T10:43:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.1",
+  "number": 5847,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a snapping grid to polygon editors in the TileSet editor",
+  "up": 10,
+  "updatedAt": "2023-05-08T12:00:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5847"
+}

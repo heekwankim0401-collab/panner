@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As current the `hit_back_faces` option for a raycast is _only_ applicable to convex collision shapes despite the name indicating it should be available for any arbitrary collision shape (since all closed shapes have a 'negative normal' to the surface). Implementation as an add-on would mean a user must contend with two distinct methods to perform a raycast in 3D space and juggle between them depending on application. This seems overkill for what appears to be a relatively simple implementation.",
+    "format": "form",
+    "workaround": "Technically yes, but with potentially significant performance impacts that can only be mitigated with reduced fidelity."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-08-23T14:14:07Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 10542,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow 3D Raycasts to hit back faces on all convex-type collision shapes",
+  "up": 5,
+  "updatedAt": "2024-08-23T15:23:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10542"
+}

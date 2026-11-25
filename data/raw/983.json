@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Many points here are related on how the engine behave which should be standard, not modified by a plugin. Some of the points might be okay as plugins (we do need to make sure such plugins can be made).",
+    "format": "legacy",
+    "workaround": "As it stands now it cannot be easily added with a few scripts (and should be used often)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2020-05-31T20:37:03Z",
+  "down": 0,
+  "labels": [
+    "topic:audio",
+    "topic:core",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 983,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve accessibility features for keyboard navigation, UI scaling, TTS, voice recognition, colorblindness and subtitles",
+  "up": 74,
+  "updatedAt": "2025-04-08T17:52:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/983"
+}

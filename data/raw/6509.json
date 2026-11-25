@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I don't think people trying to learn godot on old device want to add a line for each projects presented in the Documentation.\n\nSure, they could build their own script to add that line under the proper header in the project file using another program, but I don't think you should need another program to fix Godot.",
+    "format": "form",
+    "workaround": "It can be worked around by making your own program to place the line under the right header, but for reasons i'll give in the next part, i don't think users should have to do that."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-15T21:55:39Z",
+  "comments": 1,
+  "createdAt": "2023-03-15T20:49:01Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:platforms",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6509,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Fallback to GLES3 automatically on known problematic GPUs with poor or no vulkan support",
+  "up": 0,
+  "updatedAt": "2023-03-15T21:55:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6509"
+}

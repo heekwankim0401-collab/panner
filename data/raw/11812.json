@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't be a plugin - needs internals exposed.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-22T17:22:17Z",
+  "comments": 0,
+  "createdAt": "2025-02-20T10:13:06Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.5",
+  "number": 11812,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a AT_SHADOW_PASS built-in",
+  "up": 10,
+  "updatedAt": "2025-05-22T17:25:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11812"
+}

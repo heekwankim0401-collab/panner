@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "RichTextLabel is already in the core.",
+    "format": "legacy",
+    "workaround": "It expect it to be used often. Yes, there is RichTextLabel.get_child(0).modulate.a = 0 that does the trick, but if we put check boxes for CanvasItem Visible, or Clip Content, then why not do something about visibility of the scroll handle?"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-27T00:51:58Z",
+  "comments": 1,
+  "createdAt": "2020-03-24T00:35:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 624,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "RichTextLabel scroll handle visibility option in Inspector",
+  "up": 0,
+  "updatedAt": "2021-09-27T00:53:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/624"
+}

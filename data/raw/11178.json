@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A - this would be a change to Object.cpp",
+    "format": "form",
+    "workaround": "Users can work around this by locking `Object::set` before calling `debug_objects` using their own code. They could also debug their game in single threaded mode when they intend to use `debug_objects`."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-23T02:41:38Z",
+  "comments": 1,
+  "createdAt": "2024-11-17T15:44:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11178,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Prevent `Object::set()` from running while `ObjectDB::debug_objects()` is running",
+  "up": 0,
+  "updatedAt": "2024-11-23T16:19:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11178"
+}

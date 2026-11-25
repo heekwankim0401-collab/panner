@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This just simply expands the nodes that you can \"track\" transformations from. I think there are tons and tons of uses for this that do not involve using bones specifically.\n\nAnother example in my game is that when the character swings his sword, he takes a step forward. It'd be nice to track that motion with the AnimationTree. \n\nWhen my player gets hurt, a designed knockback instead of an arbitrary \"force\" applied would be nice.\n\nI mean, there are just tons of animations that could benefit from this since a lot of them would look nicer if they matched motion.\n\nI think this tracking motion feature in Godot is really awesome, and I'd just like to use it my project is all.",
+    "format": "legacy",
+    "workaround": "I think it's possible to do this already with the AnimationPlayer, but it seems hacky at best. There's no good way to \"ignore\" tracks, if I disable it I lose the motion information, but if I enable it, the actual root node moves. The only way I can think of doing this in a \"nice\" way, would be to preprocess the frames from the transformation portions of the animation, disable the track and calculate the delta myself by checking the frames of the current animation. However, I don't think this is suitable solution."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-05-13T13:55:41Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 833,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow AnimationTree's Track property to make use of nodes instead of just bones",
+  "up": 0,
+  "updatedAt": "2021-09-27T00:50:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/833"
+}

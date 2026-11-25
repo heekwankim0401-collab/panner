@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a very important feature, that many game engines, especially big ones like Unity or Unreal Engine already have. Beside that, nearly every project has some files that are not used and are just bloating the exported games size, which can be optimized with this feature.",
+    "format": "form",
+    "workaround": "Probably not."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-10-11T14:01:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 3412,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to export mode to only export required project files",
+  "up": 2,
+  "updatedAt": "2021-10-12T16:11:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3412"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "While an add-on could be written to capture the last stack trace and reprint it, it seems better to integrate this in the existing Debugger panel.",
+    "format": "form",
+    "workaround": "No, it's a native panel."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-06-28T17:23:45Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 10063,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Keep showing the last error(s) and Debugger Stack Trace after stopping game to allow post-Play debugging",
+  "up": 13,
+  "updatedAt": "2026-05-02T16:39:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10063"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This feature is relatively simple, and even beginner users doing simple projects (such as me) may encounter situations where it is useful. Making it immediately visible through autocomplete suggestions would make it more accessible to such beginner users.\nIt would also allow users to keep more of their movement logic inside input signals.",
+    "format": "form",
+    "workaround": "The following script computes the new velocity given a requested change in energy and an estimated current velocity, and can be used anywhere, ideally in _integrate_forces, where linear_velocity is most accurate:\n\n```gdscript\nfunc add_energy_to_velocity_and_mass(energy : Vector3, velocity : Vector3, mass : float) -> Vector3:\n\t#Convert velocity to energy\n\tvar velocity_energy : Vector3 = 0.5 * velocity * velocity * mass\n\tvelocity_energy *= sign(velocity)\n\t\n\t#Add energy\n\tvelocity_energy += energy\n\t\n\t#Convert energy to velocity\n\tvar velocity_squared : Vector3 = abs(2 * velocity_energy / mass)\n\tvar new_velocity = Vector3(sqrt(velocity_squared.x), sqrt(velocity_squared.y), sqrt(velocity_squared.z))\n\tnew_velocity *= sign(velocity_energy)\n\treturn new_velocity\n```\n\nAlternatively, one can apply a force calculated using the velocity and delta, which restricts the logic to _process_physics:\n```gdscript\nfunc central_force_equivalent_to_energy(energy : Vector3, velocity : Vector3, delta : float) -> Vector3:\n\treturn energy / (velocity * delta)\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-08-09T23:09:18Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12973,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a function to add kinetic energy to a RigidBody",
+  "up": 0,
+  "updatedAt": "2025-08-12T19:07:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12973"
+}

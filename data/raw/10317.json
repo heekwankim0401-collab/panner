@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "AnimationTree is a core part of the engine.",
+    "format": "form",
+    "workaround": "No, it will take lots of work to get around this and I would think it would be used frequently."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-30T06:33:10Z",
+  "comments": 2,
+  "createdAt": "2024-07-29T20:10:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 10317,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Provide \"Do nothing for missing tracks\" for deterministic option in AnimationTree",
+  "up": 0,
+  "updatedAt": "2024-07-30T06:48:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10317"
+}

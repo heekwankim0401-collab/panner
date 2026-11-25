@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is a core feature of iOS exports, and is just an expansion/cleanup of already existing options.",
+    "format": "form",
+    "workaround": "The vast majority of users who use iOS exports already will manually add any required entitlements by opening the output before its signed in Xcode, however those who also let Godot handle signing can't really work around this without modifying the build templates.\nThe other workaround is to modify the entitlements file using some glue scripting language before building."
+  },
+  "assignees": 1,
+  "closedAt": "2024-12-02T16:22:57Z",
+  "comments": 0,
+  "createdAt": "2024-11-07T08:59:11Z",
+  "down": 0,
+  "labels": [
+    "platform:ios",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.4",
+  "number": 11109,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add more capabilities options to the iOS export dialog",
+  "up": 1,
+  "updatedAt": "2024-12-02T16:22:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11109"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not possible to do with an asset.",
+    "format": "legacy",
+    "workaround": "There's not way to store a value inside the light function and use it on the fragment shader (like the light vector).\nConstants can't be used because I need the value in real time."
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-13T23:55:58Z",
+  "comments": 3,
+  "createdAt": "2020-03-25T02:10:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 630,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow sharing variable values between fragment, vertex and light shaders",
+  "up": 0,
+  "updatedAt": "2020-09-13T23:56:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/630"
+}

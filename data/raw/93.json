@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think this can be an add-on, but if it can, great!",
+    "format": "legacy",
+    "workaround": "No, this enhancement will be used a lot, as the current saving and loading system is confusing."
+  },
+  "assignees": 0,
+  "closedAt": "2019-09-22T15:02:20Z",
+  "comments": 5,
+  "createdAt": "2019-09-21T17:26:42Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 93,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Save system : LocalStorage",
+  "up": 0,
+  "updatedAt": "2020-04-29T22:26:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/93"
+}

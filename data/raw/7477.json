@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because probably the code for this exists already (there's is a related signal), its just not exposed.",
+    "format": "form",
+    "workaround": "probably not, the only thing i can think of is manually calculating its position based on character size, distance and offst."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-11T06:34:43Z",
+  "comments": 2,
+  "createdAt": "2023-08-11T04:47:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7477,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add get_hovered_meta() method to RichTextLabel.",
+  "up": 0,
+  "updatedAt": "2023-08-11T18:40:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7477"
+}

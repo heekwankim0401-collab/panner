@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Cannot be supported by add-ons as it is a core behavior.",
+    "format": "form",
+    "workaround": "No, it is a core behavior."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-16T12:14:11Z",
+  "comments": 3,
+  "createdAt": "2022-10-21T09:30:44Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": "4.0",
+  "number": 5631,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move _global_script_classes from godot.project to local cache",
+  "up": 14,
+  "updatedAt": "2023-01-16T12:14:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5631"
+}

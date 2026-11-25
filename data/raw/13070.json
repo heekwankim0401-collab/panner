@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This proposal wouldn't make sense as an add-on because it's a small addition to the language and wouldn't add any new capabilities.",
+    "format": "form",
+    "workaround": "Absolutely! This is not a hassle to accomplish in code but I think the language being unintuitive for beginners in this way is still an important problem to look at. This would also be an extremely simple PR by my understanding, so it seems like a worthy change to me."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-08-26T10:22:46Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13070,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `RayCast2D.length()` and `RayCast3D.length()`",
+  "up": 2,
+  "updatedAt": "2026-09-15T19:02:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13070"
+}

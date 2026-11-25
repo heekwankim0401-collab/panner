@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I don't currently see a way around this without being able to modify the scene_tree_dock/pack_scene/node code. Giving the user the ability to reuse code like this would increase readability of the Scene hierarchy and remove unnecessary duplication across the project.",
+    "format": "form",
+    "workaround": "Would be used throughout a project, but if forced to workaround it could possible be done, not in a few lines of code, but an example of a workaround could be similar to @raulsntos 's suggestion here: [@8184](https://github.com/godotengine/godot-proposals/issues/8184#issuecomment-1777447715).  However this approach has a lot of manual work for the user."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2023-10-26T18:38:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8266,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow user to expose nodes within an instantiated scene",
+  "up": 62,
+  "updatedAt": "2026-09-08T00:25:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8266"
+}

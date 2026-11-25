@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "- It makes `OptionButton.add_item` similar to the function `ListItem.add_item` and adds consistency between control nodes.\n- I don't think Godot node's returns can be changed via an add-on.\n- It's a small workflow improvement.",
+    "format": "form",
+    "workaround": "Yes it can. You can call `OptionButton.item_count` to get the index where the item will be placed next.\n```\nvar index: int = OptionButton.item_count\nOptionButton.add_item(\"Option 3\")\nOptionButton.set_item_tooltip(index, \"This is the tooltip\")\nOptionButton.set_metadata(index, {\"empty\": true})\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-10T05:05:10Z",
+  "comments": 2,
+  "createdAt": "2025-05-10T04:52:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12400,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `OptionButton` add_item functions return the index of the added item.",
+  "up": 0,
+  "updatedAt": "2025-05-13T21:05:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12400"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "its a basic feature",
+    "format": "legacy",
+    "workaround": "yes, you can do this by editing the .tres file and copying these lines: \n`\"times\": PoolRealArray( 0.16, 0.32, 0.41, 1.33, 1.43, 1.48, 1.84, 1.9, 1.97, 2.45, 2.52, 2.59, 2.95, 3, 3.08, 3.25, 3.3, 3.39 ),\n\"transitions\": PoolRealArray( 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ),\n\"update\": 0,\n\"values\": [ 0.0, 0.4, 0.0, 0.0, 0.4, 0.0, 0.0, 0.4, 0.0, 0.0, 0.4, 0.0, 0.0, 0.4, 0.0, 0.0, 0.4, 0.0 ]\n`"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-26T00:35:20Z",
+  "comments": 8,
+  "createdAt": "2019-12-13T19:42:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 302,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Copy-Paste keyframes from one track to another",
+  "up": 64,
+  "updatedAt": "2024-08-11T11:30:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/302"
+}

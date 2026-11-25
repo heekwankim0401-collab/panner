@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think unicode interpretation is a central feature of any RichTextLabel.",
+    "format": "form",
+    "workaround": "When assigning text programmatically from GDScript or C#, the `\\uF004` syntax can be used already. However, this only works because the programming language translates the glyph and is therefore limited to strings that come from the programming language. My proposal would also work for \"static\" strings which are managed directly in the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-15T11:42:52Z",
+  "comments": 5,
+  "createdAt": "2024-04-08T19:23:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 9481,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow Unicode inputs for RichTextLabel in the editor",
+  "up": 4,
+  "updatedAt": "2024-05-10T18:46:31Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9481"
+}

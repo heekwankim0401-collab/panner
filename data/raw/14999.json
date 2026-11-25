@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-06-12T05:57:46Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14999,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make \"(Batch) Rename\", \"Change Type\", and \"Move Up/Down\" more lenient with invalid selections",
+  "up": 2,
+  "updatedAt": "2026-06-12T14:39:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14999"
+}

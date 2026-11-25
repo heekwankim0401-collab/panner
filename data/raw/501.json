@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Honestly I have no idea. I mean I see that other engines support this kinda feature but they can't seem to do it with ease... might give you guys an edge if you can pull it off... plus it would make a great addition to 4.0 since its all about rendering right?",
+    "format": "legacy",
+    "workaround": "Unless there's already a feature that lets me mess with the camera's near plane angle that I'm not aware of (and without cracking NASA's 7th volume on spacial anomalies), I am stumped."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-02-21T16:59:28Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 501,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add angled/oblique near and far camera planes",
+  "up": 52,
+  "updatedAt": "2023-02-21T15:52:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/501"
+}

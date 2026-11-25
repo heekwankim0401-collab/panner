@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this can't be a add-on but user can register it manually, bad option for beginners,\nand something else probably you need to automatically add a icon to a local directory and\nremove it  with --unregister-app option",
+    "format": "form",
+    "workaround": "More options More free time to have More fun"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-06-30T18:41:25Z",
+  "down": 0,
+  "labels": [
+    "platform:linuxbsd",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 2941,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a command line option to register Godot as a desktop application on Linux",
+  "up": 0,
+  "updatedAt": "2022-08-01T20:35:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2941"
+}

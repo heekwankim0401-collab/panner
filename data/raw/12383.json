@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The GDScript is core",
+    "format": "form",
+    "workaround": "Currently, there is a method inside `ClassDB` to return the signal argument (`class_get_signal`). The `class_get_signal` needs a class, but there is no way to get the class, based on a single line that I read from `CodeEdit`\nSo far, I have tried to split the current line with `line.strip_escapes().split(\".\")` and do many if statements to check the method return value type, class name, class base type, and so much more work, but still, I cannot achieve this\nI don't know where I'm doing wrong?"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-07T07:42:13Z",
+  "comments": 2,
+  "createdAt": "2025-05-07T05:05:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12383,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "add a easy way to get signal arguments in editor plugin",
+  "up": 0,
+  "updatedAt": "2025-05-07T19:10:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12383"
+}

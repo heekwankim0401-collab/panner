@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Physics is core and maintaining a whole godot physics fork as an extension doesn't make sense for minor changes. This feature is also easy to implement/maintain and doesn't bloat the binary size.",
+    "format": "form",
+    "workaround": "It's possible but very limited. Gdscript is slow and all physics objects would have to extend one class or duplicate code. Takes up a collision layer which might be a problem with some games."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-09-12T09:16:53Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 5407,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add negative collision shapes",
+  "up": 3,
+  "updatedAt": "2024-01-27T09:43:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5407"
+}

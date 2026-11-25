@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-10-29T14:02:06Z",
+  "comments": 1,
+  "createdAt": "2026-10-29T13:55:13Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 15714,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Changing the order of items in a dictionary is not possible in the inspector.",
+  "up": 0,
+  "updatedAt": "2026-10-29T14:02:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15714"
+}

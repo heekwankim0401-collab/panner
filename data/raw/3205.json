@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's just adding one signal. It seems far too small for an add-on.",
+    "format": "form",
+    "workaround": "I see two workarounds for this.\n\n1) If I don't mind adding one extra frame of physics latency I can just treat the existing physics_frame signal as though it were the signal I wanted. I add objects to some kind of update datastructure in _physics_process, then when I see physics_frame I send that update. The issue here is now I'm sending updates that are already one tick old.\n\n2) I could forget about utilizing _physics_process and just handle all of my networking in a function that responds to physics_frame. I would iterate through all the movable objects, decide which I want to include in my update, then send the update. I don't think this is quite as clean as what I'm proposing, but it should work and gets around the latency of 1."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-21T20:56:09Z",
+  "comments": 1,
+  "createdAt": "2021-08-26T00:09:29Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 3205,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a new signal to run after _physics_process, but before the physics step",
+  "up": 0,
+  "updatedAt": "2021-09-21T20:59:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3205"
+}

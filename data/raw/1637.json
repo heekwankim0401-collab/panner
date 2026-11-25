@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is core to how Godot persists data.",
+    "format": "legacy",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-07T13:51:17Z",
+  "comments": 8,
+  "createdAt": "2020-10-09T02:04:41Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1637,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Remove list of projects from `editor_settings-4.tres` for easier settings synchronization across devices",
+  "up": 6,
+  "updatedAt": "2022-08-07T13:51:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1637"
+}

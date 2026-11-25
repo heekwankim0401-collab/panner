@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's core behaviour",
+    "format": "form",
+    "workaround": "It can be worked around by \"being very smart and never making mistakes\""
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-03-28T00:36:01Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12090,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose errors that occur during Resource `_init()` calls",
+  "up": 1,
+  "updatedAt": "2025-03-28T14:19:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12090"
+}

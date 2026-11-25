@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "... I think it's a nice simple but helpful feature in Godot.",
+    "format": "form",
+    "workaround": "I could write a script with similar behavior like the editor view fly camera. And log the position and rotation to set it later manually in editor inspector. But ..."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-16T22:20:51Z",
+  "comments": 2,
+  "createdAt": "2023-03-16T21:54:14Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6517,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Set camera position and rotation to current editor view look.",
+  "up": 0,
+  "updatedAt": "2023-03-16T22:32:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6517"
+}

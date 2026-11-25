@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "No this is a change that needs to happen in Godots scene loader.",
+    "format": "markdown",
+    "workaround": "I'm currently working around it by making these nodes available in `_ready` but it's wasteful"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-18T16:24:39Z",
+  "comments": 5,
+  "createdAt": "2021-03-27T12:08:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2512,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an `editor_only` property to Node (and remove it from specific uses such as Light3D)",
+  "up": 8,
+  "updatedAt": "2022-03-18T16:24:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2512"
+}

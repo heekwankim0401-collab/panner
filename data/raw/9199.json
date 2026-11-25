@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The default behaviour of a script creation window creating a problematic file name which would impact most users and which goes against the recommended usage is something that I think affects all projects and should not be an extra add on element\n\n![image](https://github.com/godotengine/godot-proposals/assets/19207171/d7fc7db7-75d8-48e6-bf23-9293dc53d22d)",
+    "format": "form",
+    "workaround": "Script name can simply be amended so it is not an urgent proposal from this perspective."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-28T19:14:57Z",
+  "comments": 3,
+  "createdAt": "2024-02-28T17:52:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9199,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "snake_case conversion of Node name when using Create Script button",
+  "up": 1,
+  "updatedAt": "2024-02-28T19:15:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9199"
+}

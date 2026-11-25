@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is impossible to achieve the descirbed need without changing the Core.",
+    "format": "form",
+    "workaround": "This can be achieve by manually record all Godot builtin types, and GodotTools builtin types by hand, for each Editor Release, which is neither easy nor sustainable for a wrapper generator."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-18T15:46:03Z",
+  "comments": 2,
+  "createdAt": "2024-04-15T14:43:15Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": "4.4",
+  "number": 9526,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `ClassDB.get_api_type()` for better GDExtension interoperability with non-GDScript languages",
+  "up": 4,
+  "updatedAt": "2024-09-18T15:46:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9526"
+}

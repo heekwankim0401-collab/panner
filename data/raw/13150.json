@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's quite simple method for the widely used object in code",
+    "format": "form",
+    "workaround": "This is used quite often in any programming language. It can be done with a few lines of code, but the readability and convenience is not so good"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-09-10T19:58:35Z",
+  "down": 5,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13150,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an `Array.has_index()` method",
+  "up": 2,
+  "updatedAt": "2025-09-14T06:44:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13150"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because this is necessary to improve the daily use of a game engine",
+    "format": "form",
+    "workaround": "I think it may going to be used a lot"
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-16T09:53:13Z",
+  "comments": 0,
+  "createdAt": "2024-03-16T03:28:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 9308,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a function that when a node is dragged into a script, the content can be filled and modified adaptively, rather than just dropped in",
+  "up": 0,
+  "updatedAt": "2024-03-16T09:54:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9308"
+}

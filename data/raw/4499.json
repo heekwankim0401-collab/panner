@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "-",
+    "format": "form",
+    "workaround": "-"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-05T23:05:22Z",
+  "comments": 4,
+  "createdAt": "2022-05-05T22:26:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 4499,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Target Android API Level 31 (Android 12) as it will be required by Google to upload apps to Play Store from August, 1 2022",
+  "up": 0,
+  "updatedAt": "2022-06-09T06:31:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4499"
+}

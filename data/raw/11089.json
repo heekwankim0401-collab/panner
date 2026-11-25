@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about the default editor behaviour",
+    "format": "form",
+    "workaround": "This would be used often"
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-28T14:48:24Z",
+  "comments": 0,
+  "createdAt": "2024-11-04T13:25:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.5",
+  "number": 11089,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add proper fuzzy search to \"Filter Methods\" script editor",
+  "up": 7,
+  "updatedAt": "2025-05-28T14:48:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11089"
+}

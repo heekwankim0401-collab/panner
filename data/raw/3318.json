@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "InputMap Editor is an base editor feature.",
+    "format": "form",
+    "workaround": "It will be often use. Each time someone need to add a mouse button action (included mouse wheel)"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-21T07:34:13Z",
+  "comments": 3,
+  "createdAt": "2021-09-19T10:57:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": "4.0",
+  "number": 3318,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow mouse button to be detected in the \"Listen for input\" tab of Input Map Editor.",
+  "up": 6,
+  "updatedAt": "2021-09-21T07:34:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3318"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This affects the core Input and Input Map system.",
+    "format": "form",
+    "workaround": "The changes to the Input Map system cannot be done in a few lines of script. However, a user could ignore the Input Map system and monitor `InputEvent`s themselves checking the axis values and ignoring them if they are less than their required dead zone (or even step size).\n\nFurthermore, this feature may not be needed if the only driver for this feature is to address godotengine/godot#45628 i.e. that when mapping keys and axes to the same action the `Action`'s pressed is set to `false` by the axis when just using the keys. However, neither a dead zone nor a filter will properly fix godotengine/godot#45628, because no matter how big the dead zone or filter, there will always be a nudge big enough to set pressed to `false`. Note: godotengine/godot#45628 is properly fixed in godotengine/godot#47599.\n\nHowever, I believe that separating the current dual-purpose of the `Action`'s `Deadzone` into a trigger and a dead zone, and moving the dead zone to the `InputEvent` level is an important enhancement."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 10,
+  "createdAt": "2021-12-21T19:35:01Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3709,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create configurable Joypad axis dead zones",
+  "up": 18,
+  "updatedAt": "2022-10-25T13:55:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3709"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I can't think of a use in the godot editor, but would be a great addition for games. Some of these options sound like they would be easy to implement, so maybe we don't need to add them all.\nhorizontal shift would be trivial, as would curves.",
+    "format": "form",
+    "workaround": "no.\n1 - this can be made with loose control nodes by setting their position and rotation. but the advantage of a container is that the nodes are forced into a position automatically, and more nodes can be added later.\n2 - for nodes added in game, this can be done with code, but the nodes would still be loose. a container would take advantage of resolution changes and resize a parent node to ensure all nodes are visible, this also means altering the size of other controls to fit."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-10-16T23:09:31Z",
+  "down": 1,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 13410,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a SteppedVBoxContainer and SteppedHBoxContainer (and/or add more features to hboxcontainer and vboxcontainer)",
+  "up": 6,
+  "updatedAt": "2025-11-20T14:12:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13410"
+}

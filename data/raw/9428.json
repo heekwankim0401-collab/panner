@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe this is a essential feature for a game engine.",
+    "format": "form",
+    "workaround": "You can control the layering of nodes using code to achieve the layering effect, eliminating the need for z-index. However, if the unit is composed of four directions, it will be very troublesome to modify the unit direction without using z-index, and the workload will increase several times."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2024-04-01T11:58:43Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9428,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Sorting Group functionality for CanvasItem sorting",
+  "up": 19,
+  "updatedAt": "2026-11-23T14:33:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9428"
+}

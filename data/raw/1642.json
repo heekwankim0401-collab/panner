@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's part of the core class.",
+    "format": "legacy",
+    "workaround": "Yes, for example by using the code above or similar (which is sometimes hard to find)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-10-09T15:36:54Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1642,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Containers update on each child rect change, or when checking their property values, even when they are not visible",
+  "up": 1,
+  "updatedAt": "2020-10-09T16:38:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1642"
+}

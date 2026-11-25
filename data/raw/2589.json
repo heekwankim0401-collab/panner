@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "its just some name changes. \n\nP.S. would be handy to have a downloadable finished version of the 1000 fish demo. I'm still having trouble figuring out how to apply a vertex shader to something that already has a fragment shader and retain the fragment shader properties.",
+    "format": "markdown",
+    "workaround": "You'd have to create and maintain 2 seperate scripts which would be tedious and unnecessary."
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-26T23:13:35Z",
+  "comments": 15,
+  "createdAt": "2021-04-11T18:21:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2589,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make names of the methods for mesh materials more consistent",
+  "up": 0,
+  "updatedAt": "2021-05-26T23:26:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2589"
+}

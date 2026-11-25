@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "It can likely be implemented in an add-on, but I believe being able to convert particles nodes in a two-way manner will improve editor usability out of the box."
+  },
+  "assignees": 1,
+  "closedAt": "2023-08-21T17:29:41Z",
+  "comments": 9,
+  "createdAt": "2021-07-15T22:58:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.2",
+  "number": 2997,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a menu option to convert CPUParticles back to GPUParticles",
+  "up": 11,
+  "updatedAt": "2023-08-21T17:31:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2997"
+}

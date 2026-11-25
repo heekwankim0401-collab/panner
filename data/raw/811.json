@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's most useful to new programmers that would have the experience to look for and install an addon.",
+    "format": "legacy",
+    "workaround": "Not that I know of."
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-04T12:49:45Z",
+  "comments": 2,
+  "createdAt": "2020-05-08T23:54:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.7",
+  "number": 811,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Overwriten methods should default to the same return type as the super class's method",
+  "up": 0,
+  "updatedAt": "2026-02-04T12:49:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/811"
+}

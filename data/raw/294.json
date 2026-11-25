@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The audio section of Godot is its weakest in my opinion, coming from working exclusively in audio. I would say bringing the audio section current should be among your absolute top priorities at this phase of the program. Thanks again for your work, Godot is an absolutely amazing accomplishment.",
+    "format": "legacy",
+    "workaround": "Yes, it would be incredibly easy to implement imo."
+  },
+  "assignees": 0,
+  "closedAt": "2019-12-10T07:16:56Z",
+  "comments": 2,
+  "createdAt": "2019-12-10T06:45:19Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 294,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Audio Mixer Faders - Change From Linear to Log/Exponential to Behave Like Mixers IRL",
+  "up": 0,
+  "updatedAt": "2019-12-10T07:17:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/294"
+}

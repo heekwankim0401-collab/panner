@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a simple and obvious way to manage resource loading. It should be a core feature.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2024-03-02T06:05:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9216,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add ResourcePath to refer to a resource without preloading it",
+  "up": 0,
+  "updatedAt": "2026-09-26T18:35:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9216"
+}

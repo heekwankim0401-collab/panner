@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It does not introduce a lot of maintenance overhead most likely and is convenient to have",
+    "format": "form",
+    "workaround": "No, adding this to existing nodes would require a custom Godot build to my knowledge"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-17T14:15:45Z",
+  "comments": 9,
+  "createdAt": "2023-09-17T11:23:53Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 7705,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a \"Children\" and \"child\" properties to nodes.",
+  "up": 0,
+  "updatedAt": "2023-09-17T17:14:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7705"
+}

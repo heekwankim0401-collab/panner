@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This could be an asset if we expose `ObjectDB::debug_objects` to scripting. I suspect there's a reason we don't already expose that method to scripting, though.\n\nMore than that, I think this is the kind of tool a lot of people would find helpful from time to time, but wouldn't go out of their way to install.",
+    "format": "form",
+    "workaround": "I tried to implement this feature as a plugin, and was almost able to. The problem is `ObjectDB::debug_objects` is not exposed to GDScript or GDExtensions, so I had to make a module. If we exposed `ObjectDB::debug_objects` to GDExtensions, this proposal could probably just be a plugin.\n\nAdditionally, `Node::print_orphan_nodes` exists, and probably covers 90% of use cases with1% of the code."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-03T17:11:20Z",
+  "comments": 5,
+  "createdAt": "2024-09-02T01:09:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 10628,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow snapshotting the ObjectDB to help check for memory leaks",
+  "up": 15,
+  "updatedAt": "2025-10-03T17:13:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10628"
+}

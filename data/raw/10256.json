@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Building addon is pretty hard to build on iOS.",
+    "format": "form",
+    "workaround": "Just write plugin/module."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-21T02:32:06Z",
+  "comments": 0,
+  "createdAt": "2024-07-20T23:06:55Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "platform:android",
+    "platform:ios",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10256,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Google Analytics at least to Android and iOS implementations",
+  "up": 0,
+  "updatedAt": "2024-07-21T08:53:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10256"
+}

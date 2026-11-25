@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "To my knowledge, GameMode engine integration must be done at a core level, as it hooks into low-level, early `main()` initialization.",
+    "format": "form",
+    "workaround": "GameMode can be set up by the user themselves as explained above, but this is less convenient compared to engine-level integration.\n\nAlternatively, a launcher script can be provided that uses `gamemoderun` if found on the system:\n\n```bash\n#!/bin/bash\n\nif command -v gamemoderun &> /dev/null; then\n  gamemoderun ./the_game.x86_64 \"$@\"\nelse\n  ./the_game.x86_64 \"$@\"\nfi\n```\n\nTo only affect the project running from the editor, the **Main Run Args** project setting can be edited to `gamemoderun %command%`. This will however cause the project to fail starting if gamemode is not installed on the system."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-09-18T23:40:03Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "platform:linuxbsd",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 5453,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Implement Feral GameMode integration on Linux",
+  "up": 13,
+  "updatedAt": "2026-11-19T22:37:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5453"
+}

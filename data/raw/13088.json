@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a request to change/enhance the functionality of a core node.",
+    "format": "form",
+    "workaround": "I do think this enhancement would fundamentally improve the development/play of any driving related games, because players/developers might not be aware of this limitation(it doesn't seem to be mentioned )\n\nIn my particular game, this is surmountable by cutting throttle percentage to slow down instead of using the brakes, and faking braking vfx/sfx, but more complex games wouldn't be able to move around it as easy, maybe through manually calculating a difference between engine and brake and applying whichever side is positive."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2025-08-28T15:44:12Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 13088,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make VehicleWheel3D able to brake and accelerate at the same time",
+  "up": 2,
+  "updatedAt": "2025-12-27T06:07:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13088"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it helps support users who just want to build ui applications out of the box without having to modify the source\nits not quite possible to implement this as an add-on as it has to do with compiling the engine",
+    "format": "form",
+    "workaround": "It can't be worked around with a few lines of script because it involves compiling the engine"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-02T13:24:07Z",
+  "comments": 1,
+  "createdAt": "2022-08-02T12:57:46Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 5057,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Let godot have the ablility to export just control nodes so ui applications are more size optimised",
+  "up": 0,
+  "updatedAt": "2022-08-02T13:24:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5057"
+}

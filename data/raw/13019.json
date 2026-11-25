@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "If we can't write the current colorattchment, many of the rendering device's APIs are of little use.",
+    "format": "form",
+    "workaround": "Not possible in normal scripts"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-08-18T11:59:49Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13019,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose RenderDataRD to RenderingDevice",
+  "up": 0,
+  "updatedAt": "2025-08-25T14:30:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13019"
+}

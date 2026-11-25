@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think changes to the shader system work in an add-on. This seems to need to be implemented in C++ in the core engine rendering system.",
+    "format": "legacy",
+    "workaround": "This feature can be worked around by having a second Sprite on top of the first, which is unlit and handles the emissive component, but this means twice as many nodes for each Sprite, and means you may need duplicated code in 2 separate shaders to get the same look."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2020-09-08T16:50:14Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 1478,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add emissive/unshaded output in CanvasItem shaders",
+  "up": 2,
+  "updatedAt": "2026-11-01T18:00:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1478"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "It cannot."
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-18T23:34:00Z",
+  "comments": 3,
+  "createdAt": "2024-11-13T13:32:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "performance",
+    "platform:macos",
+    "topic:buildsystem"
+  ],
+  "milestone": null,
+  "number": 11150,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Support x86_64h builds in macOS, improving performance for nearly all Intel Macs",
+  "up": 1,
+  "updatedAt": "2026-05-18T23:34:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11150"
+}

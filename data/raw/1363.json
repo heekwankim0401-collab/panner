@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a change on \"core\" code.",
+    "format": "legacy",
+    "workaround": "It can't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-20T08:03:17Z",
+  "comments": 2,
+  "createdAt": "2020-08-13T21:21:20Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 1363,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to draw 1-pixel wide lines that scale with viewport zoom",
+  "up": 11,
+  "updatedAt": "2023-01-20T08:04:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1363"
+}

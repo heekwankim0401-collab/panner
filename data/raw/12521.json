@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because this is a little tweak on the engine itself",
+    "format": "form",
+    "workaround": "if update_filters could be overriden in script then yes.. but is impossible rn since is c++ only"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-05-29T10:58:42Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12521,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a property to disable the All Files filter in FileDialog",
+  "up": 0,
+  "updatedAt": "2025-06-03T22:46:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12521"
+}

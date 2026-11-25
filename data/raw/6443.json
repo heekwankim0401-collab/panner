@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Not sure.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-08T22:46:23Z",
+  "comments": 1,
+  "createdAt": "2023-03-06T08:35:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 6443,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow application of shaders to the script editor.",
+  "up": 0,
+  "updatedAt": "2023-03-08T22:46:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6443"
+}

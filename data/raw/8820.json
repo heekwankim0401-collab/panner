@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I think this is a must that godot should really have, it will improve the overall debug features of the engine.",
+    "format": "form",
+    "workaround": "Right now  I'm printing the whole traversal in the console which is a very primitive method."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-24T22:22:41Z",
+  "comments": 1,
+  "createdAt": "2024-01-07T06:51:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8820,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a way to debug AnimationTree state machines and blend nodes at game run-time",
+  "up": 15,
+  "updatedAt": "2024-08-24T22:22:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8820"
+}

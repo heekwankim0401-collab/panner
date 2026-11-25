@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Materials are Core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-12-20T20:48:33Z",
+  "comments": 3,
+  "createdAt": "2021-11-05T20:29:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3507,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a Color property for detail map in BaseMaterial3D",
+  "up": 1,
+  "updatedAt": "2021-12-20T21:02:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3507"
+}

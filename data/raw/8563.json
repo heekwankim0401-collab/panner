@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a pretty fundamental change to the editor's core.",
+    "format": "form",
+    "workaround": "Not that I'm aware of."
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-08T11:11:03Z",
+  "comments": 6,
+  "createdAt": "2023-12-01T16:17:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.3",
+  "number": 8563,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow for all editor modes to be able to select nodes in the viewport",
+  "up": 7,
+  "updatedAt": "2024-01-08T11:13:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8563"
+}

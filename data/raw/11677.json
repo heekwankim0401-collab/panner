@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I assume embedded play window is a core editor feature.",
+    "format": "form",
+    "workaround": "A game can check if it's running in the editor, in embedded mode, then it wouldn't attempt to modify the window. However, this still would not address the issue of the 4K resolution being too large to fit on a lower resolution screen."
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-01T13:26:27Z",
+  "comments": 4,
+  "createdAt": "2025-01-31T17:15:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11677,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Mark embedding play window feature as experimental instead of being the default",
+  "up": 6,
+  "updatedAt": "2026-07-01T13:26:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11677"
+}

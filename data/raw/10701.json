@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Manual iterator traversal is a common pattern present in most programming languages.",
+    "format": "form",
+    "workaround": "(with reference to https://github.com/godotengine/godot/blob/d0dc3896ad6fe039e4ad0607d901c81197cb3a3b/modules/gdscript/tests/scripts/runtime/features/object_iterators.gd#L1)\n\n```gdscript\nvar iterator := MyIterator.new(3)\nvar store := [null]\nif !iterator._iter_init(store):\n    return\nvar next := iterator._iter_get(store[0])\nif !iterator._iter_next(store):\n    return\nnext = iterator._iter_get(store[0])\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-09T17:35:49Z",
+  "comments": 4,
+  "createdAt": "2024-09-09T11:35:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10701,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose functions for manual iterator traversal",
+  "up": 0,
+  "updatedAt": "2024-09-09T17:41:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10701"
+}

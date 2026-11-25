@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Have to modify root `SConstruct` and possibly `methods.py`.\n\nI can implement this myself, having previously worked on `custom_modules` support in godotengine/godot#36922.",
+    "format": "legacy",
+    "workaround": "It's possible to write functions which can detect modules automatically in Python scripts, including `SConscript`s, otherwise have to specify search paths manually."
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-08T15:00:04Z",
+  "comments": 0,
+  "createdAt": "2020-10-06T14:00:59Z",
+  "down": 0,
+  "labels": [
+    "topic:buildsystem"
+  ],
+  "milestone": "4.0",
+  "number": 1619,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Detect custom C++ modules recursively",
+  "up": 3,
+  "updatedAt": "2021-02-08T15:00:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1619"
+}

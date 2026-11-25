@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No",
+    "format": "form",
+    "workaround": "When the user performs [specific action], the engine would automatically [describe desired outcome].  \nFor example:  \n- Detect certain conditions in the scene  \n- Execute predefined actions in real-time  \n- Update UI/logic accordingly without extra manual setup  \n\nThis could be implemented by extending [relevant Godot class] with a method like:  \n\n```gdscript\nfunc perform_action_on_event(event):\n    if event.is_action_pressed(\"my_action\"):\n        execute_feature_logic()\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-08-11T23:00:33Z",
+  "comments": 2,
+  "createdAt": "2025-08-11T20:53:30Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12982,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Proposal: Key Feature Improvements For Godot - Mobile Multiplayer and Performance",
+  "up": 0,
+  "updatedAt": "2025-08-11T23:00:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12982"
+}

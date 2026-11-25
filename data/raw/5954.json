@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Seems unusual for an addon to use another addon currently.\n\nAlso this makes intercepting engine / editor errors by user code easier.",
+    "format": "form",
+    "workaround": "Not a few lines I think."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-12-18T06:24:48Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5954,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add hierarchical logging system",
+  "up": 14,
+  "updatedAt": "2023-07-19T15:04:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5954"
+}

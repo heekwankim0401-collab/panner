@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "ResourceSaver is part of core, so this should be too.\n\nGodot engine should not be possible to crash by something as simple as dragging a resource reference into another resource.",
+    "format": "markdown",
+    "workaround": "A checker script could be constructed, but there's no mechanism in GDScript to easily compare dictionary and array references,"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-04-27T06:36:09Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2657,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Detect infinite recursion when saving resources and scenes",
+  "up": 3,
+  "updatedAt": "2021-04-27T16:41:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2657"
+}

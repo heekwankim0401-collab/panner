@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This will greatly improve the flow of instancing scenes where editing exported variables of child nodes is required",
+    "format": "form",
+    "workaround": "Yes, with a setget function in the root node script, however it's prone to typos and null variables crashing the game"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 21,
+  "createdAt": "2023-09-22T17:22:19Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7803,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make child nodes export variables be editable in the scene root inspector",
+  "up": 31,
+  "updatedAt": "2026-09-30T10:35:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7803"
+}

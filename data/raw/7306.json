@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is impossible to implement in addon even with dirty hacks because overlays are resorted during rendering",
+    "format": "form",
+    "workaround": "I tried workaround it in different ways, even with binary patching, but i failed to override viewport size during render without glitches"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-07-16T23:06:07Z",
+  "down": 0,
+  "labels": [
+    "topic:xr"
+  ],
+  "milestone": null,
+  "number": 7306,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Notify xr_interface about currently rendering viewport before get_render_target_size call",
+  "up": 0,
+  "updatedAt": "2023-08-06T20:53:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7306"
+}

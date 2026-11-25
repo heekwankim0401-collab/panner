@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This feature modifies core parts of the Vulkan backend\n\n<details>\n  <summary>Old Comparison</summary>\n\n## Comparison\n### HDR Environment Map (fast filtering excels)\n*Old Method*\n![Screenshot (58)](https://user-images.githubusercontent.com/16521339/75052432-75faac00-5484-11ea-8552-3c658b32375f.png)\n\n*Fast Filtering*\n![Screenshot (55)](https://user-images.githubusercontent.com/16521339/75052419-7004cb00-5484-11ea-83a8-e2fe4019c9df.png)\n\n### Default Sky (fast filtering shows cubemap artifact)\n*Old Method*\n![Screenshot (57)](https://user-images.githubusercontent.com/16521339/75052506-9165b700-5484-11ea-85c9-903574df7d75.png)\n\n*Fast Filtering*\n![Screenshot (56)](https://user-images.githubusercontent.com/16521339/75052424-73985200-5484-11ea-878a-4867cc70b1af.png)\n\n</details>\n\n## Updated Comparison (23/02/2020)\n#### Using Arrays\n\n*Current \"High Quality\": 1024 tap importance sampling*\n![Screenshot (74)](https://user-images.githubusercontent.com/16521339/75118810-1b9f4e00-5632-11ea-8301-92784b1df994.png)\n\n*Fast Filtering: High Quality*\n![HQ-Array](https://user-images.githubusercontent.com/16521339/75131245-ea04a200-5686-11ea-8f26-256f2650e945.png)\n\n*Fast Filtering: Low Quality*\n![LQ-Array](https://user-images.githubusercontent.com/16521339/75131249-ef61ec80-5686-11ea-9fb8-b266786b9703.png)\n\n#### Not Using Arrays\n\n*Current \"High Quality\": 1024 tap importance sampling*\n![Screenshot (73)](https://user-images.githubusercontent.com/16521339/75118809-180bc700-5632-11ea-90ab-a5d6d780fc31.png)\n\n*Fast Filtering: High Quality*\n![HQ](https://user-images.githubusercontent.com/16521339/75131252-f2f57380-5686-11ea-92ae-e97382e15a6e.png)\n\n*Fast Filtering: Low Quality*\n![LQ](https://user-images.githubusercontent.com/16521339/75131256-f4bf3700-5686-11ea-8952-7ee5076c63fc.png)\n\n## The Numbers\n*Everybody's favourite part I know* 😋 \n\n1,000 us = 1ms\n1,000 ms = 1 second\n\n** Current implementation using Importance Sampling**\n|                   | High Quality | Low Quality|\n|-------------|--------",
+    "format": "legacy",
+    "workaround": "This enhancement will be used by almost every Environment."
+  },
+  "assignees": 0,
+  "closedAt": "2020-03-25T17:41:14Z",
+  "comments": 1,
+  "createdAt": "2020-02-21T06:09:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 498,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Overhaul Environment map filtering",
+  "up": 13,
+  "updatedAt": "2022-06-20T00:35:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/498"
+}

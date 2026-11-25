@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Once a user starts using TileMapLayers seriously, they will quickly run into this usability issue.\n\nThis proposal should alleviate the struggle of multi-tilemap editing",
+    "format": "form",
+    "workaround": "If it can be worked around with a script/addon, I don't know how."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-03-13T21:21:06Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9296,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement selecting+moving Tiles within multiple TileMapLayer nodes at once",
+  "up": 24,
+  "updatedAt": "2026-10-14T09:25:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9296"
+}

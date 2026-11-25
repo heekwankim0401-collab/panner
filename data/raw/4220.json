@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I may work on an external plugin for this, but it would require duplicating the repository before every export, as this would mangle all script files.\n\nThis is not something which fits with a good export pipeline.",
+    "format": "form",
+    "workaround": "This should probably be core, because it could be part of the standard export pipeline."
+  },
+  "assignees": 0,
+  "closedAt": "2026-11-07T20:25:38Z",
+  "comments": 161,
+  "createdAt": "2022-03-15T09:56:44Z",
+  "down": 37,
+  "labels": [
+    "archived",
+    "topic:export",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 4220,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Obfuscate GDScript in production export",
+  "up": 211,
+  "updatedAt": "2026-11-09T12:54:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4220"
+}

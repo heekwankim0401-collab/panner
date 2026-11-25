@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "This is about declaring versions for GDScript, so it doesn't involve any code. It's a decision to take."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-19T17:25:13Z",
+  "comments": 4,
+  "createdAt": "2021-07-08T15:56:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2964,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Define versions for GDScript for better interoperability with third-party programs/integrations",
+  "up": 23,
+  "updatedAt": "2022-09-18T21:05:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2964"
+}

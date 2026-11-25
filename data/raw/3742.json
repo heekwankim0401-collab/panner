@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Polymorphism is a core concept of OOP, and since scenes are in some sense an analog of classes, I think it would make sense to add polymorphism in this context as a core feature.",
+    "format": "form",
+    "workaround": "This *can* be worked around with an editor plugin, but it is not particularly convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-01-02T13:33:49Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3742,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Scene polymorphism",
+  "up": 7,
+  "updatedAt": "2022-01-04T12:10:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3742"
+}

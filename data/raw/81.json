@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-23T01:16:44Z",
+  "comments": 11,
+  "createdAt": "2019-09-19T01:28:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 81,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow overriding how motion is projected along surfaces in `KinematicBody.move_and_slide()`",
+  "up": 9,
+  "updatedAt": "2022-09-23T15:23:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/81"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "We maintain GLTFDocument and GLTFDocumentExtensions.",
+    "format": "form",
+    "workaround": "This is to expose the gltf document extension to gdscript, making the change in c++ is straightforward, but not forking the engine."
+  },
+  "assignees": 0,
+  "closedAt": "2022-11-24T18:04:51Z",
+  "comments": 0,
+  "createdAt": "2022-11-23T23:40:39Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 5836,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Cache materials in gltf as the abstract class of Material",
+  "up": 0,
+  "updatedAt": "2022-11-24T18:06:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5836"
+}

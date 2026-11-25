@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Fetching these is done by the Godot core.\nAlso I don't see any downsides. But it could be an optional setting of course.",
+    "format": "form",
+    "workaround": "I don't see how.\nYou could add nodes to groups in _ready for example, but you lose the convenience of the UI and you can't find solutions for everything."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-08-24T08:40:59Z",
+  "down": 3,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10549,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Split `project.godot` into multiple files to reduce merge conflicts",
+  "up": 2,
+  "updatedAt": "2024-08-25T16:35:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10549"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core editor functionality.",
+    "format": "markdown",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-26T10:44:50Z",
+  "comments": 1,
+  "createdAt": "2020-12-29T10:57:14Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2044,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Hide the 3D selection box when View Gizmos is disabled in the 3D editor viewport",
+  "up": 3,
+  "updatedAt": "2022-03-04T23:45:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2044"
+}

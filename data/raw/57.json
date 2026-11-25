@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "You can check-out [my branch ](https://github.com/cagdasc/godot/tree/3.1-location-manager) and see how it's implemented. But I am confused about it should be a module or implemented in core. It's available only mobile devices and I need to make it singleton. Maybe you can evaluate module or core options. I have not enough info about assets so I do not decide it can be asset library. My main stopper condition make choice it will be module or core functionality",
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-12T19:07:45Z",
+  "comments": 6,
+  "createdAt": "2019-09-10T20:44:43Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 57,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Godot Location Manager For Mobile Devices",
+  "up": 4,
+  "updatedAt": "2020-08-05T08:02:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/57"
+}

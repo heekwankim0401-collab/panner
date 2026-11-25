@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "markdown",
+    "workaround": "Thanks to https://github.com/godotengine/godot/pull/40491 (cc @RandomShaper), it can be worked around decently, but I'd still argue this should be a built-in feature to ensure a jank-free experience out of the box."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-27T17:10:37Z",
+  "comments": 4,
+  "createdAt": "2020-12-25T15:38:18Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 2021,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow pre-rendering character sets in DynamicFont to avoid stalls during gameplay",
+  "up": 9,
+  "updatedAt": "2022-03-04T23:45:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2021"
+}

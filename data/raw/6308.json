@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "TileSet window is built-in\n\nIn addition, if we reuse the collision shape editor elsewhere than tileset, it will benefit from the new option everywhere",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-17T21:50:46Z",
+  "comments": 4,
+  "createdAt": "2023-02-17T19:08:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 6308,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "TileSet > Physics > Collision shape editing: add option/mode allow snap to integer pixel (instead of half)",
+  "up": 0,
+  "updatedAt": "2023-02-26T14:11:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6308"
+}

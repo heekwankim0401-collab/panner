@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Same as the previous answer",
+    "format": "form",
+    "workaround": "No, because this requires modification or overhaul on relevant in the source code."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-05T15:04:22Z",
+  "comments": 3,
+  "createdAt": "2024-03-03T11:57:21Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:particles",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9226,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Keep texture of previously emitted particles when changing the Texture property",
+  "up": 0,
+  "updatedAt": "2024-03-05T15:08:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9226"
+}

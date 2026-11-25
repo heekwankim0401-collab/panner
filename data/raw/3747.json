@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "EditorInspector related",
+    "format": "form",
+    "workaround": "Workarounds are hacky and most likely unreliable, especially  `is_section_foldable()`"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2022-01-03T21:52:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3747,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `EditorInspector` section folding related methods",
+  "up": 6,
+  "updatedAt": "2022-01-03T22:54:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3747"
+}

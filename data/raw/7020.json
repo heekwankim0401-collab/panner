@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Godot .blend importer feature out of the box.",
+    "format": "form",
+    "workaround": "No I don't know a way of doing it with script"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-06-04T23:54:17Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7020,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add support for Blender's geometry nodes by setting flags before exporting to glTF",
+  "up": 8,
+  "updatedAt": "2026-04-28T00:16:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7020"
+}

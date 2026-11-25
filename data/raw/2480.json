@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I expected sliders and the ColorPickerButton to behave the way they do in my demo by default. It is a very conventional sort of behavior for UI elements in many games, and easier to use.\n\nIt's worth adding that this change would also improve accessibility for players who may have a disability preventing them from using a mouse, or a keyboard.",
+    "format": "markdown",
+    "workaround": "About 150 lines of script, so no. It impacts the usability of every instance of a slider, so I think it would be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2021-03-19T21:47:56Z",
+  "down": 0,
+  "labels": [
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 2480,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve usability of Range UI nodes for inputs other than mouse and keyboard",
+  "up": 0,
+  "updatedAt": "2022-09-09T23:59:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2480"
+}

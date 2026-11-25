@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No (as above).",
+    "format": "form",
+    "workaround": "To my knowledge, this can't be intercepted with an editor plugin."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-10-16T12:03:38Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 8144,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option to trigger tooltips manually in the editor",
+  "up": 5,
+  "updatedAt": "2023-10-17T17:12:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8144"
+}

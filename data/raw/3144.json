@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It should not be difficult to add, and it will make the engine more versatile. When it comes to desktop apps, Godot is a great alternative to heavy frameworks like Electron, so if its usefulness in this area can be improved at a small cost, it should be done.",
+    "format": "form",
+    "workaround": "No, since your scripts start running after everything has already happened."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-08-15T01:41:04Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3144,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow disabling boot splash",
+  "up": 19,
+  "updatedAt": "2022-01-31T13:34:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3144"
+}

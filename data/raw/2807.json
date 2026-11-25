@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Can't override the shader preprocessor from an add-on, AFAIK\n\n\nI can work on a PR, if this gets enough traction.",
+    "format": "markdown",
+    "workaround": "It can, but as I've mentioned, the issue is the code quality and readability itself."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-06-01T19:38:02Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2807,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improved syntax for vector manipulation in shaders",
+  "up": 0,
+  "updatedAt": "2021-06-01T20:54:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2807"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Since it is a default feature",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2020-07-28T07:55:02Z",
+  "comments": 1,
+  "createdAt": "2020-07-28T07:49:37Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1270,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Move \"Export With Debug\" checkbox from FileDialog to Export Dialog",
+  "up": 0,
+  "updatedAt": "2020-07-28T07:55:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1270"
+}

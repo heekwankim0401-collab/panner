@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it's a extension of `AudioStreamPlayer2D` which will improve the artistic freedom of the engine and the implementation of this feature is very simple.",
+    "format": "form",
+    "workaround": "No and maybe yes, it requires a combination of nodes which will need to always be checking for the distance of the player and controlling the volume of a `AudioStreamPlayer` to emulate distance attenuation, this will be however extremely limited as we can't control attenuation curves like it works with `AudioStreamPlayer2D` and we can't preview the audio max distance from the editor."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-16T13:16:33Z",
+  "comments": 1,
+  "createdAt": "2021-11-15T19:11:32Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3551,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "AudioStreamPlayer2D should be allowed to do only distance attenuation for the volume and disable panning of the stereo channels.",
+  "up": 0,
+  "updatedAt": "2021-11-16T13:16:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3551"
+}

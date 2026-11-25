@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "definitely core",
+    "format": "form",
+    "workaround": "This is the part where I'm not sure. Is this never implemented by intent maybe I'm missing something?\n\nOr is it something simply overlooked?"
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-04T17:18:53Z",
+  "comments": 1,
+  "createdAt": "2023-02-13T18:32:34Z",
+  "down": 0,
+  "labels": [
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 6283,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement ScriptInstanceExtension",
+  "up": 0,
+  "updatedAt": "2023-04-04T17:18:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6283"
+}

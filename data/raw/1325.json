@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's just a several lines of code! I saw how implemented `hint_black`:\n```\n                glGenTextures(1, &resources.black_tex);\n                unsigned char blacktexdata[8 * 8 * 3];\n                for (int i = 0; i < 8 * 8 * 3; i++) {\n                        blacktexdata[i] = 0;\n                }\n\n                glActiveTexture(GL_TEXTURE0);\n                glBindTexture(GL_TEXTURE_2D, resources.black_tex);\n                glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB, 8, 8, 0, GL_RGB, GL_UNSIGNED_BYTE, blacktexdata);\n                glGenerateMipmap(GL_TEXTURE_2D);\n                glBindTexture(GL_TEXTURE_2D, 0);\n```\n\nWe already have 4 types of default textures. Let's add the last one and we will have the full range of options.",
+    "format": "legacy",
+    "workaround": "Yes, it requires in every place where the uniform does't used use instead of it special placeholder 1x1 texture."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-02T05:16:00Z",
+  "comments": 1,
+  "createdAt": "2020-08-07T07:21:54Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": "4.0",
+  "number": 1325,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add `hint_transparent` for uniforms",
+  "up": 6,
+  "updatedAt": "2022-08-02T05:16:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1325"
+}

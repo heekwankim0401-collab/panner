@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The inability to import assets during runtime, seems fundamental to Godot and to how the projects are exported. This cannot be fixed with an add-on. `load()` and `preload()` are built-in functions. Going by this logic, `import()` should be a built-in too.",
+    "format": "legacy",
+    "workaround": "NO!! This feature cannot be worked around with a few lines of code. Once the project has been exported and has started running, it closes it eyes to any new file that is placed in the computer, by an external software. I have tried many solutions, suggested in StackOverflow and the Godot forums. But they have not worked. I have not found ANY workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-13T17:54:59Z",
+  "comments": 3,
+  "createdAt": "2020-10-13T17:28:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 1658,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Importing assets at runtime.",
+  "up": 1,
+  "updatedAt": "2020-10-13T18:52:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1658"
+}

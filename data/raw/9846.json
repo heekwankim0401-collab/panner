@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This kind of addons with a small amount of code will surely get abandoned… and for something as fundamental as importing images it would be great to have in in core. Also, I don't know if path2D is enough to represent any SVG path (notably holes?), so this might require some modification in core?",
+    "format": "form",
+    "workaround": "Not as far as I know."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-05-29T19:20:13Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9846,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Import SVG as tree of Path2D",
+  "up": 0,
+  "updatedAt": "2024-06-14T11:35:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9846"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is quite a fundamental issue related to how C# is implemented",
+    "format": "form",
+    "workaround": "It is used very often if you're working with plugins using C#"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-03-25T14:56:13Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 9377,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "C# Provide a better error message when trying to export regular script from [Tool] script ",
+  "up": 2,
+  "updatedAt": "2024-03-25T15:12:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9377"
+}

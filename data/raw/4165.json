@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves the usability of the editor.",
+    "format": "form",
+    "workaround": "No, i dont think a script/addon can solve this issue."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-06T17:15:38Z",
+  "comments": 4,
+  "createdAt": "2022-03-06T16:14:33Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4165,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow dragging a node from the scene tree to NodePath export in inspector",
+  "up": 2,
+  "updatedAt": "2022-03-06T22:49:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4165"
+}

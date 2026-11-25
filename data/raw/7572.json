@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Scenes are core to the Godot user experience.",
+    "format": "form",
+    "workaround": "The closest equivalent to the static scene proposal that I can think of involves declaring all of the \"static\" nodes in a scene as @onready variables. For example\n\n```GDScript\nclass_name Character\nextends Node2D\n\n@onready var sprite : Sprite2D = $Sprite\n@onready var health_bar : ProgressBar = $HealthBar\n```\n\nNot only does this approach introduce a line of boilerplate per node in the scene, it also doesn't allow for any static guarantees that the \"static\" nodes exist. For example, if I accidentally free `sprite` or `health_bar`, I won't know until runtime, whereas static scenes would be able to catch this mistake in the editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-08-28T15:48:21Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 7572,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Static Scenes",
+  "up": 10,
+  "updatedAt": "2024-10-29T07:40:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7572"
+}

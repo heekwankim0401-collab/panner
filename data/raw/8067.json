@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is primarily a tool to aid the development of add-ons, so a core change is likely the only path.",
+    "format": "form",
+    "workaround": "Perhaps, but I wasn't able to find any way to do so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-11T01:01:52Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 8067,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose MultiNodeEdit as a scriptable class",
+  "up": 12,
+  "updatedAt": "2024-04-18T17:02:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8067"
+}

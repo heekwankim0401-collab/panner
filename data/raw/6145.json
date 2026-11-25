@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe trails are something that's used commonly enough that making a simple built-in solution could be worthwhile. There are already examples of this in Godot such as PathFollow2D/3D.\nAdditionally it it might perform better than a GDScript implementation for a large amount of trails.",
+    "format": "form",
+    "workaround": "A simple 2D trail system isn't too difficult to code, and there are already good solutions made by the community. But i believe trails are something that's very commonly used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-01-23T00:17:35Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 6145,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Trail2D node",
+  "up": 8,
+  "updatedAt": "2026-02-19T14:20:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6145"
+}

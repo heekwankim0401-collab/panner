@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AFAIK `print()` and `printerr()` are both in core.",
+    "format": "form",
+    "workaround": "You can do `print_rich(\"[color=yellow]<message>\")` but it is more verbose and not filterable in the Output panel."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-03T19:50:09Z",
+  "comments": 1,
+  "createdAt": "2024-09-03T19:16:33Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 10648,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `printwarn()` to print warnings to Output panel (as opposed to Debugger)",
+  "up": 0,
+  "updatedAt": "2024-09-03T19:50:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10648"
+}

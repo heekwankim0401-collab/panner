@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "Nope"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-06-16T08:59:01Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9972,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow use embedded Godot class icon for custom class via `@icon` annotation",
+  "up": 17,
+  "updatedAt": "2026-08-28T16:05:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9972"
+}

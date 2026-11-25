@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It would require changes to the Skeleton node, and possibly the editor to work. This Might be doable as an addon, as a tool, however I don't have enough experience with creating such editor tools, so I don't know if it is, and if it is, how hacky it'd have to be, if at all.",
+    "format": "form",
+    "workaround": "No, but you can just use the inspector, however that wouldn't come with the ability to manipulate the bones \"Locally\" as in the inspector, all the bones are only modified in \"Global\" space."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-13T19:53:30Z",
+  "comments": 1,
+  "createdAt": "2021-07-13T19:29:44Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2990,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Skeleton Gizmos",
+  "up": 0,
+  "updatedAt": "2021-07-13T19:53:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2990"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can't, this directly affects the editor code and the GDScript language.",
+    "format": "form",
+    "workaround": "There are two work-arounds. One is to ignore the problem. Another is to not give your abstract classes `class_name`, but this requires you to use `extends \"my_script.gd\"` to extend them, and if you want to use the `is` operator then you have to use `const MyScript = preload(\"my_script.gd\")` in every file where you refer to that type."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-13T21:28:07Z",
+  "comments": 44,
+  "createdAt": "2022-10-23T04:08:36Z",
+  "down": 8,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": "4.5",
+  "number": 5641,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for abstract classes in GDScript",
+  "up": 118,
+  "updatedAt": "2025-09-12T09:06:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5641"
+}

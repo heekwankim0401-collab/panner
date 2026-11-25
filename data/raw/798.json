@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because of the reason above.",
+    "format": "legacy",
+    "workaround": "No, 'cause this requires low level access to the rendering API."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 57,
+  "createdAt": "2020-05-06T00:47:36Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 798,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Access different viewport buffers through ViewportTextures (\"G-buffer\")",
+  "up": 101,
+  "updatedAt": "2026-04-25T09:02:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/798"
+}

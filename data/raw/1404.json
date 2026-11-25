@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This seems like a simple UX quality of life improvement that should be part of the existing menu.",
+    "format": "legacy",
+    "workaround": "It might be possible to create an alternative menu for Texture Region controls but this seems too complex for such a small change."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-13T18:18:06Z",
+  "comments": 5,
+  "createdAt": "2020-08-23T21:24:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 1404,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve navigation in Texture Region menu with right-click",
+  "up": 0,
+  "updatedAt": "2023-07-13T18:18:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1404"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-12-17T17:31:30Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13880,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support GPU-compressed sRGB image formats in the Image class",
+  "up": 0,
+  "updatedAt": "2025-12-17T17:58:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13880"
+}

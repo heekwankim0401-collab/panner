@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Well, it'd be the ' ideal ' terrain, down-side is one can't download many hex - based textures, but one could simply start uploading them, after making them in Blender, to texture sites, or make a plug-in, that has some example, not sure . .\n\nSorry, I know this is rough, and also ' new ', it would be the ideal terrain ' system ', mathmatically, wanted to ask, if you thought it could be cool, or so . . <3 . .\n\nps. hear there's plan for a voxel based terrain painter, one could make a hexel based one, and get amazing land-scapes, and terrain, esp. if one could paint say, on it in Godot, with textures, that fit . . last, one might be able to optimize the core textures, to make better use, of the UV grid . . :O . . .\n![rock_01](https://user-images.githubusercontent.com/83387915/119258804-8f306200-bbcb-11eb-8a22-71644425e673.png)\n\nNote that, even for a .png. uniformly colored pixels are compressed, and don't take texture memory, one might be able to unwrap it, so every pixel was used, not sure . .\n\nit's just a crazy idea, but it'd give amazing terrains, if one could paint on it, say with four different types, of basic terrain types . . Not sure <3 just an idea, atm . . . .\n\nThe suggestion is, when you make the terrain editor, consider making this an OPTION, for making terrain, not the only one, Thx <3",
+    "format": "markdown",
+    "workaround": "Well, it's just an idea, also for making something 'different', that'd also be ' optimized ', to look good, from all angles . . since Blender can't make these grids, at least by 'default', if one could make a new meshtype, in Godot, then use the scene exporter, to Blender, it'd be REALLY fast, to make say a 512 x 512 m hex grid, move to Blender, sculpt it, re-import it or, make it an extra mode, for Godot's up-coming terrain editor, don't know when it's planned, might be a year, more . . ."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-05-23T11:30:49Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2761,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Suggestion for a hex-based terrain editor option . .",
+  "up": 2,
+  "updatedAt": "2021-05-23T14:07:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2761"
+}

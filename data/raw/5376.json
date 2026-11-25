@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because it is a core issue.\nYou got to be a tech wizard to find out how to gain access to color and not just modulate.",
+    "format": "form",
+    "workaround": "I mean, maybe with a new material for each instance or an extra node as a child, but you have to see how inefficient this is doing this for every instance, right?"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-09-09T01:15:48Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 5376,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Grant access to vertex colors for 9-patch rects, text, and other control types.",
+  "up": 0,
+  "updatedAt": "2022-09-09T15:27:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5376"
+}

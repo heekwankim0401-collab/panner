@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-10-16T09:17:17Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 15658,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose position / velocity iteration overrides on individual joints",
+  "up": 1,
+  "updatedAt": "2026-10-22T22:00:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15658"
+}

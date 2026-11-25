@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Alpha sorting is a core engine feature.",
+    "format": "form",
+    "workaround": "I don't think it would be performant to work around in script, but you could potentially set a different sort priority for stuff below the water, the water, and stuff above the water."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-07-09T11:06:03Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 12754,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add option to perform alpha sorting using axis/plane normals",
+  "up": 0,
+  "updatedAt": "2025-07-10T01:23:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12754"
+}

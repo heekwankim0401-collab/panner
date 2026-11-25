@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core editor/documentation system functionality.",
+    "format": "markdown",
+    "workaround": "No, as this is core editor/documentation system functionality."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-01T19:23:31Z",
+  "comments": 1,
+  "createdAt": "2020-12-08T13:08:13Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.1",
+  "number": 1955,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add descriptions/tooltips to export preset settings",
+  "up": 6,
+  "updatedAt": "2024-02-01T19:23:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1955"
+}

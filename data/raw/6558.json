@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The ItemList node is core, and this is an enhancement to that node.",
+    "format": "form",
+    "workaround": "The workaround at this time would be to use a HBoxContainer and create all the items myself inside of the box, but this gives less extensibility over something like the ItemList node."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-10T22:08:10Z",
+  "comments": 4,
+  "createdAt": "2023-03-23T19:08:20Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.4",
+  "number": 6558,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an horizontal scrollbar to ItemList",
+  "up": 1,
+  "updatedAt": "2025-01-10T22:08:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6558"
+}

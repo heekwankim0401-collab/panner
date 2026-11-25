@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Usability issues such as this should be core as they aren't project-specific.",
+    "format": "form",
+    "workaround": "It can be worked around by ignoring the checkboxes in the node and using the Inspector ones instead. To do this however you need to click off the `AnimationTree` node in the Scene Tree, click back onto it and in doing so you'll lose your current position in the *AnimationTree* panel at the bottom. It's quite a clunky workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-07-18T01:20:01Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7311,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add labels to AnimationNodeStateMachine node parameter checkboxes",
+  "up": 1,
+  "updatedAt": "2023-07-18T02:13:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7311"
+}

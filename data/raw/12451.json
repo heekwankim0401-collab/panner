@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, there is. These features are closely tied to the engine’s core rendering and lighting systems, and implementing them at the core level ensures maximum performance, stability, and compatibility with other systems. As a separate asset library, such improvements might be less efficient, cause conflicts, or require extra configuration from the user. Therefore, integration into the core is the optimal approach.",
+    "format": "form",
+    "workaround": "This improvement cannot be effectively worked around with a few lines of script, as it requires deep engine integration for proper functionality. Workarounds are either impossible or would lead to significant complexity, reduced performance, and lower quality, making built-in support essential."
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-10T22:06:41Z",
+  "comments": 3,
+  "createdAt": "2025-05-17T21:08:34Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 12451,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ideas and suggestions to improve Godot Engine",
+  "up": 0,
+  "updatedAt": "2025-07-10T22:06:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12451"
+}

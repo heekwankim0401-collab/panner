@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think this could be useful, not just for me, but for a lot of things in the engine as a whole.\nPersonally, I feel this is something that should exist and I was surprised that it doesn't yet.",
+    "format": "form",
+    "workaround": "I wrote some code that works around the issue with a `Timer` but as I mentioned above, this is not optimal: \n```gdscript\nclass_name SceneCache extends Node\n\nvar cached_scenes: Array[SceneInfo] = [];\nvar loading_queue: Array[SceneInfo] = [];\n\nfunc _init():\n\tvar timer = Timer.new();\n\ttimer.timeout.connect(_check_progress)\n\ttimer.wait_time = 0.1;\n\t\n\tManager.instance.orphan_timers.add_child(timer)\n\ttimer.start();\n\nfunc queue(scene_info: SceneInfo):\n\tloading_queue.append(scene_info);\n\tvar error = ResourceLoader.load_threaded_request(scene_info.packed_scene.resource_path, type_string(typeof(PackedScene)))\n\tif error:\n\t\tloading_queue.erase(scene_info)\n\t\tDebug.err(error)\n\nfunc _check_progress():\n\tfor loading in loading_queue:\n\t\tif ResourceLoader.load_threaded_get_status(loading.packed_scene.resource_path) == ResourceLoader.THREAD_LOAD_LOADED:\n\t\t\tloading.node = ResourceLoader.load_threaded_get(loading.packed_scene.resource_path).instantiate();\n\t\t\tcached_scenes.append(loading)\n\t\t\tloading_queue.erase(loading)\n\t\t\tloading.cached.emit(loading);\n\nfunc get_from_cache(scene_info: SceneInfo) -> Node:\n\tif cached_scenes.has(scene_info):\n\t\treturn cached_scenes[cached_scenes.find(scene_info)].node;\n\telse:\n\t\tqueue(scene_info)\n\t\treturn null;\n\t\t\nfunc is_cached(scene_info: SceneInfo):\n\tif loading_queue.has(scene_info) || cached_scenes.has(scene_info):\n\t\treturn ResourceLoader.load_threaded_get_status(scene_info.packed_scene.resource_path)\n\telse:\n\t\treturn -1;\n```"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2024-08-07T10:28:43Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10386,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Emit a signal when `ResourceLoader.load_threaded_request()` finishes",
+  "up": 12,
+  "updatedAt": "2025-10-24T07:04:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10386"
+}

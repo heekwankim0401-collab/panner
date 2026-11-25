@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a one time use for each godot version. Downloading an addon is a worthless extra step. This can be low priority but I think would be a small welcome addition. If someone is willing to guide me I could code it",
+    "format": "legacy",
+    "workaround": "Usually I go to godot website, download the export templates and install from file, it works but it is not a seamless experience."
+  },
+  "assignees": 0,
+  "closedAt": "2021-06-15T17:34:59Z",
+  "comments": 3,
+  "createdAt": "2019-09-05T17:50:17Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 35,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Download export templates on the background",
+  "up": 1,
+  "updatedAt": "2021-06-15T17:35:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/35"
+}

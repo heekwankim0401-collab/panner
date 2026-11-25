@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "`icon.png` is a core feature.",
+    "format": "legacy",
+    "workaround": "This problem is very easy to work around, but this will be used very often (by anyone who creates a project, nearly 100% of users)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-18T19:31:41Z",
+  "comments": 14,
+  "createdAt": "2020-08-31T03:28:29Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1436,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Increase the resolution of the default `icon.png`",
+  "up": 16,
+  "updatedAt": "2022-08-18T19:31:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1436"
+}

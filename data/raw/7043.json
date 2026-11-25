@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This would be amazing to have in the Godot core docs, I don't particularly find the web-docs useful right now, because we still have some issues with the Google SEO.",
+    "format": "form",
+    "workaround": "Interestingly this could perhaps be done via code?\n\nWe could search for `NavigationServer3D.some_function` and then link-back to a relevant tutorial.\n\nPerhaps \"This function may have been used in this tutorial\""
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-08T19:27:48Z",
+  "comments": 12,
+  "createdAt": "2023-06-08T14:30:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:docs"
+  ],
+  "milestone": null,
+  "number": 7043,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Link back more often to the Web tutorials inside the internal Godot engine docs",
+  "up": 0,
+  "updatedAt": "2023-06-09T11:22:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7043"
+}

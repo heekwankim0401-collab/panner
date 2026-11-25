@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I think mesh generation should be supported in the engine itself, i'm still looking back at unity's skinning editor that can easily generate polygons and UVs, and it's actually does a pretty good job.",
+    "format": "form",
+    "workaround": "It is possible to write a tool script, but i don't think it will take a few lines of code. It would be way more easy to generate meshes for people who never did that."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2022-01-13T02:43:57Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3791,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an easier way to generate geometry with weights in Polygon2D",
+  "up": 12,
+  "updatedAt": "2023-10-31T22:37:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3791"
+}

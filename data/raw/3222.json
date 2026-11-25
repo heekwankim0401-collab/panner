@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "A near-identical feature is already core.",
+    "format": "form",
+    "workaround": "Scripts can't work around it, as far as I know. It's an editor setting."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-18T03:24:30Z",
+  "comments": 4,
+  "createdAt": "2021-08-29T16:55:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3222,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Display bookmark, breakpoint and execution line markers when the gutter is hidden by underlining lines or line numbers",
+  "up": 3,
+  "updatedAt": "2023-02-18T16:00:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3222"
+}

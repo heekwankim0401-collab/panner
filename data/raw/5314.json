@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, this is an editor change.",
+    "format": "form",
+    "workaround": "No, this is an editor change."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-09-03T14:31:17Z",
+  "down": 6,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 5314,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Replace left side column in script editor by moving the functionality",
+  "up": 12,
+  "updatedAt": "2023-06-05T21:41:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5314"
+}

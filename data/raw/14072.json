@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Improves gradient capabilities and pairs well with the linked PR for styleboxes if merged",
+    "format": "form",
+    "workaround": "Maybe but it would be a lot more difficult and less convenient. In core its just another fill mode with 2 extra lines of logic"
+  },
+  "assignees": 0,
+  "closedAt": "2026-02-10T14:32:48Z",
+  "comments": 0,
+  "createdAt": "2026-01-26T17:24:17Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui"
+  ],
+  "milestone": "4.7",
+  "number": 14072,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add conic gradients to GradientTexture2D",
+  "up": 5,
+  "updatedAt": "2026-02-10T14:34:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14072"
+}

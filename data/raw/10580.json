@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "That's why we're here.  We believe Godot \"under the hood\" already supports what we need to create this new workflow.  This effort is more of a UI and automation issue to resolve.  We're prepared to do this work ourselves but are concerned about the long term maintenance of this effort.  Ideally this would be something ultimately adopted/blessed by Godot, not something privately maintained by Zynga.  Plus we figured we can't be the only ones looking to make use of many pack files within a game.  So we don't want to spend a couple months on something that will ultimately be rejected.  We come looking for advice on 1) is Godot okay with this approach 2) where this effort should be (asset library, within godot engine, etc) 3) what needs to be done so this workflow isn't a constant headache for each new Godot release moving forward.\n\nWe're open to alternative ideas, criticism, comments, etc.  We chose this workflow approach since that's what we're used to and it's proven to work well in real production environments.  We just want to make sure we're headed down the right path before we start this work.",
+    "format": "form",
+    "workaround": "Since we are proposing a new workflow to exporting Godot's pack files, it's not possible to workaround it with a few lines of scripts."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-08-27T18:49:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 10580,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create ability to add a pack file tag to assets to facilitate exporting multiple pack files",
+  "up": 4,
+  "updatedAt": "2024-09-05T22:39:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10580"
+}

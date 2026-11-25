@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "> This is usability improvement.",
+    "format": "legacy",
+    "workaround": "This is usability improvement. Workarounds are inconvenient."
+  },
+  "assignees": 0,
+  "closedAt": "2023-04-25T17:30:45Z",
+  "comments": 0,
+  "createdAt": "2020-06-30T23:45:56Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.1",
+  "number": 1148,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to remove node without removing related animation tracks",
+  "up": 5,
+  "updatedAt": "2023-04-25T17:30:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1148"
+}

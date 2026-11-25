@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is basic functionality, that I'm super surprised is not there and there does not seem to be issue for that.",
+    "format": "form",
+    "workaround": "No, this is editor UI issue."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-03-19T08:54:59Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12021,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Restore option to the Action on Stop editor setting for the bottom panel",
+  "up": 2,
+  "updatedAt": "2025-03-19T16:08:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12021"
+}

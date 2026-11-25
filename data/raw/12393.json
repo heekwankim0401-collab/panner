@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "GDScript doesn't offer a way of extending built-in classes, so rather than `vec.clamp_length(2.0)` one would have to do something like `Vector2Util.clamp_length(vec, 2.0)` which is both overly verbose (having to state the explicit type in the function call) and prone to conflict/collisions (this pollutes the global symbol space).",
+    "format": "form",
+    "workaround": "Yes, it realistically could be handled with only four static methods with 1-line bodies, but I see that as unnecessary boilerplate for such a common, low-level operation. If we have options for `Vector{2,3,4}.normalized()` over `Vector{2,3,4} / Vector{2,3,4}.length()` and `clamp(a, b, c)` over `min(max(a, c), b)` to provide clarity (and performance), I see this no differently."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-09T16:34:43Z",
+  "comments": 3,
+  "createdAt": "2025-05-08T20:04:38Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.5",
+  "number": 12393,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve documentation to make `Vector{2,3,4}.limit_length()` easier to find",
+  "up": 0,
+  "updatedAt": "2025-05-09T16:37:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12393"
+}

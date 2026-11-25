@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The Camera2D class is a core feature.",
+    "format": "form",
+    "workaround": "It roughly can. Not really a few lines of script, and it is somewhat redundant.\n```gdscript\nextends Camera2D\ntool\n\nexport var limit: Rect2 setget _set_limit\n\nfunc _set_limit(new: Rect2):\n\tlimit = new\n\t\n\tlimit_left = limit.position.x\n\tlimit_top = limit.position.y\n\tlimit_right = limit.end.x\n\tlimit_bottom = limit.end.y\n```\n![image](https://user-images.githubusercontent.com/66727710/143658836-a5c1de7d-47d6-40f9-afaf-01c7f502a6da.png)"
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-03T20:34:01Z",
+  "comments": 3,
+  "createdAt": "2021-11-26T23:04:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3604,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Combine Camera2D \"limit_top\", \"limit_bottom\", \"limit_left\" and \"limit_right\" to a Rect2i \"limit\"",
+  "up": 1,
+  "updatedAt": "2022-08-03T20:36:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3604"
+}

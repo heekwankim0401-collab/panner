@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I feel like it doesn't make sense for this feature to be a separate add-on or a library, considering how it's usually just supported out-of-the-box, so might either just add it as core functionality or not (and reject this proposal in the latter case).",
+    "format": "form",
+    "workaround": "This can be worked around by just opening any text editor or any program with a text input field (such as a web browser), entering a combination in here and copying the resulting symbol."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-19T12:23:27Z",
+  "comments": 5,
+  "createdAt": "2024-06-16T19:40:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui",
+    "topic:input"
+  ],
+  "milestone": "4.5",
+  "number": 9981,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add alt code input feature",
+  "up": 0,
+  "updatedAt": "2025-04-10T22:00:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9981"
+}

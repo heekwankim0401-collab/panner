@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a basic workflow improvement which anyone who uses ctrl+k would benefit from.",
+    "format": "legacy",
+    "workaround": "I believe it would be used often, the obvious counterpoint to changing this functionality is that someone may want to comment a large select of code which itself has comments in it, however this can easily be achieved with the ''' multi-line comment syntax."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-28T16:06:57Z",
+  "comments": 6,
+  "createdAt": "2020-01-29T23:56:48Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 417,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve the Ctrl + K shortcut's comment line toggling behavior",
+  "up": 0,
+  "updatedAt": "2020-10-28T16:07:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/417"
+}

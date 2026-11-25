@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Adds editor support for existing core functionality.\n\n---\n\nThis is one part of multiple UV editor enhancements: #4118",
+    "format": "form",
+    "workaround": "Used more or less as often as uv and weight editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-10-19T09:28:29Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8195,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a vertex color editor for Polygon2D",
+  "up": 13,
+  "updatedAt": "2023-10-20T13:10:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8195"
+}

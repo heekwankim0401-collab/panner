@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about annotations in code. Plus, the engine already uses warning symbols, we could reuse them.",
+    "format": "form",
+    "workaround": "Yes, but we need an assert in _ready() for every required exported var. And this doesn't work for edit-time."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-31T21:09:01Z",
+  "comments": 5,
+  "createdAt": "2023-02-27T21:51:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6368,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "@export \"required\" option for editor-time or start-time check that field has been assigned",
+  "up": 11,
+  "updatedAt": "2023-04-18T11:47:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6368"
+}

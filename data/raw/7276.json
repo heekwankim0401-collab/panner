@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Seems to be more flexible and not forcing user to do unnecessary work. Allowing to chose default would cover bigger userbase.",
+    "format": "form",
+    "workaround": "yes. iterate over every cell in grid and set `set_point_solid`  to disable."
+  },
+  "assignees": 0,
+  "closedAt": "2023-08-04T15:00:26Z",
+  "comments": 2,
+  "createdAt": "2023-07-14T09:56:32Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:navigation"
+  ],
+  "milestone": "4.2",
+  "number": 7276,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "AStarGrid2D allow to disable (set solid ) all points when creating new instance - allow to override the default",
+  "up": 0,
+  "updatedAt": "2023-08-13T09:26:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7276"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This relates to exposed Editor functionality.",
+    "format": "form",
+    "workaround": "No, these APIs are currently not available."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-11T08:54:30Z",
+  "comments": 0,
+  "createdAt": "2024-01-02T19:38:18Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.3",
+  "number": 8777,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve GDExtension Tooling with Editor Debugger Tools",
+  "up": 5,
+  "updatedAt": "2024-06-11T08:55:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8777"
+}

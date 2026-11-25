@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the animation usability out of the box",
+    "format": "form",
+    "workaround": "I don't know if this can be make with an editor plugin"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-12T23:44:25Z",
+  "comments": 5,
+  "createdAt": "2021-08-20T10:11:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3170,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a handle on the animation editor timeline to move an entire row of keyframes at the same time",
+  "up": 16,
+  "updatedAt": "2022-09-18T21:34:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3170"
+}

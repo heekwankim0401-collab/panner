@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves an existing feature and complements the core 3D editing experience well.\n\n*Bugsquad edit (keywords for easier searching): vertex*",
+    "format": "legacy",
+    "workaround": "You can use the \"Snap to floor\" option, but it is slower and not real time."
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-14T11:21:14Z",
+  "comments": 33,
+  "createdAt": "2020-04-26T13:53:15Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 755,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add object snapping to the floor/vertices for the 3D editor viewport",
+  "up": 72,
+  "updatedAt": "2026-03-14T11:21:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/755"
+}

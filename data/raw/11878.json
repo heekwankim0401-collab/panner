@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "The using line can be added manually to each project, but I think the main merit of this enhancement is discoverability and cross-language similarity, which require this being the default."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-02-28T22:25:06Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 11878,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Globally import the GD class to harmonize C# with GDScript code",
+  "up": 2,
+  "updatedAt": "2025-03-01T23:20:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11878"
+}

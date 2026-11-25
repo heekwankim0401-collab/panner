@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't see how this feature could be integrated into the official TileSet from a third-party asset without incurring some kind of performance penalty. To avoid that, it would have to be a fork/port of the existing TileSet code. It might also have to reimplement some of the dependents of TileSet, like TileMap, to accept this new tileset. Further, I'm not sure how well a third-party asset can be integrated into the editor, I don't know if it could have the same interface that is currently available for tilemaps and tilesets.",
+    "format": "legacy",
+    "workaround": "Adding a 1px or 2px margin around the tiles would solve this, as long as I don't sample further than the margin width, but I would like to avoid doing that. Maybe another option would be to clamp the UV coordinates to the boundaries of the current tile? I'm not sure how I would approach that.\n\n _(edit: I'm aware it can be done within the shader, but I don't know of a good way to pass the UV bounds to it or calculate them from within the shader.)_\n\nIt may be possible to dynamically create the TileSet using the existing APIs, creating `ImageTexture`s from the image data from each layer and setting them for each tile. Something like:\n```\ntileset.tile_set_texture(i, ImageTexture.create_from_image(layered_texture.get_layer_data(i)))\n```\n\nHowever, if I understand correctly, this would take away the main benefit of making the atlas a single texture, which is that you don't have to change render state before rendering each tile. They'd all be converted into separate textures if it was created like this."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2020-06-08T21:09:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1026,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support creating TileSets from a TextureArray / TextureLayered",
+  "up": 1,
+  "updatedAt": "2020-06-11T15:22:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1026"
+}

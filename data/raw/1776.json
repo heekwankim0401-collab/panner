@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This cannot be done with an add-on, because it affects the GDScript syntax.",
+    "format": "legacy",
+    "workaround": "It is possible to attach the script directly to the `Grid` node, but this option is not always acceptable."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 19,
+  "createdAt": "2020-11-05T11:09:41Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1776,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add shorthand `expr.$NodePath` for `expr.get_node(\"NodePath\")`",
+  "up": 21,
+  "updatedAt": "2024-08-28T22:47:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1776"
+}

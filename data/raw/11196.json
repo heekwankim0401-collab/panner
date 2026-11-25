@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I don’t think this would be possible with an add-on and still provide the same level of polish. This feature should be core because it requires tight integration with the editor's UI and settings. This is a key improvement to the Android Editor UI, and it would make a significant difference for anyone using the Android editor.",
+    "format": "form",
+    "workaround": "I don’t think so. Please feel free to enlighten me if you know of a way. \n\nWhile the implementation may involve significant changes to the Android editor UI, it is in line with Godot's existing flexibility for desktop UI customizations."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2024-11-20T08:15:17Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:platforms",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11196,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Overhaul Android Editor UI with Floating Dialogs",
+  "up": 8,
+  "updatedAt": "2025-12-18T19:31:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11196"
+}

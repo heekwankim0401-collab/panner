@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The script editor is core, and this would benefit everyone.",
+    "format": "form",
+    "workaround": "Not that I'm aware."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-02T00:17:44Z",
+  "comments": 3,
+  "createdAt": "2021-08-01T23:46:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3075,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show the docs for the selected function & argument in the script editor's tooltip",
+  "up": 0,
+  "updatedAt": "2021-08-02T00:37:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3075"
+}

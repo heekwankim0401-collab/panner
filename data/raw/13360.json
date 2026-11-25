@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. Splash screens are part of the standard app startup experience. Having it built into the Android template ensures all projects work out-of-the-box without error-prone manual configuration.",
+    "format": "form",
+    "workaround": "It requires following the settings from https://github.com/MiqueiasDevGames/Godot-SplashScreen-Android-12\n, so it is not a simple few lines of script.\n\nThere was a similar issue before: https://github.com/godotengine/godot-proposals/issues/4221\n, but the problem was never resolved."
+  },
+  "assignees": 1,
+  "closedAt": "2026-04-09T22:48:11Z",
+  "comments": 6,
+  "createdAt": "2025-10-11T10:29:50Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.7",
+  "number": 13360,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add an option to use native Android splash screen instead of Godot's own splash screen implementation",
+  "up": 3,
+  "updatedAt": "2026-04-09T22:48:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13360"
+}

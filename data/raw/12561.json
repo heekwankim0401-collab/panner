@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Would be better if part of the core, not sure this can be worked around with an asset library since it's a core funcionality.",
+    "format": "form",
+    "workaround": "This can be worked around by creating the folder in Filesystem panel, the Operative System prompts or other ways."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-27T16:30:21Z",
+  "comments": 2,
+  "createdAt": "2025-06-06T09:53:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 12561,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow create directory on Attach Node Script Dialog Prompt",
+  "up": 1,
+  "updatedAt": "2026-09-27T16:30:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12561"
+}

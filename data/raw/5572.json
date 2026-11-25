@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "We already support Adaptive Icons and Themed Icons is part of it.\nBy adding this Godot will also to encourage the right Android customization support.",
+    "format": "form",
+    "workaround": "If not used, all we have to do is omit the `<monochrome android:drawable=\"@mipmap/icon_monochrome\"/>` line and it will work as is today."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-27T12:57:35Z",
+  "comments": 3,
+  "createdAt": "2022-10-11T14:12:02Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:platforms"
+  ],
+  "milestone": "4.4",
+  "number": 5572,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for Android Themed Icons",
+  "up": 9,
+  "updatedAt": "2024-09-27T12:57:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5572"
+}

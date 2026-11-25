@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The animation player is a node many games use; adding it to every developer makes sense to enhance the interface experience.",
+    "format": "form",
+    "workaround": "It would be lovely to be integrated into the core, as this node is often used."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-10-28T21:43:00Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8284,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display new keyframe time when dragging a property's key",
+  "up": 5,
+  "updatedAt": "2023-10-30T18:28:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8284"
+}

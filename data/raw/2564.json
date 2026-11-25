@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would make sense to have this as a core feature because it's already there, it just need a bit more work before you can make some really cool text effects. This would also make creating fonts a lot easier for beginners as they can just play with the DynamicFont instead of spending many hours in Photoshop and Shoebox to make a simple Bitmap font. \n\nOthers have requested a similar solution;\nhttps://github.com/godotengine/godot/issues/19356",
+    "format": "markdown",
+    "workaround": "We tried a solution our selves using a custom shader we hacked together by looking at older github posts but it did not work as intended. We got the gradient working though but not together with the outline and we still need to be able to create the other outlines as well. So it does not seem like this is possible.\n\n![image](https://user-images.githubusercontent.com/24936603/113868161-aa781700-97af-11eb-89a2-7ffcfd881431.png)"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-29T16:28:31Z",
+  "comments": 24,
+  "createdAt": "2021-04-07T12:56:33Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 2564,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add multiple outlines, multiple drop shadows and gradients to DynamicFont",
+  "up": 34,
+  "updatedAt": "2025-09-23T04:13:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2564"
+}

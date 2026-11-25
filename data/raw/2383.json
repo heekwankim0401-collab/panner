@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "You can't extend existing types and alternative would be some utility singleton.",
+    "format": "markdown",
+    "workaround": "Well, it can, but I'd use it relatively often."
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-29T14:14:29Z",
+  "comments": 3,
+  "createdAt": "2021-03-01T11:20:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2383,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow `get_meta()` to return a default value (similar to `Dictionary.get()`)",
+  "up": 11,
+  "updatedAt": "2022-03-29T14:14:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2383"
+}

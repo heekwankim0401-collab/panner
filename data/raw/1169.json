@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Since its going to split group blend modes , it has to be part of the core.\n\nThanks",
+    "format": "legacy",
+    "workaround": "No , there is a possiblity that you can make a script that does the job , but it will have to update everyframe , and that's not a good optimization."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-13T21:51:09Z",
+  "comments": 3,
+  "createdAt": "2020-07-07T13:56:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1169,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a blending layer system",
+  "up": 1,
+  "updatedAt": "2021-08-13T21:51:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1169"
+}

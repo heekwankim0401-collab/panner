@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a core feature.",
+    "format": "form",
+    "workaround": "Will be used often and can NOT be worked around by switching off as Debug-warnings."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2022-08-18T06:30:17Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5192,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Array remove shouldn't print an error when index out of bounds (for consistency with erase and actual documentation).",
+  "up": 0,
+  "updatedAt": "2022-08-18T11:59:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5192"
+}

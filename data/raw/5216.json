@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I can't say could this be an external Nuget package or should it be a core feature.",
+    "format": "form",
+    "workaround": "My proposal is mostly a syntax sugar."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-26T15:11:31Z",
+  "comments": 4,
+  "createdAt": "2022-08-20T11:53:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 5216,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add `Node` attribute for C#",
+  "up": 6,
+  "updatedAt": "2022-10-26T15:26:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5216"
+}

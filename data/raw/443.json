@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2020-02-06T08:59:40Z",
+  "comments": 1,
+  "createdAt": "2020-02-06T03:11:19Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 443,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Can't get specific collisionShape when KinematicBody has multiple collisionShapes",
+  "up": 0,
+  "updatedAt": "2020-02-06T21:51:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/443"
+}

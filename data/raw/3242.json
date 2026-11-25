@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe, there is no reason not to add this to core since it will increase productivity and provide a slightly more new-user-friendly and convenient piece of functionality",
+    "format": "form",
+    "workaround": "It can be worked around by manually adding a child node in a few more steps"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-01T20:10:42Z",
+  "comments": 1,
+  "createdAt": "2021-09-01T19:54:27Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3242,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add button to create `CollisionShape/Polygon` in Node Configuration Warning window",
+  "up": 0,
+  "updatedAt": "2021-09-01T20:10:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3242"
+}

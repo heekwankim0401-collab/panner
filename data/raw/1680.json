@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I guess this should be core functionallity to help debug plugin code",
+    "format": "legacy",
+    "workaround": "* needs to create a extra scene\n* needs to now where this scene is located and you have to open manually and press F6 to debug"
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-17T15:09:01Z",
+  "comments": 3,
+  "createdAt": "2020-10-17T14:39:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 1680,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Enable EditorPlugin to run a script/scene in debug mode like press the 'Scene Run button (F6)'",
+  "up": 0,
+  "updatedAt": "2020-10-17T15:32:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1680"
+}

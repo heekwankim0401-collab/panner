@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "There is currently no way to access these buffers without modifying the engine, so you cannot actually build this as an add-on for the asset library.",
+    "format": "form",
+    "workaround": "You can access the normals + roughness buffer through spatial shaders but this requires you to set up a full screen quad and it becomes really difficult to stack post-processing effects, which I believe is exactly what the CompositorEffect API aims to solve."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-08-08T18:32:05Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 10396,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Access more common buffers in RenderSceneBuffersRD",
+  "up": 7,
+  "updatedAt": "2024-08-08T23:44:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10396"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It is a relatively simple and universal improvement, which would make working with baked lighting in godot better for everyone. It's too small to be a standalone addon.",
+    "format": "form",
+    "workaround": "Generated probes cannot currently be modified, so no."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-02-08T19:45:51Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14180,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an option in LightmapGI to offset generated probes which are too close to geometry",
+  "up": 1,
+  "updatedAt": "2026-02-10T00:12:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14180"
+}

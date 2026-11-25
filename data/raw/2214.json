@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is the basic functionality of the editor.",
+    "format": "markdown",
+    "workaround": "`Sprite` + `AnimationPlayer` can be used, but this is not the solution we want."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-05T14:02:08Z",
+  "comments": 12,
+  "createdAt": "2021-02-01T13:59:17Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 2214,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add the ability to set the duration of individual `AnimatedSprite` frames",
+  "up": 7,
+  "updatedAt": "2024-01-26T10:48:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2214"
+}

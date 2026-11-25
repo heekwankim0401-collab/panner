@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would bring Path2D into alignment with other node types that offer predetermined shapes.",
+    "format": "markdown",
+    "workaround": "I guess it could be done with a script but it would be time consuming and complicated to calculate the positions of the points required for a circle."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-12-02T15:46:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1925,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add predefined regular polygon/circle shapes for Path2D",
+  "up": 19,
+  "updatedAt": "2025-12-15T17:01:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1925"
+}

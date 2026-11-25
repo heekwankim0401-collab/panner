@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The API should be uniform.",
+    "format": "legacy",
+    "workaround": "Not sure."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-21T20:52:45Z",
+  "comments": 5,
+  "createdAt": "2020-04-07T19:18:50Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.6",
+  "number": 676,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Expose `Image.load_{format}_from_buffer()` for OpenEXR",
+  "up": 4,
+  "updatedAt": "2025-11-21T20:54:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/676"
+}

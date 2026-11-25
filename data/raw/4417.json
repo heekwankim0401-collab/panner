@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "simple feature to add, no need for extra plugin for this, and I think it will help anyone who wants to edit BlendSpace's points properties",
+    "format": "form",
+    "workaround": "yes, but it isn't good workaround, though for advanced animations I think it will be used often, though here is the workaround script :\n\n```\nvar blendspace = $AnimationTree.root.get_node(\"your_blendspace\")\nfor b in blendspace.get_blend_point_count():\n   print(\"index %s, animation %s\" % [b, blendspace.get_blend_point_node(b).animation])\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-03-12T14:13:36Z",
+  "comments": 0,
+  "createdAt": "2022-04-18T23:49:24Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 4417,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Show the index besides each point in AnimationBlendSpace editor",
+  "up": 0,
+  "updatedAt": "2026-03-12T14:13:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4417"
+}

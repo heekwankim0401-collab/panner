@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes, it cannot be changed with an add-on.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-25T11:57:50Z",
+  "comments": 2,
+  "createdAt": "2021-08-25T10:42:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 3202,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make some static fields in C# constant",
+  "up": 0,
+  "updatedAt": "2021-08-25T14:40:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3202"
+}

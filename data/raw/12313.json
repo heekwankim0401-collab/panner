@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This improves base culling behavior of Godot, as the default AABB right now is usually not desired for billboarded sprites.",
+    "format": "form",
+    "workaround": "A custom AABB or cull margin can be set through code based on the size of the sprite or text, but it is extra work for something that seems like a rendering bug, and you would have to remember to do this for every node that could use a sprite."
+  },
+  "assignees": 0,
+  "closedAt": "2025-05-20T12:24:44Z",
+  "comments": 2,
+  "createdAt": "2025-04-25T03:00:08Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.5",
+  "number": 12313,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Give billboarded Sprite3D and Label3D nodes a larger AABB",
+  "up": 5,
+  "updatedAt": "2025-05-20T12:24:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12313"
+}

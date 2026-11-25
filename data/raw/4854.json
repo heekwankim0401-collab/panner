@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "AutoLoads are core. Doing this from an add-on would not be possible for the reasons described above.\n\n________________\n\nRelated: https://github.com/godotengine/godot-proposals/issues/3705",
+    "format": "form",
+    "workaround": "You can parse the ProjectSettings property list for properties starting with `\"autoload/`, but that is inefficient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-07-11T21:17:13Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4854,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add functions for managing AutoLoads",
+  "up": 7,
+  "updatedAt": "2023-11-18T01:05:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4854"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its part of core already.",
+    "format": "form",
+    "workaround": "It would be used more then the current version."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-06-16T02:45:42Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 4676,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "[4.0] MultiplayerSpawner should support both static id based spawning and random spawning",
+  "up": 0,
+  "updatedAt": "2023-06-11T21:58:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4676"
+}

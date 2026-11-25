@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a bit frustrating and leads to many errors when I accidentally forget to check this.\n\nI'd be interested in hearing other contributors thoughts, as this lies outside the realm of normal game dev stuff, and perhaps returning `+INF` when we divide by zero is not a great solution for some?\n\n**Additional**\nSubmitted as [bug report](https://github.com/godotengine/godot/issues/41252), redirected to proposal",
+    "format": "legacy",
+    "workaround": "`y_change` is quite commonly `zero`, and so I have to always add an extra check:\n\n```gdscript\ny_change = (next_candle.c - curr_candle.c) / curr_candle.c\nif y_change == 0:\n    y_change = 0.000000001\n````"
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-25T11:41:16Z",
+  "comments": 34,
+  "createdAt": "2020-08-14T13:02:03Z",
+  "down": 8,
+  "labels": [
+    "breaks compat",
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1368,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Division by zero should return +INF",
+  "up": 4,
+  "updatedAt": "2022-09-25T11:41:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1368"
+}

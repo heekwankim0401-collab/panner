@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe adding this feature as part of the Line2D node should be pretty simple and it will solve a lot of issues that using workaround like the above script create.\nAdditionally, this feature is a basic tool that can be used for a variety of use-cases like UI animations, complex sliders, visual effects and more.",
+    "format": "form",
+    "workaround": "Sort of. Right now I'm using a workaround with the following script that is placed on a Node2D with a Line2D node as a child:\n\n```gdscript\ntool\nextends Node2D\n\nexport(float, 0, 1) var start := 0.0 setget set_start\nexport(float, 0, 1) var end := 1.0 setget set_end\nexport var reload_points := false setget set_reload_points\nexport var original_points: PoolVector2Array\nexport var original_length: float\n\n\nfunc _reload_points() -> void:\n    original_points = PoolVector2Array($Line2D.points)\n    property_list_changed_notify()\n    original_length = 0\n    for i in range(original_points.size() - 1):\n        var current_pt: Vector2 = original_points[i]\n        var next_pt: Vector2 = original_points[i + 1]\n        \n        original_length += current_pt.distance_to(next_pt)\n    \n    _update_line()\n\n\nfunc _interpolate_by_distance(a: Vector2, b: Vector2, distance: float) -> Vector2:\n    var a_to_b_angle := (b - a).normalized()\n    return a + a_to_b_angle * distance\n\n\nfunc _update_line() -> void:\n    print(\"Updating line\")\n    # Don't alter Line2D array if the node isn't ready\n    if not original_points:\n        return\n    \n    var target_length := original_length * end\n    var skipping_length := original_length * start\n    var current_length := 0.0\n    \n    var new_points := PoolVector2Array()\n\n    for i in range(original_points.size() - 1):\n        var current_pt: Vector2 = original_points[i]\n        var next_pt: Vector2 = original_points[i + 1]\n        \n        var points_length := current_pt.distance_to(next_pt)\n        \n        if current_length >= skipping_length:\n            # Add the current point if we're after the skipped start\n            new_points.append(current_pt)\n        elif current_length + points_length >= skipping_length:\n            # Start the line at a point between the current and next points\n            var remaining_distance := skipping_length - current_length\n            var middle_point := _interpolate_by_distance(current_pt, next_pt, remaining_distance)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-11-02T22:53:23Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3491,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add \"start\" and \"end\" properties to Line2D node to allow truncating the line for different effects and animations",
+  "up": 5,
+  "updatedAt": "2021-11-07T15:56:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3491"
+}

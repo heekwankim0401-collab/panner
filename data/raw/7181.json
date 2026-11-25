@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core behavior that needs to be implemented in-engine.",
+    "format": "form",
+    "workaround": "It cannot be worked around, since this UID information is hardcoded on resource files. Although currently this doesn't affect behavior (when UID lookup fails, it uses the path as fallback), it still generates a lot of warnings."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-07-01T11:48:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 7181,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support UID paths from PCK files",
+  "up": 7,
+  "updatedAt": "2023-07-01T13:36:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7181"
+}

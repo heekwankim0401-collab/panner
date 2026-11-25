@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Personally, I think this is a really important and essential feature for any software that focuses on the creation of images, video, games or visual interactive applications like Godot. This feature could be part of the core as part of the post-process workflow of the entire scene in Godot 4.0.",
+    "format": "legacy",
+    "workaround": "It would be used very often."
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-31T03:10:15Z",
+  "comments": 2,
+  "createdAt": "2020-02-06T17:04:13Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 447,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "RGB Curves / HUE Correct / Levels: to Environment node.",
+  "up": 3,
+  "updatedAt": "2021-01-31T03:10:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/447"
+}

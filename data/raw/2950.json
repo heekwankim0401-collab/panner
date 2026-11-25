@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it's just a small change.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-03T00:05:06Z",
+  "comments": 2,
+  "createdAt": "2021-07-05T21:33:03Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2950,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Rename Polygon2D to Polygon and Polygon3D to Polyhedron",
+  "up": 0,
+  "updatedAt": "2022-05-03T00:05:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2950"
+}

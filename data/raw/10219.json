@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It requires modifying the core resource and resource loader classes.",
+    "format": "form",
+    "workaround": "There are workarounds:\n\n1. Whenever a call to load a resource is made, follow it with a manual check to see if the derived values have been computed.\n2. Have custom property setters emit the changed signal and connect a method to it to compute derived values.\n3. Have custom property setters directly compute the derived values, or call a method that does so.\n\nWhile these do work, they involve a lot of additional boilerplate and conditional clutter, and introduce more opportunities for potential user-error. It's already extremely common for developers to use `NOTIFICATION_READY` (or more specifically, `_ready`) to handle any one-time setup code that needs to execute after all of the properties and children of a Node have been set. While not completely identical in behavior, `NOTIFICATION_POSTLOAD` provides a similar way of handling one-time setup calls that occur after all properties are set for Resources."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-07-15T20:05:24Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10219,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Post-Load Notification to Resources",
+  "up": 13,
+  "updatedAt": "2025-12-01T11:53:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10219"
+}

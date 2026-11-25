@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This ease of use seems handy for anyone using Godot. I have no 3D experience, but their animation node might work the same?",
+    "format": "legacy",
+    "workaround": "Not to my knowledge, but I'm far from expert level."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T14:57:56Z",
+  "comments": 5,
+  "createdAt": "2019-10-21T19:01:02Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 174,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add multi-select for tracks for AnimationPlayer // Alternatively add way to change interpolation method for all tracks with one select",
+  "up": 8,
+  "updatedAt": "2022-08-24T14:58:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/174"
+}

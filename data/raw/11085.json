@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Right now these settings are kind of hidden.",
+    "format": "form",
+    "workaround": "I guess, it can be solved with a import script, never tried it before."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-11-03T18:35:13Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 11085,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add global Optimizer and Compression import settings to Animation Library import",
+  "up": 0,
+  "updatedAt": "2024-11-03T21:10:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11085"
+}

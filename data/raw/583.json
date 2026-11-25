@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It extends existing functionality.",
+    "format": "legacy",
+    "workaround": "It can't."
+  },
+  "assignees": 0,
+  "closedAt": "2026-08-10T16:14:41Z",
+  "comments": 6,
+  "createdAt": "2020-03-14T00:02:06Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.8",
+  "number": 583,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow to undo last point when creating polygon 2D",
+  "up": 4,
+  "updatedAt": "2026-08-10T16:14:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/583"
+}

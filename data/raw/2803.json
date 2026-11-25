@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's a matter of good UX that properties belonging to each class are displayed as such, so it really should be handled internally.",
+    "format": "markdown",
+    "workaround": "While categories can be added via scripts, it is quite verbose to do so. There are proposals to make it more concise, e.g. #1255, but that would still require users to add an `@category` annotation to *every* property just to make it part of the correct script. This is too cumbersome to expect users to deal with."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-29T12:09:53Z",
+  "comments": 5,
+  "createdAt": "2021-05-31T20:10:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2803,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve a property list's mapping to internal organization of scripts for better Inspector UX.",
+  "up": 2,
+  "updatedAt": "2022-08-29T12:13:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2803"
+}

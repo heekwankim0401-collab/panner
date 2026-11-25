@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This isn't possible to implement with an addon afaik, but it could maybe be fit better as a fork of Godot instead of being built in.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-06T17:49:24Z",
+  "comments": 2,
+  "createdAt": "2023-07-06T17:42:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 7216,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Option to export to Wii U",
+  "up": 2,
+  "updatedAt": "2023-07-06T17:51:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7216"
+}

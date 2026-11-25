@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Autocomplete is core feature and this makes the text editing harder.",
+    "format": "form",
+    "workaround": "Autocomplete is used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-02-26T17:19:33Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9181,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move autocompletion box to follow the caret when typing",
+  "up": 6,
+  "updatedAt": "2024-04-01T13:17:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9181"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-06-19T17:12:25Z",
+  "comments": 6,
+  "createdAt": "2025-06-04T22:25:16Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.8",
+  "number": 12554,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make circular ColorPicker wheel previews not affected by the current color's HSV value",
+  "up": 0,
+  "updatedAt": "2026-06-19T17:14:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12554"
+}

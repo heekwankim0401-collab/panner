@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "There are a few limitations with getting it as an addon regarding VS to GDScript due to an uncertain number of nodes and besides implementation would probably be a little bit easyer working on the same level as the Scripts are themselves.",
+    "format": "legacy",
+    "workaround": "Not Really, Current proof of concept i've made is some 300 lines of code"
+  },
+  "assignees": 0,
+  "closedAt": "2020-06-28T20:35:17Z",
+  "comments": 2,
+  "createdAt": "2020-06-28T20:05:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 1135,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Visual Script <--> GDScript Converter",
+  "up": 0,
+  "updatedAt": "2020-06-29T07:05:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1135"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Technically, as I have created a [IK plugin for Godot 3](https://twistedtwigleg.itch.io/twistedik2) that includes all the features of my GSOC implementation and several more, it isn't strictly required to be in core. However, the plugin is closed source, written using a different architecture for IK, and is only free for non-commercial use.\n\nThese enhancements and the 3D IK PR itself being included officially as part of the Godot source code will give easier access to different IK solutions for all developers, as well as give the community an open-source solution that anyone can contribute to, use as reference, and extend.",
+    "format": "form",
+    "workaround": "The code would need to be implemented in Godot source since the features it's enhancing are designed and implemented for Godot source."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-01T23:18:31Z",
+  "comments": 7,
+  "createdAt": "2021-08-07T15:30:37Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:animation"
+  ],
+  "milestone": "3.x",
+  "number": 3099,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GSOC 2020 3D IK PR enhancements",
+  "up": 7,
+  "updatedAt": "2025-11-01T23:18:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3099"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "Conceptually it will get 'used' every time someone calls one of these methods."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-29T23:58:52Z",
+  "comments": 4,
+  "createdAt": "2021-09-29T02:21:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 3362,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Constrain NodeExtensions method type parameters to extend Node instead of class",
+  "up": 0,
+  "updatedAt": "2021-09-30T00:20:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3362"
+}

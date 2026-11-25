@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "1. Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. If the user's wallpaper or the in-app content changes, the colors in the UI will change to match.\nhttps://m3.material.io/styles/color/system/how-the-system-works\n2. I think this helps to speed up the process of UI construction, at least by creating colors that are more reasonable\n\nYou can use this repository https://github.com/material-foundation/material-color-utilities Implement dynamic colors\n\nYou can refer to the plugin I wrote, https://github.com/aiaimimi0920/godot-ui-design. \nBy the way, this plugin also implements elevation and other content, and based on https://m3.material.io/components I have extended the UI control. If this proposal is not adopted, I will consider using C++to re inherit and implement some UI controls in the future, and rename them as CustomiControl, CustomimText",
+    "format": "form",
+    "workaround": "You cannot solve this problem with just a few lines of code, as many godot controls have color properties, and many colors are included in the theme item, which is a major change."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2024-02-29T21:10:49Z",
+  "down": 4,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 9210,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for calculating a Material UI palette from a given color",
+  "up": 1,
+  "updatedAt": "2024-08-07T18:02:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9210"
+}

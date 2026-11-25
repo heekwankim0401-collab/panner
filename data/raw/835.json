@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because the Physical Sky Material is already in Godot. But there's no such thing as an empty sky, so it's less useful right now for novice. \nYou can use it as a Shader for atmospheric scattering as base and add new functions yourself, but this requires qualification. My proposal will significantly expand the possibilities for creating a realistic sky for beginners who are not familiar with shader programming.",
+    "format": "legacy",
+    "workaround": "To do this on their own, the user needs to be well versed in shader programming. Any novice can specify the texture with clouds. This useful."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 26,
+  "createdAt": "2020-05-13T18:59:56Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 835,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add texture inputs for clouds, moon, starfields to PhysicalSkyMaterial",
+  "up": 3,
+  "updatedAt": "2021-08-03T12:19:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/835"
+}

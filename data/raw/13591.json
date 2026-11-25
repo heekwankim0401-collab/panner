@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is very commonly used. Although it is simple, I think it should be built into the editor as an improvement to the ruler mode.",
+    "format": "form",
+    "workaround": "It can be implemented with simple code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-11-07T11:43:26Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13591,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Displaying the global coordinates of the scene where the mouse is located to the ruler mode",
+  "up": 1,
+  "updatedAt": "2025-11-10T23:50:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13591"
+}

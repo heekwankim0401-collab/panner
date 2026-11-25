@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is a workflow speedup and huge comfortability feature. This should be part of the major engine.",
+    "format": "legacy",
+    "workaround": "This enhancement will be used often because it increases the workflow dramatically."
+  },
+  "assignees": 0,
+  "closedAt": "2021-11-02T15:55:20Z",
+  "comments": 9,
+  "createdAt": "2020-09-13T21:55:36Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1504,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow copy-pasting property values by hovering them in the inspector and pressing Ctrl + C / Ctrl + V",
+  "up": 12,
+  "updatedAt": "2022-05-18T17:55:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1504"
+}

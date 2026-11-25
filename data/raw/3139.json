@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "I think its one of the biggest incompleteness of VisuaScript and will be used often.\n\nThe demand that this VisualScriptDataEditor is needed may provide improved DataEditors for Inspector.\nwhen Inspector DataEditor is considered in initial design it might be easily implemented later.",
+    "format": "form",
+    "workaround": "There is no workaround."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T17:29:13Z",
+  "comments": 8,
+  "createdAt": "2021-08-14T13:20:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:plugin",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 3139,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Easy VisualScript CustomPropertyEditor Plugins (Inspector editor's)",
+  "up": 0,
+  "updatedAt": "2022-08-24T17:29:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3139"
+}

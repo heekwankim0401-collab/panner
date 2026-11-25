@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In my humble opinion, this is common enough of a problem for users to be solved by the engine. Also a requirement to fix the version control path display.",
+    "format": "form",
+    "workaround": "This CAN be worked around outside of the editor environment. But not within."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-01-13T02:12:27Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11547,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add direction for clip_text in Label and Button",
+  "up": 2,
+  "updatedAt": "2025-01-13T17:05:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11547"
+}

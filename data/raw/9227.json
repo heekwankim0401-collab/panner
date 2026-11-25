@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Would make it much easier and safer to dynamically change volume and audio effects. Would also likely require core changes.",
+    "format": "form",
+    "workaround": "I imagine one can write a plugin for something like this, but it doesn't seem particularly easy to do, especially in a safe way."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-03-03T18:27:14Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 9227,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a node for non-destructive Audio Bus modulation",
+  "up": 0,
+  "updatedAt": "2024-03-03T19:21:19Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9227"
+}

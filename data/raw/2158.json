@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because this enchances general performance for projects where modifies Images/Texture in runtime, for example a drawing game.",
+    "format": "markdown",
+    "workaround": "I don't know how small this feature can be to code. But I think that is possible to be done in script, maybe even easier in C#,\nbut maybe this requires knowledge on how is written a stream of colors in bytes in each image format."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2021-01-20T22:19:24Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 2158,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `set_pixels()` function to Image",
+  "up": 18,
+  "updatedAt": "2024-03-07T17:25:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2158"
+}

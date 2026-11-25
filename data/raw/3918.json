@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's required for threaded navmesh baking which is part of core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-12-30T22:46:52Z",
+  "comments": 15,
+  "createdAt": "2022-02-05T19:14:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3918,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Expose functions to create mesh array from any `Mesh` primitive",
+  "up": 11,
+  "updatedAt": "2022-12-31T16:39:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3918"
+}

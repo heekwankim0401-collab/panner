@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-04-11T18:05:08Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 14643,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Change default Step Into and Step over shortcuts so that it matches F10 and F11 keyboard order",
+  "up": 2,
+  "updatedAt": "2026-04-13T23:28:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14643"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Implementing this feature not at the core level would hardly be a good solution.",
+    "format": "legacy",
+    "workaround": "No it can't"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 58,
+  "createdAt": "2020-09-25T06:18:01Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 1566,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Implement namespaces in GDScript",
+  "up": 256,
+  "updatedAt": "2026-10-23T03:17:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1566"
+}

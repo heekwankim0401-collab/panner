@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Well, I think Godot visual script is amazing, I have already made some simple games in it, I tried Unity some months ago, and I could not make a game, so visual script is amazing, for artists, prototypes . . . But, it looks a bit ' not artist - friendly ', and I personally think Blender has an almost optimal look, also for visual scripting . . Maybe you could think about it, and try to take something from both systems, and make a good ' mixture ', of those two styles, for instance, the boxes are more clearly colored, ie one can easier see what the boxes ' do ', in Blender, than in Godot, it's just for help, assistance . . .\n\nThx, know this is probably silly, Blender has such a nice LOOK, except for the non-bendy lines, between nodes, maybe Godot could take some of that, and make it more user-friendly, visual script . . .\n\nBut, keep the bendy lines, or have an option, to have ' straight ' lines, as Blender shaders, or the current bendy ones, as well . . That's, my proposal, I leave it to the engine gods, to decide what's best, I know I'm not good enough, to do that <3",
+    "format": "legacy",
+    "workaround": "I don't know how to change this very quickly, as a solo dev, I don't want to change the engine, to do this . ."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T16:19:28Z",
+  "comments": 17,
+  "createdAt": "2020-07-04T07:51:38Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:visualscript"
+  ],
+  "milestone": null,
+  "number": 1159,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Improving the visual look of visual scripting . .",
+  "up": 2,
+  "updatedAt": "2022-09-06T13:34:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1159"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Yes",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2020-09-23T16:14:29Z",
+  "comments": 5,
+  "createdAt": "2020-09-08T03:12:36Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 1474,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make hyperlinks appear underlined only on mouse hover in RichTextLabel (and the editor help)",
+  "up": 6,
+  "updatedAt": "2020-09-23T17:38:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1474"
+}

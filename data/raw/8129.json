@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "The [t]scn handling is a part of the engine core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-10-15T13:19:44Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8129,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Prevent data from being lost/changed when changing scripts when the editor is closed",
+  "up": 0,
+  "updatedAt": "2023-10-16T14:22:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8129"
+}

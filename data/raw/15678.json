@@ -1,0 +1,21 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2026-10-21T15:52:27Z",
+  "down": 0,
+  "labels": [],
+  "milestone": null,
+  "number": 15678,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Being able to mark [Export] properties as dependencies, and warn when the user has unfilled [Export] properties in scenes.",
+  "up": 4,
+  "updatedAt": "2026-10-22T19:05:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15678"
+}

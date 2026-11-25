@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As this is a problem that arises as soon as you want your perfect RNG in the second shader, or share a very fragile list of inputs, it would be better to have this problem solved out of the box.",
+    "format": "form",
+    "workaround": "Paste your libraries in every file or have a precompiler to do that automatically, after some effort.\nAlternatively put all your compute in a single file with a massive switch in main."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2024-04-24T15:22:33Z",
+  "down": 0,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 9592,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `#include` preprocessor support to GLSL compute shaders",
+  "up": 18,
+  "updatedAt": "2026-03-19T04:24:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9592"
+}

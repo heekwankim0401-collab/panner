@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This requires changes to core shaders to be done efficiently.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-10T18:16:38Z",
+  "comments": 4,
+  "createdAt": "2026-02-03T17:06:15Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.8",
+  "number": 14141,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reimplement screen-space contact shadows to improve shadow rendering quality",
+  "up": 26,
+  "updatedAt": "2026-09-10T18:16:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14141"
+}

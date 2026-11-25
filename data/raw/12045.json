@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It improves GDScript by exposing useful and already implemented functions in the engine.",
+    "format": "form",
+    "workaround": "As far as I know, there is no current O(1) solution to retrieving the first key of a dictionary. The only workaround is `dict.keys()[0]` which is O(n), as it unnecessary generates the entire array of keys."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-03-22T06:05:19Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12045,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose the `Dictionary.get_key_at_index()` method in GDScript",
+  "up": 5,
+  "updatedAt": "2025-03-22T10:44:49Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12045"
+}

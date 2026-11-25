@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDscript parser is part of core.",
+    "format": "form",
+    "workaround": "It will be used mostly as constants and keys to dictionary, where the text is not changing."
+  },
+  "assignees": 0,
+  "closedAt": "2023-10-12T09:54:12Z",
+  "comments": 5,
+  "createdAt": "2023-10-12T06:58:12Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8079,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Simplified StringName literal for single word text",
+  "up": 0,
+  "updatedAt": "2023-10-12T10:57:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8079"
+}

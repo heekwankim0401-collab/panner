@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I feel like this is a basic feature that would be useful in other physics applications as well.",
+    "format": "legacy",
+    "workaround": "As far as I know, there is currently no way to measure stress forces on a joint."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2020-05-19T14:49:00Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 860,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `current_force` and `current_torque` properties for physics joints",
+  "up": 10,
+  "updatedAt": "2026-05-18T20:28:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/860"
+}

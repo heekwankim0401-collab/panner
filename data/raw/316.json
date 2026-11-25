@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "to help people not to create unnecessary bugs",
+    "format": "legacy",
+    "workaround": "used often by those not aware"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 7,
+  "createdAt": "2019-12-18T11:05:52Z",
+  "down": 0,
+  "labels": [
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 316,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a warning when someone calls Input.is_action ... in _input(event)",
+  "up": 2,
+  "updatedAt": "2020-03-17T14:25:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/316"
+}

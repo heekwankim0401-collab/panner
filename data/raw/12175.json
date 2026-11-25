@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Yes. This kind of functionality is foundational to many genres (strategy, educational, simulation, debugging) and aligns well with Godot’s goal of being a general-purpose, accessible engine.\n\nReasons to include it in core:\n\nNative nodes benefit from tight integration with UI layout, themes, and drawing systems\n\nAllows consistent cross-platform performance and rendering\n\nEncourages better real-time debugging/telemetry directly in editor tools\n\nPromotes reusability and community adoption for simulations and games\n\nAsset library solutions are often abandoned or fragmented",
+    "format": "form",
+    "workaround": "In theory, yes — simple plots can be constructed using Line2D, Control, or Polygon2D, but:\n\nIt requires hundreds of lines of boilerplate code for a decent result\n\nDevelopers must handle axis scaling, labels, colors, padding, tooltips, etc., manually\n\nNo standard solution means duplicated work across projects"
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-07T16:43:15Z",
+  "comments": 5,
+  "createdAt": "2025-04-06T16:05:04Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12175,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a plotting/charting node for data visualization",
+  "up": 0,
+  "updatedAt": "2025-04-07T16:43:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12175"
+}

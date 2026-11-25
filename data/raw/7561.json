@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "because is a problem with the C# implementation not supporting it",
+    "format": "form",
+    "workaround": "Because you can't use GDExtension easily with C# it is not essay to work around and if you want to link it to your networking system you just can't"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-08-25T21:22:25Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet",
+    "topic:gdextension"
+  ],
+  "milestone": null,
+  "number": 7561,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add NativeStructs and Pointers in C# for GDExtension interoperability",
+  "up": 18,
+  "updatedAt": "2023-08-27T23:54:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7561"
+}

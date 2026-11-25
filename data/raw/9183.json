@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Visual Shaders are editor core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-05T13:56:37Z",
+  "comments": 5,
+  "createdAt": "2024-02-26T21:28:48Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:shaders",
+    "usability"
+  ],
+  "milestone": "4.3",
+  "number": 9183,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Focus the input field in Visual Shader when the field is clicked on and make it disappear on Enter press.",
+  "up": 7,
+  "updatedAt": "2024-04-16T18:57:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9183"
+}

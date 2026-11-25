@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's part of the Import Dialog and the base feature is already there, so it makes no sense to be an add-on.",
+    "format": "form",
+    "workaround": "I believe this is of interest of the majority of 3D developers, as it often common that the majority of imported scenes have more than one Mesh."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2022-12-18T10:21:44Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 5955,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Global option to automatically \"Generate Collision\" of all meshes of a scene when importing a 3D scene",
+  "up": 25,
+  "updatedAt": "2025-02-24T17:29:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5955"
+}

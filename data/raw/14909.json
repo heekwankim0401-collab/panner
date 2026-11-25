@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-25T10:50:47Z",
+  "comments": 2,
+  "createdAt": "2026-05-24T23:43:28Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:i18n"
+  ],
+  "milestone": null,
+  "number": 14909,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add CLI hook for extracting translations for CI automation",
+  "up": 0,
+  "updatedAt": "2026-05-25T10:52:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14909"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I feel this is essential for more granular control of the SyntaxHighlighter / CodeHighlighter, so it being locked behind an add-on would make it a must have for anyone working with them who wants more exact control.\nEspecially since this would be used for many types of text / code editors (Like trying to make a GDScript code editor in Godot), or simply displaying any dynamic code to the user outside of those software cases.",
+    "format": "form",
+    "workaround": "This can be worked around using what [u/mrcdk helped me create on the Godot Forums,](https://forum.godotengine.org/t/how-to-set-member-function-colour-inside-codehighlighter/106329) using a custom class which gets the default data from a duplicate CodeEdit held inside the class, reads and modifies that returned data before returning it to the real CodeEdit;\n\n```\nfunc _init() -> void:  \n\tself.resource_local_to_scene = true\n\ttext_holder = CodeEdit.new()\n\tvar highlighter : CodeHighlighter = CodeHighlighter.new()\n\thighlighter.resource_local_to_scene = true\n\thighlighter.number_color = highlight_num_colour\n\thighlighter.symbol_color = highlight_sym_colour\n\thighlighter.function_color = highlight_func_colour\n\thighlighter.member_variable_color = highlight_mvar_colour\n\thighlighter.keyword_colors = highlight_keywords\n\thighlighter.color_regions = highlight_regions\n\ttext_holder.syntax_highlighter = highlighter\n\nfunc _get_line_syntax_highlighting(line: int) -> Dictionary:\n\tvar editor : CodeEdit = get_text_edit()\n\ttext_holder.text = editor.text\n\tif editor.get_line(line).begins_with(\"func\") or editor.get_line(line).begins_with(\"static func\"):\n\t\tvar line_highlight_data : Dictionary = text_holder.syntax_highlighter.get_line_syntax_highlighting(line)\n\t\tfor key : int in line_highlight_data.keys():\n\t\t\tif line_highlight_data[key][\"color\"] == highlight_func_colour:\n\t\t\t\tline_highlight_data[key][\"color\"] = highlight_def_func_colour\n\t\treturn line_highlight_data\n\treturn text_holder.syntax_highlighter.get_line_syntax_highlighting(line)\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2025-03-25T22:04:16Z",
+  "comments": 8,
+  "createdAt": "2025-03-25T12:59:20Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 12072,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow for access of default syntax highlighting in '_get_line_syntax_highlighting' inside SyntaxHighlighter / CodeHighlighter",
+  "up": 0,
+  "updatedAt": "2025-03-26T11:00:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12072"
+}

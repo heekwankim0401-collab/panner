@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Seems like something that's an engine UI level improvement.",
+    "format": "form",
+    "workaround": "1) User right clicks on a folder containing all the textures for a prop. \n2) An additional context menu appears among the usual set.\n3) A New .tres material is created and placed into the same folder\n4) Godot goes through a list of defined texture suffix or prefix definitions and scans that folder to see if any texture files match.\n5) If a rule says that albedo is marked with a suffix of _albedo, and a texture is found (telephone_pole_albed.jpeg), it is applied to the albedo texture input map in the spatial material created before.\n6) Repeat for other maps."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-06-24T11:25:40Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4737,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Create Spatial Material by right clicking on a folder containing textures and clicking on a context menu.",
+  "up": 6,
+  "updatedAt": "2022-06-24T15:53:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4737"
+}

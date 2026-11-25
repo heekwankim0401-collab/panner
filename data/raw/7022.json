@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I don't think it can be done in an add-on, but I would be happy to be proven wrong.",
+    "format": "form",
+    "workaround": "No. At least, the work-arounds I know about are complicated, performance-intensive, or don't work well.\n\nI don't know how often this will be used, I think it's not very common to want to use the same set of animations with differently sized characters, but it's quite useful for games that do need to have differently sized characters, especially games with user-generated content."
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-05T15:13:50Z",
+  "comments": 4,
+  "createdAt": "2023-06-05T05:10:39Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 7022,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a position scale factor to AnimationTree",
+  "up": 2,
+  "updatedAt": "2023-06-06T07:18:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7022"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above.",
+    "format": "form",
+    "workaround": "No, as this is core rendering functionality (implemented in the sky GLSL shader, which is not user-overwritable)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-01T21:54:26Z",
+  "comments": 5,
+  "createdAt": "2022-02-23T23:24:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.0",
+  "number": 4102,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Environment properties to make fixed and volumetric fog not affect sky rendering",
+  "up": 5,
+  "updatedAt": "2022-09-01T21:57:58Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4102"
+}

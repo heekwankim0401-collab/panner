@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "> Gradle integration touches the Android export workflow and build templates, which are core engine/editor components. **`An add-on cannot intercept or modify the export pipeline reliably. Therefore, this feature needs to be built into the engine’s core to work correctly for all Android users.`**",
+    "format": "form",
+    "workaround": "> Workarounds exist—developers can manually **modify** the `exported Android project to use Gradle—but it’s tedious, fragile, and error-prone`. Automating this in the editor would eliminate manual steps and ensure consistency across exports."
+  },
+  "assignees": 0,
+  "closedAt": "2025-11-27T20:51:32Z",
+  "comments": 2,
+  "createdAt": "2025-08-19T15:29:22Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 13030,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add Gradle build support to the Android editor",
+  "up": 0,
+  "updatedAt": "2025-11-27T20:51:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13030"
+}

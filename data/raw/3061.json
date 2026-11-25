@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It affects the editor, which is core",
+    "format": "form",
+    "workaround": "I can't think of any other solution."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-03T06:41:48Z",
+  "comments": 2,
+  "createdAt": "2021-07-30T06:59:50Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "3.x",
+  "number": 3061,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a project setting to use a custom executable for debugging",
+  "up": 0,
+  "updatedAt": "2021-08-03T06:41:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3061"
+}

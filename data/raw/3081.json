@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's needed to fix some logic in `TabContainer`.",
+    "format": "form",
+    "workaround": "I don't see an easy workaround. I'd happily use one if anyone could provide it."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-08-03T12:54:18Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3081,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `top_level_changed` signal to CanvasItem/Node3D",
+  "up": 1,
+  "updatedAt": "2021-08-03T14:25:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3081"
+}

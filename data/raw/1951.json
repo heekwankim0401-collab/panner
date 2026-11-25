@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Probably addon, it isn't that important for most games I'd assume so addon would be great too",
+    "format": "markdown",
+    "workaround": "Only very hard animation imitation with apply_impulse which sounds like nightmare"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-03T17:43:38Z",
+  "comments": 3,
+  "createdAt": "2020-12-07T16:50:41Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 1951,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make PhysicalBone inherit from RigidBody",
+  "up": 0,
+  "updatedAt": "2022-03-04T23:46:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1951"
+}

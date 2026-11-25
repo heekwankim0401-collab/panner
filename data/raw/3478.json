@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Tweens are part of core",
+    "format": "form",
+    "workaround": "This enhancement will be used often, and it will also clean up code. For example, you wouldn't need to put `.parallel()` before every tween operation."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-06T04:45:01Z",
+  "comments": 12,
+  "createdAt": "2021-10-29T09:31:00Z",
+  "down": 2,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": "4.0",
+  "number": 3478,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "New Tweens should run parallel by default",
+  "up": 2,
+  "updatedAt": "2022-07-06T09:11:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3478"
+}

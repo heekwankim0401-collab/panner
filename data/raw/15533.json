@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-09-16T09:33:38Z",
+  "comments": 2,
+  "createdAt": "2026-09-16T09:18:56Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 15533,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "GLES3: mesh_surface_update_index_region() binds index_buffer to GL_ARRAY_BUFFER instead of GL_ELEMENT_ARRAY_BUFFER",
+  "up": 0,
+  "updatedAt": "2026-09-16T09:33:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15533"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's an issue with how a fundamental data structure is handled.",
+    "format": "markdown",
+    "workaround": "I don't know."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-03-17T05:26:18Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2473,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Exported enum arrays should match exported enum lists",
+  "up": 5,
+  "updatedAt": "2022-06-30T19:13:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2473"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is possible to introduce this as a module, however given that we can make it a relatively small built-in module I'd opt for a solution available to everybody. Especially, given that HTML is much more accessible for first-time devs and general public, which can drastically reduce development time on some features for less experienced folks.\n\nPS. This proposal is totally not inspired by a thought to have [an HTML5 Godot Editor](https://godotengine.org/article/godot-editor-running-web-browser) running within a native Godot Editor. I promise!",
+    "format": "legacy",
+    "workaround": "Definitely not a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-05T14:19:45Z",
+  "comments": 40,
+  "createdAt": "2020-05-29T11:59:31Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 960,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Implement a native WebView node",
+  "up": 86,
+  "updatedAt": "2024-12-03T09:41:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/960"
+}

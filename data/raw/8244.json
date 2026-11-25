@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Performances issues. Because I can't determine if an addon can do it or be as fast as the native Godot language.\n\nIt seems more \"logical\" that the editor includes it by default than an addon; more users would be positively impacted.",
+    "format": "form",
+    "workaround": "I don't know enough addons to judge if it can be achieved using an addon."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2023-10-24T16:09:39Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 8244,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Autofill documentation comment block when returning to a new line",
+  "up": 6,
+  "updatedAt": "2024-10-07T16:36:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8244"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its much more intuitive that wen you set a light to 'Bake Mode All' all is going to be baked and it will stop receiving dynamic lighting from that light. It will also make the lighting process much more simple for users and it will give consistent results and better performance.",
+    "format": "legacy",
+    "workaround": "Don't think so."
+  },
+  "assignees": 0,
+  "closedAt": "2020-10-20T07:21:20Z",
+  "comments": 13,
+  "createdAt": "2020-08-04T14:32:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:rendering"
+  ],
+  "milestone": "3.x",
+  "number": 1306,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make lights set to 'Bake Mode All' stop lighting baked objects",
+  "up": 2,
+  "updatedAt": "2020-10-20T11:40:52Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1306"
+}

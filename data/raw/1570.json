@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "... So it needs to be in the editor code.\n\n----\n\nI'm 100% willing to try to implement this by myself in the future. But if someone wants to step up and give it a try implementing it I would be equally happy.  I think there's a sizable portion of programmers who would welcome this option to be implemented in Godot. The \"word processor\"-like behavior feels plain wrong when you have tried virtual space. \n\nWith a language like GDScript that gives a semantic meaning to the indentation I think this is even more interesting to consider.\n\nWhat do you think?",
+    "format": "legacy",
+    "workaround": "This is a feature of the code editor..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2020-09-25T21:55:34Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 1570,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a \"virtual space\" option in the script editor (allow placing the caret after end of line)",
+  "up": 6,
+  "updatedAt": "2022-07-26T12:13:15Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1570"
+}

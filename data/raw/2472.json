@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Maybe this could be an add-on, I guess. But I think that the engine would benefit from having this in core, specially the editing of shaders and visual shaders in the script editor.",
+    "format": "markdown",
+    "workaround": "I wish."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2021-03-16T21:16:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2472,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Extending the functionality of the script editor: editing shaders and more.",
+  "up": 14,
+  "updatedAt": "2021-03-19T09:54:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2472"
+}

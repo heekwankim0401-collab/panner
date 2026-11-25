@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "its edtior code.",
+    "format": "form",
+    "workaround": "No workaround. But a flaw that should be handled."
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-06T16:01:56Z",
+  "comments": 5,
+  "createdAt": "2023-11-22T10:06:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8490,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "When a resource that was referenced in a scene is deleted, editor cant open scene. Provide info about what could not be loaded and try to load scene anyway.",
+  "up": 5,
+  "updatedAt": "2026-05-06T16:58:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8490"
+}

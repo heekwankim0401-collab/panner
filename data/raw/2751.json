@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It would need to be implemented in the kinematic body engine code.",
+    "format": "markdown",
+    "workaround": "No, it would need to be integrated to move_and_slide."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 88,
+  "createdAt": "2021-05-20T21:32:31Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2751,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add automatic smooth stairs step-up and step-down for CharacterBody using `move_and_slide()`",
+  "up": 112,
+  "updatedAt": "2026-10-11T14:38:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2751"
+}

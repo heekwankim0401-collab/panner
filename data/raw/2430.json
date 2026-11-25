@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It can make working with nested structures more robust for everyone.",
+    "format": "markdown",
+    "workaround": "I can't think of a simple workaround that would not require immense exposure of engine internals."
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-29T18:45:21Z",
+  "comments": 26,
+  "createdAt": "2021-03-08T18:18:40Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 2430,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Track resources and references by GUID instead of res path internally",
+  "up": 9,
+  "updatedAt": "2022-05-29T18:48:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2430"
+}

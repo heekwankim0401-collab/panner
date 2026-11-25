@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It provides a better input interface and uses the built in signal system to do so.",
+    "format": "form",
+    "workaround": "It would be easier to learn and use for new godot developers."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-22T04:49:18Z",
+  "comments": 10,
+  "createdAt": "2021-08-26T02:32:59Z",
+  "down": 5,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 3206,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Node should have more input signals for ease of use.",
+  "up": 0,
+  "updatedAt": "2021-09-22T04:49:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3206"
+}

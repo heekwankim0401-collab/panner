@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is a core feature.",
+    "format": "form",
+    "workaround": "It is a core feature than would help move Godot 3 projects to the Godot 4."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 35,
+  "createdAt": "2024-03-02T02:01:12Z",
+  "down": 0,
+  "labels": [
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 9215,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the option to simulate Godot 3 blending where the result depends on the connection order of AnimationNodes in Godot 4.x",
+  "up": 0,
+  "updatedAt": "2024-06-22T16:57:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9215"
+}

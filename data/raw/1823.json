@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is core.",
+    "format": "legacy",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-22T17:39:03Z",
+  "comments": 47,
+  "createdAt": "2020-11-12T18:27:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 1823,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Redesign 3D asset import workflow",
+  "up": 77,
+  "updatedAt": "2021-03-22T17:39:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1823"
+}

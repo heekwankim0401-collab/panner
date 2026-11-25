@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2026-05-24T12:13:57Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 14906,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add visual state change to animation editor when filtering tracks",
+  "up": 1,
+  "updatedAt": "2026-05-25T14:17:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14906"
+}

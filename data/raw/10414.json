@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "VisualShaders are in core and are amazing for graphical capabilities. This proposed feature could be called VisualSound, and it would would do the same for sound and VisualShaders do for music. Godot would become even more of a one stop shop for all game dev needs",
+    "format": "form",
+    "workaround": "If GDScript could generate tones, I could make custom VisualShader nodes that emit or manipulate sound, and maybe the sound would play if the material was in my scene"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-11T16:19:26Z",
+  "comments": 1,
+  "createdAt": "2024-08-11T05:22:30Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 10414,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a graph-based music synthetizer (similar to visual shaders)",
+  "up": 0,
+  "updatedAt": "2024-08-11T16:31:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10414"
+}

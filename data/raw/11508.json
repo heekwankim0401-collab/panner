@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is part of the editor, so I believe it should be core.",
+    "format": "form",
+    "workaround": "This can be edited of course by people in their own forks, but this is clearly not ideal. Quick load is really useful as far as I am concerned, but I think the choice between quick and slow load should not be imposed on the user in that way."
+  },
+  "assignees": 0,
+  "closedAt": "2025-01-31T15:19:24Z",
+  "comments": 1,
+  "createdAt": "2025-01-06T21:12:23Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 11508,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allowing customization of which load menu is used in `EditorResourcePicker`",
+  "up": 16,
+  "updatedAt": "2025-01-31T15:21:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11508"
+}

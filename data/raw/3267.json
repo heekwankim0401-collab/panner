@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's quite simple, small, and quite a useful feature if you need to look up its position a lot and people might be using it a lot for perfect arrangement for each position.",
+    "format": "form",
+    "workaround": "Well, you can write down `print( some_curve.get_point_position(0) )` just not very convenient if you need to change and check the position multiple times."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2021-09-08T19:01:47Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3267,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Display the estimated value at offset in the Curve resource editor",
+  "up": 7,
+  "updatedAt": "2022-10-19T22:58:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3267"
+}

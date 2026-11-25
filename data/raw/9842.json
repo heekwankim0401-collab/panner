@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core part of the GDScript.",
+    "format": "form",
+    "workaround": "Somewhat, it would at least require calling a function and construct something and return, and one property would be appending a new dictionary.\nMy current code look like this:\n```\nfunc _get_property_list():\n\tvar properties := []\n        ## Export custom resource doesn't work and I haven't figured out why.\n\tproperties.append({\n\t\t\"name\": \"trade_costs\",\n\t\t\"type\": TYPE_ARRAY,\n\t\t\"usage\": PROPERTY_USAGE_DEFAULT if !use_unified_cost else PROPERTY_USAGE_NO_EDITOR,\n\t\t\"hint\": PROPERTY_HINT_RESOURCE_TYPE,\n\t})\n\tproperties.append({\n\t\t\"name\": \"default_cost\",\n\t\t\"type\": TYPE_INT,\n\t\t\"usage\": PROPERTY_USAGE_DEFAULT if use_unified_cost else PROPERTY_USAGE_NO_EDITOR,\n\t})\n\tproperties.append({\n\t\t\"name\": \"cost_add_per_use\",\n\t\t\"type\": TYPE_INT,\n\t\t\"usage\": PROPERTY_USAGE_DEFAULT if use_unified_cost else PROPERTY_USAGE_NO_EDITOR,\n\t})\n\tproperties.append({\n\t\t\"name\": \"currency\",\n\t\t\"type\": TYPE_INT,\n\t\t\"usage\": PROPERTY_USAGE_DEFAULT if use_unified_cost else PROPERTY_USAGE_NO_EDITOR,\n\t})\n\treturn properties\n```\nWould be 4 lines if it's implemented."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-05-29T04:33:55Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9842,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `@export_if(condition)` to streamline conditioned properties exposing in inspector",
+  "up": 73,
+  "updatedAt": "2025-09-18T14:41:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9842"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "As far as I'm aware, it's not possible to do it with an addon.",
+    "format": "form",
+    "workaround": "No. Currently it requires changing values directly in the script, which would affect how all assets using the script get imported. In order to allow a simple boolean option to work, the script would need to be duplicated. For example, I might need to have MyImportScript, and MyImportScript_ResetTransform just to be able to have some imported files that reset the transform and some that don't. I'm sure there are ways to reduce duplicated code, but simply exposing a setting from the script would be ideal."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-12-30T03:17:52Z",
+  "down": 0,
+  "labels": [
+    "topic:import",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3727,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add the ability for EditorScenePostImport to expose settings to the import UI",
+  "up": 30,
+  "updatedAt": "2026-07-02T17:56:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3727"
+}

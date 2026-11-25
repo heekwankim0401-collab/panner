@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a part of the Core GLTF importer.",
+    "format": "form",
+    "workaround": "No I don't think so. Other than `find_node`/`find_child` which seems to be generally discouraged."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2022-04-28T19:17:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4460,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make BoneAttachment3D names reproducible when importing glTF scenes",
+  "up": 1,
+  "updatedAt": "2022-04-29T18:41:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4460"
+}

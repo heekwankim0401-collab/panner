@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "... but this is a great benefit for almost everyone looking to make (photo realistic) games that include some kind of textured ground. I totally agree that we shouldn't bloat godot. However, when I look at the SpatialMaterial there are other features implemented that I find less important. This just instantly can make the game of a beginner look so much better since the ground usually gets a lot of screen estate. Other game engines provide that option without any need for users to get into shaders at all. So this is not a personal need of mine, but a proposal to make godot more appealing to new users switching from other game engines.\n\nDemo (left with normal tiling, right with rotated tiling):\n![demo](https://user-images.githubusercontent.com/68054914/88058720-2a981700-cb64-11ea-9361-f600c23362c3.jpg)",
+    "format": "legacy",
+    "workaround": "This can be archived by writing custom shaders or addons from the asset store..."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-29T19:20:14Z",
+  "comments": 13,
+  "createdAt": "2020-07-22T12:48:37Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 1242,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a random rotation option to StandardMaterial3D option for tiling textures",
+  "up": 0,
+  "updatedAt": "2022-10-29T19:20:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1242"
+}

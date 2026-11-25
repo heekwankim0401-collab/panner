@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I believe it is currently impossible as an add-on.\n\n---\n\nThis is a scenario for one of the points from [Add support for Customizable/Scriptable Render Pipelines #644](https://github.com/godotengine/godot-proposals/issues/644), but for 3D, not 2D:\n\n> 4. Let the user decide the rules of each \"batch\" of object rendering, like rendering order, render targets, global shader properties, filtering, etc.\n\nI've had this VR parity problem simmering in my head and making me a little anxious for a couple of months now (before I heard about the plans to make the 4.0 pipeline more flexible, and before I saw the other issue), so I'm sorry if this is a wall of text now that I finally wrote it down as a proposal. 😄",
+    "format": "legacy",
+    "workaround": "It is currently impossible with script."
+  },
+  "assignees": 1,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-05-28T01:43:34Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 932,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow specifying a partial order (batches) for opaque object rendering in 3D",
+  "up": 6,
+  "updatedAt": "2021-10-14T22:45:36Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/932"
+}

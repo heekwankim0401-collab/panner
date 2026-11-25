@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "StreamPeerTCP has this method already so it makes sense that StreamPeerTLS should also have it.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-02-28T15:19:47Z",
+  "comments": 1,
+  "createdAt": "2024-01-23T13:22:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 8946,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add set_no_delay() method for StreamPeerTLS",
+  "up": 0,
+  "updatedAt": "2024-02-28T15:20:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8946"
+}

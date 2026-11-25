@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "You need to seek in a tween, for example a text reveal option, or skipping a tween to a certain cut scene point",
+    "format": "form",
+    "workaround": "I have no idea"
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-07T18:37:36Z",
+  "comments": 3,
+  "createdAt": "2023-01-07T12:40:24Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:animation"
+  ],
+  "milestone": null,
+  "number": 6058,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "SceneTreeTween seek method",
+  "up": 0,
+  "updatedAt": "2023-01-07T18:38:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6058"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a low level networking feature\n\nThx for your work",
+    "format": "legacy",
+    "workaround": "Yeah, just don't use `StreamPeerBuffer` but it's hard to make some Buffer in code."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-25T10:01:16Z",
+  "comments": 1,
+  "createdAt": "2020-02-21T16:31:09Z",
+  "down": 0,
+  "labels": [
+    "topic:network"
+  ],
+  "milestone": null,
+  "number": 500,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a PacketPeerBuffer",
+  "up": 0,
+  "updatedAt": "2021-03-25T10:01:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/500"
+}

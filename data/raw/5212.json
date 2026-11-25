@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "The android path seems to be controlled by core Godot; I'm not sure an add-on could easily fix this, and it's something that I would imagine every Android developer would want.",
+    "format": "form",
+    "workaround": "Of course, I could have different git branches and merge frequently, or maybe it turns out that everything that gets overwritten shouldn't go into version control -- but the gitignore functionality for Android doesn't seem to be quite there yet, per [this comment](https://github.com/godotengine/godot-proposals/issues/1813#issuecomment-926983202) -- and the gitignore linked from that comment wouldn't work for me, because my build.gradle file has custom stuff to work around Play Games Services v2 badness."
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-23T22:59:57Z",
+  "comments": 1,
+  "createdAt": "2022-08-19T16:59:08Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:editor",
+    "topic:export"
+  ],
+  "milestone": "4.3",
+  "number": 5212,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for multiple Android custom build export directories",
+  "up": 0,
+  "updatedAt": "2024-06-24T17:11:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5212"
+}

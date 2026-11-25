@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I could make my own tool that will automate obfuscation, but I still need to be very cautious on file management since there is no indications to warn users whatsoever. Plus, there's also no reason of why Godot user projects shouldn't be protected by default.",
+    "format": "form",
+    "workaround": "I don't believe we can achieve obfuscation with few of extensions since it involves overhauling build process."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-04T13:10:24Z",
+  "comments": 6,
+  "createdAt": "2023-03-02T10:36:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:export"
+  ],
+  "milestone": null,
+  "number": 6395,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement functionality to obfuscate 'entire project' in production export, along with its compatible filesystem",
+  "up": 4,
+  "updatedAt": "2023-03-04T14:38:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6395"
+}

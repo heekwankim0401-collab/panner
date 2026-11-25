@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "markdown",
+    "workaround": "~~Since it's not possible to get font glyph size in godot, there's no way to calculate how much characters a line takes up unless it's monospaced.~~ (Wrong, see @Error7Studios' response) I tried using Labels for each line, but that would mean removing characters 1 by 1 until I know it fits within a line is with `get_visible_line_count()`. I think I don't have to say how janky that is."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-05-08T07:53:09Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2698,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add more methods to operate on visible lines in RichTextLabel",
+  "up": 2,
+  "updatedAt": "2021-05-14T11:18:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2698"
+}

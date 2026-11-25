@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Having it as an add-on would defeat the purpose if you opened a version which didn't have the add-on.",
+    "format": "form",
+    "workaround": "It would probably be utilized by many. Certainly users can come up with their own ways of making launching Godot more convenient, but it would be a nice feature to have."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 23,
+  "createdAt": "2023-11-08T04:23:24Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 8370,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Project Manager - Add capability to load using different Godot installs",
+  "up": 5,
+  "updatedAt": "2026-07-11T19:18:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8370"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Color is a basic type in GDScript.",
+    "format": "form",
+    "workaround": "No, because constant functions cannot be defined with GDScript."
+  },
+  "assignees": 0,
+  "closedAt": "2024-07-28T15:01:55Z",
+  "comments": 4,
+  "createdAt": "2024-07-28T01:39:47Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 10294,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Make `Color.hex` constant",
+  "up": 0,
+  "updatedAt": "2024-07-28T15:27:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10294"
+}

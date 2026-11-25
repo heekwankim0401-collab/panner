@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "legacy",
+    "workaround": "it would mostly be used for gridmaps and yes through a script but we shouldn't need to attach a script to every mesh just to offset it because gridmaps don't respect position\n\n**Is there a reason why this should be core and not an add-on in the asset library\nits useful to easily be able to create block based 3d maps"
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-13T10:19:31Z",
+  "comments": 2,
+  "createdAt": "2020-10-24T01:33:00Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.0",
+  "number": 1716,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow offsetting built in mesh types",
+  "up": 2,
+  "updatedAt": "2021-09-13T10:19:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1716"
+}

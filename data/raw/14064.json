@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "This feature needs to be implemented in the Godot editor core because it directly modifies how node selection is rendered in the 3D editor, which is not fully accessible or overridable via editor plugins.",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-25T19:15:42Z",
+  "comments": 3,
+  "createdAt": "2026-01-25T02:32:48Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:core",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 14064,
+  "state": "CLOSED",
+  "stateReason": "DUPLICATE",
+  "title": "Mesh-Accurate Selection Outline for 3D Nodes in the Editor.",
+  "up": 1,
+  "updatedAt": "2026-01-26T22:40:20Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14064"
+}

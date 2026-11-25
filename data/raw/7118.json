@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I've found no simple way to implement the desired behaviour by extending ScrollContainer. So the solutions are to either reimplement the whole node entirely just for this one thing, or have an upper Container node handle it, like I showed above. Neither is ideal so IMO it's worth adding to the engine.",
+    "format": "form",
+    "workaround": "I did manage to implement the behaviour I wanted with a Container node that's itself parent of the ScrollContainer. In the one place where I use it, the parent is a MarginContainer. I'm not sure if it depends on that to work properly.\n```gdscript\nextends Container\n@onready var child: ScrollContainer = get_child(0)\n\nfunc _ready() -> void:\n\t_sort_children()\n\nfunc _notification(what: int) -> void:\n\tif what == NOTIFICATION_SORT_CHILDREN:\n\t\t_sort_children()\n\nfunc _get_minimum_size() -> Vector2:\n\tif not is_node_ready(): return Vector2.ZERO\n\treturn Vector2(0, child.get_minimum_size().y)\n\nfunc _sort_children() -> void:\n\tif child.size == size: return\n\tif child.get_minimum_size().x >= size.x:\n\t\tchild.horizontal_scroll_mode = ScrollContainer.SCROLL_MODE_SHOW_ALWAYS\n\telse:\n\t\tchild.horizontal_scroll_mode = ScrollContainer.SCROLL_MODE_DISABLED\n\tchild.size = size\n```\n(same video as above)\n[scroll good.webm](https://github.com/godotengine/godot-proposals/assets/37083802/d8f139c2-2506-4200-aa05-e857e5bd6f95)\n\n\nA worse option is to set both scroll modes to auto and manually adjust the ScrollContainer's vertical minimum size. But then it won't grow when the scrollbar is shown, which looks worse as it overlaps the buttons. Still, if there was a way to fix that, this would likely end up being the simpler workaround\n\n```gdscript\nextends ScrollContainer\n\nfunc _ready() -> void:\n\tresized.connect(_on_resized)\nfunc _on_resized() -> void:\n\tcustom_minimum_size.y = get_child(0).get_minimum_size().y\n```\n[scroll bad.webm](https://github.com/godotengine/godot-proposals/assets/37083802/8ad8122d-6d69-4bc0-8b55-5896df76275f)"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2023-06-19T16:29:17Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7118,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Re-add the old behaviour of ScrollContainer regarding the minimum size being adjusted",
+  "up": 1,
+  "updatedAt": "2023-06-20T09:00:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7118"
+}

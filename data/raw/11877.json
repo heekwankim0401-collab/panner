@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's a matter of coherence and consistency in UIs, and it would not be very easy to add through an addon as it has to do with the node's rendering itself.",
+    "format": "form",
+    "workaround": "I used a shader, which has limitations and can get very complicated to write. Another way is duplicating the Control node, changing color and shifting it, but more often than not it works terribly.\nI think it'd be used often and can't be easily worked around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-02-28T21:25:15Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 11877,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make text_shadow property in Control nodes consistent",
+  "up": 9,
+  "updatedAt": "2025-03-01T21:09:22Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11877"
+}

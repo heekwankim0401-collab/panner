@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is an essential feature for games that provide a standard options menu.",
+    "format": "form",
+    "workaround": "The first API requires a native OS call, which is not simple. The second API has less logic, but is still not trivial due to possible edge cases (like a minimum resolution)."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-23T21:50:09Z",
+  "comments": 7,
+  "createdAt": "2022-08-15T12:46:34Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5175,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow retrieving list of common resolutions",
+  "up": 3,
+  "updatedAt": "2023-05-23T21:50:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5175"
+}

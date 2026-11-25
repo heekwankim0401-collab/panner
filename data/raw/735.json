@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "should behave the same as desktop",
+    "format": "legacy",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2023-09-17T17:02:13Z",
+  "comments": 13,
+  "createdAt": "2020-04-19T18:18:56Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "platform:ios",
+    "topic:input"
+  ],
+  "milestone": "4.2",
+  "number": 735,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add iOS Android pen pressure / tilt support",
+  "up": 18,
+  "updatedAt": "2023-09-17T17:02:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/735"
+}

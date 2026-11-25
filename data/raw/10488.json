@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As discussed above, being core to Godot is a large part of the benefit.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-08-18T23:55:36Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 10488,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a small, baseline WebAssembly interpreter to Godot",
+  "up": 14,
+  "updatedAt": "2025-03-04T05:25:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10488"
+}

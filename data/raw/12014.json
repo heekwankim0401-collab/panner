@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Because that would be really silly.\n\n- *Production edit (keywords for easier searching): popcnt*",
+    "format": "form",
+    "workaround": "It can be worked around in a script:\n```gdscript\nfunc get_collected_items(item_mask: int) -> int:\n\tvar i: int = completed_sequences - ((completed_sequences >> 1) & 0x55555555);\n\ti = (i & 0x33333333) + ((i >> 2) & 0x33333333);\n\ti = (i + (i >> 4)) & 0x0F0F0F0F;\n\ti *= 0x01010101;\n\treturn  i >> 24;\n```\n*[Found on Stackoverflow](https://stackoverflow.com/questions/109023/count-the-number-of-set-bits-in-a-32-bit-integer)*\nbut based on the fact that Godot uses bitmasks quite extensively itself and this is a standard function that helps in dealing with bitmasks, I would argue it is fair to make it a proper Feature."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-03-18T12:57:35Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 12014,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `popcount()` function to @GlobalScope",
+  "up": 3,
+  "updatedAt": "2026-11-16T23:36:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12014"
+}

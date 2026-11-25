@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a UI/UX problem inherent to Godot's editor and will potentially affect any project that uses custom resources. Add-ons are meant to provide additional functionality, not to fix broken features.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-04-26T22:27:21Z",
+  "comments": 1,
+  "createdAt": "2022-04-26T22:05:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4450,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow the user to export custom Resource subclasses in the editor.",
+  "up": 0,
+  "updatedAt": "2022-04-26T22:27:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4450"
+}

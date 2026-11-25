@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "I'm not familiar enough with the details of Godot to know whether this could even be done through an asset library. Subjectively I feel that input mapping is a core functionality of a gaming engine.",
+    "format": "form",
+    "workaround": "I am currently working around this by hard-coding modifier matching into my code, but feel that input matching should be declarative to the map and not handled half by the input map and half by extra code. If I ever allow players to define their own input mapping then my hard-coded logic would be very much in the way (e.g. if they can define Tab + Shift/Tab to cycle through weapons)."
+  },
+  "assignees": 0,
+  "closedAt": "2024-04-13T21:24:13Z",
+  "comments": 5,
+  "createdAt": "2024-04-04T18:55:07Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 9450,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Cleanly distinguish input map entries with and without modifiers",
+  "up": 0,
+  "updatedAt": "2024-04-14T08:17:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9450"
+}

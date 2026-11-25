@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is core import functionality.",
+    "format": "legacy",
+    "workaround": "No, as this is core import functionality. This is also about improving new users' experience with Godot."
+  },
+  "assignees": 0,
+  "closedAt": "2020-12-23T08:31:02Z",
+  "comments": 1,
+  "createdAt": "2020-09-23T12:09:42Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.0",
+  "number": 1553,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Print a warning message when importing a glTF file that references a specular/glossiness map",
+  "up": 1,
+  "updatedAt": "2020-12-23T08:31:02Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1553"
+}

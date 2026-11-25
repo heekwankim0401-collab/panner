@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This would encourage making more secure games, thanks to only having to change one setting once, rather than having to handle a complex dual-synchronizer system or anything else.",
+    "format": "form",
+    "workaround": "A way would be to make the server fully authoritative, and expecting player inputs instead of players updating their positions/speed. But this would cause further latency, this is not acceptable for all games.\n\n\nThe following allows disabling `multiplayer.server_relay` and still use synchronizers:\n\nThe pawns node could have two synchronizers configured with the same properties.\nOn the server, one's authority would be the client, the other would be the server.\nOn the client controlling the pawn, one's authority would be itself, and the other would be disabled.\nOn other clients, one would be disabled, the other's authority would be set to the server.\n\nDisabling visibility for the client that receive the error on the server-to-client synchronizer have no effect, and the synchronizer keep synchronizing properties (is this a godot bug?). So to disable synchronizers, I set their `delta_time` to an high value to prevent them from sending updates, and I set their authority to a non-existing id to prevent them from considering received updates valid.\n\nThis is the code to change who controls a pawn (called on both client and server):\n```gdscript\nfunc set_controller_peer(peer_id: int):\n\tif peer_id != 1 and multiplayer.get_unique_id() != 1 and peer_id != multiplayer.get_unique_id():\n\t\tdebug.push_warning(\"set_controller_peer called on client with the id of another client\")\n\t\tpeer_id = 1\n\tif peer_id == 1:\n\t\t$server_to_client_synchronizer.set_multiplayer_authority(1, false)\n\t\t$server_to_client_synchronizer.replication_interval = 0.0\n\t\t$server_to_client_synchronizer.delta_interval = 0.0\n\t\t$client_to_server_synchronizer.set_multiplayer_authority(-1, false)\n\t\t$client_to_server_synchronizer.replication_interval = 999999\n\t\t$client_to_server_synchronizer.delta_interval = 999999\n\t\tif multiplayer.get_unique_id() == 1:\n\t\t\t$server_to_client_synchronizer.set_visibility_for($server_to_client_synchronizer.get_multiplayer_authority(), true)\n\t\t\t$server_to_client_synchronizer.set_visibility_for(p"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-12-13T02:22:28Z",
+  "down": 0,
+  "labels": [
+    "topic:multiplayer"
+  ],
+  "milestone": null,
+  "number": 8646,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow MultiplayerSynchronizer hiding what client has authority, pretending the server does",
+  "up": 4,
+  "updatedAt": "2024-01-08T18:18:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8646"
+}

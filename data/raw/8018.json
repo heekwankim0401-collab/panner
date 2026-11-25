@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a project settings default.\n\nCaveat: This changes existing projects, which may be undesirable. This could be handled by a migration feature. I would consider having to change all future projects and experiencing inconsistent behaviour to be the greater evil than changing a few projects from previous versions that still need the old default but want to run on the newer version of Godot.",
+    "format": "form",
+    "workaround": "A workaround is to manually set the default values. However, this is a proposal that aims to unify the Developer Experience and behaviour of the Engine for everyone."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2023-10-07T11:29:56Z",
+  "down": 0,
+  "labels": [
+    "breaks compat",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8018,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Unify Angular Damping Defaults",
+  "up": 4,
+  "updatedAt": "2023-10-08T10:13:09Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8018"
+}

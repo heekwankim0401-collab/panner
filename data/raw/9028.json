@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "because will need to get the size of the frames when will open the file",
+    "format": "form",
+    "workaround": "I think this cannot be easily used with few lines of source code."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-02-04T21:32:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 9028,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "VideoPlayer feature - frame size of ogv video into Godot to fix SubViewport",
+  "up": 0,
+  "updatedAt": "2024-02-05T16:23:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9028"
+}

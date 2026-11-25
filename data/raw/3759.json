@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Can only be core. As both keywords if and ; are part of GDScript.\n\nAs this change breaks compatibility with GDScript 1.0 it makes sense to introduce this change together with Godot 4.0/GDScript 2.0.",
+    "format": "form",
+    "workaround": "It can - just write separate lines indented. \n\nI find it less intuitive that the semicolon acts like a line-break and so the structure/indentation is broken\nwhich is usually followed by GDScript.\n\nBoth statements are on one line for a reason. Process both (all of them) if condition to the left is met."
+  },
+  "assignees": 0,
+  "closedAt": "2022-02-01T15:45:44Z",
+  "comments": 12,
+  "createdAt": "2022-01-05T09:14:10Z",
+  "down": 8,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3759,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript: Add support for semicolon in if-statements act as concatenation (glueing mechanism)",
+  "up": 4,
+  "updatedAt": "2022-02-01T19:19:35Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3759"
+}

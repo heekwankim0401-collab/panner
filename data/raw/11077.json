@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "GDScript is core",
+    "format": "form",
+    "workaround": "It is a syntatic sugar proposal, so it can be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2024-11-03T06:58:30Z",
+  "comments": 2,
+  "createdAt": "2024-11-03T00:49:52Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11077,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add named arguments to GDScript (syntatic sugar)",
+  "up": 8,
+  "updatedAt": "2024-11-03T06:58:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11077"
+}

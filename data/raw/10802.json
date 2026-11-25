@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Usability should be builtin",
+    "format": "form",
+    "workaround": "Might be possible with an add-on as separate menu entry, but if it should be integrated with the existing dialogue no."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-30T23:39:09Z",
+  "comments": 0,
+  "createdAt": "2024-09-22T10:34:29Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.6",
+  "number": 10802,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add primitive shapes as collision shape type when creating a shape from a `Mesh3D`",
+  "up": 4,
+  "updatedAt": "2025-09-30T23:41:42Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10802"
+}

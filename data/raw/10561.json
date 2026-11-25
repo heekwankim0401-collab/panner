@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "After having a look through the _build_brush function for CSGPolygon, the initial sample point for the curve is hardcoded to 0. There would also need to be quite a few adjustments to other variables/logic in that function. I don't think any of this is exposed to gdscript to make adjustments there.",
+    "format": "form",
+    "workaround": "I don't think this is possible with just a few lines."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2024-08-26T11:31:30Z",
+  "down": 0,
+  "labels": [
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 10561,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add clipping to CSGPolygon in path mode",
+  "up": 2,
+  "updatedAt": "2024-09-05T01:35:06Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10561"
+}

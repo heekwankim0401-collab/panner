@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Unity has the sprite editor sort of like an add-on. But as i was saying, making it core is no mistake, since its a critical feature for the sprite sheet workflow technique.",
+    "format": "form",
+    "workaround": "If i would have been smart enough, i would have coded an addon myself, but i am not. Also, everyone will use it, i guarantee you. there's no way all gamedevs, be them indie or professional, prefer using separate png files for their 2D sprites"
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-11T15:56:35Z",
+  "comments": 6,
+  "createdAt": "2023-09-17T23:04:09Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 7719,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Automatically split spritesheets by the appropriate number of rows and columns based on image contents",
+  "up": 4,
+  "updatedAt": "2024-08-11T16:06:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7719"
+}

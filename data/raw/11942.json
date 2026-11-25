@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Node is core.",
+    "format": "form",
+    "workaround": "No -- skipping dynamically added nodes when duplicating requires modifying functions within the engine."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-21T17:37:00Z",
+  "comments": 6,
+  "createdAt": "2025-03-08T03:46:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11942,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add flag to ignore script-added children in Node `duplicate()` function",
+  "up": 0,
+  "updatedAt": "2025-09-21T20:52:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11942"
+}

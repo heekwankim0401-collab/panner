@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I believe this could be accomplished with a small addition to the editor itself, and would not require any engine modifications. The enhancement I have suggested is also highly intuitive, since the hierarchy view in the Advanced Import Settings window is nearly identical to the Hierarchy view in the editor. One could reasonably assume that some options should be available upon right-clicking a node in the AIS window. But since this is not the case, someone who is not familiar with Godot's workflow might have trouble figuring out how to go from an .fbx or .gltf file to a functional, editable, scene.",
+    "format": "form",
+    "workaround": "The pain points I described are encountered quite often, and there is no workaround that I have been able to discover."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2024-10-08T13:55:37Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 10935,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow \"Save Branch as New Scene\" from the Advanced Import Settings window",
+  "up": 2,
+  "updatedAt": "2024-10-11T10:20:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10935"
+}

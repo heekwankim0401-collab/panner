@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Godot may provide the wheels for a Signal Bus, but expects everyone to be their own mechanic and build one yourself.\n\nIt would be nice if beginners could not have to worry about that for a while and just hop on a train. ;)",
+    "format": "form",
+    "workaround": "First off, this is mainly an editor enhancement, precisely because one shouldn't have to use a few lines of script for this (and even if one does, there should be a way to visualize those few lines in the Editor, which there currently isn't).\n\nSecond, most discussions I've seen online inevitably leads to an experienced Godot user recommending a beginner Godot user to implement a Signal Bus, which is way more than a few lines of script."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-11-09T22:09:37Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13605,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Show nodes in groups when connecting signals in the editor",
+  "up": 0,
+  "updatedAt": "2026-05-29T15:05:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13605"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As outlined above, making this an addon presents huge synchronization/maintenance hazards. In addition, if you updated the Editor to use an addon, then it would make for horrible UX. In my opinion, core is really the best place for it.\n\nIf the devs believe that including it in core would be too much bloat, then I would believe that at least some kind of partial solution is best where some essential form/form properties are kept in core and then more are kept maintained in the editor AND in a separate downloadable addon, so that those who want to build godot \"games\" that are tools with complex editors required could still make use of this API. Not sure of the best way to do that though.",
+    "format": "legacy",
+    "workaround": "I would use this *every single day* since I mess with plugin code all the time, and plugins often have their own data with their own GUI for viewing and editing that data.\n\nIt would also enable us to simplify and refactor several other parts of the Godot editor I imagine. VisualScript and VisualShader nodes are one place. Anything in a dock, bottom panel, or viewport is another. Several uses of Tree could probably be replaced entirely to use this more robust, pluggable tool.\n\nTons and tons of games would be able to use this to vastly simplify their code.\n\nNon-game applications would make heavy use of this as they often involve users entering or configuring data and gaining some benefit from allowing the app to have that data.\n\nThe code is all inside the editor. You *could* re-implement the entire Inspector as an addon but that would be a highly involved and complex process, not to mention a waste of time since you'd then have to maintain the codebase to closely match the editor's code for consistency's sake. It would *really* be a bad idea to do that. And having to go through the effort of coding one's own form for general purpose stuff is a huge time sink when there is already a perfectly good form/inspector built and maintained by the community."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2019-10-03T19:44:23Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 123,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Define and expose an Inspector-like property list editor to the scripting API",
+  "up": 31,
+  "updatedAt": "2024-03-21T21:43:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/123"
+}

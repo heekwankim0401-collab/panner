@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because add-on is impossible.",
+    "format": "legacy",
+    "workaround": "No, you'd have to extend GDScript."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2020-05-25T15:38:09Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 889,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow to do `a < val < c` to check if `val` is between two values",
+  "up": 38,
+  "updatedAt": "2021-11-27T13:22:56Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/889"
+}

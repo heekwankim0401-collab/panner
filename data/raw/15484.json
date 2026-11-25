@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-09-05T20:50:35Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:3d"
+  ],
+  "milestone": null,
+  "number": 15484,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose Manifold operations for Mesh/Geometry3D or remove Main Thread Lock from CSG Node operations",
+  "up": 0,
+  "updatedAt": "2026-09-29T13:03:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15484"
+}

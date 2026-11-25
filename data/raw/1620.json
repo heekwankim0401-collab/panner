@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above: This proposal serves to add functionality to the engine not directly related to NPR, but which will enable toon shaders to be written and (hopefully) published to the asset library.",
+    "format": "legacy",
+    "workaround": "I predict that this enhancement, or assets based on it, will be heavily used. NPR shading is an extremely desired feature by some communities. In fact, there were 3 questions posed in the chat at the last Q&A asking for NPR. Genshin Impact is a high profile game and was based around an extremely stylized non-physical renderer (deferred, but no reason it can't be done as clustered-forward)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2020-10-06T14:14:02Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.x",
+  "number": 1620,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Non-physical shading: access to lighting within the `fragment()` function",
+  "up": 57,
+  "updatedAt": "2023-02-24T05:15:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1620"
+}

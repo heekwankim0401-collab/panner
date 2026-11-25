@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It would also reduce the repeating of code in the Godot code base.",
+    "format": "legacy",
+    "workaround": "It could be made in GDscript with functions like this, but it will require several lines:\n```\nfunc set_collision_layer_bit(layer : int, bit : int, value : bool) -> int:\n\tif value:\n\t\tlayer |= 1 << bit\n\telse:\n\t\tlayer &= ~(1 << bit)\n\treturn layer\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2022-05-28T17:48:02Z",
+  "comments": 1,
+  "createdAt": "2019-12-22T12:25:13Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 329,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Make collision layer a class / resource",
+  "up": 3,
+  "updatedAt": "2022-05-28T17:48:07Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/329"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "it is not just for the game I am making right now cause it will be in use always for my games. And no one needed it or makes an 3rd person game.",
+    "format": "form",
+    "workaround": "Make it so it is a tick in a ray or another ray object."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-01-15T16:42:27Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 8888,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow RayCast to report multiple collision points through different objects",
+  "up": 11,
+  "updatedAt": "2026-03-29T16:42:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8888"
+}

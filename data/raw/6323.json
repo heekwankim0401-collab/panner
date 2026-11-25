@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Pratically all Godot projects need this.",
+    "format": "form",
+    "workaround": "Yes. I provided an example implementation above."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2023-02-19T22:49:32Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6323,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Node \"enable_ui_recursively\" and \"disable_ui_recursively\"",
+  "up": 0,
+  "updatedAt": "2023-02-20T11:10:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6323"
+}

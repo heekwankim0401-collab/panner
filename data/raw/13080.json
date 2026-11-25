@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is about the ability to preview specific frames of the SpriteAnimation2D in the viewport, which is an important part of making sure the animations are implemented correctly in the game. Because the creation of the animations/frames are done in an external tool, it is important to easily be able to verify that every single frame looks good in Godot also.",
+    "format": "form",
+    "workaround": "As far as I know, this cannot be scripted because there is no script access to the SpriteFrames window in the Editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-08-27T11:00:35Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 13080,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Ability to preview AnimatedSprite2D frame in the Viewport by clicking the frame in the SpriteFrames window",
+  "up": 1,
+  "updatedAt": "2025-08-27T11:05:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13080"
+}

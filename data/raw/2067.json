@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Project.godot is part of core",
+    "format": "markdown",
+    "workaround": "No, since this is an editor issue"
+  },
+  "assignees": 0,
+  "closedAt": "2021-01-04T12:22:29Z",
+  "comments": 1,
+  "createdAt": "2021-01-04T11:13:50Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 2067,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reload project.godot when it changes outside of Godot (Especially with VCS)",
+  "up": 2,
+  "updatedAt": "2021-01-04T12:26:13Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2067"
+}

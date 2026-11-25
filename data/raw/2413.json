@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's GDScript and editor. As core as it gets.",
+    "format": "markdown",
+    "workaround": "It's a minor usability improvement, the workaround is the status quo. But it is something that will deliver bits of utility very often."
+  },
+  "assignees": 0,
+  "closedAt": "2021-03-06T19:53:46Z",
+  "comments": 1,
+  "createdAt": "2021-03-06T19:22:59Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2413,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Assign inline comment of an export variable to its inspector hover annotation",
+  "up": 0,
+  "updatedAt": "2021-03-06T19:55:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2413"
+}

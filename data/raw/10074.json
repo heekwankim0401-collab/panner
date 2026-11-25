@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Because I am making an addon and I can't find any way to do it properly :)",
+    "format": "form",
+    "workaround": "It is possible to partially work around the issue, but so far the best solution I could come up with involves hijacking an unrelated feature (editor lock) and requires that my gizmo can not respect the lock setting. The workaround feels hacky and makes me hesitant to include in a publicly released plugin. For my own purposes I can deal with it, but it doesn't work as well as I'd like or as it could."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-06-29T15:33:38Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 10074,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Provide a method for editor plugins to control default Node3D gizmo visibility",
+  "up": 3,
+  "updatedAt": "2024-06-30T03:09:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10074"
+}

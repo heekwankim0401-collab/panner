@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It improves base usability of the editor",
+    "format": "form",
+    "workaround": "With a few clicks, but it's annoying"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-10-29T17:31:30Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 3480,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Profiler tab stay open when running a scene if Profiler is on",
+  "up": 12,
+  "updatedAt": "2022-09-09T23:55:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3480"
+}

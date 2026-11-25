@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "See above",
+    "format": "form",
+    "workaround": "Could be possible, but I am not sure how it can be done at the moment"
+  },
+  "assignees": 0,
+  "closedAt": "2021-10-28T05:11:17Z",
+  "comments": 1,
+  "createdAt": "2021-10-28T04:55:15Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 3473,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Fall back to GLES 2 when GLES 3 is not available",
+  "up": 0,
+  "updatedAt": "2021-10-28T13:57:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3473"
+}

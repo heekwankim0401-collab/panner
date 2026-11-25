@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is part of GDScript",
+    "format": "form",
+    "workaround": "Several clunky workarounds exist, but are more difficult to implement and require a lot of boilerplate:\n\nhttps://github.com/godotengine/godot/pull/105272#issuecomment-2822926026\nhttps://gitlab.com/dbat/lessons-in-dev/-/wikis/Get-Property-List-Voodoo\n\nThese workarounds also only work on `@tool` scripts, which my `Item` Resource is not."
+  },
+  "assignees": 0,
+  "closedAt": "2025-09-18T14:41:32Z",
+  "comments": 1,
+  "createdAt": "2025-09-18T14:30:25Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 13213,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "[GDScript] Conditional export and export_group editor visibility",
+  "up": 0,
+  "updatedAt": "2025-09-18T14:41:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13213"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This requires to modify the source code",
+    "format": "form",
+    "workaround": "Yes, but this is a grammar sugar for fast and complex assignment of somewhere using `match` to give a value to a assignable element."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2024-11-02T04:34:55Z",
+  "down": 3,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 11068,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "[GDScript] Expressional `match` and rebirth to the old keyword `yield`.",
+  "up": 7,
+  "updatedAt": "2026-05-23T16:13:57Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11068"
+}

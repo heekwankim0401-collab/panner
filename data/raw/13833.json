@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Security features and platform parity are core responsibilities of the engine export pipeline.",
+    "format": "form",
+    "workaround": "No. This requires changes to the core Android export process (renaming assets) and the resource loader (resolving obfuscated paths). It cannot be achieved via external scripts."
+  },
+  "assignees": 1,
+  "closedAt": "2026-01-27T21:28:31Z",
+  "comments": 2,
+  "createdAt": "2025-12-11T11:46:44Z",
+  "down": 0,
+  "labels": [
+    "platform:android",
+    "topic:export"
+  ],
+  "milestone": "4.7",
+  "number": 13833,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Support \"Encrypt Index\" (filename obfuscation) for Sparse Bundle PCK exports",
+  "up": 3,
+  "updatedAt": "2026-08-08T17:43:23Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13833"
+}

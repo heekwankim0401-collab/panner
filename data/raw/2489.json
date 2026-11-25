@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "At first I thought there would be *no* impact of having shadows enabled without using light occluders which produce them, but I decided to make a proposal anyway to document my research, because this seems to have little performance impact.\n\nThat said, there may be something which can be optimized within the engine to completely bypass shadows processing in case no light occluders are used in a project.\n\nThis is similar to having ray casting enabled by default (in 4.x): godotengine/godot#31637.\n\nNot sure whether the same rationale applies to 3D.",
+    "format": "markdown",
+    "workaround": "Have to enable shadows for each new `Light2D` node every time (unless you use instancing)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2021-03-21T18:54:42Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2489,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Enable shadows property in `Light2D` by default",
+  "up": 3,
+  "updatedAt": "2021-10-14T23:02:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2489"
+}

@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Code editor improvements",
+    "format": "form",
+    "workaround": "It can be done outside godot to a certain degree... with the risk of editing tscn files"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2024-04-02T12:51:11Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 9436,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make Find in Files functional on built-in scripts",
+  "up": 3,
+  "updatedAt": "2024-04-02T18:00:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9436"
+}

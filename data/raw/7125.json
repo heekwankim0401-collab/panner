@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "this is a very useful (and expected) quality-of-life feature,\nand it would be much more useful if\n- it was enabled in Godot out-of-the-box\n- it didn't block a [Control](https://docs.godotengine.org/en/stable/classes/class_control.html)'s script slot\n- the [Control](https://docs.godotengine.org/en/stable/classes/class_control.html)s _only_ updated their size when changing the _window size_ project settings — not on every frame, which is the only way to do this in GDScript ∗\n\n∗ maybe i could change the script to only update the size when changing the _window size_ project settings, if Godot adds the [signal](https://docs.godotengine.org/en/stable/classes/class_signal.html)\n[``ProjectSettings``](https://docs.godotengine.org/en/stable/classes/class_projectsettings.html)``.setting_changed( name:``[``String``](https://docs.godotengine.org/en/stable/classes/class_string.html)`` )``",
+    "format": "form",
+    "workaround": "i can add a tool script to the [Control](https://docs.godotengine.org/en/stable/classes/class_control.html) that is a scene root or [CanvasLayer](https://docs.godotengine.org/en/stable/classes/class_canvaslayer.html) child, that resets its anchor preset every frame:\n\n```GDScript\n@tool\nextends Control\n\nfunc _process(_delta:float) -> void:\n\tset_anchors_preset(Control.PRESET_FULL_RECT)\n```\n\n※ you could choose any [LayoutPreset](https://docs.godotengine.org/en/stable/classes/class_control.html#enum-control-layoutpreset) in place of ``PRESET_FULL_RECT``, but my [responsive UI plugin (version 1.1.0)](https://codeberg.org/sosasees/godot-4-responsive-ui-plugin/src/tag/1.1.0) chooses ``PRESET_FULL_RECT`` for its FullRectControl node type"
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-23T17:22:53Z",
+  "comments": 10,
+  "createdAt": "2023-06-20T17:26:05Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 7125,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "update ``Control`` nodes' size when changing the _window size_ project settings",
+  "up": 2,
+  "updatedAt": "2023-06-23T17:22:53Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7125"
+}

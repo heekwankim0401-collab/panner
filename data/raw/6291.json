@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is core functionality and improves one of the main flaws with the current scene inheritance system, so benefits everyone and thus should be readily accessible aswell. It would even be backwards compatible with fallback to the current name bassd path matching.",
+    "format": "form",
+    "workaround": "It cannot be worked around in script, it's core functionality"
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-06T12:23:40Z",
+  "comments": 12,
+  "createdAt": "2023-02-15T06:58:48Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.6",
+  "number": 6291,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Give nodes a stable scene local id to make scene inheritance robust",
+  "up": 4,
+  "updatedAt": "2025-10-06T12:23:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6291"
+}

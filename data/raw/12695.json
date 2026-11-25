@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "https://github.com/godotengine/godot-proposals/issues/12694 can't be in the asset library and this is a prerequisite.",
+    "format": "form",
+    "workaround": "Required for https://github.com/godotengine/godot-proposals/issues/12694\n\nWhile it can be hacked around, it goes to modify an exposed property (simulation speed) that should not be tampered with for the sake of editor tooling."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-06-29T19:20:49Z",
+  "down": 0,
+  "labels": [
+    "topic:particles"
+  ],
+  "milestone": null,
+  "number": 12695,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a way to pause particles",
+  "up": 7,
+  "updatedAt": "2025-06-29T19:23:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12695"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "currently godots ui system needs some love especially for non mouse based interaction",
+    "format": "legacy",
+    "workaround": "yes but something like this we shouldn't have to code around its something most gui libraries have"
+  },
+  "assignees": 0,
+  "closedAt": "2021-05-20T23:57:02Z",
+  "comments": 20,
+  "createdAt": "2020-05-08T19:03:35Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 810,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add automatic scrolling and toggleable scrollbars to ScrollBar and ScrollContainer",
+  "up": 3,
+  "updatedAt": "2021-05-20T23:58:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/810"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "core lighting improvement",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2024-06-06T00:05:10Z",
+  "comments": 2,
+  "createdAt": "2024-06-04T00:59:10Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9884,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Multiply light energy internally to prevent noise in lightmaps",
+  "up": 2,
+  "updatedAt": "2024-06-08T22:40:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9884"
+}

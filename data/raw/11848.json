@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "To complete the existing case conversion commands from the code editor.",
+    "format": "form",
+    "workaround": "No, it uses the native code editor."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-02-25T16:35:54Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11848,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Code editor: add menu item/shortcut to convert between snake_case and PascalCase",
+  "up": 3,
+  "updatedAt": "2025-02-25T16:47:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11848"
+}

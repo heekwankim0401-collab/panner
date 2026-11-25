@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Core engine behavior -- can't be worked around.",
+    "format": "form",
+    "workaround": "Core engine behavior -- can't be worked around."
+  },
+  "assignees": 0,
+  "closedAt": "2024-12-06T10:26:59Z",
+  "comments": 3,
+  "createdAt": "2024-12-06T03:49:38Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 11297,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Don't store default values in scenes and resources",
+  "up": 2,
+  "updatedAt": "2024-12-08T17:04:38Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11297"
+}

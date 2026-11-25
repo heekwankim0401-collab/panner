@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a core editor feature.",
+    "format": "legacy",
+    "workaround": "Will be used often."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2020-09-13T23:44:00Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 1507,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make mouse input handling more consistent in the editor",
+  "up": 8,
+  "updatedAt": "2020-09-13T23:48:14Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1507"
+}

@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Alas, this is core.",
+    "format": "form",
+    "workaround": "I could work around this issue by using a simple microfacets shadowing algorithm for specular occlusions. This is fine for rough materials, but looks really bad for glossy reflections in my opinion and only works for Lambert diffuse lighting. Bent normals are absolutely necessary for convincing specular occlusions and the _only_ alternative for Burley. However, there are many more applications for sampling radiance and irradiance manually, namely having more flexibility in creating light shaders, or creating stencil shadows for 3rd person platformer characters with correct environment shadow colors."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 12,
+  "createdAt": "2021-06-22T21:36:06Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 2904,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow irradiance and radiance to be manually sampled in `spatial` shaders",
+  "up": 20,
+  "updatedAt": "2026-11-19T12:19:12Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2904"
+}

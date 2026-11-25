@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Its an enhancement for a built-in node\n\n**PS**\nI want to metion this issue, since I'm using ubuntu and only was able to use webm videos under 30fps to avoid black video\n\nhttps://godotengine.org/qa/71720/why-do-webm-videos-stop-working-above-30fps-on-linux-ubuntu",
+    "format": "legacy",
+    "workaround": "Nope, there's no way"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-03T20:47:07Z",
+  "comments": 5,
+  "createdAt": "2020-05-27T11:30:55Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.5",
+  "number": 920,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a playback speed property to VideoStreamPlayer",
+  "up": 13,
+  "updatedAt": "2025-06-03T20:49:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/920"
+}

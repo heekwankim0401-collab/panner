@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In my opinion it should be core because every project is using texture assets",
+    "format": "form",
+    "workaround": "It can be worked around using a custom shader (spatial or canvas_item) like this \n\n```glsl\nshader_type canvas_item;\n\nuniform float _t = 0.5;\n\nvoid fragment(){\n\tvec4 tex = texture(TEXTURE, UV);\n\tif (tex.r < _t && tex.g < _t && tex.b < _t){\n\t\tdiscard;\n\t}\n\tCOLOR = tex;\n}\n```"
+  },
+  "assignees": 0,
+  "closedAt": "2026-05-20T21:21:53Z",
+  "comments": 10,
+  "createdAt": "2022-08-24T16:35:28Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": "4.5",
+  "number": 5247,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add \"Alpha from GrayScale\" texture import setting",
+  "up": 13,
+  "updatedAt": "2026-06-12T00:43:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5247"
+}

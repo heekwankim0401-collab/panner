@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Normally just implementing that method on a per-project basis or as an addon would be more than sufficient, but as previously mentioned, things have changed quite a bit. Here's a few reasons why I believe this should be a core feature:\n\n- Pixel perfect games (and ones with smooth camera movement by extension) are an absurdly common use case and having that functionality available out of the box would be a game changer for quality of life\n- Godot 4.0 introduces a plethora of new changes and modifications to the render server that makes dealing with this issue unreasonably cumbersome as a user, let alone anybody working with the core engine. \n- This is a frustrating issue that I imagine many users will have to deal with, and I'm not sure it will ever be completely addressed through an addon any time soon (especially if it needs to be addressed through additions to the core engine)",
+    "format": "form",
+    "workaround": "I imagine it would be used very frequently, at least by indie developers who work with pixel art a lot. It could very easily optionally just not be used."
+  },
+  "assignees": 0,
+  "closedAt": "2024-03-06T19:31:23Z",
+  "comments": 147,
+  "createdAt": "2023-03-02T02:41:11Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6389,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Simplify smooth camera movement in pixel perfect games",
+  "up": 274,
+  "updatedAt": "2024-03-07T16:42:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6389"
+}

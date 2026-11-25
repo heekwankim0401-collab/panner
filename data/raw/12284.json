@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's relating to core functionality, it's unclear what type of plugin this would be other than a 'general improvements' type of plugin, since it is just a workflow improvement.",
+    "format": "form",
+    "workaround": "Possibly could be an editor plugin? I'm not super familiar with them so I am not sure."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-04-21T20:23:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 12284,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add 'Replace with Scene' option",
+  "up": 14,
+  "updatedAt": "2026-09-09T04:07:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12284"
+}

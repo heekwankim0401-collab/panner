@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "I could not imagine how an addon might solve this. Sorry, I am not familiar with making addons.",
+    "format": "form",
+    "workaround": "![image](https://github.com/godotengine/godot-proposals/assets/2139261/68b73741-62be-4fed-97de-caecbb7d2d03)\n\nI can put the Label in a subviewport to be used as texture to a subviewportcontainer. But I think this is overkill for a simple-element scenario. A simple label should have not required this workaround."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-06-17T22:17:46Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:gui",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 9994,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Modulate fill and outline of Label as a whole layer",
+  "up": 1,
+  "updatedAt": "2024-06-18T00:41:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9994"
+}

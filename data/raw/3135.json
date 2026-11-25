@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Its a core part of GDScript",
+    "format": "form",
+    "workaround": "It can be worked around by coding your functions differently, but the current limitation is an arbitrary limitation as far as I can see, and the behaviour (and current error message) aren't intuitive."
+  },
+  "assignees": 0,
+  "closedAt": "2021-08-14T13:27:07Z",
+  "comments": 5,
+  "createdAt": "2021-08-14T01:08:10Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 3135,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "GDScript function arguments with default values shouldnt have to be the last argument(s)",
+  "up": 0,
+  "updatedAt": "2021-08-14T13:31:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3135"
+}

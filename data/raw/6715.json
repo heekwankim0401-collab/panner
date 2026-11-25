@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "for any future 2d isometeric voxel games this is a must have! it could also be useful for normal non isometeric 2d to give the illusion of depth, by making the top floor layer of lets say a building translucent and offset.",
+    "format": "form",
+    "workaround": "yea, I could and have made a simple workaround where I used 2 tilemaps with one offset by 6 pixels up and switched between them each intended building layer up. so just adding a y offset to the tilemap layer relative to the previous layer should be a piece of cake."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2023-04-18T03:30:07Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6715,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add Tilemap Layer offset for Isometric/2.5D/2D depth uses",
+  "up": 6,
+  "updatedAt": "2025-02-18T10:57:11Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6715"
+}

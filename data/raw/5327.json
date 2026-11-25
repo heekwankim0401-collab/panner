@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Cannot be done with an add-on.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2022-10-03T07:23:57Z",
+  "comments": 1,
+  "createdAt": "2022-09-04T13:46:26Z",
+  "down": 0,
+  "labels": [
+    "platform:macos",
+    "topic:editor",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 5327,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Adjust the window title bar on macOS to make it consistent with platform standards",
+  "up": 8,
+  "updatedAt": "2022-10-03T15:38:30Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5327"
+}

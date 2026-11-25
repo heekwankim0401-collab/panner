@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "legacy",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2019-11-28T19:29:56Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 263,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Remove `GD.load()` in C# in favor of `ResourceLoader.load()`",
+  "up": 1,
+  "updatedAt": "2020-10-08T15:03:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/263"
+}

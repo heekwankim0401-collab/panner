@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This could easily be an add-on, but having it as part of the core would let this be more streamlined, and the fix seems simple.",
+    "format": "form",
+    "workaround": "The simplest work-around is creating export variables in a parent of the Blender node, then initializing the Blender node's script with the desired export variable values. It is quite easy to work around, but was originally hard to diagnose since this behavior was unexpected."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-06-17T17:47:44Z",
+  "down": 0,
+  "labels": [
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 9992,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Cache export variables attached to Blender imported nodes",
+  "up": 0,
+  "updatedAt": "2025-11-04T18:53:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9992"
+}

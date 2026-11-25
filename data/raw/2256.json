@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Because it's part of the Godot editor",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2026-01-29T00:03:51Z",
+  "comments": 3,
+  "createdAt": "2021-02-07T05:37:12Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.7",
+  "number": 2256,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Use nearest-neighbor filtering for low-resolution thumbnails in FileSystem dock (for crisp pixel art preview)",
+  "up": 4,
+  "updatedAt": "2026-01-29T00:05:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2256"
+}

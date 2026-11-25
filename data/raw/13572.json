@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is not possible to access this data from GDScript or GDExtension.\n\n---\nIf there is interest, I would be happy to contribute a PR implementing this functionality.",
+    "format": "form",
+    "workaround": "It can only be worked around partly by fetching all viewports within the scene with for example: \n\n```gdscript\nvar viewports := get_tree().root.find_children(\"*\", \"Viewport\", true, false)\n```\nThis however does include inactive viewports. Additionally, all viewports created without Nodes using `viewport_create()` are missing.\n\n\nThis change would not be needed if https://github.com/godotengine/godot-proposals/issues/1807 was implemented.\nThen you could manually keep track of the rendering time of each viewport by connecting to the signals. Additionally, you could also construct your own list of active viewports by making use of the viewport- and frame- `pre_draw` and `post_draw` signals."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-11-05T00:15:25Z",
+  "down": 0,
+  "labels": [
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 13572,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose the list of active viewports from `RenderingServer` to allow fetching frame render times when vsync is enabled",
+  "up": 1,
+  "updatedAt": "2025-11-05T00:30:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13572"
+}

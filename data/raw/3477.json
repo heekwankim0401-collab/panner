@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it makes more organizational sense, saves resources, and allows more flexible behavior",
+    "format": "form",
+    "workaround": "the work around is extremely ugly and wasteful. It also relies on knowing which mesh instance was made first. If that instance gets deleted, then who knows which instances blendshape data is getting applied then. Its total chaos."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2021-10-29T02:36:18Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:core"
+  ],
+  "milestone": "5.0",
+  "number": 3477,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Move blendshapes values to the Mesh resource instead of being in the MeshInstance",
+  "up": 0,
+  "updatedAt": "2023-02-24T03:21:24Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3477"
+}

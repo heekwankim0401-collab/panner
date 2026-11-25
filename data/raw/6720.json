@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Adding more information to the signals of the RichTextLabel events cannot be done outside of core UI code afaik.\n\nAdding background color to CharFXTransform also would need to be done in core afaik.\n\nWith this also more editor features for the code editor might be more easy to be implemented (like short doc block on hovering over documented code or something - if this isn't possible yet)",
+    "format": "form",
+    "workaround": "Instead of putting the choices into the RichTextLabel, they can be put onto buttons with parsing the dialog text before displaying it.\nThis would sadly also mean, that I would have to care more about how much text is displayed etc. and make my code a little more complicated... instead of just putting everything into the RichTextLabel\n\nFor the tooltips, slightly less styled tooltips can be used with the BBCode hint (but that then also probably ends in not showing images and all the information that I want to present there).\n\nFor changing background bgcolor tag could be used - even though for that reparsing of the text all the time might become necessary."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2023-04-19T12:37:37Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 6720,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add RichTextLabel URL interaction events",
+  "up": 1,
+  "updatedAt": "2024-09-18T13:30:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6720"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Compressed file management is a fairly important feature for any kind of project downloading many files from a server, the lack of proper support is very frustrating.",
+    "format": "form",
+    "workaround": "A system like this would require a large amount of code to implement yourself. I've tried, but decided it wasn't something I was able to create in a reasonable amount of time."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 5,
+  "createdAt": "2025-07-12T20:03:16Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12777,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a higher-level alternative to ZIPReader and ZIPPacker",
+  "up": 3,
+  "updatedAt": "2026-11-24T09:00:45Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12777"
+}

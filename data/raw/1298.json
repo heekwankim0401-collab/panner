@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It can only be implemented in the core renderer.",
+    "format": "legacy",
+    "workaround": "It can only be implemented in the core renderer."
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-12T10:51:00Z",
+  "comments": 5,
+  "createdAt": "2020-08-03T06:10:16Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": "4.5",
+  "number": 1298,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add support for depth function in spatial materials and/or shaders (`GL_GREATER`, …)",
+  "up": 22,
+  "updatedAt": "2025-06-12T10:51:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1298"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is not possible to do with an addon",
+    "format": "form",
+    "workaround": "Technically yes, by unparenting all nodes, setting all the theme items, then parenting them back. This is less than ideal, especially since subwindows will be closed temporarily, things will disappear for two frames, etc."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2024-10-01T21:25:15Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 10873,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Expose `Theme.freeze_change_propagation()` and `Theme.unfreeze_and_propagate_changes()`",
+  "up": 0,
+  "updatedAt": "2024-10-03T05:29:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10873"
+}

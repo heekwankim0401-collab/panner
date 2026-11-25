@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2026-07-17T15:04:03Z",
+  "comments": 7,
+  "createdAt": "2026-07-12T09:49:46Z",
+  "down": 4,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 15178,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "GDScript: allow implicit conversion of numeric types in String concatenation",
+  "up": 1,
+  "updatedAt": "2026-07-17T15:04:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/15178"
+}

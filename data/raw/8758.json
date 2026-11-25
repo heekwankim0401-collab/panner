@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This adds a nice init hook that anyone, regardless of language, could take advantage of if needed.",
+    "format": "form",
+    "workaround": "We currently utilize a custom resource loader for two purposes:\n1. Supporting custom file extensions, i.e. `.os`, for our scripts.\n2. Handling the callback for this post-load step.\n\nIf the Godot binary file format class was exposed to GDExtension or we could specify custom extensions that should use the compressed binary format, then that eliminates (1) for us and all that would remain is (2)."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 4,
+  "createdAt": "2023-12-31T11:37:27Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8758,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow for a Resource NOTIFICATION_POSTLOAD callback",
+  "up": 0,
+  "updatedAt": "2024-01-01T12:45:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8758"
+}

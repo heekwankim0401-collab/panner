@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "As an asset library this would require either:\n- creating a scene serialization system (Heavy and will have to follow Godot updates).\n- analyzing the script code to find the corresponding class (takes time).\n- initializing the class (may cause Side effect).\n- use relfection (not cool, can break in case of a private method get rename)",
+    "format": "form",
+    "workaround": "You can retrieve the Type behind the CSharp Script like this:\n```cs\n((GodotObject)csharpScript.New()).GetType()\n```\nBut it requierd to initalize a new class."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-04-22T22:21:20Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 12294,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a method to get the C# type of CSharpScript",
+  "up": 6,
+  "updatedAt": "2025-10-07T18:34:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12294"
+}

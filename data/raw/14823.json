@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2026-05-11T08:24:29Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 14823,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Typing \"Horizontal\" or \"Vertical\" in Create New Node search should show HBoxContainer and VBoxContainer",
+  "up": 11,
+  "updatedAt": "2026-05-11T11:05:05Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14823"
+}

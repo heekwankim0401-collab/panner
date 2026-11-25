@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "shader functionality is a core system and this would benefit anyone working on custom lighting shaders",
+    "format": "form",
+    "workaround": "no, the only way to access properties of arbitrary lights in the shader is through built-in values"
+  },
+  "assignees": 0,
+  "closedAt": "2023-06-07T15:22:51Z",
+  "comments": 3,
+  "createdAt": "2023-06-07T14:25:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 7036,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add Light3D's Negative property as a `light()` shader function built-in",
+  "up": 0,
+  "updatedAt": "2023-06-08T00:23:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7036"
+}

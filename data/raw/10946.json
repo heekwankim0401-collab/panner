@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "A game’s aspect ratio is an important design choice and having an option to set it in stone while accommodating for different screen resolutions should be a no-brainer.",
+    "format": "form",
+    "workaround": "I think it would be used often, but maybe I’m wrong? I’ve seen a few implementations out there searching for a solution, but they are extremely glitchy on Godot 4. I wrote a script to do it using `DisplayServer.window_set_size` and `root.size_changed` and while that technically works, the renderer distorts everything to accomodate for the “wrong” aspect ratio. If that can be worked around by tweaking the script, I am too stupid to do so."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2024-10-10T21:21:58Z",
+  "down": 1,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 10946,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a window scaling option to keep the window’s aspect ratio",
+  "up": 4,
+  "updatedAt": "2024-10-11T10:17:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10946"
+}

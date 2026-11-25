@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, there are several key reasons why this feature should be a core engine component rather than a standalone add-on.\n\n1. Future-Proof and Up-to-Date Standard 🚀\nWhile ISF has been around for some time, it is not an outdated format. The community on platforms like isf.video continues to publish new shaders constantly. Crucially, the ISF specification has been adopted and is being maintained for modern graphics APIs like Vulkan. Integrating ISF into Godot's core, which is also built on Vulkan, ensures that the engine stays relevant and leverages a powerful, forward-looking standard that is still actively developed.\n\n2. Deep Editor Integration and Performance 🎨\nA core implementation would allow for a seamless and high-performance workflow. This includes:\n\n    Automatic Inspector UI: Only a core feature can deeply integrate with the Godot editor to automatically generate sliders, color pickers, and checkboxes for ISF shader parameters in the Inspector. This is essential for a user-friendly experience for artists.\n\n    Optimal Performance: As a core feature, the ISF loader can be fully optimized to work directly with Godot's rendering pipeline. This guarantees the best possible performance and stability, something a third-party add-on cannot reliably achieve, especially with frequent engine updates.\n\n3. Strategic Expansion for the User Base 🌐\nMaking ISF a native, first-class citizen in Godot is a powerful statement to the VJ and digital art communities. It shows that Godot is a serious tool for live visuals and not just for games. This attracts a new, creative user base, fostering a more diverse and vibrant ecosystem. The availability of thousands of pre-made shaders would be a strong incentive for artists to adopt Godot as their tool of choice.",
+    "format": "form",
+    "workaround": "No, this cannot be worked around with a few lines of script. The task is far too complex for that.\n\nHere's a breakdown of why a simple script isn't a viable solution:\n\nTechnical Limitations\n\nA few lines of script wouldn't be able to handle the core challenges of ISF integration. The process requires a deep level of access to the engine's renderer and editor functionalities.\n\n    Complex Parsing: The ISF format isn't a simple list of variables. Its JSON header defines complex data structures and parameters that a simple script can't parse and map reliably.\n\n    Shader Translation: The most significant challenge is the translation from GLSL (used by ISF) to Godot's own shader language. These two languages have different syntax, built-in functions, and uniform naming conventions. This requires a robust, dedicated parser and converter, not a simple script.\n\n    Deep Engine Integration: To expose ISF variables as editable properties in the Godot Inspector, the solution must directly integrate with the engine's editor and material systems. This goes beyond what standard GDScript can do and would likely require a custom C++ module.\n\nWorkflow & Usability\n\nThe goal of this proposal isn't just to make ISF shaders work, but to make them a seamless part of the Godot workflow. A simple script would result in a clunky, unreliable, and unintuitive user experience, defeating the purpose of providing a streamlined solution for artists and VJs. The proposed solution is designed to be a high-quality, native feature that's easy to use and maintain."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 14,
+  "createdAt": "2025-09-07T18:58:21Z",
+  "down": 4,
+  "labels": [
+    "topic:shaders"
+  ],
+  "milestone": null,
+  "number": 13142,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add support for ISF (Interactive Shader Format) shaders",
+  "up": 0,
+  "updatedAt": "2025-12-15T03:39:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13142"
+}

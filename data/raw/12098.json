@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Beyond just being a standard for good 3rd person cameras nowadays, I would say it's a very simple change that can make the SpringArm3D node even better than already is.",
+    "format": "form",
+    "workaround": "Actually yes, as shown above, but it was necessary to have another collision to be tracked every frame instead of just the SpringArm3D collision shape which is being casted every frame, making it more complex."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-03-29T00:41:55Z",
+  "down": 0,
+  "labels": [
+    "topic:3d",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 12098,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Have the option for the SpringArm3D to only work when colliding its end",
+  "up": 4,
+  "updatedAt": "2025-07-07T14:22:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12098"
+}

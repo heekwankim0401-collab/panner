@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-30T17:20:53Z",
+  "comments": 2,
+  "createdAt": "2024-01-30T16:23:03Z",
+  "down": 0,
+  "labels": [
+    "archived"
+  ],
+  "milestone": null,
+  "number": 8994,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "False positive \"Not all code paths return a value\" error in while true loops",
+  "up": 0,
+  "updatedAt": "2024-02-10T15:37:48Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8994"
+}

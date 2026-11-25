@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "It's changing a core node, I'd expect it to remain there and not require people to setup an addon every single new project.",
+    "format": "markdown",
+    "workaround": "You'd have to make your own node scene and export new properties that map onto the old ones, I believe, and that would be copy/pasted among many, many projects."
+  },
+  "assignees": 0,
+  "closedAt": "2023-02-24T03:45:50Z",
+  "comments": 6,
+  "createdAt": "2021-02-22T23:33:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "breaks compat",
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 2334,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Switch MarginContainer node name and properties to Padding rather than Margin",
+  "up": 6,
+  "updatedAt": "2026-06-13T15:19:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2334"
+}

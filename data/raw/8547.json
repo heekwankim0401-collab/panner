@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "is an improvement on gdscript",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2023-12-01T14:27:41Z",
+  "comments": 3,
+  "createdAt": "2023-11-30T12:15:58Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 8547,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Ability to do `is not` when checking for type (e.g `weapon is not MachineGun`)",
+  "up": 4,
+  "updatedAt": "2023-12-01T14:27:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8547"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2026-03-29T10:46:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": null,
+  "number": 14569,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a Max Lines property to TextEdit to prevent input beyond a set number of lines",
+  "up": 0,
+  "updatedAt": "2026-03-30T23:19:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14569"
+}

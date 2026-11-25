@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It changes the code API.",
+    "format": "markdown",
+    "workaround": "Yee-es, but I believe enhancing the existing signal is a more natural and less error-prone way to do so. Getting this extra argument is not a big cost to pay."
+  },
+  "assignees": 0,
+  "closedAt": "2021-07-16T19:47:56Z",
+  "comments": 7,
+  "createdAt": "2021-03-21T11:11:12Z",
+  "down": 0,
+  "labels": [
+    "topic:2d",
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 2487,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add shape_idx to mouse_entered signal of CollisionObject2D",
+  "up": 2,
+  "updatedAt": "2021-07-16T19:47:59Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2487"
+}

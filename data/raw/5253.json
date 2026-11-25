@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Lightbaking is in the core.",
+    "format": "form",
+    "workaround": "It will be used often during a typical development cycle, and cannot be worked around easily with a script. \n\nA possible workaround will require to change `lightmap_size_hint` for all meshes used on the scene. This can be done easily with Qodot, but *only* for level-related mesh instances (created during the build stage), and *not for all* mesh instances used in the scene. Also dividing the `lightmap_size_hint` for meshes not genereated by Qodot, can give no possibility to revert to the original values."
+  },
+  "assignees": 0,
+  "closedAt": "2022-08-24T19:52:36Z",
+  "comments": 2,
+  "createdAt": "2022-08-24T19:13:57Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5253,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "[3.x] BakedLightmap force scale of lightmap texture ",
+  "up": 2,
+  "updatedAt": "2022-08-24T20:07:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5253"
+}

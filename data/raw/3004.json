@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is something related to the core functionality of godot",
+    "format": "form",
+    "workaround": "this enhancement would be very crucial to guarantee code doesn't risk breaking the scene because the user didn't add checks for the editor on every single callback of their class"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 16,
+  "createdAt": "2021-07-17T13:56:20Z",
+  "down": 0,
+  "labels": [
+    "topic:core",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 3004,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Execute `_get_configuration_warning()` even in non-tool classes",
+  "up": 55,
+  "updatedAt": "2025-10-11T22:41:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3004"
+}

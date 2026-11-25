@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2026-03-22T16:44:37Z",
+  "down": 0,
+  "labels": [
+    "topic:dotnet"
+  ],
+  "milestone": null,
+  "number": 14517,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add C# assembly attribute to flag callbacks that Godot can safely assume other source generators will provide",
+  "up": 0,
+  "updatedAt": "2026-05-16T14:31:51Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/14517"
+}

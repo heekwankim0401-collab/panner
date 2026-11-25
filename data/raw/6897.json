@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "gdscript is core",
+    "format": "form",
+    "workaround": "No, you can just do something that is conceptually wrong but without it causing an error."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-17T05:55:41Z",
+  "comments": 3,
+  "createdAt": "2023-05-17T01:07:54Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 6897,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Don't allow static functions to use non-static methods of the instance it's called from",
+  "up": 0,
+  "updatedAt": "2023-05-22T02:36:40Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6897"
+}

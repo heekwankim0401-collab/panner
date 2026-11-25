@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I think node related features should be core.",
+    "format": "form",
+    "workaround": "With a simple structure like:\n- ParentNode\n  - InternalNode\n  - OtherNode\n\non the \"ParentNode\" such code is currently required:\n```gdscript\nfunc _ready():\n\tvar internal_node = $InternalNode\n\tself.remove_child(internal_node)\n\tself.add_child(internal_node,false,Node.INTERNAL_MODE_FRONT)\n\n# If the parent usually listen for new children, it is required to distinguish normal nodes\n# from the internal ones, that sometimes it is not so easy. \nfunc _on_parent_node_child_entered_tree(node):\n\tif node.name != \"InternalNode\":\n\t\t# Do other operations\n```\nOf course, the more nodes are required to be internal, the more code is required."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 20,
+  "createdAt": "2022-03-23T17:53:55Z",
+  "down": 2,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 4265,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the \"internal node\" feature more accessible",
+  "up": 38,
+  "updatedAt": "2025-03-26T19:05:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4265"
+}

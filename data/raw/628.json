@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This change is about exposing some core functions, that will eventually add the possibility for new plug-ins to land in the assets library.",
+    "format": "legacy",
+    "workaround": "No because, it's about adding some low level APIs to get more freedom from the script."
+  },
+  "assignees": 0,
+  "closedAt": "2022-07-26T23:02:51Z",
+  "comments": 8,
+  "createdAt": "2020-03-24T18:59:42Z",
+  "down": 0,
+  "labels": [
+    "topic:physics"
+  ],
+  "milestone": "4.0",
+  "number": 628,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add low-level physics queries to KinematicBody",
+  "up": 14,
+  "updatedAt": "2022-07-26T23:04:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/628"
+}

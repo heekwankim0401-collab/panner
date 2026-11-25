@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Take this scenario, You want to interactively update your GridMap in code and you need to memorize all possible orientations or write them down somewhere and have to look for them every time among lots of other unrelated notes in your phone, or your project files or ...! but having a simple tab that you write all of the project-related notes and todos and just check them with one click will help a lot",
+    "format": "form",
+    "workaround": "You can add note files yourself and probably a plugin to check for todos, But having a simple QOL feature will speed development up"
+  },
+  "assignees": 0,
+  "closedAt": "2022-03-23T14:16:51Z",
+  "comments": 2,
+  "createdAt": "2022-03-23T11:52:35Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 4262,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Notes & Todos",
+  "up": 0,
+  "updatedAt": "2022-03-23T14:17:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4262"
+}

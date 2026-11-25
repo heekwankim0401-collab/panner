@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "It is a realy simple task. So you don't want to import an extra addon in all projects where you use it. Additionaly this is editor only so you have to care about exluding the addon from the build.",
+    "format": "markdown",
+    "workaround": "I'm not shure if this dialogue from the `AnimationTree` is accesible via gdscript. But if it is it can be worked around with a script."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-24T15:27:23Z",
+  "comments": 1,
+  "createdAt": "2021-02-02T16:30:08Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor",
+    "topic:physics"
+  ],
+  "milestone": null,
+  "number": 2229,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Adding a filter to \"create physical skeleton\"",
+  "up": 2,
+  "updatedAt": "2025-10-24T15:27:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2229"
+}

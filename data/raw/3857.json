@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Add-ons can't modify the Inspector, Project Settings, etc. and other add-ons to use the same color picker.",
+    "format": "form",
+    "workaround": "It will be used often by both plugins and the Godot editor, and it takes much more than a few lines of script to work around."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2022-01-24T22:15:21Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:plugin"
+  ],
+  "milestone": null,
+  "number": 3857,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Make the editor use a single ColorPicker and expose it to plugins",
+  "up": 6,
+  "updatedAt": "2023-04-15T11:13:08Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3857"
+}

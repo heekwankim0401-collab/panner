@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "I feel that this will be more suitable as a core feature instead of a plugin.",
+    "format": "form",
+    "workaround": "I don't think that this is possible to do with scripts currently."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 23,
+  "createdAt": "2021-08-26T04:58:57Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 3207,
+  "state": "OPEN",
+  "stateReason": "REOPENED",
+  "title": "Add a reverse option to AudioStreamPlayer",
+  "up": 17,
+  "updatedAt": "2026-04-02T19:56:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3207"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Convenience, efficiency, removal of redundancy.\nBut sure, I can make an addon that becomes a Singleton that does this...totally doable.",
+    "format": "markdown",
+    "workaround": "Sure.  Everyone can poll all the time...whee!\nAnd create multiple AudioEffectCapture effects if you want multiple users/consumers..."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 6,
+  "createdAt": "2021-04-25T23:24:40Z",
+  "down": 0,
+  "labels": [
+    "topic:audio"
+  ],
+  "milestone": null,
+  "number": 2650,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a `buffered` signal to AudioEffectCapture",
+  "up": 0,
+  "updatedAt": "2023-11-22T01:53:27Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2650"
+}

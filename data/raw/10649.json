@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "The default property inspector for arrays is part of core.",
+    "format": "form",
+    "workaround": "I could in theory write a custom PropertyInspector to replace the default inspector for Arrays, but I would rather not as it's quite complicated!"
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-03T20:02:03Z",
+  "comments": 5,
+  "createdAt": "2024-09-03T19:36:06Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10649,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "If an Array element has a property called 'name', show it in the Array inspector",
+  "up": 0,
+  "updatedAt": "2025-09-12T15:45:46Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10649"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "These nodes provide essential functionality for designing well-constrained and organized maps, which is a common requirement for many games. Integrating them into the core ensures better usability and accessibility for all users. As they affect core features like snapping and map editing, a core implementation is far more efficient and consistent than an asset library plugin.",
+    "format": "form",
+    "workaround": "This enhancement is not trivial to implement as a workaround. While some snapping logic can be scripted for individual nodes, enforcing boundaries for multiple nodes, including TileMap and GridMap, requires complex scripting. Creating reusable and efficient tools for this purpose is essential to simplify workflows."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 1,
+  "createdAt": "2025-01-03T23:37:25Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 11486,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add MapDelimiter2D and MapDelimiter3D nodes to enforce map size limits",
+  "up": 1,
+  "updatedAt": "2025-01-04T16:19:37Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11486"
+}

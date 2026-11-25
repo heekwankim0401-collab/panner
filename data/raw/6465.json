@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This is about built-in functions in the engine core.",
+    "format": "form",
+    "workaround": "Not with a few lines and even if possible, it would be very bad for performance."
+  },
+  "assignees": 0,
+  "closedAt": "2023-03-09T14:11:22Z",
+  "comments": 5,
+  "createdAt": "2023-03-09T13:01:11Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 6465,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow built-in math functions to work in the precision of their operands",
+  "up": 0,
+  "updatedAt": "2023-04-23T20:22:16Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6465"
+}

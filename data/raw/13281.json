@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "XMLParser is in core.",
+    "format": "form",
+    "workaround": "There are a few ways to work around this, but they feel a bit clunky to me.\n\nYou can immediately check the value returned to see if it's an empty string, and if so, set it to the default instead:\n```gdscript\nvar sound_name = parser.get_named_attribute_value_safe(\"name\")\nif sound_name == \"\": sound_name = \"beep\"\n```\nThis may cause issues if the user intends to explicitly pass an empty string as the parameter value, although I haven't run into this in my own projects.\n\nAlternatively, you can construct a dictionary out of the attributes, then use the `Dictionary.get()` method on it:\n```gdscript\nvar attributes = {}\nfor i in parser.get_attribute_count():\n    attributes[parser.get_attribute_name(i)] = parser.get_attribute_value(i)\n    \nvar sound_name = attributes.get(\"name\", \"beep\")\n```\nThis proposal is essentially suggesting the implementation of `Dictionary.get()` for named attributes."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 3,
+  "createdAt": "2025-09-26T18:26:47Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 13281,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add optional argument for default return value to `XMLParser.get_named_attribute_value_safe()`",
+  "up": 0,
+  "updatedAt": "2025-11-30T01:10:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/13281"
+}

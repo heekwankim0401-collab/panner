@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It is super easy to implement and will probably only take around 5-10 lines of code",
+    "format": "form",
+    "workaround": "Currently I am manually updating a list of all the files to be deleted and using a for loop to loop through and delete them all. This is very inconvenient and annoying."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 8,
+  "createdAt": "2025-01-17T22:33:53Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11598,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add a DirAccess method to remove a non-empty directory",
+  "up": 15,
+  "updatedAt": "2026-07-02T09:45:47Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11598"
+}

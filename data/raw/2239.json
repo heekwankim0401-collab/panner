@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "You could see DLSS as an Rendering enhancement and I don't think changing the rendering as an add-on is such a good idea. I don't know how big the program itself is, so if it is too big for Godot (in terms of Volume Space) then it could be added the same way as the Android Build Template.\n\n\nThanks for reading :)",
+    "format": "markdown",
+    "workaround": "I don't think it can be worked around as it is from the companys themselves"
+  },
+  "assignees": 0,
+  "closedAt": "2021-02-04T15:21:41Z",
+  "comments": 31,
+  "createdAt": "2021-02-04T01:21:27Z",
+  "down": 1,
+  "labels": [
+    "archived",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 2239,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add DLSS 2.0 support",
+  "up": 5,
+  "updatedAt": "2026-03-13T02:53:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2239"
+}

@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Main UI enhancement.",
+    "format": "form",
+    "workaround": "It's a UI regular feature proposal."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-21T20:16:41Z",
+  "comments": 1,
+  "createdAt": "2022-05-23T16:45:57Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 4581,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a shortcut to create a new resource in the file system",
+  "up": 14,
+  "updatedAt": "2025-10-21T20:20:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4581"
+}

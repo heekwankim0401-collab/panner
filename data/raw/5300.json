@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Cursor in Godot is kind of hardcoded as is, this would make it's customization significantly easier and more transparent.\nFurthermore, I think these changes affect the core too much to be addon.",
+    "format": "form",
+    "workaround": "The Node can be sort of done with any node extending Node2D.\nHowever it will miss the discoverability (the drag and drop feature of Godot is still relatively obscure or tight integration with the Control system as proposed)."
+  },
+  "assignees": 0,
+  "closedAt": "2022-09-02T19:31:50Z",
+  "comments": 4,
+  "createdAt": "2022-08-31T16:08:26Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:input",
+    "topic:rendering"
+  ],
+  "milestone": null,
+  "number": 5300,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Add a Cursor Node",
+  "up": 0,
+  "updatedAt": "2022-11-11T05:39:04Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5300"
+}

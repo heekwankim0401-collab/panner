@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "This is a basic usability improvement, and not in the purview of an add-on as far as I'm aware.",
+    "format": "form",
+    "workaround": "It's not clear that it can be. As far as I'm aware you can't replace or override Editor Dialogues easily, and a plugin or script that could would likely be fairly complex."
+  },
+  "assignees": 0,
+  "closedAt": "2024-08-23T21:42:08Z",
+  "comments": 1,
+  "createdAt": "2024-08-23T02:55:34Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 10535,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Provide a way to exclude folders from Quick Load",
+  "up": 2,
+  "updatedAt": "2024-08-23T21:42:10Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/10535"
+}

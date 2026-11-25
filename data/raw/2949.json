@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "In my honest opinion, features that use/require system data should be core. Something as simple and useful as, for example, `OS.get_screen_size()`, shouldn't be separate from the rest of the OS functions",
+    "format": "form",
+    "workaround": "Currently, no, because you can only grab `String`s from the Clipboard."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-27T13:30:48Z",
+  "comments": 3,
+  "createdAt": "2021-07-05T21:19:13Z",
+  "down": 0,
+  "labels": [
+    "topic:platforms"
+  ],
+  "milestone": "4.2",
+  "number": 2949,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow getting image data from the system clipboard",
+  "up": 9,
+  "updatedAt": "2025-02-03T19:35:29Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2949"
+}

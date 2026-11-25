@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's another UX improvement (a rather substantial one this time) to the AnimationPlayer. I don't think you should need go to the asset library to make existing tools efficient to use.",
+    "format": "legacy",
+    "workaround": "I suppose it would be used a lot, as it would make animating anything a whole lot faster and easier."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 11,
+  "createdAt": "2019-10-20T03:13:31Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 169,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add recording feature and button to AnimationPlayer",
+  "up": 21,
+  "updatedAt": "2025-04-26T16:36:18Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/169"
+}

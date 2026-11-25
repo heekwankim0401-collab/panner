@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Requires changing how buffers are written.",
+    "format": "form",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": "2025-07-09T00:37:24Z",
+  "comments": 2,
+  "createdAt": "2025-07-08T23:50:05Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12752,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "`Image.save_png_to_buffer()` should have flag to preserve data format",
+  "up": 0,
+  "updatedAt": "2025-07-09T00:50:03Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12752"
+}

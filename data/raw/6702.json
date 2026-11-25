@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An addon wouldn't be able to modify the core Gradient class.",
+    "format": "form",
+    "workaround": "One could implement their own version of the Gradient class, or instead of using the \"sample\" method on the gradient class, write their own sample method that takes a Gradient instance as argument. This does not, however, help when generating GradientTexture1D or GradientTexture2D from a Gradient. Those would also need to be custom coded if creating your own sample function.\n\nOr use shaders. The problem with using shaders to generate gradients, is that gradient textures are more performant at runtime once generated. It is also cheaper for a gradient shader to use a GradientTexture1D as a color lookup as opposed to writing some custom looping solution to interpolate colors between stops."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-29T08:35:43Z",
+  "comments": 5,
+  "createdAt": "2023-04-15T17:29:21Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": "4.1",
+  "number": 6702,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow gradients to interpolate in other color spaces besides sRGB",
+  "up": 10,
+  "updatedAt": "2026-04-04T16:13:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6702"
+}

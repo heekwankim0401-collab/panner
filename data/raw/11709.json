@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "N/A",
+    "format": "form",
+    "workaround": "N/A"
+  },
+  "assignees": 0,
+  "closedAt": "2025-02-26T01:06:55Z",
+  "comments": 3,
+  "createdAt": "2025-02-06T14:32:28Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:buildsystem",
+    "topic:platforms"
+  ],
+  "milestone": null,
+  "number": 11709,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow linking MSVC runtime dynamically",
+  "up": 0,
+  "updatedAt": "2025-02-26T01:06:55Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11709"
+}

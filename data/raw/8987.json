@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "Getting errors when incorrectly calling core APIs should live in the core engine",
+    "format": "form",
+    "workaround": "no"
+  },
+  "assignees": 0,
+  "closedAt": "2024-01-29T14:31:22Z",
+  "comments": 2,
+  "createdAt": "2024-01-29T14:19:51Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 8987,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Log error when signal is called with incompatible types",
+  "up": 2,
+  "updatedAt": "2024-01-29T14:31:26Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/8987"
+}

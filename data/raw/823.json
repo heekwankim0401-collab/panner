@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's about core node.",
+    "format": "legacy",
+    "workaround": "This can be worked around by using other nodes as over and under textures, but it kills the purpose of TextureProgress. IMO this is a common need for this node."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-01T14:20:06Z",
+  "comments": 1,
+  "createdAt": "2020-05-11T17:07:37Z",
+  "down": 0,
+  "labels": [
+    "topic:gui"
+  ],
+  "milestone": "4.0",
+  "number": 823,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add offset for TextureProgress progress texture",
+  "up": 11,
+  "updatedAt": "2021-09-01T14:21:34Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/823"
+}

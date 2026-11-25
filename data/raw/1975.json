@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "It's one button, and I feel that it could be quite useful",
+    "format": "markdown",
+    "workaround": "I'm not sure, I guess you could write a tool script or something, but I have zero experience with them. You could also just... delete the OptionButton or something, but I feel like adding this would be pretty useful so you don't have to keep deleting/re-adding the OptionButton if you keep changing things."
+  },
+  "assignees": 0,
+  "closedAt": "2021-09-24T18:46:43Z",
+  "comments": 2,
+  "createdAt": "2020-12-11T21:50:35Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.0",
+  "number": 1975,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add a clear button to the item list editor",
+  "up": 2,
+  "updatedAt": "2021-09-24T18:47:01Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1975"
+}

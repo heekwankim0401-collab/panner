@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Improves Performance with little visual downgrade",
+    "format": "form",
+    "workaround": "It can be done by artists in Blender."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-17T16:18:36Z",
+  "comments": 3,
+  "createdAt": "2022-03-16T11:10:46Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 4225,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Implement safe automatic shadow LODs to avoid unintended self-shadows on LOD meshes",
+  "up": 2,
+  "updatedAt": "2023-01-17T17:18:17Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/4225"
+}

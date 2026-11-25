@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Yes, it's useful for everyone and not even possible to implement with an asset afaik.",
+    "format": "markdown",
+    "workaround": "No"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 9,
+  "createdAt": "2021-02-23T15:16:05Z",
+  "down": 0,
+  "labels": [
+    "topic:gdscript"
+  ],
+  "milestone": null,
+  "number": 2337,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Support returning functions in `match` patterns",
+  "up": 2,
+  "updatedAt": "2023-04-29T06:52:54Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/2337"
+}

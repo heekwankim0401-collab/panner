@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "Directory / Filesystem interactions is something pretty much everyone would be using, I don't believe this would make sense as an asset",
+    "format": "form",
+    "workaround": "This enhancement would likely be used more often as it's a much more intuitive way of interacting with directories"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2022-10-23T23:17:46Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 5645,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Improve DirAccess for common file operations",
+  "up": 0,
+  "updatedAt": "2022-10-24T00:54:21Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5645"
+}

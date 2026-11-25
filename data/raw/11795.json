@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's core.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2025-02-17T22:14:17Z",
+  "down": 0,
+  "labels": [
+    "performance",
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 11795,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Use `increment` instead of `conditional_increment` for `SafeRefCount`",
+  "up": 0,
+  "updatedAt": "2025-02-18T10:40:25Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11795"
+}

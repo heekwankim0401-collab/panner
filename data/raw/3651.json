@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "This *could* be in core because even more lightweight game engines like [Orx](https://github.com/orx/orx) has this, see for instance this API: https://github.com/orx/orx/blob/5c01d089fc452ee8d78e3a238b73775769091f2e/code/include/object/orxSpawner.h\n\nI'd like to implement what I proposed above in [Goost](https://goostengine.github.io/), regardless of whether this proposal is approved to be implemented in Godot.\n\nFeedback welcome! I'm interested in what kind of functionality you'd find essential and useful.",
+    "format": "form",
+    "workaround": "It will be used often:\n* https://www.gdquest.com/tutorial/godot/2d/spawning/\n* https://godotengine.org/qa/72039/spawner-how-to-stop-it-and-activated-a-new-one\n* https://docs.godotengine.org/en/latest/getting_started/first_3d_game/05.spawning_mobs.html\n* https://godotengine.org/qa/65106/how-to-spawn-enemies-every-3-seconds-or-so"
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 22,
+  "createdAt": "2021-12-10T16:29:07Z",
+  "down": 1,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 3651,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add `Spawner` node",
+  "up": 18,
+  "updatedAt": "2021-12-21T13:19:41Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/3651"
+}

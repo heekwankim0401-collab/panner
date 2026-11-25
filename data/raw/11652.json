@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "This is about improving the editor's keyboard accessibility, along with projects (especially non-game applications) so they better match the OS behavior.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 2,
+  "createdAt": "2025-01-27T16:34:18Z",
+  "down": 0,
+  "labels": [
+    "platform:windows",
+    "topic:gui",
+    "usability"
+  ],
+  "milestone": null,
+  "number": 11652,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Allow incremental search (keyboard input) on focused OptionButton even if the popup isn't currently visible",
+  "up": 1,
+  "updatedAt": "2025-01-28T09:24:50Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/11652"
+}

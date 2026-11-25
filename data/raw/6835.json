@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "afaik there are no straightforward ways to set and load Shortcuts",
+    "format": "form",
+    "workaround": "no.\nIt seems the shortcuts are stored in `editor_settings-4.tres` but it also has other editor settings. I believe shortcuts should be in a separate file. Then you are able to change this file \"manually\", but I think doing it from Godot Editor would be more convenient."
+  },
+  "assignees": 0,
+  "closedAt": null,
+  "comments": 0,
+  "createdAt": "2023-05-08T19:03:14Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "topic:input"
+  ],
+  "milestone": null,
+  "number": 6835,
+  "state": "OPEN",
+  "stateReason": null,
+  "title": "Add an ability to save and load Editor Shortcuts",
+  "up": 0,
+  "updatedAt": "2023-05-08T21:17:39Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6835"
+}

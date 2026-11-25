@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "No. I'm trying to suggest a basic quality-of-life improvement for a specific scene tree behavior in the editor.",
+    "format": "form",
+    "workaround": "No."
+  },
+  "assignees": 0,
+  "closedAt": "2024-09-06T08:14:19Z",
+  "comments": 8,
+  "createdAt": "2022-09-15T16:53:51Z",
+  "down": 0,
+  "labels": [
+    "topic:editor"
+  ],
+  "milestone": "4.4",
+  "number": 5427,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Prevent changing node order when reparenting nodes",
+  "up": 0,
+  "updatedAt": "2024-09-06T08:14:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/5427"
+}

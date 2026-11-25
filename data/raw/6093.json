@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "core": "Simply because, there are a lot of code editors and forks of said code editors. And this means that it would be highly useful to allow for users to select the path to their code editor.",
+    "format": "form",
+    "workaround": "I don't know. Infact, I have not tried creating editor plugins yet!\nPlus it seems to be happening in compiled cpp files."
+  },
+  "assignees": 0,
+  "closedAt": "2023-01-14T00:14:55Z",
+  "comments": 3,
+  "createdAt": "2023-01-14T00:09:22Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:dotnet",
+    "topic:editor"
+  ],
+  "milestone": null,
+  "number": 6093,
+  "state": "CLOSED",
+  "stateReason": "NOT_PLANNED",
+  "title": "Allow for custom path to code editor",
+  "up": 0,
+  "updatedAt": "2023-01-14T00:26:44Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/6093"
+}

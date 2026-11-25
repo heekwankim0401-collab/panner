@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "core": "Because .obj already has this feature, so I feel it should be straightforward to implement it for GLTF formats, considering it is preferred format of many of the Godot projects as far as I know. This is a good QoL improvement for 3d asset workflow, that's why I think it should be included in the core.",
+    "format": "form",
+    "workaround": "I don't know that much about plugins but this requires either custom FileSystem panel or editing existing FileSystem with tricks, which I don't know if possible at all."
+  },
+  "assignees": 0,
+  "closedAt": "2023-07-05T16:05:18Z",
+  "comments": 3,
+  "createdAt": "2023-07-05T11:26:17Z",
+  "down": 0,
+  "labels": [
+    "archived",
+    "topic:3d",
+    "topic:editor",
+    "topic:import"
+  ],
+  "milestone": null,
+  "number": 7205,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Add thumbnails for imported 3D scenes to complement 3D mesh thumbnails",
+  "up": 2,
+  "updatedAt": "2023-07-05T16:05:32Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/7205"
+}

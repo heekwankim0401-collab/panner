@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "It's a feature many might expect already exists.",
+    "format": "form",
+    "workaround": "It will be used often."
+  },
+  "assignees": 0,
+  "closedAt": "2025-10-20T23:15:26Z",
+  "comments": 0,
+  "createdAt": "2025-08-13T10:44:44Z",
+  "down": 0,
+  "labels": [
+    "topic:animation",
+    "topic:editor"
+  ],
+  "milestone": "4.6",
+  "number": 12992,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow reconnecting AnimationNodeStateMachine transitions",
+  "up": 5,
+  "updatedAt": "2025-10-20T23:20:28Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12992"
+}

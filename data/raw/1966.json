@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "NavigationServer is already part of core.",
+    "format": "markdown",
+    "workaround": "Most of these issues cannot be worked around easily. The only alternative would be to make a new pathfinding system from scratch, or use a custom module."
+  },
+  "assignees": 0,
+  "closedAt": "2023-05-10T08:29:00Z",
+  "comments": 2,
+  "createdAt": "2020-12-10T12:22:42Z",
+  "down": 0,
+  "labels": [
+    "topic:navigation"
+  ],
+  "milestone": "4.1",
+  "number": 1966,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Improve Navigation with multiple agents",
+  "up": 11,
+  "updatedAt": "2023-05-10T08:29:00Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/1966"
+}

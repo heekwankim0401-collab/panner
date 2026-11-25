@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "core": "it's a core ux improvement",
+    "format": "form",
+    "workaround": "it would be used as often as noise textures, and can't be worked around"
+  },
+  "assignees": 0,
+  "closedAt": "2025-06-18T23:39:42Z",
+  "comments": 2,
+  "createdAt": "2024-04-02T02:04:07Z",
+  "down": 0,
+  "labels": [
+    "topic:editor",
+    "usability"
+  ],
+  "milestone": "4.5",
+  "number": 9432,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Reorder the properties of `NoiseTexture2D` in the inspector",
+  "up": 5,
+  "updatedAt": "2025-06-18T23:39:43Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/9432"
+}

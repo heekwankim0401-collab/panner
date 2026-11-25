@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "core": "An 'external' GDScript or C# implementation of this feature, as long as it uses and wraps the curent `NoiseTexture2D` would be suboptimal as its performance would be sub optimal as reasoned above.\n\nA C++ GDExtension implementation would most likely end up duplicating the `NoiseTexture2D` code only to add a relatively minor but fundamental change in the way the noise is sampled.",
+    "format": "form",
+    "workaround": "I can't think of a reasonable workaround, as per the \"Describe the problem\" section above. Lack of this feature forces a suboptimal path with architectural and performance implications."
+  },
+  "assignees": 0,
+  "closedAt": "2025-04-30T11:22:32Z",
+  "comments": 1,
+  "createdAt": "2025-04-22T09:10:18Z",
+  "down": 0,
+  "labels": [
+    "topic:core"
+  ],
+  "milestone": null,
+  "number": 12288,
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "title": "Allow x and y offsets to be set in NoiseTexture2D",
+  "up": 2,
+  "updatedAt": "2025-04-30T11:22:33Z",
+  "url": "https://github.com/godotengine/godot-proposals/issues/12288"
+}
