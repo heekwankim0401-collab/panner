@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(npm install *)",
+      "Bash(npm ci)",
+      "Bash(npx tsc *)",
+      "Bash(npx vitest *)",
+      "Bash(git status)",
+      "Bash(git diff *)",
+      "Bash(git log *)"
+    ],
+    "deny": [
+      "Bash(gh issue comment *)",
+      "Bash(gh issue create *)",
+      "Bash(gh api *)",
+      "PowerShell(gh issue comment *)",
+      "PowerShell(gh issue create *)",
+      "PowerShell(gh api *)"
+    ]
+  }
+}

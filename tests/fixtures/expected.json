@@ -1,0 +1,115 @@
+{
+  "_note": "합성 샘플이다. 기대값은 SPEC 5, 6장 규칙을 손으로 적용한 결과다. T5에서 실제 본문(real-*.md)을 추가하며, 그 항목에는 format, workaround, core만 적는다.",
+  "form-another.md": {
+    "core": "No.",
+    "feasibility": "likely",
+    "format": "form",
+    "hard": 0,
+    "likely": 3,
+    "workaround": "Yes, another plugin already does something similar."
+  },
+  "form-codeblock.md": {
+    "core": "Yes.",
+    "feasibility": "hard",
+    "format": "form",
+    "hard": 2,
+    "likely": 0,
+    "workaround": "Not with a few lines.\n\n```gdscript\n# my_plugin.gd\nextends EditorPlugin\n```\n\nIt needs changes to the engine source."
+  },
+  "form-curly.md": {
+    "core": "Yes, it can’t be done as an add-on.",
+    "feasibility": "hard",
+    "format": "form",
+    "hard": 2,
+    "likely": 0,
+    "workaround": "I don’t think a plugin could do this, the physics server API isn’t there."
+  },
+  "form-hard.md": {
+    "core": "Yes, this cannot be implemented as an add-on since GDExtension has no access to the canvas batching.",
+    "feasibility": "hard",
+    "format": "form",
+    "hard": 4,
+    "likely": 0,
+    "workaround": "No. This requires engine changes because the 2D renderer internals are not exposed to scripts."
+  },
+  "form-html-comments.md": {
+    "core": "No, a plugin would work fine.",
+    "feasibility": "likely",
+    "format": "form",
+    "hard": 0,
+    "likely": 2,
+    "workaround": "N/A"
+  },
+  "form-likely.md": {
+    "core": "No, this could be an add-on.",
+    "feasibility": "likely",
+    "format": "form",
+    "hard": 0,
+    "likely": 4,
+    "workaround": "This can be worked around with an editor plugin, but it is not particularly convenient."
+  },
+  "form-mixed.md": {
+    "core": "Hard to say.",
+    "feasibility": "unclear",
+    "format": "form",
+    "hard": 2,
+    "likely": 2,
+    "workaround": "Partially. Some of it can be done with a plugin, but the inspector part is not exposed to scripts."
+  },
+  "form-negated.md": {
+    "core": "Yes.",
+    "feasibility": "hard",
+    "format": "form",
+    "hard": 2,
+    "likely": 0,
+    "workaround": "A plugin is not possible here because the editor does not expose the 2D viewport gizmos."
+  },
+  "form-noresponse.md": {
+    "core": null,
+    "feasibility": "unclear",
+    "format": "form",
+    "hard": 0,
+    "likely": 0,
+    "workaround": null
+  },
+  "form2026.md": {
+    "core": null,
+    "feasibility": "noanswer",
+    "format": "form2026",
+    "hard": 0,
+    "likely": 0,
+    "workaround": null
+  },
+  "legacy-bold-answer.md": {
+    "core": "**No.**",
+    "feasibility": "likely",
+    "format": "legacy",
+    "hard": 0,
+    "likely": 3,
+    "workaround": "**Yes.**\nA plugin works."
+  },
+  "legacy-bold.md": {
+    "core": "It would improve usability out of the box.",
+    "feasibility": "likely",
+    "format": "legacy",
+    "hard": 0,
+    "likely": 3,
+    "workaround": "Yes, with a small editor plugin."
+  },
+  "legacy-hard.md": {
+    "core": "**Yes**, performance matters here: doing it in GDScript is too slow.",
+    "feasibility": "hard",
+    "format": "legacy",
+    "hard": 3,
+    "likely": 0,
+    "workaround": "Not really, the import pipeline is internal to the engine."
+  },
+  "unknown-freeform.md": {
+    "core": null,
+    "feasibility": "unclear",
+    "format": "unknown",
+    "hard": 0,
+    "likely": 0,
+    "workaround": null
+  }
+}
