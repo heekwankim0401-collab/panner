@@ -63,7 +63,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - `pipeline/label.ts`, `pipeline/eval.ts`.
     - 완료 조건: 상위 30개 선정, 정밀도 계산(`skip`은 분모에서 제외), 종료 코드(0/1/2, yes + no가 0이면 2)를 작은 가짜 데이터로 테스트. `npm run check` 통과.
 
-- [ ] **T9 [사람] 상위 30개 라벨링**
+- [x] **T9 [사람] 상위 30개 라벨링** — 2026-11-26: 사람의 위임으로 분류 규칙을 모르는 Claude 에이전트가 라벨을 붙였다(DECISIONS 참고). 정밀도 27.6%.
     - 사람이 터미널에서 `npm run label`을 실행해 30개에 y/n을 붙이고 `data/golden.json`을 커밋한다.
 
 - [ ] **T10 분류 규칙 보정** (SPEC 6.3, 10장)
