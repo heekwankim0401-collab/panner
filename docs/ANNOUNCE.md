@@ -1,13 +1,13 @@
 <!--
 고도 포럼(forum.godotengine.org) 소개 글 초안. 올리기 전에 할 일:
-- 링크 두 곳(사이트, 저장소)을 실제 주소로 바꾼다.
+- 사이트가 실제로 열리는지 확인한다.
 - 카테고리는 "Resources" 아래 "Tools" 같은 곳이 맞다. 포럼 규칙을 확인한다.
 - 숫자(제안 수, 정밀도)는 올리는 날 사이트 상단과 `npm run eval` 결과로 맞춘다.
 -->
 
 # Panner: find Godot proposals that could be add-ons
 
-**Site:** _(GitHub Pages URL)_ · **Source:** _(GitHub repository URL)_
+**Site:** https://heekwankim0401-collab.github.io/panner/ · **Source:** https://github.com/heekwankim0401-collab/panner
 
 Hi everyone,
 

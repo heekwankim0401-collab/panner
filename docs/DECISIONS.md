@@ -182,6 +182,36 @@
   - real-markdown-1874: `##` 제목과 `###` 소제목
   - real-form-2927: `##` 제목, 코드 블록, C 질문만 있음
 
+## T14 메인 후보 표 (2026-11-26)
+
+- 2026-11-26: `docs/CANDIDATES.md`를 만들었다.
+  - TASKS 문구 그대로 "기본 화면(likely)에서 archived를 먼저, 그다음 open을 점수순으로 20개"를 뽑았다.
+  - likely 중 archived가 98개라 20개가 모두 archived다. open 후보도 보고 싶으면 따로 뽑는다.
+  - 표 만드는 스크립트는 이 PC의 `local/t14-candidates.ts`다(일회성, 커밋하지 않음).
+- 2026-11-26: TASKS에 없는 "평가 라벨" 열을 더했다(`data/golden.json`의 yes/no/skip, 없으면 —). 분류기가 틀렸을 수 있는 후보를 먼저 거르는 데 쓴다. 20개 중 라벨이 있는 것은 4개다(모두 yes).
+- 2026-11-26: 확인 칸 6개는 TASKS대로 비워 두었다. 각 칸의 뜻과 채우는 법(O/X/?)은 문서 맨 위에 적었다.
+
+## T13 공개 (2026-11-26)
+
+- 2026-11-26: 공개 저장소는 https://github.com/heekwankim0401-collab/panner 이다. 사람의 승인을 받아 `gh repo create --public --push`로 만들었다. push 전에 추적 파일 12,337개에서 토큰 같은 비밀 정보를 찾아봤고 없었다.
+- 2026-11-26: 첫 push 뒤 CI는 성공했다. GitHub가 워크플로 문법을 받아들였고, v7 액션과 Linux에서도 check와 build가 통과한다는 뜻이다.
+- 2026-11-26: Weekly sync가 등록되지 않았다.
+  - 첫 push에 여러 커밋이 함께 올라갔고, `sync.yml`은 마지막 커밋이 아니라 그 전 커밋에서 추가됐다. 게다가 push 트리거가 없다.
+  - `sync.yml`을 고친 커밋(사이트 주소 주석)을 push하자 등록됐다.
+- 2026-11-26: 첫 Weekly sync 결과
+  - sync 작업은 성공했다. 12,250개를 수집했고 바뀐 것은 2개였다. 봇이 `data: weekly sync`(`6fd7fd7`)를 push했다.
+  - Linux에서 만든 JSON이 로컬 Windows에서 만든 것과 바이트까지 같아서, 바뀐 파일이 정말 바뀐 2개와 `state.json`뿐이었다.
+  - deploy 작업은 "Failed to create deployment (status: 404) … Ensure GitHub Pages has been enabled"로 실패했다. Pages 소스 설정을 사람이 확인한 뒤 실패한 job만 다시 돌린다.
+- 2026-11-26: README와 ANNOUNCE의 사이트 주소는 GitHub Pages 규칙(`https://<owner>.github.io/<repo>/`)으로 채웠다.
+- 2026-11-26: 배포 완료
+  - 사람이 Pages 소스를 GitHub Actions로 확인한 뒤, 실패한 deploy job만 다시 돌려(`gh run rerun --failed`) 성공했다.
+  - 브라우저 확인 결과
+    - https://heekwankim0401-collab.github.io/panner/ 에서 기본 화면이 뜬다(likely 340개, 1위 #4220).
+    - `/panner/` 하위 경로에서도 `data/index.json`과 `detail/*.json`을 제대로 불러온다.
+    - `?f=all&st=archived&sort=votes`가 그대로 적용된다(3,222개).
+    - 콘솔 오류가 없다.
+  - 화면의 "Last synced" 날짜는 UTC 기준이라, 한국 시간 오전 9시 전에 수집하면 하루 전 날짜로 보인다.
+
 ## T13 공개 준비 (2026-11-26)
 
 - 2026-11-26: README는 영어로 썼다. 내용은 무엇인지, 화면, 동작 방식, 점수 공식, 정확도, 한계, 데이터, 로컬 실행, 배포다.

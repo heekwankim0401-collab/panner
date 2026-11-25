@@ -4,8 +4,7 @@
 
 Panner collects every issue in [godotengine/godot-proposals](https://github.com/godotengine/godot-proposals), reads the authors' answers to the proposal template, and ranks the ones that look buildable as an add-on, plugin or GDExtension. It is meant for people looking for a useful add-on to build.
 
-<!-- After the first deployment, put the GitHub Pages URL here, e.g. https://OWNER.github.io/REPO/ -->
-Live site: _(GitHub Pages URL)_
+**Live site:** https://heekwankim0401-collab.github.io/panner/
 
 Panner is a community tool and is not affiliated with the Godot Engine project.
 
