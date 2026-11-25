@@ -1,0 +1,1 @@
+HDR support would be nice to have in the near future.

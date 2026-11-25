@@ -10,7 +10,15 @@ describe("fixture helpers", () => {
     const names = loadFixtures().map((fixture) => fixture.name);
     expect(names).toEqual(listBodyFiles());
     expect(names).toEqual(Object.keys(loadExpected()).sort());
-    expect(names).toHaveLength(14);
+    expect(names).toHaveLength(24); // 합성 14 + T5 실제 본문 10
+  });
+
+  it("keeps classification values out of real-* entries", () => {
+    const real = loadFixtures().filter((fixture) => fixture.name.startsWith("real-"));
+    expect(real).toHaveLength(10);
+    for (const { name, expected } of real) {
+      expect([expected.feasibility, expected.likely, expected.hard], name).toEqual([undefined, undefined, undefined]);
+    }
   });
 
   it("skips the _note key in expected.json", () => {

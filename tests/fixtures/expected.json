@@ -1,5 +1,5 @@
 {
-  "_note": "합성 샘플이다. 기대값은 SPEC 5, 6장 규칙을 손으로 적용한 결과다. T5에서 실제 본문(real-*.md)을 추가하며, 그 항목에는 format, workaround, core만 적는다.",
+  "_note": "real-*가 아닌 것은 합성 샘플이다. 기대값은 SPEC 5, 6장 규칙을 손으로 적용한 결과다. real-*.md는 T5에서 data/bodies의 실제 본문을 LF로 바꿔 넣은 것이고(파일 이름의 숫자가 제안 번호), 사람이 본문을 읽고 적은 format, workaround, core만 둔다. format은 extractAnswers가 돌려주는 값이라 markdown 시기 본문도 \"form\"이다.",
   "form-another.md": {
     "core": "No.",
     "feasibility": "likely",
@@ -103,6 +103,56 @@
     "hard": 3,
     "likely": 0,
     "workaround": "Not really, the import pipeline is internal to the engine."
+  },
+  "real-form2026-14499.md": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "real-form2026-15096.md": {
+    "core": null,
+    "format": "form2026",
+    "workaround": null
+  },
+  "real-legacy-1302.md": {
+    "core": "It's a core feature.",
+    "format": "legacy",
+    "workaround": "no"
+  },
+  "real-legacy-212.md": {
+    "core": "This feature can only be in the core because it's impossible to check currently if an image resource is locked or not.",
+    "format": "legacy",
+    "workaround": "Yes, but you would be sort of guessing when it's locked or not which can lead to some faulty code."
+  },
+  "real-legacy-876.md": {
+    "core": "Because it's a basic feature that would not change the engine but improve the UI",
+    "format": "legacy",
+    "workaround": null
+  },
+  "real-markdown-2194.md": {
+    "core": "Should be core",
+    "format": "form",
+    "workaround": "No"
+  },
+  "real-markdown-2752.md": {
+    "core": null,
+    "format": "form",
+    "workaround": "Can be implemented using script"
+  },
+  "real-markdown-2758.md": {
+    "core": "Could be GDNative.",
+    "format": "form",
+    "workaround": "PSD import code is the nightmare of more than a few people."
+  },
+  "real-unknown-1004.md": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
+  },
+  "real-unknown-10044.md": {
+    "core": null,
+    "format": "unknown",
+    "workaround": null
   },
   "unknown-freeform.md": {
     "core": null,

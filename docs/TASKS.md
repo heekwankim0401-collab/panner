@@ -37,7 +37,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - `--limit`일 때는 사라진 번호 검사를 하지 않는다(SPEC 4.2).
     - 완료 조건: `npm run check` 통과. 토큰이 있으면 `npm run sync -- --limit 100`을 실행해 (1) `data/raw`에 100개 생성, (2) 재실행 시 "변경 0", (3) `state.json`이 생기지 않음, (4) 쪽당 `rateLimit.cost`를 `docs/DECISIONS.md`에 기록. 그리고 커밋하지 않는 일회성 tsx 스크립트로 #15714를 한 번 조회해 `stateReason`이 `DUPLICATE`인지 확인하고 결과를 기록한다(`gh api`는 settings에서 막혀 있다).
 
-- [ ] **T5 [사람+Claude] 첫 전체 수집과 실제 샘플**
+- [x] **T5 [사람+Claude] 첫 전체 수집과 실제 샘플** — 2026-11-26: 통계 기록, 실제 샘플 10개 추가, 사람이 기대값 확인.
     - 선행 조건: `data/state.json`이 있고 `total`이 10,000 이상. 아니면 사람에게 아래 순서를 안내하고 멈춘다. 모두 `GITHUB_TOKEN`을 설정한 터미널에서 하고, 1과 2는 T4에서 미룬 실제 확인이다.
         1. ~~`npx tsx local/check-15714.ts`(이 PC의 `local/`에만 있음) — `DUPLICATE`가 아니면 멈추고, Claude가 SPEC 4.1 쿼리를 `stateReason(enableDuplicate: true)`로 바꾼 뒤 진행한다.~~ 2026-11-26 완료: `DUPLICATE`로 온다.
         2. ~~`npm run sync -- --limit 100`을 두 번 — `data/raw`에 100개가 생기고, 두 번째 실행은 "0 new, 0 changed", `state.json`은 생기지 않아야 한다.~~ 2026-11-26 완료: 쪽당 1점.
