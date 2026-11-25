@@ -31,14 +31,18 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - `pipeline/parse.ts`의 `extractAnswers`.
     - 완료 조건: 모든 픽스처의 `format`, `workaround`, `core`가 `expected.json`과 일치. **모든 픽스처를 `\r\n`으로 바꿔도 결과가 같다.** `_No response_`, HTML 주석, 굵은 답 줄(`**Yes.**`), 새 양식(`form2026`) 케이스 포함.
 
-- [ ] **T4 수집기** (SPEC 4장)
+- [x] **T4 수집기** (SPEC 4장) — 코드와 테스트 완료. 토큰이 없어 실제 수집 확인은 T5 첫 단계로 미뤘다.
     - `pipeline/github.ts`(쿼리, 재시도, rateLimit 대기), `pipeline/sync.ts`(응답 → `RawProposal` 변환, `createdAt`으로 `form`/`markdown` 구분, 바뀐 파일만 쓰기, `data/bodies` 쓰기, `--limit`, `--reparse`).
     - 응답 → `RawProposal` 변환은 순수 함수로 분리하고 가짜 GraphQL 응답으로 테스트한다(네트워크 없이). `createdAt < 2021-06-06`인 `form` 본문이 `markdown`으로 바뀌는 경우와 그 경계를 테스트에 넣는다.
     - `--limit`일 때는 사라진 번호 검사를 하지 않는다(SPEC 4.2).
     - 완료 조건: `npm run check` 통과. 토큰이 있으면 `npm run sync -- --limit 100`을 실행해 (1) `data/raw`에 100개 생성, (2) 재실행 시 "변경 0", (3) `state.json`이 생기지 않음, (4) 쪽당 `rateLimit.cost`를 `docs/DECISIONS.md`에 기록. 그리고 커밋하지 않는 일회성 tsx 스크립트로 #15714를 한 번 조회해 `stateReason`이 `DUPLICATE`인지 확인하고 결과를 기록한다(`gh api`는 settings에서 막혀 있다).
 
 - [ ] **T5 [사람+Claude] 첫 전체 수집과 실제 샘플**
-    - 선행 조건: `data/state.json`이 있고 `total`이 10,000 이상. 아니면 사람에게 "`GITHUB_TOKEN` 설정 후 `npm run sync` 실행, `data/` 커밋"을 안내하고 멈춘다.
+    - 선행 조건: `data/state.json`이 있고 `total`이 10,000 이상. 아니면 사람에게 아래 순서를 안내하고 멈춘다. 모두 `GITHUB_TOKEN`을 설정한 터미널에서 하고, 1과 2는 T4에서 미룬 실제 확인이다.
+        1. `npx tsx local/check-15714.ts`(이 PC의 `local/`에만 있음) — `DUPLICATE`가 아니면 멈추고, Claude가 SPEC 4.1 쿼리를 `stateReason(enableDuplicate: true)`로 바꾼 뒤 진행한다. 전체 수집을 두 번 하지 않으려고 먼저 본다.
+        2. `npm run sync -- --limit 100`을 두 번 — `data/raw`에 100개가 생기고, 두 번째 실행은 "0 new, 0 changed", `state.json`은 생기지 않아야 한다.
+        3. `npm run sync`(전체 수집) 후 `data/` 커밋.
+    - Claude: 1의 `stateReason`과 2의 쪽당 cost를 `docs/DECISIONS.md`에 기록한다.
     - Claude: SPEC 7장의 상태 판정 함수를 `pipeline/score.ts`에 먼저 만들고 표의 모든 행을 테스트한다(T7은 이것을 그대로 쓴다).
     - Claude: 일회성 스크립트로 시기(SPEC 5장 표)별 × `format`별 개수, 상태(SPEC 7장)별 개수, **archived 라벨 없이 `NOT_PLANNED`로 닫힌 제안 수**를 `docs/DECISIONS.md`에 기록한다. 시기와 `format`이 어긋나는 제안이 많으면 원인을 적는다. `NOT_PLANNED`만으로 닫힌 제안이 많으면 사람에게 상태 판정을 다시 볼지 묻는다.
     - Claude: `data/bodies`에서 `legacy`, `markdown`, `form2026`, `unknown` 실제 본문을 합쳐 10개 골라 `tests/fixtures/bodies/real-*.md`로 추가한다. 기대값은 `format`, `workaround`, `core`만 적는다(`feasibility`는 적지 않는다). `format`은 `extractAnswers`가 돌려주는 값이므로 `markdown` 시기 본문도 `"form"`으로 적는다(SPEC 5장 규칙 1). 사람에게 기대값을 확인받는다.
