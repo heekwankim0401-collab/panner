@@ -22,7 +22,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - `sync`, `label`, `eval`은 "not implemented"를 출력하고 종료 코드 1을 내는 자리표시자로 둔다.
     - 완료 조건: `npm run check` 통과(테스트 1개 이상), `npm run build`가 `dist/index.html`을 만들고 그 안의 자산 경로가 `./`로 시작한다.
 
-- [ ] **T2 타입과 픽스처 연결** (SPEC 4.3, 5, 6장)
+- [x] **T2 타입과 픽스처 연결** (SPEC 4.3, 5, 6장)
     - `pipeline/types.ts`에 `Format`, `Answers`, `RawProposal`, `Feasibility`, `Evidence`를 정의한다.
     - `tests/helpers.ts`: `tests/fixtures/expected.json`과 본문을 읽는 도우미. 본문을 `\r\n`으로 바꿔 주는 함수도 둔다(파일은 바꾸지 않는다).
     - 완료 조건: `npm run check` 통과.

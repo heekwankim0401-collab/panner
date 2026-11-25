@@ -76,3 +76,9 @@
 - 2026-11-25: tsconfig에 `strict`와 함께 `noUncheckedIndexedAccess`, `noFallthroughCasesInSwitch`를 켰다 — 배열·객체 인덱싱 결과가 `T | undefined`가 되어, 파서와 분류기에서 없는 줄이나 없는 키를 놓치지 않게 한다. 이후 작업은 인덱싱 결과를 확인하고 써야 한다.
 - 2026-11-25: 8장 `IndexFile` 타입은 T1에서 `pipeline/types.ts`에 먼저 두었다. 나머지 타입은 T2에서 더한다.
 - 2026-11-25: npm 11의 install-scripts 경고에서 esbuild의 postinstall은 승인하지 않았다 — 승인하지 않아도 tsx와 Vite가 정상 동작했다.
+
+## T2 타입과 픽스처 연결 (2026-11-25)
+
+- 2026-11-25: `tests/helpers.ts`의 `loadFixtures()`는 본문 파일과 `expected.json` 항목이 1:1로 맞지 않으면 바로 실패한다 — T5에서 `real-*` 샘플을 추가할 때 한쪽만 넣는 실수를 막는다. `_`로 시작하는 키(`_note`)는 설명이라 건너뛴다.
+- 2026-11-25: `toCrlf()`는 먼저 `\r\n`과 `\r`을 `\n`으로 맞춘 뒤 바꾼다 — 두 번 적용해도 `\r\r\n`이 생기지 않는다. 테스트는 픽스처 파일이 디스크에서 LF인지도 확인한다(`.gitattributes`가 깨지면 바로 드러난다).
+- 2026-11-25: 기대값에서 분류기 입력을 만드는 `answersOf()`를 미리 두었다 — T6 분류기 테스트가 파서를 거치지 않고 기대값의 답으로 바로 분류를 검사할 수 있다.
