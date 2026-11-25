@@ -58,6 +58,18 @@ export type IndexItem = {
   up: string; // updatedAt 날짜 YYYY-MM-DD (RawProposal.up = 👍 수와 이름만 같다)
 };
 
+/** `detail/<floor(n/100)>.json`의 제안 하나 (SPEC 8장). 답은 600자에서 자르고 `…`를 붙인다. */
+export type DetailEntry = {
+  w: string | null; // workaround 답
+  c: string | null; // core 답
+  ev: Evidence[];
+  url: string;
+  fmt: Format;
+};
+
+/** `detail/<floor(n/100)>.json` 한 파일. 키는 제안 번호. */
+export type DetailFile = Record<string, DetailEntry>;
+
 /** `web/public/data/index.json` (SPEC 8장) */
 export type IndexFile = {
   meta: { builtAt: string; lastSyncedAt: string | null; total: number; included: number };

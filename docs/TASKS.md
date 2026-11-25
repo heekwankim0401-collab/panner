@@ -54,7 +54,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
 
 ## 2주차
 
-- [ ] **T7 상태·점수와 화면용 데이터** (SPEC 7, 8장)
+- [x] **T7 상태·점수와 화면용 데이터** (SPEC 7, 8장)
     - `pipeline/score.ts`(상태 판정은 T5에서 만든 함수를 쓴다), `pipeline/build-data.ts` 완성.
     - 완료 조건: 상태 판정 표의 모든 행, wAddon 모든 값, 소수 둘째 자리까지 반올림에 대한 테스트 통과. `npm run build:data`가 `index.json`과 `detail/*.json`을 들여쓰기 없이 만들고 크기와 분류 분포를 출력.
 
