@@ -79,7 +79,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - `.github/workflows/ci.yml`, `.github/workflows/sync.yml`.
     - 완료 조건: `actionlint`가 있으면 통과. 없으면 YAML 파싱 결과와 SPEC 11장 항목별 대조표를 보여준다.
 
-- [ ] **T13 [사람+Claude] 공개**
+- [ ] **T13 [사람+Claude] 공개** — 2026-11-26: Claude 몫(README, LICENSE, ANNOUNCE 초안) 완료. 사람 몫(저장소 공개, Pages 설정, sync 수동 실행)과 배포 확인 대기.
     - Claude: 영어 `README.md`(무엇, 데이터 출처, 분류 방식, 한계: 2026-01-25 이후 제안은 답변 없음·archived에 무효와 옛 중복이 섞임·예약 실행 60일 규칙, 로컬 실행법), `LICENSE`(MIT), 고도 포럼 소개 글 초안 `docs/ANNOUNCE.md`.
     - 사람: 저장소 공개, Pages 소스를 GitHub Actions로 설정, 필요하면 `PANNER_TOKEN` 시크릿 등록, `sync` 워크플로 수동 실행.
     - 완료 조건: 배포된 페이지에서 기본 화면이 뜬다.
