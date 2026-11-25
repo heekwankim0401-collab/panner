@@ -27,7 +27,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - `tests/helpers.ts`: `tests/fixtures/expected.json`과 본문을 읽는 도우미. 본문을 `\r\n`으로 바꿔 주는 함수도 둔다(파일은 바꾸지 않는다).
     - 완료 조건: `npm run check` 통과.
 
-- [ ] **T3 양식 답변 파서** (SPEC 5장)
+- [x] **T3 양식 답변 파서** (SPEC 5장)
     - `pipeline/parse.ts`의 `extractAnswers`.
     - 완료 조건: 모든 픽스처의 `format`, `workaround`, `core`가 `expected.json`과 일치. **모든 픽스처를 `\r\n`으로 바꿔도 결과가 같다.** `_No response_`, HTML 주석, 굵은 답 줄(`**Yes.**`), 새 양식(`form2026`) 케이스 포함.
 
