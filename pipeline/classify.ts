@@ -6,11 +6,130 @@ export type { Evidence, Feasibility } from "./types";
 
 // ───────────────────────────── 규칙 표 (SPEC 6.2, 6.3, 6.4) ─────────────────────────────
 
-/** 애드온 단어 */
+/** 애드온 단어 (참고용. T10부터 W1/C2는 아래 "애드온으로 된다" 표현으로 찾는다) */
 export const ADDON_WORDS = ["plugin", "add-on", "addon", "gdextension", "asset library"] as const;
+
+/**
+ * "애드온으로 된다"는 표현 (W1, C2). T10: 애드온 단어가 주제로만 나오는 답("the plugin system",
+ * "writing an add-on")을 likely로 보지 않도록, 애드온 단어 앞뒤에 가능·수단을 뜻하는 말이 붙은 것만 센다.
+ */
+export const ADDON_POSSIBLE_PHRASES = [
+  // ~으로(as)
+  "as a plugin",
+  "as plugins",
+  "as an add-on",
+  "as add-ons",
+  "as an addon",
+  "as addons",
+  "as an editor plugin",
+  "as an editorplugin",
+  "as editorplugin",
+  "as a gdextension",
+  "as gdextension",
+  "as an extension",
+  "as a gdnative",
+  // ~이 될 수 있다(be)
+  "be a plugin",
+  "be an add-on",
+  "be an addon",
+  "be a gdextension",
+  // ~로(with, using, via, through, in)
+  "with a plugin",
+  "with plugins",
+  "with an add-on",
+  "with an addon",
+  "with addons",
+  "with an editor plugin",
+  "with an editorplugin",
+  "with a gdextension",
+  "with gdextension",
+  "with gdnative",
+  "using a plugin",
+  "using plugins",
+  "using an add-on",
+  "using an addon",
+  "using an editorplugin",
+  "using a gdextension",
+  "using gdextension",
+  "using a gdnative",
+  "using gdnative",
+  "via a plugin",
+  "via an add-on",
+  "via an addon",
+  "via gdextension",
+  "through a plugin",
+  "through an add-on",
+  "through an addon",
+  "through an editorplugin",
+  "in a plugin",
+  "in an add-on",
+  "in an addon",
+  "in an editor plugin",
+  "in a gdextension",
+  // 작은·간단한 플러그인으로 된다 (그냥 "editor plugin"은 주제로도 많이 나와서 T10 2차에서 뺐다)
+  "small plugin",
+  "small editor plugin",
+  "simple plugin",
+  "simple editor plugin",
+  // 애드온이 된다·한다
+  "plugin works",
+  "plugin would work",
+  "plugin can",
+  "plugin could",
+  "plugins can",
+  "plugins could",
+  "add-on can",
+  "add-on could",
+  "addon can",
+  "addon could",
+  "gdextension can",
+  "gdextension could",
+  // 이미 있다
+  "plugin already",
+  "plugins already",
+  "addon already",
+  "add-on already",
+  "existing plugin",
+  "existing addon",
+  "existing add-on",
+  "already a plugin",
+  "already an addon",
+  "already an add-on",
+  // 만들 애드온
+  "official add-on",
+  "official addon",
+  "official plugin",
+  "external plugin",
+] as const;
+
+/**
+ * 일부만 되거나 확신이 없다는 표현 (C4에만 hard로 더한다, T10).
+ * W 칸에서는 "No (except on Linux ...)"처럼 애드온과 상관없는 뜻으로도 자주 나와서 넣지 않는다.
+ */
+export const PARTIAL_OR_UNSURE_PHRASES = [
+  "except",
+  "some of",
+  "partially",
+  "not sure",
+  "unsure",
+  "maybe",
+  "would make it possible", // 아직 없는 기능이 생기면 된다
+] as const;
+
+/** 애드온으로는 모자라다는 표현: 동작하지 않거나 시제품까지만 된다 (W4, C4에 hard로 더한다, T10) */
+export const ADDON_FALLS_SHORT_PHRASES = [
+  "won't work",
+  "wouldn't work",
+  "will not work",
+  "would not work",
+  "doesn't work",
+  "does not work",
+  "prototyp",
+] as const;
 
 /** 부정 단어. 단어 단위로 찾는다(앞뒤가 영문자나 `'`가 아님). */
 export const NEGATION_WORDS = [
+  "no", // T10 2차: "there is no way ... using a plugin", "had no success ... with an addon"
   "not",
   "cannot",
   "can't",
@@ -48,7 +167,7 @@ export type Rule = {
 };
 
 export const RULES: readonly Rule[] = [
-  { id: "W1", field: "workaround", signal: "likely", weight: 2, phrases: ADDON_WORDS, negationFree: true },
+  { id: "W1", field: "workaround", signal: "likely", weight: 2, phrases: ADDON_POSSIBLE_PHRASES, negationFree: true },
   {
     id: "W2",
     field: "workaround",
@@ -74,11 +193,12 @@ export const RULES: readonly Rule[] = [
       "recompil",
       "c++",
       "source code",
+      ...ADDON_FALLS_SHORT_PHRASES,
     ],
   },
   { id: "W5", field: "workaround", signal: "hard", weight: 1, phrases: ["cannot", "can't", "not possible", "impossible"] },
   { id: "C1", field: "core", signal: "likely", weight: 1, starts: ["no", "not really"] },
-  { id: "C2", field: "core", signal: "likely", weight: 2, phrases: ADDON_WORDS, negationFree: true },
+  { id: "C2", field: "core", signal: "likely", weight: 2, phrases: ADDON_POSSIBLE_PHRASES, negationFree: true },
   {
     id: "C3",
     field: "core",
@@ -104,6 +224,8 @@ export const RULES: readonly Rule[] = [
       "internal",
       "performance",
       "source code",
+      ...ADDON_FALLS_SHORT_PHRASES,
+      ...PARTIAL_OR_UNSURE_PHRASES,
     ],
   },
 ];

@@ -182,6 +182,36 @@
   - real-markdown-1874: `##` 제목과 `###` 소제목
   - real-form-2927: `##` 제목, 코드 블록, C 질문만 있음
 
+## T10 분류 규칙 보정 (2026-11-26)
+
+- 2026-11-26: `classify.ts`의 규칙 표만 고쳤다. 특정 제안 번호에 맞춘 문구는 넣지 않았다. 합성 픽스처 14개의 기대값(feasibility, likely, hard)은 하나도 바꾸지 않고 통과한다.
+- 2026-11-26: 1차 보정
+  - **W1/C2:** 애드온 단어(`plugin`, `addon` 등)만 있으면 likely로 세던 것을, "애드온으로 된다"는 표현(`ADDON_POSSIBLE_PHRASES`: `as a plugin`, `be an add-on`, `with a plugin`, `plugin works`, `official add-on` 등)일 때만 세게 바꿨다. T9의 no 21개 중 약 9개가 플러그인 시스템 자체에 관한 제안이라, 애드온 단어가 주제로만 나왔다.
+  - **W4/C4:** "애드온으로는 모자라다"(`ADDON_FALLS_SHORT_PHRASES`: `won't work`, `prototyp` 등)를 더했다.
+  - **C4만:** "일부만·확신 없음"(`PARTIAL_OR_UNSURE_PHRASES`: `except`, `some of`, `not sure`, `maybe`)을 더했다. W 칸에는 넣지 않았다. "No (except on Linux using notify-send)"처럼 애드온과 상관없는 `except`가 W 칸에 자주 나와서다(#1338이 yes를 잃었다).
+- 2026-11-26: 2차 보정
+  - 그냥 `editor plugin`을 뺐다. 주제로도 많이 나와서다(#1858, #512, #10985). 합성 픽스처의 "with a small editor plugin"을 위해 `small plugin`, `small editor plugin`, `simple plugin`, `simple editor plugin`을 넣었다.
+  - 부정 단어에 `no`를 단어 단위로 더했다("there is no way … using a plugin", "had no success … with an addon", "there is no API that would make it possible … via an add-on").
+  - C4에 `partially`, `unsure`, `would make it possible`을 더했다.
+- 2026-11-26: 각 단계 결과. 새로 들어온 항목은 매번 분류 규칙을 모르는 에이전트가 번호, 제목, 두 답만 보고 붙였다.
+
+  | 단계 | 상위 30개 정밀도 | 그 단계에서 처음 라벨을 붙인 항목 |
+  | --- | --- | --- |
+  | 보정 전(T9) | 27.6% (8/29) | 30개 |
+  | 1차 뒤 | 60.0% (18/30) | 24개 중 yes 12 (50%) |
+  | 2차 뒤(최종) | **76.7% (23/30)** | 8개 중 yes 5 (62.5%) |
+
+- 2026-11-26: 한계
+  - 최종 상위 30개 중 22개는 규칙을 고칠 때 본 항목이다. 그래서 76.7%는 실제보다 높게 나왔을 수 있다. 보정에 쓰지 않은 마지막 8개만 보면 62.5%다. 표본이 작다.
+  - 남은 오분류(no인데 likely)의 유형
+    - 가정형: "having it as an add-on would be harder"(#487), "with an add-on would be problematic, if even possible"(#3971), "doing this with an add-on would require …"(#6606)
+    - 조건·추측: "might be … as a plugin, depending on …"(#1834), "could be an addon though"(#2094)
+    - 거절: "as an addon kind of defeats the purpose"(#7661)
+    - 핵심 기능이 생기면 애드온으로 할 수 있다는 말: #1167
+  - "애드온으로 되지만 성능·품질 때문에 본체가 낫다"는 yes 2개(#139, #1197)는 likely에서 빠졌다. C4의 `performance`, `source code`(2점)와 비긴다. 이 문구들의 가중치를 낮추면 합성 픽스처 `legacy-hard`의 기대값(hard 3)이 바뀌어서 그대로 뒀다.
+- 2026-11-26: 화면용 데이터의 likely는 1,072개에서 340개로 줄었다(open 242 + archived 98). 분류 분포는 open이 likely 242, unclear 4,482, hard 995, noanswer 864이고, archived가 likely 98, unclear 2,415, hard 537, noanswer 172다.
+- 2026-11-26: 라벨은 62개가 됐다(`data/golden.json`). 상위 30개에 안 드는 라벨도 남겨 둔다. 규칙이 바뀌어 다시 올라오면 그대로 쓴다. 항목별 이유는 이 PC의 `local/golden-reasons.json`에 있다(커밋하지 않음).
+
 ## T9 상위 30개 라벨링 (2026-11-26)
 
 - 2026-11-26: 라벨은 사람 대신 Claude 에이전트가 붙였다 — 사람이 직접 하기 어렵다며 위임했다("그냥 네가 하면 안돼?").

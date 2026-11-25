@@ -67,7 +67,8 @@ describe("word matching (6.2)", () => {
     expect(containsWord("nothing to see", "not")).toBe(false);
     expect(containsWord("it is not", "not")).toBe(true);
     expect(hasNegation("there is no way")).toBe(true);
-    expect(hasNegation("there is no wayland support")).toBe(false);
+    expect(hasNegation("there is no api for it")).toBe(true); // T10: "no"도 부정 단어
+    expect(hasNegation("node based nobody knows")).toBe(false);
     expect(hasNegation("i can't")).toBe(true);
   });
 
@@ -88,8 +89,8 @@ describe("rules (6.3)", () => {
   });
 
   it("caps likely and hard at 2 per cell", () => {
-    const result = classify(answers("Yes, it can be done with a plugin or an addon.", "No, an add-on gives usability."));
-    expect(rulesOf(answers("Yes, it can be done with a plugin or an addon.", "No, an add-on gives usability."))).toEqual([
+    const result = classify(answers("Yes, it can be done with a plugin or an addon.", "No, it could be an add-on for usability."));
+    expect(rulesOf(answers("Yes, it can be done with a plugin or an addon.", "No, it could be an add-on for usability."))).toEqual([
       "W1",
       "W2",
       "C1",
@@ -114,6 +115,44 @@ describe("rules (6.3)", () => {
 
   it("does not treat 'no' as a start inside 'node' or 'nobody'", () => {
     expect(rulesOf(answers("Node tools could help.", "Nobody knows."))).toEqual([]);
+  });
+
+  it("T10: an add-on word only as the topic does not count as likely", () => {
+    expect(rulesOf(answers("It changes how the plugin system loads addons.", "This is for writing an add-on."))).toEqual([]);
+    expect(classify(answers(null, "No. It improves the addon ecosystem.")).feasibility).toBe("unclear");
+    expect(rulesOf(answers("It changes the editor plugin API.", null))).toEqual([]);
+    expect(rulesOf(answers("Yes, with a small editor plugin.", null))).toEqual(["W1", "W2"]);
+  });
+
+  it("T10: 'no' negates a clause, so 'there is no way using a plugin' is not likely", () => {
+    expect(rulesOf(answers("There is no way to check it using a plugin.", null))).toEqual([]);
+    expect(rulesOf(answers(null, "No, it could be an add-on."))).toEqual(["C1", "C2"]); // 쉼표로 절이 갈린다
+  });
+
+  it("T10: add-on phrases that say it can be done still count", () => {
+    expect(rulesOf(answers("It could be done as a plugin.", "It will be an official add-on."))).toEqual(["W1", "C2"]);
+    expect(rulesOf(answers("A plugin already does this.", null))).toEqual(["W1"]);
+  });
+
+  it("T10: partial or unsure core answers count as hard, but not in the workaround cell", () => {
+    expect(rulesOf(answers(null, "Some of the points might be okay as plugins."))).toEqual(["C2", "C4"]);
+    expect(rulesOf(answers(null, "Maybe a plugin could do that."))).toEqual(["C2", "C4"]);
+    expect(rulesOf(answers("No (except on Linux).", null))).toEqual(["W3"]);
+  });
+
+  it("T10: 'only a prototype' or 'won't work' counts as hard in both cells", () => {
+    expect(rulesOf(answers("It could be prototyped as an addon.", "It can be prototyped in an addon."))).toEqual([
+      "W1",
+      "W4",
+      "C2",
+      "C4",
+    ]);
+    // "won't"가 있는 절이라 W1은 세지 않고, W4 "won't work"만 hard 2로 센다
+    expect(classify(answers("A custom container as an add-on won't work with every node.", null))).toMatchObject({
+      feasibility: "hard",
+      likely: 0,
+      hard: 2,
+    });
   });
 
   it("keeps every phrase and weight in the single RULES table", () => {
@@ -161,10 +200,10 @@ describe("evidence (6.5)", () => {
   it("records one item per row with the first phrase in table order", () => {
     const fixture = loadFixtures().find((f) => f.name === "form-likely.md")!;
     expect(classify(answersOf(fixture.expected)).evidence).toEqual([
-      { field: "workaround", rule: "W1", phrase: "plugin", at: "phrase", signal: "likely", weight: 2 },
+      { field: "workaround", rule: "W1", phrase: "with an editor plugin", at: "phrase", signal: "likely", weight: 2 },
       { field: "workaround", rule: "W2", phrase: "can be worked around", at: "phrase", signal: "likely", weight: 1 },
       { field: "core", rule: "C1", phrase: "no", at: "start", signal: "likely", weight: 1 },
-      { field: "core", rule: "C2", phrase: "add-on", at: "phrase", signal: "likely", weight: 2 },
+      { field: "core", rule: "C2", phrase: "be an add-on", at: "phrase", signal: "likely", weight: 2 },
     ]);
   });
 

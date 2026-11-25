@@ -183,7 +183,7 @@ export function classify(a: Answers): { feasibility: Feasibility; likely: number
 
 ### 6.2 찾는 방식
 
-- **부정 단어**(단어 단위로 찾음): `not`, `cannot`, `can't`, `don't`, `won't`, `couldn't`, `wouldn't`, `isn't`, `doesn't`, `impossible`, `unable`, `no way`. 단어 단위란 앞뒤가 영문자나 `'`가 아닌 경우다(`another`의 `not`은 부정이 아님).
+- **부정 단어**(단어 단위로 찾음): `no`(T10에서 더함), `not`, `cannot`, `can't`, `don't`, `won't`, `couldn't`, `wouldn't`, `isn't`, `doesn't`, `impossible`, `unable`, `no way`. 단어 단위란 앞뒤가 영문자나 `'`가 아닌 경우다(`another`의 `not`은 부정이 아님).
 - **시작 판정**(단어 단위): 전처리한 답 전체가 `yes` / `no` / `not really`로 시작하는가. `node`, `nobody`는 해당 안 됨.
 - **문구**: 나머지 문구는 부분 문자열로 찾는다.
 - **부정 없는 절**: likely 문구는 부정 단어가 없는 절에서 찾았을 때만 센다. hard 문구는 절과 상관없이 센다.
@@ -192,25 +192,32 @@ export function classify(a: Answers): { feasibility: Feasibility; likely: number
 
 각 행은 칸(W, C)마다 **한 번만** 더한다(문구가 여러 개 맞아도 그 행의 가중치는 한 번). 칸마다 likely 합과 hard 합은 각각 최대 2.
 
-애드온 단어: `plugin`, `add-on`, `addon`, `gdextension`, `asset library`
+**애드온 가능 표현**(T10에서 바꿈, 전체 목록은 `classify.ts`의 `ADDON_POSSIBLE_PHRASES`): 애드온 단어(`plugin`, `add-on`, `addon`, `editor plugin`, `editorplugin`, `gdextension`, `gdnative`, `extension`) 앞뒤에 가능이나 수단을 뜻하는 말이 붙은 것.
+- 예: `as a plugin`, `be an add-on`, `with a plugin`, `using a gdnative`, `via a plugin`, `through an editorplugin`, `in an addon`, `small plugin`, `plugin works`, `plugin could`, `plugin already`, `existing addon`, `official add-on`, `external plugin`.
+- 그냥 `editor plugin`은 넣지 않는다. "editor plugin API"처럼 주제로도 많이 나온다.
+- 애드온 단어만 주제로 나오는 답(`the plugin system`, `writing an add-on`, `addon ecosystem`)은 세지 않는다.
+
+**애드온으로는 모자란 표현**(`ADDON_FALLS_SHORT_PHRASES`): `won't work`, `wouldn't work`, `will not work`, `would not work`, `doesn't work`, `does not work`, `prototyp`
+
+**일부만·확신 없음 표현**(`PARTIAL_OR_UNSURE_PHRASES`, C 칸에만): `except`, `some of`, `partially`, `not sure`, `unsure`, `maybe`, `would make it possible`
 
 | 행 | 칸 | 조건 | 신호 | 가중치 |
 | --- | --- | --- | --- | --- |
-| W1 | W | 부정 없는 절에 애드온 단어 | likely | 2 |
+| W1 | W | 부정 없는 절에 애드온 가능 표현 | likely | 2 |
 | W2 | W | `yes`로 시작, 또는 부정 없는 절에 `can be worked around` / `can be done with` | likely | 1 |
 | W3 | W | `no` 또는 `not really`로 시작 | hard | 1 |
-| W4 | W | `not expose`, `requires engine`, `engine changes`, `engine source`, `engine code`, `core change`, `recompil`, `c++`, `source code` | hard | 2 |
+| W4 | W | `not expose`, `requires engine`, `engine changes`, `engine source`, `engine code`, `core change`, `recompil`, `c++`, `source code`, 애드온으로는 모자란 표현 | hard | 2 |
 | W5 | W | `cannot`, `can't`, `not possible`, `impossible` | hard | 1 |
 | C1 | C | `no` 또는 `not really`로 시작 | likely | 1 |
-| C2 | C | 부정 없는 절에 애드온 단어 | likely | 2 |
+| C2 | C | 부정 없는 절에 애드온 가능 표현 | likely | 2 |
 | C3 | C | 부정 없는 절에 `out of the box`, `usability`, `convenience`, `discoverab` | likely | 1 |
-| C4 | C | `cannot`, `can't`, `not possible`, `impossible`, `no way`, `not expose`, `requires engine`, `engine changes`, `internal`, `performance`, `source code` | hard | 2 |
+| C4 | C | `cannot`, `can't`, `not possible`, `impossible`, `no way`, `not expose`, `requires engine`, `engine changes`, `internal`, `performance`, `source code`, 애드온으로는 모자란 표현, 일부만·확신 없음 표현 | hard | 2 |
 
 W 칸은 "스크립트 몇 줄로 우회되나"를 묻는다. `no`는 "몇 줄로는 안 된다"일 뿐 애드온 불가가 아니므로 W3, W5는 가중치 1이다(혼자서는 hard가 되지 못한다).
 
 ### 6.4 판정
 
-`addonWord` = W1 또는 C2가 성립했는가.
+`addonWord` = W1 또는 C2가 성립했는가(애드온 가능 표현이 부정 없는 절에 있는가).
 
 1. `likely >= 2` 그리고 `likely > hard` 그리고 `addonWord` → `likely`
 2. `hard >= 2` 그리고 `hard > likely` → `hard`

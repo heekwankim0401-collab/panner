@@ -177,6 +177,6 @@ describe("label helpers", () => {
     expect(text).toContain("https://github.com/godotengine/godot-proposals/issues/134");
     expect(text).toContain("W: Yes, with a plugin.");
     expect(text).toContain("C: No.");
-    expect(text).toContain('evidence: W1 "plugin", W2 "yes", C1 "no"');
+    expect(text).toContain('evidence: W1 "with a plugin", W2 "yes", C1 "no"');
   });
 });

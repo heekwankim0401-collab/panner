@@ -134,7 +134,7 @@ describe("buildSite (SPEC 8)", () => {
       w: "Yes, with a plugin.",
       c: "No.",
       ev: [
-        { field: "workaround", rule: "W1", phrase: "plugin", at: "phrase", signal: "likely", weight: 2 },
+        { field: "workaround", rule: "W1", phrase: "with a plugin", at: "phrase", signal: "likely", weight: 2 },
         { field: "workaround", rule: "W2", phrase: "yes", at: "start", signal: "likely", weight: 1 },
         { field: "core", rule: "C1", phrase: "no", at: "start", signal: "likely", weight: 1 },
       ],

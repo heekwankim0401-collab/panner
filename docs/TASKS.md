@@ -66,7 +66,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
 - [x] **T9 [사람] 상위 30개 라벨링** — 2026-11-26: 사람의 위임으로 분류 규칙을 모르는 Claude 에이전트가 라벨을 붙였다(DECISIONS 참고). 정밀도 27.6%.
     - 사람이 터미널에서 `npm run label`을 실행해 30개에 y/n을 붙이고 `data/golden.json`을 커밋한다.
 
-- [ ] **T10 분류 규칙 보정** (SPEC 6.3, 10장)
+- [x] **T10 분류 규칙 보정** (SPEC 6.3, 10장) — 2026-11-26: 정밀도 27.6% → 76.7%(종료 코드 0). 새 라벨은 T9와 같은 방식(규칙을 모르는 에이전트)으로 붙였다.
     - `npm run eval`의 `no` 목록을 보고 `classify.ts`의 상수 표만 고친다. 고칠 때마다 픽스처 테스트가 깨지지 않게 한다. 특정 제안 번호에 맞춘 규칙은 금지.
     - 규칙을 바꿔 상위 30개에 새 항목이 들어오면 사람에게 `npm run label`을 다시 안내하고 멈춘다(종료 코드 2).
     - 완료 조건: `npm run eval` 정밀도 70% 이상(종료 코드 0), 고친 내용을 `docs/DECISIONS.md`에 기록.
