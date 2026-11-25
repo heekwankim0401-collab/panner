@@ -48,7 +48,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - Claude: `data/bodies`에서 `legacy`, `markdown`, `form2026`, `unknown` 실제 본문을 합쳐 10개 골라 `tests/fixtures/bodies/real-*.md`로 추가한다. 기대값은 `format`, `workaround`, `core`만 적는다(`feasibility`는 적지 않는다). `format`은 `extractAnswers`가 돌려주는 값이므로 `markdown` 시기 본문도 `"form"`으로 적는다(SPEC 5장 규칙 1). 사람에게 기대값을 확인받는다.
     - 완료 조건: 통계 기록, 실제 샘플 10개 추가, `npm run check` 통과.
 
-- [ ] **T6 분류기** (SPEC 6장)
+- [x] **T6 분류기** (SPEC 6장) — T5가 토큰 대기라 먼저 진행했다(T5 결과가 필요 없음).
     - `pipeline/classify.ts`. 문구와 가중치는 맨 위 상수 표 하나에.
     - 완료 조건: `feasibility`, `likely`, `hard` 기대값이 있는 모든 픽스처가 일치. 부정 단어 단위(`another`), 둥근 따옴표, 코드 블록 제거, 행당 한 번 가산 테스트 포함.
 
