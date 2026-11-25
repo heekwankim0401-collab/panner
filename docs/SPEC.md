@@ -30,7 +30,8 @@ panner/
   .gitattributes    # * text=auto eol=lf (Windows autocrlf에서도 줄 끝을 LF로 고정)
   docs/SPEC.md  docs/TASKS.md  docs/DECISIONS.md  docs/KICKOFF.md
   pipeline/
-    types.ts        # 공용 타입 (4.3, 5, 6장). Feasibility, Evidence도 여기 두고 classify.ts가 다시 내보낸다
+    types.ts        # 공용 타입 (4.3, 5, 6, 8장). Feasibility, Evidence도 여기 두고 classify.ts가 다시 내보낸다
+    io.ts           # 키 정렬 JSON(toDataJson/toWebJson), 바뀐 경우에만 쓰기(writeIfChanged), isMainModule. 파일 출력은 모두 이것을 쓴다
     github.ts       # GraphQL 클라이언트와 쿼리 (네트워크는 여기만)
     sync.ts         # 수집 → 파싱 → data/raw, data/bodies
     parse.ts        # 양식 답변 추출 (5장)
@@ -53,6 +54,8 @@ panner/
     state.json          # 마지막 전체 수집 정보, 커밋함
     golden.json         # 사람이 붙인 정밀도 라벨, 커밋함
   .github/workflows/ci.yml  .github/workflows/sync.yml
+  vite.config.ts    # root web/, base './', outDir ../dist
+  vitest.config.ts  # 테스트는 tests/**/*.test.ts (vite.config.ts의 root가 web/이라 따로 둔다)
 ```
 
 ## 4. 데이터 수집

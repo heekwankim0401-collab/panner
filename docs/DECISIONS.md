@@ -63,3 +63,16 @@
   - 그 저장소의 이슈와 PR에도 archived 관련 요청이 없다("archived" 검색 결과 0건).
   - GitHub에서 저장소를 "godot proposals"로 검색한 결과(16건)와 고도 포럼에서도 비슷한 도구는 없었다. 개별 제안을 플러그인으로 만든 저장소(예: SheepCommander/gd-SoloVisibility)만 있었다.
   - 레딧은 웹 검색과 브라우저 모두에서 막혀 확인하지 못했다.
+
+## T1 프로젝트 골격 (2026-11-25)
+
+- 2026-11-25: 설치 시점 버전 — Preact 11.2, TypeScript 7.0, Vite 8.3, Vitest 5.1, tsx 4.23, Node 24.20(로컬). `@octokit/graphql`은 T4에서 필요할 때 설치한다.
+- 2026-11-25: SPEC 2장에 없는 개발 의존성 두 개를 더했다.
+  - `@preact/preset-vite`: Vite에서 Preact JSX를 쓰는 공식 방법이다.
+  - `@types/node`: pipeline의 `fs`, `path` 타입이다.
+- 2026-11-25: `pipeline/io.ts`를 더했다(SPEC 3장에 없음). 키 정렬 JSON(`toDataJson`, `toWebJson`), 바뀐 경우에만 쓰기(`writeIfChanged`), 직접 실행 판별(`isMainModule`)을 모았다 — sync와 build-data가 같은 규칙으로 써야 한다. `isMainModule`은 Windows에서 드라이브 문자 대소문자가 달라도 맞게 비교한다.
+- 2026-11-25: `builtAt`은 바깥에서 받는다(`buildData({ now })`) — 시각이 들어가면 "같은 입력이면 같은 바이트"가 깨지므로, 같은 `now`면 같은 바이트가 나오게 했다. CLI는 현재 시각을 넘긴다.
+- 2026-11-25: `vitest.config.ts`를 따로 둔다 — `vite.config.ts`의 `root`가 `web/`이라 Vitest가 `tests/`를 찾지 못한다.
+- 2026-11-25: tsconfig에 `strict`와 함께 `noUncheckedIndexedAccess`, `noFallthroughCasesInSwitch`를 켰다 — 배열·객체 인덱싱 결과가 `T | undefined`가 되어, 파서와 분류기에서 없는 줄이나 없는 키를 놓치지 않게 한다. 이후 작업은 인덱싱 결과를 확인하고 써야 한다.
+- 2026-11-25: 8장 `IndexFile` 타입은 T1에서 `pipeline/types.ts`에 먼저 두었다. 나머지 타입은 T2에서 더한다.
+- 2026-11-25: npm 11의 install-scripts 경고에서 esbuild의 postinstall은 승인하지 않았다 — 승인하지 않아도 tsx와 Vite가 정상 동작했다.

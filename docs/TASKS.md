@@ -16,7 +16,7 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - GitHub, 고도 포럼, 레딧에서 비슷한 도구를 검색한다.
     - 완료 조건: 겹치는 도구가 없으면 진행. 있으면 그 도구에 기여하는 쪽으로 계획을 바꾼다. 결과를 `docs/DECISIONS.md`에 한 줄로 남긴다.
 
-- [ ] **T1 프로젝트 골격** (SPEC 2, 3, 8, 12장)
+- [x] **T1 프로젝트 골격** (SPEC 2, 3, 8, 12장)
     - `package.json`(12장 스크립트 전부), `tsconfig.json`(strict), Vitest, Vite + Preact(`web/`가 루트, `base: './'`, 출력 `dist/`), `.gitignore`(`node_modules`, `dist`, `web/public/data`, `data/bodies`). `.gitattributes`는 이미 있으니 그대로 둔다.
     - `build:data`는 자리표시자가 아니라 최소 구현으로 둔다: `data/raw`가 없거나 비어 있으면 `items: []`인 `web/public/data/index.json`을 쓴다(SPEC 8장, 들여쓰기 없음).
     - `sync`, `label`, `eval`은 "not implemented"를 출력하고 종료 코드 1을 내는 자리표시자로 둔다.
