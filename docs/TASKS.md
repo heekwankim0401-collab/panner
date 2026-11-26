@@ -84,6 +84,6 @@ Panner와 별개로 GitHub에서 `is:issue is:closed label:archived sort:reactio
     - 사람: 저장소 공개, Pages 소스를 GitHub Actions로 설정, 필요하면 `PANNER_TOKEN` 시크릿 등록, `sync` 워크플로 수동 실행.
     - 완료 조건: 배포된 페이지에서 기본 화면이 뜬다.
 
-- [ ] **T14 [사람+Claude] 메인 후보 선정** — 2026-11-26: Claude 몫(`docs/CANDIDATES.md` 20개) 완료. 사람이 확인 칸을 채우고 3개를 고르면 끝난다.
+- [ ] **T14 [사람+Claude] 메인 후보 선정** — 2026-11-26: Claude 몫(`docs/CANDIDATES.md` 20개) 완료. 사람의 요청으로 확인 칸 6개도 Claude 에이전트가 조사해 근거 링크와 함께 미리 채웠다. 사람이 확인하고 3개를 고르면 끝난다.
     - Claude: 기본 화면(likely)에서 archived를 먼저, 그다음 open을 score순으로 20개 뽑아 `docs/CANDIDATES.md` 표로 만든다. 열: 번호, 제목, 추천, 상태, 점수, 링크, 그리고 비워 둔 확인 칸 6개: 플러그인 API나 GDExtension으로 가능, 기존 애드온 없음, 담당자 없음, 로드맵에 없음, 닫힌 사유가 중복·무효 아님, 2~4주 안에 가능. 병행 읽기에서 적어 둔 후보도 같은 표에 합친다.
     - 사람: 확인 칸을 채우고 3개를 고른다.
