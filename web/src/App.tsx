@@ -6,6 +6,7 @@ import { Pager } from "./components/Pager";
 import { ProposalList } from "./components/ProposalList";
 import { useDetails } from "./details";
 import { applyChange, filterItems, pageItems, sortItems, type FilterState } from "./filter";
+import { localDay } from "./labels";
 import { fromQuery, toQuery } from "./url";
 
 type LoadState =
@@ -81,7 +82,15 @@ export function App() {
         </p>
         {index !== null && (
           <p class="stats">
-            Last synced {index.meta.lastSyncedAt?.slice(0, 10) ?? "never"} · {number(index.meta.included)} of{" "}
+            Last synced{" "}
+            {index.meta.lastSyncedAt === null ? (
+              "never"
+            ) : (
+              <time dateTime={index.meta.lastSyncedAt} title={index.meta.lastSyncedAt}>
+                {localDay(index.meta.lastSyncedAt) ?? "unknown"}
+              </time>
+            )}{" "}
+            · {number(index.meta.included)} of{" "}
             {number(index.meta.total)} proposals included · showing {number(filtered.length)}
           </p>
         )}
