@@ -144,6 +144,15 @@ export const NEGATION_WORDS = [
   "no way",
 ] as const;
 
+/**
+ * 조건·일부·난색 단어 (공개 후 보정). 부정 단어처럼 단어 단위로 찾고, 이 단어가 든 절에서는 likely 문구를 세지 않는다.
+ * - 조건: "if it is able to implement this with addons, please teach me"
+ * - 일부: "only the following one can be done with plugins"
+ * - 난색: "as an add-on would be harder / problematic / very complicated"
+ * hard로 더하지는 않는다(그 절의 likely만 막는다). "inconvenient", "tedious"처럼 "불편하지만 된다"는 말은 넣지 않는다.
+ */
+export const DOUBT_WORDS = ["if", "only", "harder", "problematic", "complicated"] as const;
+
 /** 칸(W, C)마다 likely 합과 hard 합의 최댓값 */
 export const CELL_CAP = 2;
 
@@ -189,6 +198,7 @@ export const RULES: readonly Rule[] = [
       "engine changes",
       "engine source",
       "engine code",
+      "modifying the engine",
       "core change",
       "recompil",
       "c++",
@@ -221,6 +231,7 @@ export const RULES: readonly Rule[] = [
       "not expose",
       "requires engine",
       "engine changes",
+      "modifying the engine",
       "internal",
       "performance",
       "source code",
@@ -280,6 +291,10 @@ export function hasNegation(clause: string): boolean {
   return NEGATION_WORDS.some((word) => containsWord(clause, word));
 }
 
+export function hasDoubt(clause: string): boolean {
+  return DOUBT_WORDS.some((word) => containsWord(clause, word));
+}
+
 // ───────────────────────────── 분류 (6.3 ~ 6.5) ─────────────────────────────
 
 export type Classification = { feasibility: Feasibility; likely: number; hard: number; evidence: Evidence[] };
@@ -291,7 +306,8 @@ function prepare(answer: string): PreparedAnswer {
   return {
     text,
     flat: text.replace(/\s+/g, " "), // hard 문구는 절과 상관없이 찾으므로 줄바꿈도 공백으로 본다
-    cleanClauses: splitClauses(text).filter((clause) => !hasNegation(clause)),
+    // likely 문구는 부정 단어도, 조건·일부·난색 단어도 없는 절에서만 센다
+    cleanClauses: splitClauses(text).filter((clause) => !hasNegation(clause) && !hasDoubt(clause)),
   };
 }
 

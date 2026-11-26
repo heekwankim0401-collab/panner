@@ -42,7 +42,7 @@ panner/
     eval.ts         # 정밀도 계산 (10장)
   web/              # Vite 루트
     index.html
-    src/            # main.tsx, App.tsx, filter.ts, url.ts, highlight.ts(근거 강조), details.ts(상세 캐시), labels.ts(UI 이름표), styles.css, components/
+    src/            # main.tsx, App.tsx, filter.ts, url.ts, highlight.ts(근거 강조), details.ts(상세 캐시), labels.ts(UI 이름표, 날짜 표시), styles.css, components/
     public/data/    # 생성물, gitignore
   tests/
     fixtures/bodies/*.md     # 제안 본문 샘플
@@ -184,9 +184,10 @@ export function classify(a: Answers): { feasibility: Feasibility; likely: number
 ### 6.2 찾는 방식
 
 - **부정 단어**(단어 단위로 찾음): `no`(T10에서 더함), `not`, `cannot`, `can't`, `don't`, `won't`, `couldn't`, `wouldn't`, `isn't`, `doesn't`, `impossible`, `unable`, `no way`. 단어 단위란 앞뒤가 영문자나 `'`가 아닌 경우다(`another`의 `not`은 부정이 아님).
+- **조건·일부·난색 단어**(단어 단위로 찾음, `DOUBT_WORDS`, 공개 후 보정에서 더함): `if`, `only`, `harder`, `problematic`, `complicated`. 이 단어가 든 절에서는 likely 문구를 세지 않는다. hard로 더하지는 않는다. `inconvenient`, `tedious`처럼 "불편하지만 된다"는 말은 넣지 않는다.
 - **시작 판정**(단어 단위): 전처리한 답 전체가 `yes` / `no` / `not really`로 시작하는가. `node`, `nobody`는 해당 안 됨.
 - **문구**: 나머지 문구는 부분 문자열로 찾는다.
-- **부정 없는 절**: likely 문구는 부정 단어가 없는 절에서 찾았을 때만 센다. hard 문구는 절과 상관없이 센다.
+- **부정 없는 절**: 부정 단어도, 조건·일부·난색 단어도 없는 절을 말한다. likely 문구는 이런 절에서 찾았을 때만 센다. hard 문구는 절과 상관없이 센다.
 
 ### 6.3 규칙 표
 
@@ -206,12 +207,12 @@ export function classify(a: Answers): { feasibility: Feasibility; likely: number
 | W1 | W | 부정 없는 절에 애드온 가능 표현 | likely | 2 |
 | W2 | W | `yes`로 시작, 또는 부정 없는 절에 `can be worked around` / `can be done with` | likely | 1 |
 | W3 | W | `no` 또는 `not really`로 시작 | hard | 1 |
-| W4 | W | `not expose`, `requires engine`, `engine changes`, `engine source`, `engine code`, `core change`, `recompil`, `c++`, `source code`, 애드온으로는 모자란 표현 | hard | 2 |
+| W4 | W | `not expose`, `requires engine`, `engine changes`, `engine source`, `engine code`, `modifying the engine`, `core change`, `recompil`, `c++`, `source code`, 애드온으로는 모자란 표현 | hard | 2 |
 | W5 | W | `cannot`, `can't`, `not possible`, `impossible` | hard | 1 |
 | C1 | C | `no` 또는 `not really`로 시작 | likely | 1 |
 | C2 | C | 부정 없는 절에 애드온 가능 표현 | likely | 2 |
 | C3 | C | 부정 없는 절에 `out of the box`, `usability`, `convenience`, `discoverab` | likely | 1 |
-| C4 | C | `cannot`, `can't`, `not possible`, `impossible`, `no way`, `not expose`, `requires engine`, `engine changes`, `internal`, `performance`, `source code`, 애드온으로는 모자란 표현, 일부만·확신 없음 표현 | hard | 2 |
+| C4 | C | `cannot`, `can't`, `not possible`, `impossible`, `no way`, `not expose`, `requires engine`, `engine changes`, `modifying the engine`, `internal`, `performance`, `source code`, 애드온으로는 모자란 표현, 일부만·확신 없음 표현 | hard | 2 |
 
 W 칸은 "스크립트 몇 줄로 우회되나"를 묻는다. `no`는 "몇 줄로는 안 된다"일 뿐 애드온 불가가 아니므로 W3, W5는 가중치 1이다(혼자서는 hard가 되지 못한다).
 
@@ -304,7 +305,7 @@ UI 문구는 영어(대상이 전 세계 고도 사용자). 한 페이지.
 - **URL 상태**: 모든 필터, 정렬, 페이지를 쿼리 문자열에 담는다(`history.replaceState`). 키 `q`, `f`, `st`, `lb`, `min`, `sort`, `p`. 기본값과 같은 값은 생략한다. `f=all`은 feasibility 필터 없음을 뜻한다. 다중 선택 값은 쉼표로 잇는다(`f=likely,unclear`). `lb`에는 라벨 **이름**을 쓴다(사전 인덱스는 매주 바뀌어 공유 링크가 깨진다).
 - **행**: 점수, 제목(GitHub 링크), 추천 수, 상태 배지, feasibility 배지, 담당자 배지(있을 때), 라벨 최대 3개.
 - **상세**: W, C 답변(잘린 것), `at: "phrase"` 근거 문구 강조(찾는 방법은 6.5), "Open on GitHub" 링크. `noanswer`면 "This proposal uses the template introduced on 2026-01-25, which has no add-on question." 안내.
-- 상단: 마지막 수집 날짜, 전체/포함/현재 표시 개수, 한계 안내 한 줄(분류는 작성자 답변 기반이며 2026-01-25 이후 제안은 답변이 없음).
+- 상단: 마지막 수집 날짜(보는 사람의 시간대 기준 YYYY-MM-DD), 전체/포함/현재 표시 개수, 한계 안내 한 줄(분류는 작성자 답변 기반이며 2026-01-25 이후 제안은 답변이 없음).
 - 키보드로 행 이동·펼치기, 필터에 `<label>`, 라이트/다크(`prefers-color-scheme`).
 - 필터·정렬·URL 변환은 `filter.ts`, `url.ts`의 순수 함수로 두고 테스트한다. 기본 화면의 필터·정렬 함수는 `pipeline/label.ts`, `eval.ts`도 가져다 쓴다(T8에서 먼저 만든다).
 

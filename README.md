@@ -23,7 +23,7 @@ Panner is a community tool and is not affiliated with the Godot Engine project.
 
    The parser reads the answers from every template version: issue forms, Markdown headings of any level and the older bold-text template.
 3. **Classify** (`pipeline/classify.ts`): a small rule table looks for phrases in those answers. It labels each proposal as one of four classes:
-   - **Likely add-on:** the author says it can be done as an add-on, for example "this could be an add-on" or "can be done with a plugin"
+   - **Likely add-on:** the author says it can be done as an add-on, for example "this could be an add-on" or "can be done with a plugin". Phrases in a negated, conditional or doubtful clause ("if …", "only …", "would be harder as an add-on") do not count.
    - **Hard as add-on:** the author says it needs engine changes, cannot be an add-on, or only partly can
    - **Unclear:** neither side wins
    - **No answer:** the proposal uses the 2026 template, which has no add-on question
@@ -44,8 +44,12 @@ Panner is a community tool and is not affiliated with the Godot Engine project.
 
 Precision is measured on the default view's top 30. Each proposal gets a label for one question: "did the author say this can be an add-on?" The labels were made by an AI agent that never saw the classification rules and read only the titles and answers.
 
-- Current precision is **76.7%** (23 of 30); see `npm run eval` and `data/golden.json`.
-- The rules were tuned on most of those 30, so the real precision is probably lower. On the 8 proposals not seen during tuning, it was 5 of 8.
+- Current precision is **86.7%** on the top 30 (26 of 30) and 83.3% on the top 60 (50 of 60); see `npm run eval` and `data/golden.json`.
+- The rules were tuned on most of those proposals, so the real precision is probably lower. Two checks on proposals the rules had not been tuned on:
+  - Before the last tuning round, ranks 31–60 scored 20 of 30 (66.7%).
+  - After it, the 7 proposals that newly entered the top 60 were all labeled yes.
+  - Of 15 proposals that the new "if" filter removed from the list, 12 were labeled no and 3 yes.
+- The samples are small, so treat these numbers as rough.
 
 ## Limitations
 

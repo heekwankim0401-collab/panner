@@ -30,7 +30,7 @@ Panner reads every author's answers to those two questions. It then lists the pr
 
 ## Please keep in mind
 
-- **It reads what the author wrote, not what is technically possible.** The label is a starting point, not a verdict. On the top 30 of the default view, about 3 in 4 really do say "this could be an add-on".
+- **It reads what the author wrote, not what is technically possible.** The label is a starting point, not a verdict. On the top 60 of the default view, about 4 in 5 really do say "this could be an add-on" (my own check, small sample).
 - **Proposals opened since 2026-01-25 have no add-on question** in their template, so they show as "No answer".
 - **"Archived" also contains invalid proposals and some old duplicates.** Read the issue thread before you start, and check whether someone already made the add-on.
 

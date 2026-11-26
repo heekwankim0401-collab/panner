@@ -182,6 +182,65 @@
   - real-markdown-1874: `##` 제목과 `###` 소제목
   - real-form-2927: `##` 제목, 코드 블록, C 질문만 있음
 
+## 공개 후 개선 (2026-11-26)
+
+- 2026-11-26: "Last synced" 날짜를 보는 사람의 시간대로 보여준다 — UTC로 자르면 한국 오전 9시 전 수집이 하루 전 날짜로 보였다.
+  - `web/src/labels.ts`의 `localDay(iso, timeZone?)`가 `Intl.DateTimeFormat(...).formatToParts`로 YYYY-MM-DD를 만든다. 로캘 기본 형식에 기대지 않는다.
+  - 시간대를 인자로 받아서 테스트가 실행 환경에 따라 달라지지 않는다(UTC, Asia/Seoul, America/Los_Angeles로 검사).
+  - 화면은 `<time datetime=...>`으로 감싸고 `title`에 원래 UTC 시각을 둔다.
+  - 행 상세의 "Updated" 날짜(`index.json`의 `up`)는 빌드 때 UTC로 자른 값이라 그대로다.
+- 2026-11-26: 규칙을 더 고치기 전에, 지금 규칙(T10 최종)의 정밀도를 한 번도 보지 않은 항목으로 쟀다.
+  - 기본 화면 31~60위 30개에 라벨을 붙였다. T9와 같은 안내문, 규칙을 모르는 에이전트, 번호순으로 섞은 입력이다. 세션 모델이 바뀌어서 라벨 에이전트는 이전 라운드와 같은 계열(opus)로 지정했다.
+  - 결과: **31~60위는 yes 20, no 10 → 66.7%**. 1~30위는 76.7%(23/30), 1~60위는 71.7%(43/60)다.
+  - 66.7%가 지금 규칙의 깨끗한 추정치다. 76.7%는 보정에 쓴 항목이 섞여 있어 높게 나온 것이 맞았다. 표본이 30개라 2개 차이는 구분하지 못한다.
+  - 라벨은 92개가 됐다(yes 45, no 46, skip 1). `eval`은 상위 30개 밖의 라벨을 무시하므로 SPEC 10장은 그대로다.
+- 2026-11-26: 31~60위가 70%에 못 미쳐서 규칙을 한 번 더 보정했다. 한 라운드만 했다.
+  - 방법: 후보 문구를 하나씩 임시로 넣어 보고 세 숫자를 봤다. 라벨 yes 중 likely로 남는 수, 라벨 no 중 likely로 남는 수, 전체 likely 수다. yes를 하나도 잃지 않고 일반적으로 설명되는 것만 골랐다.
+  - **넣은 것 1 — 조건·일부·난색 단어(`DOUBT_WORDS`): `if`, `only`, `harder`, `problematic`, `complicated`.** 이 단어가 든 절에서는 likely 문구를 세지 않는다. hard로 더하지는 않는다.
+    - 예: "if it is able to implement this with addons, please teach me", "only the following one can be done with plugins", "as an add-on would be harder / problematic / very complicated".
+    - 부정 단어 목록에 섞지 않고 따로 두었다. 뜻이 다르고, 나중에 따로 고치기 쉽다. 그래서 표만이 아니라 `hasDoubt` 함수와 절 걸러내기 한 줄이 더해졌다.
+  - **넣은 것 2 — W4/C4에 `modifying the engine`.** 기존 "엔진을 고쳐야 한다" 문구 묶음(`requires engine`, `engine changes` 등)의 연장이다.
+  - **넣지 않은 것**(yes 라벨과 충돌하거나, 한 항목에만 맞는 드문 문구)
+    - `would require`: "as an add-on would require …"(no)와 "would require a second workspace as a plugin"(yes)이 충돌한다.
+    - `defeats`: #7661(no)과 #923(yes)이 충돌한다.
+    - `rather than`은 yes 2개를, `depending`은 yes 1개를 잃는다.
+    - `must be core`, `insufficient`, `probably not`, `not make sense`, `too`: 각각 한 항목만 고치는 드문 문구라 넣지 않았다.
+  - 합성 픽스처 기대값은 바꾸지 않았다. 단위 테스트 4개를 더했다.
+- 2026-11-26: 보정 결과
+
+  | 구간 | 보정 전 | 보정 후 |
+  | --- | --- | --- |
+  | 1~30위 | 76.7% (23/30) | **86.7% (26/30)** |
+  | 31~60위 | 66.7% (20/30) | 80.0% (24/30) |
+  | 1~60위 | 71.7% (43/60) | 83.3% (50/60) |
+
+  - 보정 뒤 상위 60위에 새로 들어온 7개(규칙을 고칠 때 보지 않은 항목)는 7개 모두 yes였다.
+  - 라벨 yes 중 likely로 남은 것은 50/52다. 보정 전에도 빠져 있던 #139, #1197만 그대로 빠져 있고, 이번 보정으로 새로 잃은 yes는 없다. 라벨 no 중 likely는 17/46에서 10/46으로 줄었다.
+  - 화면의 likely는 340개에서 301개로 줄었다(open 210, archived 91). `if`가 가장 크게 줄였다(전체 제안 기준 441 → 403).
+  - 고른 3개(#2850, #5218, #1073)는 모두 likely로 남았다.
+- 2026-11-26: 이 숫자의 한계
+  - 상위 60개 중 53개는 규칙을 고칠 때 본 항목이다. 깨끗한 근거는 "보정 전 31~60위 20/30"과 "새로 들어온 7개 중 7개" 둘뿐이고, 둘 다 표본이 작다.
+  - 라벨러마다 기준이 조금 다르다. 예를 들어 "Maybe a plugin could …"는 한 번은 no(#1151), 한 번은 yes(#8944)였다. 남은 오분류 10개 중 상당수는 이런 경계선에 있다.
+  - 남은 오분류 10개: #1380, #1834, #3307, #6606, #6858, #7661, #9743, #11066, #11451, #13718.
+  - 남은 유형
+    - 앞 절의 조건이 뒤 절에 걸리는 경우: "if X had a signal, a plugin could …"(#1380), "even if it was possible, an addon could break …"(#6858)
+    - 제안 자체가 애드온을 가능하게 하는 것: #13718
+    - "would require …": #6606, #9743
+    - 거절: "defeats the purpose"(#7661), "would not make sense"(#3307), "too basic to be an addon"(#11066)
+    - 조건·추측: "might be … depending on …"(#1834)
+    - 플러그인으로 우회는 되지만 부족하다는 답: #11451
+- 2026-11-26: `if` 규칙의 검증. 결과를 보기 전에 기준부터 정했다.
+  - 문제: `if`는 화면의 likely를 332개에서 301개로 줄였는데(31개), 그중 라벨이 있는 것은 2개뿐이다(둘 다 no). "yes를 잃지 않았다"는 확인으로는 이 31개를 볼 수 없다.
+  - 방법: `if` 때문에 빠진 31개 중 라벨 없는 것을 점수 높은 순으로 15개 뽑아, 같은 방식으로 라벨을 붙인다.
+  - 기준: **yes가 15개 중 7개 이하일 때만 `if`를 유지한다.** 8개 이상이면 `if`는 정밀도를 올리지 못하고 목록만 줄이는 것이므로 뺀다. 비교 기준은 보정 전 31~60위의 20/30(66.7%)이다.
+  - 결과: **yes 3, no 12(20%). 기준에 따라 `if`를 유지한다.**
+    - no의 대부분은 가정이나 질문이었다: "if this could be implemented as an add-on", "if it does exist as an add-on, I'd like to know", "could be an addon if Godot provides a way to …".
+    - 잃은 yes 3개는 #5586, #8123, #10667이다. "even if it should be a GDExtension", "trying to determine if … should be an addon"처럼 `if`가 조건이 아닌 뜻으로 쓰였다.
+    - 이미 라벨이 있던 2개(#1167, #10973)까지 합치면 `if`로 빠진 31개 중 17개를 확인했고, yes 3개에 no 14개다.
+  - 이 15개의 라벨도 `data/golden.json`에 넣었다. 지금은 likely가 아니라서 `eval`에는 영향이 없고, 나중에 규칙을 고칠 때 쓴다.
+- 2026-11-26: `docs/CANDIDATES.md`의 후보 20개는 이번 보정 전에 뽑은 것이라 그대로 둔다. 지금 규칙으로는 20개 중 #504와 #374가 likely에서 빠진다(둘 다 조사에서 "플러그인 가능 X"였다).
+- 2026-11-26: 라벨은 114개가 됐다(yes 55, no 58, skip 1). 라벨 yes 55개 중 likely는 50개다. 빠진 5개는 #139, #1197(성능·소스 코드 문구와 비김)과 #5586, #8123, #10667(`if`)이다. 라벨 no 58개 중 likely는 10개다.
+
 ## T14 메인 후보 표 (2026-11-26)
 
 - 2026-11-26: `docs/CANDIDATES.md`를 만들었다.
@@ -225,7 +284,7 @@
     - `/panner/` 하위 경로에서도 `data/index.json`과 `detail/*.json`을 제대로 불러온다.
     - `?f=all&st=archived&sort=votes`가 그대로 적용된다(3,222개).
     - 콘솔 오류가 없다.
-  - 화면의 "Last synced" 날짜는 UTC 기준이라, 한국 시간 오전 9시 전에 수집하면 하루 전 날짜로 보인다.
+  - 화면의 "Last synced" 날짜는 UTC 기준이라, 한국 시간 오전 9시 전에 수집하면 하루 전 날짜로 보인다. → 2026-11-26에 보는 사람의 시간대로 바꿨다(아래 "공개 후 개선").
 
 ## T13 공개 준비 (2026-11-26)
 

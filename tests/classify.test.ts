@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import {
   classify,
   containsWord,
+  hasDoubt,
   hasNegation,
   preprocess,
   RULES,
@@ -153,6 +154,33 @@ describe("rules (6.3)", () => {
       likely: 0,
       hard: 2,
     });
+  });
+
+  it("a likely phrase in a clause with a doubt word (if, only, harder, problematic, complicated) does not count", () => {
+    expect(rulesOf(answers(null, "If it is able to implement this with addons, please teach me the way."))).toEqual([]);
+    expect(rulesOf(answers("Only the following one can be done with plugins: tabbed scripts.", null))).toEqual([]);
+    expect(rulesOf(answers(null, "Having it as an add-on would be harder to implement."))).toEqual([]);
+    expect(rulesOf(answers(null, "Doing the same with an add-on would be problematic."))).toEqual([]);
+    expect(rulesOf(answers(null, "It would be very complicated to add it as an add-on."))).toEqual([]);
+  });
+
+  it("a doubt word in another clause, or inside a longer word, does not block", () => {
+    expect(rulesOf(answers(null, "It could be an add-on, but only the core version would get used."))).toEqual(["C2"]);
+    expect(rulesOf(answers("It simplifies the lifetime handling and works as a plugin.", null))).toEqual(["W1"]);
+    expect(hasDoubt("if needed")).toBe(true);
+    expect(hasDoubt("a simplified lifetime")).toBe(false);
+  });
+
+  it("doubt words do not add hard points and 'inconvenient but works' still counts", () => {
+    expect(classify(answers(null, "Only a plugin could do it."))).toMatchObject({ likely: 0, hard: 0, feasibility: "unclear" });
+    expect(classify(answers("This can be worked around with an editor plugin, but it's much more tedious.", null)).feasibility).toBe("likely");
+  });
+
+  it("'modifying the engine' counts as hard in both cells", () => {
+    expect(rulesOf(answers("It will require modifying the engine.", "This most likely will require modifying the engine."))).toEqual([
+      "W4",
+      "C4",
+    ]);
   });
 
   it("keeps every phrase and weight in the single RULES table", () => {
