@@ -1,7 +1,7 @@
 <!--
 고도 포럼(forum.godotengine.org) 소개 글 초안. 올리기 전에 할 일:
 - 사이트가 실제로 열리는지 확인한다.
-- 카테고리는 "Resources" 아래 "Tools" 같은 곳이 맞다. 포럼 규칙을 확인한다.
+- 카테고리는 "Resources" 아래 "Plugins"(https://forum.godotengine.org/c/resources/plugins/21)다. 포럼 규칙을 확인한다.
 - 숫자(제안 수, 정밀도)는 올리는 날 사이트 상단과 `npm run eval` 결과로 맞춘다.
 - Shape SDF가 에셋 스토어에서 승인되면 "Already built from the list"에 스토어 링크를 더한다.
 - 애드온은 Claude Code의 도움으로 만들었다. 포럼에 AI 도움을 밝히라는 규칙이 있는지 확인한다.
