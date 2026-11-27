@@ -279,3 +279,16 @@ Calinou가 #3367로 통합하며 닫았고(사실상 중복), 이를 구현하�
 1. **#2850 Automatically select rename when creating a new node** — 확인 칸 6개 모두 O. 새 노드를 만들면 바로 이름 변경 상태로 들어가게 하는 작은 에디터 플러그인이다. 작성자도 몇 줄짜리 플러그인으로 된다고 했다. https://github.com/godotengine/godot-proposals/issues/2850
 2. **#5218 Provide signed distance functions (SDFs) for physics shapes/colliders** — O 5개, "기존 애드온 없음"만 `?`. 물리 형상마다 SDF 거리 질의를 주는 애드온이다(Quilez 거리 함수 기반). 시작 전에 겹치는 애드온(예: rsandfield/gravity)을 한 번 더 확인한다. https://github.com/godotengine/godot-proposals/issues/5218
 3. **#1073 Add (optional) visual marker to Debug builds to make them easy to identify** — O 5개. akien-mga의 godot-debug-watermark가 있지만 2020년 이후 갱신이 없어, Godot 4용으로 새로 만든다. https://github.com/godotengine/godot-proposals/issues/1073
+
+## 만든 결과
+
+2026-11-27 기준이다. 세 개 모두 Godot 4용 MIT 애드온으로 만들었고, Godot 4.2.2, 4.6.3, 4.7.2에서 테스트했다.
+
+| 제안 | 애드온 | GitHub | 에셋 라이브러리 | 에셋 스토어 |
+| --- | --- | --- | --- | --- |
+| #2850 | Rename on Create | [godot-rename-on-create](https://github.com/heekwankim0401-collab/godot-rename-on-create) | [5631](https://godotengine.org/asset-library/asset/5631) 승인 | [공개](https://store.godotengine.org/asset/khkhk/rename-on-create/) |
+| #1073 | Debug Watermark | [godot-debug-watermark](https://github.com/heekwankim0401-collab/godot-debug-watermark) | [5632](https://godotengine.org/asset-library/asset/5632) 승인 | [공개](https://store.godotengine.org/asset/khkhk/debug-watermark/) |
+| #5218 | Shape SDF | [godot-shape-sdf](https://github.com/heekwankim0401-collab/godot-shape-sdf) | [5633](https://godotengine.org/asset-library/asset/5633) 승인 | 검토 중 |
+
+- #5218은 시작 전에 겹치는 애드온을 다시 확인했다. 물리 형상의 부호 있는 거리, 가장 가까운 점, 법선을 돌려주는 범용 애드온은 없었다. 형상 주위 중력이라는 원래 동기만 기존 애드온 두 개가 다룬다.
+- #1073은 akien-mga의 Godot 3용 씬(Unlicense)에서 아이디어와 제안 토론만 참고했다. 코드는 가져오지 않고 Godot 4용으로 처음부터 새로 썼다.

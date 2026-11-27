@@ -3,6 +3,8 @@
 - 사이트가 실제로 열리는지 확인한다.
 - 카테고리는 "Resources" 아래 "Tools" 같은 곳이 맞다. 포럼 규칙을 확인한다.
 - 숫자(제안 수, 정밀도)는 올리는 날 사이트 상단과 `npm run eval` 결과로 맞춘다.
+- Shape SDF가 에셋 스토어에서 승인되면 "Already built from the list"에 스토어 링크를 더한다.
+- 애드온은 Claude Code의 도움으로 만들었다. 포럼에 AI 도움을 밝히라는 규칙이 있는지 확인한다.
 -->
 
 # Panner: find Godot proposals that could be add-ons
@@ -35,6 +37,14 @@ Panner reads every author's answers to those two questions. It then lists the pr
 - **"Archived" also contains invalid proposals and some old duplicates.** Read the issue thread before you start, and check whether someone already made the add-on.
 
 It is read-only: it never comments on or reacts to proposals.
+
+## Already built from the list
+
+To try Panner out, I picked three proposals from it and built them as add-ons for Godot 4. All three are MIT-licensed:
+
+- **Rename on Create** ([#2850](https://github.com/godotengine/godot-proposals/issues/2850)): a node you create opens straight into rename mode in the Scene dock. [Asset Library](https://godotengine.org/asset-library/asset/5631) · [Asset Store](https://store.godotengine.org/asset/khkhk/rename-on-create/) · [GitHub](https://github.com/heekwankim0401-collab/godot-rename-on-create)
+- **Debug Watermark** ([#1073](https://github.com/godotengine/godot-proposals/issues/1073)): shows a small "DEBUG" label in debug builds only. [Asset Library](https://godotengine.org/asset-library/asset/5632) · [Asset Store](https://store.godotengine.org/asset/khkhk/debug-watermark/) · [GitHub](https://github.com/heekwankim0401-collab/godot-debug-watermark)
+- **Shape SDF** ([#5218](https://github.com/godotengine/godot-proposals/issues/5218)): signed distance, closest point and normal for physics shapes in 2D and 3D. [Asset Library](https://godotengine.org/asset-library/asset/5633) · [GitHub](https://github.com/heekwankim0401-collab/godot-shape-sdf)
 
 ## Feedback welcome
 
