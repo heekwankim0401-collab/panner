@@ -1,4 +1,6 @@
 <!--
+2026-11-27: 포럼에 올리지 않기로 했다(이유는 docs/DECISIONS.md). 기록으로만 남긴다.
+
 고도 포럼(forum.godotengine.org) 소개 글 초안. 올리기 전에 할 일:
 - 사이트가 실제로 열리는지 확인한다.
 - 카테고리는 "Resources" 아래 "Plugins"(https://forum.godotengine.org/c/resources/plugins/21)다. 포럼 규칙을 확인한다.
