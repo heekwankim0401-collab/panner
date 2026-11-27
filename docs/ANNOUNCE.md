@@ -3,8 +3,13 @@
 - 사이트가 실제로 열리는지 확인한다.
 - 카테고리는 "Resources" 아래 "Plugins"(https://forum.godotengine.org/c/resources/plugins/21)다. 포럼 규칙을 확인한다.
 - 숫자(제안 수, 정밀도)는 올리는 날 사이트 상단과 `npm run eval` 결과로 맞춘다.
+  - 2026-11-27 확인: 사이트 정상. 12,250개 중 9,805개를 보여 준다. 상위 30개는 26/30, 상위 60개는 50/60이다.
+  - 상위 60개 중 53개는 분류 규칙을 고칠 때 본 항목이라 "about 4 in 5"는 후한 숫자다.
 - Shape SDF가 에셋 스토어에서 승인되면 "Already built from the list"에 스토어 링크를 더한다.
-- 애드온은 Claude Code의 도움으로 만들었다. 포럼에 AI 도움을 밝히라는 규칙이 있는지 확인한다.
+- Panner와 애드온은 Claude Code의 도움으로 만들었다. 2026-11-27 확인: 포럼 가이드라인(https://forum.godotengine.org/guidelines)의 Generative AI 항목은 AI가 만든 글과 코드를 올리지 말라고 한다. 밝히면 되는 규칙이 아니라 금지다.
+  - 이 초안은 Claude가 썼다. 그대로 올리지 않는다. 직접 쓴 글을 번역해 올리는 것은 가이드라인이 존중하는 쪽이다.
+  - AI 도움으로 만든 도구의 링크가 금지 대상인지는 가이드라인에 없다. 모더레이터 결정도 없다. ai-assisted 태그 토론(https://forum.godotengine.org/t/133979)에는 2026-11-24까지 모더레이터 글이 없고, 태그도 아직 없다.
+  - 올리려면 먼저 모더레이터 팀에 묻고 답을 기다린다(가이드라인 Self-Promotion 항목).
 -->
 
 # Panner: find Godot proposals that could be add-ons
